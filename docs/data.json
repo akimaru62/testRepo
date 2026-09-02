@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T01:27:11.946664+09:00",
+ "generated_at": "2026-09-03T01:38:59.634721+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,42 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "‘I feel tricked’: My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
+   "link": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
+   "summary": "“I specifically rejected Contractor A because of his reputation.”",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-03T01:30:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Auto & Transport Roundup: Market Talk",
+   "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-783ac503?mod=rss_markets_main",
+   "summary": "Find insight on Uber Technologies, Volkswagen, BMW and more in the latest Market Talks covering auto and transport.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-03T01:30:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Basic Materials Roundup: Market Talk",
+   "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-f39a0b1c?mod=rss_markets_main",
+   "summary": "Find insight on gold futures, Algoma Steel Group, palm oil and more in the latest Market Talks covering basic materials.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-03T01:30:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Financial Services Roundup: Market Talk",
+   "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-97117635?mod=rss_markets_main",
+   "summary": "Find insight on Islamic bonds, Adyen and more in the latest Market Talks covering financial services.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-03T01:27:00+09:00",
+   "lang": "en"
+  },
   {
    "title": "Here’s how much Americans rely on Social Security — at all income levels",
    "link": "https://www.marketwatch.com/story/heres-how-much-americans-rely-on-social-security-at-all-income-levels-3a767119?mod=mw_rss_topstories",
@@ -196,48 +232,12 @@
    "lang": "en"
   },
   {
-   "title": "How these Gen Z workers managed to buy homes in their early 20s",
-   "link": "https://www.marketwatch.com/story/how-these-homeowners-pulled-off-buying-a-house-in-their-early-20s-7b2baf84?mod=mw_rss_topstories",
-   "summary": "Despite typical first-time buyers navigating a challenging housing market in recent history, a growing number of young adults have been able to become homeowners.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-03T00:25:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Japan Activation Capital Pushing Companies to Take Risks, From Within",
-   "link": "https://www.wsj.com/pro/private-equity/japan-activation-capital-pushing-companies-to-take-risks-from-within-64e467db?mod=rss_markets_main",
-   "summary": "The firm, founded by former Carlyle Group partner Hiroyuki Otsuka, has invested in seven Tokyo-listed companies.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-02T23:37:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Gold, Silver Futures Recover Some Ground",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-mideast-conflict-stronger-dollar-5affb636?mod=rss_markets_main",
-   "summary": "Gold futures rose, making a modest recovery as oil prices retreated and Treasury yields pulled back from overnight highs.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-02T23:32:00+09:00",
-   "lang": "en"
-  },
-  {
    "title": "米財務長官「リフレ政策は止めるべきだ」アベノミクス評価しつつ注文",
    "link": "https://www.asahi.com/articles/ASV917HLWV91ULFA03QM.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-09-02T23:26:15+09:00"
-  },
-  {
-   "title": "Lingering Heat Supports U.S. Natural Gas Futures",
-   "link": "https://www.wsj.com/finance/commodities-futures/european-gas-at-highest-level-since-end-of-2022-on-u-s-iran-hostilities-f6d51d99?mod=rss_markets_main",
-   "summary": "U.S. natural gas futures were higher with hot weather across much of the country supporting power-sector demand.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-02T23:08:00+09:00",
-   "lang": "en"
   },
   {
    "title": "ベネズエラ事業拡大で合意　５年間で１．１兆円超投資―米シェブロン",
@@ -743,14 +743,6 @@
    "published": "2026-09-02T10:30:00+09:00"
   },
   {
-   "title": "アングル：米の対イラン海上封鎖、中国への原油輸出阻止で成果 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11UXBMMElJelVtd0YzTkNnbHl2MFd4QnNuRXdwQVF4ZS1ZeEJCWlFOZS1wZV8tTlJKRzllbEtDUjlWUjRRV2VfanQybERXMS14TXFQcnEyRG9nbzZha0IzTjNpVWhXTFM5MmJXYzRaanVIZFpXRGwxMnVZNUhKdw?oc=5",
-   "summary": "アングル：米の対イラン海上封鎖、中国への原油輸出阻止で成果&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-02T10:28:32+09:00"
-  },
-  {
    "title": "国庫短期証券（第1405回）の発行予定額等",
    "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20260902.htm",
    "summary": "",
@@ -805,6 +797,14 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-02T09:58:00+09:00"
+  },
+  {
+   "title": "アングル：米の対イラン海上封鎖、中国への原油輸出阻止で成果 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11UXBMMElJelVtd0YzTkNnbHl2MFd4QnNuRXdwQVF4ZS1ZeEJCWlFOZS1wZV8tTlJKRzllbEtDUjlWUjRRV2VfanQybERXMS14TXFQcnEyRG9nbzZha0IzTjNpVWhXTFM5MmJXYzRaanVIZFpXRGwxMnVZNUhKdw?oc=5",
+   "summary": "アングル：米の対イラン海上封鎖、中国への原油輸出阻止で成果&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-02T09:57:00+09:00"
   },
   {
    "title": "Pentagon chaos deepens after Driscoll quits in clash with Hegseth",
