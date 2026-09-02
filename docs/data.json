@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T21:35:41.191998+09:00",
+ "generated_at": "2026-09-02T21:53:22.045265+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,23 @@
  "errors": [],
  "items": [
   {
+   "title": "長期金利「3%突破」は異常か",
+   "link": "https://news.yahoo.co.jp/pickup/6594029?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-09-02T21:42:49+09:00"
+  },
+  {
+   "title": "America’s renter generation is trying to build wealth by investing in stocks instead of owning a house",
+   "link": "https://www.marketwatch.com/story/americas-renter-generation-is-trying-to-build-wealth-by-investing-in-stocks-instead-of-owning-a-house-c2f91799?mod=mw_rss_topstories",
+   "summary": "They have a new personal finance script they are following — that doesn’t include a white picket fence.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-02T21:40:00+09:00",
+   "lang": "en"
+  },
+  {
    "title": "Which workers are using AI surprisingly often? Dry cleaners and construction workers.",
    "link": "https://www.marketwatch.com/story/which-workers-are-using-ai-surprisingly-often-dry-cleaners-and-construction-workers-b0ea5655?mod=mw_rss_topstories",
    "summary": "The adoption of artificial intelligence at work has been widespread, but more “shallow” than expected — for now.",
@@ -97,6 +114,15 @@
    "lang": "en"
   },
   {
+   "title": "Uber to cut 10% of its global workforce",
+   "link": "https://www.ft.com/content/5eda86fe-1d2c-4a4e-9563-24a50aa734a4?syn-25a6b1a6=1",
+   "summary": "Group plans to axe 3,300 jobs as competition rises in food delivery sector and robotaxi race intensifies",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-02T21:25:04+09:00",
+   "lang": "en"
+  },
+  {
    "title": "ADP says businesses create the fewest new jobs in 7 months. Hiring slowed in the summer.",
    "link": "https://www.marketwatch.com/story/adp-says-businesses-create-the-fewest-new-jobs-in-7-months-hiring-slowed-in-the-summer-59291cd9?mod=mw_rss_topstories",
    "summary": "ADP said U.S. businesses created just 36,000 new jobs in august, a second small increase in a row that pointed to a slowdown in hiring during the summer.",
@@ -122,23 +148,6 @@
    "category": "海外金融",
    "published": "2026-09-02T21:12:09+09:00",
    "lang": "en"
-  },
-  {
-   "title": "Energy price surge hits bond markets as European gas reaches three-year high",
-   "link": "https://www.ft.com/content/f73c2c95-5c73-4b2f-9f00-9fa8c12c10c9?syn-25a6b1a6=1",
-   "summary": "US 10-year borrowing costs touch highest since 2023 as fears of return to full-blown Iran conflict rise",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-02T21:05:38+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "長期金利3%は異常か 3つの背景",
-   "link": "https://news.yahoo.co.jp/pickup/6594003?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-09-02T20:53:09+09:00"
   },
   {
    "title": "Europe Joins Global Bond Selloff as Middle East Hostilities Lift Oil Prices",
@@ -209,15 +218,6 @@
    "source": "CNBC",
    "category": "海外金融",
    "published": "2026-09-02T20:09:15+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Chevron outlines $7 billion plan to expand in Venezuela",
-   "link": "https://www.marketwatch.com/story/chevron-outlines-7-billion-plan-to-expand-in-venezuela-3cc5ef7c?mod=mw_rss_topstories",
-   "summary": "Chevron says it will expand its operations in Venezuela, following the Trump administration’s move for a Pentagon-backed plan to develop the country’s oil reserves.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-02T20:07:00+09:00",
    "lang": "en"
   },
   {
@@ -405,7 +405,7 @@
   },
   {
    "title": "日本銀行が保有する国債の銘柄別残高",
-   "link": "https://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260831.xlsx",
+   "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260831.xlsx",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
@@ -413,7 +413,7 @@
   },
   {
    "title": "日本銀行が受入れている担保の残高（8月末）",
-   "link": "https://www.boj.or.jp/statistics/boj/other/col/col2608.xlsx",
+   "link": "http://www.boj.or.jp/statistics/boj/other/col/col2608.xlsx",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
@@ -444,15 +444,6 @@
    "published": "2026-09-02T16:42:36+09:00"
   },
   {
-   "title": "US launches further strikes on Iran as conflict flares up",
-   "link": "https://www.ft.com/content/c557ccc2-9fe7-4725-8a1c-c40a0948e8d3?syn-25a6b1a6=1",
-   "summary": "Escalation pushes oil prices higher and sends Treasury yields to day’s highs as investors fret over new bout of inflation",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-02T16:35:21+09:00",
-   "lang": "en"
-  },
-  {
    "title": "３日からのガソリン補助金　リッター26.2円　7月分は800億円",
    "link": "https://www.asahi.com/articles/ASV922C4SV92ULFA014M.html?ref=rss",
    "summary": "",
@@ -462,7 +453,7 @@
   },
   {
    "title": "【挨拶】高田審議委員「わが国の経済・物価情勢と金融政策」（札幌）",
-   "link": "https://www.boj.or.jp/about/press/koen_2026/ko260902a.htm",
+   "link": "http://www.boj.or.jp/about/press/koen_2026/ko260902a.htm",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
@@ -692,7 +683,7 @@
    "summary": "ロシア経済、軍産複合体一辺倒なら「狂戦士」状態に＝大統領特使&nbsp;&nbsp;Reuters",
    "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-09-02T11:09:00+09:00"
+   "published": "2026-09-02T11:09:43+09:00"
   },
   {
    "title": "サボテンやアサガオの盆栽は存在する？ 世界のエリートは知っている｢盆栽｣と｢鉢植え｣の決定的な違い | ライフ | 東洋経済オンライン",
@@ -752,7 +743,7 @@
   },
   {
    "title": "営業毎旬報告（8月31日現在）",
-   "link": "https://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260831.htm",
+   "link": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac260831.htm",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
@@ -841,6 +832,15 @@
    "published": "2026-09-02T08:58:45+09:00"
   },
   {
+   "title": "China derails consensus after US-hosted G20",
+   "link": "https://www.ft.com/content/dcefdf76-9bac-4b34-80c2-eab80b559f53?syn-25a6b1a6=1",
+   "summary": "Beijing objects to language calling for elimination of ‘non-market’ policies to curb trade imbalances",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-02T08:57:17+09:00",
+   "lang": "en"
+  },
+  {
    "title": "植田日銀総裁、ベセント財務長官と有益な議論 「詳細はノーコメント」",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNUG9GZ2hEMGpnWEppOHhMdUFoalFVbHBSaFVSTTd1aDFqZzZPbkhFT0JGVEpIWXctUXh2alNfWk9ic0ZlWkdEdG5LQXVuSnA0SllBOFlVZlhXZkMxUXV6Z3pBejA2UjQ1YnJXMmxYNEhWSVp1Z2k1dg?oc=5",
    "summary": "植田日銀総裁、ベセント財務長官と有益な議論 「詳細はノーコメント」&nbsp;&nbsp;Reuters",
@@ -850,7 +850,7 @@
   },
   {
    "title": "マネタリーベース（8月）",
-   "link": "https://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
+   "link": "http://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
@@ -1012,14 +1012,6 @@
    "published": "2026-09-02T00:00:00+09:00"
   },
   {
-   "title": "米、週内にイラン銀行制裁発表の公算＝財務長官",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVUdNN1lUa3RZN3htQnIxajFNa0hUc28ySWRNQUtVOVpoTFh2T1lydFFSMjlBd2t5QlpzY3NUUlFIZEN0YU01b0piOEhlZzFkT19YVEtjRlZjWGpiS052cDZtSUpZYWN0UjFycEZlTU5uQllIdTlneW5wSVhCS1c1OHR3?oc=5",
-   "summary": "米、週内にイラン銀行制裁発表の公算＝財務長官&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-01T23:54:55+09:00"
-  },
-  {
    "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
    "link": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
    "summary": "The policymaker said he's concerned about \"broader price pressures taking hold\" as inflation has prevailed above the Fed's 2% target.",
@@ -1037,8 +1029,16 @@
    "published": "2026-09-01T23:00:00+09:00"
   },
   {
+   "title": "ＳＢエナジー、ＩＰＯ申請書類公開 エヌビディア15億ドル出資",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zRXdoWUFEX0FjNDA2UWZRek5MWDJfdTRwTTI1d0R6YTBVNVB0aUlrMklITlctSGpKem1HNVJwR2dTUk1CZUtWQUNHSG9Day0ybVRoT0dRb3RTZUZhc1lCd2xaZnctc3FzUnQzMzV3eU5UTW5uREE?oc=5",
+   "summary": "ＳＢエナジー、ＩＰＯ申請書類公開 エヌビディア15億ドル出資&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-01T21:19:01+09:00"
+  },
+  {
    "title": "金融安定理事会によるG20財務大臣・中央銀行総裁へのレターの公表について",
-   "link": "https://www.boj.or.jp/intl_finance/meeting/group/gro260901a.htm",
+   "link": "http://www.boj.or.jp/intl_finance/meeting/group/gro260901a.htm",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
@@ -1046,7 +1046,7 @@
   },
   {
    "title": "債券市場サーベイ（2026年8月調査）",
-   "link": "https://www.boj.or.jp/paym/bond/bond_list/bond2608.pdf",
+   "link": "http://www.boj.or.jp/paym/bond/bond_list/bond2608.pdf",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
@@ -1062,7 +1062,7 @@
   },
   {
    "title": "日銀当座預金増減要因と金融調節（8月実績）",
-   "link": "https://www.boj.or.jp/statistics/boj/fm/juqf/juqf08.xlsx",
+   "link": "http://www.boj.or.jp/statistics/boj/fm/juqf/juqf08.xlsx",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
@@ -1166,7 +1166,7 @@
   },
   {
    "title": "長期国債買入れ（利回り・価格入札方式）の四半期予定（2026年7～9月）［日程更新］",
-   "link": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260831a.pdf",
+   "link": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260831a.pdf",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
@@ -1174,7 +1174,7 @@
   },
   {
    "title": "令和8年8月27日からの大雨に伴う災害等に対する金融上の措置について（福井県）",
-   "link": "https://www.boj.or.jp/about/bcp/fso/fso260831a.pdf",
+   "link": "http://www.boj.or.jp/about/bcp/fso/fso260831a.pdf",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
@@ -1182,7 +1182,7 @@
   },
   {
    "title": "決済動向（7月）",
-   "link": "https://www.boj.or.jp/statistics/set/kess/release/2026/kess2607.pdf",
+   "link": "http://www.boj.or.jp/statistics/set/kess/release/2026/kess2607.pdf",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
@@ -1190,7 +1190,7 @@
   },
   {
    "title": "資金循環（日米欧比較）（2026年第1四半期）",
-   "link": "https://www.boj.or.jp/statistics/sj/sjhiq.pdf",
+   "link": "http://www.boj.or.jp/statistics/sj/sjhiq.pdf",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
@@ -1198,7 +1198,7 @@
   },
   {
    "title": "貸出約定平均金利（7月）",
-   "link": "https://www.boj.or.jp/statistics/dl/loan/yaku/yaku2607.pdf",
+   "link": "http://www.boj.or.jp/statistics/dl/loan/yaku/yaku2607.pdf",
    "summary": "",
    "source": "日本銀行",
    "category": "公的機関",
