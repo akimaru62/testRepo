@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T17:05:01.032290+09:00",
+ "generated_at": "2026-09-02T17:32:15.645875+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,32 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "Stock Market Today: Global Bonds Continue to Sell Off",
+   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-02-2026?mod=rss_markets_main",
+   "summary": "10-year Treasury yield heads for three-year high",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-02T17:23:21+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Europe Joins Global Bond Selloff as Middle East Hostilities Lift Oil Prices",
+   "link": "https://www.wsj.com/finance/investing/europe-joins-global-bond-selloff-as-middle-east-hostilities-lift-oil-prices-fca5d94a?mod=rss_markets_main",
+   "summary": "The 10-year Bund yields reached their highest since 2011 and yields on U.K. 10-year government bonds climbed to their highest level since 2007.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-02T17:17:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "長期金利、一時3.015%　中東情勢の緊迫受け30年ぶりの高水準",
+   "link": "https://www.asahi.com/articles/ASV92115FV92ULFA008M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-09-02T17:16:08+09:00"
+  },
   {
    "title": "日本銀行が保有する国債の銘柄別残高",
    "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260831.xlsx",
@@ -128,20 +154,12 @@
    "lang": "en"
   },
   {
-   "title": "ガソリン補助金、3～7月で計1兆円　7月だけで800億円を支出",
+   "title": "３日からのガソリン補助金　リッター26.2円　7月分は800億円",
    "link": "https://www.asahi.com/articles/ASV922C4SV92ULFA014M.html?ref=rss",
    "summary": "",
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-09-02T16:34:32+09:00"
-  },
-  {
-   "title": "長期金利、一時3.015%　中東情勢の緊迫受け30年ぶりの高水準",
-   "link": "https://www.asahi.com/articles/ASV92115FV92ULFA008M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-09-02T16:31:07+09:00"
   },
   {
    "title": "【挨拶】高田審議委員「わが国の経済・物価情勢と金融政策」（札幌）",
@@ -444,7 +462,7 @@
    "summary": "ロシア経済、軍産複合体一辺倒なら「狂戦士」状態に＝大統領特使&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-09-02T11:09:00+09:00"
+   "published": "2026-09-02T11:09:43+09:00"
   },
   {
    "title": "サボテンやアサガオの盆栽は存在する？ 世界のエリートは知っている｢盆栽｣と｢鉢植え｣の決定的な違い | ライフ | 東洋経済オンライン",
@@ -469,14 +487,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-09-02T10:30:00+09:00"
-  },
-  {
-   "title": "アングル：米の対イラン海上封鎖、中国への原油輸出阻止で成果 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11UXBMMElJelVtd0YzTkNnbHl2MFd4QnNuRXdwQVF4ZS1ZeEJCWlFOZS1wZV8tTlJKRzllbEtDUjlWUjRRV2VfanQybERXMS14TXFQcnEyRG9nbzZha0IzTjNpVWhXTFM5MmJXYzRaanVIZFpXRGwxMnVZNUhKdw?oc=5",
-   "summary": "アングル：米の対イラン海上封鎖、中国への原油輸出阻止で成果&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-02T10:28:32+09:00"
   },
   {
    "title": "Japan Vows to Keep Eye on Yen as Inflation Fears Rise",
@@ -568,7 +578,15 @@
    "summary": "米ゴープロ、光学メーカーのスターマンに株式90％売却へ 2.85億ドル&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-09-02T09:58:00+09:00"
+   "published": "2026-09-02T09:59:47+09:00"
+  },
+  {
+   "title": "アングル：米の対イラン海上封鎖、中国への原油輸出阻止で成果 - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11UXBMMElJelVtd0YzTkNnbHl2MFd4QnNuRXdwQVF4ZS1ZeEJCWlFOZS1wZV8tTlJKRzllbEtDUjlWUjRRV2VfanQybERXMS14TXFQcnEyRG9nbzZha0IzTjNpVWhXTFM5MmJXYzRaanVIZFpXRGwxMnVZNUhKdw?oc=5",
+   "summary": "アングル：米の対イラン海上封鎖、中国への原油輸出阻止で成果&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-02T09:57:00+09:00"
   },
   {
    "title": "声を出せない患者がメガネで語り始めた､沖縄の病院と札幌のゲーム会社がAIで変えた病室の会話 | ビジネス | 東洋経済オンライン",
@@ -708,15 +726,6 @@
    "published": "2026-09-02T08:50:00+09:00"
   },
   {
-   "title": "Oil Rises Amid Growing U.S.-Iran Hostilities",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-growing-u-s-iran-hostilities-e12fa4f2?mod=rss_markets_main",
-   "summary": "Oil rose in early Asian trade amid growing U.S.-Iran hostilities. The U.S. and Iran exchanged fire Tuesday as they continued to battle for control of the Strait of Hormuz.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-02T08:50:00+09:00",
-   "lang": "en"
-  },
-  {
    "title": "｢来週には大きな発表があり､驚異的なものになる｣…アップル新CEOが従業員向け初メッセージで伝えたこととは？ | 政治・経済・投資 | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/956583?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "アップル新CEOジョン･ターナス氏が従業員に初メッセージを送り､来週発表予定の｢驚異的｣なiPhoneと､まだ誰も想像していない未来の製品への期待感を示しました。",
@@ -823,16 +832,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-09-02T07:52:28+09:00"
-  },
-  {
-   "title": "売却中の債券を所有するためのガイド",
-   "link": "https://www.wsj.com/finance/investing/a-guide-to-owning-bonds-when-they-are-selling-off-be8e0a2b?mod=rss_markets_main",
-   "summary": "アドバイザーらは、世界的な債券市場の暴落にもかかわらず、債券は依然として分散ポートフォリオの中での地位を保っていると述べている。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-02T07:38:00+09:00",
-   "lang": "en",
-   "title_orig": "A Guide to Owning Bonds When They Are Selling Off"
   },
   {
    "title": "米財務長官、日銀に利上げ圧力 「健全な金融政策で為替急変動回避を」 - ロイター",
