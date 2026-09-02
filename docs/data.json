@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T09:09:44.549548+09:00",
+ "generated_at": "2026-09-02T09:58:07.244785+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,111 @@
  "errors": [],
  "items": [
   {
+   "title": "円連結。片山氏、上田氏のトレーダーズダイジェストコメント",
+   "link": "https://www.wsj.com/finance/currencies/yen-consolidates-traders-digest-remarks-from-katayama-ueda-70108fc2?mod=rss_markets_main",
+   "summary": "トレーダーらが片山財務大臣と上田日銀総裁の発言を消化する中、円は他のG10通貨やアジア通貨に対して堅調となった。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-02T09:45:00+09:00",
+   "lang": "en",
+   "title_orig": "Yen Consolidates; Traders Digest Remarks From Katayama, Ueda"
+  },
+  {
+   "title": "日経平均はチップ関連株に引っ張られ2.2％下落",
+   "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-2-dragged-by-chip-related-stocks-f002ef39?mod=rss_markets_main",
+   "summary": "イラン戦争とエネルギーコストの上昇に対する懸念が続く中、日本株は序盤の取引で下落した。",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-02T09:39:00+09:00",
+   "lang": "en",
+   "title_orig": "Nikkei Falls 2.2%, Dragged by Chip-Related Stocks"
+  },
+  {
+   "title": "声を出せない患者がメガネで語り始めた､沖縄の病院と札幌のゲーム会社がAIで変えた病室の会話 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/956274?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "病室で言葉を失った患者が､数分かかっていた意思疎通を数秒で実現できる新技術が登場。AI搭載のメガネ型デバイスが従来の50音表を進化させ､患者自身の思いをより早く､正確に伝えられるようになった。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-09-02T09:30:00+09:00"
+  },
+  {
+   "title": "国有財産に関する国会報告（令和7年度）",
+   "link": "https://www.mof.go.jp/policy/national_property/reference/houkoku/2025.html",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-09-02T09:30:00+09:00"
+  },
+  {
+   "title": "国債金利情報(令和8年9月1日)",
+   "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-09-02T09:30:00+09:00"
+  },
+  {
+   "title": "ソフトバンク「空飛ぶ基地局」実験に成功、国内初　災害時利用に期待",
+   "link": "https://www.asahi.com/articles/ASV9173YHV91ULFA003M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-09-02T09:20:12+09:00"
+  },
+  {
+   "title": "デルの AI サーバーが優れた収益パフォーマンスをもたらし、見通しの向上を実現",
+   "link": "https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories",
+   "summary": "The company’s backlog has reached $95 billion as demand accelerates for its AI servers",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-02T09:19:00+09:00",
+   "lang": "en",
+   "title_orig": "Dell’s AI servers drive a stellar earnings performance, and a raised outlook"
+  },
+  {
+   "title": "AIサイバーセキュリティの強い需要にもかかわらず、パロアルトネットワークスの株価は下落",
+   "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
+   "summary": "CEOのニケシュ・アローラ氏によれば、企業のサイバー脅威とAIの導入がパロアルトネットワークスに「永続的な追い風」を与えているが、株価は後退した",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-02T09:18:00+09:00",
+   "lang": "en",
+   "title_orig": "Palo Alto Networks’ stock falls despite strong AI cybersecurity demand"
+  },
+  {
+   "title": "G20財務相会議、今回も共同声明出さず閉幕　米長官「中国が反対」",
+   "link": "https://www.asahi.com/articles/ASV9200YFV92UHBI02MM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-09-02T09:17:30+09:00"
+  },
+  {
+   "title": "G20財務大臣・中央銀行総裁会議議長声明（仮訳）",
+   "link": "https://www.mof.go.jp/policy/international_policy/convention/g20/202609ja.pdf",
+   "summary": "",
+   "source": "財務省",
+   "category": "公的機関",
+   "published": "2026-09-02T09:15:00+09:00"
+  },
+  {
+   "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
+   "link": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
+   "summary": "The colorful \"Microduck\" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-09-02T09:11:14+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "AI大量失業時代へのビル・ゲイツ氏の秘策　「人間専用の職業を」",
+   "link": "https://www.asahi.com/articles/ASV8X2FNWV8XUHBI00VM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-09-02T09:00:00+09:00"
+  },
+  {
    "title": "｢高学歴のくせに仕事ができない｣は改善できるのか？ 周囲も驚くほど社会で活躍できるようになるおすすめの本5選 | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/955044?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "高学歴で｢頭はいいはずなのに､なぜか仕事がうまくいかない｣と感じていませんか？受験と仕事のルールの違いに戸惑い､努力の仕方が裏目に出てしまう人へ。プレッシャーに押しつぶされそうなあなたに､負のスパイ…",
@@ -69,13 +174,24 @@
    "published": "2026-09-02T09:00:00+09:00"
   },
   {
-   "title": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
+   "title": "「お金をテーブルの上に置いたままにしています」: 私は 64 歳、夫は 70 歳です。配偶者手当を受けるべきでしょうか、それとも自分の手当を待つべきでしょうか?",
    "link": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
-   "summary": "“I paid a significant amount into Social Security.”",
+   "summary": "「私は社会保障にかなりの金額を支払いました。」",
    "source": "MarketWatch",
    "category": "海外金融",
    "published": "2026-09-02T09:00:00+09:00",
-   "lang": "en"
+   "lang": "en",
+   "title_orig": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?"
+  },
+  {
+   "title": "米国主催のG20後、中国がコミュニケの合意を狂わせる",
+   "link": "https://www.ft.com/content/dcefdf76-9bac-4b34-80c2-eab80b559f53?syn-25a6b1a6=1",
+   "summary": "中国政府、貿易​​不均衡を抑制するための「非市場」政策の撤廃を求める文言に反対",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-02T08:57:17+09:00",
+   "lang": "en",
+   "title_orig": "China derails consensus on communiqué after US-hosted G20"
   },
   {
    "title": "マネタリーベース（8月）",
@@ -119,13 +235,14 @@
    "published": "2026-09-02T08:46:00+09:00"
   },
   {
-   "title": "Tim Cook to be paid $47mn as Apple’s executive chair",
+   "title": "ティム・クック氏、アップル取締役会長として4,700万ドルの報酬を受け取る",
    "link": "https://www.ft.com/content/8efaf87c-e5bf-4cfe-8403-16690ed4c265?syn-25a6b1a6=1",
    "summary": "Pay package signals big role for former CEO as his successor John Ternus gets $58mn",
    "source": "Financial Times",
    "category": "海外金融",
    "published": "2026-09-02T08:38:26+09:00",
-   "lang": "en"
+   "lang": "en",
+   "title_orig": "Tim Cook to be paid $47mn as Apple’s executive chair"
   },
   {
    "title": "どんなに快適な椅子であっても､筋肉を使わずにずっと座りっぱなしなら腰痛は避けられない | ライフ | 東洋経済オンライン",
@@ -161,6 +278,14 @@
    "lang": "en"
   },
   {
+   "title": "今日の株式見通し＝軟調を想定、金利上昇・原油急騰など環境悪化嫌気 - jp.reuters.com",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZmI3RlpzYXc0NHpuZ3dIbDlJQmh5Z3B0ek52NEJ3ZUM1RUhGX0dSWS1CNXhLM1MyYU51X0pJbjNLT1NPUlFTaVRXaFJPRk9kWVBiQnFfN3pSbEtPV3NBeGZabG9kZjhRSkVuMWpUNDlZdWlYSmZ2ZWsyRU0tUjJZNg?oc=5",
+   "summary": "今日の株式見通し＝軟調を想定、金利上昇・原油急騰など環境悪化嫌気&nbsp;&nbsp;jp.reuters.com",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-02T08:12:41+09:00"
+  },
+  {
    "title": "SK会長、キオクシアと共同生産「選択肢」　日本での工場建設も検討",
    "link": "https://www.asahi.com/articles/ASV913R1ZV91ULFA01FM.html?ref=rss",
    "summary": "",
@@ -193,20 +318,12 @@
    "published": "2026-09-02T08:00:00+09:00"
   },
   {
-   "title": "ゴールドマンなど21金融機関、ドル連動ステーブルコインを来年発行へ - ロイター",
+   "title": "ゴールドマンなど21金融機関、ドル連動ステーブルコインを来年発行へ - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4teW50a2pwazdqT3NZVGZfWmdqMDNlLW90WmJHdk5CVnFHVGVILXZlMENUMFJzQ3BxNm0xSFFLbjNuTVlybWJqZWhQQ0RwSExXMnM0Y3ByNVJfUXdNZWJxWE1CQ3Y5ZzZ4OS1sMEZZM2JTMDVydk5CRw?oc=5",
-   "summary": "ゴールドマンなど21金融機関、ドル連動ステーブルコインを来年発行へ&nbsp;&nbsp;ロイター",
+   "summary": "ゴールドマンなど21金融機関、ドル連動ステーブルコインを来年発行へ&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-02T07:57:17+09:00"
-  },
-  {
-   "title": "今日の株式見通し＝軟調を想定、金利上昇・原油急騰など環境悪化嫌気 - ロイター",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZmI3RlpzYXc0NHpuZ3dIbDlJQmh5Z3B0ek52NEJ3ZUM1RUhGX0dSWS1CNXhLM1MyYU51X0pJbjNLT1NPUlFTaVRXaFJPRk9kWVBiQnFfN3pSbEtPV3NBeGZabG9kZjhRSkVuMWpUNDlZdWlYSmZ2ZWsyRU0tUjJZNg?oc=5",
-   "summary": "今日の株式見通し＝軟調を想定、金利上昇・原油急騰など環境悪化嫌気&nbsp;&nbsp;ロイター",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-02T07:55:44+09:00"
   },
   {
    "title": "植田日銀総裁と会談、米財務長官「日本の断固とした措置を強く支持」",
@@ -225,13 +342,14 @@
    "published": "2026-09-02T07:46:56+09:00"
   },
   {
-   "title": "A Guide to Owning Bonds When They Are Selling Off",
+   "title": "売却中の債券を所有するためのガイド",
    "link": "https://www.wsj.com/finance/investing/a-guide-to-owning-bonds-when-they-are-selling-off-be8e0a2b?mod=rss_markets_main",
-   "summary": "Advisers say fixed income still has a place in a diversified portfolio, despite a global bond market rout.",
+   "summary": "アドバイザーらは、世界的な債券市場の暴落にもかかわらず、債券は依然として分散ポートフォリオの中での地位を保っていると述べている。",
    "source": "WSJ マーケット",
    "category": "海外金融",
    "published": "2026-09-02T07:38:00+09:00",
-   "lang": "en"
+   "lang": "en",
+   "title_orig": "A Guide to Owning Bonds When They Are Selling Off"
   },
   {
    "title": "【ビフォー･アフター】ハイエースにヤマハ｢パフォーマンスダンパー｣を自腹装着！走りの劇的変化をレビュー | ライフ | 東洋経済オンライン",
@@ -250,9 +368,9 @@
    "published": "2026-09-02T07:15:00+09:00"
   },
   {
-   "title": "米財務長官、日銀に利上げ圧力 「健全な金融政策で為替急変動回避を」 - ロイター",
+   "title": "米財務長官、日銀に利上げ圧力 「健全な金融政策で為替急変動回避を」 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CQ0FOdlFwY2tyVlpPZ09zbmpoQzNDb2NPYk9xN1JMYWJPRm1tRkFUZzVxU0QySjVSSV9WNWx0Y0o3QkJTTmpSRVdYNzlZRWdsZmpBeWoybUhrQmptTVdBTnZvUXR3aXM4QXBwVkN4cWR4R09RZ1lHeg?oc=5",
-   "summary": "米財務長官、日銀に利上げ圧力 「健全な金融政策で為替急変動回避を」&nbsp;&nbsp;ロイター",
+   "summary": "米財務長官、日銀に利上げ圧力 「健全な金融政策で為替急変動回避を」&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-02T07:04:07+09:00"
@@ -299,15 +417,6 @@
    "lang": "en"
   },
   {
-   "title": "Dell’s AI servers drive a stellar earnings performance, and a raised outlook",
-   "link": "https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories",
-   "summary": "The company’s backlog has reached $95 billion as demand accelerates for its AI servers",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-02T06:52:00+09:00",
-   "lang": "en"
-  },
-  {
    "title": "｢山崎18年を含めて3杯1900円｣｢実際に飲むと⋯涙が出そう｣　サントリーが運営≪山崎ウイスキー館≫訪れて見た衝撃の光景 | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/956379?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "山崎と山崎12年と山崎18年､3種類の高級ウイスキーを税込1900円で\"飲み比べする方法\"があるらしい⋯肉体派ライターが現地に飛んだ結果とは？",
@@ -322,15 +431,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-09-02T06:45:00+09:00"
-  },
-  {
-   "title": "Palo Alto Networks’ stock falls despite strong AI cybersecurity demand",
-   "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
-   "summary": "Enterprise cyber threats and AI adoption are giving Palo Alto Networks ‘durable tailwinds,’ according to CEO Nikesh Arora, but the stock retreated after an earnings beat",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-02T06:43:00+09:00",
-   "lang": "en"
   },
   {
    "title": "Opinion | Hurray for the Bond Market",
@@ -393,15 +493,6 @@
    "published": "2026-09-02T06:15:00+09:00"
   },
   {
-   "title": "China derails consensus on communiqué after US-hosted G20",
-   "link": "https://www.ft.com/content/dcefdf76-9bac-4b34-80c2-eab80b559f53?syn-25a6b1a6=1",
-   "summary": "Beijing objects to language calling for elimination of ‘non-market’ policies to curb trade imbalances",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-02T06:07:21+09:00",
-   "lang": "en"
-  },
-  {
    "title": "U.S. Stocks Fall as Oil, Bond Yields Spike, U.S.-Iran War Heats Up",
    "link": "https://www.wsj.com/finance/investing/u-s-stocks-fall-as-oil-bond-yields-spike-u-s-iran-war-heats-up-f87d48da?mod=rss_markets_main",
    "summary": "U.S. stocks fell for the third straight session as military strikes around the Strait of Hormuz caused a spike in oil futures and bond yields.",
@@ -411,9 +502,9 @@
    "lang": "en"
   },
   {
-   "title": "ＮＹ外為市場＝ドル上昇、米イラン緊張で原油高・インフレ懸念再燃 - ロイター",
+   "title": "ＮＹ外為市場＝ドル上昇、米イラン緊張で原油高・インフレ懸念再燃 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81Z1BOc0tZNjcwVHM3N01Oc1ZLZzZaMHdGcHVTV1VmR1lCR19WMmszbVdMRE1XQnR1a25kNzQzRWxpUThfQWdzWDVTYmRFdHpfRkM3bml1aU4yX1ZUUUVTdXdPRDJnbDlnQ0laWVM0a2pGdEQzaFEyWg?oc=5",
-   "summary": "ＮＹ外為市場＝ドル上昇、米イラン緊張で原油高・インフレ懸念再燃&nbsp;&nbsp;ロイター",
+   "summary": "ＮＹ外為市場＝ドル上昇、米イラン緊張で原油高・インフレ懸念再燃&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-02T06:02:52+09:00"
@@ -452,14 +543,6 @@
    "published": "2026-09-02T06:00:00+09:00"
   },
   {
-   "title": "｢使用に適さない｣警告無視し稼働継続･･･日本製紙の子会社で起きた11名死亡事故の背景にずさんな安全管理の疑い | ビジネス | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/956512?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "11名の命を奪ったアメリカの日本製紙子会社で起きた薬品タンク倒壊事故。背景にはずさんな安全管理があったと指摘されています。巨額訴訟や経営リスクを招く中､日本製紙のガバナンスが問われています。",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-09-02T06:00:00+09:00"
-  },
-  {
    "title": "なぜ韓国は世界でヒットを連発し、日本は540億円を溶かしたのか　「クールジャパン」の誤算",
    "link": "https://www.itmedia.co.jp/business/articles/2609/02/news016.html",
    "summary": "クールジャパン機構はなぜ、世界で勝てるアニメやマンガではなく、バイオベンチャーなどに巨額の公金を投じたのか。約540億円の累積赤字から、日本の産業政策の構造的な問題を読み解いてみると……。",
@@ -474,24 +557,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-09-02T06:00:00+09:00"
-  },
-  {
-   "title": "Auto & Transport Roundup: Market Talk",
-   "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-03b86ba8?mod=rss_markets_main",
-   "summary": "Find insight on MISC and more in the latest Market Talks covering auto and transport.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-02T05:58:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Basic Materials Roundup: Market Talk",
-   "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-b61615e5?mod=rss_markets_main",
-   "summary": "Find insight on gold futures, Air Liquide and more in the latest Market Talks covering basic materials.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-02T05:58:00+09:00",
-   "lang": "en"
   },
   {
    "title": "Stocks making the biggest moves after hours: Dell, MongoDB, GitLab and more",
@@ -520,9 +585,9 @@
    "published": "2026-09-02T05:30:00+09:00"
   },
   {
-   "title": "米ＩＳＭ製造業景気指数、8月は54.6に低下 投入価格高止まり - ロイター",
+   "title": "米ＩＳＭ製造業景気指数、8月は54.6に低下 投入価格高止まり - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU3RQZHVfNTFoNHlPMERMcUtUQURYNlNBUVdQQ09sWHJpN2NXU191eXBfbjgtRlZEai1EZnEyT1JnbTl1b2o0QU4wMlZqUDU2WTBraUdRS2w1QXJnNHNaNzVoNy1LZi1wZ21rUlpwOVItZ05FNjBBZ3VMRlFfSEplZA?oc=5",
-   "summary": "米ＩＳＭ製造業景気指数、8月は54.6に低下 投入価格高止まり&nbsp;&nbsp;ロイター",
+   "summary": "米ＩＳＭ製造業景気指数、8月は54.6に低下 投入価格高止まり&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-02T05:14:52+09:00"
@@ -632,9 +697,9 @@
    "published": "2026-09-02T00:00:00+09:00"
   },
   {
-   "title": "米、週内にイラン銀行制裁発表の公算＝財務長官 - ロイター",
+   "title": "米、週内にイラン銀行制裁発表の公算＝財務長官 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVUdNN1lUa3RZN3htQnIxajFNa0hUc28ySWRNQUtVOVpoTFh2T1lydFFSMjlBd2t5QlpzY3NUUlFIZEN0YU01b0piOEhlZzFkT19YVEtjRlZjWGpiS052cDZtSUpZYWN0UjFycEZlTU5uQllIdTlneW5wSVhCS1c1OHR3?oc=5",
-   "summary": "米、週内にイラン銀行制裁発表の公算＝財務長官&nbsp;&nbsp;ロイター",
+   "summary": "米、週内にイラン銀行制裁発表の公算＝財務長官&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-01T23:54:55+09:00"
@@ -681,9 +746,9 @@
    "published": "2026-09-01T22:04:11+09:00"
   },
   {
-   "title": "ＳＢエナジー、ＩＰＯ申請書類公開 エヌビディア15億ドル出資 - ロイター",
+   "title": "ＳＢエナジー、ＩＰＯ申請書類公開 エヌビディア15億ドル出資 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zRXdoWUFEX0FjNDA2UWZRek5MWDJfdTRwTTI1d0R6YTBVNVB0aUlrMklITlctSGpKem1HNVJwR2dTUk1CZUtWQUNHSG9Day0ybVRoT0dRb3RTZUZhc1lCd2xaZnctc3FzUnQzMzV3eU5UTW5uREE?oc=5",
-   "summary": "ＳＢエナジー、ＩＰＯ申請書類公開 エヌビディア15億ドル出資&nbsp;&nbsp;ロイター",
+   "summary": "ＳＢエナジー、ＩＰＯ申請書類公開 エヌビディア15億ドル出資&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-01T21:19:01+09:00"
@@ -697,9 +762,9 @@
    "published": "2026-09-01T20:54:02+09:00"
   },
   {
-   "title": "ホルムズ海峡でタンカー２隻に飛翔体、サウジ原油積載 - ロイター",
+   "title": "ホルムズ海峡でタンカー２隻に飛翔体、サウジ原油積載 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DTm1YRE01d1RRUzJrQzV4SUxUVE41UnBrVGRaOVhublIxZnA4djRtcHMwY0NiOWtad2xPOXh6RmhxOFFrZVZSSFVxcTN5T3k2aE9iWVRXV1pQbGJIUDRPT2oyNXM2QVZiUGlhTGN6SDViQXBfdWdzcEhB?oc=5",
-   "summary": "ホルムズ海峡でタンカー２隻に飛翔体、サウジ原油積載&nbsp;&nbsp;ロイター",
+   "summary": "ホルムズ海峡でタンカー２隻に飛翔体、サウジ原油積載&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-01T20:50:40+09:00"
@@ -738,9 +803,9 @@
    "published": "2026-09-01T20:24:02+09:00"
   },
   {
-   "title": "トランプ氏のカナダ関税と「アメリカ湖」改称、過半数が反対＝調査 - ロイター",
+   "title": "トランプ氏のカナダ関税と「アメリカ湖」改称、過半数が反対＝調査 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmQ0plaG9QZTdNTnZRZkNqa3MtempHdVRMOGtDUFVBYUxUcWY0N2o0b1h1LWtsMHV3SkxsUW9PUUFYbVhrd2JtRWhKRWRDZ25IbDVnV0c3WDJfUzMxM3VjaXRUYnd4RFJkX1JiYkdHdzdWUGNBVmpwektB?oc=5",
-   "summary": "トランプ氏のカナダ関税と「アメリカ湖」改称、過半数が反対＝調査&nbsp;&nbsp;ロイター",
+   "summary": "トランプ氏のカナダ関税と「アメリカ湖」改称、過半数が反対＝調査&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-01T19:03:51+09:00"
@@ -762,41 +827,17 @@
    "published": "2026-09-01T18:30:00+09:00"
   },
   {
-   "title": "キユーピー、マヨネーズなど家庭用商品値上げ 11月出荷分から - ロイター",
+   "title": "キユーピー、マヨネーズなど家庭用商品値上げ 11月出荷分から - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUzctUjFGcVJNQUZnLWVnY2tDSDNrQTJhczRhdXowc3h2UVhoLXdFOElkVTVOczVyWWNmZkd6dzhwX3ZnWkxpMHd0T0RiQTlfZ05XMlRvMExLbFotblVMbjJ3NTJsM0xJNmpWWnhsQmcwRE12T25KT19uNXRtQTV2cg?oc=5",
-   "summary": "キユーピー、マヨネーズなど家庭用商品値上げ 11月出荷分から&nbsp;&nbsp;ロイター",
+   "summary": "キユーピー、マヨネーズなど家庭用商品値上げ 11月出荷分から&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-01T18:27:43+09:00"
   },
   {
-   "title": "備蓄米21万トンを買い戻しへ　鈴木農相が表明　月内に手続き開始",
-   "link": "https://www.asahi.com/articles/ASV910QX2V91ULFA00GM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-09-01T18:26:07+09:00"
-  },
-  {
-   "title": "金利3%、上昇は今後も続くのか　高市財政への影響は　識者に聞く",
-   "link": "https://www.asahi.com/articles/ASV912V57V91ULFA01VM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-09-01T18:09:26+09:00"
-  },
-  {
-   "title": "備蓄米買い戻しは妥当？　「当然」「失敗の埋め合わせ」割れる見方",
-   "link": "https://www.asahi.com/articles/ASV9126M9V91ULFA010M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-09-01T18:00:00+09:00"
-  },
-  {
-   "title": "長期金利が3.005％に上昇、30年ぶり高水準更新 - ロイター",
+   "title": "長期金利が3.005％に上昇、30年ぶり高水準更新 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mMjFsQnkwWUlmZVJ1b0VLWm1BR0xuN19zTlk4RS1vcWc1bzREVnZOV3RKa2F0VllLYWlNdTRKVFZMWW92RTlzX3N4UGNKTHZmOVhFanVpd0gyekMtT0JTRlhFNkpmWW0zMUNmTkVxY0ZHMFJyTkhSS2FxczNhQQ?oc=5",
-   "summary": "長期金利が3.005％に上昇、30年ぶり高水準更新&nbsp;&nbsp;ロイター",
+   "summary": "長期金利が3.005％に上昇、30年ぶり高水準更新&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-01T17:55:47+09:00"
@@ -810,9 +851,9 @@
    "published": "2026-09-01T17:25:20+09:00"
   },
   {
-   "title": "韓国、非居住者への不動産課税強化案を1カ月で撤回 - ロイター",
+   "title": "韓国、非居住者への不動産課税強化案を1カ月で撤回 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS182ZzJQR19DY2RUSXlFbmNsaFFSc29yN1JtWHFhT2dOcHZTb1dMd0J6ZlYzNDFJN1dfZ001YXhIai0tM1FIZFc0bHZnNlZ3cHA0TDNIU0hYbXlqMzNSNTlQUHJabHBKMkkwZWtmUjBOWlo2LXJsQlhOUE9rcUt5OA?oc=5",
-   "summary": "韓国、非居住者への不動産課税強化案を1カ月で撤回&nbsp;&nbsp;ロイター",
+   "summary": "韓国、非居住者への不動産課税強化案を1カ月で撤回&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-01T17:03:15+09:00"
@@ -848,15 +889,6 @@
    "source": "財務省",
    "category": "公的機関",
    "published": "2026-09-01T17:00:00+09:00"
-  },
-  {
-   "title": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
-   "link": "https://www.cnbc.com/2026/09/01/hugging-faces-new-duck-robot-is-selling-fast-a-chinese-chip-powers-it.html",
-   "summary": "The colorful \"Microduck\" robot from HuggingFace's French subsidiary Pollen Robotics has sold more than 10,000 units since launching on Thursday.",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-09-01T16:30:49+09:00",
-   "lang": "en"
   },
   {
    "title": "令和8年度第1・四半期国庫の状況報告書（財務省調査）",
@@ -915,9 +947,9 @@
    "published": "2026-09-01T16:00:00+09:00"
   },
   {
-   "title": "日経平均は小幅続落、売り一巡後下げ渋る ＴＯＰＩＸ小幅高 - ロイター",
+   "title": "日経平均は小幅続落、売り一巡後下げ渋る ＴＯＰＩＸ小幅高 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYW5sTEI4U1VrLVA4OEFvaFAwd0hNaWJJZ3hfT1FsdWNBQ2JCd1gwbWwyT3NlckprWkdfaGdIUTMyekdNTXBackREQWZrQ01yNVJlTTVLSjZEUm5BUHl5X29RQnFNQmJSTDE1eVRULTVNbnpuT21HYWJaZE9iWEZRVQ?oc=5",
-   "summary": "日経平均は小幅続落、売り一巡後下げ渋る ＴＯＰＩＸ小幅高&nbsp;&nbsp;ロイター",
+   "summary": "日経平均は小幅続落、売り一巡後下げ渋る ＴＯＰＩＸ小幅高&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-01T15:57:43+09:00"
@@ -931,20 +963,12 @@
    "published": "2026-09-01T15:30:00+09:00"
   },
   {
-   "title": "企業秘密盗用訴訟、オープンＡＩがアップルに「自業自得」と反論 - ロイター",
+   "title": "企業秘密盗用訴訟、オープンＡＩがアップルに「自業自得」と反論 - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93Q3NJVmIyRUtTeVowemtiLUFTc1BTb0lFMjA2TWFBQUlKVDhTY2tQUzZRY2Z5V21FWkF3WmJOWUVRVTJrdnIxbXVJVHZnMkRFUVh5YTNVOERIV25jTVBEUEt1eE9RN0tVdE5YYS1ITlQyX2pob1pQaw?oc=5",
-   "summary": "企業秘密盗用訴訟、オープンＡＩがアップルに「自業自得」と反論&nbsp;&nbsp;ロイター",
+   "summary": "企業秘密盗用訴訟、オープンＡＩがアップルに「自業自得」と反論&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-01T15:16:00+09:00"
-  },
-  {
-   "title": "10年利付国債（第383回）の第II非価格競争入札結果（令和8年9月1日入札）",
-   "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260901a.htm",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-09-01T15:15:00+09:00"
   },
   {
    "title": "残業一律抑制 9/1から取りやめ",
@@ -955,25 +979,9 @@
    "published": "2026-09-01T15:07:42+09:00"
   },
   {
-   "title": "令和8年9月1日任命分（監事２）",
-   "link": "https://www.mof.go.jp/about_mof/constitution/agency/doppo/2026.9.1-2.pdf",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-09-01T15:00:00+09:00"
-  },
-  {
-   "title": "令和8年9月1日任命分（監事１）",
-   "link": "https://www.mof.go.jp/about_mof/constitution/agency/doppo/2026.9.1.pdf",
-   "summary": "",
-   "source": "財務省",
-   "category": "公的機関",
-   "published": "2026-09-01T15:00:00+09:00"
-  },
-  {
-   "title": "ロシアの穀物輸出、バルト海経由に切り替え 黒海での攻撃応酬で - ロイター",
+   "title": "ロシアの穀物輸出、バルト海経由に切り替え 黒海での攻撃応酬で - jp.reuters.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRnlEeWR1alhXb3dJcnZSdndBVzFlbmpjN2lzVTNYUy1fQlZacFBvZE1JTGsyMVg2WXItRzFvdDVCWWVUMzNTdU9XQjhLaktXOXNDRFZ5RE44bEgwd0RuSDhoY1M5aUF2N2RocEhET08zYXpoQk5oWnZyTXZRZHI3cw?oc=5",
-   "summary": "ロシアの穀物輸出、バルト海経由に切り替え 黒海での攻撃応酬で&nbsp;&nbsp;ロイター",
+   "summary": "ロシアの穀物輸出、バルト海経由に切り替え 黒海での攻撃応酬で&nbsp;&nbsp;jp.reuters.com",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-01T14:28:00+09:00"
