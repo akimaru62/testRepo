@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T19:04:01.874822+09:00",
+ "generated_at": "2026-09-02T19:25:54.870816+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,40 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "Broadcom’s AI Success Story Gets Complicated",
+   "link": "https://www.wsj.com/tech/ai/broadcoms-ai-success-story-gets-complicated-e54a798f?mod=rss_markets_main",
+   "summary": "Plus, bond rout continues and Elon eyes turbine parts.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-02T19:16:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "‘Neither of us attended college’: At 62, how can we afford to put our granddaughter through college?",
+   "link": "https://www.marketwatch.com/story/her-life-was-very-challenging-before-we-got-custody-at-62-how-can-we-afford-to-put-our-granddaughter-through-college-b9d550bb?mod=mw_rss_topstories",
+   "summary": "“Her life was very challenging before we got custody.”",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-02T19:15:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "ジャパネットHD、ツインバードへのTOB取り下げ　対応には不満も",
+   "link": "https://www.asahi.com/articles/ASV9234VFV92ULFA002M.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-09-02T19:06:50+09:00"
+  },
+  {
+   "title": "【脅しではない！本当に怖い日本人の睡眠負債】徹夜明けは酩酊状態と同じ！／ガン・認知症・心血管疾患「睡眠不足」は万病の元／実践！河野千秋と井下健悟編集長の睡眠解析／“命がけ”で眠る睡眠時無呼吸症候群患者 | ビジネス | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/956686?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "今回の「Health SHIFT」のテーマは「睡眠」です。世界一寝不足な国民と言われる日本人に、睡眠界のパイオニアである筑波大学国際統合睡眠医科学研究機構・柳沢正史機構長が警鐘を鳴らします。睡眠の正…",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-09-02T19:00:00+09:00"
+  },
   {
    "title": "Treasury Yields Hit New Highs as World Leaders Squabble at Fractured G-20",
    "link": "https://www.wsj.com/world/treasury-yields-hit-new-highs-as-world-leaders-squabble-at-fractured-g-20-bfad9027?mod=rss_markets_main",
@@ -265,15 +299,6 @@
    "source": "WSJ マーケット",
    "category": "海外金融",
    "published": "2026-09-02T17:23:21+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Europe Joins Global Bond Selloff as Middle East Hostilities Lift Oil Prices",
-   "link": "https://www.wsj.com/finance/investing/europe-joins-global-bond-selloff-as-middle-east-hostilities-lift-oil-prices-fca5d94a?mod=rss_markets_main",
-   "summary": "The 10-year Bund yields reached their highest since 2011 and yields on U.K. 10-year government bonds climbed to their highest level since 2007.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-02T17:17:00+09:00",
    "lang": "en"
   },
   {
@@ -586,7 +611,7 @@
   },
   {
    "title": "ベセント財務長官、片山さつき財務相に不満ぶちまけ　高市政権の経済政策に２時間以上、５月訪日時に―報道",
-   "link": "https://www.jiji.com/jc/article?k=2026090200517&g=int&m=rss",
+   "link": "https://www.jiji.com/jc/article?k=2026090200517&g=pol&m=rss",
    "summary": "",
    "source": "時事通信",
    "category": "報道機関",
@@ -740,16 +765,6 @@
    "title_orig": "Dell’s AI servers drive a stellar earnings performance, and a raised outlook"
   },
   {
-   "title": "AIサイバーセキュリティの強い需要にもかかわらず、パロアルトネットワークスの株価は下落",
-   "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
-   "summary": "CEOのニケシュ・アローラ氏によれば、企業のサイバー脅威とAIの導入がパロアルトネットワークスに「永続的な追い風」を与えているが、株価は後退した",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-02T09:18:00+09:00",
-   "lang": "en",
-   "title_orig": "Palo Alto Networks’ stock falls despite strong AI cybersecurity demand"
-  },
-  {
    "title": "G20財務相会議、今回も共同声明出さず閉幕　米長官「中国が反対」",
    "link": "https://www.asahi.com/articles/ASV9200YFV92UHBI02MM.html?ref=rss",
    "summary": "",
@@ -765,14 +780,6 @@
    "category": "海外金融",
    "published": "2026-09-02T09:11:14+09:00",
    "lang": "en"
-  },
-  {
-   "title": "AI大量失業時代へのビル・ゲイツ氏の秘策　「人間専用の職業を」",
-   "link": "https://www.asahi.com/articles/ASV8X2FNWV8XUHBI00VM.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-09-02T09:00:00+09:00"
   },
   {
    "title": "｢高学歴のくせに仕事ができない｣は改善できるのか？ 周囲も驚くほど社会で活躍できるようになるおすすめの本5選 | ライフ | 東洋経済オンライン",
@@ -849,14 +856,6 @@
    "source": "東洋経済オンライン",
    "category": "経済専門メディア",
    "published": "2026-09-02T08:30:00+09:00"
-  },
-  {
-   "title": "｢最年長は29歳｣｢別グループから再編→結成でファンに衝撃｣⋯《今冬CDデビュー》苦労人グループ｢KEY TO LIT｣の正体 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/956297?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "10年以上下積みを重ねた5人によるアイドルグループ｢KEY TO LIT｣が､待望のCDデビューを迎えます。個性的な経歴やドラマチックな再編を経て結集した彼らが､圧巻のパフォーマンスと情熱で新たな伝…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-09-02T08:15:00+09:00"
   },
   {
    "title": "今日の株式見通し＝軟調を想定、金利上昇・原油急騰など環境悪化嫌気 - ロイター",
