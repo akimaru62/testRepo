@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T16:47:04.947370+09:00",
+ "generated_at": "2026-09-02T17:05:01.032290+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,12 +61,70 @@
  "errors": [],
  "items": [
   {
+   "title": "日本銀行が保有する国債の銘柄別残高",
+   "link": "http://www.boj.or.jp/statistics/boj/other/mei/release/2026/mei260831.xlsx",
+   "summary": "",
+   "source": "日本銀行",
+   "category": "公的機関",
+   "published": "2026-09-02T17:00:00+09:00"
+  },
+  {
+   "title": "日本銀行が受入れている担保の残高（8月末）",
+   "link": "http://www.boj.or.jp/statistics/boj/other/col/col2608.xlsx",
+   "summary": "",
+   "source": "日本銀行",
+   "category": "公的機関",
+   "published": "2026-09-02T17:00:00+09:00"
+  },
+  {
+   "title": "日本郵便に勧告 フリーランス巡り",
+   "link": "https://news.yahoo.co.jp/pickup/6593989?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-09-02T16:55:06+09:00"
+  },
+  {
+   "title": "パジェロ復活 なぜ今本格クロカン",
+   "link": "https://news.yahoo.co.jp/pickup/6593987?source=rss",
+   "summary": "",
+   "source": "Yahoo!経済トピックス",
+   "category": "編集部厳選",
+   "published": "2026-09-02T16:49:21+09:00"
+  },
+  {
+   "title": "追加利上げ「一定のペースにとらわれず機動的に」日銀・高田審議委員",
+   "link": "https://www.asahi.com/articles/ASV922FZQV92ULFA00RM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-09-02T16:42:36+09:00"
+  },
+  {
+   "title": "European gas prices hit three-year high",
+   "link": "https://www.ft.com/content/f73c2c95-5c73-4b2f-9f00-9fa8c12c10c9?syn-25a6b1a6=1",
+   "summary": "Resumption of US-Iran hostilities raises fears of return to full-blown conflict",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-02T16:39:25+09:00",
+   "lang": "en"
+  },
+  {
    "title": "European Gas at Highest Level Since End of 2022 on U.S.-Iran Hostilities",
    "link": "https://www.wsj.com/finance/commodities-futures/european-gas-at-highest-level-since-end-of-2022-on-u-s-iran-hostilities-f6d51d99?mod=rss_markets_main",
    "summary": "European natural-gas prices surged to their highest level since the end of 2022 as escalating hostilities between the U.S. and Iran fuel worries about prolonged disruptions to energy flows.",
    "source": "WSJ マーケット",
    "category": "海外金融",
    "published": "2026-09-02T16:36:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "US launches further strikes on Iran as conflict flares up",
+   "link": "https://www.ft.com/content/c557ccc2-9fe7-4725-8a1c-c40a0948e8d3?syn-25a6b1a6=1",
+   "summary": "Escalation pushes oil prices higher and sends Treasury yields to day’s highs as investors fret over new bout of inflation",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-02T16:35:21+09:00",
    "lang": "en"
   },
   {
@@ -94,6 +152,14 @@
    "published": "2026-09-02T16:30:00+09:00"
   },
   {
+   "title": "日経平均は大幅に3日続落、原油高・金利高を嫌気 ＴＯＰＩＸ連騰途切れる - ロイター",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUjZVVDBWcHpHcGdtTEwycjJRZjE3ZFNDZVBCMHJLMnhicy1RaThUa2pmNGpqU09ybkF1M3R0S1JfLXVJZzZYS2FGTFI5M2U3SjNGZk9rbE9sYlNYdXlmelljOTRzWVVJVUtTWTRuNFlYLXp3ajhOWEI0bmJudmlJbQ?oc=5",
+   "summary": "日経平均は大幅に3日続落、原油高・金利高を嫌気 ＴＯＰＩＸ連騰途切れる&nbsp;&nbsp;ロイター",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-02T16:26:31+09:00"
+  },
+  {
    "title": "日経平均はチップ関連株に引っ張られ2.2％下落",
    "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-2-dragged-by-chip-related-stocks-f002ef39?mod=rss_markets_main",
    "summary": "イラン戦争とエネルギーコストの上昇に対する懸念が続く中、日本株は序盤の取引で下落した。",
@@ -102,15 +168,6 @@
    "published": "2026-09-02T16:26:00+09:00",
    "lang": "en",
    "title_orig": "Nikkei Falls 2.2%, Dragged by Chip-Related Stocks"
-  },
-  {
-   "title": "European gas prices hit highest this year and oil rises",
-   "link": "https://www.ft.com/content/f73c2c95-5c73-4b2f-9f00-9fa8c12c10c9?syn-25a6b1a6=1",
-   "summary": "Resumption of US-Iran hostilities raises fears of return to full-blown conflict",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-02T16:21:34+09:00",
-   "lang": "en"
   },
   {
    "title": "円連結。片山氏、上田氏のトレーダーズダイジェストコメント",
@@ -276,15 +333,6 @@
    "published": "2026-09-02T13:30:00+09:00"
   },
   {
-   "title": "US launches further strikes on Iran as conflict flares up",
-   "link": "https://www.ft.com/content/c557ccc2-9fe7-4725-8a1c-c40a0948e8d3?syn-25a6b1a6=1",
-   "summary": "Escalation pushes oil prices higher and sends Treasury yields to day’s highs as investors fret over new bout of inflation",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-02T13:24:42+09:00",
-   "lang": "en"
-  },
-  {
    "title": "GoPro 米企業に株式90%売却へ",
    "link": "https://news.yahoo.co.jp/pickup/6593966?source=rss",
    "summary": "",
@@ -293,9 +341,9 @@
    "published": "2026-09-02T13:07:02+09:00"
   },
   {
-   "title": "マクロスコープ：長期金利3％、高市財政に「影響せず」と関係者 与党内に異論も",
+   "title": "マクロスコープ：長期金利3％、高市財政に「影響せず」と関係者 与党内に異論も - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWF9Sal9fVi1rckxLTUJIMFRaUUk1b3BIaW92XzZLOGF5MnFZLTdnd0hvLUJLbFRFNWZqcTZUcnEwSzB1X0JOa2MzdFhvUHRfOWtmaUZPaHFfYjNqVklvdGZjY01VbFl5aTBjSjE4WFFLQnAxdUtKRG83SmRGNkJjag?oc=5",
-   "summary": "マクロスコープ：長期金利3％、高市財政に「影響せず」と関係者 与党内に異論も&nbsp;&nbsp;Reuters",
+   "summary": "マクロスコープ：長期金利3％、高市財政に「影響せず」と関係者 与党内に異論も&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-02T13:01:00+09:00"
@@ -343,14 +391,6 @@
    "published": "2026-09-02T13:00:00+09:00"
   },
   {
-   "title": "「街の顔」百貨店の閉店加速 背景",
-   "link": "https://news.yahoo.co.jp/pickup/6593962?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-09-02T12:47:55+09:00"
-  },
-  {
    "title": "傷口が開いたまま退院､救急搬送を呼ぶと4万ドル請求…あなたの健康と財布を人質に取る､PEによる｢医療現場の乗っ取り｣ | 政治・経済・投資 | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/955746?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "アメリカの医療現場で今､患者の安全や倫理を無視した｢略奪ビジネス｣が広がっています。極端なコストカットと法外な請求――その背後にいるのは投資会社､プライベート･エクイティです。",
@@ -375,9 +415,9 @@
    "published": "2026-09-02T12:00:00+09:00"
   },
   {
-   "title": "午前の日経平均は大幅続落、原油高や金利上昇が重し ほぼ全面安",
+   "title": "午前の日経平均は大幅続落、原油高や金利上昇が重し ほぼ全面安 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPazdQY0s3dGwtVE1pS1N6OVRUYWpFeFRWSzhQdDUzR1E4NF9UQlBRb1pvWXVzZkUtT2wzUG53TFVicFdLZXJ6MkwtUU50enNVMFN5Mll6UjBoYXZ4YjA4eXlsNUlLbVNCNEc4SXhMdHUtMmpFaTFZTHFDSW9GZzdfVw?oc=5",
-   "summary": "午前の日経平均は大幅続落、原油高や金利上昇が重し ほぼ全面安&nbsp;&nbsp;Reuters",
+   "summary": "午前の日経平均は大幅続落、原油高や金利上昇が重し ほぼ全面安&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-02T11:48:00+09:00"
@@ -399,9 +439,9 @@
    "published": "2026-09-02T11:17:00+09:00"
   },
   {
-   "title": "ロシア経済、軍産複合体一辺倒なら「狂戦士」状態に＝大統領特使",
+   "title": "ロシア経済、軍産複合体一辺倒なら「狂戦士」状態に＝大統領特使 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOFQ3NWNKWGlDeThEOGRDeTRkUl9PYjN4YTNETTJycE9HZUlIV2RRT2JMQUx5NllXd3ZKOEFBQ0paajZOeFZYZ3FoaE84UWR3cU9zQTQtTHpBQm9QSzJPaUFHdHBCVzE5NUY0ZUlfWkd4bFViWFYyN19ReWpwd3N6TQ?oc=5",
-   "summary": "ロシア経済、軍産複合体一辺倒なら「狂戦士」状態に＝大統領特使&nbsp;&nbsp;Reuters",
+   "summary": "ロシア経済、軍産複合体一辺倒なら「狂戦士」状態に＝大統領特使&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-02T11:09:00+09:00"
@@ -415,9 +455,9 @@
    "published": "2026-09-02T11:00:00+09:00"
   },
   {
-   "title": "貿易交渉再開には米の「真剣な」姿勢が必要＝カナダ首相",
+   "title": "貿易交渉再開には米の「真剣な」姿勢が必要＝カナダ首相 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kSFhiOHVRaGpFX05xQW92OUJDVmsya1FoMnBXaHdYSzRidzRVcG9QNzZUeUU5MlY3UmtZNk9jU18zUFFuZVFzbDhlMFk5WE93LXNwYmJQeFE1WVZBRUZXaDN0dm1yQmRkbFFrZEZqeXBmdmo4aV9WNkxR?oc=5",
-   "summary": "貿易交渉再開には米の「真剣な」姿勢が必要＝カナダ首相&nbsp;&nbsp;Reuters",
+   "summary": "貿易交渉再開には米の「真剣な」姿勢が必要＝カナダ首相&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-02T10:35:43+09:00"
@@ -431,9 +471,9 @@
    "published": "2026-09-02T10:30:00+09:00"
   },
   {
-   "title": "アングル：米の対イラン海上封鎖、中国への原油輸出阻止で成果",
+   "title": "アングル：米の対イラン海上封鎖、中国への原油輸出阻止で成果 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11UXBMMElJelVtd0YzTkNnbHl2MFd4QnNuRXdwQVF4ZS1ZeEJCWlFOZS1wZV8tTlJKRzllbEtDUjlWUjRRV2VfanQybERXMS14TXFQcnEyRG9nbzZha0IzTjNpVWhXTFM5MmJXYzRaanVIZFpXRGwxMnVZNUhKdw?oc=5",
-   "summary": "アングル：米の対イラン海上封鎖、中国への原油輸出阻止で成果&nbsp;&nbsp;Reuters",
+   "summary": "アングル：米の対イラン海上封鎖、中国への原油輸出阻止で成果&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-02T10:28:32+09:00"
@@ -483,14 +523,6 @@
    "lang": "en"
   },
   {
-   "title": "米財務長官 日本の円安是正を支持",
-   "link": "https://news.yahoo.co.jp/pickup/6593944?source=rss",
-   "summary": "",
-   "source": "Yahoo!経済トピックス",
-   "category": "編集部厳選",
-   "published": "2026-09-02T10:02:05+09:00"
-  },
-  {
    "title": "上司｢頑張ればいい車買えるぞ｣→Z世代がドン引きした当然のワケ　若手に見限られ\"妖精化\"していくベテランの末路とは | ライフ | 東洋経済オンライン",
    "link": "https://toyokeizai.net/articles/-/955461?utm_source=rss&utm_medium=http&utm_campaign=link_back",
    "summary": "世代間ギャップの本質は単なる価値観の違いではありません。上司自身の経験や常識の押し付けが､部下の心に届かない理由とは何でしょうか。",
@@ -531,9 +563,9 @@
    "published": "2026-09-02T10:00:00+09:00"
   },
   {
-   "title": "米ゴープロ、光学メーカーのスターマンに株式90％売却へ 2.85億ドル",
+   "title": "米ゴープロ、光学メーカーのスターマンに株式90％売却へ 2.85億ドル - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ0R1Q0lEeXN6LUJMWU50RzNuX3F5Y0hYYVlyNk5nay11d1U2M2FBY1hybnlWLTVkWFhYWHU1YjJsTnhVeW9NUWhGREQzcDRzTHVkZWpSWDdHZW1NOUhDNVcydk95eVpPSU9FS1BHMjBCMUdoWUtabVhnMXhkOXYwdQ?oc=5",
-   "summary": "米ゴープロ、光学メーカーのスターマンに株式90％売却へ 2.85億ドル&nbsp;&nbsp;Reuters",
+   "summary": "米ゴープロ、光学メーカーのスターマンに株式90％売却へ 2.85億ドル&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-02T09:58:00+09:00"
@@ -634,9 +666,9 @@
    "title_orig": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?"
   },
   {
-   "title": "米デル、通期業績見通し再び上方修正 ＡＩサーバー需要急増",
+   "title": "米デル、通期業績見通し再び上方修正 ＡＩサーバー需要急増 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10LU5HVUl4RUFEVkFSdW9ZVUg3c0VoejJWRTNOMk94WG10Ml9ySlhSX0M4TXcyOUJSXzFSY2E1SjBiVGpGS21EQWdzYld4Z04xTjY5WjJ6TGItNkVibkJmTjFvVzM4RUNJeVRxX0Yydl8zT0pBdHYwQQ?oc=5",
-   "summary": "米デル、通期業績見通し再び上方修正 ＡＩサーバー需要急増&nbsp;&nbsp;Reuters",
+   "summary": "米デル、通期業績見通し再び上方修正 ＡＩサーバー需要急増&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-02T08:58:45+09:00"
@@ -652,9 +684,9 @@
    "title_orig": "China derails consensus on communiqué after US-hosted G20"
   },
   {
-   "title": "植田日銀総裁、ベセント財務長官と有益な議論 「詳細はノーコメント」",
+   "title": "植田日銀総裁、ベセント財務長官と有益な議論 「詳細はノーコメント」 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNUG9GZ2hEMGpnWEppOHhMdUFoalFVbHBSaFVSTTd1aDFqZzZPbkhFT0JGVEpIWXctUXh2alNfWk9ic0ZlWkdEdG5LQXVuSnA0SllBOFlVZlhXZkMxUXV6Z3pBejA2UjQ1YnJXMmxYNEhWSVp1Z2k1dg?oc=5",
-   "summary": "植田日銀総裁、ベセント財務長官と有益な議論 「詳細はノーコメント」&nbsp;&nbsp;Reuters",
+   "summary": "植田日銀総裁、ベセント財務長官と有益な議論 「詳細はノーコメント」&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-02T08:53:00+09:00"
@@ -736,9 +768,9 @@
    "lang": "en"
   },
   {
-   "title": "今日の株式見通し＝軟調を想定、金利上昇・原油急騰など環境悪化嫌気",
+   "title": "今日の株式見通し＝軟調を想定、金利上昇・原油急騰など環境悪化嫌気 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZmI3RlpzYXc0NHpuZ3dIbDlJQmh5Z3B0ek52NEJ3ZUM1RUhGX0dSWS1CNXhLM1MyYU51X0pJbjNLT1NPUlFTaVRXaFJPRk9kWVBiQnFfN3pSbEtPV3NBeGZabG9kZjhRSkVuMWpUNDlZdWlYSmZ2ZWsyRU0tUjJZNg?oc=5",
-   "summary": "今日の株式見通し＝軟調を想定、金利上昇・原油急騰など環境悪化嫌気&nbsp;&nbsp;Reuters",
+   "summary": "今日の株式見通し＝軟調を想定、金利上昇・原油急騰など環境悪化嫌気&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-02T08:12:41+09:00"
@@ -777,9 +809,9 @@
    "published": "2026-09-02T08:00:00+09:00"
   },
   {
-   "title": "ゴールドマンなど21金融機関、ドル連動ステーブルコインを来年発行へ",
+   "title": "ゴールドマンなど21金融機関、ドル連動ステーブルコインを来年発行へ - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4teW50a2pwazdqT3NZVGZfWmdqMDNlLW90WmJHdk5CVnFHVGVILXZlMENUMFJzQ3BxNm0xSFFLbjNuTVlybWJqZWhQQ0RwSExXMnM0Y3ByNVJfUXdNZWJxWE1CQ3Y5ZzZ4OS1sMEZZM2JTMDVydk5CRw?oc=5",
-   "summary": "ゴールドマンなど21金融機関、ドル連動ステーブルコインを来年発行へ&nbsp;&nbsp;Reuters",
+   "summary": "ゴールドマンなど21金融機関、ドル連動ステーブルコインを来年発行へ&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-02T07:57:17+09:00"
@@ -803,9 +835,9 @@
    "title_orig": "A Guide to Owning Bonds When They Are Selling Off"
   },
   {
-   "title": "米財務長官、日銀に利上げ圧力 「健全な金融政策で為替急変動回避を」",
+   "title": "米財務長官、日銀に利上げ圧力 「健全な金融政策で為替急変動回避を」 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CQ0FOdlFwY2tyVlpPZ09zbmpoQzNDb2NPYk9xN1JMYWJPRm1tRkFUZzVxU0QySjVSSV9WNWx0Y0o3QkJTTmpSRVdYNzlZRWdsZmpBeWoybUhrQmptTVdBTnZvUXR3aXM4QXBwVkN4cWR4R09RZ1lHeg?oc=5",
-   "summary": "米財務長官、日銀に利上げ圧力 「健全な金融政策で為替急変動回避を」&nbsp;&nbsp;Reuters",
+   "summary": "米財務長官、日銀に利上げ圧力 「健全な金融政策で為替急変動回避を」&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-02T07:04:07+09:00"
@@ -861,14 +893,6 @@
    "published": "2026-09-02T06:00:00+09:00"
   },
   {
-   "title": "宇賀克也・元最高裁判事に聞く　改正個情法と「統計例外」の課題は",
-   "link": "https://www.asahi.com/articles/ASV8X2F4RV8XULZU001M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-09-02T06:00:00+09:00"
-  },
-  {
    "title": "なぜ韓国は世界でヒットを連発し、日本は540億円を溶かしたのか　「クールジャパン」の誤算",
    "link": "https://www.itmedia.co.jp/business/articles/2609/02/news016.html",
    "summary": "クールジャパン機構はなぜ、世界で勝てるアニメやマンガではなく、バイオベンチャーなどに巨額の公金を投じたのか。約540億円の累積赤字から、日本の産業政策の構造的な問題を読み解いてみると……。",
@@ -911,9 +935,9 @@
    "published": "2026-09-02T05:30:00+09:00"
   },
   {
-   "title": "米ＩＳＭ製造業景気指数、8月は54.6に低下 投入価格高止まり",
+   "title": "米ＩＳＭ製造業景気指数、8月は54.6に低下 投入価格高止まり - ロイター",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU3RQZHVfNTFoNHlPMERMcUtUQURYNlNBUVdQQ09sWHJpN2NXU191eXBfbjgtRlZEai1EZnEyT1JnbTl1b2o0QU4wMlZqUDU2WTBraUdRS2w1QXJnNHNaNzVoNy1LZi1wZ21rUlpwOVItZ05FNjBBZ3VMRlFfSEplZA?oc=5",
-   "summary": "米ＩＳＭ製造業景気指数、8月は54.6に低下 投入価格高止まり&nbsp;&nbsp;Reuters",
+   "summary": "米ＩＳＭ製造業景気指数、8月は54.6に低下 投入価格高止まり&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-02T05:14:52+09:00"
@@ -978,17 +1002,17 @@
    "published": "2026-09-01T23:00:00+09:00"
   },
   {
-   "title": "ＳＢエナジー、ＩＰＯ申請書類公開 エヌビディア15億ドル出資",
+   "title": "ＳＢエナジー、ＩＰＯ申請書類公開 エヌビディア15億ドル出資 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zRXdoWUFEX0FjNDA2UWZRek5MWDJfdTRwTTI1d0R6YTBVNVB0aUlrMklITlctSGpKem1HNVJwR2dTUk1CZUtWQUNHSG9Day0ybVRoT0dRb3RTZUZhc1lCd2xaZnctc3FzUnQzMzV3eU5UTW5uREE?oc=5",
-   "summary": "ＳＢエナジー、ＩＰＯ申請書類公開 エヌビディア15億ドル出資&nbsp;&nbsp;Reuters",
+   "summary": "ＳＢエナジー、ＩＰＯ申請書類公開 エヌビディア15億ドル出資&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-01T21:19:01+09:00"
   },
   {
-   "title": "ホルムズ海峡でタンカー２隻に飛翔体、サウジ原油積載",
+   "title": "ホルムズ海峡でタンカー２隻に飛翔体、サウジ原油積載 - ロイター",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DTm1YRE01d1RRUzJrQzV4SUxUVE41UnBrVGRaOVhublIxZnA4djRtcHMwY0NiOWtad2xPOXh6RmhxOFFrZVZSSFVxcTN5T3k2aE9iWVRXV1pQbGJIUDRPT2oyNXM2QVZiUGlhTGN6SDViQXBfdWdzcEhB?oc=5",
-   "summary": "ホルムズ海峡でタンカー２隻に飛翔体、サウジ原油積載&nbsp;&nbsp;Reuters",
+   "summary": "ホルムズ海峡でタンカー２隻に飛翔体、サウジ原油積載&nbsp;&nbsp;ロイター",
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-01T20:50:40+09:00"
@@ -1001,14 +1025,6 @@
    "category": "海外金融",
    "published": "2026-09-01T20:41:08+09:00",
    "lang": "en"
-  },
-  {
-   "title": "トランプ氏のカナダ関税と「アメリカ湖」改称、過半数が反対＝調査",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmQ0plaG9QZTdNTnZRZkNqa3MtempHdVRMOGtDUFVBYUxUcWY0N2o0b1h1LWtsMHV3SkxsUW9PUUFYbVhrd2JtRWhKRWRDZ25IbDVnV0c3WDJfUzMxM3VjaXRUYnd4RFJkX1JiYkdHdzdWUGNBVmpwektB?oc=5",
-   "summary": "トランプ氏のカナダ関税と「アメリカ湖」改称、過半数が反対＝調査&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-01T19:03:51+09:00"
   },
   {
    "title": "金融安定理事会によるG20財務大臣・中央銀行総裁へのレターの公表について",
