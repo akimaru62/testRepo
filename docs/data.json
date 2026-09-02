@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T20:03:20.361705+09:00",
+ "generated_at": "2026-09-02T20:23:08.114160+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -60,6 +60,51 @@
  ],
  "errors": [],
  "items": [
+  {
+   "title": "Financial Services Roundup: Market Talk",
+   "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-97117635?mod=rss_markets_main",
+   "summary": "Find insight on Robinhood Markets, Tidlor Holdings, Nordea and more in the latest Market Talks covering financial services.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-02T20:18:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Energy & Utilities Roundup: Market Talk",
+   "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-a5c0ac9a?mod=rss_markets_main",
+   "summary": "Find insight on SK Innovation, Ampol, LONGi and more in the latest Market Talks covering energy and utilities.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-02T20:13:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now",
+   "link": "https://www.cnbc.com/2026/09/02/berkshire-ceo-says-japanese-bond-yields-not-a-challenge-for-trading-houses.html",
+   "summary": "In an appearance on CNBC's \"Squawk Box,\" Greg Abel said that yields in the country are still relatively low.",
+   "source": "CNBC",
+   "category": "海外金融",
+   "published": "2026-09-02T20:09:15+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Chevron outlines $7 billion plan to expand in Venezuela",
+   "link": "https://www.marketwatch.com/story/chevron-outlines-7-billion-plan-to-expand-in-venezuela-3cc5ef7c?mod=mw_rss_topstories",
+   "summary": "Chevron says it will expand its operations in Venezuela, following the Trump administration’s move for a Pentagon-backed plan to develop the country’s oil reserves.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-02T20:07:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Basic Materials Roundup: Market Talk",
+   "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-f39a0b1c?mod=rss_markets_main",
+   "summary": "Find insight on NRW Holdings, Archi Indonesia, Air Liquide and more in the latest Market Talks covering basic materials.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-02T20:05:00+09:00",
+   "lang": "en"
+  },
   {
    "title": "MongoDB shares tumble despite strong earnings on ‘disappointing’ news for investors",
    "link": "https://www.marketwatch.com/story/mongodb-shares-tumble-despite-strong-earnings-on-disappointing-news-for-investors-5ee13c7b?mod=mw_rss_topstories",
@@ -283,24 +328,6 @@
    "lang": "en"
   },
   {
-   "title": "Sarah Michelle Gellar and Freddie Prinze Jr. cut the price of their $10 million L.A. mansion",
-   "link": "https://www.marketwatch.com/story/sarah-michelle-gellar-and-freddie-prinze-jr-cut-the-price-of-their-10-million-l-a-mansion-c4adbd1c?mod=mw_rss_topstories",
-   "summary": "Sarah Michelle Gellar and Freddie Prinze Jr. have trimmed the asking price of their stunning California mansion by $700,000—just three months after listing the dwelling.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-02T17:58:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Gold at Lowest in Three Weeks as Mideast Tensions Boost Rate-Hike Bets",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-mideast-conflict-stronger-dollar-5affb636?mod=rss_markets_main",
-   "summary": "Gold prices fell to their lowest level in more than three weeks as escalating tensions in the Middle East conflict pushed energy prices higher, stoking inflation fears and boosting rate-hike bets.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-02T17:53:00+09:00",
-   "lang": "en"
-  },
-  {
    "title": "「小京都」脱却の動き 各地で加速",
    "link": "https://news.yahoo.co.jp/pickup/6593997?source=rss",
    "summary": "",
@@ -315,25 +342,6 @@
    "source": "朝日新聞 経済",
    "category": "報道機関",
    "published": "2026-09-02T17:46:01+09:00"
-  },
-  {
-   "title": "Oil Rises as U.S.-Iran Strikes Dim Hopes for Hormuz Reopening",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-growing-u-s-iran-hostilities-e12fa4f2?mod=rss_markets_main",
-   "summary": "Oil prices held onto Tuesday’s gains after the U.S. and Iran exchanged strikes overnight, clouding prospects for a near-term deal to reopen the Strait of Hormuz.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-02T17:39:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "円連結。片山氏、上田氏のトレーダーズダイジェストコメント",
-   "link": "https://www.wsj.com/finance/currencies/yen-consolidates-traders-digest-remarks-from-katayama-ueda-70108fc2?mod=rss_markets_main",
-   "summary": "トレーダーらが片山財務大臣と上田日銀総裁の発言を消化する中、円は他のG10通貨やアジア通貨に対して堅調となった。",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-02T17:37:00+09:00",
-   "lang": "en",
-   "title_orig": "Yen Consolidates; Traders Digest Remarks From Katayama, Ueda"
   },
   {
    "title": "備蓄米買い戻しで米価は？　すでに古米より新米が安い逆転現象も",
@@ -636,7 +644,7 @@
   },
   {
    "title": "ベセント財務長官、片山さつき財務相に不満ぶちまけ　高市政権の経済政策に２時間以上、５月訪日時に―報道",
-   "link": "https://www.jiji.com/jc/article?k=2026090200517&g=pol&m=rss",
+   "link": "https://www.jiji.com/jc/article?k=2026090200517&g=int&m=rss",
    "summary": "",
    "source": "時事通信",
    "category": "報道機関",
@@ -648,7 +656,7 @@
    "summary": "ロシア経済、軍産複合体一辺倒なら「狂戦士」状態に＝大統領特使&nbsp;&nbsp;Reuters",
    "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-09-02T11:09:43+09:00"
+   "published": "2026-09-02T11:09:00+09:00"
   },
   {
    "title": "サボテンやアサガオの盆栽は存在する？ 世界のエリートは知っている｢盆栽｣と｢鉢植え｣の決定的な違い | ライフ | 東洋経済オンライン",
@@ -795,16 +803,6 @@
    "source": "ロイター",
    "category": "報道機関",
    "published": "2026-09-02T08:58:45+09:00"
-  },
-  {
-   "title": "米国主催のG20後、中国がコミュニケの合意を狂わせる",
-   "link": "https://www.ft.com/content/dcefdf76-9bac-4b34-80c2-eab80b559f53?syn-25a6b1a6=1",
-   "summary": "中国政府、貿易​​不均衡を抑制するための「非市場」政策の撤廃を求める文言に反対",
-   "source": "Financial Times",
-   "category": "海外金融",
-   "published": "2026-09-02T08:57:17+09:00",
-   "lang": "en",
-   "title_orig": "China derails consensus on communiqué after US-hosted G20"
   },
   {
    "title": "植田日銀総裁、ベセント財務長官と有益な議論 「詳細はノーコメント」",
@@ -955,6 +953,15 @@
    "published": "2026-09-02T05:14:52+09:00"
   },
   {
+   "title": "Russia secretly helping Iran develop supersonic cruise missiles",
+   "link": "https://www.ft.com/content/6cf367bc-95b0-4f1f-b149-a25684adefc3?syn-25a6b1a6=1",
+   "summary": "Leaks reveal programme behind one of the most significant known transfers of military technology from Moscow to Tehran",
+   "source": "Financial Times",
+   "category": "海外金融",
+   "published": "2026-09-02T05:00:03+09:00",
+   "lang": "en"
+  },
+  {
    "title": "Prediction market traders think job creation rebounded in August",
    "link": "https://www.cnbc.com/2026/09/01/prediction-market-traders-think-job-creation-rebounded-in-august.html",
    "summary": "Traders see 50-50 odds that the U.S. economy added more than 50,000 jobs last month.",
@@ -997,6 +1004,14 @@
    "published": "2026-09-02T00:00:00+09:00"
   },
   {
+   "title": "米、週内にイラン銀行制裁発表の公算＝財務長官",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVUdNN1lUa3RZN3htQnIxajFNa0hUc28ySWRNQUtVOVpoTFh2T1lydFFSMjlBd2t5QlpzY3NUUlFIZEN0YU01b0piOEhlZzFkT19YVEtjRlZjWGpiS052cDZtSUpZYWN0UjFycEZlTU5uQllIdTlneW5wSVhCS1c1OHR3?oc=5",
+   "summary": "米、週内にイラン銀行制裁発表の公算＝財務長官&nbsp;&nbsp;Reuters",
+   "source": "ロイター",
+   "category": "報道機関",
+   "published": "2026-09-01T23:54:55+09:00"
+  },
+  {
    "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
    "link": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
    "summary": "The policymaker said he's concerned about \"broader price pressures taking hold\" as inflation has prevailed above the Fed's 2% target.",
@@ -1012,14 +1027,6 @@
    "source": "金融庁",
    "category": "公的機関",
    "published": "2026-09-01T23:00:00+09:00"
-  },
-  {
-   "title": "ＳＢエナジー、ＩＰＯ申請書類公開 エヌビディア15億ドル出資",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zRXdoWUFEX0FjNDA2UWZRek5MWDJfdTRwTTI1d0R6YTBVNVB0aUlrMklITlctSGpKem1HNVJwR2dTUk1CZUtWQUNHSG9Day0ybVRoT0dRb3RTZUZhc1lCd2xaZnctc3FzUnQzMzV3eU5UTW5uREE?oc=5",
-   "summary": "ＳＢエナジー、ＩＰＯ申請書類公開 エヌビディア15億ドル出資&nbsp;&nbsp;Reuters",
-   "source": "ロイター",
-   "category": "報道機関",
-   "published": "2026-09-01T21:19:01+09:00"
   },
   {
    "title": "Stocks making the biggest moves premarket: Nvidia, Robinhood, Novartis & more",
@@ -1077,15 +1084,6 @@
    "source": "ITmedia ビジネス",
    "category": "経済専門メディア",
    "published": "2026-09-01T06:00:00+09:00"
-  },
-  {
-   "title": "Stocks making the biggest moves midday: PG&E, Edison International, Apple, Howmet Aerospace, Eli Lilly & more",
-   "link": "https://www.cnbc.com/2026/08/31/stocks-making-the-biggest-moves-midday-pcg-eix-agco-hwm-more-.html",
-   "summary": "These are some of the stocks posting the largest moves midday.",
-   "source": "CNBC",
-   "category": "海外金融",
-   "published": "2026-09-01T04:49:36+09:00",
-   "lang": "en"
   },
   {
    "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年８月25日）について掲載しました。",
