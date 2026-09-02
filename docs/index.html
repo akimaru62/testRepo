@@ -1,192 +1,274 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="ja">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>金融・経済ニュース</title>
-<meta name="description" content="信頼できる大手メディア・公的機関の公式RSSから自動収集した金融・経済ニュース">
-<style>
-  :root {
-    --bg: #f4f5f7;
-    --card: #ffffff;
-    --text: #1a1d21;
-    --muted: #6b7280;
-    --accent: #0b62d6;
-    --chip-bg: #e5e7eb;
-    --chip-active: #0b62d6;
-    --badge-press: #0b62d6;
-    --badge-media: #0a8f5b;
-    --badge-curated: #b45309;
-    --badge-gov: #7c3aed;
-    --border: #e5e7eb;
-  }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --bg: #101318;
-      --card: #1a1f27;
-      --text: #e7eaee;
-      --muted: #9aa3af;
-      --accent: #5ba3f5;
-      --chip-bg: #2a313c;
-      --border: #2a313c;
-    }
-  }
-  * { box-sizing: border-box; }
-  body {
-    margin: 0;
-    font-family: "Hiragino Sans", "Yu Gothic UI", "Noto Sans JP", sans-serif;
-    background: var(--bg);
-    color: var(--text);
-    padding-bottom: env(safe-area-inset-bottom);
-  }
-  header {
-    position: sticky;
-    top: 0;
-    z-index: 10;
-    background: var(--card);
-    border-bottom: 1px solid var(--border);
-    padding: calc(10px + env(safe-area-inset-top)) 14px 8px;
-  }
-  .titlebar { display: flex; align-items: center; justify-content: space-between; }
-  h1 { font-size: 17px; margin: 0 0 2px; }
-  #reload {
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    background: var(--chip-bg);
-    color: var(--text);
-    font-size: 12.5px;
-    padding: 5px 10px;
-    cursor: pointer;
-  }
-  #reload:active { opacity: .6; }
-  #updated { font-size: 11.5px; color: var(--muted); }
-  #chips {
-    display: flex;
-    gap: 6px;
-    overflow-x: auto;
-    padding: 8px 0 2px;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: none;
-  }
-  #chips::-webkit-scrollbar { display: none; }
-  .chip {
-    flex: none;
-    border: none;
-    border-radius: 999px;
-    background: var(--chip-bg);
-    color: var(--text);
-    font-size: 12.5px;
-    padding: 6px 12px;
-    cursor: pointer;
-  }
-  .chip.active { background: var(--chip-active); color: #fff; }
-  main { max-width: 640px; margin: 0 auto; padding: 10px 12px 40px; }
-  .card {
-    display: block;
-    background: var(--card);
-    border: 1px solid var(--border);
-    border-radius: 12px;
-    padding: 12px 14px;
-    margin-bottom: 10px;
-    text-decoration: none;
-    color: inherit;
-  }
-  .card:active { opacity: .7; }
-  .meta { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; }
-  .badge {
-    font-size: 10.5px;
-    color: #fff;
-    border-radius: 4px;
-    padding: 2px 6px;
-    white-space: nowrap;
-  }
-  .b-報道機関 { background: var(--badge-press); }
-  .b-経済専門メディア { background: var(--badge-media); }
-  .b-編集部厳選 { background: var(--badge-curated); }
-  .b-公的機関 { background: var(--badge-gov); }
-  .b-海外金融 { background: #be123c; }
-  .orig {
-    font-size: 11.5px;
-    color: var(--muted);
-    line-height: 1.4;
-    margin: 4px 0 0;
-  }
-  .trbtn {
-    display: inline-block;
-    margin-top: 8px;
-    padding: 4px 12px;
-    border: 1px solid var(--accent);
-    border-radius: 999px;
-    color: var(--accent);
-    font-size: 12px;
-  }
-  .src { font-size: 12px; color: var(--muted); }
-  .time { font-size: 12px; color: var(--muted); margin-left: auto; white-space: nowrap; }
-  .title { font-size: 15px; font-weight: 600; line-height: 1.45; margin: 0; }
-  .summary {
-    font-size: 12.5px;
-    color: var(--muted);
-    line-height: 1.5;
-    margin: 6px 0 0;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-  }
-  #status { text-align: center; color: var(--muted); padding: 40px 0; font-size: 14px; }
-  footer {
-    text-align: center;
-    font-size: 11px;
-    color: var(--muted);
-    padding: 10px 16px 30px;
-    line-height: 1.7;
-  }
-</style>
-</head>
-<body>
-<header>
-  <div class="titlebar">
-    <h1>📈 金融・経済ニュース</h1>
-    <button id="reload" aria-label="最新の情報に更新">🔄 更新</button>
-  </div>
-  <div id="updated">読み込み中…</div>
-  <div id="chips"></div>
-</header>
-<main>
-  <div id="status">読み込み中…</div>
-  <div id="list"></div>
-</main>
-<footer>
-  大手報道機関・経済専門メディア・公的機関の公式RSSのみから自動収集しています。<br>
-  15分ごとに自動収集 + ページを開いた時に最新情報を取得 / タップで元記事を開きます
-</footer>
-<script>
-const CATEGORIES = ["すべて", "報道機関", "経済専門メディア", "海外金融", "編集部厳選", "公的機関"];
-let items = [];
-let active = "すべて";
-let generatedAt = null;
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover"
+    />
+    <title>ITニュース</title>
+    <meta
+      name="description"
+      content="信頼できる技術メディア・公式ブログ・開発者ブログの公式RSSから自動収集したITニュース"
+    />
+    <style>
+      :root {
+        --bg: #f4f5f7;
+        --card: #ffffff;
+        --text: #1a1d21;
+        --muted: #6b7280;
+        --accent: #0b62d6;
+        --chip-bg: #e5e7eb;
+        --chip-active: #0b62d6;
+        --badge-press: #0b62d6;
+        --badge-media: #0a8f5b;
+        --badge-curated: #b45309;
+        --badge-gov: #7c3aed;
+        --border: #e5e7eb;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #101318;
+          --card: #1a1f27;
+          --text: #e7eaee;
+          --muted: #9aa3af;
+          --accent: #5ba3f5;
+          --chip-bg: #2a313c;
+          --border: #2a313c;
+        }
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        font-family:
+          "Hiragino Sans", "Yu Gothic UI", "Noto Sans JP", sans-serif;
+        background: var(--bg);
+        color: var(--text);
+        padding-bottom: env(safe-area-inset-bottom);
+      }
+      header {
+        position: sticky;
+        top: 0;
+        z-index: 10;
+        background: var(--card);
+        border-bottom: 1px solid var(--border);
+        padding: calc(10px + env(safe-area-inset-top)) 14px 8px;
+      }
+      .titlebar {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+      h1 {
+        font-size: 17px;
+        margin: 0 0 2px;
+      }
+      #reload {
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        background: var(--chip-bg);
+        color: var(--text);
+        font-size: 12.5px;
+        padding: 5px 10px;
+        cursor: pointer;
+      }
+      #reload:active {
+        opacity: 0.6;
+      }
+      #updated {
+        font-size: 11.5px;
+        color: var(--muted);
+      }
+      #chips {
+        display: flex;
+        gap: 6px;
+        overflow-x: auto;
+        padding: 8px 0 2px;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+      }
+      #chips::-webkit-scrollbar {
+        display: none;
+      }
+      .chip {
+        flex: none;
+        border: none;
+        border-radius: 999px;
+        background: var(--chip-bg);
+        color: var(--text);
+        font-size: 12.5px;
+        padding: 6px 12px;
+        cursor: pointer;
+      }
+      .chip.active {
+        background: var(--chip-active);
+        color: #fff;
+      }
+      main {
+        max-width: 640px;
+        margin: 0 auto;
+        padding: 10px 12px 40px;
+      }
+      .card {
+        display: block;
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        padding: 12px 14px;
+        margin-bottom: 10px;
+        text-decoration: none;
+        color: inherit;
+      }
+      .card:active {
+        opacity: 0.7;
+      }
+      .meta {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        margin-bottom: 6px;
+      }
+      .badge {
+        font-size: 10.5px;
+        color: #fff;
+        border-radius: 4px;
+        padding: 2px 6px;
+        white-space: nowrap;
+      }
+      .b-テクノロジー {
+        background: var(--badge-press);
+      }
+      .b-開発者向け {
+        background: var(--badge-media);
+      }
+      .b-編集部厳選 {
+        background: var(--badge-curated);
+      }
+      .b-公的機関 {
+        background: var(--badge-gov);
+      }
+      .b-セキュリティ {
+        background: #be123c;
+      }
+      .orig {
+        font-size: 11.5px;
+        color: var(--muted);
+        line-height: 1.4;
+        margin: 4px 0 0;
+      }
+      .trbtn {
+        display: inline-block;
+        margin-top: 8px;
+        padding: 4px 12px;
+        border: 1px solid var(--accent);
+        border-radius: 999px;
+        color: var(--accent);
+        font-size: 12px;
+      }
+      .src {
+        font-size: 12px;
+        color: var(--muted);
+      }
+      .time {
+        font-size: 12px;
+        color: var(--muted);
+        margin-left: auto;
+        white-space: nowrap;
+      }
+      .title {
+        font-size: 15px;
+        font-weight: 600;
+        line-height: 1.45;
+        margin: 0;
+      }
+      .summary {
+        font-size: 12.5px;
+        color: var(--muted);
+        line-height: 1.5;
+        margin: 6px 0 0;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
+      #status {
+        text-align: center;
+        color: var(--muted);
+        padding: 40px 0;
+        font-size: 14px;
+      }
+      footer {
+        text-align: center;
+        font-size: 11px;
+        color: var(--muted);
+        padding: 10px 16px 30px;
+        line-height: 1.7;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="titlebar">
+        <h1>💻 ITニュース</h1>
+        <button id="reload" aria-label="最新の情報に更新">🔄 更新</button>
+      </div>
+      <div id="updated">読み込み中…</div>
+      <div id="chips"></div>
+    </header>
+    <main>
+      <div id="status">読み込み中…</div>
+      <div id="list"></div>
+    </main>
+    <footer>
+      大手技術メディア・公式ブログ・開発者ブログの公式RSSのみから自動収集しています。<br />
+      15分ごとに自動収集 + ページを開いた時に最新情報を取得 /
+      タップで元記事を開きます
+    </footer>
+    <script>
+      const CATEGORIES = [
+        "すべて",
+        "テクノロジー",
+        "開発者向け",
+        "スタートアップ",
+        "セキュリティ",
+        "編集部厳選",
+      ];
+      let items = [];
+      let active = "すべて";
+      let generatedAt = null;
 
-function relTime(iso) {
-  if (!iso) return "";
-  const diff = (Date.now() - new Date(iso).getTime()) / 60000;
-  if (diff < 1) return "たった今";
-  if (diff < 60) return Math.floor(diff) + "分前";
-  if (diff < 1440) return Math.floor(diff / 60) + "時間前";
-  return Math.floor(diff / 1440) + "日前";
-}
+      function relTime(iso) {
+        if (!iso) return "";
+        const diff = (Date.now() - new Date(iso).getTime()) / 60000;
+        if (diff < 1) return "たった今";
+        if (diff < 60) return Math.floor(diff) + "分前";
+        if (diff < 1440) return Math.floor(diff / 60) + "時間前";
+        return Math.floor(diff / 1440) + "日前";
+      }
 
-function esc(s) {
-  const d = document.createElement("div");
-  d.textContent = s || "";
-  return d.innerHTML;
-}
+      function esc(s) {
+        const d = document.createElement("div");
+        d.textContent = s || "";
+        return d.innerHTML;
+      }
 
-function render() {
-  const list = document.getElementById("list");
-  const shown = active === "すべて" ? items : items.filter(i => i.category === active);
-  document.getElementById("status").style.display = shown.length ? "none" : "block";
-  document.getElementById("status").textContent = shown.length ? "" : "該当する記事がありません";
-  list.innerHTML = shown.map(i => `
+      function render() {
+        const list = document.getElementById("list");
+        const shown =
+          active === "すべて"
+            ? items
+            : items.filter((i) => i.category === active);
+        document.getElementById("status").style.display = shown.length
+          ? "none"
+          : "block";
+        document.getElementById("status").textContent = shown.length
+          ? ""
+          : "該当する記事がありません";
+        list.innerHTML = shown
+          .map(
+            (i) => `
     <a class="card" href="${esc(i.link)}" target="_blank" rel="noopener">
       <div class="meta">
         <span class="badge b-${esc(i.category)}">${esc(i.category)}</span>
@@ -197,104 +279,139 @@ function render() {
       ${i.title_orig ? `<p class="orig">${esc(i.title_orig)}</p>` : ""}
       ${i.summary ? `<p class="summary">${esc(i.summary)}</p>` : ""}
       ${i.lang === "en" ? `<span class="trbtn" data-url="${esc(translateUrl(i.link))}">🌐 日本語で読む</span>` : ""}
-    </a>`).join("");
-}
+    </a>`,
+          )
+          .join("");
+      }
 
-function renderChips() {
-  const box = document.getElementById("chips");
-  box.innerHTML = "";
-  for (const c of CATEGORIES) {
-    const btn = document.createElement("button");
-    btn.className = "chip" + (c === active ? " active" : "");
-    btn.textContent = c;
-    btn.onclick = () => { active = c; renderChips(); render(); };
-    box.appendChild(btn);
-  }
-}
+      function renderChips() {
+        const box = document.getElementById("chips");
+        box.innerHTML = "";
+        for (const c of CATEGORIES) {
+          const btn = document.createElement("button");
+          btn.className = "chip" + (c === active ? " active" : "");
+          btn.textContent = c;
+          btn.onclick = () => {
+            active = c;
+            renderChips();
+            render();
+          };
+          box.appendChild(btn);
+        }
+      }
 
-// 記事全文をGoogle翻訳のプロキシ(translate.goog)経由で日本語表示するURLを作る
-function translateUrl(link) {
-  try {
-    const u = new URL(link);
-    u.hostname = u.hostname.replace(/-/g, "--").replace(/\./g, "-") + ".translate.goog";
-    u.searchParams.set("_x_tr_sl", "auto");
-    u.searchParams.set("_x_tr_tl", "ja");
-    u.searchParams.set("_x_tr_hl", "ja");
-    return u.toString();
-  } catch (e) { return link; }
-}
+      // 記事全文をGoogle翻訳のプロキシ(translate.goog)経由で日本語表示するURLを作る
+      function translateUrl(link) {
+        try {
+          const u = new URL(link);
+          u.hostname =
+            u.hostname.replace(/-/g, "--").replace(/\./g, "-") +
+            ".translate.goog";
+          u.searchParams.set("_x_tr_sl", "auto");
+          u.searchParams.set("_x_tr_tl", "ja");
+          u.searchParams.set("_x_tr_hl", "ja");
+          return u.toString();
+        } catch (e) {
+          return link;
+        }
+      }
 
-// 「日本語で読む」ボタン: カード全体のリンクとは別に翻訳版を開く
-document.getElementById("list").addEventListener("click", (e) => {
-  const btn = e.target.closest(".trbtn");
-  if (btn) {
-    e.preventDefault();
-    e.stopPropagation();
-    window.open(btn.dataset.url, "_blank", "noopener");
-  }
-});
-
-function normTitle(t) {
-  return (t || "").replace(/[\s　、。・「」『』【】()（）:：!！?？…-]/g, "");
-}
-
-// NHK経済はCORS対応のため、ページを開いた瞬間にブラウザから直接
-// 最新記事を取得してマージする(他ソースはCORS非対応のため15分ごとの自動収集分)
-async function mergeLiveNHK() {
-  try {
-    const res = await fetch("https://www3.nhk.or.jp/rss/news/cat5.xml?t=" + Date.now());
-    const xml = new DOMParser().parseFromString(await res.text(), "text/xml");
-    const known = new Set(items.map(i => normTitle(i.title)));
-    const since = generatedAt ? new Date(generatedAt) : null;
-    const fresh = [];
-    for (const el of xml.querySelectorAll("item")) {
-      const title = el.querySelector("title")?.textContent?.trim();
-      const link = el.querySelector("link")?.textContent?.trim();
-      if (!title || !link || known.has(normTitle(title))) continue;
-      const pub = el.querySelector("pubDate")?.textContent;
-      // 前回の自動収集より後に出た記事だけを速報として追加する
-      if (!pub || !since || new Date(pub) <= since) continue;
-      fresh.push({
-        title, link,
-        summary: el.querySelector("description")?.textContent?.trim() || "",
-        source: "NHK 経済", category: "報道機関",
-        published: pub ? new Date(pub).toISOString() : null,
+      // 「日本語で読む」ボタン: カード全体のリンクとは別に翻訳版を開く
+      document.getElementById("list").addEventListener("click", (e) => {
+        const btn = e.target.closest(".trbtn");
+        if (btn) {
+          e.preventDefault();
+          e.stopPropagation();
+          window.open(btn.dataset.url, "_blank", "noopener");
+        }
       });
-    }
-    if (fresh.length) {
-      items = [...fresh, ...items].sort((a, b) => (b.published || "").localeCompare(a.published || ""));
-      render();
-    }
-  } catch (e) { /* ライブ取得失敗時は収集済みデータのみ表示 */ }
-}
 
-async function load() {
-  try {
-    const res = await fetch("data.json?t=" + Date.now(), { cache: "no-store" });
-    const data = await res.json();
-    items = data.items || [];
-    generatedAt = data.generated_at;
-    const t = new Date(data.generated_at);
-    document.getElementById("updated").textContent =
-      "最終更新: " + t.toLocaleString("ja-JP", { month: "numeric", day: "numeric", hour: "2-digit", minute: "2-digit" }) +
-      " / " + items.length + "件";
-    render();
-    await mergeLiveNHK();
-  } catch (e) {
-    document.getElementById("status").textContent = "データの読み込みに失敗しました";
-  }
-}
+      function normTitle(t) {
+        return (t || "").replace(
+          /[\s　、。・「」『』【】()（）:：!！?？…-]/g,
+          "",
+        );
+      }
 
-document.getElementById("reload").onclick = () => {
-  document.getElementById("updated").textContent = "更新中…";
-  load();
-};
-renderChips();
-load();
-// 画面を開き直したとき(タブ復帰)に最新データを再取得
-document.addEventListener("visibilitychange", () => {
-  if (document.visibilityState === "visible") load();
-});
-</script>
-</body>
+      // 一部サイトはCORS対応のため、ページ開いた瞬間にブラウザから直接
+      // 最新記事を取得してマージする（例: Hacker News のフィード）
+      async function mergeLiveTech() {
+        try {
+          const res = await fetch(
+            "https://hnrss.org/frontpage?t=" + Date.now(),
+          );
+          const xml = new DOMParser().parseFromString(
+            await res.text(),
+            "text/xml",
+          );
+          const known = new Set(items.map((i) => normTitle(i.title)));
+          const since = generatedAt ? new Date(generatedAt) : null;
+          const fresh = [];
+          for (const el of xml.querySelectorAll("item")) {
+            const title = el.querySelector("title")?.textContent?.trim();
+            const link = el.querySelector("link")?.textContent?.trim();
+            if (!title || !link || known.has(normTitle(title))) continue;
+            const pub = el.querySelector("pubDate")?.textContent;
+            if (!pub || !since || new Date(pub) <= since) continue;
+            fresh.push({
+              title,
+              link,
+              summary:
+                el.querySelector("description")?.textContent?.trim() || "",
+              source: "Hacker News",
+              category: "テクノロジー",
+              published: pub ? new Date(pub).toISOString() : null,
+            });
+          }
+          if (fresh.length) {
+            items = [...fresh, ...items].sort((a, b) =>
+              (b.published || "").localeCompare(a.published || ""),
+            );
+            render();
+          }
+        } catch (e) {
+          /* ライブ取得失敗時は収集済みデータのみ表示 */
+        }
+      }
+
+      async function load() {
+        try {
+          const res = await fetch("data.json?t=" + Date.now(), {
+            cache: "no-store",
+          });
+          const data = await res.json();
+          items = data.items || [];
+          generatedAt = data.generated_at;
+          const t = new Date(data.generated_at);
+          document.getElementById("updated").textContent =
+            "最終更新: " +
+            t.toLocaleString("ja-JP", {
+              month: "numeric",
+              day: "numeric",
+              hour: "2-digit",
+              minute: "2-digit",
+            }) +
+            " / " +
+            items.length +
+            "件";
+          render();
+          await mergeLiveTech();
+        } catch (e) {
+          document.getElementById("status").textContent =
+            "データの読み込みに失敗しました";
+        }
+      }
+
+      document.getElementById("reload").onclick = () => {
+        document.getElementById("updated").textContent = "更新中…";
+        load();
+      };
+      renderChips();
+      load();
+      // 画面を開き直したとき(タブ復帰)に最新データを再取得
+      document.addEventListener("visibilitychange", () => {
+        if (document.visibilityState === "visible") load();
+      });
+    </script>
+  </body>
 </html>
