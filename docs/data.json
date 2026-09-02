@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T05:03:30.160892+09:00",
+ "generated_at": "2026-09-03T05:24:30.246465+09:00",
  "sources": [
   {
    "name": "NHK 経済",
@@ -61,6 +61,42 @@
  "errors": [],
  "items": [
   {
+   "title": "U.S. Stocks Rise as Oil Gains on Iran Escalation",
+   "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-oil-gains-on-iran-escalation-aaf0672e?mod=rss_markets_main",
+   "summary": "Stocks rose as a rally in Treasury yields stalled but equity and bond moves were muted as oil prices continued climbing due to clashes between Iran and the U.S.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-03T05:21:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Snowflake’s stock soars as the company blows away estimates with its AI-fueled forecast",
+   "link": "https://www.marketwatch.com/story/snowflakes-stock-soars-as-the-company-blows-away-estimates-with-its-ai-fueled-forecast-5b5cf36c?mod=mw_rss_topstories",
+   "summary": "Companies looking to build AI tools on top of their data are turning to Snowflake, driving robust revenue growth.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-03T05:14:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "Stocks Rise As Middle East Tensions Fray",
+   "link": "https://www.wsj.com/finance/stocks/stocks-rise-as-middle-east-tensions-fray-66e6cd02?mod=rss_markets_main",
+   "summary": "Plus, Alphabet wins a court victory, and oil refiners resist expanding.",
+   "source": "WSJ マーケット",
+   "category": "海外金融",
+   "published": "2026-09-03T05:10:00+09:00",
+   "lang": "en"
+  },
+  {
+   "title": "HPE follows in Dell’s footsteps as it rides the AI server boom to a big earnings beat",
+   "link": "https://www.marketwatch.com/story/hpe-follows-in-dells-footsteps-as-it-rides-the-ai-server-boom-to-a-big-earnings-beat-ec46eaea?mod=mw_rss_topstories",
+   "summary": "Unlike Dell, HPE focuses on enterprise and sovereign customers, which one analyst noted have a better profit profile.",
+   "source": "MarketWatch",
+   "category": "海外金融",
+   "published": "2026-09-03T05:08:00+09:00",
+   "lang": "en"
+  },
+  {
    "title": "Dollar Loses Ground Against Yen Amid Intervention Chatter",
    "link": "https://www.wsj.com/finance/currencies/yen-consolidates-traders-digest-remarks-from-katayama-ueda-70108fc2?mod=rss_markets_main",
    "summary": "The dollar weakened against the Japanese yen, as intervention chatter returned to FX markets.",
@@ -68,6 +104,22 @@
    "category": "海外金融",
    "published": "2026-09-03T05:02:00+09:00",
    "lang": "en"
+  },
+  {
+   "title": "同意なしの個人データ提供　本人置き去りのルールになっていないか",
+   "link": "https://www.asahi.com/articles/ASV801VPQV80ULFA02DM.html?ref=rss",
+   "summary": "",
+   "source": "朝日新聞 経済",
+   "category": "報道機関",
+   "published": "2026-09-03T05:00:00+09:00"
+  },
+  {
+   "title": "｢民家に突っ込みそうに…｣｢180段階段でギブアップ！｣　長崎の急坂を支える《人力ごみ収集》の壮絶現場と迫る人手不足 | ライフ | 東洋経済オンライン",
+   "link": "https://toyokeizai.net/articles/-/955815?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+   "summary": "長崎の急斜面住宅地で行われる､ごみの｢引き出し収集｣。住民の生活を支え､過酷な環境下で日々続けられるこの作業を体験しました。",
+   "source": "東洋経済オンライン",
+   "category": "経済専門メディア",
+   "published": "2026-09-03T05:00:00+09:00"
   },
   {
    "title": "Google spared break-up of online advertising monopoly",
@@ -211,48 +263,12 @@
    "published": "2026-09-03T03:08:50+09:00"
   },
   {
-   "title": "Gold Futures Edge Up as Treasury Yields Ease",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-mideast-conflict-stronger-dollar-5affb636?mod=rss_markets_main",
-   "summary": "Gold futures snapped a three-session losing streak as Treasury yields eased. The market is closely watching for Friday’s employment report.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-03T03:06:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "I offered to buy my friend a birthday drink. She ordered $180 worth of food and expects me to pay. Should I Venmo her for half?",
-   "link": "https://www.marketwatch.com/story/i-offered-to-buy-my-friend-a-birthday-drink-she-ordered-180-worth-of-food-and-expects-me-to-pay-should-i-venmo-her-for-half-0efc941c?mod=mw_rss_topstories",
-   "summary": "“My offer was cocktails.”",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-03T03:00:00+09:00",
-   "lang": "en"
-  },
-  {
    "title": "Chevron to double Venezuela oil production with $7bn pledge",
    "link": "https://www.ft.com/content/a76721db-36e1-4198-aad8-8c90137aace9?syn-25a6b1a6=1",
    "summary": "US major commits to expanding its joint ventures as White House pushes for huge increase in production in the country",
    "source": "Financial Times",
    "category": "海外金融",
    "published": "2026-09-03T02:53:03+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Wall Street is nervous about a Fed rate hike, which looks more likely after a top official’s remarks",
-   "link": "https://www.marketwatch.com/story/feds-williams-is-opening-options-to-interest-rate-hikes-why-that-could-be-a-bad-trade-4ba6b32f?mod=mw_rss_topstories",
-   "summary": "Fed watchers say the upcoming jobs report and inflation data are key after seeing signs that Fed Chairman Kevin Warsh would be willing to see interest rates rise.",
-   "source": "MarketWatch",
-   "category": "海外金融",
-   "published": "2026-09-03T02:44:00+09:00",
-   "lang": "en"
-  },
-  {
-   "title": "Highlights From the Messy Divorce Trial of a Hedge-Fund Titan",
-   "link": "https://www.wsj.com/finance/investing/inside-the-n-j-courtroom-where-a-hedge-fund-titans-messy-divorce-is-playing-out-b9e3ce32?mod=rss_markets_main",
-   "summary": "The acrimony between Two Sigma co-founder John Overdeck and his estranged wife, Laura, was on display in the courtroom.",
-   "source": "WSJ マーケット",
-   "category": "海外金融",
-   "published": "2026-09-03T02:35:00+09:00",
    "lang": "en"
   },
   {
@@ -686,15 +702,7 @@
    "summary": "マクロスコープ：長期金利3％、高市財政に「影響せず」と関係者 与党内に異論も&nbsp;&nbsp;Reuters",
    "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-09-02T13:01:00+09:00"
-  },
-  {
-   "title": "ラピダス、キオクシア「日の丸半導体」巨額投資は実るか　異次元競争",
-   "link": "https://www.asahi.com/articles/ASV8Y35CBV8YULFA004M.html?ref=rss",
-   "summary": "",
-   "source": "朝日新聞 経済",
-   "category": "報道機関",
-   "published": "2026-09-02T13:00:00+09:00"
+   "published": "2026-09-02T13:02:09+09:00"
   },
   {
    "title": "【池上彰が考察】｢池上彰よりAIに聞く｣時代が来たとき…《操作された偽情報》に踊らされるのは､いったい誰か？ | キャリア・教育 | 東洋経済オンライン",
@@ -758,7 +766,7 @@
    "summary": "ロシア経済、軍産複合体一辺倒なら「狂戦士」状態に＝大統領特使&nbsp;&nbsp;Reuters",
    "source": "ロイター",
    "category": "報道機関",
-   "published": "2026-09-02T11:09:43+09:00"
+   "published": "2026-09-02T11:09:00+09:00"
   },
   {
    "title": "サボテンやアサガオの盆栽は存在する？ 世界のエリートは知っている｢盆栽｣と｢鉢植え｣の決定的な違い | ライフ | 東洋経済オンライン",
@@ -880,14 +888,6 @@
    "category": "海外金融",
    "published": "2026-09-02T09:11:14+09:00",
    "lang": "en"
-  },
-  {
-   "title": "｢高学歴のくせに仕事ができない｣は改善できるのか？ 周囲も驚くほど社会で活躍できるようになるおすすめの本5選 | ライフ | 東洋経済オンライン",
-   "link": "https://toyokeizai.net/articles/-/955044?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-   "summary": "高学歴で｢頭はいいはずなのに､なぜか仕事がうまくいかない｣と感じていませんか？受験と仕事のルールの違いに戸惑い､努力の仕方が裏目に出てしまう人へ。プレッシャーに押しつぶされそうなあなたに､負のスパイ…",
-   "source": "東洋経済オンライン",
-   "category": "経済専門メディア",
-   "published": "2026-09-02T09:00:00+09:00"
   },
   {
    "title": "米デル、通期業績見通し再び上方修正 ＡＩサーバー需要急増",
