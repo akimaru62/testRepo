@@ -2,7 +2,7 @@ name: ニュース自動収集
 
 on:
   schedule:
-    - cron: "*/15 * * * *" # 15分ごとに実行(混雑時は数分遅延することがある)
+    - cron: "*/15 * * * *" # 15分ごとに実行
   workflow_dispatch: # 手動実行も可能
 
 permissions:
@@ -31,6 +31,27 @@ jobs:
       - name: ニュースを収集
         # 追加したスクリプトを使って hnrss / AWS / Azure / GitHub 等のフィードを収集
         run: python3 scripts/fetch_feeds.py
+
+      - name: デバッグ: data.json を表示
+        run: |
+          echo "--- data.json (head) ---"
+          head -n 80 docs/data.json || true
+          echo "--- data.json (tail) ---"
+          tail -n 80 docs/data.json || true
+
+      - name: デバッグ: git 差分を表示
+        run: |
+          git add docs/data.json || true
+          echo "git status:";
+          git status --porcelain || true
+          echo "git diff (staged):";
+          git --no-pager diff --staged || true
+
+      - name: Upload data.json as artifact (debug)
+        uses: actions/upload-artifact@v4
+        with:
+          name: data.json
+          path: docs/data.json
 
       - name: 変更があればコミット
         run: |
