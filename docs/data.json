@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T17:48:00.997212+00:00",
+  "generated_at": "2026-09-03T18:10:07.152904+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -74,12 +74,28 @@
   ],
   "items": [
     {
+      "title": "This presidential-election bet offers ‘free money’",
+      "link": "https://www.marketwatch.com/story/this-presidential-bet-offers-free-money-f0038409?mod=mw_rss_topstories",
+      "summary": "Quick arbitrage opportunity shows prediction markets are still inefficient.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-03T17:54:00+00:00"
+    },
+    {
       "title": "Star Citadel energy trader to step down amid tumult in energy markets",
       "link": "https://www.ft.com/content/b4c17a07-f684-44c7-b334-8b7bcb1a21d6?syn-25a6b1a6=1",
       "summary": "Chris Foster to leave role at Ken Griffin’s hedge fund after making billions of dollars trading natural gas in Europe",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-03T17:29:32+00:00"
+    },
+    {
+      "title": "Instrument Clusters Are Now Paid Extras in Two Hyundai Models",
+      "link": "https://www.caranddriver.com/news/a73583741/hyundai-instrument-cluster-paid-option/",
+      "summary": "Article URL: https://www.caranddriver.com/news/a73583741/hyundai-instrument-cluster-paid-option/\nComments URL: https://news.ycombinator.com/item?id=49553549\nPoints: 10\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-03T17:25:47+00:00"
     },
     {
       "title": "Opinion | A Return to Sound Money Will Fix Inflation",
@@ -96,6 +112,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-03T17:23:00+00:00"
+    },
+    {
+      "title": "Sanders introduces bill to ban artificial superintelligence and pause AI",
+      "link": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/",
+      "summary": "Article URL: https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/\nComments URL: https://news.ycombinator.com/item?id=49553463\nPoints: 14\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-03T17:20:29+00:00"
     },
     {
       "title": "U.S. Natural Gas Futures Retreat From Resistance",
@@ -120,6 +144,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-03T17:09:04+00:00"
+    },
+    {
+      "title": "Cheap Desktop 400GbE Switch MikroTik CRS804-4DDQ-HRM Review",
+      "link": "https://www.servethehome.com/mikrotik-crs804-4ddq-hrm-review-marvell-annapurna-labs-400gbe/",
+      "summary": "Article URL: https://www.servethehome.com/mikrotik-crs804-4ddq-hrm-review-marvell-annapurna-labs-400gbe/\nComments URL: https://news.ycombinator.com/item?id=49553253\nPoints: 10\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-03T17:05:24+00:00"
     },
     {
       "title": "Founding Creative Engineer – Gooseworks (YC W23) Is Hiring",
@@ -152,6 +184,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-03T16:57:00+00:00"
+    },
+    {
+      "title": "Hugging Face attack is a wake-up call about the risks of AI",
+      "link": "https://www.ft.com/content/1a1f6c54-8dbc-4446-a6dc-45a060b7cdc8?syn-25a6b1a6=1",
+      "summary": "Agents involved in hack exhibited some alarming behaviours including suppressing ethical qualms",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-03T16:54:46+00:00"
     },
     {
       "title": "Tesla’s stock is rallying as investors prepare for a ‘storm of Cybercabs’",
@@ -496,6 +536,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-03T14:30:00+00:00"
+    },
+    {
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "link": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "summary": "These are my notes from porting my Amiga game, which I originally built in Baghdad in 1993 in MC68000 assembly, to Godot, using Claude Fable 5 during last July holiday.  It took an evening! Getting the feel right and shipping it took a few more weekends and evenings.I spent the last few weeks analyzing what Claude did, feeding it my 33 years of memory of how I built the game, my notes and the git repos. It wrote the first draft of the article, and I edited line by line over a week. The screenshots of my 1993 map editor is the first I have run it since then. The one thing I never checked myself is the 108-byte explanation.Please post any questions. I am also releasing the original game for free.\n\nComments URL: https://news.ycombinator.com/item?id=49550375\nPoints: 7\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-03T14:28:18+00:00"
     },
     {
       "title": "７月の米貿易赤字、２４．４％増　新関税前に駆け込みか",
@@ -2715,6 +2763,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-03T03:00:00+00:00"
+    },
+    {
+      "title": "ヤマトＨＤ、貨物専用機の運航終了へ 円安と燃料高に直面 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXR3pMOWJ6bXFKNG4ydGlCaEhGNTB6M2stdENiS2FwM29yWXpKa0h4Z2xKODVsTDRPQXJBNWszb3JqOUh1MF8xdXd2Y0pjd2h4OEVZNTVJazg3c1dUcm11OXR2MDdnWWJnU3hKZDRYVVgzOUotRllucA?oc=5",
+      "summary": "ヤマトＨＤ、貨物専用機の運航終了へ 円安と燃料高に直面&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-03T02:59:21+00:00"
     },
     {
       "title": "Yen Strengthens on Prospects of More Aggressive Tightening by BOJ",
