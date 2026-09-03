@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T21:07:19.185575+00:00",
+  "generated_at": "2026-09-03T21:22:27.426013+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -78,12 +78,108 @@
   ],
   "items": [
     {
+      "title": "９月会合、金利据え置きも　インフレ鈍化の兆し―米ＦＲＢ理事",
+      "link": "https://www.jiji.com/jc/article?k=2026090400143&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-03T21:22:22.519651+00:00"
+    },
+    {
+      "title": "首相動静（９月３日）",
+      "link": "https://www.jiji.com/jc/article?k=2026090300221&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-03T21:22:22.519624+00:00"
+    },
+    {
+      "title": "「はなのかみ方」でイグ・ノーベル賞　旭川医科大の故・海野教授",
+      "link": "https://www.jiji.com/jc/article?k=2026090400137&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-03T21:22:22.519590+00:00"
+    },
+    {
+      "title": "｢トカエフ専制体制｣の下で分権化と民主化に腐心するカザフスタン…中央アジア屈指の成長国の選択は矛盾か､現実的か | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/956603?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "カザフスタンで新憲法が施行され､議会選挙を経てトカエフ大統領体制が盤石化しました。バランス外交を武器に成長を続ける一方で､専制強化への懸念も。中央アジアは民主化と安定の両立という難題に､どのような道…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-03T21:20:00+00:00"
+    },
+    {
+      "title": "Nvidia takes back control of the AI trade as Big Tech nears record highs",
+      "link": "https://www.marketwatch.com/story/nvidia-takes-back-control-of-the-ai-trade-as-big-tech-nears-record-highs-c0dfed9d?mod=mw_rss_topstories",
+      "summary": "The Roundhill Magnificent Seven ETF is closing in on its May peak — this time thanks to Nvidia.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-03T21:12:00+00:00"
+    },
+    {
+      "title": "These stocks in the red-hot healthcare sector have gotten too crowded to own",
+      "link": "https://www.marketwatch.com/story/these-stocks-in-the-red-hot-healthcare-sector-have-gotten-too-crowded-to-own-b4b2e0bc?mod=mw_rss_topstories",
+      "summary": "New recommendations include making an options bet that the stocks of GE HealthCare and Medtronic will fall, because there were too many bets already made that the stock would rise.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-03T21:06:00+00:00"
+    },
+    {
       "title": "Stocks, Bonds Rally After Dovish Fed Comments",
       "link": "https://www.wsj.com/finance/stocks/stocks-bonds-rally-after-dovish-fed-comments-b95763ae?mod=rss_markets_main",
       "summary": "The Dow added more than 600 points after Federal Reserve governor Christopher Waller said he could support holding rates steady.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-03T21:03:00+00:00"
+    },
+    {
+      "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+      "link": "https://tasklet.ai/careers/customer-success-engineer",
+      "summary": "Article URL: https://tasklet.ai/careers/customer-success-engineer\nComments URL: https://news.ycombinator.com/item?id=49556922\nPoints: 0\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-03T21:01:10+00:00"
+    },
+    {
+      "title": "〈パナソニック〉AIサーバー電池大増産で｢売り上げ3倍｣の勝算､不振のテスラEV向け米カンザス工場に開けたAI転用の道 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/956661?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "AIの進化とともに増大するデータセンターの電力需要。その中核となるBBU(バッテリー･バックアップ･ユニット）市場を､パナソニックが圧倒的なシェアで牽引しています。新たな用途や競争激化に直面する中､…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-03T21:00:00+00:00"
+    },
+    {
+      "title": "クックからターナスへ15年ぶりCEO交代､アップルが｢机上のAIデータセンター｣で狙う次の革命 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/956523?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2026年､アップルは15年ぶりのトップ交代とともに｢ものづくり｣路線を鮮明にしました。手元で超巨大AIを安全に動かせる新Macの登場は､クラウド一極集中に一石を投じます。プライバシー重視の新時代､…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-03T21:00:00+00:00"
+    },
+    {
+      "title": "｢防衛機密をクラウド運用｣って大丈夫？ 漠然とした不安の正体が｢錯覚｣である理由《リスクを\"正しく\"恐れる重要性》 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/956491?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "防衛省が機密情報の管理を､自前のシステムから民間クラウドへ移行することを決めました。直感的に不安を覚えますが､実際に問題はあるのでしょうか？　クラウド時代のリスクと備えを問い直します。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-03T21:00:00+00:00"
+    },
+    {
+      "title": "中国の大手デベロッパー恒大地産の清算処理ついに開始､法的整理本格化へ 40兆円超の債務処理の行方は？ | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/956272?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "中国不動産大手･恒大集団の法的整理が本格始動します。創業者への終身刑判決も下り経営責任の追及にも一区切りがつきました。契約済み住宅の引き渡しも大詰めを迎え､かつてのバブルが崩壊する中､前例なき清算劇…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-03T21:00:00+00:00"
+    },
+    {
+      "title": "《公教育はまだまだ可能性がある》｢学習者中心の学び｣を追求してきた風越学園元校長が｢過疎地域の教育長｣になったワケ | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/955941?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢学習者中心の学び｣の先駆者として知られる軽井沢風越学園元校長の岩瀬直樹氏が､人口減少が進む真鶴町の教育長に就任しました。どのように公教育を改革していくのでしょうか。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-03T21:00:00+00:00"
     },
     {
       "title": "JX金属と住友電工で世界シェア8割！ ｢インジウムリン基板｣は40年大きな変化がなかったのにAIデータセンターで10倍増産 | ビジネス | 東洋経済オンライン",
@@ -868,6 +964,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-03T15:12:00+00:00"
+    },
+    {
+      "title": "米ＩＳＭ非製造業指数、8月は55.4に上昇 新規受注3年半ぶり高水準 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQzNFMjdWcVprOEQ4SzIzNjJEMzQyZlNldTJiSFNGa2FMOF9DZXdSRXRKdUdzWk92YWpUOW5DR3dyV25HWTVvQ3U3dm1tZ0dLXzRGX3R3WnJkb1FlMzQzY1V4bTVZa2UtNXZuRGNfMXF6MFFnbG1SZEJYdGpiUzVHVA?oc=5",
+      "summary": "米ＩＳＭ非製造業指数、8月は55.4に上昇 新規受注3年半ぶり高水準&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-03T15:09:44+00:00"
     },
     {
       "title": "Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?",
