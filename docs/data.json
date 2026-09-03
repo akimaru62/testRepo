@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T18:10:07.152904+00:00",
+  "generated_at": "2026-09-03T18:30:34.189201+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -70,9 +70,61 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "New doubts emerge about whether Fed will raise interest rates this month",
+      "link": "https://www.marketwatch.com/story/new-doubts-emerge-about-whether-fed-will-raise-interest-rates-this-month-1d23cc12?mod=mw_rss_topstories",
+      "summary": "Fed governor Christopher Waller made a strong case for the Fed to hold rates steady.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-03T18:24:00+00:00"
+    },
+    {
+      "title": "Gold Futures Rise Ahead of U.S. Payrolls Data",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-markets-await-further-u-s-jobs-data-926919c4?mod=rss_markets_main",
+      "summary": "Gold futures rose for a second session as Treasury yields eased and the dollar weakened, with the market waiting to see Friday’s August employment report.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-03T18:20:00+00:00"
+    },
+    {
+      "title": "U.S. Stocks Climb as Treasury Yields Retreat on Waller’s Rate Comments",
+      "link": "https://www.wsj.com/finance/stocks/bond-selloff-pauses-stocks-tread-water-as-traders-watch-for-yen-intervention-25a7e983?mod=rss_markets_main",
+      "summary": "U.S. stocks gain after Fed Governor Christopher Waller said he would support holding interest rates steady if August inflation data supports it.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-03T18:17:00+00:00"
+    },
+    {
+      "title": "The Double Matthew Walker Knot by Fable 5.1",
+      "link": "https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c",
+      "summary": "Article URL: https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c\nComments URL: https://news.ycombinator.com/item?id=49554154\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-03T18:09:37+00:00"
+    },
+    {
+      "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts",
+      "link": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
+      "summary": "Article URL: https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman\nComments URL: https://news.ycombinator.com/item?id=49554048\nPoints: 22\n# Comments: 10",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-03T18:01:56+00:00"
+    },
+    {
+      "title": "OpenAI says it has overtaken Anthropic with its latest AI model",
+      "link": "https://www.ft.com/content/55ab40c0-59e2-4c0b-97c9-4f4f5a71a8bb?syn-25a6b1a6=1",
+      "summary": "ChatGPT maker claims its ‘Astra’ could be considered ‘artificial general intelligence’",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-03T18:00:11+00:00"
+    },
     {
       "title": "This presidential-election bet offers ‘free money’",
       "link": "https://www.marketwatch.com/story/this-presidential-bet-offers-free-money-f0038409?mod=mw_rss_topstories",
@@ -80,6 +132,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-03T17:54:00+00:00"
+    },
+    {
+      "title": "The paradox of diffusion distillation (2024)",
+      "link": "https://sander.ai/2024/02/28/paradox.html",
+      "summary": "Article URL: https://sander.ai/2024/02/28/paradox.html\nComments URL: https://news.ycombinator.com/item?id=49553830\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-03T17:45:25+00:00"
     },
     {
       "title": "Star Citadel energy trader to step down amid tumult in energy markets",
@@ -155,6 +215,14 @@
     },
     {
       "title": "Founding Creative Engineer – Gooseworks (YC W23) Is Hiring",
+      "link": "https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer\nComments URL: https://news.ycombinator.com/item?id=49553173\nPoints: 0\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-03T17:00:16+00:00"
+    },
+    {
+      "title": "Gooseworks (YC W23) Is Hiring – Founding Creative Engineer",
       "link": "https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer",
       "summary": "Article URL: https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer\nComments URL: https://news.ycombinator.com/item?id=49553173\nPoints: 0\n# Comments: 0",
       "source": "Hacker News",
@@ -322,6 +390,14 @@
       "published": "2026-09-03T15:36:43+00:00"
     },
     {
+      "title": "K2 Horizon: A connected fleet of six open models",
+      "link": "https://ifm.ai/blog/k2/",
+      "summary": "Article URL: https://ifm.ai/blog/k2/\nComments URL: https://news.ycombinator.com/item?id=49551760\nPoints: 148\n# Comments: 43",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-03T15:36:43+00:00"
+    },
+    {
       "title": "ChatGPT, Claude, and Grok Are Down",
       "link": "https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down/",
       "summary": "Article URL: https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down/\nComments URL: https://news.ycombinator.com/item?id=49551658\nPoints: 32\n# Comments: 8",
@@ -437,6 +513,14 @@
       "title": "Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?",
       "link": "https://news.ycombinator.com/item?id=49551096",
       "summary": "https://status.openai.com\nhttps://status.claude.com\nhttps://status.x.ai\n\nComments URL: https://news.ycombinator.com/item?id=49551096\nPoints: 17\n# Comments: 12",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-03T15:07:01+00:00"
+    },
+    {
+      "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
+      "link": "https://news.ycombinator.com/item?id=49551096",
+      "summary": "https://status.openai.comhttps://status.claude.comhttps://status.x.ai\n\nComments URL: https://news.ycombinator.com/item?id=49551096\nPoints: 194\n# Comments: 155",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-03T15:07:01+00:00"
@@ -813,6 +897,14 @@
       "title": "Nvidia to Acquire Hugging Face",
       "link": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
       "summary": "Article URL: https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/\nComments URL: https://news.ycombinator.com/item?id=49548952\nPoints: 19\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-03T12:10:33+00:00"
+    },
+    {
+      "title": "Nvidia to acquire Hugging Face",
+      "link": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "summary": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face...\n\nComments URL: https://news.ycombinator.com/item?id=49548952\nPoints: 256\n# Comments: 78",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-03T12:10:33+00:00"
