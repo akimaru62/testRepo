@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T10:47:48.868923+00:00",
+  "generated_at": "2026-09-03T11:07:19.912335+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -78,6 +78,54 @@
       "published": "2026-09-03T17:00:00+00:00"
     },
     {
+      "title": "3円超円高、一時156円台に　利上げ観測、日本で拡大、米では後退",
+      "link": "https://www.asahi.com/articles/ASV933DWJV93ULFA00WM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-03T11:07:11.227577+00:00"
+    },
+    {
+      "title": "The AI cloud math is broken, and it’s creating a power shift within Big Tech",
+      "link": "https://www.marketwatch.com/story/the-ai-cloud-math-is-broken-and-its-creating-a-power-shift-within-big-tech-5652da0f?mod=mw_rss_topstories",
+      "summary": "Buying AI hardware outright is becoming more economical than renting AI power through the cloud.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-03T11:00:00+00:00"
+    },
+    {
+      "title": "People under 21 can’t use most sportsbooks — so they’ve wagered over $5 billion on Kalshi instead",
+      "link": "https://www.marketwatch.com/story/people-under-21-cant-use-most-sportsbooks-so-theyve-wagered-over-5-billion-on-kalshi-instead-03730919?mod=mw_rss_topstories",
+      "summary": "A new American Gaming Association analysis finds underage sports betting is flourishing on prediction markets.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-03T11:00:00+00:00"
+    },
+    {
+      "title": "Looking to Diversify Your U.S.-Heavy Portfolio? Don’t Let the Fund Name Fool You",
+      "link": "https://www.wsj.com/finance/investing/international-overseas-etf-usa-index-stocks-9d4487d5?mod=rss_markets_main",
+      "summary": "Overseas ETFs may include heavy concentrations of American stocks if you don’t know where to look.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-03T11:00:00+00:00"
+    },
+    {
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-e1e355e0?mod=rss_markets_main",
+      "summary": "Find insight on Deutsche Telekom, Telstra, Tencent and more in the latest Market Talks covering technology, media and telecom.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-03T10:51:00+00:00"
+    },
+    {
+      "title": "Clean sweep or split Congress, these are the trades to make on the midterms outcome, says JPMorgan",
+      "link": "https://www.marketwatch.com/story/clean-sweep-or-split-congress-these-are-the-trades-to-make-on-the-midterms-outcome-says-jpmorgan-91a1e3ee?mod=mw_rss_topstories",
+      "summary": "Some stocks face a vey different environment depending on how America votes.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-03T10:46:00+00:00"
+    },
+    {
       "title": "U.S. Treasury Yields, Dollar Fall",
       "link": "https://www.wsj.com/finance/currencies/yen-consolidates-may-be-supported-by-lingering-risks-of-fx-intervention-45c3cccb?mod=rss_markets_main",
       "summary": "The DXY dollar index fell to a six-day low as oil prices declined, market expectations of a Federal Reserve rate hike in September retreated, and as the yen strengthened.",
@@ -100,6 +148,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-03T10:37:00+00:00"
+    },
+    {
+      "title": "WASM_OS, an operating-system experiment that runs inside a browser tab",
+      "link": "https://wasmos-production.up.railway.app",
+      "summary": "Article URL: https://wasmos-production.up.railway.app\nComments URL: https://news.ycombinator.com/item?id=49548285\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-03T10:36:09+00:00"
     },
     {
       "title": "Health Care Roundup: Market Talk",
@@ -156,6 +212,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-03T10:08:33.438765+00:00"
+    },
+    {
+      "title": "Luxury gym Equinox in refinancing talks to shred debt and bulk up cash",
+      "link": "https://www.ft.com/content/68feb37d-1ec3-4c00-8726-4aac0231cf4c?syn-25a6b1a6=1",
+      "summary": "Investors are in advanced discussions for a funding round that would give the indebted chain capital to open new clubs and reduce interest costs",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-03T10:00:03+00:00"
     },
     {
       "title": "Friedrich Merz sidelined as party fights far-right in regional poll",
@@ -220,6 +284,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-09-03T09:27:27+00:00"
+    },
+    {
+      "title": "Missed flight connections double under EU smart border system",
+      "link": "https://www.ft.com/content/24ab2170-3db3-4898-ad30-55c0898ab666?syn-25a6b1a6=1",
+      "summary": "Some airlines reported sixfold increase in number of passengers missing onward flights, says industry body",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-03T09:24:10+00:00"
     },
     {
       "title": "Japan halves speed limit to 30km/h on all narrow city streets",
@@ -295,6 +367,14 @@
     },
     {
       "title": "Broadcom stock fall as investors weigh guidance. Here’s what Wall Street analysts are saying.",
+      "link": "https://www.marketwatch.com/story/broadcom-stock-fall-as-investors-weigh-guidance-heres-what-wall-street-analysts-are-saying-9048c0e6?mod=mw_rss_topstories",
+      "summary": "JPMorgan said that while guidance for revenue for the current quarter was in-line with analysts’ expectations, it was likely below that of investors.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-03T09:00:00+00:00"
+    },
+    {
+      "title": "Broadcom’s stock falls as investors weigh guidance. Here’s what Wall Street analysts are saying.",
       "link": "https://www.marketwatch.com/story/broadcom-stock-fall-as-investors-weigh-guidance-heres-what-wall-street-analysts-are-saying-9048c0e6?mod=mw_rss_topstories",
       "summary": "JPMorgan said that while guidance for revenue for the current quarter was in-line with analysts’ expectations, it was likely below that of investors.",
       "source": "MarketWatch",
@@ -2517,6 +2597,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-02T21:21:00+00:00"
+    },
+    {
+      "title": "米国株式市場＝4日ぶり反発、売られ過ぎ銘柄に買い - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeFNodFFhZ1l5MHpKakxBbDFYVXpQQThtZ2xXM1IzU1UydUk5NTIxVkhwbkFKM2p2T3RRMGhkaVB6Q19fN1p0ZW0yaVFHWEUxUnN3bElrOWRqQlBndDFwZU5YZkd1WEQxcWFNVzBKeTJTYkxqQm9sVzM2bGIwZm5tVg?oc=5",
+      "summary": "米国株式市場＝4日ぶり反発、売られ過ぎ銘柄に買い&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T21:18:35+00:00"
     },
     {
       "title": "Palantir’s stock is slumping. Why bond yields and Google may be to blame.",
