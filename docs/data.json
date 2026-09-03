@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T20:47:34.207815+00:00",
+  "generated_at": "2026-09-03T21:07:19.185575+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -78,6 +78,30 @@
   ],
   "items": [
     {
+      "title": "Stocks, Bonds Rally After Dovish Fed Comments",
+      "link": "https://www.wsj.com/finance/stocks/stocks-bonds-rally-after-dovish-fed-comments-b95763ae?mod=rss_markets_main",
+      "summary": "The Dow added more than 600 points after Federal Reserve governor Christopher Waller said he could support holding rates steady.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-03T21:03:00+00:00"
+    },
+    {
+      "title": "JX金属と住友電工で世界シェア8割！ ｢インジウムリン基板｣は40年大きな変化がなかったのにAIデータセンターで10倍増産 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/956589?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "AIの進化を支えるデータセンター建設ラッシュが世界で続く中､高速光通信の要となるインジウムリン基板の需要が急増しています。日本の住友電工とJX金属が巨額の増産投資に踏み切る背景には､従来の通信インフ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-03T20:50:00+00:00"
+    },
+    {
+      "title": "50歳で会社を辞め､大好きな｢買い物｣をやめたら､欲しかったものすべてが手に入った理由 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/956002?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "生まれてこの方半世紀ほど､ずっと｢買う｣ことに命をかけてきた稲垣えみ子氏。しかし｢勝ち目のない努力｣を続けることに疲れて早期退職を選び､収入も買い物も手放したといいます。その先に待っていた､\"すべて…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-03T20:45:00+00:00"
+    },
+    {
       "title": "U.S. Stocks Rise as Waller Comments Weigh on Yields, Ease Rate Fears",
       "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-waller-comments-weigh-on-yields-ease-rate-fears-b9dbaea4?mod=rss_markets_main",
       "summary": "U.S. stocks rose after comments from a Federal Reserve official took the sting out of rising oil prices by suppressing Treasury yields.",
@@ -102,6 +126,14 @@
       "published": "2026-09-03T20:40:00+00:00"
     },
     {
+      "title": "US charges ICE agent with lying about shooting of Venezuelan immigrant",
+      "link": "https://www.ft.com/content/1fed215c-49a6-4ac2-91ee-221972e0a10a?syn-25a6b1a6=1",
+      "summary": "Officer charged with false statements over circumstances of shooting that fuelled uprising in Minnesota early this year",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-03T20:38:09+00:00"
+    },
+    {
       "title": "This subtle Microsoft change could be a big win for investors",
       "link": "https://www.marketwatch.com/story/this-subtle-microsoft-change-could-be-a-big-win-for-investors-bfacfb17?mod=mw_rss_topstories",
       "summary": "The tech giant is altering how it reports the performance of different business categories in a way that analysts say will make it easier to gauge AI and Azure momentum.",
@@ -122,6 +154,14 @@
       "link": "https://toyokeizai.net/articles/-/956507?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "火曜日が最も多いという解剖現場の裏側。突然死の背景には見過ごされがちな生活習慣や｢ちょっとした異変｣が潜んでいます。",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-03T20:30:00+00:00"
+    },
+    {
+      "title": "セブン、ファミマ、ローソンは「メディア」になれるのか　店舗と購買データを生かす広告ビジネスの実態",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/04/news019.html",
+      "summary": "コンビニ大手3社が、店舗を「売る場所」だけでなく「広告を届ける場所」として活用し始めている。背景にあるのは全国に広げられた店舗網と、日々蓄積される膨大な顧客データだ。3社の取り組みについて探る。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-09-03T20:30:00+00:00"
     },
@@ -196,6 +236,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-03T19:55:00+00:00"
+    },
+    {
+      "title": "ＮＹ外為市場＝円急伸、一時155円台前半 ＦＲＢ理事発言でドル下げ幅拡大 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTNDgzdlNEQmhVaU9iSUJFZGJqT2p2WndPWGFZUC0ya05VZ3NCUnRPeWRtbGs4aDdLMmpqbFRNYm5OMGhBZ2tpSlhqbTJwaFgwRXM2Z3VPeG9FeHp5bzlpY1B5N2lpN0l1MHIxRmItYWZBeGlsWWx2OQ?oc=5",
+      "summary": "ＮＹ外為市場＝円急伸、一時155円台前半 ＦＲＢ理事発言でドル下げ幅拡大&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-03T19:47:43+00:00"
     },
     {
       "title": "Three-LLM: Three.js-based WebGPU LLM inference engine",
