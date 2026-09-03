@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T01:54:13.047847+00:00",
+  "generated_at": "2026-09-03T02:16:33.114586+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -58,7 +58,12 @@
       "category": "海外金融"
     }
   ],
-  "errors": [],
+  "errors": [
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f2e831a02f0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    }
+  ],
   "items": [
     {
       "title": "学校で見かける機会は減ったのに｢高校野球では\"丸刈り\"が残り続ける｣のは､はたしていいことなのか | ライフ | 東洋経済オンライン",
@@ -564,6 +569,62 @@
       "title_orig": "New York Fed's Williams says yield surge due to strong economic prospects"
     },
     {
+      "title": "審査に「方向変換」「安全確認」追加へ　一時不停止で一発不合格に―高齢者の運転技能検査、２７年度にも・警察庁",
+      "link": "https://www.jiji.com/jc/article?k=2026090300333&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-03T02:16:26.911303+00:00"
+    },
+    {
+      "title": "茨城・神栖市長の請求認めず　「まんじゅうや」当選無効訴訟―東京高裁",
+      "link": "https://www.jiji.com/jc/article?k=2026090300120&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-03T02:16:26.911252+00:00"
+    },
+    {
+      "title": "日本の急所「半導体のホルムズ海峡」　台湾有事に加え水不足もリスク",
+      "link": "https://www.asahi.com/articles/ASV800F1YV80ULFA00KM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-03T02:16:26.529942+00:00"
+    },
+    {
+      "title": "Comex Gold Futures May Rise Toward $4,600, Technical Analysis Shows",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-markets-await-further-u-s-jobs-data-926919c4?mod=rss_markets_main",
+      "summary": "Comex gold futures could rise toward $4,600 an ounce, based on technical analysis, StoneX said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-03T02:13:00+00:00"
+    },
+    {
+      "title": "世界最強のイギリスがなぜ｢13植民地｣に敗れた？ \"勝ち目のない戦争\"をひっくり返した｢アメリカ独立戦争｣意外な結末 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/955991?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "「自由か死か―」 超大国アメリカをつくったのは、イギリスを追われ大西洋を渡った貧しい開拓者たちだった。過酷な土地を自力で切り拓いた彼らを待ち受けていたのは、本国イギリスによる一方的な重税と商売の独占…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-03T02:00:00+00:00"
+    },
+    {
+      "title": "「市場調節に関する意見交換会」の開催について",
+      "link": "http://www.boj.or.jp/paym/market/mkt260903a.pdf",
+      "summary": "",
+      "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-09-03T02:00:00+00:00"
+    },
+    {
+      "title": "The Hunt for AI-Proof Assets Is Leading Investors to Sports, Casinos and Travel",
+      "link": "https://www.wsj.com/tech/ai/the-hunt-for-ai-proof-assets-is-leading-investors-to-sports-casinos-and-travel-30ad23a3?mod=rss_markets_main",
+      "summary": "Venture capitalists are pivoting to physical experiences as they seek businesses insulated from the rapid development of artificial intelligence.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-03T02:00:00+00:00"
+    },
+    {
       "title": "米ＮＹ市、公立校でのＡＩ利用禁止　中学生以下対象、１年試行",
       "link": "https://www.jiji.com/jc/article?k=2026090300224&g=int&m=rss",
       "summary": "",
@@ -826,6 +887,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-03T00:35:00+00:00"
+    },
+    {
+      "title": "ＮＹ市、公立小中学校で生徒のＡＩ利用を1年間凍結 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BSUtoMlhSMGFpQ2hweVpMcTZqem9aZXZadnJXYjBQMGJISVdsMnRJcTQ1N0tJRThGT0U0VzRNLTBFOFRyWDluejJmM3lfekZMM3lsUWpucXlOekYteVk4UVdjU0drNVItS2FXekhYODhIRVNCdmN4aHdR?oc=5",
+      "summary": "ＮＹ市、公立小中学校で生徒のＡＩ利用を1年間凍結&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-03T00:31:00+00:00"
     },
     {
       "title": "老後の不安を抱える氷河期世代の\"最後の砦\"か…身近な存在のはずなのに意外と知らない《社会福祉協議会》の底力 | ライフ | 東洋経済オンライン",
@@ -1354,6 +1423,14 @@
       "published": "2026-09-02T18:29:12+09:00"
     },
     {
+      "title": "5918.JSFn - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdG1FdTROM1pzeXNtVEpXdXJIZEthVWxDUTNoYVpUcjFQQjk3OTdtLTBTeW5hT0RoX3ZNVHFXRWdId2NoX0JWODZNMGZNUE91VV8xRk5mN1hSUnZBTW5ReFlUVXpjYy1pOTlNc3ptemM1SEw0RnZ4QTZKNjM3b055R1lLWC1OS3ZBU3c?oc=5",
+      "summary": "5918.JSFn - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T18:29:07+00:00"
+    },
+    {
       "title": "ヒマラヤの洪水災害を受けてネパールの山岳観光産業は「深刻な警告」に直面している",
       "link": "https://www.cnbc.com/2026/09/02/nepal-tibet-floods-adventure-tourism-economy.html",
       "summary": "ネパールの壊滅的な洪水は、旅行シーズンのピークを前に、同国の重要なアドベンチャーツーリズム業界に新たな懸念を引き起こしている。",
@@ -1386,6 +1463,14 @@
       "source": "GitHub Blog",
       "category": "開発者向け",
       "published": "2026-09-02T18:00:00+00:00"
+    },
+    {
+      "title": "6875.H - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90ODU5U1RKQXVYV2pxMlJGSWN0U09GdDRLaDY3MDFGOTRPRkRvMUZ1Z21GM0pDb254ZkZlcGVKcDRtVDBnMWhmUTJfQ1F1U24yUFgwa3dkRGlud3pqNE1LLTY0RTYtS2plaWc?oc=5",
+      "summary": "6875.H - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T17:56:13+00:00"
     },
     {
       "title": "三菱自動車が新型パジェロ公開　7年ぶり復活、国内は12月中旬発売",
@@ -1460,6 +1545,14 @@
       "published": "2026-09-02T16:59:53+09:00"
     },
     {
+      "title": "6RJ0.DE - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nVTlpWC1iWE5QV09ScWt3Y2xQUFUyckZwTFFXSFo0T19yeHRzYnJEQzlsT0cxazNPT1h6MjBDeGF3czNGal92WjlTblVTMjk5cGhKVVdfUzVqVXE0Y1p4TG50amp2ZE5sTU51dHhKOXJSUkxnbXc?oc=5",
+      "summary": "6RJ0.DE&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T16:58:54+00:00"
+    },
+    {
       "title": "追加利上げ「一定のペースにとらわれず機動的に」日銀・高田審議委員",
       "link": "https://www.asahi.com/articles/ASV922FZQV92ULFA00RM.html?ref=rss",
       "summary": "",
@@ -1482,6 +1575,14 @@
       "source": "日本銀行",
       "category": "公的機関",
       "published": "2026-09-02T16:30:00+09:00"
+    },
+    {
+      "title": "A19.H - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPREl4REdTMWVtQ001dEVfWFhXT3Q1Sk5ZRVMwVXcyajFTbzc5dS11WUtKLWdWUWI4ajMyT1pLNWdZZnMyd3ZQU0ZUS3l6TEpiYlFWTTZCbFZmRElmY011TnpLRGcyeWppTkl0LV9qX1hfZnlMZ1E0OWVwWno5cS03WEdWaXJGQWJtNWQ0?oc=5",
+      "summary": "A19.H&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T16:28:38+00:00"
     },
     {
       "title": "日経平均は大幅に3日続落、原油高・金利高を嫌気 ＴＯＰＩＸ連騰途切れる - ロイター",
@@ -1658,6 +1759,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-02T14:41:34+00:00"
+    },
+    {
+      "title": "3842.JSFn - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnZ21qaTVEZGRhU3BBT04wUWx2ektmN25wVktpcWhkS3hnTTJCWWprYVBkSDh0UWxiUnZVRGdPR1dMRnliVF9ucnlnTHpqMHRHajkzdFZGOFNSbnRaMXg3bw?oc=5",
+      "summary": "3842.JSFn - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T14:41:05+00:00"
     },
     {
       "title": "Exit the Cave",
@@ -2084,6 +2193,14 @@
       "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-09-02T06:00:00+09:00"
+    },
+    {
+      "title": "619A.ODX - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SaU91aG5uRGpYb3gxbVN4TjR5OWlrVUZCNnpEeU5MWVpFUUZ4RHhLRDlBOURsQkRJSW5VNl9wbmZvVGx5NDdKWnV0TGFHdVh4X0tYaW5hOHFDejEwWWsw?oc=5",
+      "summary": "619A.ODX - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T05:56:57+00:00"
     },
     {
       "title": "RCLss.AX - | Stock Price & Latest News - ロイター",
@@ -2666,6 +2783,14 @@
       "source": "AWS ブログ (アーキテクチャ)",
       "category": "開発者向け",
       "published": "2026-09-01T14:01:10+00:00"
+    },
+    {
+      "title": "6134.JSFn - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX05tREszd0xaUGdla09lRmpiOUFaN3ZSbTFRZkNwelJ0UHBrc1k4WnkzZFozNGZqVlVpRXpKRlJXZklSQ3Y0MU9NOGhtYndhb2J3cnVLVE13WDAxV0EtYVdNeXIwU05jNkFTOFNvZWhJQ0RPYndnRjhYMUdxWnY3Zw?oc=5",
+      "summary": "6134.JSFn - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T13:26:53+00:00"
     },
     {
       "title": "MCP went stateless: Is your AWS MCP server deployment well-architected?",
