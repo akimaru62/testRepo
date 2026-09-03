@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T12:54:28.296660+00:00",
+  "generated_at": "2026-09-03T13:08:14.330904+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -148,6 +148,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-03T12:12:35.148848+00:00"
+    },
+    {
+      "title": "Nvidia to Acquire Hugging Face",
+      "link": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+      "summary": "Article URL: https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/\nComments URL: https://news.ycombinator.com/item?id=49548952\nPoints: 19\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-03T12:10:33+00:00"
     },
     {
       "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
@@ -890,6 +898,14 @@
       "title": "Stock Market Today: Treasury Yields Steady, Oil Pushes Ahead",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-03-2026?mod=rss_markets_main",
       "summary": "Yen jumps around 2% in as many days on rate-hike expectations",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-03T07:45:04+00:00"
+    },
+    {
+      "title": "Stock Market Today: Treasury Yields Retreat on Fed Official’s Rate Comments",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-03-2026?mod=rss_markets_main",
+      "summary": "Fed’s Waller says he would back keeping rates steady if inflation data is supportive; yen rallies",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-03T07:45:04+00:00"
