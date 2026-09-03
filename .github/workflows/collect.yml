@@ -2,8 +2,8 @@ name: ニュース自動収集
 
 on:
   schedule:
-    - cron: "*/15 * * * *"  # 15分ごとに実行(混雑時は数分遅延することがある)
-  workflow_dispatch:       # 手動実行も可能
+    - cron: "*/15 * * * *" # 15分ごとに実行(混雑時は数分遅延することがある)
+  workflow_dispatch: # 手動実行も可能
 
 permissions:
   contents: write
@@ -18,8 +18,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests feedparser
+
       - name: ニュースを収集
-        run: python3 fetch_news.py
+        # 追加したスクリプトを使って hnrss / AWS / Azure / GitHub 等のフィードを収集
+        run: python3 scripts/fetch_feeds.py
 
       - name: 変更があればコミット
         run: |

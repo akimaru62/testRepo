@@ -21,7 +21,7 @@ from email.utils import parsedate_to_datetime
 
 FEEDS = [
     # (feed_url, source_name, category)
-    ("https://hnrss.org/frontpage.xml", "Hacker News", "テクノロジー"),
+    ("https://hnrss.org/frontpage", "Hacker News", "テクノロジー"),
     ("https://aws.amazon.com/blogs/aws/feed/", "AWS ブログ (AWS)", "テクノロジー"),
     ("https://aws.amazon.com/blogs/architecture/feed/", "AWS ブログ (アーキテクチャ)", "開発者向け"),
     ("https://azure.microsoft.com/ja-jp/blog/feed/", "Azure ブログ", "テクノロジー"),
