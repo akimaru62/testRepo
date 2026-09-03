@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T16:09:13.250296+00:00",
+  "generated_at": "2026-09-03T16:26:50.110413+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -80,6 +80,38 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-03T17:00:00+00:00"
+    },
+    {
+      "title": "対イラン、攻撃「長く続かない」　レーダー復旧、機雷散布に対処―トランプ米大統領",
+      "link": "https://www.jiji.com/jc/article?k=2026090300211&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-03T16:26:45.748790+00:00"
+    },
+    {
+      "title": "Texas Data Center Map: See where data centers are operating or planned",
+      "link": "https://www.kxan.com/news/texas/texas-data-center-tracker-see-where-600-projects-are-operating-or-planned-across-state-in-interactive-map/",
+      "summary": "Article URL: https://www.kxan.com/news/texas/texas-data-center-tracker-see-where-600-projects-are-operating-or-planned-across-state-in-interactive-map/\nComments URL: https://news.ycombinator.com/item?id=49552375\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-03T16:10:12+00:00"
+    },
+    {
+      "title": "Gold Futures Extend Gains As Yields Ease",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-markets-await-further-u-s-jobs-data-926919c4?mod=rss_markets_main",
+      "summary": "Gold futures were higher with Treasury yields easing further and the dollar losing ground.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-03T16:08:00+00:00"
+    },
+    {
+      "title": "El Nino Is Yet to Peak, Bringing Heat and Agricultural Damage in Tow, UN Says",
+      "link": "https://www.wsj.com/economy/global/el-nino-is-yet-to-peak-bringing-heat-and-agricultural-damage-in-tow-un-says-1cfe9dd0?mod=rss_markets_main",
+      "summary": "This year’s El Nino is on track to be the strongest in at least 70 years, further increasing the likelihood of widescale disruption to global agricultural markets.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-03T16:08:00+00:00"
     },
     {
       "title": "GitHub Copilot app for Beginners: Run several agents at once",
@@ -933,6 +965,14 @@
       "title": "Merz becomes a liability as AfD surges",
       "link": "https://www.ft.com/content/51afa87f-7452-4c5c-8beb-7eed624f6f22?syn-25a6b1a6=1",
       "summary": "Christian Democrats avoid campaigning with German chancellor as they try to slow rise of far right in Saxony-Anhalt",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-03T10:00:02+00:00"
+    },
+    {
+      "title": "‘People are going to get screwed’: Pennsylvania voters unite against data centres",
+      "link": "https://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5?syn-25a6b1a6=1",
+      "summary": "Politicians compete to reflect growing opposition to new facilities in the swing state",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-03T10:00:02+00:00"
