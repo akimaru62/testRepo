@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T11:07:19.912335+00:00",
+  "generated_at": "2026-09-03T11:22:00.564713+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -78,6 +78,78 @@
       "published": "2026-09-03T17:00:00+00:00"
     },
     {
+      "title": "中国・戦勝記念日、各地で行事　習政権、対日批判を展開",
+      "link": "https://www.jiji.com/jc/article?k=2026090300972&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-03T11:21:55.387193+00:00"
+    },
+    {
+      "title": "家宅捜索中の暴行、映像データ消去者を特定できず　隠滅容疑で捜査も―大阪府警",
+      "link": "https://www.jiji.com/jc/article?k=2026090300979&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-03T11:21:55.387181+00:00"
+    },
+    {
+      "title": "田中貴金属・ミキモトの偽サイト　「模造品」届く、消費者庁が公表",
+      "link": "https://www.jiji.com/jc/article?k=2026090301004&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-03T11:21:55.387168+00:00"
+    },
+    {
+      "title": "日本製紙八代工場で火災　熊本地震で煙突倒壊",
+      "link": "https://www.jiji.com/jc/article?k=2026090300985&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-03T11:21:55.387154+00:00"
+    },
+    {
+      "title": "年内の異常気象警告　海温上昇、観測史上最大か―ＷＭＯ",
+      "link": "https://www.jiji.com/jc/article?k=2026090300994&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-03T11:21:55.387133+00:00"
+    },
+    {
+      "title": "最低賃金、全国平均１１７７円　５６円引き上げ、３３府県で目安超え",
+      "link": "https://www.jiji.com/jc/article?k=2026090300788&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-03T11:21:55.387090+00:00"
+    },
+    {
+      "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
+      "link": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
+      "summary": "“I am frustrated and financially exhausted from continuing to invest my own money into  these properties.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-03T11:16:00+00:00"
+    },
+    {
+      "title": "China hits back at G20 statement on its reliance on exports, accusing them of 'promoting protectionism'",
+      "link": "https://www.cnbc.com/2026/09/03/china-g20-exports-trade.html",
+      "summary": "China rejected G20 pressure over export-driven growth while also challenging U.S. Iran sanctions and European trade measures.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-09-03T11:12:54+00:00"
+    },
+    {
+      "title": "「純金」実は銅と鉄 偽サイト被害",
+      "link": "https://news.yahoo.co.jp/pickup/6594130?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-03T11:10:45+00:00"
+    },
+    {
       "title": "3円超円高、一時156円台に　利上げ観測、日本で拡大、米では後退",
       "link": "https://www.asahi.com/articles/ASV933DWJV93ULFA00WM.html?ref=rss",
       "summary": "",
@@ -150,12 +222,28 @@
       "published": "2026-09-03T10:37:00+00:00"
     },
     {
+      "title": "Snowflake’s stock is surging.  Here’s what Wall Street analysts are saying.",
+      "link": "https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories",
+      "summary": "Analysts see the software company continuing to benefit from the artificial-intelligence revolution.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-03T10:37:00+00:00"
+    },
+    {
       "title": "WASM_OS, an operating-system experiment that runs inside a browser tab",
       "link": "https://wasmos-production.up.railway.app",
       "summary": "Article URL: https://wasmos-production.up.railway.app\nComments URL: https://news.ycombinator.com/item?id=49548285\nPoints: 8\n# Comments: 1",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-03T10:36:09+00:00"
+    },
+    {
+      "title": "Gloria Steinem, groundbreaking feminist campaigner, dies aged 92",
+      "link": "https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92",
+      "summary": "Article URL: https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92\nComments URL: https://news.ycombinator.com/item?id=49548256\nPoints: 9\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-03T10:31:18+00:00"
     },
     {
       "title": "Health Care Roundup: Market Talk",
@@ -223,6 +311,14 @@
     },
     {
       "title": "Friedrich Merz sidelined as party fights far-right in regional poll",
+      "link": "https://www.ft.com/content/51afa87f-7452-4c5c-8beb-7eed624f6f22?syn-25a6b1a6=1",
+      "summary": "Christian Democrats avoid campaigning with German chancellor as they try to slow rise of far right in Saxony-Anhalt",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-03T10:00:02+00:00"
+    },
+    {
+      "title": "Merz becomes a liability as AfD surges",
       "link": "https://www.ft.com/content/51afa87f-7452-4c5c-8beb-7eed624f6f22?syn-25a6b1a6=1",
       "summary": "Christian Democrats avoid campaigning with German chancellor as they try to slow rise of far right in Saxony-Anhalt",
       "source": "Financial Times",
@@ -557,6 +653,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-09-03T07:57:20+09:00"
+    },
+    {
+      "title": "SJS.HMd%5EI25 - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWmpsOUxrbERMcDh2VGVGeWN6TnRSWmlqNVFHdXdCMG83YW9qTmI1YkdLUkd1OFN6MmhFSUtBZk1wQWFlTVdBSmlBeHE3YUlEclNwVDNzMjRNQlJlTHNHNmo1cW05eFloNm5OVmRZOGZCcWhNVGFlaXVnd09wLUwtQ014NHFyejJHMF93?oc=5",
+      "summary": "SJS.HMd%5EI25 - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-03T07:49:49+00:00"
     },
     {
       "title": "熊本イオン爆発、事故調が初会合「経験のない事象」　ガス漏れ焦点",
@@ -3059,6 +3163,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-02T17:30:00+09:00"
+    },
+    {
+      "title": "カナダ中銀、金利据え置き 総裁「インフレ高止まりなら利上げの用意」 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbndJQTA4Yk95Y2g0RVBtVDY3ckI4QzZyRldKejJiMU5FVV9hWldzVlZwUlA4M2F2QV9rako1RkVqbDNueG91bGw3R19IUmVSUTNoeDctQkh6ajFHMlVjZGMyRUxrQ2hjdzRTcVNackpNNW5vd2p0NTF2aXNILUFhTQ?oc=5",
+      "summary": "カナダ中銀、金利据え置き 総裁「インフレ高止まりなら利上げの用意」&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T17:25:09+00:00"
     },
     {
       "title": "Dutch central bank moves gold bars out of New York over ‘geopolitical unrest’",
