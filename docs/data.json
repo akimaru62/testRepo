@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T16:38:46.853454+00:00",
+  "generated_at": "2026-09-03T16:47:50.141837+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -82,6 +82,14 @@
       "published": "2026-09-03T17:00:00+00:00"
     },
     {
+      "title": "I’m 68. Should I spend half my 401(k) to buy a home with a mortgage?",
+      "link": "https://www.marketwatch.com/story/im-68-should-i-spend-half-my-401-k-to-buy-a-home-with-a-mortgage-285e5ada?mod=mw_rss_topstories",
+      "summary": "There’s a long checklist when deciding where to live, especially in your retirement years.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-03T16:44:00+00:00"
+    },
+    {
       "title": "対イラン、攻撃「長く続かない」　レーダー復旧、機雷散布に対処―トランプ米大統領",
       "link": "https://www.jiji.com/jc/article?k=2026090300211&g=int&m=rss",
       "summary": "",
@@ -90,12 +98,28 @@
       "published": "2026-09-03T16:26:45.748790+00:00"
     },
     {
+      "title": "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
+      "link": "https://www.mireye.com",
+      "summary": "Hi HN, I'm Ansh, founder of Mireye. I'm building the infrastructure AI agents use to make decisions about physical places: data, enrichment, tools, and signals for any US location, behind one API and MCP server.Here's a demo video: https://youtu.be/haqO6UbUqU0To try it, paste https://www.mireye.com/skills.md into your agent, and grab a free key at mireye.com (5,000 credits, no card). Docs are at https://docs.mireye.ai. The fastest way in is to ask the API any question about any US location. Test it on a place you know, cold and grade it against what you know.Before Mireye I was building construction agents and hit this wall myself: my agent could reason about anything online but knew nothing about the ground under it. Then a Fortune 500 insurer told me their engineers had given up on underwriting agents for the same reason. Frontier models keep hallucinating when asked a specific question about a specific place.My first product was a niche site-screening app. Customers tested it on places they knew and the answers held up, but nobody cared about the app. They wanted the engine underneath. Usage agreed: 311 of the 317 fields in the catalog get queried and no use case dominates. So I killed the app and started building the infrastructure instead.Mireye is not a dataset with an API on top, because facts alone are not a decision. An agent runs the whole job through it: cited facts, a bare address enriched into owner, acreage, structures, and nearby power, tools for the operations models get wrong, and signals when something changes, like a rezoning filing. Data, enrichment, tools, signals.The tools came from watching agents fail. We build agents on our own infra, and the same things kept breaking: an agent would eyeball a distance instead of computing it, grab the wrong parcel for an address, or burn its whole budget halfway through a batch. Each failure became something an agent can call: deterministic geometry and drive-time tools, parcel resolution, a quote endpoint that prices a job before it runs, and skills that package whole workflows like screening a site or underwriting an address.The hard part surprised me. Every source has to be gathered (sometimes county by county, in whatever format each county publishes), normalized into one schema, contracted (where it comes from, what each value means, how often it refreshes), and then kept fresh forever. We run that loop for 366 fields today, served multi-tenant from one index, and every source fought back differently. Maryland publishes a dataset literally titled \"Hidden Property Owner Names.\" I filed public records requests in North Carolina because nobody indexes sewer mains.The deeper problem is meaning. Two counties publish a field with the same name and it means different things. And the most dangerous value is null. Does it mean \"no flood zone here\" or \"this county never mapped floods\"? Put a model in front of that gap and it fills the silence with a plausible number. So we type absence. Every field returns ok, absent, or failed. Customers have told me the refusals are why they trust it.The newest piece is on-demand indexing. Ask for a field we don't have and a long-running agent researches sources, collects the data, tests it against ground truth, and indexes it, usually within a day. I'll take a few field requests from this thread and report back with what it built.People have built things I didn't plan for: insurance teams screening portfolios for flood, wind, and wildfire, a proptech cleaning messy listing addresses through enrichment, a wellness brand scoring street corners for poster spots, a robotics company sourcing warehouses, data center site selection, drone deployment planning, school bus routes for a city, signals for human trafficking investigations. The mission is to index every inch of the earth and make it as queryable as the web.Pricing is public: the free tier is 5,000 credits a month, $19/month for 25,000, $99/month for 120,000, custom for enterprise.I'd love to hear where the agents you're building touch the physical world. And I'd love it more if you run Mireye on a place you know and tell me what we got wrong.\n\nComments URL: https://news.ycombinator.com/item?id=49552616\nPoints: 2\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-03T16:24:13+00:00"
+    },
+    {
       "title": "Texas Data Center Map: See where data centers are operating or planned",
       "link": "https://www.kxan.com/news/texas/texas-data-center-tracker-see-where-600-projects-are-operating-or-planned-across-state-in-interactive-map/",
       "summary": "Article URL: https://www.kxan.com/news/texas/texas-data-center-tracker-see-where-600-projects-are-operating-or-planned-across-state-in-interactive-map/\nComments URL: https://news.ycombinator.com/item?id=49552375\nPoints: 4\n# Comments: 0",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-03T16:10:12+00:00"
+    },
+    {
+      "title": "Prediction: AI Will Collapse",
+      "link": "https://twitter.com/wordgrammer/status/2095263188153401712",
+      "summary": "Article URL: https://twitter.com/wordgrammer/status/2095263188153401712\nComments URL: https://news.ycombinator.com/item?id=49552347\nPoints: 11\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-03T16:08:44+00:00"
     },
     {
       "title": "Gold Futures Extend Gains As Yields Ease",
@@ -213,6 +237,14 @@
       "title": "Grok Outage",
       "link": "https://status.x.ai/",
       "summary": "Article URL: https://status.x.ai/\nComments URL: https://news.ycombinator.com/item?id=49551589\nPoints: 19\n# Comments: 11",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-03T15:26:01+00:00"
+    },
+    {
+      "title": "Grok outage",
+      "link": "https://status.x.ai/",
+      "summary": "Article URL: https://status.x.ai/\nComments URL: https://news.ycombinator.com/item?id=49551589\nPoints: 128\n# Comments: 105",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-03T15:26:01+00:00"
@@ -440,6 +472,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-03T13:46:00+00:00"
+    },
+    {
+      "title": "300235ta.SZ - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yTGZCRjlWS3Fwbk9IWXZ2U0Riak1ZUkpGUkpSZHJCTVRSeGdXRFFLejZ5alZqRVc4SDNvYmZvUDctV3E3MGQ1QmhlTFl1VHBQVHZ1aG9CLUZMSlNLUFNuQ2dpQQ?oc=5",
+      "summary": "300235ta.SZ - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-03T13:44:28+00:00"
     },
     {
       "title": "4円超円高、一時155円台に　利上げ観測、日本で拡大、米では後退",
@@ -1090,6 +1130,14 @@
       "published": "2026-09-03T09:18:00+00:00"
     },
     {
+      "title": "BRINBs.TQE - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTHk1b3pfaWEwdzNaMHd1UnlTZXBQSzd1a3pvTDNmelJISUo4VkhjT0ptMzl5ZEFxNThjUXRVa2xkSGd0d3ppb3lEanN0SFFTZVhtcmluMHoxMlFRak50c213WllmX3NXdVh3MjRMWDlLVTRrLUh0R1FnTnpJRXNnSFpR?oc=5",
+      "summary": "BRINBs.TQE - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-03T09:16:29+00:00"
+    },
+    {
       "title": "‘Please don’t let this happen to you’: My best friend died without a will — her neglectful family gets everything",
       "link": "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
       "summary": "“She struggled with the thought of leaving everything to people who, in her eyes, had never made much time for her.”",
@@ -1411,6 +1459,14 @@
       "published": "2026-09-03T07:45:04+00:00"
     },
     {
+      "title": "Stock Market Today: Treasury Yields Retreat, Stocks Climb on Fed Official’s Rate Comments",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-03-2026?mod=rss_markets_main",
+      "summary": "Dow rises after Fed’s Waller says he'd back rate hold if inflation data is supportive",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-03T07:45:04+00:00"
+    },
+    {
       "title": "30代でFIRE生活も 高まる投資熱",
       "link": "https://news.yahoo.co.jp/pickup/6594106?source=rss",
       "summary": "",
@@ -1645,6 +1701,22 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-03T06:47:11+00:00"
+    },
+    {
+      "title": "BILOta.NS - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRE1LLTlTalQ5YTdPeEFxOTJzbmJwUW1vQVJUNW9rRlhaSHlKSGZaWUhubDBQMDVCc3NDaVVteVJHYkpQV1JadkM3Y1FZWEt5azE1QkZTOUVwd0tfbE4yRVRYYi1lRGZCdXFlNEkzaC1OOUNrOVVLU2RaNWFlV040VGxhZkE?oc=5",
+      "summary": "BILOta.NS - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-03T06:47:09+00:00"
+    },
+    {
+      "title": "BILOol.NS - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTDQwZEV5N2kwY1VKM3pSTTkzcVdBVXZNSWpmTXlxSktYM2UtZlFOZXlQWTJNSlZpMWZaRHZ4OXNWbFUyR0JOQmV6ejdycUhsclZDdmsxbm1EcmE3TjQzckthY1EtNmM0R1paTC1UT3VuNVoxWFVDcjZEQkVqR0VjTA?oc=5",
+      "summary": "BILOol.NS - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-03T06:46:55+00:00"
     },
     {
       "title": "BILO.NS - ロイター",
@@ -2049,6 +2121,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-03T05:48:44.656546+00:00"
+    },
+    {
+      "title": "619A.JNF - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMVpicTNIMllhWWlvXzYyTmdiRDZacE5rNFJfNkU4MEJBOFFpanJoTWhoS1pkX1FEUmFaM3pyQ1BUWlVRNnFuX1pRVHpSUHpYRmFKbnJfVjEySkRKeGY1elRJWXkwbGczd0h4WUNFNzNjZTlaeW1Ec2NKYU81RW82cWdxUQ?oc=5",
+      "summary": "619A.JNF - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-03T05:44:42+00:00"
     },
     {
       "title": "JPモルガンは商社が債券の発行に力を入れる中、ジェーン・ストリートへの融資を抑制した",
