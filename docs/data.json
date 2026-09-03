@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T15:08:20.814170+00:00",
+  "generated_at": "2026-09-03T15:28:03.023390+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -82,6 +82,78 @@
       "published": "2026-09-03T17:00:00+00:00"
     },
     {
+      "title": "４日の予告先発投手　プロ野球セ・リーグ",
+      "link": "https://www.jiji.com/jc/article?k=2026090300881&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-03T15:27:57.285920+00:00"
+    },
+    {
+      "title": "ジェコが代表引退へ　ボスニア代表の４０歳―サッカー",
+      "link": "https://www.jiji.com/jc/article?k=2026090301171&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-03T15:27:57.285909+00:00"
+    },
+    {
+      "title": "増居、役割果たせず　プロ野球・ヤクルト",
+      "link": "https://www.jiji.com/jc/article?k=2026090301151&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-03T15:27:57.285896+00:00"
+    },
+    {
+      "title": "爆弾ドローン「ロシアに責任」　領事館閉鎖、対立激化へ―ドイツ",
+      "link": "https://www.jiji.com/jc/article?k=2026090200233&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-03T15:27:57.285885+00:00"
+    },
+    {
+      "title": "ジョージ・クルーニーさん、トランプ政権を「悪徳政治」と批判「最も不適任な人々による統治」",
+      "link": "https://www.jiji.com/jc/article?k=20260903049309a&g=afp&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-03T15:27:57.285871+00:00"
+    },
+    {
+      "title": "白川英樹さん死去、９０歳　導電性高分子でノーベル化学賞",
+      "link": "https://www.jiji.com/jc/article?k=2026090300838&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-03T15:27:57.285855+00:00"
+    },
+    {
+      "title": "佐藤、三冠王へ加速　２本塁打、猛打賞に４打点―プロ野球・阪神",
+      "link": "https://www.jiji.com/jc/article?k=2026090301057&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-03T15:27:57.285826+00:00"
+    },
+    {
+      "title": "U.S. Natural Gas Inventories Increase As Expected",
+      "link": "https://www.wsj.com/articles/european-ttf-gas-seen-at-80-euros-a-megawatt-hour-by-end-of-2026-2c53f93e?mod=rss_markets_main",
+      "summary": "U.S. natural gas futures fell after inventories rose less than usual last week.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-03T15:13:00+00:00"
+    },
+    {
+      "title": "Treasury Yields Retreat on Fed Official’s Rate Comments",
+      "link": "https://www.wsj.com/finance/stocks/bond-selloff-pauses-stocks-tread-water-as-traders-watch-for-yen-intervention-25a7e983?mod=rss_markets_main",
+      "summary": "U.S. stocks had moderate gains and software stocks are in the spotlight after Snowflake reported better-than-expected results.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-03T15:12:00+00:00"
+    },
+    {
       "title": "Elevated errors across ChatGPT and Codex",
       "link": "https://status.openai.com/incidents/01M1KWEDH417T2CF44YYHZDFCR",
       "summary": "Article URL: https://status.openai.com/incidents/01M1KWEDH417T2CF44YYHZDFCR\nComments URL: https://news.ycombinator.com/item?id=49550886\nPoints: 9\n# Comments: 2",
@@ -98,12 +170,28 @@
       "published": "2026-09-03T14:57:00+00:00"
     },
     {
+      "title": "Leon Black sues US Congress over Epstein probe",
+      "link": "https://www.ft.com/content/c99a833b-337a-4cb9-913b-ef1e43a96c5c?syn-25a6b1a6=1",
+      "summary": "Private-equity titan is among Wall Street figures targeted by House committee for their ties to late sex offender",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-03T14:56:10+00:00"
+    },
+    {
       "title": "Codex Is Down",
       "link": "https://github.com/openai/codex/issues/28756",
       "summary": "Article URL: https://github.com/openai/codex/issues/28756\nComments URL: https://news.ycombinator.com/item?id=49550769\nPoints: 28\n# Comments: 12",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-03T14:54:31+00:00"
+    },
+    {
+      "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
+      "link": "https://anyhumanever.com/",
+      "summary": "Article URL: https://anyhumanever.com/\nComments URL: https://news.ycombinator.com/item?id=49550698\nPoints: 10\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-03T14:51:10+00:00"
     },
     {
       "title": "Netherlands Moves Gold From New York to London, Citing Geopolitical Unrest",
@@ -251,6 +339,14 @@
     },
     {
       "title": "August jobs report could show a summer hiring slump. Haitian refugees are a wild card.",
+      "link": "https://www.marketwatch.com/story/august-jobs-report-could-show-a-summer-hiring-slump-haitian-refugees-are-a-wild-card-93fb6dfc?mod=mw_rss_topstories",
+      "summary": "Is the U.S. economy enduring a summer hiring slump for the third year in a row? Wall Street expects only a small increase in new jobs in August, but the news probably won’t be all bad.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-03T13:33:00+00:00"
+    },
+    {
+      "title": "August jobs report could show a summer slump in hiring. Haitian refugees are a wild card.",
       "link": "https://www.marketwatch.com/story/august-jobs-report-could-show-a-summer-hiring-slump-haitian-refugees-are-a-wild-card-93fb6dfc?mod=mw_rss_topstories",
       "summary": "Is the U.S. economy enduring a summer hiring slump for the third year in a row? Wall Street expects only a small increase in new jobs in August, but the news probably won’t be all bad.",
       "source": "MarketWatch",
@@ -712,6 +808,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-03T10:08:33.438765+00:00"
+    },
+    {
+      "title": "首相にＧ２０報告、他国から日本に注文「特にない」＝片山財務相 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XX012bzlVZk1xVDJvQU9BSDdaUVh2ZmJTaUdXekdCcUZHVlpSVlJoaGo3X2ExQ0o5WXhQNld2cERXLVlSWVFDSmw1b2ZRZUpkSnlwQWVqeUpPNUtiN2Q1TWlBaVNlV2hPZ1lmV2dxZUF1T2E4d09QOUVR?oc=5",
+      "summary": "首相にＧ２０報告、他国から日本に注文「特にない」＝片山財務相&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-03T10:06:48+00:00"
     },
     {
       "title": "Luxury gym Equinox in refinancing talks to shred debt and bulk up cash",
@@ -6447,6 +6551,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-08-31T21:28:19+00:00"
+    },
+    {
+      "title": "トランプ氏、金利高すぎ ＦＲＢ議長は「やるべきことやるだろう」 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdTRvZ25Gdl9ldHRFbXBWcFd0OVlDQlU3dF93VTREOUFZb0d3LWh4V0JfZVJCOXBNQ21WU05MTFhFZWJJY3h3N2RKSTNpeFZzVnBXdjJaWDBFcDFRYXh6bEgxd2RjSFgyVC1XT3RzOF91U05WeHk3NVRLWlFZR2V4VA?oc=5",
+      "summary": "トランプ氏、金利高すぎ ＦＲＢ議長は「やるべきことやるだろう」&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-08-31T20:27:49+00:00"
     },
     {
       "title": "Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available",
