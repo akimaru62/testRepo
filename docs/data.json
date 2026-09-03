@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T02:16:33.114586+00:00",
+  "generated_at": "2026-09-03T03:44:34.119948+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -62,6 +62,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f2e831a02f0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://cloud.google.com/blog/rss",
+      "error": "503 Server Error: Service Unavailable for url: https://cloud.google.com/blog/rss"
     }
   ],
   "items": [
@@ -541,12 +545,76 @@
       "title_orig": "Trump administration backs OpenAI in New York Times copyright battle"
     },
     {
+      "title": "石油販売５社、罪認める　法人向け軽油カルテル―東京地裁",
+      "link": "https://www.jiji.com/jc/article?k=2026090300121&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-03T03:44:29.508264+00:00"
+    },
+    {
+      "title": "「まんじゅうや」は無効票　茨城・神栖市長選訴訟―東京高裁",
+      "link": "https://www.jiji.com/jc/article?k=2026090300120&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-03T03:44:29.508233+00:00"
+    },
+    {
+      "title": "米国産生食用ジャガイモ「輸入解禁」に反対論　農水省が説明会",
+      "link": "https://www.asahi.com/articles/ASV923VDTV92IIPE005M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-03T03:44:29.246493+00:00"
+    },
+    {
+      "title": "鹿児島県が国の応援割待たず独自宿泊割　熊本地震で観光業に大打撃",
+      "link": "https://www.asahi.com/articles/ASV930TBFV93TLTB00NM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-03T03:44:29.246449+00:00"
+    },
+    {
+      "title": "30年利付国債（第91回）の入札結果（令和8年9月3日入札）",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260903.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-09-03T03:35:00+00:00"
+    },
+    {
       "title": "ロシアのドローン攻撃7日目、キーウで11人負傷 オデーサ35 万戸停電 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOHMtQ3lDUkQyRXZodExvYy00RjJlbzJtbzlFZU8tSF9TMWJIV3RYcVY2ZkdkOUlpX245Nkg5aUdDQTJQSVJ2N2dBaTJOVWxSdlItYWJkTUpoT1JRcDZ0UlllTWw4NFNYd0NnajQya3hXcElQalpDY1RBSFFueGtncg?oc=5",
       "summary": "ロシアのドローン攻撃7日目、キーウで11人負傷 オデーサ35 万戸停電&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-03T03:08:50+09:00"
+    },
+    {
+      "title": "｢いつも寝てばっかり!｣と勉強しない子どもを叱る前に知っておきたい\"学習効果を上げる\"正しい《睡眠の活用法》 | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/955843?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "私たちは努力して勉強しても､翌朝には忘れてしまうことがあります。しかし実は､睡眠こそが記憶定着のカギとなる｢自動復習装置｣だとご存じでしたか？　本記事では､学びを効率化する睡眠の活かし方や､昼寝やカ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-03T03:00:00+00:00"
+    },
+    {
+      "title": "Yen Strengthens on Prospects of More Aggressive Tightening by BOJ",
+      "link": "https://www.wsj.com/finance/currencies/yen-consolidates-may-be-supported-by-lingering-risks-of-fx-intervention-45c3cccb?mod=rss_markets_main",
+      "summary": "The yen strengthened on prospects of more aggressive tightening of monetary policy by the BOJ.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-03T02:58:00+00:00"
+    },
+    {
+      "title": "「あえてAIと声高に言うな」　住友化学、LINEヤフー、ディップに学ぶ“生成AI全社定着”の極意",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/03/news043.html",
+      "summary": "生成AIを個人の業務効率化ツールで終わらせず、全社規模での活用を推進し、競争優位につなげるには何が必要なのか。生成AI活用に取り組む住友化学、LINEヤフー、ディップの見解をまとめた。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-09-03T02:30:00+00:00"
     },
     {
       "title": "オランダ中央銀行、「地政学的不安」を理由にニューヨークから金塊を移動",
@@ -865,6 +933,14 @@
       "published": "2026-09-03T01:12:00+00:00"
     },
     {
+      "title": "トランプ政権、11月までイラン紛争激化回避か 選挙後は攻撃強化も - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUVhvNUxySzR0OWU0U1JoOXRIdDEyazlvQlFOTFozUEhScUttaHlhcXNQZUpUeWYwczBJQlp3Y0gzU0lLZVdKdFRhMlNnOVhTOFZsZ0x4dlF2R1EyNTladTRscW1RaXptY0pDczdRRlRnckF1OHRuNDNlN3dZeU1uVVl3?oc=5",
+      "summary": "トランプ政権、11月までイラン紛争激化回避か 選挙後は攻撃強化も&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-03T01:08:00+00:00"
+    },
+    {
       "title": "夏休み明け｢学校行きたくない｣に絶望する親へ…｢少し元気になった｣が実は一番危ない! 不登校《心のバッテリー80%の法則》 | キャリア・教育 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/956280?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "夏休み明けから子どもが突然｢学校に行きたくない｣と言い出した――こんなとき､親としては焦りや戸惑いが募るもの。不登校や登校しぶりは､単なる怠けではなく｢心のエネルギー切れ｣が原因かもしれません。大切…",
@@ -892,6 +968,14 @@
       "title": "ＮＹ市、公立小中学校で生徒のＡＩ利用を1年間凍結 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BSUtoMlhSMGFpQ2hweVpMcTZqem9aZXZadnJXYjBQMGJISVdsMnRJcTQ1N0tJRThGT0U0VzRNLTBFOFRyWDluejJmM3lfekZMM3lsUWpucXlOekYteVk4UVdjU0drNVItS2FXekhYODhIRVNCdmN4aHdR?oc=5",
       "summary": "ＮＹ市、公立小中学校で生徒のＡＩ利用を1年間凍結&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-03T00:31:00+00:00"
+    },
+    {
+      "title": "ＮＹ市、公立小中学校で生徒のＡＩ利用を1年間凍結 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BSUtoMlhSMGFpQ2hweVpMcTZqem9aZXZadnJXYjBQMGJISVdsMnRJcTQ1N0tJRThGT0U0VzRNLTBFOFRyWDluejJmM3lfekZMM3lsUWpucXlOekYteVk4UVdjU0drNVItS2FXekhYODhIRVNCdmN4aHdR?oc=5",
+      "summary": "ＮＹ市、公立小中学校で生徒のＡＩ利用を1年間凍結&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-03T00:31:00+00:00"
@@ -945,9 +1029,25 @@
       "published": "2026-09-03T00:17:00+00:00"
     },
     {
+      "title": "メキシコ、日本製鋼板の反ダンピング調査開始 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94ZkV0bFpJSFF0OVlTR2xzNmY2OUwtcUhMWjJCQnRHb0lRU3Q2OVN4ZFJ4SGM4b1I4VlZwXzA2dk14Tl9kT2tDZ0RWclJuMzdCV0ZjMUdDUFBFSFhoWE1nOE5EU3Q1aXJkTElCaXpsQWh3YkZSZVZtYg?oc=5",
+      "summary": "メキシコ、日本製鋼板の反ダンピング調査開始&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-03T00:08:00+00:00"
+    },
+    {
       "title": "米連邦地裁、出生地主義制限の新たな大統領令を差し止め - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVXJRUk9xY2xydzRvNDF5OE1RTzhROXBIWmFQY3o2VzBkMG53Qk1rYnVMQVhqV0hLQUltMlRqLXVsSXBrQm1Oc0N3OU9WSi1jbjZxdXdCa2xnWWlFdVR0SVBXU0sta2IwT3NnY2dVdVBBdEJGOXd0RFdudDE3WU05YUhn?oc=5",
       "summary": "米連邦地裁、出生地主義制限の新たな大統領令を差し止め&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T23:59:43+00:00"
+    },
+    {
+      "title": "米連邦地裁、出生地主義制限の新たな大統領令を差し止め - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVXJRUk9xY2xydzRvNDF5OE1RTzhROXBIWmFQY3o2VzBkMG53Qk1rYnVMQVhqV0hLQUltMlRqLXVsSXBrQm1Oc0N3OU9WSi1jbjZxdXdCa2xnWWlFdVR0SVBXU0sta2IwT3NnY2dVdVBBdEJGOXd0RFdudDE3WU05YUhn?oc=5",
+      "summary": "米連邦地裁、出生地主義制限の新たな大統領令を差し止め&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-02T23:59:43+00:00"
@@ -982,6 +1082,14 @@
       "title": "アンソロピック、トランプ政権と関係修復か 米商務長官発言と報道 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HM0h2VkpnczJoejJESkdNOTNYZS1pTFAyU2s4WTJkU1dxclY3RFlTekk4QTI4U0xUdF93d2I2V0dkdGRTZUVSbUhmTkRucC10bnJPakpZN2ZWbi1ZcUxpZUZZajJGYmlBVC1tQllqclRORjlMUzlkVQ?oc=5",
       "summary": "アンソロピック、トランプ政権と関係修復か 米商務長官発言と報道&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T23:17:43+00:00"
+    },
+    {
+      "title": "アンソロピック、トランプ政権と関係修復か 米商務長官発言と報道 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HM0h2VkpnczJoejJESkdNOTNYZS1pTFAyU2s4WTJkU1dxclY3RFlTekk4QTI4U0xUdF93d2I2V0dkdGRTZUVSbUhmTkRucC10bnJPakpZN2ZWbi1ZcUxpZUZZajJGYmlBVC1tQllqclRORjlMUzlkVQ?oc=5",
+      "summary": "アンソロピック、トランプ政権と関係修復か 米商務長官発言と報道&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-02T23:17:43+00:00"
@@ -1035,12 +1143,36 @@
       "published": "2026-09-02T22:25:18+00:00"
     },
     {
+      "title": "バークシャーＣＥＯ、ＡＩによる事業機会に期待 日本商社株「何十年も」保有姿勢 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrSDEyOTBVQWlUdHJDZkdZcVJlRVNlYXoyek5Kai1IZHdjb3dtT3N2SjZBbkM5VDNid0ktSWRZYXctVGw2QTA0Z01Jbk1LNVNwV2EtUjZHbktzbzFGaTBiRGE0TWt3X2Jhc1FQOHF6bk1zRXZnSFE?oc=5",
+      "summary": "バークシャーＣＥＯ、ＡＩによる事業機会に期待 日本商社株「何十年も」保有姿勢&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T22:19:22+00:00"
+    },
+    {
+      "title": "ＮＹ外為市場＝円急伸、レートチェック観測も 日銀委員はタカ派発言 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1maktSMG00RmhmNm9Gd2RpU3pWY3RsVjVTRjkxajRoZU0zXzZ4bFF1RFRiaXM2bDdZT3k0LXJ2M3lhR09yM1NFRWFORW82cTA0TUtqc0E5VTJRNmR1QkdlOFBHUjE2VUpWLTNUTVJHMkZYdnZoSGxHSg?oc=5",
+      "summary": "ＮＹ外為市場＝円急伸、レートチェック観測も 日銀委員はタカ派発言&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T22:02:57+00:00"
+    },
+    {
       "title": "Reasons robotics is hard",
       "link": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
       "summary": "Article URL: https://secondthoughts.ai/p/14-reasons-robotics-is-hard\nComments URL: https://news.ycombinator.com/item?id=49543191\nPoints: 18\n# Comments: 2",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-02T22:02:30+00:00"
+    },
+    {
+      "title": "7256.J3 - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wdHlwWEsxTTFfWEZGV2FxdzBUa3EtZmN5eHpTWTRYMkJxLW5CSVFMOUJYR3JqQnJjUkJhSS1lVzIyM2hmOUZNV000bEhzYXhuZEZPa2IxWTdOXzRzRzdSNTl1UVU5eW5ZSlY4?oc=5",
+      "summary": "7256.J3 - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T22:01:16+00:00"
     },
     {
       "title": "70代会長も動いた　創業108年みそメーカーがGemini利用率86％を達成した「3つの工夫」",
@@ -1187,6 +1319,14 @@
       "published": "2026-09-02T20:57:00+00:00"
     },
     {
+      "title": "米経済活動、控えめに拡大 物価は緩やかに上昇＝地区連銀報告 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVEM1ZXloSzVwdmdFY0ZvcDlKdFFDZEFqaTExTW81WWQyZFZjZWtNVTE5MFhCek5zTllWUkpyd010aHBNVERSSHdNd01JWVQtakZEMzB1aUZrLVROeXlzbzZ3amxwcGliQzNkbkJURWQ1eVF6eDNLRUJobGw3eldwYw?oc=5",
+      "summary": "米経済活動、控えめに拡大 物価は緩やかに上昇＝地区連銀報告&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T20:52:24+00:00"
+    },
+    {
       "title": "U.S. Stocks Rise as Oil Gains on Iran Escalation",
       "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-oil-gains-on-iran-escalation-aaf0672e?mod=rss_markets_main",
       "summary": "Stocks rose as a rally in Treasury yields stalled but equity and bond moves were muted as oil prices continued climbing due to clashes between Iran and the U.S.",
@@ -1269,6 +1409,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-02T20:08:22+00:00"
+    },
+    {
+      "title": "原油先物1％高、米イラン攻撃再開で供給懸念高まる - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fVm9rV2JQRmtSSzhhMzN0aUloTnY0eXdzaS1oOTNRNVBsY0lhRnNMNFhQbGNZZHRhR0xMNjVVTUc1bUFpTko4SUp2Tmc4a0F2MXc0UWJnc0lBb2lzTEZZQTdTNHlDWFhBdTVfSmQwNGswcTV1bWRUVw?oc=5",
+      "summary": "原油先物1％高、米イラン攻撃再開で供給懸念高まる&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T20:05:44+00:00"
     },
     {
       "title": "I wanna live an NPC life",
@@ -1457,6 +1605,14 @@
       "published": "2026-09-02T18:15:00+09:00"
     },
     {
+      "title": "ロシアのドローン攻撃7日目、キーウで11人負傷 オデーサ35 万戸停電 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOHMtQ3lDUkQyRXZodExvYy00RjJlbzJtbzlFZU8tSF9TMWJIV3RYcVY2ZkdkOUlpX245Nkg5aUdDQTJQSVJ2N2dBaTJOVWxSdlItYWJkTUpoT1JRcDZ0UlllTWw4NFNYd0NnajQya3hXcElQalpDY1RBSFFueGtncg?oc=5",
+      "summary": "ロシアのドローン攻撃7日目、キーウで11人負傷 オデーサ35 万戸停電&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T18:08:50+00:00"
+    },
+    {
       "title": "How we make AI coding more cost efficient without sacrificing task quality",
       "link": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
       "summary": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task.\nThe post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog.",
@@ -1585,6 +1741,14 @@
       "published": "2026-09-02T16:28:38+00:00"
     },
     {
+      "title": "A19.H - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPREl4REdTMWVtQ001dEVfWFhXT3Q1Sk5ZRVMwVXcyajFTbzc5dS11WUtKLWdWUWI4ajMyT1pLNWdZZnMyd3ZQU0ZUS3l6TEpiYlFWTTZCbFZmRElmY011TnpLRGcyeWppTkl0LV9qX1hfZnlMZ1E0OWVwWno5cS03WEdWaXJGQWJtNWQ0?oc=5",
+      "summary": "A19.H&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T16:28:38+00:00"
+    },
+    {
       "title": "日経平均は大幅に3日続落、原油高・金利高を嫌気 ＴＯＰＩＸ連騰途切れる - ロイター",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUjZVVDBWcHpHcGdtTEwycjJRZjE3ZFNDZVBCMHJLMnhicy1RaThUa2pmNGpqU09ybkF1M3R0S1JfLXVJZzZYS2FGTFI5M2U3SjNGZk9rbE9sYlNYdXlmelljOTRzWVVJVUtTWTRuNFlYLXp3ajhOWEI0bmJudmlJbQ?oc=5",
       "summary": "日経平均は大幅に3日続落、原油高・金利高を嫌気 ＴＯＰＩＸ連騰途切れる&nbsp;&nbsp;ロイター",
@@ -1668,6 +1832,14 @@
       "title": "米製造業新規受注、7月は0.9％増 航空機需要回復で予想上回る - ロイター",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONlVVaVBYdUhIOFpKYWgtM0FfUXotb2ctMzd3NEpFY19NRE9NWlIxLWJ1NFRsME5XYmU1VnN6TWRDOElDeGNoRllHbkZIZUpRMjFVRXJmeVl0b243SjlVTjhuelBJUy15SHRxaktRM3NoQTQyZklqOHhIcXdTR1EyOQ?oc=5",
       "summary": "米製造業新規受注、7月は0.9％増 航空機需要回復で予想上回る&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T15:01:44+00:00"
+    },
+    {
+      "title": "米製造業新規受注、7月は0.9％増 航空機需要回復で予想上回る - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONlVVaVBYdUhIOFpKYWgtM0FfUXotb2ctMzd3NEpFY19NRE9NWlIxLWJ1NFRsME5XYmU1VnN6TWRDOElDeGNoRllHbkZIZUpRMjFVRXJmeVl0b243SjlVTjhuelBJUy15SHRxaktRM3NoQTQyZklqOHhIcXdTR1EyOQ?oc=5",
+      "summary": "米製造業新規受注、7月は0.9％増 航空機需要回復で予想上回る&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-02T15:01:44+00:00"
@@ -1761,6 +1933,14 @@
       "published": "2026-09-02T14:41:34+00:00"
     },
     {
+      "title": "6QZ0.D - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBySzA1eS1mMUEzclBnLVdER0tvTnBHR3dFVnhKaEhNanRaMmFBejZrcGZGMUlXRDlMdzB1VVpZQjNHZzN3Z0prVlIxNGFMMHhQNGFGSlJvQ0g1STdXZnNWY1ROaEVQaHRQVHRFTkJHVTNDZ0JDZV9zVFYzTTdkaGc?oc=5",
+      "summary": "6QZ0.D&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T14:41:34+00:00"
+    },
+    {
       "title": "3842.JSFn - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnZ21qaTVEZGRhU3BBT04wUWx2ektmN25wVktpcWhkS3hnTTJCWWprYVBkSDh0UWxiUnZVRGdPR1dMRnliVF9ucnlnTHpqMHRHajkzdFZGOFNSbnRaMXg3bw?oc=5",
       "summary": "3842.JSFn - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
@@ -1780,6 +1960,14 @@
       "title": "QFRA.H - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDOEdyelZ6SVc3bUdvMWVrc2p1bkhtUXBOcFU2WWtWSlVLMm5KY3IyNUpMNDJsU0pyMUsxYjNybnpKb2piemM0dHZ2VW0yc28wb2FGOXg3NlBLNk4xOTg1SFQ1d2FUWllrRkE?oc=5",
       "summary": "QFRA.H&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T14:15:52+00:00"
+    },
+    {
+      "title": "QFRA.H - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDOEdyelZ6SVc3bUdvMWVrc2p1bkhtUXBOcFU2WWtWSlVLMm5KY3IyNUpMNDJsU0pyMUsxYjNybnpKb2piemM0dHZ2VW0yc28wb2FGOXg3NlBLNk4xOTg1SFQ1d2FUWllrRkE?oc=5",
+      "summary": "QFRA.H&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-02T14:15:52+00:00"
@@ -1881,6 +2069,22 @@
       "published": "2026-09-02T11:48:00+09:00"
     },
     {
+      "title": "ZD8.DEU - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeWdsa19tbHN1QmQwbkhsNk9XTkRhWllQcDNpV1JKMWp0b1AyMzFZaDlhc3B4UTN6a3FaanUyLVJfaFQxbFNFYzVsRWVNdTV5Rm9QYWZRRG92M1pHREJqa3RfNEJMR3dGREFfUFgtSGhBWThjcWIyX3dKeWxlSm5xYUVBbkhxZ28?oc=5",
+      "summary": "ZD8.DEU - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T11:43:39+00:00"
+    },
+    {
+      "title": "6HF.SG - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90aXdaa3hsQ09jeDVIOE9ZU0ZrOGtTWWxMNEw5U0JqNEgta0xzWnlZSmhDazlGejZjUVUwY0JmdEtFODdEOURFd1paR2NCbElsMnRJWmhHYzU0YUQ2b2Nka1U4TjRlSFoweTJ6RGwyTWk5VEo4?oc=5",
+      "summary": "6HF.SG&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T11:41:34+00:00"
+    },
+    {
       "title": "6HF.SG - ロイター",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZjJ1RDJwVkNfMDdISk5ES09xVUluTzlvaXRySFNzQ1FidXFrQVBPSnhqUHI0S0wwc1NvTVU0ZGlUX1IyeVVEeHFCNXNfRDkzR3oxeE1fVV9RQU9YMU10c0Y4R09YdU54QW1uUENsaEVpLUpZOTZVNEJCV3FGWUNhVWo1Ti0?oc=5",
       "summary": "6HF.SG&nbsp;&nbsp;ロイター",
@@ -1913,9 +2117,25 @@
       "published": "2026-09-02T11:12:55+00:00"
     },
     {
+      "title": "3SY.H - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vdHpGQmpIb1E0NVRuMGVscFFzckliSUFRdXo4YmZLXzBsVFk2M3hfMkxlUUlad2dFTkI0WElLRVBTOGx3QVo3VTU4UVc0U0w4T25DLXVtUFpUZjFGaVRhTmczV2JQZXhiV3c?oc=5",
+      "summary": "3SY.H&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T11:12:55+00:00"
+    },
+    {
       "title": "5962.JSA - | Stock Price & Latest News - ロイター",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kZGVQVUdDNEFTaXhNUV9jUXlueEpKc3F0RkFjUGxzX3MwNEs0enJTdWJiMlJKTk1fTFlxYUZIc3RmNHhLaTVPSm51QnRJcDI4OHVEMlRXMzgyNlo1Tk5SY0g3LVV3SGlGTThOdjl0bFlMblhXdmxzdzhSUlNSTGM?oc=5",
       "summary": "5962.JSA - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T11:10:33+00:00"
+    },
+    {
+      "title": "5962.JSA - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kZGVQVUdDNEFTaXhNUV9jUXlueEpKc3F0RkFjUGxzX3MwNEs0enJTdWJiMlJKTk1fTFlxYUZIc3RmNHhLaTVPSm51QnRJcDI4OHVEMlRXMzgyNlo1Tk5SY0g3LVV3SGlGTThOdjl0bFlMblhXdmxzdzhSUlNSTGM?oc=5",
+      "summary": "5962.JSA - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-02T11:10:33+00:00"
@@ -1961,9 +2181,25 @@
       "published": "2026-09-02T10:29:46+00:00"
     },
     {
+      "title": "2708.JNF - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WZm5rc2xncnZIdVNFUHNBdTlaR2lsX1ZzbVF6NG9tUWVzQm1CNGo4YXU5MFN3UXZOQkNzRXpiODJxR0diTmN5ME9UVGNTczlLeUF1eXJvSGlDenlUbXlLTm1MSkhmcHR2RVBoOGhDMG9Iakk0b2pvbTZOTQ?oc=5",
+      "summary": "2708.JNF - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T10:29:46+00:00"
+    },
+    {
       "title": "PRXM.F%5ED09 - | Stock Price & Latest News - ロイター",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdjdSTFdvM2dRbUlfRjE4Q2Nmbmdsb0U1SUFwclVCbUZyYWg2akNvM0puQnRfZm01ekRXcXByV2w1VjMzSUVwSzNBcF81WWFRUzdxUW9wTDd0Undaazlwd1JJaUx2WGx0MTNKZDFmR3RrQ21aeDBmMDN4TDVSaEVoUDBxRFpIRTAxQ0k4ZkZUMXQ2NHBU?oc=5",
       "summary": "PRXM.F%5ED09 - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T10:26:40+00:00"
+    },
+    {
+      "title": "PRXM.F%5ED09 - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdjdSTFdvM2dRbUlfRjE4Q2Nmbmdsb0U1SUFwclVCbUZyYWg2akNvM0puQnRfZm01ekRXcXByV2w1VjMzSUVwSzNBcF81WWFRUzdxUW9wTDd0Undaazlwd1JJaUx2WGx0MTNKZDFmR3RrQ21aeDBmMDN4TDVSaEVoUDBxRFpIRTAxQ0k4ZkZUMXQ2NHBU?oc=5",
+      "summary": "PRXM.F%5ED09 - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-02T10:26:40+00:00"
@@ -1983,6 +2219,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-02T10:16:00+00:00"
+    },
+    {
+      "title": "アングル：世界の債券市場揺らす日本マネー、長期金利3％で還流の兆し - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ1BNdHpyR2FIUVNHU2hKVEU1bGp0VWdZa3lsdnRtMEk0cUJFTG1MTnZOdlBneE16WU4xb1FwS3d5NjloSGg3OHNNYUxiN0lBeWloUTJHYmNKSGZCeEkwWEJ6Z1RtbVhXbGtaLWNETXZRQVd6NjE1RGZUcDF1RlV2eUxrV2gwdE9xMC04?oc=5",
+      "summary": "アングル：世界の債券市場揺らす日本マネー、長期金利3％で還流の兆し&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T10:08:00+00:00"
     },
     {
       "title": "「AIに代替されないスキル」を持つエンジニアを見抜く方法は？　必ず聞くべき「6つの質問」",
@@ -2075,12 +2319,28 @@
       "published": "2026-09-02T08:59:17+00:00"
     },
     {
+      "title": "三菱重とＮＥＣ、防衛分野で提携 指揮統制や無人装備などで協力 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPWUZHMGl6NE5VTnlCTEpIcGM3X1VUY0RYNWpCMDd2ZDZZRTRRLWR3b29OZHRrZGliNkRCQThIR1F2R0ItVlBLQjd0NkdSaktydGNkc3ppT3laTWVlU3Y4NEpwcjljSFBtWk51TVpMZndvUnNuYXl5cQ?oc=5",
+      "summary": "三菱重とＮＥＣ、防衛分野で提携 指揮統制や無人装備などで協力&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T08:59:17+00:00"
+    },
+    {
       "title": "マネタリーベース（8月）",
       "link": "http://www.boj.or.jp/statistics/boj/other/mb/mb.htm",
       "summary": "",
       "source": "日本銀行",
       "category": "公的機関",
       "published": "2026-09-02T08:50:00+09:00"
+    },
+    {
+      "title": "ＳＫハイニックス米上場調達資金、韓国外為平衡基金が大半買い取りか 200億ドル - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OZDlfbXBKc3puQUpOU2ZXWklWdE9QU2FrSlpQcXl5LWt5X05hSzZhRGRWX2QxaWJnZHgyMVdlZHZBRXk0ODVpQUhGNXA2WlV0RnVPeW5sNHRrVWliZVpxUnZURmlZaHpSRVgwRUZpQ0NOSVJzeURCRQ?oc=5",
+      "summary": "ＳＫハイニックス米上場調達資金、韓国外為平衡基金が大半買い取りか 200億ドル&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T08:34:05+00:00"
     },
     {
       "title": "Stock Market News, Sept. 2, 2026: Treasury Selloff Pauses While Stocks Rise",
@@ -2094,6 +2354,14 @@
       "title": "ジャパネット、ツインバードへのＴＯＢ提案を取り下げ - ロイター",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3VHQtcWxSZmtSbWdpXy1yb0Y3Y0luRXpZRDFERExiUkpKQ1J0N2JMaFJ4OV9XcFZ6THppdWQwcmRHSmZrQmlXVndTcDJ0MmhUSHVueGIxa2VaWUZpR3FlQVh0N1ZIUUQ4aldYaTRtNm5WMVZDemc?oc=5",
       "summary": "ジャパネット、ツインバードへのＴＯＢ提案を取り下げ&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T08:22:52+00:00"
+    },
+    {
+      "title": "ジャパネット、ツインバードへのＴＯＢ提案を取り下げ - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3VHQtcWxSZmtSbWdpXy1yb0Y3Y0luRXpZRDFERExiUkpKQ1J0N2JMaFJ4OV9XcFZ6THppdWQwcmRHSmZrQmlXVndTcDJ0MmhUSHVueGIxa2VaWUZpR3FlQVh0N1ZIUUQ4aldYaTRtNm5WMVZDemc?oc=5",
+      "summary": "ジャパネット、ツインバードへのＴＯＢ提案を取り下げ&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-02T08:22:52+00:00"
@@ -2115,6 +2383,14 @@
       "published": "2026-09-02T08:00:00+09:00"
     },
     {
+      "title": "強い経済と財政の持続可能性、両立する考え変わらず＝木原官房長官 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kelQtS1d2RG9nV0QzeXJSOWZ5Ym9CbVMwdVNqOGhTWW54MnVvVkJBdTA2UHNZNkdJNzZVLUY0SVJycWlSWWtpaU5FQTVHY2FoUjRyTGpIR291dTB2X0hxTUo3NDI4NXBCMTZIdVd6TE43UW9RYW5IRG1R?oc=5",
+      "summary": "強い経済と財政の持続可能性、両立する考え変わらず＝木原官房長官&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T07:59:53+00:00"
+    },
+    {
       "title": "7488.JSA - | Stock Price & Latest News - ロイター",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40Zi1LVWR1cTFjejZZVzFXYk5hMkVMbWFFbU1pSXE0b19QTkYxN3BqcWc5ZV9JeUZLb3FIR3JYa3VYakw0c2hCbkJDMVFEaUlRbUtMRzBaX0RRc184enJsRVNxVkpVMGhEbXd2QzJRTlRadjE3WXlacA?oc=5",
       "summary": "7488.JSA - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
@@ -2123,12 +2399,36 @@
       "published": "2026-09-02T07:55:56+00:00"
     },
     {
+      "title": "7488.JSA - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40Zi1LVWR1cTFjejZZVzFXYk5hMkVMbWFFbU1pSXE0b19QTkYxN3BqcWc5ZV9JeUZLb3FIR3JYa3VYakw0c2hCbkJDMVFEaUlRbUtMRzBaX0RRc184enJsRVNxVkpVMGhEbXd2QzJRTlRadjE3WXlacA?oc=5",
+      "summary": "7488.JSA - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T07:55:56+00:00"
+    },
+    {
+      "title": "ドイツ、送電施設に破壊工作相次ぐ 外国勢力関与との見方も - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT09WSE9IWmp0emhLRmgwaGZJNkV4NkVLMzlKel9VeE5WbUJ3MUk4VGYyVlN1RFVPbnBFdTF2WW14RTF4dGtRUmtmRWVGWEdZYlNUc0NyUzlxSnZvZS1NdzlYY252anVuZVdqWjdFcm1RMmllXy1KcUdkUmpPREMwemFR?oc=5",
+      "summary": "ドイツ、送電施設に破壊工作相次ぐ 外国勢力関与との見方も&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T07:49:00+00:00"
+    },
+    {
       "title": "NEC、先進AI「Claude Mythos」ついに導入　Anthropic主導“セキュリティ防衛連合”で、何ができる？",
       "link": "https://www.itmedia.co.jp/business/articles/2609/02/news095.html",
       "summary": "NECが、Anthropicの先進AI「Claude Mythos Preview」を導入すると発表した。Anthropicが主導し、200社以上が参画する“セキュリティ防衛連合”「Project Glasswing」に参画した同社。何ができるようになったのか。",
       "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-09-02T07:30:00+00:00"
+    },
+    {
+      "title": "日経平均は大幅に3日続落、原油高・金利高を嫌気 ＴＯＰＩＸ連騰途切れる - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUjZVVDBWcHpHcGdtTEwycjJRZjE3ZFNDZVBCMHJLMnhicy1RaThUa2pmNGpqU09ybkF1M3R0S1JfLXVJZzZYS2FGTFI5M2U3SjNGZk9rbE9sYlNYdXlmelljOTRzWVVJVUtTWTRuNFlYLXp3ajhOWEI0bmJudmlJbQ?oc=5",
+      "summary": "日経平均は大幅に3日続落、原油高・金利高を嫌気 ＴＯＰＩＸ連騰途切れる&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T07:26:31+00:00"
     },
     {
       "title": "8951.H - | Stock Price & Latest News - ロイター",
@@ -2142,6 +2442,14 @@
       "title": "SKHY34.SA - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNenJKRzVjRmE1TE1tNUhzVVpIeHRuZTY4Y1ppaEdNQmRXSEYxY091dzhWYWVxWHItbmFBT1Y3bVhXUVk5enhiWDJZTWdOQmVWQmZyWFpWUVpIRGtoWTVVVWdUVzZ0emxvNFYxTHo0VDFzLVN5ZU1VUXJLU1o1U0NaSWFsR3FDZnpt?oc=5",
       "summary": "SKHY34.SA&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T07:26:09+00:00"
+    },
+    {
+      "title": "SKHY34.SA - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNenJKRzVjRmE1TE1tNUhzVVpIeHRuZTY4Y1ppaEdNQmRXSEYxY091dzhWYWVxWHItbmFBT1Y3bVhXUVk5enhiWDJZTWdOQmVWQmZyWFpWUVpIRGtoWTVVVWdUVzZ0emxvNFYxTHo0VDFzLVN5ZU1VUXJLU1o1U0NaSWFsR3FDZnpt?oc=5",
+      "summary": "SKHY34.SA&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-02T07:26:09+00:00"
@@ -2171,9 +2479,49 @@
       "published": "2026-09-02T06:55:37+00:00"
     },
     {
+      "title": "XS4d.BS - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOclladUhoM3dBV0NWTUNwYlUtXzJ6ZHRpemJLZnRQSW56aExfaFdpb1BYVHZYNnl3YmEyR3VhdUJESTBPaG5RVktYMlVob3kxZ0xFamFkSk85M2N6WUdJZ3ZNTDV2Wk5wNDdETHd6bS1OSlNQRDNwZlZtRmgtbWVKMA?oc=5",
+      "summary": "XS4d.BS&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T06:55:37+00:00"
+    },
+    {
+      "title": "8951.H - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVaHBxSkdReFNOWDRmOFI3Q3dOS2RCVWE1OU5HQkxOQlVjV3BpUXFOZ0ZiZGp6ZTBGQjZfbmFDYUM5QVY1aGVkQU9SalJMUVhwaDBaQ0NldTBmazdYeXBvQ01pVmRXQXpXR3c?oc=5",
+      "summary": "8951.H - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T06:54:48+00:00"
+    },
+    {
+      "title": "Breakingviews - COMMENTARY: コラム：協調から圧力へ、日本は金融政策も「米国の傘」入りか - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc2N1T2JzbktrclpQLTRSSDkwdkRPSnY4UGFmUDI3UTN1RGdzakVCX0lMQTB3TElJR1N2MDZ2VmdZSlhHN243MGRUUVNuVlFPbjRTV2d1RFdFZnNpZFROcVhtdXBieUl4TUx1ZU8wb3VPOGo5ZDYzNUstdm12dUlfQU9xNjR3X0J2SnZj?oc=5",
+      "summary": "Breakingviews - COMMENTARY: コラム：協調から圧力へ、日本は金融政策も「米国の傘」入りか&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T06:33:00+00:00"
+    },
+    {
+      "title": "利上げ幅、毎回0.25％と「必ず決まっているものではない」＝高田日銀委員 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYjV0dW1Ua1JEV0wxbFNWYkMzeVI1Qy1DXzVnVGJ5UGlyaGcwWXlvVUN6RE1ROVNEWC1pOHZkSy04UEJUYjY5d3B4WW9hX1JaNnl0ZnJXQUtEY0J0cGduSTlXOW95dVNMRHZIRUJmWlhuUWZ2S01xbm51RWVEOFFzbW9FRWhKdTdqcjhV?oc=5",
+      "summary": "利上げ幅、毎回0.25％と「必ず決まっているものではない」＝高田日銀委員&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T06:18:00+00:00"
+    },
+    {
       "title": "アングル：クック氏からターナス氏へ、アップル新体制にＡＩと「脱中国」の試練 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQk9WX0RsVWtxcUw5VHN1NGEzOFcwS1Z1UXFMNjlQUjdrZl9PX1Ita0FBVTRzWEc1cDZHenJzWl9wTVJudHA4djk4MzRxY2xlaEE2V3BwSU9rbTlUZDlzTmlPMG9fSUtmQVRwLUJJQ1h3UnJacnFDUF8xbzdqcEdwYw?oc=5",
       "summary": "アングル：クック氏からターナス氏へ、アップル新体制にＡＩと「脱中国」の試練&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T06:06:00+00:00"
+    },
+    {
+      "title": "アングル：クック氏からターナス氏へ、アップル新体制にＡＩと「脱中国」の試練 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQk9WX0RsVWtxcUw5VHN1NGEzOFcwS1Z1UXFMNjlQUjdrZl9PX1Ita0FBVTRzWEc1cDZHenJzWl9wTVJudHA4djk4MzRxY2xlaEE2V3BwSU9rbTlUZDlzTmlPMG9fSUtmQVRwLUJJQ1h3UnJacnFDUF8xbzdqcEdwYw?oc=5",
+      "summary": "アングル：クック氏からターナス氏へ、アップル新体制にＡＩと「脱中国」の試練&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-02T06:06:00+00:00"
@@ -2198,6 +2546,14 @@
       "title": "619A.ODX - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SaU91aG5uRGpYb3gxbVN4TjR5OWlrVUZCNnpEeU5MWVpFUUZ4RHhLRDlBOURsQkRJSW5VNl9wbmZvVGx5NDdKWnV0TGFHdVh4X0tYaW5hOHFDejEwWWsw?oc=5",
       "summary": "619A.ODX - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T05:56:57+00:00"
+    },
+    {
+      "title": "619A.ODX - | Stock Price & Latest News | Reuters - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SaU91aG5uRGpYb3gxbVN4TjR5OWlrVUZCNnpEeU5MWVpFUUZ4RHhLRDlBOURsQkRJSW5VNl9wbmZvVGx5NDdKWnV0TGFHdVh4X0tYaW5hOHFDejEwWWsw?oc=5",
+      "summary": "619A.ODX - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-02T05:56:57+00:00"
@@ -2229,9 +2585,25 @@
       "published": "2026-09-02T05:34:57+00:00"
     },
     {
+      "title": "7832.F - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxVTdaX2RTYjdSWDZzVkJtS1ZNTTlWTDBvMEtKTVc5cVdKNDRRM3F2c3Z3UXI4ZGt4YWZ5NC1XMXowVlQwQVdUSVpET2EzNDZuNVA0SFlkMFNhcmQ2bTRJYk5IeFFSQW10b3dua2xCM19wRnlleVJEcg?oc=5",
+      "summary": "7832.F - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T05:34:57+00:00"
+    },
+    {
       "title": "ネパール土石流で発電能力1割喪失、水力開発計画に疑念 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRm9ieTlUbGxBYVpEUGpDSk5OZHhVN1BybUwwN2wxN0hSWEZYcmQyXzQwZ1BKb0JyRFFrOVRPYUVDb0QxSnBuY0E1QWozY1l0VlVTbjRNTXpLYU1jajNzbkJrWDhTWHFDX1llSXEyaEdneUdsUV9VNEFiVlNnSHZFbw?oc=5",
       "summary": "ネパール土石流で発電能力1割喪失、水力開発計画に疑念&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T04:55:00+00:00"
+    },
+    {
+      "title": "ネパール土石流で発電能力1割喪失、水力開発計画に疑念 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRm9ieTlUbGxBYVpEUGpDSk5OZHhVN1BybUwwN2wxN0hSWEZYcmQyXzQwZ1BKb0JyRFFrOVRPYUVDb0QxSnBuY0E1QWozY1l0VlVTbjRNTXpLYU1jajNzbkJrWDhTWHFDX1llSXEyaEdneUdsUV9VNEFiVlNnSHZFbw?oc=5",
+      "summary": "ネパール土石流で発電能力1割喪失、水力開発計画に疑念&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-02T04:55:00+00:00"
@@ -2245,12 +2617,36 @@
       "published": "2026-09-02T04:51:00+00:00"
     },
     {
+      "title": "ヒマラヤ、今後も氷河崩壊の深刻な洪水リスクに直面＝国連高官 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xZXplamdGN1MzcXlBdjUwQVEyMlc4LWFGd0lOREQ4UC1aWkFxbWhqaTVHLThxZExWQi1Tc19FaDJIQkQ0dEtPeDNkSjNvdi1NVkNEZU96RlVPZm1sN203UTBpUFdvNEdOWXZnNWFydkdUWFAzakwzWTE1dEppZw?oc=5",
+      "summary": "ヒマラヤ、今後も氷河崩壊の深刻な洪水リスクに直面＝国連高官&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T04:51:00+00:00"
+    },
+    {
       "title": "EKZRF.PK - ロイター",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rOWVVaDhxVHhsR2p6ckdPNElQaFozQ2ZXTDR3Um9YcmFGY00xazFLNmtndnZ3QnNFdTIwcWZfRTdtb1EwWllmdVNJSmlkOFZtUmUyWmNETElsZkI1TV9Bc0lZTjRVOVNlczRkYnVkcEZGdVY1UWZB?oc=5",
       "summary": "EKZRF.PK&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-02T04:31:09+00:00"
+    },
+    {
+      "title": "EKZRF.PK - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rOWVVaDhxVHhsR2p6ckdPNElQaFozQ2ZXTDR3Um9YcmFGY00xazFLNmtndnZ3QnNFdTIwcWZfRTdtb1EwWllmdVNJSmlkOFZtUmUyWmNETElsZkI1TV9Bc0lZTjRVOVNlczRkYnVkcEZGdVY1UWZB?oc=5",
+      "summary": "EKZRF.PK&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T04:31:09+00:00"
+    },
+    {
+      "title": "Breakingviews - COMMENTARY: コラム：ＳＢエナジーの大型ＩＰＯ、関連企業との利害関係がリスク - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU0owcDg3YnRPR0o3NDltMERDQUkzZ1l3X2lkd2NJcXRFWkZMZVB0X0xzeHN1b0NzU3JSSG40Y0RBUWxIQXpZNjZyNkhjaXFpVW5uNnJyWkN0al9xNlI1OUJQTEFnVGJqR1dyT1N5bHVtUWR6M0pFaDRxaGdfeGpxOW5TRVZwYkEtbDlN?oc=5",
+      "summary": "Breakingviews - COMMENTARY: コラム：ＳＢエナジーの大型ＩＰＯ、関連企業との利害関係がリスク&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T04:21:00+00:00"
     },
     {
       "title": "ホンダ、30年までに原価低減1.5兆円 部品メーカーに要請＝関係者 - ロイター",
@@ -2261,9 +2657,33 @@
       "published": "2026-09-02T04:08:51+00:00"
     },
     {
+      "title": "ホンダ、30年までに原価低減1.5兆円 部品メーカーに要請＝関係者 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15Yk1sM1JwQUNmQ0hreVFoTGF6OXNPZ3JidS1lT2pnOTNzWTVSVGN6Z01pUk1EeFFPZEVMNGNZMk5FaFpjMU1lMHkwUWZycU1XV3FIWUpacUwtQWJTblM5eXBOOFd5cWdiYmt0M1MtajE3RjhSeW1hVA?oc=5",
+      "summary": "ホンダ、30年までに原価低減1.5兆円 部品メーカーに要請＝関係者&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T04:08:51+00:00"
+    },
+    {
+      "title": "マクロスコープ：長期金利3％、高市財政に「影響せず」と関係者 与党内に異論も - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWF9Sal9fVi1rckxLTUJIMFRaUUk1b3BIaW92XzZLOGF5MnFZLTdnd0hvLUJLbFRFNWZqcTZUcnEwSzB1X0JOa2MzdFhvUHRfOWtmaUZPaHFfYjNqVklvdGZjY01VbFl5aTBjSjE4WFFLQnAxdUtKRG83SmRGNkJjag?oc=5",
+      "summary": "マクロスコープ：長期金利3％、高市財政に「影響せず」と関係者 与党内に異論も&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T04:01:00+00:00"
+    },
+    {
       "title": "L1CCf.TBEA - | Stock Price & Latest News - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbDNLYlRGallESW9DS0h3Qm0yd3V3RUxkVVR5VGx2dUlONjJWNjlUT2JtbkI1bjRqMnd3T1h3SEtkSFJqdGo4VnZ0cGQ3eU94dkM1VGZ4YzFxS2FMM0FScmpkTUJ3VEZKVHB6bUxZRWFQeVhhZHJMVS1fcU1jUldmdDk1WlMyaWpOX2Zj?oc=5",
       "summary": "L1CCf.TBEA - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T04:00:31+00:00"
+    },
+    {
+      "title": "L1CCf.TBEA - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbDNLYlRGallESW9DS0h3Qm0yd3V3RUxkVVR5VGx2dUlONjJWNjlUT2JtbkI1bjRqMnd3T1h3SEtkSFJqdGo4VnZ0cGQ3eU94dkM1VGZ4YzFxS2FMM0FScmpkTUJ3VEZKVHB6bUxZRWFQeVhhZHJMVS1fcU1jUldmdDk1WlMyaWpOX2Zj?oc=5",
+      "summary": "L1CCf.TBEA - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-02T04:00:31+00:00"
@@ -2287,9 +2707,25 @@
       "published": "2026-09-02T03:56:00+00:00"
     },
     {
+      "title": "日本、リフレ政策やめる必要 今はその帰結考える時＝ベセント米財務長官 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNG04SF8tSXFRTUQ4VmhGNDBuVjROM3FBaE15OEt4TlRMcENQSXN2c0FPSDJjNUkwSFBVTXExMXF3OHJYR1RKMzRHd3E3dUhmLXFYSUs0NU5OODZ6d3hoU1Iwb1BDeVBlSTRrUzI2RkZIQlNoWElId0NVYTFPVkVMOQ?oc=5",
+      "summary": "日本、リフレ政策やめる必要 今はその帰結考える時＝ベセント米財務長官&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T03:56:00+00:00"
+    },
+    {
       "title": "環境悪化報道の米空母リンカーンがタイ寄港、洋上任務200日超 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14bFkxVk12UThnbHByTDBoaUVkVzJqNW1yWXpLYmdQVXNyUmRKLUtfR1FkQXlNNHdYNWtzRTlxSHdha2VZTjA0elN5c3Q2R3JtcjJTSVVSOThDRi1WUWR5ejVyaHRCM2dvT3d0Zmx5cmJuS2NvaWxRRmhn?oc=5",
       "summary": "環境悪化報道の米空母リンカーンがタイ寄港、洋上任務200日超&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T03:52:00+00:00"
+    },
+    {
+      "title": "環境悪化報道の米空母リンカーンがタイ寄港、洋上任務200日超 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14bFkxVk12UThnbHByTDBoaUVkVzJqNW1yWXpLYmdQVXNyUmRKLUtfR1FkQXlNNHdYNWtzRTlxSHdha2VZTjA0elN5c3Q2R3JtcjJTSVVSOThDRi1WUWR5ejVyaHRCM2dvT3d0Zmx5cmJuS2NvaWxRRmhn?oc=5",
+      "summary": "環境悪化報道の米空母リンカーンがタイ寄港、洋上任務200日超&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-02T03:52:00+00:00"
@@ -2313,6 +2749,14 @@
       "published": "2026-09-02T03:31:00+00:00"
     },
     {
+      "title": "情報BOX：世界的な国債利回り上昇、利上げ観測と財政不安が背景 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc2pYQWpfSEF0bWVKLTZPTG9aUjhuSS1HeU5BZlctSXpsU19IQTZyelVkelpNbTZvYzllejhLSDFkM09NbjJPWVIyeC1zMjJRN1k3ajlMc0NfUDVqc2Y5VzJRNDE2Y2hpcVFZOGZZRmhscmZ6Q3ItX21IX1RWcUwwSg?oc=5",
+      "summary": "情報BOX：世界的な国債利回り上昇、利上げ観測と財政不安が背景&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T03:31:00+00:00"
+    },
+    {
       "title": "無登録で暗号資産交換業を行う者（Izakaya Limited）に対する警告書の発出について公表しました。",
       "link": "https://www.fsa.go.jp/policy/virtual_currency02/izakaya_limited_keikokushiryo.pdf",
       "summary": "",
@@ -2321,12 +2765,36 @@
       "published": "2026-09-02T03:00:00+09:00"
     },
     {
+      "title": "午前の日経平均は大幅続落、原油高や金利上昇が重し ほぼ全面安 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPazdQY0s3dGwtVE1pS1N6OVRUYWpFeFRWSzhQdDUzR1E4NF9UQlBRb1pvWXVzZkUtT2wzUG53TFVicFdLZXJ6MkwtUU50enNVMFN5Mll6UjBoYXZ4YjA4eXlsNUlLbVNCNEc4SXhMdHUtMmpFaTFZTHFDSW9GZzdfVw?oc=5",
+      "summary": "午前の日経平均は大幅続落、原油高や金利上昇が重し ほぼ全面安&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T02:48:00+00:00"
+    },
+    {
       "title": "米で新生児へのビタミンＫ注射拒否急増、危険な出血リスク高まる - ロイター",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJZTM4aDh3bzJrdTg2cEMwMENkU0ZqRlJ4VXJJS0lpNlNVWEEtZ1l5azJqRzkxWlVZc2VFRnpmU0dYSkpILS1zU2RjcTNrbmdYYzZsLWQ1MkFPaHFPd1N5S1Y3aWxhYm9jazZsYnZzbDNESVhEODZ2ZA?oc=5",
       "summary": "米で新生児へのビタミンＫ注射拒否急増、危険な出血リスク高まる&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-02T02:45:00+00:00"
+    },
+    {
+      "title": "米で新生児へのビタミンＫ注射拒否急増、危険な出血リスク高まる - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJZTM4aDh3bzJrdTg2cEMwMENkU0ZqRlJ4VXJJS0lpNlNVWEEtZ1l5azJqRzkxWlVZc2VFRnpmU0dYSkpILS1zU2RjcTNrbmdYYzZsLWQ1MkFPaHFPd1N5S1Y3aWxhYm9jazZsYnZzbDNESVhEODZ2ZA?oc=5",
+      "summary": "米で新生児へのビタミンＫ注射拒否急増、危険な出血リスク高まる&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T02:45:00+00:00"
+    },
+    {
+      "title": "ロシア経済、軍産複合体一辺倒なら「狂戦士」状態に＝大統領特使 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOFQ3NWNKWGlDeThEOGRDeTRkUl9PYjN4YTNETTJycE9HZUlIV2RRT2JMQUx5NllXd3ZKOEFBQ0paajZOeFZYZ3FoaE84UWR3cU9zQTQtTHpBQm9QSzJPaUFHdHBCVzE5NUY0ZUlfWkd4bFViWFYyN19ReWpwd3N6TQ?oc=5",
+      "summary": "ロシア経済、軍産複合体一辺倒なら「狂戦士」状態に＝大統領特使&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T02:09:43+00:00"
     },
     {
       "title": "国際関係,金融安定理事会によるG20財務大臣・中央銀行総裁へのレターについて公表しました。",
@@ -2345,6 +2813,14 @@
       "published": "2026-09-02T01:56:45+00:00"
     },
     {
+      "title": "0951.H - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qb0IzU01ZS0t3QXhZVE1yeUprZVNkZzk2TEtVUllPdGFHTFdmZnphcUZrRmJoRUJGVnlVN0NJejNIdEZwTS1uV2lQdGdFeGVmOHJmdTFCOXluN3l4TzZBeDJwVklhUUFURUxr?oc=5",
+      "summary": "0951.H - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T01:56:45+00:00"
+    },
+    {
       "title": "ノルウェー新国王が即位、父の死去受け議会で宣誓 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjSnZ6VEVDc0l1LUlja05VWjdsZGQycnVzcmpwT3dBaDc0RkFZMHpJaWZtdmVES3h6UVRCMmI2UXlNRjNqaUUtbGhyYXJoY0hxWHZ1S1N6dEJnUWR1dGc0dlI4NTB3eU9xWGxOYmJBZkUzcDdodWlNbQ?oc=5",
       "summary": "ノルウェー新国王が即位、父の死去受け議会で宣誓&nbsp;&nbsp;ロイター",
@@ -2353,9 +2829,33 @@
       "published": "2026-09-02T01:49:00+00:00"
     },
     {
+      "title": "ノルウェー新国王が即位、父の死去受け議会で宣誓 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjSnZ6VEVDc0l1LUlja05VWjdsZGQycnVzcmpwT3dBaDc0RkFZMHpJaWZtdmVES3h6UVRCMmI2UXlNRjNqaUUtbGhyYXJoY0hxWHZ1S1N6dEJnUWR1dGc0dlI4NTB3eU9xWGxOYmJBZkUzcDdodWlNbQ?oc=5",
+      "summary": "ノルウェー新国王が即位、父の死去受け議会で宣誓&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T01:49:00+00:00"
+    },
+    {
+      "title": "貿易交渉再開には米の「真剣な」姿勢が必要＝カナダ首相 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kSFhiOHVRaGpFX05xQW92OUJDVmsya1FoMnBXaHdYSzRidzRVcG9QNzZUeUU5MlY3UmtZNk9jU18zUFFuZVFzbDhlMFk5WE93LXNwYmJQeFE1WVZBRUZXaDN0dm1yQmRkbFFrZEZqeXBmdmo4aV9WNkxR?oc=5",
+      "summary": "貿易交渉再開には米の「真剣な」姿勢が必要＝カナダ首相&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T01:34:00+00:00"
+    },
+    {
       "title": "28K1.DE - ロイター",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02blZwT2Q3Zl9iamNMWlRMYWgyUnNMTmZNUWFYOG9yY1VteHFHUmZTOWVPMksxaFc5cGp4MkpFM05MT1djWk8tM1lEZ29seF9MRE9XTm9aT2tVVTl1a0l4dDhaWVhMTFYwRmxmZWhXNkJWeDYtNDVv?oc=5",
       "summary": "28K1.DE&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T01:30:07+00:00"
+    },
+    {
+      "title": "28K1.DE - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02blZwT2Q3Zl9iamNMWlRMYWgyUnNMTmZNUWFYOG9yY1VteHFHUmZTOWVPMksxaFc5cGp4MkpFM05MT1djWk8tM1lEZ29seF9MRE9XTm9aT2tVVTl1a0l4dDhaWVhMTFYwRmxmZWhXNkJWeDYtNDVv?oc=5",
+      "summary": "28K1.DE&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-02T01:30:07+00:00"
@@ -2377,9 +2877,25 @@
       "published": "2026-09-02T00:59:47+00:00"
     },
     {
+      "title": "米ゴープロ、光学メーカーのスターマンに株式90％売却へ 2.85億ドル - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ0R1Q0lEeXN6LUJMWU50RzNuX3F5Y0hYYVlyNk5nay11d1U2M2FBY1hybnlWLTVkWFhYWHU1YjJsTnhVeW9NUWhGREQzcDRzTHVkZWpSWDdHZW1NOUhDNVcydk95eVpPSU9FS1BHMjBCMUdoWUtabVhnMXhkOXYwdQ?oc=5",
+      "summary": "米ゴープロ、光学メーカーのスターマンに株式90％売却へ 2.85億ドル&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T00:59:47+00:00"
+    },
+    {
       "title": "6810.JNF - | Stock Price & Latest News - ロイター",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSWJGMGwzYzRSc1FpQ3ZRMzlsWV9XcGdoOGtWRjNFd1ZMZmhDY0JGRnQzeU9HT0hUY0VhZEMybERsaUo3NUtwZmNhNGVwS3JDdTVuYVRwaWtHWnQ4RUFsRXFfTmdrUjhYNHZqOVBjQ0J5LWhyN2hsN0lNdjdNdHg5N2tacw?oc=5",
       "summary": "6810.JNF - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T00:59:46+00:00"
+    },
+    {
+      "title": "6810.JNF - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSWJGMGwzYzRSc1FpQ3ZRMzlsWV9XcGdoOGtWRjNFd1ZMZmhDY0JGRnQzeU9HT0hUY0VhZEMybERsaUo3NUtwZmNhNGVwS3JDdTVuYVRwaWtHWnQ4RUFsRXFfTmdrUjhYNHZqOVBjQ0J5LWhyN2hsN0lNdjdNdHg5N2tacw?oc=5",
+      "summary": "6810.JNF - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-02T00:59:46+00:00"
@@ -2393,9 +2909,25 @@
       "published": "2026-09-02T00:57:00+00:00"
     },
     {
+      "title": "アングル：米の対イラン海上封鎖、中国への原油輸出阻止で成果 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11UXBMMElJelVtd0YzTkNnbHl2MFd4QnNuRXdwQVF4ZS1ZeEJCWlFOZS1wZV8tTlJKRzllbEtDUjlWUjRRV2VfanQybERXMS14TXFQcnEyRG9nbzZha0IzTjNpVWhXTFM5MmJXYzRaanVIZFpXRGwxMnVZNUhKdw?oc=5",
+      "summary": "アングル：米の対イラン海上封鎖、中国への原油輸出阻止で成果&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T00:57:00+00:00"
+    },
+    {
       "title": "JP3739400004.TRE - | Stock Price & Latest News - ロイター",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWmk0aWVqcWtOTk1YakRVLTRxbWlTcDE3NTNwdXYydE5NdTlVWWJybjFLdHRQaWNMUkNEeFNiamNsamhUT0hxWGt1UVpCUEt3RVd6MDk5Y0dEdklHNVJwZjdLSHNpSy0tcHJrUXM3NE8wa2xaeXA4cjBOcDBYbFdKUHI5bEZMUlYxbm1lWVdR?oc=5",
       "summary": "JP3739400004.TRE - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T00:26:55+00:00"
+    },
+    {
+      "title": "JP3739400004.TRE - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWmk0aWVqcWtOTk1YakRVLTRxbWlTcDE3NTNwdXYydE5NdTlVWWJybjFLdHRQaWNMUkNEeFNiamNsamhUT0hxWGt1UVpCUEt3RVd6MDk5Y0dEdklHNVJwZjdLSHNpSy0tcHJrUXM3NE8wa2xaeXA4cjBOcDBYbFdKUHI5bEZMUlYxbm1lWVdR?oc=5",
+      "summary": "JP3739400004.TRE - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-02T00:26:55+00:00"
@@ -2417,9 +2949,25 @@
       "published": "2026-09-02T00:04:29+00:00"
     },
     {
+      "title": "BHE.SG - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tN0o1bVRmZFFLcXJnMmFvbmNJekExS25YUS1IVXFJdHZHR0xiRFZnbFFJMnk2Zm8wdl9QV2RWNTJxMUdKQ2FWS2ZIaXBGVEJLeDJLM25TdVNXZzlRMjRxSlFtVXRDakVWd2c?oc=5",
+      "summary": "BHE.SG&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T00:04:29+00:00"
+    },
+    {
       "title": "MDU.PH - ロイター",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdnVQejYyOXMzZDROc040RE9wSHpsaVNydXVfaXhrcy0zalhtTVhDbDVtTUt0M29KNkZJbDBrUmNNQncwRUo1d3E2VGNiUWtKcFg3TjFyaEdSWkR1OFdpV0xkOW00VlltUmx6djZpdVVaSml2TlVmSlZxR0Y1TFFiVw?oc=5",
       "summary": "MDU.PH&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-02T00:00:10+00:00"
+    },
+    {
+      "title": "MDU.PH - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdnVQejYyOXMzZDROc040RE9wSHpsaVNydXVfaXhrcy0zalhtTVhDbDVtTUt0M29KNkZJbDBrUmNNQncwRUo1d3E2VGNiUWtKcFg3TjFyaEdSWkR1OFdpV0xkOW00VlltUmx6djZpdVVaSml2TlVmSlZxR0Y1TFFiVw?oc=5",
+      "summary": "MDU.PH&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-02T00:00:10+00:00"
@@ -2441,9 +2989,25 @@
       "published": "2026-09-01T23:58:45+00:00"
     },
     {
+      "title": "米デル、通期業績見通し再び上方修正 ＡＩサーバー需要急増 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10LU5HVUl4RUFEVkFSdW9ZVUg3c0VoejJWRTNOMk94WG10Ml9ySlhSX0M4TXcyOUJSXzFSY2E1SjBiVGpGS21EQWdzYld4Z04xTjY5WjJ6TGItNkVibkJmTjFvVzM4RUNJeVRxX0Yydl8zT0pBdHYwQQ?oc=5",
+      "summary": "米デル、通期業績見通し再び上方修正 ＡＩサーバー需要急増&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T23:58:45+00:00"
+    },
+    {
       "title": "1CM.H - ロイター",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNblF3ZjN3Tldkb3NNUnpETGlPWkNSTFVhYUszcGxPYk9BZ2hmWEdUUFlxNHhCLTVFLWpqYUpoZEEycVpUSzRNWVE1YmhGbklnQ2JuUkNkX280QnF2SHU5dS1rMmxiVzRXYks2aFkzcVFCY2ZzZjFjb1BoWGx0cFZzZXExQUk?oc=5",
       "summary": "1CM.H&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T23:55:49+00:00"
+    },
+    {
+      "title": "1CM.H - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNblF3ZjN3Tldkb3NNUnpETGlPWkNSTFVhYUszcGxPYk9BZ2hmWEdUUFlxNHhCLTVFLWpqYUpoZEEycVpUSzRNWVE1YmhGbklnQ2JuUkNkX280QnF2SHU5dS1rMmxiVzRXYks2aFkzcVFCY2ZzZjFjb1BoWGx0cFZzZXExQUk?oc=5",
+      "summary": "1CM.H&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-01T23:55:49+00:00"
@@ -2457,9 +3021,25 @@
       "published": "2026-09-01T23:55:46+00:00"
     },
     {
+      "title": "6262.t - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVE53NHdtT29wcVppUmRHdTM4R1ZmZFlWaXo5dzdLazcwVG9hNG1FeDM1R083MkVVem9BOUp2cXFIZWY2TklveWlfTWRTYnRIU2tER1hkcnR5ZjRFcHFTOE54R1JsS1ZjVndBdHM5Ukp1RXY0SFRBZVhRUUhVQmVGNTR3?oc=5",
+      "summary": "6262.t - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T23:55:46+00:00"
+    },
+    {
       "title": "植田日銀総裁、ベセント財務長官と有益な議論 「詳細はノーコメント」 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNUG9GZ2hEMGpnWEppOHhMdUFoalFVbHBSaFVSTTd1aDFqZzZPbkhFT0JGVEpIWXctUXh2alNfWk9ic0ZlWkdEdG5LQXVuSnA0SllBOFlVZlhXZkMxUXV6Z3pBejA2UjQ1YnJXMmxYNEhWSVp1Z2k1dg?oc=5",
       "summary": "植田日銀総裁、ベセント財務長官と有益な議論 「詳細はノーコメント」&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T23:53:00+00:00"
+    },
+    {
+      "title": "植田日銀総裁、ベセント財務長官と有益な議論 「詳細はノーコメント」 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNUG9GZ2hEMGpnWEppOHhMdUFoalFVbHBSaFVSTTd1aDFqZzZPbkhFT0JGVEpIWXctUXh2alNfWk9ic0ZlWkdEdG5LQXVuSnA0SllBOFlVZlhXZkMxUXV6Z3pBejA2UjQ1YnJXMmxYNEhWSVp1Z2k1dg?oc=5",
+      "summary": "植田日銀総裁、ベセント財務長官と有益な議論 「詳細はノーコメント」&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-01T23:53:00+00:00"
@@ -2489,6 +3069,14 @@
       "published": "2026-09-01T23:40:10+00:00"
     },
     {
+      "title": "米国務省、子のパスポート申請で親の市民権証明要求へ 出生地主義制限 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKV09XbmF5RTRyRlUza1Vrd1JnT3hfZW9PSVY2ODY3VUZUcUFRWjVwRkJRc09NTWl0Tk4xTzVNUlhqRlNnVjhKYWE2UEdzZjJhWXhvZ2YxS0tSaEt2bklfcTV0N0tZQURVYXcxdUFkLVk4RVRINkE0UlpR?oc=5",
+      "summary": "米国務省、子のパスポート申請で親の市民権証明要求へ 出生地主義制限&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T23:40:10+00:00"
+    },
+    {
       "title": "今日の株式見通し＝軟調を想定、金利上昇・原油急騰など環境悪化嫌気 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZmI3RlpzYXc0NHpuZ3dIbDlJQmh5Z3B0ek52NEJ3ZUM1RUhGX0dSWS1CNXhLM1MyYU51X0pJbjNLT1NPUlFTaVRXaFJPRk9kWVBiQnFfN3pSbEtPV3NBeGZabG9kZjhRSkVuMWpUNDlZdWlYSmZ2ZWsyRU0tUjJZNg?oc=5",
       "summary": "今日の株式見通し＝軟調を想定、金利上昇・原油急騰など環境悪化嫌気&nbsp;&nbsp;ロイター",
@@ -2497,9 +3085,25 @@
       "published": "2026-09-01T23:12:41+00:00"
     },
     {
+      "title": "今日の株式見通し＝軟調を想定、金利上昇・原油急騰など環境悪化嫌気 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZmI3RlpzYXc0NHpuZ3dIbDlJQmh5Z3B0ek52NEJ3ZUM1RUhGX0dSWS1CNXhLM1MyYU51X0pJbjNLT1NPUlFTaVRXaFJPRk9kWVBiQnFfN3pSbEtPV3NBeGZabG9kZjhRSkVuMWpUNDlZdWlYSmZ2ZWsyRU0tUjJZNg?oc=5",
+      "summary": "今日の株式見通し＝軟調を想定、金利上昇・原油急騰など環境悪化嫌気&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T23:12:41+00:00"
+    },
+    {
       "title": "オンタリオ湖を「アメリカ湖」に、アップルマップも変更 米利用者向け - ロイター",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYRzdTQ1praFVPbWstUWdVQjl1Ni1QOHdQR0JnWTVRbFlpUjNTazdXRXdJdUtoX1B2dXFzWlpaWnpzaDNTZGFpQ0JfZl9MZkptdUd2ZXpQVDZCY3RueE92SGNKUHRHUlFPXzZHU0N1X0JxZGI0N2x5Xw?oc=5",
       "summary": "オンタリオ湖を「アメリカ湖」に、アップルマップも変更 米利用者向け&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T23:06:44+00:00"
+    },
+    {
+      "title": "オンタリオ湖を「アメリカ湖」に、アップルマップも変更 米利用者向け - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYRzdTQ1praFVPbWstUWdVQjl1Ni1QOHdQR0JnWTVRbFlpUjNTazdXRXdJdUtoX1B2dXFzWlpaWnpzaDNTZGFpQ0JfZl9MZkptdUd2ZXpQVDZCY3RueE92SGNKUHRHUlFPXzZHU0N1X0JxZGI0N2x5Xw?oc=5",
+      "summary": "オンタリオ湖を「アメリカ湖」に、アップルマップも変更 米利用者向け&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-01T23:06:44+00:00"
@@ -2529,6 +3133,14 @@
       "published": "2026-09-01T22:57:17+00:00"
     },
     {
+      "title": "ゴールドマンなど21金融機関、ドル連動ステーブルコインを来年発行へ - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4teW50a2pwazdqT3NZVGZfWmdqMDNlLW90WmJHdk5CVnFHVGVILXZlMENUMFJzQ3BxNm0xSFFLbjNuTVlybWJqZWhQQ0RwSExXMnM0Y3ByNVJfUXdNZWJxWE1CQ3Y5ZzZ4OS1sMEZZM2JTMDVydk5CRw?oc=5",
+      "summary": "ゴールドマンなど21金融機関、ドル連動ステーブルコインを来年発行へ&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T22:57:17+00:00"
+    },
+    {
       "title": "A Guide to Owning Bonds When They Are Selling Off",
       "link": "https://www.wsj.com/finance/investing/a-guide-to-owning-bonds-when-they-are-selling-off-be8e0a2b?mod=rss_markets_main",
       "summary": "Advisers say fixed income still has a place in a diversified portfolio, despite a global bond market rout.",
@@ -2545,9 +3157,25 @@
       "published": "2026-09-01T22:09:00+00:00"
     },
     {
+      "title": "ゼレンスキー氏、無人機で「ロシア領空は閉鎖」 航空各社に警告 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVkRoQTdoSTFyRlhnTHhuQTZ0aVYzbWNKTkY2dEZ0aGlzRmhfc1R2U3Zidm5YZFM3eHg5NnQ3NlhFUHotWkcybkExcUJMSDJ1Wk9uM0t5a09zLVNpWEZfeUE5ajdISnVaV0FydlptaVpUYkJDelNVZFRidFNDOFhiVw?oc=5",
+      "summary": "ゼレンスキー氏、無人機で「ロシア領空は閉鎖」 航空各社に警告&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T22:09:00+00:00"
+    },
+    {
       "title": "米財務長官、日銀に利上げ圧力 「健全な金融政策で為替急変動回避を」 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CQ0FOdlFwY2tyVlpPZ09zbmpoQzNDb2NPYk9xN1JMYWJPRm1tRkFUZzVxU0QySjVSSV9WNWx0Y0o3QkJTTmpSRVdYNzlZRWdsZmpBeWoybUhrQmptTVdBTnZvUXR3aXM4QXBwVkN4cWR4R09RZ1lHeg?oc=5",
       "summary": "米財務長官、日銀に利上げ圧力 「健全な金融政策で為替急変動回避を」&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T22:04:07+00:00"
+    },
+    {
+      "title": "米財務長官、日銀に利上げ圧力 「健全な金融政策で為替急変動回避を」 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CQ0FOdlFwY2tyVlpPZ09zbmpoQzNDb2NPYk9xN1JMYWJPRm1tRkFUZzVxU0QySjVSSV9WNWx0Y0o3QkJTTmpSRVdYNzlZRWdsZmpBeWoybUhrQmptTVdBTnZvUXR3aXM4QXBwVkN4cWR4R09RZ1lHeg?oc=5",
+      "summary": "米財務長官、日銀に利上げ圧力 「健全な金融政策で為替急変動回避を」&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-01T22:04:07+00:00"
@@ -2585,9 +3213,25 @@
       "published": "2026-09-01T21:20:48+00:00"
     },
     {
+      "title": "米国株式市場＝続落、ダウ419ドル安 債券売りや原油急騰が圧迫 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTTVweGRFS2tuWmJjWkJ1OFFwbUZ0WUxmdm1pZkc3TVNWckF0VXJ6V0R6T1o3dkhkVWFRYkwwLXlZU3lzVUlBLWxBZGdCdmNBRGFTQ2lNQm1rYUpnbjcyc01yUWtvWWREcEh0VDZEUUdDdGUzRWhfMFdNQUprdFY3dw?oc=5",
+      "summary": "米国株式市場＝続落、ダウ419ドル安 債券売りや原油急騰が圧迫&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T21:20:48+00:00"
+    },
+    {
       "title": "独、ライプチヒ空港の爆発物事件「ロシアに責任」 ボン総領事館閉鎖へ - ロイター",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU0dNMnFyOE5Jelk0aEZfTFFJb1V1WWhWQnRRbnpPd2U3RFltT1d0RHI0VU9Damk5V3hvTFBxY25nbEdsVDFzWkliS3UydzJhbXd0Rm1LR25wWGZLRnkyUEJqaHdramllUWF3X1d3V044RzJNQUFqQ0k1Vjl5bm96Nw?oc=5",
       "summary": "独、ライプチヒ空港の爆発物事件「ロシアに責任」 ボン総領事館閉鎖へ&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T21:08:03+00:00"
+    },
+    {
+      "title": "独、ライプチヒ空港の爆発物事件「ロシアに責任」 ボン総領事館閉鎖へ - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU0dNMnFyOE5Jelk0aEZfTFFJb1V1WWhWQnRRbnpPd2U3RFltT1d0RHI0VU9Damk5V3hvTFBxY25nbEdsVDFzWkliS3UydzJhbXd0Rm1LR25wWGZLRnkyUEJqaHdramllUWF3X1d3V044RzJNQUFqQ0k1Vjl5bm96Nw?oc=5",
+      "summary": "独、ライプチヒ空港の爆発物事件「ロシアに責任」 ボン総領事館閉鎖へ&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-01T21:08:03+00:00"
@@ -2665,9 +3309,25 @@
       "published": "2026-09-01T17:25:43+00:00"
     },
     {
+      "title": "4395.J2 - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWVc2Z1VLZXhKTnV6d2xYZEUtakJTLVJfNWNBQy11QkhsOFNWcVdJNnhxSVVlSm5wV29IV19xejBkbFdOVnZfZVRaSGhpSVFSQkhINTFhaW9rOC1uQ0Z3bGpzTG9GTUUyV3pmRTRWNm9WUHVpTXlvcVlpdFZwUVJFbV93?oc=5",
+      "summary": "4395.J2 - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T17:25:43+00:00"
+    },
+    {
       "title": "（2日配信記事） ＮＹタイムズスクエアで刺殺事件、女性1人死亡 ＢｏｆＡ幹部 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zZFFKUHZZSFAtYVNRa1MzTC1IZE9HeHQ3M0FDMHVrazlkbjBEeWJrQkVFSHdtRU1yTk1wWmIxZHdSZlNLY1ZLY1NOS05BUldacG1uVWFyVVk0TEs2ZFJTOUN5dWpacmtlcWxPRFdCZm9ZNmRhWllFSWxn?oc=5",
       "summary": "（2日配信記事） ＮＹタイムズスクエアで刺殺事件、女性1人死亡 ＢｏｆＡ幹部&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T17:14:00+00:00"
+    },
+    {
+      "title": "（2日配信記事） ＮＹタイムズスクエアで刺殺事件、女性1人死亡 ＢｏｆＡ幹部 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zZFFKUHZZSFAtYVNRa1MzTC1IZE9HeHQ3M0FDMHVrazlkbjBEeWJrQkVFSHdtRU1yTk1wWmIxZHdSZlNLY1ZLY1NOS05BUldacG1uVWFyVVk0TEs2ZFJTOUN5dWpacmtlcWxPRFdCZm9ZNmRhWllFSWxn?oc=5",
+      "summary": "（2日配信記事） ＮＹタイムズスクエアで刺殺事件、女性1人死亡 ＢｏｆＡ幹部&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-01T17:14:00+00:00"
@@ -2681,9 +3341,25 @@
       "published": "2026-09-01T17:04:25+00:00"
     },
     {
+      "title": "036530.KNT - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVXpaTmFaSFI1bnFpTDRvWTVidHpZQTZmWXlULTU0SXRncElEU1JmdTVVNzNGWl9Sb2tsZUV6NFNsbUh2cDlyeVVGblVlU242RjFzRWU5eXhsa3Nvam9fWXk2Nmw2aDVyT1RMU1VIUzh1OXZhMEFhVkpOVnUzb2o0VzY2azZCQXZFTjJ3?oc=5",
+      "summary": "036530.KNT - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T17:04:25+00:00"
+    },
+    {
       "title": "米軍が再び空爆、イランはヨルダンなどに報復攻撃 海峡封鎖強化も - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6VjdhV01zY1lrSUtFX0dJeTZRS2NrUzUzdVRsbkFNa2RWaTU3RXlPQUx2QUpUMS1HQVh6SXA0aUViLVZTSTFVXzktQ0Q0WWpCdXM3SU5IeUtFMU8tZVY5NS1JMUN2b3B4X3QxeEJ4cS1Yd1RjUEhUc3pn?oc=5",
       "summary": "米軍が再び空爆、イランはヨルダンなどに報復攻撃 海峡封鎖強化も&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T17:04:00+00:00"
+    },
+    {
+      "title": "米軍が再び空爆、イランはヨルダンなどに報復攻撃 海峡封鎖強化も - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6VjdhV01zY1lrSUtFX0dJeTZRS2NrUzUzdVRsbkFNa2RWaTU3RXlPQUx2QUpUMS1HQVh6SXA0aUViLVZTSTFVXzktQ0Q0WWpCdXM3SU5IeUtFMU8tZVY5NS1JMUN2b3B4X3QxeEJ4cS1Yd1RjUEhUc3pn?oc=5",
+      "summary": "米軍が再び空爆、イランはヨルダンなどに報復攻撃 海峡封鎖強化も&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-01T17:04:00+00:00"
@@ -2705,6 +3381,22 @@
       "published": "2026-09-01T16:54:31+00:00"
     },
     {
+      "title": "ALPVL.PA1 - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9WbnROcUVTXzhWdUdIYVhEU1Etam05SmIwMXczM1g0T0ZvZVFfRERCNW5PanV6eWktcElPc0V2UHBDYWdQN2V1YTRYV0ZOM2FQc3l1X0ZiTG9GNFI4akd6ZEVrZWljeThJTVlCY01jTHlndGM1b2xFXzZB?oc=5",
+      "summary": "ALPVL.PA1 - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T16:54:31+00:00"
+    },
+    {
+      "title": "Whistleblower warns Postal Service mail ballot system has catastrophic problems",
+      "link": "https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/",
+      "summary": "Article URL: https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/\nComments URL: https://news.ycombinator.com/item?id=49524428\nPoints: 156\n# Comments: 102",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-01T16:41:13+00:00"
+    },
+    {
       "title": "SMYGF.PK%5EH09 - | Stock Price & Latest News - ロイター",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbWdqekNRT3dKdlZOM0c5SEdReUdEWkw4MjAzV0RTZEZNMXQ3R042MXp4U1FTOUlISHlid1VqVmNnLS1vdWk0MkE3RmdIWktkRjFzajJ6WkdPamFGWm9uZVFoOXFnaW90U0hFUTlNbDRJN1lmekhFT3I5aWJEVW9nWkRvMC0zREE?oc=5",
       "summary": "SMYGF.PK%5EH09 - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
@@ -2713,9 +3405,25 @@
       "published": "2026-09-01T16:33:24+00:00"
     },
     {
+      "title": "SMYGF.PK%5EH09 - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbWdqekNRT3dKdlZOM0c5SEdReUdEWkw4MjAzV0RTZEZNMXQ3R042MXp4U1FTOUlISHlid1VqVmNnLS1vdWk0MkE3RmdIWktkRjFzajJ6WkdPamFGWm9uZVFoOXFnaW90U0hFUTlNbDRJN1lmekhFT3I5aWJEVW9nWkRvMC0zREE?oc=5",
+      "summary": "SMYGF.PK%5EH09 - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T16:33:24+00:00"
+    },
+    {
       "title": "36530.KQ%5EJ02 - | Stock Price & Latest News - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOanhNTXFRaUFfSEc0a25KS3Y3NVdrMmtxa2h6YWV4dFBOQUp5QnVLRDFFak5KSnZFVk5ZVDI4VVdkckpGQkoxZXFIY0hydlBrbkh6SzVkS1F3M29pSTFmOHhlMHktVHNvYnljQUZoZ2kyQk5qbUR4cXFjWTU5aWhtS0otdC1OWlRJazdF?oc=5",
       "summary": "36530.KQ%5EJ02 - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T16:29:26+00:00"
+    },
+    {
+      "title": "36530.KQ%5EJ02 - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOanhNTXFRaUFfSEc0a25KS3Y3NVdrMmtxa2h6YWV4dFBOQUp5QnVLRDFFak5KSnZFVk5ZVDI4VVdkckpGQkoxZXFIY0hydlBrbkh6SzVkS1F3M29pSTFmOHhlMHktVHNvYnljQUZoZ2kyQk5qbUR4cXFjWTU5aWhtS0otdC1OWlRJazdF?oc=5",
+      "summary": "36530.KQ%5EJ02 - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-01T16:29:26+00:00"
@@ -2745,6 +3453,14 @@
       "published": "2026-09-01T15:41:45+00:00"
     },
     {
+      "title": "米建設支出、7月は前月比0.5％減 約3年ぶり低水準 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa3VxNzJfY3IyWHhhQS1UWHdobUdOVGppc1JGX1E4MnRXdzhtSXhxZ19HUHE5Y2lCd3lBSUJsMVJ2N3VBNXpCRWQ4NERmNFQ5Qzl4YlhwN1VZUmd6emt1emZvcWk5aXh2Y2JxUUhlelI3UGF2eExLTHNkWGc2TUFONA?oc=5",
+      "summary": "米建設支出、7月は前月比0.5％減 約3年ぶり低水準&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T15:41:45+00:00"
+    },
+    {
       "title": "These Banks Are Banding Together to Launch a Stablecoin",
       "link": "https://www.wsj.com/finance/banking/these-banks-are-banding-together-to-launch-a-stablecoin-6de07eff?mod=rss_markets_main",
       "summary": "Twenty-one firms including several megabanks plan to establish a company that would help guard against competition from digital assets.",
@@ -2756,6 +3472,14 @@
       "title": "米、週内にイラン銀行制裁発表の公算＝財務長官 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVUdNN1lUa3RZN3htQnIxajFNa0hUc28ySWRNQUtVOVpoTFh2T1lydFFSMjlBd2t5QlpzY3NUUlFIZEN0YU01b0piOEhlZzFkT19YVEtjRlZjWGpiS052cDZtSUpZYWN0UjFycEZlTU5uQllIdTlneW5wSVhCS1c1OHR3?oc=5",
       "summary": "米、週内にイラン銀行制裁発表の公算＝財務長官&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T14:54:55+00:00"
+    },
+    {
+      "title": "米、週内にイラン銀行制裁発表の公算＝財務長官 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVUdNN1lUa3RZN3htQnIxajFNa0hUc28ySWRNQUtVOVpoTFh2T1lydFFSMjlBd2t5QlpzY3NUUlFIZEN0YU01b0piOEhlZzFkT19YVEtjRlZjWGpiS052cDZtSUpZYWN0UjFycEZlTU5uQllIdTlneW5wSVhCS1c1OHR3?oc=5",
+      "summary": "米、週内にイラン銀行制裁発表の公算＝財務長官&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-01T14:54:55+00:00"
@@ -2825,6 +3549,14 @@
       "published": "2026-09-01T12:19:01+00:00"
     },
     {
+      "title": "ＳＢエナジー、ＩＰＯ申請書類公開 エヌビディア15億ドル出資 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zRXdoWUFEX0FjNDA2UWZRek5MWDJfdTRwTTI1d0R6YTBVNVB0aUlrMklITlctSGpKem1HNVJwR2dTUk1CZUtWQUNHSG9Day0ybVRoT0dRb3RTZUZhc1lCd2xaZnctc3FzUnQzMzV3eU5UTW5uREE?oc=5",
+      "summary": "ＳＢエナジー、ＩＰＯ申請書類公開 エヌビディア15億ドル出資&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T12:19:01+00:00"
+    },
+    {
       "title": "London Stock Exchange Plans Tokenized Trading",
       "link": "https://www.wsj.com/finance/currencies/london-stock-exchange-plans-tokenized-trading-4a762b04?mod=rss_markets_main",
       "summary": "The move comes as the exchange fights to grow its relevance amid declining public listings and increased retail and institutional interest in crypto.",
@@ -2857,6 +3589,14 @@
       "published": "2026-09-01T10:03:51+00:00"
     },
     {
+      "title": "トランプ氏のカナダ関税と「アメリカ湖」改称、過半数が反対＝調査 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmQ0plaG9QZTdNTnZRZkNqa3MtempHdVRMOGtDUFVBYUxUcWY0N2o0b1h1LWtsMHV3SkxsUW9PUUFYbVhrd2JtRWhKRWRDZ25IbDVnV0c3WDJfUzMxM3VjaXRUYnd4RFJkX1JiYkdHdzdWUGNBVmpwektB?oc=5",
+      "summary": "トランプ氏のカナダ関税と「アメリカ湖」改称、過半数が反対＝調査&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T10:03:51+00:00"
+    },
+    {
       "title": "Jersey Mike’s Is Winning the Sandwich War. It Still Needs to Win Over Gen Z.",
       "link": "https://www.wsj.com/business/hospitality/jersey-mikes-is-winning-the-sandwich-war-it-still-needs-to-win-over-gen-z-324b4e0b?mod=rss_markets_main",
       "summary": "The chain’s affluent, older base gives it an edge. But to grow it also needs young customers.",
@@ -2873,9 +3613,25 @@
       "published": "2026-09-01T09:27:43+00:00"
     },
     {
+      "title": "キユーピー、マヨネーズなど家庭用商品値上げ 11月出荷分から - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUzctUjFGcVJNQUZnLWVnY2tDSDNrQTJhczRhdXowc3h2UVhoLXdFOElkVTVOczVyWWNmZkd6dzhwX3ZnWkxpMHd0T0RiQTlfZ05XMlRvMExLbFotblVMbjJ3NTJsM0xJNmpWWnhsQmcwRE12T25KT19uNXRtQTV2cg?oc=5",
+      "summary": "キユーピー、マヨネーズなど家庭用商品値上げ 11月出荷分から&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T09:27:43+00:00"
+    },
+    {
       "title": "ロシア、日米豪演習を非難 タイフォン参加で日本に抗議 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSG5rZDh4NzZxR1VVYVk2WmlwVmJhUWpnazFLOVVWU2IzaGJkaHI1MFZkQmcyUDNWMUhjZzJYa0gwQmI1QmxtOGZPdW9oeEFHTExra1ZKdklVUGgyb0xVdzZoRy1lSVZvMzA3elAyVVhwNzFteC1ZTGdacjMxMGlKVGRR?oc=5",
       "summary": "ロシア、日米豪演習を非難 タイフォン参加で日本に抗議&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T09:14:43+00:00"
+    },
+    {
+      "title": "ロシア、日米豪演習を非難 タイフォン参加で日本に抗議 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSG5rZDh4NzZxR1VVYVk2WmlwVmJhUWpnazFLOVVWU2IzaGJkaHI1MFZkQmcyUDNWMUhjZzJYa0gwQmI1QmxtOGZPdW9oeEFHTExra1ZKdklVUGgyb0xVdzZoRy1lSVZvMzA3elAyVVhwNzFteC1ZTGdacjMxMGlKVGRR?oc=5",
+      "summary": "ロシア、日米豪演習を非難 タイフォン参加で日本に抗議&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-01T09:14:43+00:00"
@@ -2892,6 +3648,14 @@
       "title": "スクエニＨＤ、非公開化検討の事実はないとコメント 一部報道に - ロイター",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUFVSR2pGd0t6UDI5SHZVTmZ6by1UNy02SHg5MlpVeFdYcEZOREkxUGl3c0MyQzNoZXMzVDhUYXpvT0hHdzRsRDJjdGpEZjQ2ZE43RzlRWHRhQ2xPOTNmUmk3OG44OHU1akw5Z293R3ZPLTdEVHlKYzh1VEtPaGNWZg?oc=5",
       "summary": "スクエニＨＤ、非公開化検討の事実はないとコメント 一部報道に&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T08:41:20+00:00"
+    },
+    {
+      "title": "スクエニＨＤ、非公開化検討の事実はないとコメント 一部報道に - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUFVSR2pGd0t6UDI5SHZVTmZ6by1UNy02SHg5MlpVeFdYcEZOREkxUGl3c0MyQzNoZXMzVDhUYXpvT0hHdzRsRDJjdGpEZjQ2ZE43RzlRWHRhQ2xPOTNmUmk3OG44OHU1akw5Z293R3ZPLTdEVHlKYzh1VEtPaGNWZg?oc=5",
+      "summary": "スクエニＨＤ、非公開化検討の事実はないとコメント 一部報道に&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-01T08:41:20+00:00"
@@ -2985,6 +3749,14 @@
       "published": "2026-09-01T06:56:00+00:00"
     },
     {
+      "title": "日経平均は小幅続落、売り一巡後下げ渋る ＴＯＰＩＸ小幅高 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYW5sTEI4U1VrLVA4OEFvaFAwd0hNaWJJZ3hfT1FsdWNBQ2JCd1gwbWwyT3NlckprWkdfaGdIUTMyekdNTXBackREQWZrQ01yNVJlTTVLSjZEUm5BUHl5X29RQnFNQmJSTDE1eVRULTVNbnpuT21HYWJaZE9iWEZRVQ?oc=5",
+      "summary": "日経平均は小幅続落、売り一巡後下げ渋る ＴＯＰＩＸ小幅高&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T06:56:00+00:00"
+    },
+    {
       "title": "令和8年度　7月末租税及び印紙収入、収入額調",
       "link": "https://www.mof.go.jp/tax_policy/reference/taxes_and_stamp_revenues/202607.pdf",
       "summary": "",
@@ -3001,9 +3773,25 @@
       "published": "2026-09-01T06:22:00+00:00"
     },
     {
+      "title": "アングル：中銀の政策運営、ＡＩ普及で「ディストピア」に直面の恐れ 研究者が警鐘 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ1BOaldSak80Yk9BMXhHTjdnNUR0SFFndjRxa1hqNWtuRVV0U0EwbFF4NnJGVXdEcjJ3V1hJMmcwcEppZGhVNjZQc2ctOUF0TjJXU2VtQTI0MlkwUC1Od3h6V1VRbUNLTERRaGM5YXZkM3hPMC05UmEtZlNGMUhFZA?oc=5",
+      "summary": "アングル：中銀の政策運営、ＡＩ普及で「ディストピア」に直面の恐れ 研究者が警鐘&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T06:22:00+00:00"
+    },
+    {
       "title": "企業秘密盗用訴訟、オープンＡＩがアップルに「自業自得」と反論 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93Q3NJVmIyRUtTeVowemtiLUFTc1BTb0lFMjA2TWFBQUlKVDhTY2tQUzZRY2Z5V21FWkF3WmJOWUVRVTJrdnIxbXVJVHZnMkRFUVh5YTNVOERIV25jTVBEUEt1eE9RN0tVdE5YYS1ITlQyX2pob1pQaw?oc=5",
       "summary": "企業秘密盗用訴訟、オープンＡＩがアップルに「自業自得」と反論&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T06:16:00+00:00"
+    },
+    {
+      "title": "企業秘密盗用訴訟、オープンＡＩがアップルに「自業自得」と反論 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93Q3NJVmIyRUtTeVowemtiLUFTc1BTb0lFMjA2TWFBQUlKVDhTY2tQUzZRY2Z5V21FWkF3WmJOWUVRVTJrdnIxbXVJVHZnMkRFUVh5YTNVOERIV25jTVBEUEt1eE9RN0tVdE5YYS1ITlQyX2pob1pQaw?oc=5",
+      "summary": "企業秘密盗用訴訟、オープンＡＩがアップルに「自業自得」と反論&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-01T06:16:00+00:00"
@@ -3057,9 +3845,25 @@
       "published": "2026-09-01T06:00:00+00:00"
     },
     {
+      "title": "ＴＯＰＩＸ構成銘柄1000下回る公算、除外候補600社超 再評価への取り組みに関心 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOFlZOWFlYzFvRFg2U3NNbzV5eVA1cUw0MHBuVndZUXh0ZG15MVNIbHZ2SnN0N0Jib2dhaHA5MVZTWWc4RzQxOG1DckQ4N3VqVDg0aGdoc0dfWGhab2dOS0Q4SXpMOFhEUjZ4bzQxbUFMdXZ2clpfRDUwMmpPa0tpWg?oc=5",
+      "summary": "ＴＯＰＩＸ構成銘柄1000下回る公算、除外候補600社超 再評価への取り組みに関心&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T05:57:35+00:00"
+    },
+    {
       "title": "長期金利3％に上昇：識者はこうみる - ロイター",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TOTVlWVEzZ0FHamNla1hPS3hUb1ZDU2VYMUp3TC0xNGVMMTJ3WmhDUm04ZDJsWHpuNkxSYnlkRG1aQlpGcVhqaTVtRnRqMGpfQ3JIYWJ2N3RQZmhjamFYRDVLX2o1aEFoUl9VcGxqOE1rU3MtOU0xRA?oc=5",
       "summary": "長期金利3％に上昇：識者はこうみる&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T05:20:00+00:00"
+    },
+    {
+      "title": "長期金利3％に上昇：識者はこうみる - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TOTVlWVEzZ0FHamNla1hPS3hUb1ZDU2VYMUp3TC0xNGVMMTJ3WmhDUm04ZDJsWHpuNkxSYnlkRG1aQlpGcVhqaTVtRnRqMGpfQ3JIYWJ2N3RQZmhjamFYRDVLX2o1aEFoUl9VcGxqOE1rU3MtOU0xRA?oc=5",
+      "summary": "長期金利3％に上昇：識者はこうみる&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-01T05:20:00+00:00"
@@ -3097,6 +3901,14 @@
       "published": "2026-09-01T03:45:43+00:00"
     },
     {
+      "title": "焦点：長期金利が予算想定に急接近、過去に例なく 政策余力低下の恐れ - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fWXZTUlVTLWdUM0tvY2drQ2pwYzlJT2JBc043X3Rjc0V3Qy1UcDlKTUN1aGtsQ21qRmNkUWlyOFU4YWNBOUZmS2ppbzJXRnM0YjlyTy0tQmJ5dTgtRHM2UHNVTkJtRDFBTk85MWw2Y0ZyMWVtYnhleg?oc=5",
+      "summary": "焦点：長期金利が予算想定に急接近、過去に例なく 政策余力低下の恐れ&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T03:45:43+00:00"
+    },
+    {
       "title": "10年利付国債（第383回）の入札結果（令和8年9月1日入札）",
       "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260901.htm",
       "summary": "",
@@ -3116,6 +3928,14 @@
       "title": "中国裁判所、ネクスペリア資産3億ドル凍結 ウィングテック提起の訴訟 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vejVPd3F1anlyNTBzSk5fUHROTkZCV3B0T01sTEhoY3Z3dW50MzdIVVVWbkNhdUY2UlV0VE55SG9NdkswVWkwNVFGR2NQWUJqWkl2U2s1a0liY0VHR3JfT1lJMlNCRExEWmpDQmd5Q1VXck9oSndFVQ?oc=5",
       "summary": "中国裁判所、ネクスペリア資産3億ドル凍結 ウィングテック提起の訴訟&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-01T02:38:49+00:00"
+    },
+    {
+      "title": "中国裁判所、ネクスペリア資産3億ドル凍結 ウィングテック提起の訴訟 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vejVPd3F1anlyNTBzSk5fUHROTkZCV3B0T01sTEhoY3Z3dW50MzdIVVVWbkNhdUY2UlV0VE55SG9NdkswVWkwNVFGR2NQWUJqWkl2U2s1a0liY0VHR3JfT1lJMlNCRExEWmpDQmd5Q1VXck9oSndFVQ?oc=5",
+      "summary": "中国裁判所、ネクスペリア資産3億ドル凍結 ウィングテック提起の訴訟&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-01T02:38:49+00:00"
@@ -3297,6 +4117,14 @@
       "published": "2026-08-31T16:34:15+00:00"
     },
     {
+      "title": "米財務長官、日本が円高につながる措置講じると確信 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdjRMRXNTeWN1dVFsNFBWSFRPd0dwUTBYT2xhaTNwY3hnY2pGSm5KMnNrVGRlY0JzaklhYnMxd2VDYnZaVzRUckhiQTZ1eHlrWV85U2dKWDY0RXN4bHFfdThCQ2xOT1gzVjBNdEtrb1V5Tkc2X2xXOVpBTHZldDBaVzR0UG94ZUoxYldv?oc=5",
+      "summary": "米財務長官、日本が円高につながる措置講じると確信&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-08-31T16:34:15+00:00"
+    },
+    {
       "title": "Inside Microsoft’s marketing team: Scaling expertise with AI",
       "link": "https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/",
       "summary": "AI is helping organizations meet high expectations as markets change quickly and technology advances at a rapid pace.\nThe post Inside Microsoft&#8217;s marketing team: Scaling expertise with AI appeared first on Microsoft Azure Blog.",
@@ -3433,9 +4261,25 @@
       "published": "2026-08-31T06:59:00+00:00"
     },
     {
+      "title": "マクロスコープ：ベセント氏発言、日本への懸念より明示的 財政政策や利上げに影響も - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jUUFoUjRhVEVXSS0yYzdiWnVfa2dTeXh5MzhjQl9LcEo0VVFMeldpSDNjSFNSVGZqQU9yc0lpeHNkbENhcWREVHByTnQ1ZzdoRno1OENkQm5DQ05FMXhfYW16NHNISlBYeDF4RlJrYUpwRm1kc3d1Sw?oc=5",
+      "summary": "マクロスコープ：ベセント氏発言、日本への懸念より明示的 財政政策や利上げに影響も&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-08-31T06:59:00+00:00"
+    },
+    {
       "title": "広済堂ＨＤ、発行済み9.85％の自社株消却 流通株式の基準達成へ - ロイター",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNHltbElhSlFIV0pvQVhmSzk1dzV6a3ZQbF9rdFVPNDdyWmctOE5UZkVqZ01KdVZiMDlsSHZMQXVMYUFEa0VtaUdfZlRZT1U0MVNnYTB1MXRBMEJlRmRXMktlU1l1SGcwS2ZQNE5WUW0yVWRZV2ZtQXVkOWp1cHdEcw?oc=5",
       "summary": "広済堂ＨＤ、発行済み9.85％の自社株消却 流通株式の基準達成へ&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-08-31T06:55:00+00:00"
+    },
+    {
+      "title": "広済堂ＨＤ、発行済み9.85％の自社株消却 流通株式の基準達成へ - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNHltbElhSlFIV0pvQVhmSzk1dzV6a3ZQbF9rdFVPNDdyWmctOE5UZkVqZ01KdVZiMDlsSHZMQXVMYUFEa0VtaUdfZlRZT1U0MVNnYTB1MXRBMEJlRmRXMktlU1l1SGcwS2ZQNE5WUW0yVWRZV2ZtQXVkOWp1cHdEcw?oc=5",
+      "summary": "広済堂ＨＤ、発行済み9.85％の自社株消却 流通株式の基準達成へ&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-08-31T06:55:00+00:00"
@@ -3457,12 +4301,36 @@
       "published": "2026-08-31T05:18:01+00:00"
     },
     {
+      "title": "米ＦＲＢ、9月と12月に利上げへ＝バークレイズ - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTjlHQWZreE15RmdVNlBiRmZ1VDdUZUJtenhJN3k4aWM1Q1dMSXdSejRuSmhCYXpPTkZadDZxQlA4b0JYVTZxNnpMVDl0RHJiZFRvZ1hwc2EyamFaRUdxWkZMV3ppLUZiMXJrTjVmeUZ0dGY5cDUwRjJfR3pyYzcxWg?oc=5",
+      "summary": "米ＦＲＢ、9月と12月に利上げへ＝バークレイズ&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-08-31T05:18:01+00:00"
+    },
+    {
       "title": "ビオンテック、ｍＲＮＡ大腸がんワクチンの試験中止 有効性示せず - ロイター",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMUl3UGh1dTczWTg1WTBHWlo1MnhCdUdHdXlTWXlJakVmZE9xZTRTMGNycFc4NE5YVkNldFVvU1czTktzdzRGTzZJbEZRZktIcWNRdVVlVlM3VUhoSnlNVUswb0lYT3BWTzV6aEUtOVlNYUR5RXI3emVaZk5yenh0NQ?oc=5",
       "summary": "ビオンテック、ｍＲＮＡ大腸がんワクチンの試験中止 有効性示せず&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-08-31T04:57:00+00:00"
+    },
+    {
+      "title": "ビオンテック、ｍＲＮＡ大腸がんワクチンの試験中止 有効性示せず - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMUl3UGh1dTczWTg1WTBHWlo1MnhCdUdHdXlTWXlJakVmZE9xZTRTMGNycFc4NE5YVkNldFVvU1czTktzdzRGTzZJbEZRZktIcWNRdVVlVlM3VUhoSnlNVUswb0lYT3BWTzV6aEUtOVlNYUR5RXI3emVaZk5yenh0NQ?oc=5",
+      "summary": "ビオンテック、ｍＲＮＡ大腸がんワクチンの試験中止 有効性示せず&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-08-31T04:57:00+00:00"
+    },
+    {
+      "title": "アングル：湾岸諸国、インフラ整備に重点投資 ホルムズ海峡封鎖で紛争耐性強化へ - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWUJCdFBHWHA3aUV2T01udE1qbGtNSjdWeVk1Q015Z25SN21JaWo5MUxGRGtlaDJEVy11dEpkbVF4WHBEMy04bGttMEdhSTNVUG5KNGVXeUJIR0pKeDlHLVRhV3RIVWhXSEJtT2FIV3RJbTVndDNYaEpUd2xKYUtZVA?oc=5",
+      "summary": "アングル：湾岸諸国、インフラ整備に重点投資 ホルムズ海峡封鎖で紛争耐性強化へ&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-08-31T04:56:15+00:00"
     },
     {
       "title": "アングル：湾岸諸国、インフラ整備に重点投資 ホルムズ海峡封鎖で紛争耐性強化へ - ロイター",
@@ -3476,6 +4344,14 @@
       "title": "財務省・金融庁、個人向け国債の税優遇盛り込む＝27年度税制改正要望 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTE9OXzlMd1FleU05TEpSelA4LXVNU0VtdURTNFN2TlNUaVhIelN2Tk81VklDMS1QeHM1M2JLWjRIY3VpT1dVWmt3U2FDMmVDM3IxTFlpTlBXNUJXTVRIZ0F3MEdjU1R5UUJiY1ZZNGRTcFFqWWNLNVRobDNTdnktRGRfcDdxZnU3NFNJ?oc=5",
       "summary": "財務省・金融庁、個人向け国債の税優遇盛り込む＝27年度税制改正要望&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-08-31T04:06:00+00:00"
+    },
+    {
+      "title": "財務省・金融庁、個人向け国債の税優遇盛り込む＝27年度税制改正要望 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTE9OXzlMd1FleU05TEpSelA4LXVNU0VtdURTNFN2TlNUaVhIelN2Tk81VklDMS1QeHM1M2JLWjRIY3VpT1dVWmt3U2FDMmVDM3IxTFlpTlBXNUJXTVRIZ0F3MEdjU1R5UUJiY1ZZNGRTcFFqWWNLNVRobDNTdnktRGRfcDdxZnU3NFNJ?oc=5",
+      "summary": "財務省・金融庁、個人向け国債の税優遇盛り込む＝27年度税制改正要望&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-08-31T04:06:00+00:00"
