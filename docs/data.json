@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T00:59:18.190633+00:00",
+  "generated_at": "2026-09-03T01:35:11.427851+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -914,6 +914,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-02T16:26:31+09:00"
+    },
+    {
+      "title": "The Economics of Agent Optimization: Context engineering for enterprise AI agents",
+      "link": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-context-engineering-for-enterprise-ai-agents/",
+      "summary": "AI cost optimization goes beyond model selection. Discover how context engineering in Microsoft Foundry helps lower AI costs by improving knowledge retrieval, tool selection, memory, and agent performance at scale.\nThe post The Economics of Agent Optimization: Context engineering for enterprise AI agents appeared first on Microsoft Azure Blog.",
+      "source": "Azure ブログ",
+      "category": "テクノロジー",
+      "published": "2026-09-02T16:00:00+00:00"
     },
     {
       "title": "長期金利3% 住宅ローンの相談殺到",
