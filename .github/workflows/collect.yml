@@ -32,14 +32,14 @@ jobs:
         # 追加したスクリプトを使って hnrss / AWS / Azure / GitHub 等のフィードを収集
         run: python3 scripts/fetch_feeds.py
 
-      - name: デバッグ: data.json を表示
+      - name: "デバッグ: data.json を表示"
         run: |
           echo "--- data.json (head) ---"
           head -n 80 docs/data.json || true
           echo "--- data.json (tail) ---"
           tail -n 80 docs/data.json || true
 
-      - name: デバッグ: git 差分を表示
+      - name: "デバッグ: git 差分を表示"
         run: |
           git add docs/data.json || true
           echo "git status:";
