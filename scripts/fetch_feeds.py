@@ -28,6 +28,21 @@ FEEDS = [
     ("https://azure.microsoft.com/updates/feed/", "Azure 更新情報", "テクノロジー"),
     ("https://github.blog/feed/", "GitHub Blog", "開発者向け"),
     ("https://cloud.google.com/blog/rss", "Google Cloud Blog", "テクノロジー"),
+    # 以下は金融・経済系フィード（fetch_news.py の FEEDS と同等）
+    ("https://www3.nhk.or.jp/rss/news/cat5.xml", "NHK 経済", "報道機関"),
+    ("https://www.asahi.com/rss/asahi/business.rdf", "朝日新聞 経済", "報道機関"),
+    ("https://www.jiji.com/rss/ranking.rdf", "時事通信", "報道機関"),
+    ("https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja", "ロイター", "報道機関"),
+    ("https://toyokeizai.net/list/feed/rss", "東洋経済オンライン", "経済専門メディア"),
+    ("https://rss.itmedia.co.jp/rss/2.0/business.xml", "ITmedia ビジネス", "経済専門メディア"),
+    ("https://news.yahoo.co.jp/rss/topics/business.xml", "Yahoo!経済トピックス", "編集部厳選"),
+    ("https://www.boj.or.jp/rss/whatsnew.xml", "日本銀行", "公的機関"),
+    ("https://www.mof.go.jp/news.rss", "財務省", "公的機関"),
+    ("https://www.fsa.go.jp/fsaNewsListAll_rss2.xml", "金融庁", "公的機関"),
+    ("https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664", "CNBC", "海外金融"),
+    ("https://feeds.content.dowjones.io/public/rss/mw_topstories", "MarketWatch", "海外金融"),
+    ("https://feeds.content.dowjones.io/public/rss/RSSMarketsMain", "WSJ マーケット", "海外金融"),
+    ("https://www.ft.com/rss/home", "Financial Times", "海外金融"),
 ]
 
 
