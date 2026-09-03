@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T14:48:09.028652+00:00",
+  "generated_at": "2026-09-03T15:08:20.814170+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -80,6 +80,54 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-03T17:00:00+00:00"
+    },
+    {
+      "title": "Elevated errors across ChatGPT and Codex",
+      "link": "https://status.openai.com/incidents/01M1KWEDH417T2CF44YYHZDFCR",
+      "summary": "Article URL: https://status.openai.com/incidents/01M1KWEDH417T2CF44YYHZDFCR\nComments URL: https://news.ycombinator.com/item?id=49550886\nPoints: 9\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-03T14:59:08+00:00"
+    },
+    {
+      "title": "How to invest in a booming stock market that’s way cheaper than the S&P 500",
+      "link": "https://www.marketwatch.com/story/how-to-invest-in-a-booming-stock-market-thats-way-cheaper-than-the-s-p-500-b2f5ef5d?mod=mw_rss_topstories",
+      "summary": "Poland’s reclassification as a developed economy from an emerging market opens it up for investment by many more investors.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-03T14:57:00+00:00"
+    },
+    {
+      "title": "Codex Is Down",
+      "link": "https://github.com/openai/codex/issues/28756",
+      "summary": "Article URL: https://github.com/openai/codex/issues/28756\nComments URL: https://news.ycombinator.com/item?id=49550769\nPoints: 28\n# Comments: 12",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-03T14:54:31+00:00"
+    },
+    {
+      "title": "Netherlands Moves Gold From New York to London, Citing Geopolitical Unrest",
+      "link": "https://www.wsj.com/economy/central-banking/netherlands-moves-gold-from-new-york-to-london-citing-geopolitical-unrest-7a095eb8?mod=rss_markets_main",
+      "summary": "The Dutch central bank said shifting the 78 metric tons of gold, worth $11 billion, would improve its ability to trade the metal in a pinch.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-03T14:50:00+00:00"
+    },
+    {
+      "title": "Japanese Yen Extends Gains Versus Weaker U.S. Dollar",
+      "link": "https://www.wsj.com/finance/currencies/yen-consolidates-may-be-supported-by-lingering-risks-of-fx-intervention-45c3cccb?mod=rss_markets_main",
+      "summary": "The Japanese yen built on earlier gains versus the U.S. dollar amid chatter that authorities could again intervene in foreign-exchange markets.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-03T14:48:00+00:00"
+    },
+    {
+      "title": "ChatGPT Is Throwing 404",
+      "link": "https://chatgpt.com/",
+      "summary": "Article URL: https://chatgpt.com/\nComments URL: https://news.ycombinator.com/item?id=49550614\nPoints: 125\n# Comments: 60",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-03T14:46:47+00:00"
     },
     {
       "title": "The U.S. economy powers up as summer winds down, but it’s not free of tripwires",
@@ -592,6 +640,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-03T10:36:09+00:00"
+    },
+    {
+      "title": "アングル：円安シナリオに揺らぎ、ゲームチェンジは起こるか - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PM0JWNW5PeGlCOGpFNHpxS0g2QXpOVHAtb1JZRmgxaHBGY0RGbE5iOHdJN1ExWDFveFVMS3RXZXVLZFU0VlpPb28zeVdmYUVTbjVoOGdjamxSMnhVNEFKcWNHai1UVVFaemJUejhwOWVoenZFNXZEbA?oc=5",
+      "summary": "アングル：円安シナリオに揺らぎ、ゲームチェンジは起こるか&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-03T10:35:45+00:00"
     },
     {
       "title": "Gloria Steinem, groundbreaking feminist campaigner, dies aged 92",
