@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T00:29:38.075322+00:00",
+  "generated_at": "2026-09-03T00:32:16.337098+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1436,12 +1436,28 @@
       "published": "2026-08-31T19:53:34+00:00"
     },
     {
+      "title": "Introducing Azure Multicloud Interconnect for AWS",
+      "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-multicloud-interconnect-for-aws/",
+      "summary": "Azure Multicloud Interconnect helps simplify private connectivity between Microsoft Azure and AWS, enabling organizations to support multicloud and AI workloads with a more streamlined, cloud-native networking experience. Built on open interoperability standards, it helps reduce operational complexity while providing high-performance connectivity across cloud environments.\nThe post Introducing Azure Multicloud Interconnect for AWS appeared first on Microsoft Azure Blog.",
+      "source": "Azure ブログ",
+      "category": "テクノロジー",
+      "published": "2026-08-31T18:00:00+00:00"
+    },
+    {
       "title": "長期国債買入れ（利回り・価格入札方式）の四半期予定（2026年7～9月）［日程更新］",
       "link": "http://www.boj.or.jp/mopo/mpmdeci/mpr_2026/mpr260831a.pdf",
       "summary": "",
       "source": "日本銀行",
       "category": "公的機関",
       "published": "2026-08-31T17:00:00+09:00"
+    },
+    {
+      "title": "Inside Microsoft’s marketing team: Scaling expertise with AI",
+      "link": "https://azure.microsoft.com/en-us/blog/inside-microsofts-marketing-team-scaling-expertise-with-ai/",
+      "summary": "AI is helping organizations meet high expectations as markets change quickly and technology advances at a rapid pace.\nThe post Inside Microsoft&#8217;s marketing team: Scaling expertise with AI appeared first on Microsoft Azure Blog.",
+      "source": "Azure ブログ",
+      "category": "テクノロジー",
+      "published": "2026-08-31T16:00:00+00:00"
     },
     {
       "title": "令和8年8月27日からの大雨に伴う災害等に対する金融上の措置について（福井県）",
