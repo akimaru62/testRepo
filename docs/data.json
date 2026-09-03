@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T13:25:54.586365+00:00",
+  "generated_at": "2026-09-03T13:37:09.365179+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -66,6 +66,10 @@
     {
       "url": "https://cloud.google.com/blog/rss",
       "error": "503 Server Error: Service Unavailable for url: https://cloud.google.com/blog/rss"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -76,6 +80,30 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-03T17:00:00+00:00"
+    },
+    {
+      "title": "4円超円高、一時155円台に　利上げ観測、日本で拡大、米では後退",
+      "link": "https://www.asahi.com/articles/ASV933DWJV93ULFA00WM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-03T13:36:57.506605+00:00"
+    },
+    {
+      "title": "Snowflake has a secret weapon that’s powering its stock toward a huge gain",
+      "link": "https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories",
+      "summary": "The company’s AI-powered coding assistant is driving major sales momentum.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-03T13:34:00+00:00"
+    },
+    {
+      "title": "August jobs report could show a summer hiring slump. Haitian refugees are a wild card.",
+      "link": "https://www.marketwatch.com/story/august-jobs-report-could-show-a-summer-hiring-slump-haitian-refugees-are-a-wild-card-93fb6dfc?mod=mw_rss_topstories",
+      "summary": "Is the U.S. economy enduring a summer hiring slump for the third year in a row? Wall Street expects only a small increase in new jobs in August, but the news probably won’t be all bad.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-03T13:33:00+00:00"
     },
     {
       "title": "緊急援助隊、４日に派遣　政府、ネパール土石流で",
