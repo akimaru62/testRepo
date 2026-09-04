@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T19:06:06.809230+00:00",
+  "generated_at": "2026-09-04T19:18:27.586688+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -82,6 +82,22 @@
   ],
   "items": [
     {
+      "title": "逆送の１９歳男、殺人罪で起訴　女子高校生殺害―横浜地検",
+      "link": "https://www.jiji.com/jc/article?k=2026090400786&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-04T19:18:23.132059+00:00"
+    },
+    {
+      "title": "「クアッド」開催へ協議継続　日米豪印高官が会談",
+      "link": "https://www.jiji.com/jc/article?k=2026090400674&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-04T19:18:23.132017+00:00"
+    },
+    {
       "title": "‘I feel tricked’: My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
       "link": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
       "summary": "“I specifically rejected Contractor A because of his reputation.”",
@@ -104,6 +120,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-04T18:53:00+00:00"
+    },
+    {
+      "title": "Shutting down our public encrypted DNS",
+      "link": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+      "summary": "Article URL: https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead\nComments URL: https://news.ycombinator.com/item?id=49568579\nPoints: 28\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-04T18:50:28+00:00"
     },
     {
       "title": "Formalizing Fermat's Last Theorem",
@@ -965,6 +989,14 @@
       "title": "US diesel prices soar to record high",
       "link": "https://www.ft.com/content/aa71ca9a-b64f-41b6-8e6f-00ce03a47553?syn-25a6b1a6=1",
       "summary": "Iran war pushes fuel costs above previous 2022 peak, adding to inflationary pressures ahead of November’s midterm elections",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-04T11:08:59+00:00"
+    },
+    {
+      "title": "Trump’s Iran war sends US diesel prices to record high",
+      "link": "https://www.ft.com/content/aa71ca9a-b64f-41b6-8e6f-00ce03a47553?syn-25a6b1a6=1",
+      "summary": "Cost of fuel crucial to American industry rises above 2022 peak, threatening new inflationary burst ahead of November elections",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-04T11:08:59+00:00"
