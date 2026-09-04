@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T18:09:40.231149+00:00",
+  "generated_at": "2026-09-04T18:27:09.384238+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -81,6 +81,38 @@
     }
   ],
   "items": [
+    {
+      "title": "フーシ派が軍と衝突、約１３０人死亡　イエメン沖海峡へ進攻か",
+      "link": "https://www.jiji.com/jc/article?k=2026090400936&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-04T18:27:03.798410+00:00"
+    },
+    {
+      "title": "５日の予告先発投手　プロ野球セ・リーグ",
+      "link": "https://www.jiji.com/jc/article?k=2026090400862&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-04T18:27:03.798361+00:00"
+    },
+    {
+      "title": "U.S. Stocks Slip, Short-Term Treasury Yields Climb After Strong Jobs Report",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-treasurys-little-moved-ahead-of-jobs-data-36dab277?mod=rss_markets_main",
+      "summary": "A hotter-than-expected jobs report is sending U.S. stocks and short-term bond prices lower, as traders boost bets on a rate hike from the Federal Reserve this month.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-04T18:23:00+00:00"
+    },
+    {
+      "title": "WSJ Dollar Index Edges Higher",
+      "link": "https://www.wsj.com/finance/currencies/yen-consolidates-likely-buoyed-by-prospects-of-hawkish-boj-rate-hike-b1eb9c38?mod=rss_markets_main",
+      "summary": "The WSJ Dollar Index was just above flat, after rallying on the job numbers.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-04T18:18:00+00:00"
+    },
     {
       "title": "Gold Futures Reclaim Some Payroll-Induced Losses",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-on-weaker-u-s-dollar-821f948d?mod=rss_markets_main",
