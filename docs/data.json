@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T13:47:51.443212+00:00",
+  "generated_at": "2026-09-04T14:07:48.641941+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -98,12 +98,28 @@
       "published": "2026-09-04T14:00:00+00:00"
     },
     {
+      "title": "Crude Futures on Track for Hefty Weekly Gains",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-elevated-supply-disruption-concerns-fa01461e?mod=rss_markets_main",
+      "summary": "Oil futures were lower, while remaining on track for solid gains in the week that saw a renewal of fighting in the Persian Gulf.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-04T13:50:00+00:00"
+    },
+    {
       "title": "Treasury Yields, Fed Rate-Hike Bets Rise After Strong U.S. Jobs Data",
       "link": "https://www.wsj.com/economy/global/u-s-european-bond-yields-little-changed-ahead-of-key-jobs-data-6528bb59?mod=rss_markets_main",
       "summary": "U.S. Treasury yields jump after significantly stronger-than-expected employment data for August lifted expectations of a Federal Reserve rate hike at the Sept. 16 meeting.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-04T13:43:00+00:00"
+    },
+    {
+      "title": "'People are going to get screwed' Pennsylvania voters unite against data centres",
+      "link": "http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5",
+      "summary": "Article URL: http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5\nComments URL: https://news.ycombinator.com/item?id=49564397\nPoints: 21\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-04T13:33:01+00:00"
     },
     {
       "title": "Tesla’s stock falls as Cybercab launch lands with a thud",
@@ -168,6 +184,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-04T13:10:00+00:00"
+    },
+    {
+      "title": "Scientists Find Worms in Almost Every Fish in a Tuna Haul – 96% Were Infected",
+      "link": "https://www.sciencealert.com/scientists-find-parasites-in-almost-every-fish-from-a-recent-tuna-haul-96-were-infected",
+      "summary": "Article URL: https://www.sciencealert.com/scientists-find-parasites-in-almost-every-fish-from-a-recent-tuna-haul-96-were-infected\nComments URL: https://news.ycombinator.com/item?id=49564112\nPoints: 19\n# Comments: 9",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-04T13:08:18+00:00"
     },
     {
       "title": "波紋呼ぶ米財務長官の注文　金融市場に影響、高市政権の姿勢に変化？",
@@ -328,6 +352,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-04T12:01:07+00:00"
+    },
+    {
+      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+      "link": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+      "summary": "Article URL: https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products\nComments URL: https://news.ycombinator.com/item?id=49563386\nPoints: 33\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-04T11:59:15+00:00"
     },
     {
       "title": "Discovery of a new OpenAI agent message board",
@@ -635,6 +667,14 @@
     },
     {
       "title": "Food Prices Rose in August as Supply Risks Mount, UN Says",
+      "link": "https://www.wsj.com/world/food-prices-rose-in-august-as-supply-risks-mount-un-says-b2639e6d?mod=rss_markets_main",
+      "summary": "World food prices rose in August as adverse weather and supply disruptions in the Middle East and Black Sea regions raised concerns over future supplies, the United Nations’ Food and Agriculture Organization said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-04T09:38:00+00:00"
+    },
+    {
+      "title": "Food Prices Rose in August as Supply Risks Mounted, U.N. Says",
       "link": "https://www.wsj.com/world/food-prices-rose-in-august-as-supply-risks-mount-un-says-b2639e6d?mod=rss_markets_main",
       "summary": "World food prices rose in August as adverse weather and supply disruptions in the Middle East and Black Sea regions raised concerns over future supplies, the United Nations’ Food and Agriculture Organization said.",
       "source": "WSJ マーケット",
