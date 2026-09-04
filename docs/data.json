@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T06:41:30.232573+00:00",
+  "generated_at": "2026-09-04T06:57:48.273958+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -74,9 +74,21 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "ニデック、品質不正は844件　製造業の根幹「極めて重大」と調査委",
+      "link": "https://www.asahi.com/articles/ASV940DXVV94PLFA001M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-04T06:57:35.141466+00:00"
+    },
     {
       "title": "ＩＣＣ「守るため立ち上がって」　加盟国に呼び掛け―国連総会議長",
       "link": "https://www.jiji.com/jc/article?k=2026090400206&g=int&m=rss",
@@ -545,6 +557,14 @@
       "title": "Project Xanadu: Even More Hindsight",
       "link": "https://gwern.net/xanadu",
       "summary": "Article URL: https://gwern.net/xanadu\nComments URL: https://news.ycombinator.com/item?id=49559522\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-04T01:45:23+00:00"
+    },
+    {
+      "title": "Project Xanadu: Even More Hindsight (2025)",
+      "link": "https://gwern.net/xanadu",
+      "summary": "Article URL: https://gwern.net/xanadu\nComments URL: https://news.ycombinator.com/item?id=49559522\nPoints: 67\n# Comments: 9",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-04T01:45:23+00:00"
