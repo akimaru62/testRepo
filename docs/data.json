@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T18:47:34.367396+00:00",
+  "generated_at": "2026-09-04T19:06:06.809230+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -82,6 +82,38 @@
   ],
   "items": [
     {
+      "title": "‘I feel tricked’: My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
+      "link": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
+      "summary": "“I specifically rejected Contractor A because of his reputation.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-04T19:00:00+00:00"
+    },
+    {
+      "title": "Trump’s latest threat — to stop trading with some countries unless there’s a rate cut — risks shock to U.S. economy",
+      "link": "https://www.marketwatch.com/story/trumps-threat-to-stop-trade-unless-theres-a-rate-cut-risks-shock-to-u-s-economy-2e6b9798?mod=mw_rss_topstories",
+      "summary": "Economists and other analysts offered criticism Friday after President Donald Trump floated the idea of stopping trade with countries that have a trade surplus with the U.S. if the Federal Reserve doesn’t lower interest rates.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-04T18:59:00+00:00"
+    },
+    {
+      "title": "Record Fuel Prices Pose Fresh Challenge for Trump Ahead of Midterms",
+      "link": "https://www.wsj.com/business/energy-oil/record-fuel-prices-pose-fresh-challenge-for-trump-ahead-of-midterms-fb433718?mod=rss_markets_main",
+      "summary": "Diesel hit an average $5.85 a gallon on Friday, an all-time high that surpasses the previous record from 2022.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-04T18:53:00+00:00"
+    },
+    {
+      "title": "Formalizing Fermat's Last Theorem",
+      "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "summary": "Article URL: https://www.anthropic.com/research/formalizing-fermats-last-theorem\nComments URL: https://news.ycombinator.com/item?id=49568506\nPoints: 20\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-04T18:42:56+00:00"
+    },
+    {
       "title": "Gold, Silver Futures Slip on Blowout Jobs Report",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-on-weaker-u-s-dollar-821f948d?mod=rss_markets_main",
       "summary": "Gold futures fell as U.S. payrolls increased well above expectations in August, pushing up short-term Treasury yields and raising expectations of a possible September Fed hike.",
@@ -154,6 +186,14 @@
       "published": "2026-09-04T17:56:14+00:00"
     },
     {
+      "title": "The Rust React Compiler is now native in Vite",
+      "link": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+      "summary": "Article URL: https://blog.master.dev/react-now-rusted-all-the-way-out/\nComments URL: https://news.ycombinator.com/item?id=49567873\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-04T17:49:09+00:00"
+    },
+    {
       "title": "Gold Futures Reclaim Some Payroll-Induced Losses",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-on-weaker-u-s-dollar-821f948d?mod=rss_markets_main",
       "summary": "Gold futures clawed back some of the losses made in the wake of the 162,000 increase in August payrolls that caused short-term Treasury yields to spike and strengthened the dollar, increasing expectations for a Fed interest-rate increase this month.",
@@ -192,6 +232,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-04T17:12:22+00:00"
+    },
+    {
+      "title": "Stop Thinking of LLMs as Next-Token Predictors",
+      "link": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+      "summary": "Article URL: https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html\nComments URL: https://news.ycombinator.com/item?id=49567310\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-04T17:09:24+00:00"
     },
     {
       "title": "Major U.S. Stock Indexes Slide on August Jobs Report Boosting Rate-Increase Bets",
