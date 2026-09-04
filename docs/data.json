@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T17:33:34.165230+00:00",
+  "generated_at": "2026-09-04T17:48:16.802335+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -82,6 +82,30 @@
   ],
   "items": [
     {
+      "title": "Gold Futures Reclaim Some Payroll-Induced Losses",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-on-weaker-u-s-dollar-821f948d?mod=rss_markets_main",
+      "summary": "Gold futures clawed back some of the losses made in the wake of the 162,000 increase in August payrolls that caused short-term Treasury yields to spike and strengthened the dollar, increasing expectations for a Fed interest-rate increase this month.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-04T17:37:00+00:00"
+    },
+    {
+      "title": "Show HN: Open-Source eInk Bike Computer",
+      "link": "https://opentrailpaper.com",
+      "summary": "Hey all, i just launched my Eink Bike computer project and think it is cool.Another tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout/biking) implementation for ESP32 by messing around with undocumented registers: https://github.com/RaemondBW/esp32-ant\n\nComments URL: https://news.ycombinator.com/item?id=49567437\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-04T17:18:08+00:00"
+    },
+    {
+      "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
+      "link": "https://twitter.com/ggerganov/status/2095897173376618881",
+      "summary": "Article URL: https://twitter.com/ggerganov/status/2095897173376618881\nComments URL: https://news.ycombinator.com/item?id=49567357\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-04T17:12:22+00:00"
+    },
+    {
       "title": "Major U.S. Stock Indexes Slide on August Jobs Report Boosting Rate-Increase Bets",
       "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-treasurys-little-moved-ahead-of-jobs-data-36dab277?mod=rss_markets_main",
       "summary": "A hotter-than-expected jobs report was sending U.S. stocks and short-term bond prices lower, as traders boost bets on a rate hike from the Federal Reserve this month.",
@@ -104,6 +128,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-04T17:00:00+00:00"
+    },
+    {
+      "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
+      "link": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
+      "summary": "Article URL: https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/\nComments URL: https://news.ycombinator.com/item?id=49567053\nPoints: 12\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-04T16:46:59+00:00"
     },
     {
       "title": "White House has vetted candidates for key CFTC vacancies, sources tell CNBC. It's unclear if they will be filled",
@@ -704,6 +736,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-04T11:53:00+00:00"
+    },
+    {
+      "title": "ノルウェー政府系ファンド、米国債を大幅削減方針 資産構成を変更 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU0JUZlNtRjA5N21lNGRfc0JnNXVHcnl1NE9qdXR4UC1jb1lxNEdMUEFTNE1GZzhYdWpMcDNpbEdZZ212dkxwczBTLVRib2JTWndIV2U3aFl6eEhBTVM1R2ltdVpDcEJuOGhGWUpScnVTSzR1b2Q4dG5FcVFOcVVHZQ?oc=5",
+      "summary": "ノルウェー政府系ファンド、米国債を大幅削減方針 資産構成を変更&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-04T11:35:46+00:00"
     },
     {
       "title": "Six reasons that the risk of a stock-market selloff is rising. Here’s what investors should be doing.",
