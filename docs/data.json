@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T17:21:26.991568+00:00",
+  "generated_at": "2026-09-04T17:33:34.165230+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -170,9 +170,25 @@
       "published": "2026-09-04T15:39:00+00:00"
     },
     {
+      "title": "deSEC – Free Secure DNS",
+      "link": "https://desec.io/",
+      "summary": "Article URL: https://desec.io/\nComments URL: https://news.ycombinator.com/item?id=49566193\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-04T15:38:58+00:00"
+    },
+    {
       "title": "Corporate America Is Getting Hooked on Open-Source A.I",
       "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
       "summary": "Article URL: https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html\nComments URL: https://news.ycombinator.com/item?id=49566137\nPoints: 19\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-04T15:33:45+00:00"
+    },
+    {
+      "title": "Corporate America is getting hooked on open-source AI",
+      "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html\nComments URL: https://news.ycombinator.com/item?id=49566137\nPoints: 109\n# Comments: 73",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-04T15:33:45+00:00"
@@ -538,9 +554,25 @@
       "published": "2026-09-04T12:43:49+00:00"
     },
     {
+      "title": "How Fairphone built the Fairphone Gen 6+",
+      "link": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
+      "summary": "Article URL: https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/\nComments URL: https://news.ycombinator.com/item?id=49563784\nPoints: 137\n# Comments: 121",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-04T12:43:49+00:00"
+    },
+    {
       "title": "Ok, but Does It Scale?",
       "link": "https://spacetimedb.com/blog/how-does-spacetime-scale",
       "summary": "Article URL: https://spacetimedb.com/blog/how-does-spacetime-scale\nComments URL: https://news.ycombinator.com/item?id=49563772\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-04T12:42:08+00:00"
+    },
+    {
+      "title": "Ok, but does it scale?",
+      "link": "https://spacetimedb.com/blog/how-does-spacetime-scale",
+      "summary": "Article URL: https://spacetimedb.com/blog/how-does-spacetime-scale\nComments URL: https://news.ycombinator.com/item?id=49563772\nPoints: 81\n# Comments: 47",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-04T12:42:08+00:00"
@@ -1082,6 +1114,14 @@
       "published": "2026-09-04T09:08:55.729944+00:00"
     },
     {
+      "title": "ニデックの品質不正844件、業績圧力などで組織不健全と調査委 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14dFdyS0REOGhMSjdaNWJXZThHaWdyMzMtRzEySXN2c2RhaTB3Wm4zRmdiY2N0RlNwSnBIUS1LWnFBTjViYVdyaXpGTC1OS1prZW9lWE1YZzRPakNGd3VlUkg5MkJqOHYtOWdXUF9UazMySHJKSkxDSg?oc=5",
+      "summary": "ニデックの品質不正844件、業績圧力などで組織不健全と調査委&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-04T09:06:47+00:00"
+    },
+    {
       "title": "Fox News presenter and Trump ally Maria Bartiromo departs after 12 years",
       "link": "https://www.ft.com/content/c3e515b8-2207-4bf2-8a85-d5bce0d6f9df?syn-25a6b1a6=1",
       "summary": "President calls news anchor a ‘true warrior’ and says her fans ‘will not be happy’",
@@ -1432,6 +1472,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-04T06:57:35.141466+00:00"
+    },
+    {
+      "title": "日経平均は5日ぶり反発、金利低下が支え 一部ＡＩ株堅調 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOVp4b0ZLT2JxalIwZGJVOWlZcXVnNHRpNFBUdXV0N2RyTXJWdngwdjk5S3ZRTGZXWlliWlJCSF91OFZDV3pOVzlCbzRCN2N0YVJ3Q3EtQ0dHdEVMbkdDMHhyN3IzZHZtX1dwN3FGLUNhTjZBdUlBRTZwMk1helZlRQ?oc=5",
+      "summary": "日経平均は5日ぶり反発、金利低下が支え 一部ＡＩ株堅調&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-04T06:52:00+00:00"
     },
     {
       "title": "米下院、イスラエルをボイコットする大学への資金停止法案を可決 - ロイター",
