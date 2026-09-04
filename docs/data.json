@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T17:48:16.802335+00:00",
+  "generated_at": "2026-09-04T18:09:40.231149+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -88,6 +88,22 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-04T17:37:00+00:00"
+    },
+    {
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
+      "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+      "summary": "Article URL: https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/\nComments URL: https://news.ycombinator.com/item?id=49567594\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-04T17:29:22+00:00"
+    },
+    {
+      "title": "ウクライナ情報機関本部にロシア軍ドローン攻撃、ゼレンスキー氏報復表明 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUWZfa1dRUjRWeWduVm9DTTNFNnk1U3YtaGdEQUYxY1dsdmdTWVhLdFhEd0dwZGJIMEJCclBqdDBnT3VHVU1zSjBBU3RsVjk4b1A4MGpNXzdjRk1tLVU1ekdQclEyNzVCUTN2ZmlLSTZmdTFXVHNBY2g0ZFlWeHNSMQ?oc=5",
+      "summary": "ウクライナ情報機関本部にロシア軍ドローン攻撃、ゼレンスキー氏報復表明&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-04T17:19:02+00:00"
     },
     {
       "title": "Show HN: Open-Source eInk Bike Computer",
@@ -850,6 +866,14 @@
       "published": "2026-09-04T11:00:00+00:00"
     },
     {
+      "title": "オープンＡＩのエージェント、米新興不正侵入前にもドイツで「暴走」 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TazBqWkpFTmNIeFVyYzZpRi1OdXE3S1piNmo4NGRiaEEyVmoyZ3ZMcWpOajdfMzNCcjdvQV96VXJPUlUtUVpRdnk4cFZaQjkxUE9lb1IzTUhOTmZMVGJZYVRjVkM4QU8zT3QwaWtHelFKNldaQlJGRg?oc=5",
+      "summary": "オープンＡＩのエージェント、米新興不正侵入前にもドイツで「暴走」&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-04T10:59:46+00:00"
+    },
+    {
       "title": "Dollar Rises Ahead of Employment Data",
       "link": "https://www.wsj.com/finance/currencies/yen-consolidates-likely-buoyed-by-prospects-of-hawkish-boj-rate-hike-b1eb9c38?mod=rss_markets_main",
       "summary": "The dollar rose, with market awaiting key U.S. nonfarm payrolls data.",
@@ -1168,6 +1192,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-04T09:04:01+00:00"
+    },
+    {
+      "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+      "link": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+      "summary": "I love research and development, you may have heard of me because of PJON (Padded Jittering Operative Network). It is a network protocol I started developing in 2010, which was recently implemented in silicon by the ETH Zurich university thanks to the research of Pius Sieber.I am excited to share with you TERMy, a terminal assistant built on top of the NPC-Forge framework. Unlike everything else being built today, TERMy does not use embeddings, machine-learning or LLMs. It runs on the CPU (even on a Raspberry Pi Zero) both in the terminal or client-side in a browser tab and responds in milliseconds. It is a cynical but very knowledgeable Linux terminal assistant that translates your natural language into shell commands without relying on a single artificial neuron.I had a chance to focus for 2 months on my personal projects since early July, during the strange times of AI price hikes and the end of subsidized tokenmaxing. I was curious to see if I could develop from scratch a terminal assistant capable of handling simple natural language requests. I have a bad memory and got used to ask to copilot \"activate the virtual environment\" or similar trivial operations spending a non negligible sum every month. I started thinking, maybe I can do something to make my workflow more efficient? Do I really need trillions of parameters to accomplish those tasks?How it WorksWhen you type a prompt, it goes through a lightweight NLU pipeline written in ~1000 lines of Python that implement the following steps:1. Strip expletives, interjections, encouraging, discouraging and thanking words (remove noise)2. Sentiment analysis3. Exact Match (very fast)4. Template Match (slower)5. Probabilistic Match (even slower)Step 5 relies on:1. IDF (Inverse Document Frequency) to identify rare words.2. BOW (Bag Of Words) to accommodate word inversions.3. IDF weighted Levenshtein to safely handle typos.Permission gating is hardcoded into the dataset and enforced for all potentially destructive commands, so it's inherently safer than letting an unpredictable LLM run wild on your machine.- TERMy in operation: https://www.youtube.com/watch?v=qeIp0xePLBg- Variance and typo tolerance: https://www.youtube.com/watch?v=tQvGDk6fkk0- Copilot integration: https://www.youtube.com/watch?v=Wzzouhq2a8A- Advanced features: https://www.youtube.com/watch?v=qeIp0xePLBg- Source Code: https://github.com/gioblu/NPC-Forge\n\nComments URL: https://news.ycombinator.com/item?id=49562219\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-04T09:03:00+00:00"
     },
     {
       "title": "‘Don’t Say Good Luck’ star Melanie Lynskey dreams of buying a New Zealand home but can’t afford it",
@@ -1544,6 +1576,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-04T06:47:51+00:00"
+    },
+    {
+      "title": "What Reuters saw at Nepal's hydropower rescue site - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PRkVEY2NsamktbXQ1OHpkNEhwdnJCdGNicGsyMmpiV0FZZllyeklUNlNkYkt6Z2Vhc3hFR0hiTUliVlZkbHBSSWNCZUhfOWNSY0RFVzNsYm4yUE1NbjcydTFnRmhzdw?oc=5",
+      "summary": "What Reuters saw at Nepal's hydropower rescue site&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-04T06:33:30+00:00"
     },
     {
       "title": "インタビュー：国内の超長期国債に妙味、米国債の残高減は検討せず＝日本生命 - ロイター",
