@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T18:39:33.093803+00:00",
+  "generated_at": "2026-09-04T18:47:34.367396+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -82,6 +82,14 @@
   ],
   "items": [
     {
+      "title": "Gold, Silver Futures Slip on Blowout Jobs Report",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-on-weaker-u-s-dollar-821f948d?mod=rss_markets_main",
+      "summary": "Gold futures fell as U.S. payrolls increased well above expectations in August, pushing up short-term Treasury yields and raising expectations of a possible September Fed hike.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-04T18:41:00+00:00"
+    },
+    {
       "title": "Why the jobs report will actually be good for bonds",
       "link": "https://www.marketwatch.com/story/why-the-jobs-report-will-actually-be-good-for-bonds-eb062fda?mod=mw_rss_topstories",
       "summary": "Based on the chatter on Wall Street, you’d think labor has never had it so good. Sadly for working Americans, this isn’t actually the case.",
@@ -128,6 +136,22 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-04T18:18:00+00:00"
+    },
+    {
+      "title": "Betaworks Scores With Hugging Face Deal",
+      "link": "https://www.wsj.com/tech/betaworks-scores-with-hugging-face-deal-f359e3ec?mod=rss_markets_main",
+      "summary": "John Borthwick’s venture firm wrote the first check Hugging Face ever received, and now owns a stake that could be worth $650 million. Other early investors also did handsomely.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-04T17:58:00+00:00"
+    },
+    {
+      "title": "Hayes AT command set",
+      "link": "https://en.wikipedia.org/wiki/Hayes_AT_command_set",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Hayes_AT_command_set\nComments URL: https://news.ycombinator.com/item?id=49567961\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-04T17:56:14+00:00"
     },
     {
       "title": "Gold Futures Reclaim Some Payroll-Induced Losses",
@@ -3904,6 +3928,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-03T19:17:24+00:00"
+    },
+    {
+      "title": "Arrested for a Late Manuscript: Seicho Matsumoto's 'Tokyo Express'",
+      "link": "https://www.millersbookreview.com/p/arrested-for-a-late-manuscript-seicho-matsumoto-tokyo-express",
+      "summary": "Article URL: https://www.millersbookreview.com/p/arrested-for-a-late-manuscript-seicho-matsumoto-tokyo-express\nComments URL: https://news.ycombinator.com/item?id=49555131\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-03T19:10:59+00:00"
     },
     {
       "title": "Wall Street is betting on Fed Chair Kevin Warsh to keep a manic bond market from unraveling",
