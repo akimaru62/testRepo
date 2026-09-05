@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T13:06:09.820259+00:00",
+  "generated_at": "2026-09-05T13:20:53.627382+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -82,9 +82,61 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Read timed out. (read timeout=15)"
     }
   ],
   "items": [
+    {
+      "title": "ホルムズへ軍派遣、深まるジレンマ　対米好転期待も根強い反対論―韓国",
+      "link": "https://www.jiji.com/jc/article?k=2026090500359&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-05T13:20:47.993733+00:00"
+    },
+    {
+      "title": "初の極右政権焦点、６日州議選　ＡｆＤ、国政揺るがす―旧東独",
+      "link": "https://www.jiji.com/jc/article?k=2026090500322&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-05T13:20:47.993715+00:00"
+    },
+    {
+      "title": "ミャンマー・ベトナム首脳が会談　安保やエネルギーで協力拡大",
+      "link": "https://www.jiji.com/jc/article?k=2026090500455&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-05T13:20:47.993700+00:00"
+    },
+    {
+      "title": "水戸、５戦負けなし　Ｊ１",
+      "link": "https://www.jiji.com/jc/article?k=2026090500456&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-05T13:20:47.993681+00:00"
+    },
+    {
+      "title": "小沢一郎氏「立民、中道は解党を」　新党結成に意欲",
+      "link": "https://www.jiji.com/jc/article?k=2026090500445&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-05T13:20:47.993639+00:00"
+    },
+    {
+      "title": "盛んな国も 実在する「時間銀行」",
+      "link": "https://news.yahoo.co.jp/pickup/6594354?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-05T13:07:36+00:00"
+    },
     {
       "title": "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.",
       "link": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
