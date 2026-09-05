@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T21:05:44.160492+00:00",
+  "generated_at": "2026-09-05T21:19:39.529530+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -89,6 +89,22 @@
     }
   ],
   "items": [
+    {
+      "title": "首相動静（９月５日）",
+      "link": "https://www.jiji.com/jc/article?k=2026090500241&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-05T21:19:33.710630+00:00"
+    },
+    {
+      "title": "ウクライナ新和平案協議か　ロシアのプーチン大統領、米特使らと会談",
+      "link": "https://www.jiji.com/jc/article?k=2026090600088&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-05T21:19:33.710588+00:00"
+    },
     {
       "title": "政府は穴を掘って埋めるような財政出動をやればいい､なんてケインズは言っていない…『一般理論』の真意を読み解く | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/957006?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -184,6 +200,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-05T20:14:25+00:00"
+    },
+    {
+      "title": "LLMs as a Cognitive Virus",
+      "link": "https://arxiv.org/abs/2609.03344",
+      "summary": "Article URL: https://arxiv.org/abs/2609.03344\nComments URL: https://news.ycombinator.com/item?id=49580164\nPoints: 17\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-05T20:02:35+00:00"
     },
     {
       "title": "The moral panic over data centres is foolish",
