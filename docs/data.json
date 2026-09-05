@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T14:33:27.751371+00:00",
+  "generated_at": "2026-09-05T14:47:38.770775+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -90,6 +90,22 @@
   ],
   "items": [
     {
+      "title": "くら寿司、「ちいかわ」コラボキャンペーンを中止　「従業員が不正」",
+      "link": "https://www.asahi.com/articles/ASV954TCYV95PTIL007M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-05T14:47:33.278328+00:00"
+    },
+    {
+      "title": "Here’s how much Americans rely on Social Security — at all income levels",
+      "link": "https://www.marketwatch.com/story/heres-how-much-americans-rely-on-social-security-at-all-income-levels-3a767119?mod=mw_rss_topstories",
+      "summary": "Social Security is really important for older Americans. It needs to be tweaked, not restructured.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-05T14:33:00+00:00"
+    },
+    {
       "title": "９月利上げ、インフレ見極め　米雇用底堅く―ＦＲＢ",
       "link": "https://www.jiji.com/jc/article?k=2026090500331&g=int&m=rss",
       "summary": "",
@@ -109,6 +125,14 @@
       "title": "Ig Nobel Prize Winners",
       "link": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
       "summary": "Article URL: https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/\nComments URL: https://news.ycombinator.com/item?id=49576611\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-05T14:02:44+00:00"
+    },
+    {
+      "title": "Meet the Ig Nobel Prize Winners",
+      "link": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
+      "summary": "Article URL: https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/\nComments URL: https://news.ycombinator.com/item?id=49576611\nPoints: 12\n# Comments: 1",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-05T14:02:44+00:00"
@@ -184,6 +208,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-05T13:20:47.993639+00:00"
+    },
+    {
+      "title": ".gitignore Everything by Default",
+      "link": "https://packagemain.tech/p/gitignore-everything-by-default",
+      "summary": "Article URL: https://packagemain.tech/p/gitignore-everything-by-default\nComments URL: https://news.ycombinator.com/item?id=49576258\nPoints: 8\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-05T13:19:42+00:00"
     },
     {
       "title": "Pentagon rescinds new testosterone screening policy without explanation",
@@ -368,6 +400,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-05T10:33:01+00:00"
+    },
+    {
+      "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
+      "link": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+      "summary": "Article URL: https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/\nComments URL: https://news.ycombinator.com/item?id=49575143\nPoints: 10\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-05T10:32:09+00:00"
     },
     {
       "title": "男子フリーに中田璃士ら　木下杯フィギュア",
