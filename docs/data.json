@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T00:20:05.003030+00:00",
+  "generated_at": "2026-09-05T01:03:18.739660+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -82,6 +82,22 @@
   ],
   "items": [
     {
+      "title": "住宅購入急ぐ若年層 リスクに警鐘",
+      "link": "https://news.yahoo.co.jp/pickup/6594274?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-05T00:37:14+00:00"
+    },
+    {
+      "title": "YouTuberの福島大学への\"学歴差別\"発言が炎上　｢学歴第一主義｣のキャラ設定が今回は通じなかった深層 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/956951?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "YouTubeチャンネル｢wakatte.TV｣が福島大学への学歴差別的発言で炎上。これまで偏差値を笑いのネタにしてきた同チャンネルだが､学歴至上主義の\"笑い\"は本当に成立するのか？",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-05T00:30:00+00:00"
+    },
+    {
       "title": "鹿児島県屋久島町に土砂災害特別警報　台風２４号などで線状降水帯発生―気象庁",
       "link": "https://www.jiji.com/jc/article?k=2026090500159&g=soc&m=rss",
       "summary": "",
@@ -96,6 +112,22 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-05T00:19:59.156434+00:00"
+    },
+    {
+      "title": "Artificial Analysis Intelligence Index v4.2",
+      "link": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2\nComments URL: https://news.ycombinator.com/item?id=49571632\nPoints: 15\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-05T00:04:14+00:00"
+    },
+    {
+      "title": "Reversing MikroTik's Silent Patch: The RouterOS 7.23.4 Fix They Wouldn't Explain",
+      "link": "https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/",
+      "summary": "Article URL: https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/\nComments URL: https://news.ycombinator.com/item?id=49571627\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-05T00:03:08+00:00"
     },
     {
       "title": "ニデック不正 利益至上主義が浸透",
@@ -128,6 +160,22 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-05T00:00:00+00:00"
+    },
+    {
+      "title": "Show HN: Moadim.io – A scheduler for agents",
+      "link": "https://moadim.io/",
+      "summary": "Why can't we get an agent scheduler that supports all of the following:- git compatible- agent agnostic- 100% open source- os and system-agnostic- multi-runner support- support mcp/ui/http- unlimited routines/cronsSo I built one, moadim.io is a local Rust daemon you install in the target machine, give it a name and manage its routines via a Git repository, wants a new routine that send you a daily message from this machine? Create a pr and merge, have another routine that run every hour to pull the latest changes to the ~/.config/moadim folder.With more than 1,000 users, I define this project as almost \"done\" and ready for production. Me and thousand more people are use it in a daily manner.It currently supports Claude, Codex, Hermes, and Pi, and you are welcome to add your agent of choice as well because it's 100% configurable.You are welcome to have a look at the source code of the daemon in \"http://github.com/moadim-io/daemon\"Feel free to provide me with suggestions for more features around this topic. I don't want to branch out to new off road topics likt webhooks, this is a \"done\" software in the realm of agents schedulers that focus on cron-like work.Also feel free to start the github repository and open issues and PRs for your suggestions.\n\nComments URL: https://news.ycombinator.com/item?id=49571537\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-04T23:50:29+00:00"
+    },
+    {
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "link": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "summary": "Article URL: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90\nComments URL: https://news.ycombinator.com/item?id=49571465\nPoints: 18\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-04T23:38:50+00:00"
     },
     {
       "title": "障害者雇用巡り那覇の業者を調査",
@@ -400,6 +448,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-04T21:39:19+00:00"
+    },
+    {
+      "title": "イスラエル軍がレバノン南部空爆、国防相「ヒズボラ一掃」も表明 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jNngzTU54NE1JTDlUeFdtRGFPQ3gxMXAtQkM1enVQSXZId0tCYjhMdGVHMjhTb0J5dk9wQXFncmFzLTQ2eVVCbmpnZjlvRllXNjNQcFhFcXNZbDZYbGRBUXpsVm10RGdLbU1zMkR1dlpiM2wtTmhwUg?oc=5",
+      "summary": "イスラエル軍がレバノン南部空爆、国防相「ヒズボラ一掃」も表明&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-04T21:36:44+00:00"
     },
     {
       "title": "利下げ見送りなら貿易赤字国との取引停止　トランプ米大統領、ＦＲＢけん制",
@@ -978,6 +1034,14 @@
       "published": "2026-09-04T17:09:24+00:00"
     },
     {
+      "title": "ホワイトハウス、公式サイトでゲーム公開 不法移民対策などテーマ - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iSEtFX1NGRkVWaThKTXBWaFNFYm1MODB1Q1UtZzMxZ3dwQlJtYnU1MzZLM1pTQkVTeXpHS082QVVfdXlSNVRWLXYzWENnMTFNaXBETHlOZ3dPZEVpWVJuNVVrS2VXdGZLblRYcGNhc2IzdDVIMGVteg?oc=5",
+      "summary": "ホワイトハウス、公式サイトでゲーム公開 不法移民対策などテーマ&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-04T17:07:43+00:00"
+    },
+    {
       "title": "Major U.S. Stock Indexes Slide on August Jobs Report Boosting Rate-Increase Bets",
       "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-treasurys-little-moved-ahead-of-jobs-data-36dab277?mod=rss_markets_main",
       "summary": "A hotter-than-expected jobs report was sending U.S. stocks and short-term bond prices lower, as traders boost bets on a rate hike from the Federal Reserve this month.",
@@ -1280,6 +1344,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-04T14:20:00+00:00"
+    },
+    {
+      "title": "JBL.DE - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BRDdqNFJ3TUxvSnhqVlFlM1Z2Vy1zc3RoMFJKX1JrUWdnNjZabVo4SHU5UUVrVUJmVC1xREdPZmZZRFdiaDZUNFFab050RnBKSGpWZTI3MzNrUkxiUGE3amJuSFhwMHFLOHFod19NOElnUXhHNDlUTA?oc=5",
+      "summary": "JBL.DE&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-04T14:17:30+00:00"
     },
     {
       "title": "キーウのウクライナ保安庁本部にロシア軍のドローン攻撃＝ゼレンスキー氏 - ロイター",
