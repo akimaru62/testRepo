@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T12:30:42.253766+00:00",
+  "generated_at": "2026-09-05T12:48:38.324778+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -78,6 +78,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -104,6 +108,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-05T12:30:36.739926+00:00"
+    },
+    {
+      "title": "Plastic surgery is booming with boomers. Here’s how to cash in on the antiaging craze.",
+      "link": "https://www.marketwatch.com/story/plastic-surgery-is-booming-with-boomers-heres-how-to-cash-in-on-the-antiaging-craze-7f1ea891?mod=mw_rss_topstories",
+      "summary": "Americans age 65 and older are suddenly the fastest-growing customers for cosmetic surgery.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-05T12:30:00+00:00"
     },
     {
       "title": "Trump envoys arrive in Moscow with Ukraine peace proposal",
@@ -192,6 +204,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-05T10:36:14+00:00"
+    },
+    {
+      "title": "Terpstra Keyboard",
+      "link": "http://terpstrakeyboard.com/",
+      "summary": "Article URL: http://terpstrakeyboard.com/\nComments URL: https://news.ycombinator.com/item?id=49575150\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-05T10:33:01+00:00"
     },
     {
       "title": "男子フリーに中田璃士ら　木下杯フィギュア",
