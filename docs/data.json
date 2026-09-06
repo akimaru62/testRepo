@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T16:07:28.798827+00:00",
+  "generated_at": "2026-09-06T16:23:44.379241+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -90,9 +90,21 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f9241cd0c20>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "Cultivating Trust",
+      "link": "https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/",
+      "summary": "Article URL: https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/\nComments URL: https://news.ycombinator.com/item?id=49587833\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-06T16:02:37+00:00"
+    },
     {
       "title": "川崎の持山、鮮やか先制点　Ｊリーグ",
       "link": "https://www.jiji.com/jc/article?k=2026090600443&g=spo&m=rss",
