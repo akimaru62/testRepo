@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T21:47:29.987719+00:00",
+  "generated_at": "2026-09-06T22:06:35.680516+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -98,6 +98,10 @@
     {
       "url": "https://azure.microsoft.com/updates/feed/",
       "error": "403 Client Error: Forbidden for url: https://azure.microsoft.com/en-us/updates?id=feed"
+    },
+    {
+      "url": "https://azure.microsoft.com/updates/feed/",
+      "error": "403 Client Error: Forbidden for url: https://azure.microsoft.com/en-us/updates?id=feed"
     }
   ],
   "items": [
@@ -164,6 +168,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-06T21:19:52.241965+00:00"
+    },
+    {
+      "title": "Windows 11's \"special\" developer edition looks like another marketing misfire",
+      "link": "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/",
+      "summary": "Article URL: https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/\nComments URL: https://news.ycombinator.com/item?id=49591036\nPoints: 11\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-06T21:16:10+00:00"
     },
     {
       "title": "会社四季報｢秋号｣超先取りランキング⑥最高益続く割安中小型株100､逆風局面でも利益成長が続く割安株を厳選 | ビジネス | 東洋経済オンライン",
@@ -292,6 +304,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-06T20:32:38+00:00"
+    },
+    {
+      "title": "Harnessing the Universal Geometry of Embeddings",
+      "link": "https://arxiv.org/abs/2505.12540",
+      "summary": "Article URL: https://arxiv.org/abs/2505.12540\nComments URL: https://news.ycombinator.com/item?id=49590595\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-06T20:31:20+00:00"
     },
     {
       "title": "会社四季報オンラインの人気連載｢厳選注目株｣で活躍中の3達人が伝授！銘柄選定の極意 | ビジネス | 東洋経済オンライン",
@@ -532,6 +552,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-06T16:26:54+00:00"
+    },
+    {
+      "title": "CMZOF.PQ - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdjBfeENvY2hYRDdSMWR6WnBwNThTS2UtUmprTU0yNWxDaFVwQjFucncyN05ZTGRYLS1yMnppenoxbzlXbzNxWWlQQWVpX0NWclRYR0xKb2psdDlYX0MxWTIzYjdrdkg2VHlEbW9OQWtZWTdrVmxuMG45Z3YwQzM1UGhIVXJwQV9X?oc=5",
+      "summary": "CMZOF.PQ - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-06T16:13:11+00:00"
     },
     {
       "title": "Research carried out using NetBSD",
