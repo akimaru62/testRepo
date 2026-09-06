@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T23:06:06.715796+00:00",
+  "generated_at": "2026-09-06T23:20:23.827073+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -102,9 +102,53 @@
     {
       "url": "https://azure.microsoft.com/updates/feed/",
       "error": "403 Client Error: Forbidden for url: https://azure.microsoft.com/en-us/updates?id=feed"
+    },
+    {
+      "url": "https://www.mof.go.jp/news.rss",
+      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     }
   ],
   "items": [
+    {
+      "title": "頼政権に初の中間評価　台北近郊の新北市で熱戦―統一地方選まで３カ月・台湾",
+      "link": "https://www.jiji.com/jc/article?k=2026090600222&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-06T23:20:17.980536+00:00"
+    },
+    {
+      "title": "政権獲得へ準備の３年　玉木氏、組織強化が課題―国民民主",
+      "link": "https://www.jiji.com/jc/article?k=2026090600269&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-06T23:20:17.980524+00:00"
+    },
+    {
+      "title": "殺人罪、「未遂」も時効撤廃を　愛知の被害者家族が活動―「死んだ方がよかったか」",
+      "link": "https://www.jiji.com/jc/article?k=2026090600240&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-06T23:20:17.980486+00:00"
+    },
+    {
+      "title": "Five killed as Amazon cargo plane overshoots runway in Miami",
+      "link": "https://www.ft.com/content/8077447c-b7db-4854-ba42-d2fb0dc65c76?syn-25a6b1a6=1",
+      "summary": "Crash of Prime Air 767-300 is latest in a string of recent US aviation accidents",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-06T23:05:00+00:00"
+    },
+    {
+      "title": "今日の株式見通し＝強含み、米半導体株堅調が追い風 買い一巡後は伸び悩みも - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYUhwZFItMzQwQnhzNzRZeVhuMC1zdDRpU21OUUxwZ1c5dEdzSjFMeEpoUUxwY2k1Y0k4cExwb1laTUozOFc4SVRpb3dwZDc3Z0dORlp3VEhiOEwtbWg2THNMZ2hBZzRaY1pzZnh6dFE4VzIzQ0JrMHhzdG04QU1DTA?oc=5",
+      "summary": "今日の株式見通し＝強含み、米半導体株堅調が追い風 買い一巡後は伸び悩みも&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-06T23:03:43+00:00"
+    },
     {
       "title": "｢食いだおれバスツアー｣ぼっち参加だった私の思いがけない結末…漫画『55歳のひとり旅デビュー まめ旅すたいる。』 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/956497?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -146,6 +190,14 @@
       "published": "2026-09-06T22:39:43+00:00"
     },
     {
+      "title": "Political meddling at the Census Bureau damages the US statistical system",
+      "link": "https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system",
+      "summary": "Article URL: https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system\nComments URL: https://news.ycombinator.com/item?id=49591620\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-06T22:36:07+00:00"
+    },
+    {
       "title": "米特使、新たなウクライナ・ロシア協議に期待 両国訪問受け - Reuters",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdl9PMXlXTXRRRFhsR2pTS3B4T0ZReHZIZm54QnRySVJCbTF6Vk1ROVJvd1lDdk41ZE9CSnVLVFZ6N1pSS1BMWFdwbldRajUzcFJnWjh2M2RqaW9aMUJtd0NYVno0OWMwNG1CSGVkbXlnYW4wSEZNZElKaUhETGVOWg?oc=5",
       "summary": "米特使、新たなウクライナ・ロシア協議に期待 両国訪問受け&nbsp;&nbsp;Reuters",
@@ -160,6 +212,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-06T22:15:00+00:00"
+    },
+    {
+      "title": "独極右が得票率首位、東部州議会選 メルツ首相に大きな打撃 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcHdqNnd6TFVGcGpSLUJ4bWdOcTRFdDViX3BYZWl2Sm9fMUpoZmstdU91SXk4ekpiLXN4SF91ZW11UlZHRnd1eXhfOVFUMWlsOF9mT0JnWWxzSjd4a2FZcGxSSE0xaWI1OUp0TVhURmdhWHg3TzdCcUtJWUxUdXRmaGFB?oc=5",
+      "summary": "独極右が得票率首位、東部州議会選 メルツ首相に大きな打撃&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-06T22:14:09+00:00"
     },
     {
       "title": "ドイツ極右政党AfD（ドイツのための選択肢）､ザクセン･アンハルト州議会選挙で第1党に…CDUの得票率は大幅に減少 | 政治・経済・投資 | 東洋経済オンライン",
@@ -608,6 +668,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-06T17:18:52.936363+00:00"
+    },
+    {
+      "title": "Starting gun fired on autumn election campaign season",
+      "link": "https://www.ft.com/content/a69af29e-b2c1-48cf-a6f7-c1f68c141785?syn-25a6b1a6=1",
+      "summary": "Republicans gather in Dallas, 25th anniversary of 9/11, ECB interest rate decision",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-06T17:15:05+00:00"
     },
     {
       "title": "Any Nix package, live in the browser",
@@ -1946,6 +2014,14 @@
       "published": "2026-09-06T00:17:19+00:00"
     },
     {
+      "title": "CNTR.BK%5EL03 - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX0ZPanl4UU12ck1DMnM0Y3doa0R4UkE0ZzJoTE1tcFdRUjNTcUZwUHZCUzAxUzM3YWpfNFI0VV90RmFoUDdFX21ISWlOVGFSZzVSZzZIQ1ZmTE5sWTd2S1JTaHNzODhvNm9KSzJHUVFLelFEc0N1T2lEVjVVbHF2TU5TY0owZw?oc=5",
+      "summary": "CNTR.BK%5EL03 - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-06T00:17:19+00:00"
+    },
+    {
       "title": "COUN.BK%5EB94 - | Stock Price & Latest News - Reuters",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdjQzWWdpSzJRWnBWa3dVcUQ3NE95eV9kakpqbnBKeFFwRWZITDNnSVl6M1h0QlIxREZKc3Z0cm1Vdk5CeDE2Vy0tY1NyUExRT1NVYmN6aHJUakxRZm01QmVmZm1Xa3l6NXFKcHpFdUlMUzR0REJZS1BaYVNnWXpnS2tFTmNIdw?oc=5",
       "summary": "COUN.BK%5EB94 - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
@@ -2152,6 +2228,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-05T23:14:10+00:00"
+    },
+    {
+      "title": "ASTL.NS - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BbmdsUGdHODJzUjJVUUpISk9lbTMxOWNmNEI3NWhwX09scElremFJMkJ0bzlaR2FGZThMa2VEakdzbFFfVDUtT1kxQkYzajJGam1DOVI3clpuV2tEdFExUTl4cUhnUVMyRkdJbTNjQWo4N1NmSnJucnFB?oc=5",
+      "summary": "ASTL.NS&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-05T23:13:22+00:00"
     },
     {
       "title": "米軍がイラン石油タンカー3隻攻撃、米艦船攻撃に報復 応酬激化 - ロイター",
