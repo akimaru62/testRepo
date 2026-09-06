@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T20:33:09.128393+00:00",
+  "generated_at": "2026-09-06T20:47:36.383660+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -94,9 +94,53 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://azure.microsoft.com/updates/feed/",
+      "error": "403 Client Error: Forbidden for url: https://azure.microsoft.com/en-us/updates?id=feed"
     }
   ],
   "items": [
+    {
+      "title": "｢暑いから出歩かない｣｢魚もご無沙汰｣がじわじわ響く…骨粗しょう症･フレイルの裏に\"日本人の98％が欠乏している意外なもの\" | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/956754?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "日本人の98%が慢性的に不足している栄養素をご存じですか？都市化や猛暑､食生活の変化が影響するその背景と､健康リスクを回避するための対策を専門家の見解とともに探ります。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-06T20:45:00+00:00"
+    },
+    {
+      "title": "Far-right AfD surges to first place in German state elections",
+      "link": "https://www.ft.com/content/a0229455-1822-4de8-ad2f-7453577d95cd?syn-25a6b1a6=1",
+      "summary": "Alternative for Germany is projected to become the largest party in Saxony-Anhalt but fall short of a parliamentary majority",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-06T20:43:48+00:00"
+    },
+    {
+      "title": "〈業績V字回復〉上場廃止から2年､JSR社長が明かす｢業界再編への本音｣と｢最先端レジストへの自信｣ | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/956788?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "政府系ファンドによる約9000億円での買収後､生成AI需要に伴い急回復を遂げたJSR。LBOローン問題やポートフォリオ再編など複数の課題を抱える中､再上場に向けた戦略や最先端プロセスに対応したレジス…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-06T20:40:00+00:00"
+    },
+    {
+      "title": "会社四季報オンラインの人気連載｢厳選注目株｣で活躍中の3達人が伝授！銘柄選定の極意 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/956741?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "銘柄選びのプロたちはいったいどうやって銘柄を選定しているのか。｢会社四季報オンライン｣の人気連載で活躍する3達人が極意を伝授します｡キーワードは｢3つのS｣｢文系視点でのニュースの深掘り｣｢社名変更…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-06T20:30:00+00:00"
+    },
+    {
+      "title": "They're Made Out of Meat",
+      "link": "https://www.eastoftheweb.com/short-stories/UBooks/TheyMade.shtml",
+      "summary": "Article URL: https://www.eastoftheweb.com/short-stories/UBooks/TheyMade.shtml\nComments URL: https://news.ycombinator.com/item?id=49590362\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-06T20:07:55+00:00"
+    },
     {
       "title": "Europe failing to deter Russia’s ‘hybrid’ war, warn defence officials",
       "link": "https://www.ft.com/content/83e08169-69b5-4997-9bf0-e0622e752eda?syn-25a6b1a6=1",
@@ -110,6 +154,14 @@
       "link": "https://toyokeizai.net/articles/-/957077?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "新卒採用の｢売り手市場｣が続く中､2027年卒の学生たちはどんな企業を選んだのでしょうか。就職活動の早期化が進み､企業選びに求める価値観も多様化しています。注目のランキングから見える､学生たちのリア…",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-06T20:00:00+00:00"
+    },
+    {
+      "title": "「若者の街」はどこへ　西武と東急「渋谷100年戦争」、西武渋谷とハンズ閉店の影響はどう出るのか",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/07/news044.html",
+      "summary": "若者の街として知られる渋谷だが、近年は大人の街へと姿を変えつつある。この100年にわたり、街づくりを進めてきた西武と東急のシンボル的な店も閉店を控える。今後、渋谷はどうなっていくのか。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-09-06T20:00:00+00:00"
     },
@@ -208,6 +260,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-06T17:00:28+00:00"
+    },
+    {
+      "title": "CMZOF.PK - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByaGJGWGNwRVdJLVpfcXFEUjJTcVJrTkVTYUVnV1BXVWVIeFQwMTZWVFRybldsY1pFb1pLZ1lncXZyZ004dlg0N3V0TERSRUxoTUhKbU1lNDc1RHlOTWhySlZ2bF9ablZ1UThWQmJQekN4UHBWR2tNTkhiTQ?oc=5",
+      "summary": "CMZOF.PK&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-06T16:39:28+00:00"
     },
     {
       "title": "OpenAI: We monitor internal coding agents for misalignment",
@@ -1800,6 +1860,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-05T22:43:44+00:00"
+    },
+    {
+      "title": "K9J.F - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSDV0UWprekNObGxSc2R3cTZTOXpwWjBaUkRyMnMwQ1l6N0lnQjFmMUt6SUlQX3Nud2RXd1l2ZXhSNDVHTnFVVUdKaXg3SWtjTDVjWUpFZFFrRzNXV3lBaWozX2dxQ1BzRnN4dVcxV1ktUDRLWlNTdVZ0cEtyMExDSDJpNjg?oc=5",
+      "summary": "K9J.F - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-05T22:42:30+00:00"
     },
     {
       "title": "｢アンチエイジング｣で私らは何に抗いたいんや…？ 肌が若返っても動脈硬化が進行したら困るという｢抗老化｣の迷宮 | ライフ | 東洋経済オンライン",
