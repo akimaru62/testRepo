@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T18:08:21.769457+00:00",
+  "generated_at": "2026-09-06T18:25:14.210337+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -97,6 +97,30 @@
     }
   ],
   "items": [
+    {
+      "title": "独公共放送によると、ザクセン・アンハルト州議選で極右政党「ドイツのための選択肢（ＡｆＤ）」の第１党が確実な情勢",
+      "link": "https://www.jiji.com/jc/article?k=2026090700026&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-06T18:25:08.106149+00:00"
+    },
+    {
+      "title": "Far-right AfD surges in German state elections, partial results show",
+      "link": "https://www.ft.com/content/a0229455-1822-4de8-ad2f-7453577d95cd?syn-25a6b1a6=1",
+      "summary": "Alternative for Germany is projected to become the largest party in Saxony-Anhalt while falling short of a parliamentary majority",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-06T18:10:48+00:00"
+    },
+    {
+      "title": "Following legal advice, the Nitter project will continue",
+      "link": "https://github.com/zedeus/nitter",
+      "summary": "Article URL: https://github.com/zedeus/nitter\nComments URL: https://news.ycombinator.com/item?id=49589003\nPoints: 41\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-06T17:51:23+00:00"
+    },
     {
       "title": "極右ＡｆＤ、第１党確実　旧東独州議選―報道",
       "link": "https://www.jiji.com/jc/article?k=2026090700030&g=int&m=rss",
