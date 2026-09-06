@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T11:47:35.679339+00:00",
+  "generated_at": "2026-09-06T12:10:26.110629+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -86,9 +86,21 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f9241cd0c20>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "大雨予想で一部運休を発表 JR東",
+      "link": "https://news.yahoo.co.jp/pickup/6594460?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-06T11:49:55+00:00"
+    },
     {
       "title": "政権維持、内閣改造カギ　「ギア上げねば失速」―牧原出東大教授に聞く",
       "link": "https://www.jiji.com/jc/article?k=2026090600066&g=pol&m=rss",
@@ -1576,6 +1588,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-05T15:20:43.344762+00:00"
+    },
+    {
+      "title": "9627.JAX - | Stock Price & Latest News | Reuters - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qeG9lekE2M0hhamVsa0M2NU9TamJYejVqclFDTTdQVlFVZ0hvX1VqNUdmbWFmb1hrMHpDbkNLUVR6WUhxbllpMU5ZWnIyMGZKMkVrWUZPaVBaYzdhV1U4?oc=5",
+      "summary": "9627.JAX - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-05T15:15:23+00:00"
     },
     {
       "title": "5011.JAX - | Stock Price & Latest News | Reuters - ロイター",
