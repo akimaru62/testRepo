@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T17:05:52.848424+00:00",
+  "generated_at": "2026-09-06T17:18:58.427430+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -98,12 +98,36 @@
   ],
   "items": [
     {
+      "title": "極右ＡｆＤ、第１党確実　旧東独州議選―報道",
+      "link": "https://www.jiji.com/jc/article?k=2026090700030&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-06T17:18:52.936363+00:00"
+    },
+    {
+      "title": "Any Nix package, live in the browser",
+      "link": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser",
+      "summary": "Article URL: https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser\nComments URL: https://news.ycombinator.com/item?id=49588475\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-06T17:00:56+00:00"
+    },
+    {
       "title": "Opalite Health (YC W26) Is Hiring – Founding GTM",
       "link": "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm",
       "summary": "Article URL: https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm\nComments URL: https://news.ycombinator.com/item?id=49588466\nPoints: 0\n# Comments: 0",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-06T17:00:28+00:00"
+    },
+    {
+      "title": "OpenAI: We monitor internal coding agents for misalignment",
+      "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
+      "summary": "Article URL: https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/\nComments URL: https://news.ycombinator.com/item?id=49588214\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-06T16:37:55+00:00"
     },
     {
       "title": "An Alien Mind",
@@ -200,6 +224,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-06T15:00:19+00:00"
+    },
+    {
+      "title": "Recreating Minecraft Is Not a Benchmark",
+      "link": "https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark",
+      "summary": "Article URL: https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark\nComments URL: https://news.ycombinator.com/item?id=49587040\nPoints: 11\n# Comments: 8",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-06T14:52:07+00:00"
     },
     {
       "title": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
@@ -1954,9 +1986,25 @@
       "published": "2026-09-05T19:15:50+00:00"
     },
     {
+      "title": "JMT1.MU - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeEVvemdoa3hMRUFGQzUtSzlJeFZPQTdCN2o3UTJFdDJOSjNvUU5zNTBYdUh5Q2lUUGpsLUxFOG9zTjN5NTMtbE9XWWt0a19RaXgyYnJHLVphY0hCa3p3M2Q3Z2FhQkY1OE9HOHV5MHVrUlRaRDdxRUNvaVJCRmV6c093?oc=5",
+      "summary": "JMT1.MU&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-05T18:48:42+00:00"
+    },
+    {
       "title": "8084.JAX - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42Ry1FTFQ3MFVWSm44QjE4MkNFeEM5X3pwSHlPb3NUdllUTVdRQWFuVlFFdnBIbUtjQkNxdVRpSUlEQVVQR3JTT2xSeUNsQU9zT0V2NkpXVFZIZmlXTTRV?oc=5",
       "summary": "8084.JAX - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-05T18:46:56+00:00"
+    },
+    {
+      "title": "8084.JAX - | Stock Price & Latest News | Reuters - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42Ry1FTFQ3MFVWSm44QjE4MkNFeEM5X3pwSHlPb3NUdllUTVdRQWFuVlFFdnBIbUtjQkNxdVRpSUlEQVVQR3JTT2xSeUNsQU9zT0V2NkpXVFZIZmlXTTRV?oc=5",
+      "summary": "8084.JAX - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-05T18:46:56+00:00"
@@ -5053,6 +5101,14 @@
       "title": "ウクライナ情報機関本部にロシア軍ドローン攻撃、ゼレンスキー氏報復表明 - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUWZfa1dRUjRWeWduVm9DTTNFNnk1U3YtaGdEQUYxY1dsdmdTWVhLdFhEd0dwZGJIMEJCclBqdDBnT3VHVU1zSjBBU3RsVjk4b1A4MGpNXzdjRk1tLVU1ekdQclEyNzVCUTN2ZmlLSTZmdTFXVHNBY2g0ZFlWeHNSMQ?oc=5",
       "summary": "ウクライナ情報機関本部にロシア軍ドローン攻撃、ゼレンスキー氏報復表明&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-04T17:19:02+00:00"
+    },
+    {
+      "title": "ウクライナ情報機関本部にロシア軍ドローン攻撃、ゼレンスキー氏報復表明 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUWZfa1dRUjRWeWduVm9DTTNFNnk1U3YtaGdEQUYxY1dsdmdTWVhLdFhEd0dwZGJIMEJCclBqdDBnT3VHVU1zSjBBU3RsVjk4b1A4MGpNXzdjRk1tLVU1ekdQclEyNzVCUTN2ZmlLSTZmdTFXVHNBY2g0ZFlWeHNSMQ?oc=5",
+      "summary": "ウクライナ情報機関本部にロシア軍ドローン攻撃、ゼレンスキー氏報復表明&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-04T17:19:02+00:00"
