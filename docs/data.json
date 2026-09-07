@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T08:38:01.481663+00:00",
+  "generated_at": "2026-09-07T08:53:15.728511+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -110,6 +110,38 @@
   ],
   "items": [
     {
+      "title": "対ドル円相場、半年ぶり一時154円台　為替介入時の円高ライン超え",
+      "link": "https://www.asahi.com/articles/ASV972T9QV97ULFA01LM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-07T08:53:07.284848+00:00"
+    },
+    {
+      "title": "European Chip Stocks Rise, Buoyed By Asian Peers",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-8-led-by-chip-related-stocks-37f5728d?mod=rss_markets_main",
+      "summary": "Shares of European semiconductor companies were in green territory following strong gains in Asia as investors continued to bet on stocks with exposure to artificial intelligence.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-07T08:50:00+00:00"
+    },
+    {
+      "title": "Oil Higher on Hormuz Escalation Amid Quiet Markets Due to Labor Day",
+      "link": "https://www.wsj.com/finance/stocks/oil-higher-on-hormuz-escalation-amid-quiet-markets-due-to-labor-day-6b5cc530?mod=rss_markets_main",
+      "summary": "U.S. stock futures were mixed and Treasurys didn’t trade, as U.S. investors break for Labor Day.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-07T08:38:00+00:00"
+    },
+    {
+      "title": "ドル、154円前半に急落＝外為市場 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15b1JjX3lLUkpzdEprTC1sMjBvcXFPMlltRFpYNlJEVTAzcG0wLU01LTZXUE1yYlllMWhKRlR0bzY0d0V5alhLRzVDT2lFSmtMZ292Wks4OElkZHI3WVlMTVlFNklET0RuVGotek5fRmlsSHpZVjZNUA?oc=5",
+      "summary": "ドル、154円前半に急落＝外為市場&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-07T08:27:21+00:00"
+    },
+    {
       "title": "European Gas Climbs on LNG Supply Concerns Ahead of Winter",
       "link": "https://www.wsj.com/finance/commodities-futures/european-gas-climbs-on-lng-supply-concerns-ahead-of-winter-95ffd976?mod=rss_markets_main",
       "summary": "European natural-gas prices climbed more than 2%, trading just shy of 74 euros a megawatt-hour as supply flows from Qatar remained severely disrupted.",
@@ -172,6 +204,14 @@
       "source": "CNBC",
       "category": "海外金融",
       "published": "2026-09-07T08:08:54+00:00"
+    },
+    {
+      "title": "Programming is Art",
+      "link": "https://orchidfiles.com/programming-is-art/",
+      "summary": "Article URL: https://orchidfiles.com/programming-is-art/\nComments URL: https://news.ycombinator.com/item?id=49595360\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-07T08:05:00+00:00"
     },
     {
       "title": "It's time for Mark Zuckerberg to resign from Meta",
