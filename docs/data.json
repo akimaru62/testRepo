@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T14:08:28.991655+00:00",
+  "generated_at": "2026-09-07T14:26:14.289206+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -122,6 +122,22 @@
       "published": "2026-09-07T18:30:00+00:00"
     },
     {
+      "title": "AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/",
+      "summary": "Last week, Claude Fable 5.1 became available on AWS. According to Anthropic, Claude Fable 5.1 delivers frontier intelligence for ambitious tasks across coding, scientific research, and enterprise workflows. Claude Fable 5.1 is built for long-running, high-stakes work that runs for hours and spans many applications. It can own more of a software project on its […]",
+      "source": "AWS ブログ (AWS)",
+      "category": "テクノロジー",
+      "published": "2026-09-07T14:24:08+00:00"
+    },
+    {
+      "title": "Gold Under Pressure With This Week’s Inflation Data in Focus",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-on-rising-fed-rate-hike-expectations-6e77bf70?mod=rss_markets_main",
+      "summary": "Gold prices remained under pressure and futures fell as investors wait  on the U.S. PPI report on Thursday and CPI data on Friday.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-07T14:21:00+00:00"
+    },
+    {
       "title": "Stock Funds Are Up 12.6% for Year So Far",
       "link": "https://www.wsj.com/finance/investing/stock-funds-gains-august-925de91d?mod=rss_markets_main",
       "summary": "Despite pressures galore, August was another positive month. Plus: A Financial Flashback to 25 years ago, when markets shut down after 9/11.",
@@ -136,6 +152,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-07T14:00:00+00:00"
+    },
+    {
+      "title": "bzip3",
+      "link": "https://github.com/iczelia/bzip3",
+      "summary": "Article URL: https://github.com/iczelia/bzip3\nComments URL: https://news.ycombinator.com/item?id=49598291\nPoints: 23\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-07T13:35:13+00:00"
     },
     {
       "title": "独ＶＷ工場、防衛産業に転換　イスラエル投資会社に売却へ",
@@ -488,6 +512,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-07T10:17:59+00:00"
+    },
+    {
+      "title": "Breakingviews - COMMENTARY: コラム：ＡＩエージェントの暴走、問われる平凡かつ精密な「人の関与」 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONFgtMHJuWURRaXNtUnhRajc5WFk1VkN3SG1tZ290b2RmVjMxYTlxNVBDd0J6dUlIMVBzd2g1RXB3d1laTGZrMVR4ektqX1VueGtlQXF4Y1A5QnJ2RTYxSktsQXBlWmFmanFORXItWWY3Z1k2VTJxckFQdkZweEczbWR5eHpsckN5akFR?oc=5",
+      "summary": "Breakingviews - COMMENTARY: コラム：ＡＩエージェントの暴走、問われる平凡かつ精密な「人の関与」&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-07T10:08:09+00:00"
     },
     {
       "title": "Republicans fear Trump has turned toxic on the campaign trail",
@@ -1656,6 +1688,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-07T01:57:53.101341+00:00"
+    },
+    {
+      "title": "独ワッカー、米テネシー州のポリシリコン工場を閉鎖か トランプ政策で - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVTllczZSRkFEQnVhcVJvZFYyNWU2eGVPVXY0LWFub2hmYWdWQkhVdHVjSHp3Y1ZSZU1jdGRQNk1zV2NHT0kyaEtPTXRmN2RNdHh1TUVxNjVVOFhiLV8zM2FRdXhrNDlsUzhlVnBydXMwMFJQaUxyMnVoTHF0cHVUbA?oc=5",
+      "summary": "独ワッカー、米テネシー州のポリシリコン工場を閉鎖か トランプ政策で&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-07T01:55:00+00:00"
     },
     {
       "title": "大雨で道路影響 無理な移動避けて",
