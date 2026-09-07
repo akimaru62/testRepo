@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T08:53:15.728511+00:00",
+  "generated_at": "2026-09-07T09:11:26.522837+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -106,9 +106,45 @@
     {
       "url": "https://www.mof.go.jp/news.rss",
       "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "日米韓共同訓練開始　「自由を確保する」―在日米軍司令官",
+      "link": "https://www.jiji.com/jc/article?k=2026090700739&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-07T09:11:14.323935+00:00"
+    },
+    {
+      "title": "面接不採用者をトクリュウに紹介　建設会社代表を再逮捕―広島県警",
+      "link": "https://www.jiji.com/jc/article?k=2026090700738&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-07T09:11:14.323898+00:00"
+    },
+    {
+      "title": "Travis Kelce bought a $5.35 million estate on Lake Erie months before marrying Taylor Swift",
+      "link": "https://www.marketwatch.com/story/travis-kelce-bought-a-5-35-million-estate-on-lake-erie-months-before-marrying-taylor-swift-4ce6761f?mod=mw_rss_topstories",
+      "summary": "Travis Kelce forked over $5.35 million for a sprawling lakefront Ohio estate just months before he and Taylor Swift said “I do” at New York City’s iconic Madison Square Garden.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-07T09:03:00+00:00"
+    },
+    {
+      "title": "｢スマホを見ながら勉強できる｣は大間違い…東大教授が警告｢気づかないうちに学力が落ちる｣\"ながら勉強\"の怖い実態 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/955493?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢スマホを見ながらでも勉強できている｣と思っていませんか？　実は､ながら勉強は知らぬ間に理解力や記憶力を低下させているのです。東大教授が最新研究や実験データに基づき､集中力を守る学習環境づくりやスマ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-07T09:00:00+00:00"
+    },
     {
       "title": "対ドル円相場、半年ぶり一時154円台　為替介入時の円高ライン超え",
       "link": "https://www.asahi.com/articles/ASV972T9QV97ULFA01LM.html?ref=rss",
@@ -116,6 +152,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-07T08:53:07.284848+00:00"
+    },
+    {
+      "title": "Oil prices hit near seven-week highs, before edging lower, as Iran plans to increase control of Hormuz",
+      "link": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
+      "summary": "The West Texas Intermediate and Brent crude contracts for October and November delivery, respectively, are steady after rising earlier in the session.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-07T08:52:00+00:00"
     },
     {
       "title": "European Chip Stocks Rise, Buoyed By Asian Peers",
@@ -132,6 +176,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-07T08:38:00+00:00"
+    },
+    {
+      "title": "Iran to raise petrol prices as US war triggers shortages",
+      "link": "https://www.ft.com/content/15d59180-ea46-4441-9c45-d6be584ae911?syn-25a6b1a6=1",
+      "summary": "Fuel is among the cheapest in the world but authorities warn that subsidies have become unsustainable",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-07T08:34:56+00:00"
     },
     {
       "title": "ドル、154円前半に急落＝外為市場 - Reuters",
@@ -308,6 +360,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-07T07:17:00+00:00"
+    },
+    {
+      "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+      "link": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
+      "summary": "Article URL: https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html\nComments URL: https://news.ycombinator.com/item?id=49594878\nPoints: 16\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-07T07:03:20+00:00"
     },
     {
       "title": "生成AIの普及だけじゃない　「デザイン業の倒産」が前年同期比166％増になった意外な理由",
