@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T16:25:41.815442+00:00",
+  "generated_at": "2026-09-07T16:36:14.034022+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -114,6 +114,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fa9d5978d70>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws/feed/",
+      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     }
   ],
   "items": [
@@ -140,6 +144,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-07T16:00:00+00:00"
+    },
+    {
+      "title": "Oil closes in on $100 as renewed supply crunch looms",
+      "link": "https://www.ft.com/content/c8167dc7-f472-4846-8005-ee18b23736a8?syn-25a6b1a6=1",
+      "summary": "Traders warn that ‘something has to break’ amid attacks on shipping and eroding inventories",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-07T15:51:37+00:00"
     },
     {
       "title": "Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set",
@@ -268,6 +280,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-07T13:00:48+00:00"
+    },
+    {
+      "title": "‘Chimerica’ is now a chimera — and global stability is the victim",
+      "link": "https://www.ft.com/content/8c5c7c44-c9fd-4326-b09a-9f58e3f144b9",
+      "summary": "For a host of reasons, China shock 2.0 looks nothing like its predecessor in the 2000s",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-07T13:00:01+00:00"
     },
     {
       "title": "Splash-free urinals for global sustainability and accessibility",
@@ -1172,6 +1192,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-07T06:11:00+00:00"
+    },
+    {
+      "title": "中国国有保険会社への資本注入、株式投資を後押しか＝アナリスト - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX0FDZldNRHUwaGt1bnJYWG93YTBPU3dTYmkyLW5GdHRJOUdST3ZmakhGUlFKV05LMlhMb2cycnFkRWRqeDRhcVJFTTB1bkJkRl9LOWVsQV9xV1RzdFdBNklsZlRxSXVaZ2Vmb2pvQXF6Q3oyZkpOWnFXLVhvZEVpYg?oc=5",
+      "summary": "中国国有保険会社への資本注入、株式投資を後押しか＝アナリスト&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-07T06:02:00+00:00"
     },
     {
       "title": "コール市場残高（8月）",
