@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T15:47:39.400062+00:00",
+  "generated_at": "2026-09-07T16:08:19.088258+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -110,6 +110,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fa9d5978d70>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -120,6 +124,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-07T18:30:00+00:00"
+    },
+    {
+      "title": "Chip stock investors beware — these charts could warn of further weakness ahead",
+      "link": "https://www.marketwatch.com/story/chip-stock-investors-beware-these-charts-could-warn-of-further-weakness-ahead-1bd890cc?mod=mw_rss_topstories",
+      "summary": "U.S. stock investors have reason to pay attention to the currency market for signs of how money may be flowing in and out of chip stocks.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-07T16:00:00+00:00"
+    },
+    {
+      "title": "What next for Alternative for Germany after its victory in Saxony-Anhalt?",
+      "link": "https://www.ft.com/content/4275e189-997c-43f0-b702-d3447c9e81ec?syn-25a6b1a6=1",
+      "summary": "Far-right party is short of three seats in the state’s parliament to lead a regional government — and make postwar history",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-07T15:35:51+00:00"
     },
     {
       "title": "Oil Extends Gains on Middle East Attacks; U.S. Gas Prices at Record High for Labor Day",
@@ -144,6 +164,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-07T14:50:00+00:00"
+    },
+    {
+      "title": "北朝鮮とロシア、初の道路橋を開通 友好深化を演出 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQTVzSkU5M0xGMU03VlJnVWRVUlpwNG45VGRvRTZhLUpKY2dmUW9JOUJ3dGFSbWtOSmlWOFBfQjJUZUtId2gySnFndHl3VTY3VktDVGpqakU4ZHBmczhneWZuRnJPTkZyZmRDaUg1cWlmVnJGWVZYSTdIMWs1R3dhamlB?oc=5",
+      "summary": "北朝鮮とロシア、初の道路橋を開通 友好深化を演出&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-07T14:28:14+00:00"
     },
     {
       "title": "AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more (September 7, 2026)",
@@ -685,6 +713,14 @@
       "title": "Hermès Has Big Watchmaking Ambitions. The Cult of the Birkin Is Getting in the Way.",
       "link": "https://www.wsj.com/business/hermes-has-big-watchmaking-ambitions-the-cult-of-the-birkin-is-getting-in-the-way-88ad17f9?mod=rss_markets_main",
       "summary": "Many people only buy the brand’s watches to boost their chances of getting a handbag.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-07T09:30:00+00:00"
+    },
+    {
+      "title": "Young People Are Obsessed With This Simple Retirement-Savings Formula",
+      "link": "https://www.wsj.com/personal-finance/retirement/young-people-are-obsessed-with-this-simple-retirement-savings-formula-d54f80b6?mod=rss_markets_main",
+      "summary": "Calculating when you can coast on what you have already saved comes with its own pitfalls.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-07T09:30:00+00:00"
