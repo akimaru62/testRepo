@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T11:47:42.753092+00:00",
+  "generated_at": "2026-09-07T12:12:01.043073+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -122,6 +122,70 @@
       "published": "2026-09-07T18:30:00+00:00"
     },
     {
+      "title": "「なにもかも不満」「変化の時」　極右に期待、既存政党に反対―独州議選",
+      "link": "https://www.jiji.com/jc/article?k=2026090700916&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-07T12:11:55.680725+00:00"
+    },
+    {
+      "title": "秘書給与疑惑で調査委　いのち総会「解党的出直し」",
+      "link": "https://www.jiji.com/jc/article?k=2026090700959&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-07T12:11:55.680716+00:00"
+    },
+    {
+      "title": "小林鷹之氏、引き続き要職に　内閣改造、梶山弘志氏の入閣浮上―高市政権",
+      "link": "https://www.jiji.com/jc/article?k=2026090700912&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-07T12:11:55.680697+00:00"
+    },
+    {
+      "title": "韓国軍派遣なら「深刻な結果」　イラン、米支援巡りけん制―ホルムズ海峡に制限区域も",
+      "link": "https://www.jiji.com/jc/article?k=2026090700955&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-07T12:11:55.680672+00:00"
+    },
+    {
+      "title": "日立、ノキア製ドローン販売　自動飛行でインフラ点検",
+      "link": "https://www.asahi.com/articles/ASV9731JTV97ULFA015M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-07T12:11:55.299497+00:00"
+    },
+    {
+      "title": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
+      "link": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
+      "summary": "The West Texas Intermediate and Brent crude contracts previously rose to near-seven-week highs.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-07T11:54:00+00:00"
+    },
+    {
+      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+      "link": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+      "summary": "Article URL: https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532\nComments URL: https://news.ycombinator.com/item?id=49597189\nPoints: 17\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-07T11:46:37+00:00"
+    },
+    {
+      "title": "Yen surges to 6-month high as traders stay alert for signs of intervention",
+      "link": "https://www.ft.com/content/d86643d2-c98c-4e19-b066-c97b50819b7e?syn-25a6b1a6=1",
+      "summary": "Japanese currency touches ¥154.04 per dollar, including steep a rise in London morning",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-07T11:45:02+00:00"
+    },
+    {
       "title": "Why the launch of OpenAI’s latest Astra model reignited the memory chip trade",
       "link": "https://www.marketwatch.com/story/why-the-launch-of-openais-latest-astra-model-reignited-the-memory-chip-trade-809e2edb?mod=mw_rss_topstories",
       "summary": "Since troughing on July 29, the semiconductor sector has been recovering steadily with the OpenAI ChatGPT-6 Astra release bolstering sentiment further",
@@ -218,12 +282,28 @@
       "published": "2026-09-07T10:52:14+00:00"
     },
     {
+      "title": "Saudi Aramco oil facilities hit in new strikes",
+      "link": "https://www.ft.com/content/9ffb0fb3-51f6-4aa8-9270-a949196bf441?syn-25a6b1a6=1",
+      "summary": "Jizan, near the Yemeni border, has been repeatedly targeted by Houthi rebels in their campaign against Saudi Arabia",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-07T10:52:14+00:00"
+    },
+    {
       "title": "円上昇、一時１５４円近辺　約半年ぶり高値―ロンドン市場",
       "link": "https://www.jiji.com/jc/article?k=2026090700775&g=int&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-07T10:47:55.721006+00:00"
+    },
+    {
+      "title": "Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame",
+      "link": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/",
+      "summary": "Article URL: https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/\nComments URL: https://news.ycombinator.com/item?id=49596629\nPoints: 19\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-07T10:41:29+00:00"
     },
     {
       "title": "Just like for SpaceX, investors may look to ‘make room’ for AI lab IPOs. These stocks could pay the price.",
@@ -341,6 +421,14 @@
       "title": "Impedance Matching",
       "link": "https://www.edge.org/response-detail/27238",
       "summary": "Article URL: https://www.edge.org/response-detail/27238\nComments URL: https://news.ycombinator.com/item?id=49596274\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-07T09:52:26+00:00"
+    },
+    {
+      "title": "Impedance Matching (2017)",
+      "link": "https://www.edge.org/response-detail/27238",
+      "summary": "Article URL: https://www.edge.org/response-detail/27238\nComments URL: https://news.ycombinator.com/item?id=49596274\nPoints: 23\n# Comments: 6",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-07T09:52:26+00:00"
