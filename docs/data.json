@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T05:47:36.191590+00:00",
+  "generated_at": "2026-09-07T06:16:54.574747+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -110,12 +110,52 @@
   ],
   "items": [
     {
+      "title": "首相不信任案取り下げ　ワレ政権、対米協力を強化―ソロモン諸島",
+      "link": "https://www.jiji.com/jc/article?k=2026090700510&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-07T06:16:50.040134+00:00"
+    },
+    {
+      "title": "Difficult Exit From U.S.-Iran War Prompts Caution in Long-End Bonds",
+      "link": "https://www.wsj.com/finance/jgbs-edge-lower-amid-rising-oil-prices-b7e71276?mod=rss_markets_main",
+      "summary": "Jefferies has stayed away from long-end bonds since July,  as it did not see an easy way out of the U.S.-Iran war.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-07T06:11:00+00:00"
+    },
+    {
+      "title": "コール市場残高（8月）",
+      "link": "http://www.boj.or.jp/statistics/market/short/call/call.xlsx",
+      "summary": "",
+      "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-09-07T06:00:00+00:00"
+    },
+    {
+      "title": "米撤退10年 スシロー再進出の商機",
+      "link": "https://news.yahoo.co.jp/pickup/6594514?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-07T05:57:40+00:00"
+    },
+    {
       "title": "新米出回り コメさらに値下がりか",
       "link": "https://news.yahoo.co.jp/pickup/6594538?source=rss",
       "summary": "",
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-09-07T05:41:58+00:00"
+    },
+    {
+      "title": "アングル：ＥＣＢ「予防的」追加利上げへ、米イラン紛争長期化で - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WcjgtSU9ZOHB5X2FqVVdUa082ak1lRm9SQ1dnNmFPM1JFcEotaXhzTnhBZ05JVHBDYUtWY2NPTEFNeTU5YzZjdWlkS3NhSVR0cGxva0VPb3hhOFpUZTJNbk1qblhhOTd0UDlKMVotcGxReHQyMTFULQ?oc=5",
+      "summary": "アングル：ＥＣＢ「予防的」追加利上げへ、米イラン紛争長期化で&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-07T05:41:00+00:00"
     },
     {
       "title": "くら寿司がコラボ急きょ中止 背景",
@@ -158,6 +198,22 @@
       "published": "2026-09-07T05:00:00+00:00"
     },
     {
+      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+      "link": "https://github.com/timgordontg/engrim",
+      "summary": "Article URL: https://github.com/timgordontg/engrim\nComments URL: https://news.ycombinator.com/item?id=49594008\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-07T04:49:36+00:00"
+    },
+    {
+      "title": "I refused to train the AI that could replace me",
+      "link": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
+      "summary": "Article URL: https://restofworld.org/2026/ai-training-jobs-expert-replacement/\nComments URL: https://news.ycombinator.com/item?id=49593959\nPoints: 17\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-07T04:38:22+00:00"
+    },
+    {
       "title": "米ガソリン価格、レーバーデー連休時期として過去最高更新へ - Reuters",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KVldBXzRCX1FQTjF1VlkxTGRpVldOeHkydlJJTW5kZkpXaHNFZEk2WVVnMmRzQlZlNXdqWWVpUU5PbFZPVE56bkZwdHRvMkw4c1FxLURBb1dfX3dEc2xacGlTeFhjTF9Bd09FT3diVXk5dE5qMURiRg?oc=5",
       "summary": "米ガソリン価格、レーバーデー連休時期として過去最高更新へ&nbsp;&nbsp;Reuters",
@@ -180,6 +236,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-07T04:21:12+00:00"
+    },
+    {
+      "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+      "link": "https://github.com/trailofbits/coop",
+      "summary": "Article URL: https://github.com/trailofbits/coop\nComments URL: https://news.ycombinator.com/item?id=49593842\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-07T04:18:28+00:00"
     },
     {
       "title": "Sweden’s fightback against the gangs",
@@ -297,6 +361,14 @@
       "title": "Keep Our Servers Running: Your Recurring Donation Goes 3X This September",
       "link": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
       "summary": "Article URL: https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/\nComments URL: https://news.ycombinator.com/item?id=49593563\nPoints: 10\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-07T03:29:51+00:00"
+    },
+    {
+      "title": "Keep Our Servers Running",
+      "link": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+      "summary": "Article URL: https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/\nComments URL: https://news.ycombinator.com/item?id=49593563\nPoints: 177\n# Comments: 40",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-07T03:29:51+00:00"
@@ -1196,6 +1268,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-06T22:24:22+00:00"
+    },
+    {
+      "title": "中国、国有銀行・保険に540億ドル資本注入 金融システム強化 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YbzIzbTkwNjlfaGMyZk5VTU9jMVBTSFpZMXlxNUptRXNhc1JHbGxfN2JNeE43TGlwNHgzX3NGX0dWVGFPalBpRGdPVHpPNnliMl8zXzhLanExQTU5am41N2RwS3JGWkRMQXBGeWoyY2k4a0dvdFplZnAycXY5dw?oc=5",
+      "summary": "中国、国有銀行・保険に540億ドル資本注入 金融システム強化&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-06T22:18:09+00:00"
     },
     {
       "title": "｢われわれには新たなアイデアがある｣…米特使が開戦後初めて首都キーウ入り…ロシアとの戦争終結に向けて協議 | 政治・経済・投資 | 東洋経済オンライン",
