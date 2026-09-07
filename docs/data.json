@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T19:06:26.547374+00:00",
+  "generated_at": "2026-09-07T19:20:14.496322+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -118,6 +118,10 @@
     {
       "url": "https://aws.amazon.com/blogs/aws/feed/",
       "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -192,6 +196,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-07T16:58:35+00:00"
+    },
+    {
+      "title": "Show HN: Wg-admin – web UI for an existing WireGuard host",
+      "link": "https://github.com/logimaxx/wg-admin",
+      "summary": "Reads /etc/wireguard, lets you add/edit/remove peers, applies with wg syncconf (no interface bounce). Does not install WireGuard or rewrite your PostUp/NAT. That's all\n\nComments URL: https://news.ycombinator.com/item?id=49600269\nPoints: 5\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-07T16:43:37+00:00"
     },
     {
       "title": "LME Copper Prices Hit Record on Supply Issues, U.S. Tariff Concerns",
