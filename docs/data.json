@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T11:34:23.697147+00:00",
+  "generated_at": "2026-09-07T11:47:42.753092+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -122,6 +122,14 @@
       "published": "2026-09-07T18:30:00+00:00"
     },
     {
+      "title": "Why the launch of OpenAI’s latest Astra model reignited the memory chip trade",
+      "link": "https://www.marketwatch.com/story/why-the-launch-of-openais-latest-astra-model-reignited-the-memory-chip-trade-809e2edb?mod=mw_rss_topstories",
+      "summary": "Since troughing on July 29, the semiconductor sector has been recovering steadily with the OpenAI ChatGPT-6 Astra release bolstering sentiment further",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-07T11:36:00+00:00"
+    },
+    {
       "title": "ネパール全土で服喪　土石流犠牲者悼み、死者計１３９０人超",
       "link": "https://www.jiji.com/jc/article?k=2026090700885&g=int&m=rss",
       "summary": "",
@@ -136,6 +144,22 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-07T11:23:52.104011+00:00"
+    },
+    {
+      "title": "Apparently CodePen 2.0 sends data to their servers as you type",
+      "link": "https://news.ycombinator.com/item?id=49596976",
+      "summary": "They send all typed into editor input to codepen.dev almost immediately (you would see in 1-2 sec after you typed your secret that it appears in respective Network/Response tab) even before one saved it. I tested this with a unique marker: after typing it into index.html, CodePen ran a build with \"save:false\", and the marker then appeared verbatim in the HTML served from the generated \"*.codepen.dev preview\". Thus, if you ever entered some secrets in there by mistake consider them compromized even if you did not publish/save the pen\n\nComments URL: https://news.ycombinator.com/item?id=49596976\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-07T11:22:40+00:00"
+    },
+    {
+      "title": "US refuses payout for soldiers who died in Iran 'because it isn't a war'",
+      "link": "https://www.telegraph.co.uk/world-news/2026/09/06/pentagon-refused-payout-soldiers-died-in-iran-war/",
+      "summary": "Article URL: https://www.telegraph.co.uk/world-news/2026/09/06/pentagon-refused-payout-soldiers-died-in-iran-war/\nComments URL: https://news.ycombinator.com/item?id=49596955\nPoints: 35\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-07T11:20:23+00:00"
     },
     {
       "title": "Sterling Edges Higher After U.K. Treasury Chief Speech",
@@ -179,6 +203,14 @@
     },
     {
       "title": "Saudi Aramco facility hit in new strikes",
+      "link": "https://www.ft.com/content/9ffb0fb3-51f6-4aa8-9270-a949196bf441?syn-25a6b1a6=1",
+      "summary": "Jizan, near the Yemeni border, has been repeatedly targeted by Houthi rebels in their campaign against Saudi Arabia",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-07T10:52:14+00:00"
+    },
+    {
+      "title": "Saudi Aramco facilities hit in new strikes",
       "link": "https://www.ft.com/content/9ffb0fb3-51f6-4aa8-9270-a949196bf441?syn-25a6b1a6=1",
       "summary": "Jizan, near the Yemeni border, has been repeatedly targeted by Houthi rebels in their campaign against Saudi Arabia",
       "source": "Financial Times",
@@ -290,6 +322,14 @@
       "published": "2026-09-07T10:00:10+00:00"
     },
     {
+      "title": "‘It sucks’: petrol prices test Trump voters in New Jersey",
+      "link": "https://www.ft.com/content/da937483-cda9-4417-9257-540c680696c3?syn-25a6b1a6=1",
+      "summary": "A competitive congressional race in New Jersey shows how affordability fears could spell trouble for Trump in November",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-07T10:00:10+00:00"
+    },
+    {
       "title": "米ＦＲＢは年内2回利上げへ、ＵＢＳが予想修正 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY014LXRRNVRlRXdyVkdwWEFUdE5iNE5wX0ViRmZ0ajF6ZUcwRERHWGt2U3YxcURzMzFrQ3Q1Rks2LVJoSkxfLUJZRWlBd1hUbnA1THVDdmRBaGlNU1ktMWJNVnNsNUNjSnBxWk5lRnBNUURxS3EwckRyQ1FXMlc0Xw?oc=5",
       "summary": "米ＦＲＢは年内2回利上げへ、ＵＢＳが予想修正&nbsp;&nbsp;Reuters",
@@ -304,6 +344,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-07T09:52:26+00:00"
+    },
+    {
+      "title": "25 years ago, two strangers met in the twin towers and escaped on 9/11",
+      "link": "https://www.theguardian.com/us-news/2026/sep/07/strangers-twin-towers-escape-september-11",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/sep/07/strangers-twin-towers-escape-september-11\nComments URL: https://news.ycombinator.com/item?id=49596221\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-07T09:45:38+00:00"
     },
     {
       "title": "「1000円」ジーンズ イオンが販売",
