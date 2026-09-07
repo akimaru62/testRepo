@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T07:28:50.312674+00:00",
+  "generated_at": "2026-09-07T07:45:39.252829+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -110,6 +110,30 @@
   ],
   "items": [
     {
+      "title": "Brent Tops $97 as U.S.-Iran Exchange Attacks",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-escalation-in-u-s-iran-conflict-aab0d7fb?mod=rss_markets_main",
+      "summary": "Oil prices extended gains in early European trading, with Brent crude topping $97 a barrel after the U.S. and Iran exchanged a series of fresh strikes over the weekend.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-07T07:42:00+00:00"
+    },
+    {
+      "title": "European Indexes Mixed in Early Trade as Tech Gains, Healthcare Falls",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-8-led-by-chip-related-stocks-37f5728d?mod=rss_markets_main",
+      "summary": "European indexes were mixed in quiet early trade. Healthcare and consumer-facing stocks struggled, though AI-related stocks gained.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-07T07:33:00+00:00"
+    },
+    {
+      "title": "Eurozone Bond Yields Open Higher, Thursday’s ECB Decision in Focus",
+      "link": "https://www.wsj.com/finance/jgbs-edge-lower-amid-rising-oil-prices-b7e71276?mod=rss_markets_main",
+      "summary": "Eurozone government bond yields rose in early trade as oil prices increased and investors focus on the European Central Bank’s interest-rate decision on Thursday.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-07T07:29:00+00:00"
+    },
+    {
       "title": "八代伝統の祭り、行列を中止　復興優先で苦渋の縮小―ユネスコ無形遺産・熊本地震",
       "link": "https://www.jiji.com/jc/article?k=2026090700129&g=soc&m=rss",
       "summary": "",
@@ -140,6 +164,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-07T07:17:00+00:00"
+    },
+    {
+      "title": "生成AIの普及だけじゃない　「デザイン業の倒産」が前年同期比166％増になった意外な理由",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/07/news075.html",
+      "summary": "グラフィックデザインやインテリアデザインなど「デザイン業」の倒産が急増している。東京商工リサーチの調査によると、2026年上半期に発生したデザイン業の倒産は40件（前年同期比166.6％増）だった。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-09-07T07:03:00+00:00"
     },
     {
       "title": "問題の核心は農林系統にあり､総量規制の抜け穴に資金流入…住専に深入りした理由とは　住専アリ地獄④ | 政治・経済・投資 | 東洋経済オンライン",
@@ -270,9 +302,33 @@
       "published": "2026-09-07T05:16:00+00:00"
     },
     {
+      "title": "原油、船舶攻撃激化なら120ドルも ゴールドマンが警告＝報道 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQd3YzTDRtOEZ1OC1jZDcxQnBrQW9wVTA1MS1YLWw1X3UxcmFvMjJwWWtnbHZMQU9hd0V3U0lQaXVaX1llSXdlVW1qWWF4M3ZQUkw5ZjBjcC1lc2NRMkhpWE9xT1NRZFdXNXNjUUNIelRJaHZzMjlWT1Bn?oc=5",
+      "summary": "原油、船舶攻撃激化なら120ドルも ゴールドマンが警告＝報道&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-07T05:16:00+00:00"
+    },
+    {
+      "title": "Bot Detection Without JavaScript: What My Blog Measured",
+      "link": "https://gkoreli.com/how-i-separate-readers-from-bots-without-javascript",
+      "summary": "Article URL: https://gkoreli.com/how-i-separate-readers-from-bots-without-javascript\nComments URL: https://news.ycombinator.com/item?id=49594130\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-07T05:13:22+00:00"
+    },
+    {
       "title": "FULL.MU - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0aDRSbDJ4Y002OC1mMjJNY3hwWVRqTDhxVk5sNHk2OG1BSWp3QVFNNk9kNDlhajZxSmtQak5jMXJwZU5NWlZDMm1LTERNZnF2TDlONGNyZ3l1ZUNVZTNPNzBjZXh3VG1TV2FQcHNSN3p0N0VWa1Nj?oc=5",
       "summary": "FULL.MU&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-07T05:13:15+00:00"
+    },
+    {
+      "title": "FULL.MU - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0aDRSbDJ4Y002OC1mMjJNY3hwWVRqTDhxVk5sNHk2OG1BSWp3QVFNNk9kNDlhajZxSmtQak5jMXJwZU5NWlZDMm1LTERNZnF2TDlONGNyZ3l1ZUNVZTNPNzBjZXh3VG1TV2FQcHNSN3p0N0VWa1Nj?oc=5",
+      "summary": "FULL.MU&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-07T05:13:15+00:00"
@@ -305,6 +361,14 @@
       "title": "アングル：中国発ＳＨＥＩＮ、買収主導で増収率の回復狙う - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSc2p0RGFaUEQzN3NnSFhfUWsyZ3VfZElBMFNCQy1ZSWJzOG0xNnN5Q0pCa0Jnc0Z4dTAwY0dBTDdpU3Y0SjdKYlFxNzRoNHRTS2FwYjlwLWZ2My1IYU5Vc1ZlUHA2M29DVEdUMWkxVFo0NjV2RU9yVQ?oc=5",
       "summary": "アングル：中国発ＳＨＥＩＮ、買収主導で増収率の回復狙う&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-07T04:52:00+00:00"
+    },
+    {
+      "title": "アングル：中国発ＳＨＥＩＮ、買収主導で増収率の回復狙う - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSc2p0RGFaUEQzN3NnSFhfUWsyZ3VfZElBMFNCQy1ZSWJzOG0xNnN5Q0pCa0Jnc0Z4dTAwY0dBTDdpU3Y0SjdKYlFxNzRoNHRTS2FwYjlwLWZ2My1IYU5Vc1ZlUHA2M29DVEdUMWkxVFo0NjV2RU9yVQ?oc=5",
+      "summary": "アングル：中国発ＳＨＥＩＮ、買収主導で増収率の回復狙う&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-07T04:52:00+00:00"
@@ -580,6 +644,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-07T02:46:39+00:00"
+    },
+    {
+      "title": "OHBd.TQ - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb0x2ajZXeDVnNk5GSE1ham1CRE05WFU0N1JZbWgtajQ1OTdtUjh5VFBxbElhbGVLNU9Ram85RVp6bGdjZVZ5c0gxM3MxNGVhYUNyNFJtTU5VRlhWQjE5aVJhR1lleG5LYjU0UFB2a08zdzY2b05iLWx0MnI0cEs2UDl2dFR4Z1U?oc=5",
+      "summary": "OHBd.TQ - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-07T02:44:16+00:00"
     },
     {
       "title": "「投手大谷」今季復帰断念か　打者では８日出場見込み―ＭＬＢ・ドジャース",
@@ -1457,6 +1529,14 @@
       "title": "独極右が「歴史的勝利」、東部州議会選 メルツ首相に大きな打撃 - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcHdqNnd6TFVGcGpSLUJ4bWdOcTRFdDViX3BYZWl2Sm9fMUpoZmstdU91SXk4ekpiLXN4SF91ZW11UlZHRnd1eXhfOVFUMWlsOF9mT0JnWWxzSjd4a2FZcGxSSE0xaWI1OUp0TVhURmdhWHg3TzdCcUtJWUxUdXRmaGFB?oc=5",
       "summary": "独極右が「歴史的勝利」、東部州議会選 メルツ首相に大きな打撃&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-06T22:13:00+00:00"
+    },
+    {
+      "title": "独極右が「歴史的勝利」、東部州議会選 メルツ首相に大きな打撃 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcHdqNnd6TFVGcGpSLUJ4bWdOcTRFdDViX3BYZWl2Sm9fMUpoZmstdU91SXk4ekpiLXN4SF91ZW11UlZHRnd1eXhfOVFUMWlsOF9mT0JnWWxzSjd4a2FZcGxSSE0xaWI1OUp0TVhURmdhWHg3TzdCcUtJWUxUdXRmaGFB?oc=5",
+      "summary": "独極右が「歴史的勝利」、東部州議会選 メルツ首相に大きな打撃&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-06T22:13:00+00:00"
@@ -2486,6 +2566,14 @@
       "published": "2026-09-06T11:49:55+00:00"
     },
     {
+      "title": "CMZb2m.MX%5EJ97 - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPanZIQVJCc1FrSEgzTGxyc0JsSnJpUGFWNDRVM1ZqVFNuYXN1TVA1N1lkbUJBeHBwRnRzNlZlTjl1RFFubFMxeGpNdEc3M1Jvd01EdGlBT0pRMWoybzhrWXZra0tJdW1sQXpMS05JUXJtdzJRWE1tbUxRUFJBUHpxZWVSMHJXOC1iaGloVA?oc=5",
+      "summary": "CMZb2m.MX%5EJ97 - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-06T11:48:48+00:00"
+    },
+    {
       "title": "CMOCTEZB1.MX%5EK98 - | Stock Price & Latest News - ロイター",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbDNaRlBBWVluS096LUV6T2dpMkpNc0NjZUlGaWtSRDBLZkVsUmhqTlNnRkgyLVRNVFEtTlpmQzRuZHFGb2NqQ2gwOFZ0SGpvU2E5NjBxWkV2SGRIcmhhbjJ2Rk9UblJIeVNtZ08wczBpaGhDMjdkeEZOczljTHk2NTBPWXhodEVVNWJPWVEwMUJfWmVFSHc?oc=5",
       "summary": "CMOCTEZB1.MX%5EK98 - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
@@ -2521,6 +2609,14 @@
       "title": "CMOCTEZB1.MX%5EK98 - | Stock Price & Latest News - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaXdrc1RSOVQ0OFVtM25GcEpOWEFvblZvZF8yYUg4eTJZbklfRTU1VFR5Ujlhb3BqU3RNWC1YOGZuUnlzQnFFMGxKZ3o0Z1BuNloxQ3pwN3VZZjdGbmhwTy1VY2U4QmRtMDNLdFFHOTYtdUFFcXoyTUR0RW5hR0FSdUxZQm1SeUtQNXJQb051ejI?oc=5",
       "summary": "CMOCTEZB1.MX%5EK98 - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-06T11:46:00+00:00"
+    },
+    {
+      "title": "CMOCTEZB1.MX%5EK98 - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaXdrc1RSOVQ0OFVtM25GcEpOWEFvblZvZF8yYUg4eTJZbklfRTU1VFR5Ujlhb3BqU3RNWC1YOGZuUnlzQnFFMGxKZ3o0Z1BuNloxQ3pwN3VZZjdGbmhwTy1VY2U4QmRtMDNLdFFHOTYtdUFFcXoyTUR0RW5hR0FSdUxZQm1SeUtQNXJQb051ejI?oc=5",
+      "summary": "CMOCTEZB1.MX%5EK98 - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-06T11:46:00+00:00"
@@ -2644,6 +2740,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-06T10:47:19+00:00"
+    },
+    {
+      "title": "REG1Vh.CHI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdkJsVHpUYzdGZG4yNmdnTjlGenhMVmJQaTR0MTh3R3ltM2lNTEgtRFdQN2t0VkxBYWw2SUlCelpmQzZJRmdXNjRhbHpLTU8zVHVhakxQemFQbVBTeW4zdFQ0Vk83cFNaNzVwellqbUkzaC01Nm1XbGZjdTFydmhOcnFMVHRCVXd6SVE?oc=5",
+      "summary": "REG1Vh.CHI&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-06T10:45:54+00:00"
     },
     {
       "title": "Trump envoys arrive in Ukraine after meeting Putin in Moscow",
