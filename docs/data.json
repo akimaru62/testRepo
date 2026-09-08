@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T17:07:56.281203+00:00",
+  "generated_at": "2026-09-08T17:23:44.491134+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -134,12 +134,52 @@
   ],
   "items": [
     {
+      "title": "英仏カナダなど１２カ国は、ヨルダン川西岸のユダヤ人入植地産品の輸入などを禁止すると表明した",
+      "link": "https://www.jiji.com/jc/article?k=2026090801083&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-08T17:23:38.880062+00:00"
+    },
+    {
+      "title": "Is IBM’s selloff an opportunity? Here’s one case for the beaten-down stock.",
+      "link": "https://www.marketwatch.com/story/is-ibms-selloff-an-opportunity-heres-one-case-for-the-beaten-down-stock-a3ca92ed?mod=mw_rss_topstories",
+      "summary": "An Evercore ISI analyst thinks investors are getting exposure to IBM’s various quantum-computing initiatives essentially for free.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-08T17:19:00+00:00"
+    },
+    {
+      "title": "Making Teenagers Read Newspapers. A Nationwide Experiment in French High Schools",
+      "link": "https://cepr.org/publications/dp21706",
+      "summary": "Article URL: https://cepr.org/publications/dp21706\nComments URL: https://news.ycombinator.com/item?id=49613086\nPoints: 7\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T17:00:45+00:00"
+    },
+    {
+      "title": "Show HN: LLM Attention Visualization",
+      "link": "https://ishamf.dev/p/llm-attention-visualizer/",
+      "summary": "Article URL: https://ishamf.dev/p/llm-attention-visualizer/\nComments URL: https://news.ycombinator.com/item?id=49613068\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T16:59:41+00:00"
+    },
+    {
       "title": "I did everything ‘right’ with my health insurance — and still got a surprise bill. Here’s what I learned.",
       "link": "https://www.marketwatch.com/story/i-did-everything-right-with-my-health-insurance-and-still-got-a-surprise-bill-heres-what-i-learned-51121f3f?mod=mw_rss_topstories",
       "summary": "It’s hard even for a healthcare insider to navigate the system, let alone appeal a denial with amorphous reasoning behind it.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-08T16:55:00+00:00"
+    },
+    {
+      "title": "Connecting the Machines",
+      "link": "https://herdr.dev/blog/connecting-the-machines/",
+      "summary": "Article URL: https://herdr.dev/blog/connecting-the-machines/\nComments URL: https://news.ycombinator.com/item?id=49612818\nPoints: 11\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T16:43:55+00:00"
     },
     {
       "title": "SpaceX’s stock could jump 43% — if the company is able to accomplish this engineering feat",
@@ -156,6 +196,22 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-08T16:34:00+00:00"
+    },
+    {
+      "title": "Y Combinator Early Access Network",
+      "link": "https://events.ycombinator.com/yc-early-access-fall-26",
+      "summary": "Article URL: https://events.ycombinator.com/yc-early-access-fall-26\nComments URL: https://news.ycombinator.com/item?id=49612635\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T16:31:01+00:00"
+    },
+    {
+      "title": "Hire Every Engineer Like You'd Hire a VP",
+      "link": "https://businessasusual.io/p/executive-search-methods-for-engineering",
+      "summary": "Article URL: https://businessasusual.io/p/executive-search-methods-for-engineering\nComments URL: https://news.ycombinator.com/item?id=49612618\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T16:30:08+00:00"
     },
     {
       "title": "イラン航空部門に制裁　３６団体・個人対象、圧力強化―米",
@@ -444,6 +500,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-08T14:21:14+00:00"
+    },
+    {
+      "title": "韓国、ホルムズ海峡に調査団派遣 軍派遣は未定 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10RjVseldSc09xcjd5MUplRmFzSFMxNGFWNnFwZ3p2cjZ4ZTVCQTVRTUtMRzROb3hMaVRfYnZWdld4R2cwaFJvdkZ1TnpYX1ZjM090akItc1J2NWFJRmRvOFNyajVtZEhkNVBKaklmVUxLZXgwbnFMNg?oc=5",
+      "summary": "韓国、ホルムズ海峡に調査団派遣 軍派遣は未定&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-08T14:18:09+00:00"
     },
     {
       "title": "U.K Pays Multi-Decade High Yields at Long-Term Debt Sale",
