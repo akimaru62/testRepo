@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T03:09:13.730722+00:00",
+  "generated_at": "2026-09-08T03:28:35.117596+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -130,12 +130,68 @@
   ],
   "items": [
     {
+      "title": "自民役員人事、首相一任　１６日にも実施",
+      "link": "https://www.jiji.com/jc/article?k=2026090800352&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-08T03:28:29.551541+00:00"
+    },
+    {
+      "title": "ケーキ店放火殺人、会社役員は後から合流か　ガソリン携行缶を押収―岐阜県警",
+      "link": "https://www.jiji.com/jc/article?k=2026090800347&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-08T03:28:29.551510+00:00"
+    },
+    {
+      "title": "GDP年率1.4%増に上方修正　4～6月期、設備投資の減少幅縮む",
+      "link": "https://www.asahi.com/articles/ASV980W07V98ULFA017M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-08T03:28:29.184440+00:00"
+    },
+    {
+      "title": "Yen Hits Six-Month High Against Dollar on BOJ Rate-Hike Bets",
+      "link": "https://www.wsj.com/finance/currencies/yen-hits-six-month-high-against-dollar-on-boj-rate-hike-bets-c065be1e?mod=rss_markets_main",
+      "summary": "The yen continued its recent surge against the dollar, bolstered by expectations of faster interest-rate increases by the Bank of Japan and the potential for investment inflows into Japanese assets.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-08T03:13:00+00:00"
+    },
+    {
+      "title": "一時1ドル152円台 約半年ぶり水準",
+      "link": "https://news.yahoo.co.jp/pickup/6594633?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-08T03:08:53+00:00"
+    },
+    {
+      "title": "China’s exports jump 25% in August in boost from AI build-out",
+      "link": "https://www.ft.com/content/56bcc2fb-99eb-4ad9-af67-101c8d0382cb?syn-25a6b1a6=1",
+      "summary": "Data comes ahead of crucial meeting between Donald Trump and Xi Jinping this month",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-08T03:00:21+00:00"
+    },
+    {
       "title": "理系分野に進む女性が少ないことの背景には､｢つながり｣と｢自主性｣という人間の2つの欲求の綱引きがある | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/943814?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "理系分野に進む女性が少ないのはなぜなのか——性差別や能力の問題だけでなく､｢つながり｣と｢自主性｣という人間の根源的な欲求が影響している可能性があります。進化心理学や最新データをもとに､その本質に迫…",
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-08T03:00:00+00:00"
+    },
+    {
+      "title": "Huawei drives China’s push to make its own advanced chips",
+      "link": "https://www.ft.com/content/36333a53-4063-4aad-8df9-8d2f9d0048a3?syn-25a6b1a6=1",
+      "summary": "Tech giant plays ‘project management’ role to build components needed for DUV machines and avoid export controls",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-08T02:57:46+00:00"
     },
     {
       "title": "半年ぶりに1ドル=152円台後半　日銀の利上げ加速観測で円高進む",
@@ -272,6 +328,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-08T01:47:00+00:00"
+    },
+    {
+      "title": "Yen surges to six-month high as traders stay alert for signs of intervention",
+      "link": "https://www.ft.com/content/d86643d2-c98c-4e19-b066-c97b50819b7e?syn-25a6b1a6=1",
+      "summary": "Japanese currency strengthens to below ¥154 per dollar, extending gains after steep rise in London",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-08T01:38:27+00:00"
     },
     {
       "title": "イラン、ホルムズ合意「数日中にも」　石油ガス施設攻撃なら報復",
@@ -554,12 +618,28 @@
       "published": "2026-09-07T23:47:19.924079+00:00"
     },
     {
+      "title": "セウタ移民流入、スペイン国民の過半数が政府対応に不満＝世論調査 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSkpYMU16V2UyQ2ZXcTluM2E3T0t0bFUwdWJWZ2djUndFTzhzbmU2QjJ0Yy11R1RCZ0VZYkdlZ3BnQ3U3X2ZHdWpZNUtSSmxzZHRleHFJeEYzcDgwanV2d0haR2YxeTdNLU5XYng0ZGNkMWV1emZwVWFURWJTaE9TZENn?oc=5",
+      "summary": "セウタ移民流入、スペイン国民の過半数が政府対応に不満＝世論調査&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-07T23:42:31+00:00"
+    },
+    {
       "title": "TALA Is Open-Source",
       "link": "https://d2lang.com/blog/tala-is-open-source/",
       "summary": "Article URL: https://d2lang.com/blog/tala-is-open-source/\nComments URL: https://news.ycombinator.com/item?id=49604150\nPoints: 6\n# Comments: 1",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-07T23:37:42+00:00"
+    },
+    {
+      "title": "4593.J1 - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM2J2M1d0UHJBcTFoTlgyZVFjdkNtRDh1am9VbnBxLURHcEZKTTkwaVE4dUtYNkZQNDZLRGhkWmEzejJIVW1rekp5TlY1Yk9KNUpWWVZlVkI0U2hrbmJqUFNQcEFGMTNtV3RrWGVzcVpxWEoxYkRUR2d2WHBZVUZLM0dR?oc=5",
+      "summary": "4593.J1 - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-07T23:33:14+00:00"
     },
     {
       "title": "｢家に向かって一礼…？｣修学旅行生にいざなわれた\"ある場所\"の正体 漫画『55歳のひとり旅デビュー まめ旅すたいる。』 | ライフ | 東洋経済オンライン",
