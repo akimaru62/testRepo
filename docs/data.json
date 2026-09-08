@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T14:48:38.751030+00:00",
+  "generated_at": "2026-09-08T15:08:21.401962+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -142,6 +142,22 @@
       "published": "2026-09-08T16:00:00+00:00"
     },
     {
+      "title": "Dow Dips, Oil Nears $100",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-stock-futures-treasurys-weaken-as-brent-nears-100-c29efc2f?mod=rss_markets_main",
+      "summary": "U.S. stock indexes started the week lower as rising oil prices added to investor anxiety.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-08T14:55:00+00:00"
+    },
+    {
+      "title": "Oracle’s stock gets a boost as the OpenAI ecosystem comes back into favor",
+      "link": "https://www.marketwatch.com/story/oracles-stock-gets-a-boost-as-the-openai-ecosystem-comes-back-into-favor-f53c8024?mod=mw_rss_topstories",
+      "summary": "“It looks like OpenAI is turning things around,” and that’s seen as good news for Oracle, which has a lot riding on the ChatGPT creator’s success.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-08T14:53:00+00:00"
+    },
+    {
       "title": "Gold Futures Slip With Market of Two Minds",
       "link": "https://www.wsj.com/finance/commodities-futures/in-gold-the-bulls-are-everywhere-8ee642ee?mod=rss_markets_main",
       "summary": "Gold futures were lower with the market watching a rise in oil prices and for U.S. inflation data later this week.",
@@ -156,6 +172,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-08T14:38:00+00:00"
+    },
+    {
+      "title": "PyPI Blog: Incident File Hosting Errors",
+      "link": "https://blog.pypi.org/posts/2026-09-08-file-hosting-errors/",
+      "summary": "Article URL: https://blog.pypi.org/posts/2026-09-08-file-hosting-errors/\nComments URL: https://news.ycombinator.com/item?id=49610925\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T14:35:58+00:00"
     },
     {
       "title": "ユダヤ人入植地からの輸入禁止　英仏加など１２カ国、米イスラエル反発必至",
@@ -388,6 +412,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-08T12:50:00+00:00"
+    },
+    {
+      "title": "infy.n - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTG03Y0FtQXNRYnE2T3Fwbm15X1VzT29Db2gyMHJyT0l6Vk9vOUxpanJfRFZSWmlpM1RCZ3FqZFVKTWtqM2VXeC1zajk5NVUwVmhOZmZhLXhmeE84WWY2QzlNQjNtTkY4RDBDMVN2eWRXSkpaNFYzdXQ4a0thQ2ZjZXBxYVc?oc=5",
+      "summary": "infy.n&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-08T12:14:24+00:00"
     },
     {
       "title": "投資会社代表を詐欺容疑で逮捕　上場企業役員の肩書悪用か―愛知県警",
