@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T16:09:04.902541+00:00",
+  "generated_at": "2026-09-08T16:29:02.184029+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -134,6 +134,38 @@
   ],
   "items": [
     {
+      "title": "イラン航空部門に制裁　３６団体・個人対象、圧力強化―米",
+      "link": "https://www.jiji.com/jc/article?k=2026090801141&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-08T16:28:57.033812+00:00"
+    },
+    {
+      "title": "Opinion | What if California Becomes a ‘Failed State’?",
+      "link": "https://www.wsj.com/opinion/what-if-california-becomes-a-failed-state-3aaf5059?mod=rss_markets_main",
+      "summary": "‘Political risk,’ usually the precinct of Third World despotisms, could soon be a concern for U.S. locales.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-08T16:26:00+00:00"
+    },
+    {
+      "title": "LG TVs caught spying even when offline or on standby",
+      "link": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
+      "summary": "Article URL: https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus\nComments URL: https://news.ycombinator.com/item?id=49612329\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T16:07:08+00:00"
+    },
+    {
+      "title": "Why I'm Not Excited About the Graphene OS and Motorola Partnership",
+      "link": "https://podcast.switchedtolinux.com/@tehankorage/episodes/why-im-not-excited-about-the-graphene-os-and-motorola-partnership",
+      "summary": "Article URL: https://podcast.switchedtolinux.com/@tehankorage/episodes/why-im-not-excited-about-the-graphene-os-and-motorola-partnership\nComments URL: https://news.ycombinator.com/item?id=49612327\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T16:07:04+00:00"
+    },
+    {
       "title": "These software stocks are in a prime spot to benefit from a rapidly shifting AI landscape",
       "link": "https://www.marketwatch.com/story/these-software-stocks-are-in-a-prime-spot-to-benefit-from-a-rapidly-shifting-ai-landscape-bc90e45b?mod=mw_rss_topstories",
       "summary": "Adobe tops a list of software companies ranked by cash generation, while sector heavyweights Microsoft and Oracle are at the bottom.",
@@ -150,12 +182,28 @@
       "published": "2026-09-08T16:00:00+00:00"
     },
     {
+      "title": "C*: Unifying Programming and Verification in C",
+      "link": "https://arxiv.org/abs/2504.02246",
+      "summary": "Article URL: https://arxiv.org/abs/2504.02246\nComments URL: https://news.ycombinator.com/item?id=49612191\nPoints: 6\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T15:56:56+00:00"
+    },
+    {
       "title": "Bombardier’s stock drops as the U.S.-Canada trade war intensifies. Here’s what Trump may target next.",
       "link": "https://www.marketwatch.com/story/bombardiers-stock-drops-as-the-u-s-canada-trade-war-intensifies-heres-what-trump-may-target-next-b389065e?mod=mw_rss_topstories",
       "summary": "The trade battle — featuring steep import taxes and possible bans — could escalate further as soon as today.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-08T15:44:00+00:00"
+    },
+    {
+      "title": "US police fear Meta smart glasses could be used to secretly record them",
+      "link": "https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses\nComments URL: https://news.ycombinator.com/item?id=49611946\nPoints: 34\n# Comments: 18",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T15:39:49+00:00"
     },
     {
       "title": "U.S. Gets Minority Stakes in Some Quantum Computing Companies in $300 Million CHIPS Act Funding Deal",
@@ -636,6 +684,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-08T12:11:58.537537+00:00"
+    },
+    {
+      "title": "FreeBSD 14.5-Release",
+      "link": "https://www.freebsd.org/releases/14.5R/announce/",
+      "summary": "Article URL: https://www.freebsd.org/releases/14.5R/announce/\nComments URL: https://news.ycombinator.com/item?id=49609174\nPoints: 16\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T12:04:04+00:00"
     },
     {
       "title": "GE Aerospace to Buy Consolidated Precision Products for $11.75 Billion",
