@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T20:24:13.252539+00:00",
+  "generated_at": "2026-09-08T20:34:46.070121+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -134,6 +134,22 @@
   ],
   "items": [
     {
+      "title": "Canada’s Tariffs Take Effect",
+      "link": "https://www.wsj.com/finance/stocks/canadas-tariffs-take-effect-c3d61304?mod=rss_markets_main",
+      "summary": "Plus, oil rises after Houthis strike energy infrastructure, and stocks fall.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-08T20:31:00+00:00"
+    },
+    {
+      "title": "Refining bottlenecks are emerging as the next big oil problem as Middle East skirmishes flare up",
+      "link": "https://www.marketwatch.com/story/refining-bottlenecks-are-emerging-as-the-next-big-oil-problem-as-middle-east-skirmishes-flare-up-24528e22?mod=mw_rss_topstories",
+      "summary": "American drivers just paid the highest Labor Day gasoline prices ever. Dwindling global refinery capacity is threatening to push prices higher.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-08T20:28:00+00:00"
+    },
+    {
       "title": "米ロ首脳が電話会談し、ウクライナ情勢を協議した",
       "link": "https://www.jiji.com/jc/article?k=2026090801122&g=flash&m=rss",
       "summary": "",
@@ -156,6 +172,22 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-08T20:11:00+00:00"
+    },
+    {
+      "title": "Animation in Bevy: The Big Picture",
+      "link": "https://glocq.com/en/blog/20260827/",
+      "summary": "Article URL: https://glocq.com/en/blog/20260827/\nComments URL: https://news.ycombinator.com/item?id=49616272\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T20:08:44+00:00"
+    },
+    {
+      "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+      "link": "https://github.com/argonautlabsai/deltafin",
+      "summary": "Article URL: https://github.com/argonautlabsai/deltafin\nComments URL: https://news.ycombinator.com/item?id=49616257\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T20:07:55+00:00"
     },
     {
       "title": "GMOペイメントゲートウェイが｢在職中に無断で別会社を設立｣との理由で懲戒解雇､大きく食い違う両者の主張 | ビジネス | 東洋経済オンライン",
@@ -188,6 +220,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-08T20:00:00+00:00"
+    },
+    {
+      "title": "OpenAI fought dirty on career-making math problem",
+      "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "summary": "Article URL: https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/\nComments URL: https://news.ycombinator.com/item?id=49615926\nPoints: 30\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T19:47:13+00:00"
     },
     {
       "title": "Muse: Meta's personal AI agent, features and capabilities",
