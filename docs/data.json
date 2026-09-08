@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T23:47:25.685228+00:00",
+  "generated_at": "2026-09-08T00:21:12.679319+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -126,12 +126,92 @@
   ],
   "items": [
     {
+      "title": "Nikkei Falls 0.6%, Dragged by Electronics, Machinery Stocks",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-6-dragged-by-electronics-machinery-stocks-97139a76?mod=rss_markets_main",
+      "summary": "Japanese stocks were lower as uncertainty over the Middle East conflict and the Fed policy persists.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-08T00:19:00+00:00"
+    },
+    {
+      "title": "羽田発着の小型機に新規則 国交省",
+      "link": "https://news.yahoo.co.jp/pickup/6594608?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-08T00:18:15+00:00"
+    },
+    {
+      "title": "英JLR 従業員4000人を削減へ",
+      "link": "https://news.yahoo.co.jp/pickup/6594613?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-08T00:15:14+00:00"
+    },
+    {
+      "title": "一時1ドル153円台 約半年ぶり水準",
+      "link": "https://news.yahoo.co.jp/pickup/6594610?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-08T00:01:36+00:00"
+    },
+    {
+      "title": "サムスンとSKの法人税が国の経済を左右？　韓国･巨大財閥｢メモリー需要｣依存の危うい構造 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/956802?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "韓国経済を牽引する｢財閥｣の実態に迫る最新レポート。サムスンやSKなど巨大グループの支配構造､巨大化する半導体依存がもたらすリスク､そして政府規制強化の動きを解説します。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-08T00:00:00+00:00"
+    },
+    {
+      "title": "貸出・預金動向（8月）",
+      "link": "http://www.boj.or.jp/statistics/dl/depo/kashi/kasi2608.pdf",
+      "summary": "",
+      "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-09-07T23:50:00+00:00"
+    },
+    {
+      "title": "貿易統計(令和8年8月上中旬分速報)【税関ホームページ】",
+      "link": "https://www.mof.go.jp/outside_link/20250424095025.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-09-07T23:50:00+00:00"
+    },
+    {
+      "title": "対外及び対内証券売買契約等の状況(月次・指定報告機関ベース)",
+      "link": "https://www.mof.go.jp/policy/international_policy/reference/itn_transactions_in_securities/month.pdf",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-09-07T23:50:00+00:00"
+    },
+    {
+      "title": "令和8年7月中 国際収支状況（速報）の概要",
+      "link": "https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/preliminary/pg202607.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-09-07T23:50:00+00:00"
+    },
+    {
       "title": "7月の実質賃金、前年比2.4%増  7カ月連続プラス、約5年ぶり",
       "link": "https://www.asahi.com/articles/ASV973FHQV97ULFA01BM.html?ref=rss",
       "summary": "",
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-07T23:47:19.924079+00:00"
+    },
+    {
+      "title": "TALA Is Open-Source",
+      "link": "https://d2lang.com/blog/tala-is-open-source/",
+      "summary": "Article URL: https://d2lang.com/blog/tala-is-open-source/\nComments URL: https://news.ycombinator.com/item?id=49604150\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-07T23:37:42+00:00"
     },
     {
       "title": "｢家に向かって一礼…？｣修学旅行生にいざなわれた\"ある場所\"の正体 漫画『55歳のひとり旅デビュー まめ旅すたいる。』 | ライフ | 東洋経済オンライン",
