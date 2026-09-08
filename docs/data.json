@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T19:21:18.776019+00:00",
+  "generated_at": "2026-09-08T19:33:33.347818+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -133,6 +133,22 @@
     }
   ],
   "items": [
+    {
+      "title": "Muse: Meta's personal AI agent, features and capabilities",
+      "link": "https://ai.meta.com/muse/",
+      "summary": "Article URL: https://ai.meta.com/muse/\nComments URL: https://news.ycombinator.com/item?id=49615537\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T19:25:00+00:00"
+    },
+    {
+      "title": "U.S. Natural Gas Retreats as Weather Set to Cool Down",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-slip-in-early-trading-6f84e425?mod=rss_markets_main",
+      "summary": "U.S. natural gas futures started the week lower with the market bracing for cooler late-September weather that will reduce power-sector demand.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-08T19:22:00+00:00"
+    },
     {
       "title": "Oil Rises to Multimonth Highs on Middle East Escalation",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-fears-of-more-supply-disruptions-in-middle-east-97f4225b?mod=rss_markets_main",
