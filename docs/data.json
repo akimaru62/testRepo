@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T07:47:57.974172+00:00",
+  "generated_at": "2026-09-08T08:11:19.142264+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -138,7 +138,55 @@
       "published": "2026-09-08T16:00:00+00:00"
     },
     {
+      "title": "街角の景気は「持ち直しの動き」　8月調査、現状判断の改善続く",
+      "link": "https://www.asahi.com/articles/ASV982HNHV98ULFA017M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-08T08:11:14.974547+00:00"
+    },
+    {
+      "title": "European Indexes Edge Lower as Inflation Concerns Loom",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-6-dragged-by-electronics-machinery-stocks-97139a76?mod=rss_markets_main",
+      "summary": "European stock indexes, including the Stoxx 600, mostly edged lower in early trade, with higher oil prices weighing on sentiment.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-08T08:08:00+00:00"
+    },
+    {
+      "title": "ドイツ輸出、7月は予想外にマイナス ＥＵ諸国向けが1.6％減 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMWJFYm4zd1ZxZlVjMXNtVXZhby1WUmlLVkJYZEFxQ1lOTWpGc0NEb19PNXh0NXRXdjNLaDlFNDdoazQzNlk4bzB3N1Rmb3BWZHhPVVNWa0wxR01Fc1ZCT2ttUXJSWEpSbmtzR1VZMFIwaVNuU1F3QzZ4ZnI0ZUhOYw?oc=5",
+      "summary": "ドイツ輸出、7月は予想外にマイナス ＥＵ諸国向けが1.6％減&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-08T07:57:43+00:00"
+    },
+    {
+      "title": "Eurozone Bond Yields Edge Lower, Focus on Thursday’s ECB Meeting",
+      "link": "https://www.wsj.com/finance/jgb-futures-rise-as-yens-strength-seen-easing-inflationary-pressures-5eefc264?mod=rss_markets_main",
+      "summary": "Eurozone government bond yields were marginally lower, awaiting Thursday’s ECB’s interest-rate decision.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-08T07:53:00+00:00"
+    },
+    {
+      "title": "東海道・山陽新幹線 一部見合わせ",
+      "link": "https://news.yahoo.co.jp/pickup/6594658?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-08T07:52:02+00:00"
+    },
+    {
       "title": "Bessent’s Yen Bet Is Paying Off, For Now",
+      "link": "https://www.wsj.com/finance/currencies/yen-hits-six-month-high-against-dollar-on-boj-rate-hike-bets-c065be1e?mod=rss_markets_main",
+      "summary": "The Japanese currency touched an almost seven-month high against the U.S. dollar, a sharp turnaround from its seemingly inexorable slide this summer.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-08T07:43:00+00:00"
+    },
+    {
+      "title": "Bessent’s Yen Bet Is Paying Off—for Now",
       "link": "https://www.wsj.com/finance/currencies/yen-hits-six-month-high-against-dollar-on-boj-rate-hike-bets-c065be1e?mod=rss_markets_main",
       "summary": "The Japanese currency touched an almost seven-month high against the U.S. dollar, a sharp turnaround from its seemingly inexorable slide this summer.",
       "source": "WSJ マーケット",
@@ -152,6 +200,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-08T07:36:47.141663+00:00"
+    },
+    {
+      "title": "Singapore raises prime minister’s pay by $1mn",
+      "link": "https://www.ft.com/content/f06ee0ea-adcf-44ec-80c9-bb616885d8de?syn-25a6b1a6=1",
+      "summary": "Jump in already world-leading salaries for ministers comes despite public disapproval",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-08T07:29:42+00:00"
     },
     {
       "title": "防衛・厚労、次官級協議を新設へ　戦傷医療向上で連携",
@@ -285,6 +341,14 @@
       "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
       "link": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
       "summary": "Article URL: https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/\nComments URL: https://news.ycombinator.com/item?id=49605767\nPoints: 12\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T05:06:23+00:00"
+    },
+    {
+      "title": "Mistral raises €3B",
+      "link": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "summary": "Article URL: https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/\nComments URL: https://news.ycombinator.com/item?id=49605767\nPoints: 313\n# Comments: 189",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-08T05:06:23+00:00"
@@ -1160,6 +1224,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-07T23:42:31+00:00"
+    },
+    {
+      "title": "7月実質賃金は前年比2.4％増、名目賃金が97年1月以来の伸び＝毎勤統計 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTUp0WW1oZUZzZy1BV2ZsODkwb1dNU2dJdU9xTGdkbTZwY1liZjhleDQ2YVJyeFppZVhZVzJYMGJXS2JwVlc2cHRFUVlmenZtUnBzbkRaWXBhcWZrX25MdEJqaDlieGstR0NHd2tMX09JeHh6WXc2MHJlWkdYc0VCTg?oc=5",
+      "summary": "7月実質賃金は前年比2.4％増、名目賃金が97年1月以来の伸び＝毎勤統計&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-07T23:38:09+00:00"
     },
     {
       "title": "TALA Is Open-Source",
@@ -2488,6 +2560,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-07T10:52:14+00:00"
+    },
+    {
+      "title": "ロシア、ノルウェーへの米ミサイルシステム配備を非難 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRlU1ZDJsNHlZVXNOeEU2TTFmMTRwY21YQThUVE5tUTFOWnVjWnlRM3RoRkM2VlQ0WEt2TmtQVkxCUXMwSUFOR0JoYXlKbzZnaU5fOGxMbURhaUNmZ3pNekd0R00yMUVKbm05bWxJcy1rRkdDM0Z2d2c5SDBsNzdwRHdn?oc=5",
+      "summary": "ロシア、ノルウェーへの米ミサイルシステム配備を非難&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-07T10:48:00+00:00"
     },
     {
       "title": "円上昇、一時１５４円近辺　約半年ぶり高値―ロンドン市場",
