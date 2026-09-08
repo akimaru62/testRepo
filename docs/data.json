@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T02:16:02.636648+00:00",
+  "generated_at": "2026-09-08T02:39:43.431108+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -122,9 +122,45 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "景気拡大 円安と物価高で実感薄く",
+      "link": "https://news.yahoo.co.jp/pickup/6594628?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-08T02:34:49+00:00"
+    },
+    {
+      "title": "｢推し活｣言説の背景にある｢お金を落とす＝いいオタク｣の風潮…消費活動への過剰な礼賛が広がったプロセスとは | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/955967?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "現代のオタク文化で称賛される｢推し活｣や｢応援消費｣――かつて否定的に捉えられた\"消費\"は､なぜここまでポジティブな意味合いへと変わったのでしょうか。経済主体としてのオタク像の変遷､その歴史的背景を…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-08T02:30:00+00:00"
+    },
+    {
+      "title": "Asian Stock Markets Mixed as Investors Look to U.S. CPI Data",
+      "link": "https://www.wsj.com/finance/stocks/asian-stock-markets-mixed-as-investors-look-to-u-s-cpi-data-f41bca9f?mod=rss_markets_main",
+      "summary": "Regional markets lacked cues given Monday’s Labor Day holiday, and investors are now looking to U.S. consumer inflation data.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-08T02:25:00+00:00"
+    },
+    {
+      "title": "リユース市場拡大 悪質業者に注意",
+      "link": "https://news.yahoo.co.jp/pickup/6594626?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-08T02:24:19+00:00"
+    },
     {
       "title": "北朝鮮、日米韓訓練に反発　「強力な対抗措置」予告",
       "link": "https://www.jiji.com/jc/article?k=2026090800097&g=pol&m=rss",
