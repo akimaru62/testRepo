@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T04:09:02.804669+00:00",
+  "generated_at": "2026-09-08T04:28:17.990965+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -130,12 +130,116 @@
   ],
   "items": [
     {
+      "title": "円相場が、１ドル＝１５２円台に上昇した",
+      "link": "https://www.jiji.com/jc/article?k=2026090800353&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-08T04:28:10.976374+00:00"
+    },
+    {
+      "title": "中国の半導体材料規制「撤回を」　木原官房長官",
+      "link": "https://www.jiji.com/jc/article?k=2026090800405&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-08T04:28:10.976348+00:00"
+    },
+    {
+      "title": "総務省が聞き取り調査開始　郵政行政部の開示延期チャット、認識問う",
+      "link": "https://www.asahi.com/articles/ASV981CRTV98UTIL00JM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-08T04:28:10.587124+00:00"
+    },
+    {
+      "title": "Singapore Dollar Strengthens Slightly",
+      "link": "https://www.wsj.com/finance/currencies/yen-strengthens-further-sentiment-toward-currency-has-materially-shifted-72af55be?mod=rss_markets_main",
+      "summary": "The Singapore dollar strengthened slightly against its U.S. counterpart in the Asian session.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-08T04:09:00+00:00"
+    },
+    {
+      "title": "AI is ushering in an era of mass toe-treading at work",
+      "link": "https://www.ft.com/content/ed214778-2a6d-4862-99b5-abc256daff92?syn-25a6b1a6=1",
+      "summary": "Boundaries between different occupations are blurring at the cost of a collaborative company culture",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-08T04:00:27+00:00"
+    },
+    {
+      "title": "The crisis for Merz and the CDU",
+      "link": "https://www.ft.com/content/22eacb3c-6cab-490d-a117-75ba90a2d35c?syn-25a6b1a6=1",
+      "summary": "‘Giving up is not an option for me,’ says German chancellor as AfD routs conservatives in eastern stronghold",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-08T04:00:27+00:00"
+    },
+    {
+      "title": "Global shipping rules are collapsing, say maritime nations",
+      "link": "https://www.ft.com/content/c6517e52-b855-487c-8408-7071936cf3b0?syn-25a6b1a6=1",
+      "summary": "Wars and the growth of the shadow fleet are causing a ‘structural shift’ in global trade, according to 18 maritime authorities",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-08T04:00:27+00:00"
+    },
+    {
+      "title": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO",
+      "link": "https://www.ft.com/content/aa304856-cade-4ad8-a2bf-2dd34fa75b1b?syn-25a6b1a6=1",
+      "summary": "Investment-grade designation would unlock cheaper financing for AI labs and their infrastructure partners",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-08T04:00:17+00:00"
+    },
+    {
+      "title": "The world’s $2tn interest bill",
+      "link": "https://www.ft.com/content/4f28ef6c-f727-4d36-88a3-bbdbd13ddfbf?syn-25a6b1a6=1",
+      "summary": "Many countries now spend more on debt servicing than defence, including the US, France and the UK",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-08T04:00:17+00:00"
+    },
+    {
+      "title": "Offshore borrowing in renminbi hits record high",
+      "link": "https://www.ft.com/content/1de12ab6-0343-4113-a832-b0f11c3a9b7a?syn-25a6b1a6=1",
+      "summary": "Issuance of ‘dim sum’ and ‘panda’ bonds rises past $146bn so far this year",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-08T04:00:17+00:00"
+    },
+    {
+      "title": "Hedge fund Millennium seeks tax deal to boost Geneva presence",
+      "link": "https://www.ft.com/content/200221ed-8712-4e43-8160-23b7b9c40a04?syn-25a6b1a6=1",
+      "summary": "Swiss cantons locked in competition to woo high-net-worth individuals",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-08T04:00:17+00:00"
+    },
+    {
       "title": "｢マイナアプリ｣に変わったマイナポータル､口座開設やフリマの本人確認がマイナンバーカード中心になる理由 | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/956967?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "スマートフォンの｢マイナポータルアプリ｣が｢マイナアプリ｣として生まれ変わり､本人確認の基盤として行政･民間を問わず利用される新時代が始まりました。従来の認証方法が廃止されるなか､私たちの生活はどの…",
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-08T04:00:00+00:00"
+    },
+    {
+      "title": "英ポーツマスで移民抗議デモ、財務政務次官は「暴徒」と批判 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUmpGdUxoNFpfRUV4NHA5UFIzSjBIRk13X29JVzlRVThjN1VsRVdLdzVpZURzX0V3X1IwQWlpdktxUFRBalNWYlB2dHU2TDFSVWlydjFJRGFvZFZWRU1QLXlrMUhmSGFkUEdnT1JPQ1ZKUlFJM1RzRlVtdWdQbTN6NkdR?oc=5",
+      "summary": "英ポーツマスで移民抗議デモ、財務政務次官は「暴徒」と批判&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-08T03:48:00+00:00"
+    },
+    {
+      "title": "英小売業界、今後3年間に若者10万人分の雇用創出へ - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd05wLTc2TjFDNmhuQzE0QWs5Y05rWmZxWGNrVFRtb0VJZGR3Qk9Vd0lqSHZWZ0Juanp3dk1sNTd2cmpOT01SZmpWd0JvMTRVUHZqbGJ6TC1odm0tS0xtWE5OTTNBNHBHYWE2SE8tSDd0MWZaMkpXSUFOSTJ5c3E5TQ?oc=5",
+      "summary": "英小売業界、今後3年間に若者10万人分の雇用創出へ&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-08T03:44:00+00:00"
     },
     {
       "title": "5年利付国債（第187回）の入札結果（令和8年9月8日入札）",
@@ -178,6 +282,14 @@
       "published": "2026-09-08T03:28:29.184440+00:00"
     },
     {
+      "title": "A Screensaver for LG's Spying Smart TVs",
+      "link": "https://weowntheglass.com",
+      "summary": "Article URL: https://weowntheglass.com\nComments URL: https://news.ycombinator.com/item?id=49605356\nPoints: 19\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T03:20:44+00:00"
+    },
+    {
       "title": "Yen Hits Six-Month High Against Dollar on BOJ Rate-Hike Bets",
       "link": "https://www.wsj.com/finance/currencies/yen-hits-six-month-high-against-dollar-on-boj-rate-hike-bets-c065be1e?mod=rss_markets_main",
       "summary": "The yen continued its recent surge against the dollar, bolstered by expectations of faster interest-rate increases by the Bank of Japan and the potential for investment inflows into Japanese assets.",
@@ -210,6 +322,14 @@
       "published": "2026-09-08T03:00:00+00:00"
     },
     {
+      "title": "How well do agents use test/verification techniques?",
+      "link": "https://danluu.com/agentic-testing/",
+      "summary": "Article URL: https://danluu.com/agentic-testing/\nComments URL: https://news.ycombinator.com/item?id=49605246\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T02:58:16+00:00"
+    },
+    {
       "title": "Huawei drives China’s push to make its own advanced chips",
       "link": "https://www.ft.com/content/36333a53-4063-4aad-8df9-8d2f9d0048a3?syn-25a6b1a6=1",
       "summary": "Tech giant plays ‘project management’ role to build components needed for DUV machines and avoid export controls",
@@ -224,6 +344,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-08T02:53:51+00:00"
+    },
+    {
+      "title": "ドルが半年ぶり152円台、円売りの巻き戻しが継続 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOczR4MEdQb1BvUm1WQ3BucENJdlpsN0loM2t4a2hmU0syTGFxSlFNeEtodWs1YUNWQmludTN5ZDgzalR3Q1VYd3dPMnJZU0EzSHpRc3lSSnpubWdYakt2ZF9seUJ2aU9zZUJvM3FXdG0xeVpMTHhSdk5uU0FjVTZpTg?oc=5",
+      "summary": "ドルが半年ぶり152円台、円売りの巻き戻しが継続&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-08T02:50:00+00:00"
     },
     {
       "title": "半年ぶりに1ドル=152円台後半　日銀の利上げ加速観測で円高進む",
@@ -304,6 +432,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-08T02:15:57.716325+00:00"
+    },
+    {
+      "title": "AI cancer cures slowed by chip shortage, says Arm boss",
+      "link": "https://www.bbc.com/news/articles/c0m39g7xzevo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c0m39g7xzevo\nComments URL: https://news.ycombinator.com/item?id=49604956\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T02:12:13+00:00"
     },
     {
       "title": "中国、蓄電池工場の認可一時停止 過剰能力巡る懸念の中＝報道 - Reuters",
@@ -26335,6 +26471,14 @@
       "source": "AWS ブログ (アーキテクチャ)",
       "category": "開発者向け",
       "published": "2026-08-19T13:11:51+00:00"
+    },
+    {
+      "title": "Cantor Lets Hedge Funds Place Big Bets on Kalshi’s Prediction Markets",
+      "link": "https://www.wsj.com/finance/investing/cantor-lets-hedge-funds-place-big-bets-on-kalshis-prediction-markets-625d21e7?mod=rss_markets_main",
+      "summary": "The investment bank will serve as a broker, arranging block trades on everything from weather forecasts to iPhone sales.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-08-19T11:30:00+00:00"
     },
     {
       "title": "昭和100年記念貨幣の販売要領が公表されました【造幣局ホームページ】",
