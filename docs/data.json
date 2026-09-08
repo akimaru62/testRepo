@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T10:26:05.140351+00:00",
+  "generated_at": "2026-09-08T10:36:58.329123+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -136,6 +136,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-08T16:00:00+00:00"
+    },
+    {
+      "title": "U.S. Treasury Yields Rise, Dollar Falls in European Trade",
+      "link": "https://www.wsj.com/finance/jgb-futures-rise-as-yens-strength-seen-easing-inflationary-pressures-5eefc264?mod=rss_markets_main",
+      "summary": "U.S. Treasury yields rose, responding to higher oil prices and an increased likelihood of a rate hike next week following recent stronger-than-expected jobs data.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-08T10:34:00+00:00"
+    },
+    {
+      "title": "I’m a single 58-year-old veteran with $1.5 million in assets and a VA pension. Can I afford to retire?",
+      "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
+      "summary": "“I expect to receive at least $9,000 per month before federal and California state taxes.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-08T10:30:00+00:00"
     },
     {
       "title": "フーシ派、サウジのエネルギー施設攻撃　「大規模作戦」で稼働停止も―イエメン",
@@ -387,6 +403,14 @@
     },
     {
       "title": "Stock Market Today: Oil Nears $100, Stock Futures Sink",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-08-2026?mod=rss_markets_main",
+      "summary": "Brent crude climbs after reports of Houthi attacks on Saudi Arabia",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-08T08:42:02+00:00"
+    },
+    {
+      "title": "Stock Market Today: Oil Nears $100, Dow Futures Dip",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-08-2026?mod=rss_markets_main",
       "summary": "Brent crude climbs after reports of Houthi attacks on Saudi Arabia",
       "source": "WSJ マーケット",
