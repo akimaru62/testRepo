@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T22:47:56.999442+00:00",
+  "generated_at": "2026-09-08T23:07:02.199036+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -130,9 +130,29 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f88cca052b0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "メタが自律型AI｢ミューズ｣の提供を開始､社内からは｢個人情報へのアクセス管理に問題がある｣との声も | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957396?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "交流サイト（SNS）の「フェイスブック」や「インスタグラム」を運営する米メタ・プラットフォームズは8日、ユーザーに代わってメール送信や旅行予約などを自律的にこなす人工知能（AI）アシスタント「ミュー…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-08T23:00:00+00:00"
+    },
+    {
+      "title": "朝ドラ『風､薫る』直美のモデル《鈴木雅》がまさかの事故に…\"アメリカ留学の夢を断念\"した雅の｢その後｣ | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/956887?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "朝ドラ｢風､薫る｣のヒロイン直美。モデルの鈴木雅はアメリカ留学を決意しますが､まさかの不慮の事故に。その後の雅の人生とは？",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-08T23:00:00+00:00"
+    },
     {
       "title": "クアルコム､アマゾンとAI半導体で提携…長期的な提携の下で最大600億ドル相当を供給へ | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/957397?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -340,6 +360,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-08T21:06:00+00:00"
+    },
+    {
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "link": "https://mathstodon.xyz/@tao/117237320796901560",
+      "summary": "Article URL: https://mathstodon.xyz/@tao/117237320796901560\nComments URL: https://news.ycombinator.com/item?id=49616968\nPoints: 10\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T21:00:52+00:00"
     },
     {
       "title": "日本国債の10年物金利が30年ぶりに3％に到達､実質金利とインフレ以外の｢タームプレミアム｣拡大が金利上昇に最も寄与 | 政治・経済・投資 | 東洋経済オンライン",
