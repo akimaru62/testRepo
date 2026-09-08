@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T13:26:17.973562+00:00",
+  "generated_at": "2026-09-08T13:37:31.218698+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -126,6 +126,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f88cca052b0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -786,6 +790,14 @@
       "published": "2026-09-08T08:42:02+00:00"
     },
     {
+      "title": "Stock Market Today: Oil Nears $100, Dow Dips",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-08-2026?mod=rss_markets_main",
+      "summary": "Brent crude climbs after reports of Houthi attacks on Saudi Arabia",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-08T08:42:02+00:00"
+    },
+    {
       "title": "Gold Falls as Investors Await U.S. Inflation Data",
       "link": "https://www.wsj.com/finance/commodities-futures/in-gold-the-bulls-are-everywhere-8ee642ee?mod=rss_markets_main",
       "summary": "Gold prices fell despite a weaker dollar as investors waited for U.S. inflation data for more cues on the Federal Reserve’s decision on interest rates.",
@@ -872,6 +884,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-08T08:22:31+00:00"
+    },
+    {
+      "title": "9B1.DEU - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVnVWMlVlaHc5UUxUNkM5UTdidC1iUTFWVUdNdVA2ajFWYlBVMjRTVkZ0S3Q4dEFOeS10SkdKazllU1lrb1F6VXROUEV0T1dEVVFLMGZnY2lKbjc0ZVR6QUJjUm1sS2VEOUxtWW1VWFNoVE91bkhqNXptNTlPdDJiakdweXZ4Y0E?oc=5",
+      "summary": "9B1.DEU - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-08T08:16:12+00:00"
     },
     {
       "title": "Crypto platforms have lost over $3.63 billion to cyberattacks — even though most of them did security checks",
