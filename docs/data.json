@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T23:33:36.770702+00:00",
+  "generated_at": "2026-09-08T23:47:50.142511+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -137,6 +137,22 @@
     }
   ],
   "items": [
+    {
+      "title": "US bans Canadian dairy, motorcycles and most alcoholic beverages",
+      "link": "https://www.ft.com/content/639d8eac-fd8c-4557-a852-f826501681ad?syn-25a6b1a6=1",
+      "summary": "Trump administration announces move day after Ottawa imposed US$20bn in retaliatory tariffs on US goods",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-08T23:32:32+00:00"
+    },
+    {
+      "title": "｢幸せは人生の目的なのか｣ダーウィンの進化論を知れば今の人生が楽になる不思議　約2300年の思い込みを覆す最新研究 | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/954776?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢幸せ｣は本当に人生の究極の目的なのでしょうか。私たちが無意識に信じてきた幸福論は､実は哲学者アリストテレスの目的論に根ざした一つの見解に過ぎません。進化論の視点で世界を見直せば､人間と幸福の本質は…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-08T23:30:00+00:00"
+    },
     {
       "title": "米ロ首脳がウクライナ協議　特使訪問「肯定的に評価」",
       "link": "https://www.jiji.com/jc/article?k=2026090900228&g=int&m=rss",
@@ -290,6 +306,14 @@
       "published": "2026-09-08T21:47:38+00:00"
     },
     {
+      "title": "Large language models develop novel social biases through adaptive exploration",
+      "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+      "summary": "Article URL: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH\nComments URL: https://news.ycombinator.com/item?id=49617581\nPoints: 57\n# Comments: 21",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T21:47:38+00:00"
+    },
+    {
       "title": "How one hedge-fund manager built his firm to be powered entirely by AI agents",
       "link": "https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html",
       "summary": "It's a stark example of a growing reality on Wall Street as firms test the benefits and limits of AI in finance and on their employees.",
@@ -349,6 +373,14 @@
       "title": "How to Build a Printer",
       "link": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
       "summary": "Article URL: https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/\nComments URL: https://news.ycombinator.com/item?id=49617255\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T21:22:11+00:00"
+    },
+    {
+      "title": "How to build a printer",
+      "link": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+      "summary": "Article URL: https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/\nComments URL: https://news.ycombinator.com/item?id=49617255\nPoints: 61\n# Comments: 5",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-08T21:22:11+00:00"
@@ -1082,6 +1114,14 @@
       "published": "2026-09-08T16:43:55+00:00"
     },
     {
+      "title": "Connecting the machines",
+      "link": "https://herdr.dev/blog/connecting-the-machines/",
+      "summary": "Article URL: https://herdr.dev/blog/connecting-the-machines/\nComments URL: https://news.ycombinator.com/item?id=49612818\nPoints: 71\n# Comments: 24",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T16:43:55+00:00"
+    },
+    {
       "title": "SpaceX’s stock could jump 43% — if the company is able to accomplish this engineering feat",
       "link": "https://www.marketwatch.com/story/spacexs-stock-could-jump-43-if-the-company-is-able-to-accomplish-this-engineering-feat-e178ed39?mod=mw_rss_topstories",
       "summary": "Failing to successfully scale the Starship rocket would make SpaceX’s plans a lot more difficult.",
@@ -1173,6 +1213,14 @@
       "title": "C*: Unifying Programming and Verification in C",
       "link": "https://arxiv.org/abs/2504.02246",
       "summary": "Article URL: https://arxiv.org/abs/2504.02246\nComments URL: https://news.ycombinator.com/item?id=49612191\nPoints: 6\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T15:56:56+00:00"
+    },
+    {
+      "title": "C*: Unifying Programming and Verification in C (2025)",
+      "link": "https://arxiv.org/abs/2504.02246",
+      "summary": "Article URL: https://arxiv.org/abs/2504.02246\nComments URL: https://news.ycombinator.com/item?id=49612191\nPoints: 67\n# Comments: 40",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-08T15:56:56+00:00"
@@ -6472,6 +6520,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-07T07:33:00+00:00"
+    },
+    {
+      "title": "韓国年金基金が為替ヘッジ停止、ウォン2年ぶり高値で＝関係筋 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Ick01bHhrYWJfRTJ0M2l5RW1xOEEzSWd5aWNKZTNQUnhJamROeVdxY3ZXUVZzLXltODlwR2x1N1IyZmZxZmN1VXFDUVIydF9IY0dUeThwS2JHeTlmWTZjMERiX2c3UkNDWG5yT1o0SkdxZzJob3BLNw?oc=5",
+      "summary": "韓国年金基金が為替ヘッジ停止、ウォン2年ぶり高値で＝関係筋&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-07T07:30:08+00:00"
     },
     {
       "title": "Eurozone Bond Yields Open Higher, Thursday’s ECB Decision in Focus",
