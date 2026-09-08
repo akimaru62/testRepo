@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T06:13:22.318800+00:00",
+  "generated_at": "2026-09-08T06:41:45.428573+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -130,12 +130,36 @@
   ],
   "items": [
     {
+      "title": "U.S. Treasury Yields Edge Lower in Asian Trade",
+      "link": "https://www.wsj.com/finance/jgb-futures-rise-as-yens-strength-seen-easing-inflationary-pressures-5eefc264?mod=rss_markets_main",
+      "summary": "Treasury yields edge lower in Asian trade, shrugging off a slight increase in oil prices, as investors wait for Friday’s CPI reading.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-08T06:25:00+00:00"
+    },
+    {
+      "title": "5年利付国債（第187回）の第II非価格競争入札結果（令和8年9月8日入札）",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260908a.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-09-08T06:15:00+00:00"
+    },
+    {
       "title": "アジア大会、北朝鮮選手団の入国容認へ　日本政府調整",
       "link": "https://www.jiji.com/jc/article?k=2026090800561&g=pol&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-08T06:13:17.795334+00:00"
+    },
+    {
+      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "link": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "summary": "Article URL: https://cims.nyu.edu/~tristanb/statement.pdf\nComments URL: https://news.ycombinator.com/item?id=49605915\nPoints: 40\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T05:42:28+00:00"
     },
     {
       "title": "秋篠宮ご夫妻、ノルウェー出発　前国王の葬儀に参列",
@@ -152,6 +176,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-08T05:25:10.258562+00:00"
+    },
+    {
+      "title": "Multi-Agents LLM Financial Trading Framework",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "summary": "Article URL: https://github.com/TauricResearch/TradingAgents\nComments URL: https://news.ycombinator.com/item?id=49605822\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T05:20:23+00:00"
     },
     {
       "title": "My Feed, My Way",
@@ -568,6 +600,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-08T02:36:47+00:00"
+    },
+    {
+      "title": "コラム：米財務長官の「リフレ政策をやめろ」発言をどう受け取るか＝熊野英生氏 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNUZZMnBlVkcyT1VRcEI2OWZsQzVpdmVFWVRXX04zekZsVkNYUlJGWFBLQ3VZNnZ6Z3hEQ1ZPbm5tRi1LWlVDdWFpeDJobzdlaUlUUHI0MGhOaGhNeFJ2TWhFSzNiZjlxUXUzQ2ZrSUVVMU05SUZkbGRPVVVHalZIUHg0QXd6UTlz?oc=5",
+      "summary": "コラム：米財務長官の「リフレ政策をやめろ」発言をどう受け取るか＝熊野英生氏&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-08T02:35:00+00:00"
     },
     {
       "title": "景気拡大 円安と物価高で実感薄く",
