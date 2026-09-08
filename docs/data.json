@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T15:08:21.401962+00:00",
+  "generated_at": "2026-09-08T15:26:32.319686+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -142,12 +142,76 @@
       "published": "2026-09-08T16:00:00+00:00"
     },
     {
+      "title": "１０月にハイチと初対戦　なでしこジャパン",
+      "link": "https://www.jiji.com/jc/article?k=2026090801101&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-08T15:26:28.135833+00:00"
+    },
+    {
+      "title": "ロッテの山口、またサヨナラ打　プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026090801093&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-08T15:26:28.135816+00:00"
+    },
+    {
+      "title": "米ロ首脳がウクライナ情勢協議",
+      "link": "https://www.jiji.com/jc/article?k=2026090801128&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-08T15:26:28.135780+00:00"
+    },
+    {
+      "title": "Intel’s stock is rising as the company looks primed to boost prices even more",
+      "link": "https://www.marketwatch.com/story/intels-stock-is-rising-as-the-company-looks-primed-to-boost-prices-even-more-8b8dfc99?mod=mw_rss_topstories",
+      "summary": "The chip maker is reportedly set to further lift prices on its PC chips as costs rise across the supply chain.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-08T15:20:00+00:00"
+    },
+    {
+      "title": "Disappointed Optimists",
+      "link": "https://cwodtke.com/disappointed-optimists/",
+      "summary": "Article URL: https://cwodtke.com/disappointed-optimists/\nComments URL: https://news.ycombinator.com/item?id=49611549\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T15:13:56+00:00"
+    },
+    {
+      "title": "Reverse engineering the 2008 LogiCola, a logic drill program",
+      "link": "https://logicola.org/blog/the-new-logicola",
+      "summary": "Article URL: https://logicola.org/blog/the-new-logicola\nComments URL: https://news.ycombinator.com/item?id=49611329\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T15:00:43+00:00"
+    },
+    {
+      "title": "Google DeepMind Releases AlphaGenome Atlas",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/\nComments URL: https://news.ycombinator.com/item?id=49611251\nPoints: 27\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T14:55:45+00:00"
+    },
+    {
       "title": "Dow Dips, Oil Nears $100",
       "link": "https://www.wsj.com/finance/commodities-futures/u-s-stock-futures-treasurys-weaken-as-brent-nears-100-c29efc2f?mod=rss_markets_main",
       "summary": "U.S. stock indexes started the week lower as rising oil prices added to investor anxiety.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-08T14:55:00+00:00"
+    },
+    {
+      "title": "ZX Spectrum: Experimenting with 1-Bit Sound",
+      "link": "https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/",
+      "summary": "Article URL: https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/\nComments URL: https://news.ycombinator.com/item?id=49611230\nPoints: 14\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T14:54:29+00:00"
     },
     {
       "title": "Oracle’s stock gets a boost as the OpenAI ecosystem comes back into favor",
@@ -158,12 +222,36 @@
       "published": "2026-09-08T14:53:00+00:00"
     },
     {
+      "title": "How Climate Resilient Are the Largest Cities?",
+      "link": "https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/",
+      "summary": "Article URL: https://alphageo.ai/how-climate-resilient-are-the-worlds-largest-cities/\nComments URL: https://news.ycombinator.com/item?id=49611132\nPoints: 15\n# Comments: 10",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T14:49:39+00:00"
+    },
+    {
       "title": "Gold Futures Slip With Market of Two Minds",
       "link": "https://www.wsj.com/finance/commodities-futures/in-gold-the-bulls-are-everywhere-8ee642ee?mod=rss_markets_main",
       "summary": "Gold futures were lower with the market watching a rise in oil prices and for U.S. inflation data later this week.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-08T14:45:00+00:00"
+    },
+    {
+      "title": "The two Christian saints who are the Buddha",
+      "link": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
+      "summary": "Article URL: https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/\nComments URL: https://news.ycombinator.com/item?id=49611051\nPoints: 25\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T14:44:25+00:00"
+    },
+    {
+      "title": "DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits",
+      "link": "https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/",
+      "summary": "Article URL: https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/\nComments URL: https://news.ycombinator.com/item?id=49610988\nPoints: 47\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T14:40:30+00:00"
     },
     {
       "title": "Copper Scales New Heights on U.S. Tariff Fears, Supply Challenges",
@@ -180,6 +268,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-08T14:35:58+00:00"
+    },
+    {
+      "title": "Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger",
+      "link": "https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/",
+      "summary": "Article URL: https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/\nComments URL: https://news.ycombinator.com/item?id=49610900\nPoints: 33\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T14:33:52+00:00"
     },
     {
       "title": "ユダヤ人入植地からの輸入禁止　英仏加など１２カ国、米イスラエル反発必至",
@@ -228,6 +324,22 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-08T14:17:00+00:00"
+    },
+    {
+      "title": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
+      "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "summary": "Article URL: https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/\nComments URL: https://news.ycombinator.com/item?id=49610641\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T14:14:15+00:00"
+    },
+    {
+      "title": "I-have-ADHD: A skill to stop your coding agent from burying the answer",
+      "link": "https://github.com/ayghri/i-have-adhd",
+      "summary": "Article URL: https://github.com/ayghri/i-have-adhd\nComments URL: https://news.ycombinator.com/item?id=49610631\nPoints: 7\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T14:13:26+00:00"
     },
     {
       "title": "Prenups aren’t just for the rich. Here’s what they can cover.",
@@ -412,6 +524,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-08T12:50:00+00:00"
+    },
+    {
+      "title": "HQE.F - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lUlFKY2g5WmR6Y3pXZ2FaQ2xrdHlWdHI1MVZGT01ZaElkV0NWRm5pYlNMWTkyTnV0OWp5a3Z2eVZ1OS1MWVV5OW00eUhuRlN2N3BiQ21GeWNIN1prX3BmRGQ2bHhlaVE5NDh3M001WFM2cFk5WjN0RXBaQlFyZw?oc=5",
+      "summary": "HQE.F&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-08T12:41:45+00:00"
     },
     {
       "title": "infy.n - Reuters",
