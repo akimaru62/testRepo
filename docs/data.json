@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T05:47:24.469572+00:00",
+  "generated_at": "2026-09-08T06:13:22.318800+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -130,6 +130,14 @@
   ],
   "items": [
     {
+      "title": "アジア大会、北朝鮮選手団の入国容認へ　日本政府調整",
+      "link": "https://www.jiji.com/jc/article?k=2026090800561&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-08T06:13:17.795334+00:00"
+    },
+    {
       "title": "秋篠宮ご夫妻、ノルウェー出発　前国王の葬儀に参列",
       "link": "https://www.jiji.com/jc/article?k=2026090800054&g=soc&m=rss",
       "summary": "",
@@ -160,6 +168,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-08T05:09:00+00:00"
+    },
+    {
+      "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+      "link": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "summary": "Article URL: https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/\nComments URL: https://news.ycombinator.com/item?id=49605767\nPoints: 12\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T05:06:23+00:00"
     },
     {
       "title": "Mistral raises record €3bn as Europe strains to keep pace in AI race",
@@ -1160,6 +1176,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-07T22:19:32+00:00"
+    },
+    {
+      "title": "アングル：ウクライナ首都に昼夜問わないドローン攻撃、厳しさ増す市民生活 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaTIxNUd3WExJeWNZZENDT2ZBQzduRE1KRjVOSi1OeWdaQVhjeUpmZE9sLWxGVHhTaG5jZ1ZnYkJtZkdqZTlmQ1ZUSkdqcDRFQXVCOXZqMTlWVjJxUjJPVEh2eXdlZ1kydHFuMUJTQ3BpcDVpVlk0ZTNpTXBuQkIydQ?oc=5",
+      "summary": "アングル：ウクライナ首都に昼夜問わないドローン攻撃、厳しさ増す市民生活&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-07T22:16:00+00:00"
     },
     {
       "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
