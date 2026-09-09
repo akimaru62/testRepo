@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T21:33:36.646211+00:00",
+  "generated_at": "2026-09-09T21:47:46.026957+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -154,12 +154,36 @@
   ],
   "items": [
     {
+      "title": "アップルが初の折り畳み式iPhone｢Duo｣を発表…日本での価格は36万4800円から | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957528?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "アップル初の折り畳み式スマートフォン｢iPhone Duo｣がついに発表されました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-09T21:40:00+00:00"
+    },
+    {
+      "title": "Testing application resilience with Amazon SQS and AWS Fault Injection Service",
+      "link": "https://aws.amazon.com/blogs/architecture/testing-application-resilience-with-amazon-sqs-and-aws-fault-injection-service/",
+      "summary": "Learn how to use AWS Fault Injection Service and AWS Systems Manager Automation to run progressive chaos experiments against Amazon SQS queues. Validate that your retry logic, circuit breakers, and dead-letter queues actually work under failure before a real outage hits production.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-09-09T21:33:59+00:00"
+    },
+    {
       "title": "ハーゲンダッツも冷食も《200種食べ放題》コーヒーやお茶も｢飲み放題｣！…2500円で楽しめる｢夢のスポット｣行ってきた  | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/957331?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "150種類の冷凍食品と50種類のアイスが90分食べ放題！…果たしてどれだけ食べられるか？元は取れるのか？　普段買う冷凍食品は定番ばかりで､新商品は未開拓だった筆者が訪れてみました。",
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-09T21:30:00+00:00"
+    },
+    {
+      "title": "Drone almost struck Zelenskyy’s plane, says Ukraine",
+      "link": "https://www.ft.com/content/4fc1dc2e-f0d7-433c-8e96-bc1e8923dcbc?syn-25a6b1a6=1",
+      "summary": "Official travelling with Ukrainian president says they believe a Russian weapon was used",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-09T21:24:32+00:00"
     },
     {
       "title": "高野山の宿坊 集団申告漏れ指摘",
@@ -334,6 +358,14 @@
       "link": "https://toyokeizai.net/articles/-/956376?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "戦後､鹿児島に誕生した中高一貫のラ･サール高校は､数々のリーダーを輩出してきました。後編では政治家や企業家として活躍する卒業生を紹介します。",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-09T21:00:00+00:00"
+    },
+    {
+      "title": "飲食店の倒産が過去最多ペース　8月は80件、なぜ？",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/10/news014.html",
+      "summary": "東京商工リサーチは、「飲食業」倒産動向調査を実施した。その結果……。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-09-09T21:00:00+00:00"
     },
