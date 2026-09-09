@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T18:29:59.796258+00:00",
+  "generated_at": "2026-09-09T18:43:43.231256+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -162,12 +162,44 @@
       "published": "2026-09-09T18:22:29+00:00"
     },
     {
+      "title": "Apple Unveils iPhone Duo",
+      "link": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/\nComments URL: https://news.ycombinator.com/item?id=49630964\nPoints: 30\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T18:17:06+00:00"
+    },
+    {
+      "title": "iPhone Duo",
+      "link": "https://www.apple.com/iphone-duo/",
+      "summary": "Article URL: https://www.apple.com/iphone-duo/\nComments URL: https://news.ycombinator.com/item?id=49630931\nPoints: 177\n# Comments: 146",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T18:15:43+00:00"
+    },
+    {
       "title": "令和８年台風第24号及び前線による大雨に伴う災害等に対する金融上の措置について更新しました。",
       "link": "https://www.fsa.go.jp/news/r8/ginkou/20260907.html",
       "summary": "",
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-09T18:00:00+00:00"
+    },
+    {
+      "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+      "link": "https://github.com/OtoDock/oto-dock",
+      "summary": "Hi HN, I am Dimitris. \nThis is a company OS that I built and use to run my business and anyone can install it and self host it for free. Think of it as Claude Code, Cowork and the cloud sessions in one self hosted application.It is a Multi-tenant application by design where many people can collaborate on the company agents with 4 different modes of collaboration, and it runs with your Anthropic or OpenAi subscription or even with local models.Every agent can run on Claude Code or Codex CLI running as a persistent process on your server in a kernel sandbox (bubblewrap) with network isolation always on (pasta), with its own workspace, memory, schedules and tools. The same agents can also be configured to run identical on any remote computer through one outbound WebSocket (no inbound ports, no VPN needed).The agent already have lots of built in features, as an example they can answer and place phone calls through Twilio or your own Asterisk, they can edit videos and excel, word, ppt files and preview them directly inside the chat with collabora and many more.Trying it is one install script and a docker compose, no signup. The license is Fair Source, all the code is public and self hosting is free up to 5 users. 1.6.0 went out today.AI Disclaimer: large parts of OtoDock are written using OtoDock itself, running Claude Code.I would love people to read the code, take a look in the sandbox model, and tell me what would stop you from running this on your own hardware.GitHub: https://github.com/OtoDock/oto-dock\nWebsite: https://otodock.io\n\nComments URL: https://news.ycombinator.com/item?id=49630606\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T17:57:55+00:00"
+    },
+    {
+      "title": "Apple Watch Series 12",
+      "link": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/\nComments URL: https://news.ycombinator.com/item?id=49630566\nPoints: 69\n# Comments: 35",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T17:56:17+00:00"
     },
     {
       "title": "Apple raises iPhone prices ahead of foldable device launch",
@@ -226,12 +258,28 @@
       "published": "2026-09-09T17:22:09.643369+00:00"
     },
     {
+      "title": "My Mental Model of AI Broke on September 8",
+      "link": "https://rough-ideas.bearblog.dev/my-mental-model-of-ai-broke-on-september-8/",
+      "summary": "Article URL: https://rough-ideas.bearblog.dev/my-mental-model-of-ai-broke-on-september-8/\nComments URL: https://news.ycombinator.com/item?id=49629935\nPoints: 20\n# Comments: 18",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T17:18:29+00:00"
+    },
+    {
       "title": "Growing proof that autonomous cars save lives",
       "link": "https://spectrum.ieee.org/are-self-driving-cars-safe",
       "summary": "Article URL: https://spectrum.ieee.org/are-self-driving-cars-safe\nComments URL: https://news.ycombinator.com/item?id=49629886\nPoints: 13\n# Comments: 3",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-09T17:14:59+00:00"
+    },
+    {
+      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+      "link": "https://academy.dair.ai/papers/procedural-graphs-self-evolving-execution-structures-for-llm-agents-2609.09153",
+      "summary": "Article URL: https://academy.dair.ai/papers/procedural-graphs-self-evolving-execution-structures-for-llm-agents-2609.09153\nComments URL: https://news.ycombinator.com/item?id=49629868\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T17:13:52+00:00"
     },
     {
       "title": "Why Emacs Consult async searches feel slow and how to speed them up",
@@ -2880,6 +2928,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-09T00:37:00+00:00"
+    },
+    {
+      "title": "ノバルティス、新薬治験の失敗重なる 開発計画とＣＥＯに重圧 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaVh6LTRFb0ZQejlMdXhCdlMwdWlWbHZpUkRXNy10cjZJVGQ5bDFscWxva3VsQ05ydko2WUNlLTNUMHc0RUZDcF8wdjdabm1MZ1BtV3BvcHFCWVdkTC1pTnJFMUtIcXRvS0JlN01EUm4wY3ZkbkR3NlNiR1RiTng5ZA?oc=5",
+      "summary": "ノバルティス、新薬治験の失敗重なる 開発計画とＣＥＯに重圧&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T00:35:00+00:00"
     },
     {
       "title": "｢＋2℃時代｣はもう始まっている…酷暑が常態化する\"日本の夏\"　生産､物流､価格や｢食卓への影響｣は？ | ライフ | 東洋経済オンライン",
