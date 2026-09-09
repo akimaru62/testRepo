@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T20:47:38.944220+00:00",
+  "generated_at": "2026-09-09T21:06:25.218047+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -154,6 +154,150 @@
   ],
   "items": [
     {
+      "title": "Validating multi-Region DR for Terraform Enterprise with AWS FIS",
+      "link": "https://aws.amazon.com/blogs/architecture/validating-multi-region-dr-for-terraform-enterprise-with-aws-fis/",
+      "summary": "Learn how AWS, HashiCorp, and Athenahealth designed and chaos-tested a multi-Region disaster recovery strategy for Terraform Enterprise on AWS. This post walks through three-phase AWS Fault Injection Service experiments across Amazon EC2, Aurora, and Amazon S3, the 12-14 minute recovery times achieved, and the state file dependency pitfall to avoid.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-09-09T21:05:02+00:00"
+    },
+    {
+      "title": "くら寿司｢2期連続減益見込み｣と業績が停滞する中で起きた｢ちいかわコラボ中止｣という誤算 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957515?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "9月6日と7日､くら寿司の店頭には､｢早期終了｣のお詫びの告知が掲げられていました。打ち切りとなった｢ちいかわ｣コラボ。客数の伸び悩みに直面するくら寿司にとって､今回の事態が持つ意味とは。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-09T21:00:00+00:00"
+    },
+    {
+      "title": "〈波紋〉くら寿司の｢ちいかわコラボ中止｣騒動､9月実施｢1皿110円への値下げ｣効果も帳消しになりかねない事態 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957506?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "大手回転ずしチェーン「くら寿司」は9月5日、人気漫画「ちいかわ」とのコラボキャンペーンを中止すると発表した。今回で4年連続4回目となった今年のちいかわコラボは8月21日から開始。9月末までを予定して…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-09T21:00:00+00:00"
+    },
+    {
+      "title": "J－POWER･加藤社長に緊迫するエネルギー情勢下の電力供給を直撃 ｢石炭火力の重要性増し､脱炭素はスピード調整も｣ | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957462?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "──現在のエネルギー情勢をどう捉えていますか。アメリカとイランの戦争が長期化し、先行きが見通せない状況が続いている。ホルムズ海峡の封鎖による影響はとりわけ日本を含むアジア諸国で大きく、エネルギー源の…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-09T21:00:00+00:00"
+    },
+    {
+      "title": "｢約2万人流出｣を明かしたのは委託元だった…ライザップの\"シャドーAI\"による情報漏洩で露呈した不透明な対応 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957435?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "RIZAPグループで発生したシャドーAIによる個人情報流出は､約2万人分の健康データを含みながら全体像がいまだ明かされていません。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-09T21:00:00+00:00"
+    },
+    {
+      "title": "極右台頭のヨーロッパが抱える真の危機―単なる｢反移民｣を超えた｢欧州らしさ｣の空洞化と歴史観の再構築 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957427?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "欧州各国で極右政党が台頭し､｢ヨーロッパがヨーロッパでなくなる｣という危機感が広がっています。移民問題だけでは語れません。極右政党の台頭の本質とは何でしょうか。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-09T21:00:00+00:00"
+    },
+    {
+      "title": "金融庁銀行第二課長が｢地銀｣に迫る人口減少時代の経営改革…利上げの追い風が吹く今こそ､預金が細る将来に備えよ | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957343?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "――早期警戒制度は2019年にも「将来にわたる収益性と健全性の確保」という目線を導入しています。なぜ、いま再び見直す必要があったのでしょうか。もともと早期警戒制度は、ある一時点のデータに基づいて金融…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-09T21:00:00+00:00"
+    },
+    {
+      "title": "中国のロボット産業を｢バブル｣と笑ってはいけないが…過酷な競争が変わらず､EVの時と同じ過剰生産に陥る構造 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957302?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "北京で開催された世界ロボット大会では､急速な成長を遂げる中国ロボット産業の最前線とともに､同質化やバブルの懸念､サプライチェーン強靭化の明暗が浮き彫りに。はたして､過酷な競争がもたらす未来とは何か——",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-09T21:00:00+00:00"
+    },
+    {
+      "title": "オルツ不正会計､見逃した監査法人シドーに懲戒処分､会計士協会の過去調査｢重要な不備事項なし｣で問われる監督機能 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957175?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "オルツの不正会計をめぐり、日本公認会計士協会は、9月2日、監査法人シドーと同事務所の公認会計士2名の懲戒処分を公表した。具体的には、シドーには協会の会員に与えられた権利の3カ月停止、オルツの監査報告…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-09T21:00:00+00:00"
+    },
+    {
+      "title": "無料見逃し配信｢TVer｣が､テレビを見ない若年層にも支持される理由…右肩上がりの高成長に死角はあるか | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957101?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "『VIVANT（2026）』（TBSテレビ）の第1話が、歴代最高の887万再生を記録――。8月初め、民放各社による無料見逃し配信の「TVer」が、威勢のいいリリースを発表した。7月26日の地上波放送…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-09T21:00:00+00:00"
+    },
+    {
+      "title": "新薬開発数は日本の約3倍…新薬の源泉地となった中国製薬企業品を欧米のメガファーマが\"爆買い\"へ | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957096?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "新薬の開発現場で急速に存在感を増す中国製薬企業。かつては後発薬中心だったその姿は､近年の技術革新と世界的な資本流入によって大きく変貌しています。米欧のメガファーマもシーズ獲得に動き､日本企業は今､危…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-09T21:00:00+00:00"
+    },
+    {
+      "title": "ネトフリなどの配信事業者｢共存関係になれる｣｢必ずしも対立してない｣ 民放連･早河会長が語るテレビ未来図（前編） | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/956569?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ネット動画配信の普及により､映像コンテンツでテレビが圧倒的な存在だった時代は過去になりつつあります。動画配信事業者との関係やユニバーサルアクセス権の是非､世界を視野に入れたコンテンツの可能性まで､民…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-09T21:00:00+00:00"
+    },
+    {
+      "title": "【ラ･サール高校】政経編 時代を刻んだ卒業生ファイル#8《ラサール石井､前外相の岩屋毅､ANA HD会長･片野坂真哉》 | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/956376?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "戦後､鹿児島に誕生した中高一貫のラ･サール高校は､数々のリーダーを輩出してきました。後編では政治家や企業家として活躍する卒業生を紹介します。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-09T21:00:00+00:00"
+    },
+    {
+      "title": "Bessent’s Latest Buyback Move Leaves Investors Wanting More",
+      "link": "https://www.wsj.com/finance/investing/bessents-latest-buyback-move-leaves-investors-wanting-more-82d0268b?mod=rss_markets_main",
+      "summary": "Yields climb to fresh multiyear highs after the Treasury Department said it would buy back $6 billion of longer-term debt.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-09T20:55:00+00:00"
+    },
+    {
+      "title": "Texas Stock Exchange Is Close to Winning Its First Major Listing From New York",
+      "link": "https://www.wsj.com/finance/stocks/texas-stock-exchange-is-close-to-winning-its-first-major-listing-from-new-york-569c0339?mod=rss_markets_main",
+      "summary": "Kelcy Warren’s Energy Transfer is preparing to move its primary listing to the nascent exchange.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-09T20:51:00+00:00"
+    },
+    {
+      "title": "〈匿名座談会〉政治家に動画で出し抜かれる屈辱…かつての花形･政治部で進む変質､企業向け配信と生存戦略のリアル | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/956871?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "SNSの普及や新型コロナ禍などにより､かつてマスコミの花形ともいわれた政治部の記者たちの現場が激変しているようです。永田町の住人である現役の記者､キャップ､デスクたちに､令和の政治部の実態を｢匿名座…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-09T20:50:00+00:00"
+    },
+    {
+      "title": "Top US official named to OpenAI non-profit board warns advanced AI could be ‘deadly’",
+      "link": "https://www.ft.com/content/d73e188f-b906-42ec-8b91-db9729c9d2d9?syn-25a6b1a6=1",
+      "summary": "Paul Christiano says technology could ‘kill most people’ without stronger safety features",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-09T20:47:08+00:00"
+    },
+    {
+      "title": "NHK『税金で買った本』のモデルとなった《全国2位の大学図書館》が話題…日本中に\"すごい図書館\"が増殖中のなぜ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957025?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "図書館を舞台にした異色のドラマ『税金で買った本』（NHK総合）がスタートしました。身近な存在である｢図書館｣。近年､その\"憩いの場\"が大きな変化を遂げています。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-09T20:45:00+00:00"
+    },
+    {
       "title": "熱海の｢入場無料｣昭和レトロ施設《売上が4倍》のカラクリ…\"稼ぎ頭\"は売上1位の喫茶ではなく｢1回100円｣のゲームだった | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/956279?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "熱海の絶景を望む高台に､入場無料で連日賑わう｢展望レトロ喫茶 桃山館｣があります。昭和の空気漂う喫茶やゲーム､縁日がなぜZ世代からシニアまでを惹きつけ､売り上げを以前の施設の4倍以上に伸ばせたのか。…",
@@ -166,6 +310,14 @@
       "link": "https://toyokeizai.net/articles/-/956278?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "熱海駅裏の急坂を登った先にある､行列の絶えない｢展望レトロ喫茶 桃山館｣。昭和〜平成の懐かしい空間や縁日､こだわりのグルメが幅広い世代を魅了しています。なぜ入場無料の施設がここまで賑わうのか？秘密を…",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-09T20:30:00+00:00"
+    },
+    {
+      "title": "「半導体関連メーカー」の2025年度売上高、過去5年で最高に　売り上げトップの企業は？",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/10/news038.html",
+      "summary": "生成AIやデータセンター向け需要の拡大を背景に、国内の半導体関連メーカーの業績が伸びている。東京商工リサーチが調査した。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-09-09T20:30:00+00:00"
     },
