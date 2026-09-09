@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T21:06:25.218047+00:00",
+  "generated_at": "2026-09-09T21:21:11.900077+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -153,6 +153,62 @@
     }
   ],
   "items": [
+    {
+      "title": "官房長官「教育水準示した」　国際学力調査",
+      "link": "https://www.jiji.com/jc/article?k=2026090900927&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-09T21:21:05.646050+00:00"
+    },
+    {
+      "title": "首相動静（９月９日）",
+      "link": "https://www.jiji.com/jc/article?k=2026090900253&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-09T21:21:05.646020+00:00"
+    },
+    {
+      "title": "米新興企業、長射程ミサイル量産へ　独・イスラエル工場でも",
+      "link": "https://www.jiji.com/jc/article?k=2026091000141&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-09T21:21:05.645978+00:00"
+    },
+    {
+      "title": "The bull market’s biggest enemy right now could be Bessent’s interventions",
+      "link": "https://www.marketwatch.com/story/the-bull-markets-biggest-enemy-right-now-could-be-bessents-interventions-134bbe78?mod=mw_rss_topstories",
+      "summary": "A stronger yen and higher Treasury yields could become a toxic combination for the bull market in stocks.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-09T21:17:00+00:00"
+    },
+    {
+      "title": "そりゃ人気が出るわけだ…Googleの超軽量バンドで《睡眠の質》可視化→使ってわかった｢ぐっすり眠るために必要なこと｣ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957232?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "自分ではなかなか気づけない｢睡眠の質｣や日々のコンディションを可視化してくれるスマートバンド｢Google Fitbit Air｣。\"肉体派ライター\"が徹底検証＆毎日のデータをもとに睡眠改善に取り組…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-09T21:15:00+00:00"
+    },
+    {
+      "title": "｢健康データ記録だけ｣で1万6800円なのに爆売れ！…わずか12g《Google新製品》2週間使ってわかった｢ちょっと残念｣な点 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957230?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢画面なし･時計なし･決済機能なし｣で｢健康データ記録｣に特化した新発想のスマートバンド『Google Fitbit Air』が爆売れしています。筆者が2週間かけて日々のランニングや筋トレをこなしな…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-09T21:15:00+00:00"
+    },
+    {
+      "title": "U.S. Stocks Fall as War Escalation, Oil Spike Continue",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-war-escalation-oil-spike-continues-8e83817c?mod=rss_markets_main",
+      "summary": "U.S. stocks extended their recent decline as the war in the Middle East continued to escalate and drive up oil prices.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-09T21:10:00+00:00"
+    },
     {
       "title": "Validating multi-Region DR for Terraform Enterprise with AWS FIS",
       "link": "https://aws.amazon.com/blogs/architecture/validating-multi-region-dr-for-terraform-enterprise-with-aws-fis/",
@@ -1016,6 +1072,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-09T15:10:39+00:00"
+    },
+    {
+      "title": "The curse of Jets fandom",
+      "link": "https://www.ft.com/content/ad209e95-c5f2-4031-b207-7abaafe75d43?syn-25a6b1a6=1",
+      "summary": "Supporting the least successful American professional sports team of the past 15 years requires dedication and tailgate parties",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-09T15:09:35+00:00"
     },
     {
       "title": "Show HN: Give your AI agent on-screen guides that show users where to click",
