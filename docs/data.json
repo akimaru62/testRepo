@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T21:21:11.900077+00:00",
+  "generated_at": "2026-09-09T21:33:36.646211+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -154,6 +154,22 @@
   ],
   "items": [
     {
+      "title": "ハーゲンダッツも冷食も《200種食べ放題》コーヒーやお茶も｢飲み放題｣！…2500円で楽しめる｢夢のスポット｣行ってきた  | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957331?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "150種類の冷凍食品と50種類のアイスが90分食べ放題！…果たしてどれだけ食べられるか？元は取れるのか？　普段買う冷凍食品は定番ばかりで､新商品は未開拓だった筆者が訪れてみました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-09T21:30:00+00:00"
+    },
+    {
+      "title": "高野山の宿坊 集団申告漏れ指摘",
+      "link": "https://news.yahoo.co.jp/pickup/6594798?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-09T21:22:26+00:00"
+    },
+    {
       "title": "官房長官「教育水準示した」　国際学力調査",
       "link": "https://www.jiji.com/jc/article?k=2026090900927&g=pol&m=rss",
       "summary": "",
@@ -176,6 +192,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-09T21:21:05.645978+00:00"
+    },
+    {
+      "title": "WSJ Dollar Index Falls 0.06% to 94.85",
+      "link": "https://www.wsj.com/finance/currencies/yen-strengthens-on-prospects-of-two-boj-rate-hikes-by-year-end-c56a9483?mod=rss_markets_main",
+      "summary": "The WSJ Dollar Index declined 0.1% — down for three consecutive trading days.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-09T21:20:00+00:00"
     },
     {
       "title": "The bull market’s biggest enemy right now could be Bessent’s interventions",
@@ -320,6 +344,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-09T20:55:00+00:00"
+    },
+    {
+      "title": "Amazon refused to give pregnant workers bathroom breaks",
+      "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/\nComments URL: https://news.ycombinator.com/item?id=49634095\nPoints: 27\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T20:52:24+00:00"
     },
     {
       "title": "Texas Stock Exchange Is Close to Winning Its First Major Listing From New York",
@@ -575,6 +607,14 @@
       "summary": "",
       "source": "金融庁",
       "category": "公的機関",
+      "published": "2026-09-09T18:00:00+00:00"
+    },
+    {
+      "title": "Two zones or three? A design framework for zone-resilient Azure workloads",
+      "link": "https://azure.microsoft.com/en-us/blog/two-zones-or-three-a-design-framework-for-zone-resilient-azure-workloads/",
+      "summary": "Zone resiliency isn't a single number you apply to a whole workload. The useful question isn't “how many zones?” but “how many zones does each component need to survive the loss of one?” Decide zone patterns component by component, use service-managed zone redundancy wherever it fits, and reserve three-zone designs for the components that genuinely require a third failure domain.\nThe post Two zones or three? A design framework for zone-resilient Azure workloads appeared first on Microsoft Azure Blog.",
+      "source": "Azure ブログ",
+      "category": "テクノロジー",
       "published": "2026-09-09T18:00:00+00:00"
     },
     {
