@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T07:36:54.399808+00:00",
+  "generated_at": "2026-09-09T07:48:09.238781+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -154,6 +154,38 @@
       "published": "2026-09-09T10:00:00+00:00"
     },
     {
+      "title": "Euro Firms on Dollar Weakness, Anticipated ECB Rate Hike",
+      "link": "https://www.wsj.com/finance/currencies/yen-strengthens-on-prospects-of-two-boj-rate-hikes-by-year-end-c56a9483?mod=rss_markets_main",
+      "summary": "The euro firmed against the dollar, driven by the dollar’s broader weakness and anticipation of an interest-rate hike by the European Central Bank on Thursday.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-09T07:43:00+00:00"
+    },
+    {
+      "title": "The ECB is virtually certain to hike rates Thursday. Here is why Wall Street is bracing for what comes next.",
+      "link": "https://www.marketwatch.com/story/the-ecb-is-virtually-certain-to-hike-rates-thursday-here-is-why-wall-street-is-bracing-for-what-comes-next-7ec46af0?mod=mw_rss_topstories",
+      "summary": "While nearly all observers anticipate a rate hike today, there is dissent among bond markets about the terminal rate for this tightening cycle from the ECB. Much depends on events in the Middle East and their impact on energy prices and inflation.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-09T07:42:00+00:00"
+    },
+    {
+      "title": "European Indexes Slide as Higher Oil Weighs on Defense Stocks, Banks",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-1-led-by-chip-related-stocks-c8902c64?mod=rss_markets_main",
+      "summary": "European indexes fell at the open as an escalation in U.S.-Iran tensions lifted oil and weighed on sentiment.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-09T07:39:00+00:00"
+    },
+    {
+      "title": "Oil Hits $100 for First Time Since July",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-09-2026?mod=rss_markets_main",
+      "summary": "Escalating conflict in Middle East stokes fears of supply disruptions",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-09T07:38:00+00:00"
+    },
+    {
       "title": "競泳銀メダリスト本多被告に有罪　１００キロ超で運転「危険で無謀」―東京地裁支部",
       "link": "https://www.jiji.com/jc/article?k=2026090900162&g=soc&m=rss",
       "summary": "",
@@ -200,6 +232,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-09T07:24:00+00:00"
+    },
+    {
+      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+      "link": "https://openai.com/index/codex-quantum-computing-experiments/",
+      "summary": "Article URL: https://openai.com/index/codex-quantum-computing-experiments/\nComments URL: https://news.ycombinator.com/item?id=49622561\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T07:22:46+00:00"
     },
     {
       "title": "「何としても解決したい」　担当警部、「時間の壁」痛感も―上智大生殺害３０年・警視庁",
@@ -250,6 +290,14 @@
       "published": "2026-09-09T07:14:00+00:00"
     },
     {
+      "title": "Sam Altman's statement on the Navier-Stokes dispute",
+      "link": "https://twitter.com/sama/status/2097385167002415140",
+      "summary": "Article URL: https://twitter.com/sama/status/2097385167002415140\nComments URL: https://news.ycombinator.com/item?id=49622377\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T07:04:58+00:00"
+    },
+    {
       "title": "コメ農家の廃業 過去最多ペース",
       "link": "https://news.yahoo.co.jp/pickup/6594753?source=rss",
       "summary": "",
@@ -272,6 +320,22 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-09T06:58:44+00:00"
+    },
+    {
+      "title": "On Really Trying (2009)",
+      "link": "https://gwern.net/on-really-trying",
+      "summary": "Article URL: https://gwern.net/on-really-trying\nComments URL: https://news.ycombinator.com/item?id=49622305\nPoints: 17\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T06:58:44+00:00"
+    },
+    {
+      "title": "米オープンＡＩ、サムスンと次世代チップで協力＝韓国法人幹部 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaaUpTWVcwblY3bmZoellTUk9xQVNScDNmaVdyd2Y5cHowZnV0S21aa2F0b2RiT1FXdGRyWkI1bTh4d1pPbU5kdk1mZkVUemlNUnZjWmlwT1hxejZZcFRJR0d4b1FObGN6ZmZjLWt0RnNqS3ROcG1HTg?oc=5",
+      "summary": "米オープンＡＩ、サムスンと次世代チップで協力＝韓国法人幹部&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T06:55:00+00:00"
     },
     {
       "title": "中道改革、解体を決定へ　立民系新党、公明系復党",
@@ -304,6 +368,14 @@
       "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-09-09T06:30:00+00:00"
+    },
+    {
+      "title": "8月工作機械受注は前年比64.7％増、14カ月連続プラス＝工作機械工業会 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeERtNFBvLVI3Z0t3aUVhdVk1alpISTlKLXN6WXU0SlQwbEpMN3hBc3p1amRHZVYwMVAwVzB3ZTBJVGtSZU9KeE1FS0pNdEw5MzQzN21tc3lEMTBMOTlwMjZSOHQtNHROUTIxdnpwSEd2TjFHN004WTJEMW9ITHhmdg?oc=5",
+      "summary": "8月工作機械受注は前年比64.7％増、14カ月連続プラス＝工作機械工業会&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T06:28:00+00:00"
     },
     {
       "title": "CVC Names TPG’s Todd Sisitsky as Co-CEO",
@@ -576,6 +648,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-09-09T03:36:28+00:00"
+    },
+    {
+      "title": "HW4.H - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RcGs3cENtWVlvVk9pdGYzY3RLZGpiaVJpMTAxZF9yN3BoeDlJR3pBZWFGX1JSZDBYSDJPaHhNdDBUQm5saGtEMXhJaTZlc1ExVm1Xd0NJUnc4eDd4WTBrUkRDdWhmZjV1?oc=5",
+      "summary": "HW4.H&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T03:30:19+00:00"
     },
     {
       "title": "KDDI｢山口衛星通信所｣が宇宙の玄関口に､海外通信を支えた57年の拠点が低軌道衛星時代に狙う新たな役割 | ビジネス | 東洋経済オンライン",
@@ -1088,6 +1168,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-09T00:21:13.964345+00:00"
+    },
+    {
+      "title": "MTXd.TQ - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vMmdzdGJzZVB1ZWpnTUpCajl1MHE0NVJmMVhacmNpbjVtM2J0blVKTzNEakxCUHVYNkw4TF9OWmJQWFdsUnBZT2NWZk1WV2dZVlAxYXlZeEtGR0RubWswUGZBbTQtUTg?oc=5",
+      "summary": "MTXd.TQ - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T00:17:00+00:00"
     },
     {
       "title": "1870.JSFn - | Stock Price & Latest News | Reuters - Reuters",
@@ -1928,6 +2016,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-08T20:07:55+00:00"
+    },
+    {
+      "title": "SAOCRLSE.UNL - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vLXcwZUtLRHljSFR5LVBDc0o3WTJCbHRNSUxIMEhxRFJpaVRxRFhTd2VmTm5MbWpCbUF2bmw0MmgxSHIyclVYR0E5LXN5UVJpQWo0NC1TQTN1UmFFSTF0Rk4tcWw4U3Z6dDczWG5sZi1XcVl3?oc=5",
+      "summary": "SAOCRLSE.UNL - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-08T20:06:47+00:00"
     },
     {
       "title": "Trey Parker and Matt Stone Are Changing the Name of South Park to South America",
