@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T17:06:38.619317+00:00",
+  "generated_at": "2026-09-09T17:22:16.572113+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -158,12 +158,68 @@
       "published": "2026-09-09T18:00:00+00:00"
     },
     {
+      "title": "米国とカナダ、応酬がヒートアップ　貿易戦争、再来に現実味",
+      "link": "https://www.jiji.com/jc/article?k=2026090900710&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-09T17:22:09.643409+00:00"
+    },
+    {
+      "title": "米軍、イランのタンカー５隻破壊　艦艇標的への報復、イランも反撃",
+      "link": "https://www.jiji.com/jc/article?k=2026090900216&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-09T17:22:09.643369+00:00"
+    },
+    {
+      "title": "Steve Witkoff Earned More Than $100 Million From Entity Tied to Trump Crypto",
+      "link": "https://www.wsj.com/politics/policy/steve-witkoff-earned-more-than-100-million-from-entity-tied-to-trump-crypto-9798b03d?mod=rss_markets_main",
+      "summary": "The Trump envoy’s income surged in 2025, lifted by gains from World Liberty Financial.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-09T17:09:00+00:00"
+    },
+    {
+      "title": "Show HN: Rdltr – Inbox zero for your reading list",
+      "link": "https://rdltr.app/",
+      "summary": "Hi HN, for the past few months I’ve been working on a read later app called RDLTR (https://rdltr.app). The whole thing started because I had so many tabs open with stuff I wanted to read, across browsers, Mac, Linux, and iPhone. They cluttered everything and got in the way of other things I had to do.Pocket had just shut down when this idea came up, I looked around, tried Instapaper, Raindrop, Matter, and a few others I forget. They were fine, but they all give you a list that only grows, which is another thing to maintain, and not the model I had in mind. Safari has this Reading List feature where you read something and it drops off the unread list. But it’s Apple only and half worked. What I wanted was inbox zero for reading. Open something, read it, come back, and it’s gone from the queue but still in the archive. You keep going until there is nothing left.Links come in from anywhere. Paste a URL on the page, drag one in, or use the bookmarklet, the Chrome and Firefox extensions, or the Apple Shortcut for the iOS share sheet, plus Vim keys, TL;DR summaries on each link, search across everything you have read or saved, RSS for every list, and it works just as well on the phone.The extensions have a couple of tricks that I use all the time. Shift+DD pulls the article text, cleans it up, and sends it to ChatGPT, Claude, or Gemini in a new tab, so you can ask it anything about what you just read. Shift+AA opens it in the Internet Archive, handy for paywalled sites when you don’t have a subscription.The stack is Bun, TypeScript, HTMX, and SQLite, with SSE so the list updates the moment you save or read something, deployed on a Hetzner VPS.Full disclosure, Claude Code wrote most of it. I still spent a ton of time dogfooding, testing, and polishing the UI until things felt right.Anyway, curious to know what your current setup is for this.\n\nComments URL: https://news.ycombinator.com/item?id=49629747\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T17:06:21+00:00"
+    },
+    {
+      "title": "OpenAI names top US AI safety official to foundation board",
+      "link": "https://www.ft.com/content/d73e188f-b906-42ec-8b91-db9729c9d2d9?syn-25a6b1a6=1",
+      "summary": "Former housemate of Anthropic chief joins ChatGPT maker as AI labs accused of regulatory capture",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-09T17:00:02+00:00"
+    },
+    {
       "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第１回）の開催について公表しました。",
       "link": "https://www.fsa.go.jp/news/r8/singi/20260916.html",
       "summary": "",
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-09T17:00:00+00:00"
+    },
+    {
+      "title": "I rank the open-source AI agents that launched in the last 30 days",
+      "link": "https://www.theagenticleaderboard.com/",
+      "summary": "Article URL: https://www.theagenticleaderboard.com/\nComments URL: https://news.ycombinator.com/item?id=49629432\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T16:46:25+00:00"
+    },
+    {
+      "title": "Muse's Social Media Handle Is Stolen by New Meta AI Tool",
+      "link": "https://www.realitytea.com/2026/09/09/muse-band-meta-ai-social-media-handle/",
+      "summary": "Article URL: https://www.realitytea.com/2026/09/09/muse-band-meta-ai-social-media-handle/\nComments URL: https://news.ycombinator.com/item?id=49629382\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T16:43:35+00:00"
     },
     {
       "title": "Renewed Middle East Fighting Keeps Bid in Oil",
@@ -180,6 +236,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-09T16:38:00+00:00"
+    },
+    {
+      "title": "\"Good\" AI",
+      "link": "https://thoughts.wyounas.com/p/what-does-good-ai-mean",
+      "summary": "Article URL: https://thoughts.wyounas.com/p/what-does-good-ai-mean\nComments URL: https://news.ycombinator.com/item?id=49629032\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T16:21:12+00:00"
     },
     {
       "title": "Oil at $100? Why you should always have energy stocks in your 401(k).",
@@ -398,6 +462,14 @@
       "published": "2026-09-09T15:10:39+00:00"
     },
     {
+      "title": "Show HN: Give your AI agent on-screen guides that show users where to click",
+      "link": "https://news.ycombinator.com/item?id=49627872",
+      "summary": "Hey HN. I'm Christian, one of the founders of Frigade (YC W23). I've noticed that a lot of in-app AI agents struggle to actually understand the products they exist in.For instance, let's say a user asks an agent how to do something in a given SaaS product. In an ideal case, maybe that agent replies saying it has a tool to do the task and just automates that work entirely for the user. That's a great outcome.But often that's not the case. Maybe there is no tool call for that exact task, or maybe the user's question is best solved by a specific UI workflow or interface. In these cases, many agents tend to fall back on basic RAG on their help center, or sometimes even searching the internet for an understanding of their own product. This can be a very slow process and most of the time help center articles are outdated as products evolve faster than them today. Even worse, no one likes reading a long list of bullets and mapping that back to a UI.My tool (Assist API) solves this gap with a single tool call defined like this:  const frigade_guide_tool = {\n    description: 'Call this tool to answer product questions or guide the user through a task.',\n    parameters: {\n      query: {\n        type: 'string',\n        description: 'What the user is asking or wants to do',\n      },\n    },\n    run: ({ query }) => frigade.assist({ query }),\n  }\n\nHere's a demo I recorded on how to set it up with the Vercel AI SDK: https://www.youtube.com/watch?v=9WQ0UbLjC6IWhen called, the tool will do the following:1) Gather context on what the user is seeing on screen, their permissions, feature flags, and more. Then one of the following:2a) If solvable: Generate an on screen guide for how to fix a given problem2b) If conceptual: Return text describing to the parent agent how to solve the problem2c) Reject (i.e. unable to help)How does the tool know what to do?The tool learns a given application UI by using a browser-based agent. You provide a test account to your software (i.e. staging og preview), and a browser agent logs in and works its way through the entire product. It then builds its own map of how the application works which can the be queried about any product-related question or how to get from A to B in the UI. It also writes its own documentation from this map. The agent re-runs on a schedule or can be triggered through CI/CD.Docs and more details: https://frigade.com/assist-api\n\nComments URL: https://news.ycombinator.com/item?id=49627872\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T15:09:05+00:00"
+    },
+    {
       "title": "Investing in Mothers? The Long-Run Impact of a Universal Child Care",
       "link": "https://www.nber.org/papers/w35514",
       "summary": "Article URL: https://www.nber.org/papers/w35514\nComments URL: https://news.ycombinator.com/item?id=49627655\nPoints: 8\n# Comments: 0",
@@ -468,6 +540,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-09T14:25:32.315601+00:00"
+    },
+    {
+      "title": "BCJCHF.xbo - | Stock Price & Latest News | Reuters - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfMW41R3BWdHMxN0syT0o2Umw5MmJvX3RJUXBTOUtMeXgweWExLU03YmtoLV9pQmhXVGIwYmF5NENzZG9MOUM0QThuUVUxNTh5YlFNaDUtdEoyaWN2enJHTUlR?oc=5",
+      "summary": "BCJCHF.xbo - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T14:19:59+00:00"
     },
     {
       "title": "4388.J2 - | Stock Price & Latest News - jp.reuters.com",
