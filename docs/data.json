@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T11:34:06.594917+00:00",
+  "generated_at": "2026-09-09T11:47:50.564626+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -138,6 +138,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -164,6 +168,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-09T16:00:00+00:00"
+    },
+    {
+      "title": "PE Daily: NorthSands Backs $510 Million CV for Peterson-Backed Kelso Industries",
+      "link": "https://www.wsj.com/pro/private-equity/pe-daily-northsands-backs-510-million-cv-for-peterson-backed-kelso-industries-b86c6dbc?mod=rss_markets_main",
+      "summary": "Plus, Permira raises nearly $11 billion in a first close of its latest flagship fund and Blackstone’s head of real estate departs.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-09T11:35:00+00:00"
     },
     {
       "title": "Strategists say S&P 500 could top 8,000 — but risks of a pullback are mounting",
@@ -268,6 +280,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-09T10:58:43+00:00"
+    },
+    {
+      "title": "Flock Wants a Closely Surveilled World with No Exit",
+      "link": "https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit",
+      "summary": "Article URL: https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit\nComments URL: https://news.ycombinator.com/item?id=49624394\nPoints: 22\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T10:54:18+00:00"
     },
     {
       "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
