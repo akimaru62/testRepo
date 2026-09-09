@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T15:07:31.429441+00:00",
+  "generated_at": "2026-09-09T15:24:47.632319+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -142,6 +142,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -168,6 +172,62 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-09T16:00:00+00:00"
+    },
+    {
+      "title": "寺地が決勝満塁弾　プロ野球・ロッテ１０―４楽天",
+      "link": "https://www.jiji.com/jc/article?k=2026090901182&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-09T15:24:32.427719+00:00"
+    },
+    {
+      "title": "ＤｅＮＡの井上朋、移籍後初本塁打　プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026090901198&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-09T15:24:32.427691+00:00"
+    },
+    {
+      "title": "ロッテの寺地、プロ初の満塁アーチ　プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026090901202&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-09T15:24:32.427654+00:00"
+    },
+    {
+      "title": "Treasury to buy back more government bonds than previously announced",
+      "link": "https://www.marketwatch.com/story/treasury-to-buy-back-more-government-bonds-than-previously-announced-940363ee?mod=mw_rss_topstories",
+      "summary": "First operation goes from $4 billion to $6 billion",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-09T15:18:00+00:00"
+    },
+    {
+      "title": "Oil’s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates",
+      "link": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
+      "summary": "Oil prices rose above $100 a barrel on Wednesday for the first time in seven weeks, reviving concerns about global energy supply disruptions and a fresh inflationary shock just as major central banks prepare to make key interest-rate decisions later this month.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-09T15:14:00+00:00"
+    },
+    {
+      "title": "Geiger – See every AI agent on your machine and what it can touch",
+      "link": "https://github.com/Atomburstofficial/geiger",
+      "summary": "Article URL: https://github.com/Atomburstofficial/geiger\nComments URL: https://news.ycombinator.com/item?id=49627646\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T14:54:49+00:00"
+    },
+    {
+      "title": "US spy chief prepares for greater role in Russia-Ukraine talks",
+      "link": "https://www.ft.com/content/d0557d25-78b5-45d8-bb33-d655e859d803?syn-25a6b1a6=1",
+      "summary": "CIA director John Ratcliffe will be involved in shuttle diplomacy between Moscow and Kyiv",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-09T14:50:28+00:00"
     },
     {
       "title": "プルシェンコ氏、銀メダル捨てる　「私のは違う色」―フィギュアスケート",
@@ -1613,6 +1673,14 @@
       "title": "World’s biggest relationship? Xi and Modi look to rebuild ties for 2.8bn people",
       "link": "https://www.ft.com/content/6525cf15-0cf0-4fff-a3a4-298a41569d97?syn-25a6b1a6=1",
       "summary": "Brics summit expected to bring China’s leader to India for first time in seven years after cautious diplomacy to put bilateral relations back on track",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-09T04:00:16+00:00"
+    },
+    {
+      "title": "Who is voting for the far-right Alternative for Germany?",
+      "link": "https://www.ft.com/content/ef6d5693-a5b0-445a-8f30-d514d50651e1?syn-25a6b1a6=1",
+      "summary": "AfD’s victory in Saxony-Anhalt reflects national trends — ‘but on steroids’",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-09T04:00:16+00:00"
