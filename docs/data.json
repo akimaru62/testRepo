@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T16:08:32.837315+00:00",
+  "generated_at": "2026-09-09T16:27:29.675097+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -166,6 +166,38 @@
       "published": "2026-09-09T17:00:00+00:00"
     },
     {
+      "title": "Oil at $100? Why you should always have energy stocks in your 401(k).",
+      "link": "https://www.marketwatch.com/story/oil-at-100-why-you-should-always-have-energy-stocks-in-your-401-k-b82798f1?mod=mw_rss_topstories",
+      "summary": "Energy and resource stocks have zigged while the market has zagged.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-09T16:19:00+00:00"
+    },
+    {
+      "title": "Fed rate hike hinges on two key inflation reports in the next two days",
+      "link": "https://www.marketwatch.com/story/fed-rate-hike-hinges-on-two-key-inflation-reports-in-the-next-two-days-09d63bd9?mod=mw_rss_topstories",
+      "summary": "Consumer and wholesale prices are rising again. Just how bad does it have to get for the Fed to act?",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-09T16:18:00+00:00"
+    },
+    {
+      "title": "Investors worried about rising bond yields are keeping a close eye on this corner of the market",
+      "link": "https://www.marketwatch.com/story/investors-worried-about-rising-bond-yields-are-keeping-a-close-eye-on-this-corner-of-the-market-aa4096c8?mod=mw_rss_topstories",
+      "summary": "U.S. small-cap stocks have hit a pivotal point, trading below a key level as interest rates in the bond market climb ahead of the Federal Reserve’s highly anticipated policy meeting next week.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-09T16:09:00+00:00"
+    },
+    {
+      "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
+      "link": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
+      "summary": "Article URL: https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/\nComments URL: https://news.ycombinator.com/item?id=49628704\nPoints: 62\n# Comments: 19",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T16:01:41+00:00"
+    },
+    {
       "title": "「インターネット取引サービスへの不正アクセス・不正取引にご注意ください」のページを更新しました。",
       "link": "https://www.fsa.go.jp/ordinary/chuui/chuui_phishing.html",
       "summary": "",
@@ -182,12 +214,28 @@
       "published": "2026-09-09T15:57:00+00:00"
     },
     {
+      "title": "GNU Radio in the Browser",
+      "link": "https://gnuradioworld.com/",
+      "summary": "Article URL: https://gnuradioworld.com/\nComments URL: https://news.ycombinator.com/item?id=49628576\nPoints: 17\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T15:53:06+00:00"
+    },
+    {
       "title": "Treasury will buy more government bonds than previously announced. The market remains ‘underwhelmed.’",
       "link": "https://www.marketwatch.com/story/treasury-to-buy-back-more-government-bonds-than-previously-announced-940363ee?mod=mw_rss_topstories",
       "summary": "The Treasury Department said it would buy back $6 billion in U.S. government debt, exceeding the amount previously announced in its effort to contain bond yields.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-09T15:53:00+00:00"
+    },
+    {
+      "title": "No Man's Sky Cosmos",
+      "link": "https://www.nomanssky.com/cosmos-update/",
+      "summary": "Article URL: https://www.nomanssky.com/cosmos-update/\nComments URL: https://news.ycombinator.com/item?id=49628493\nPoints: 54\n# Comments: 29",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T15:47:42+00:00"
     },
     {
       "title": "Better AI code comment detector",
@@ -212,6 +260,30 @@
       "source": "CNBC",
       "category": "海外金融",
       "published": "2026-09-09T15:43:54+00:00"
+    },
+    {
+      "title": "Rails 8 Guide: Features, Requirements and Upgrade Path (2026)",
+      "link": "https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html",
+      "summary": "Article URL: https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html\nComments URL: https://news.ycombinator.com/item?id=49628409\nPoints: 12\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T15:42:46+00:00"
+    },
+    {
+      "title": "Bomb Sense",
+      "link": "https://danboland.net/2021/07/15/bomb-sense.html",
+      "summary": "Article URL: https://danboland.net/2021/07/15/bomb-sense.html\nComments URL: https://news.ycombinator.com/item?id=49628367\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T15:40:19+00:00"
+    },
+    {
+      "title": "We Accidentally Built a Synthetic Cell Factory",
+      "link": "https://bnext.bio/post/we-accidentally-built-a-synthetic-cell-factory",
+      "summary": "Article URL: https://bnext.bio/post/we-accidentally-built-a-synthetic-cell-factory\nComments URL: https://news.ycombinator.com/item?id=49628290\nPoints: 16\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T15:34:51+00:00"
     },
     {
       "title": "U.S. Treasury Plans $6 Billion 10- to 20-Year Bond Buyback",
@@ -310,6 +382,22 @@
       "published": "2026-09-09T14:50:28+00:00"
     },
     {
+      "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
+      "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+      "summary": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and\nComments URL: https://news.ycombinator.com/item?id=49627370\nPoints: 43\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T14:37:47+00:00"
+    },
+    {
+      "title": "Microsoft/TracerAI withdraws copyright takedown against Luanti",
+      "link": "https://blog.luanti.org/2026/09/08/dmca-rescinded/",
+      "summary": "Article URL: https://blog.luanti.org/2026/09/08/dmca-rescinded/\nComments URL: https://news.ycombinator.com/item?id=49627306\nPoints: 13\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T14:33:31+00:00"
+    },
+    {
       "title": "プルシェンコ氏、銀メダル捨てる　「私のは違う色」―フィギュアスケート",
       "link": "https://www.jiji.com/jc/article?k=2026090900786&g=spo&m=rss",
       "summary": "",
@@ -332,6 +420,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-09T14:25:32.315601+00:00"
+    },
+    {
+      "title": "4388.J2 - | Stock Price & Latest News - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNXBkMHcyYndMLW5DY1dyT2F0Mkp4aXNuY0p6N2F0cUNzMWpaNnZ2U1B6VDF4T0F2MXdUeEJuemlwMU1UWjc5V2FCS2pVWWZpUmJ6a2t6YzVFcXdYWFppSUd3ZUIzR1lBUGlVVlVxTU5vUlRGQjQyYXFFQ1NyaHdmUnhQTDlyb2c?oc=5",
+      "summary": "4388.J2 - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T14:17:36+00:00"
     },
     {
       "title": "The Ancient Greek Water Clock That Kept the Most Accurate Time for 1,800 Years",
@@ -452,6 +548,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-09T13:16:45+00:00"
+    },
+    {
+      "title": "BCJz.SIG - | Stock Price & Latest News | Reuters - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fQXQ0UG5uTDdPbk1ZZGNlVGlGQUxidG9DMlBsMHd5eDJHWGpTNzZQeU5YNGtUNlMzbkFJNDZ5OUpXbjVRMDhicnJsTDhxVEZZV1JKTE5LdjBBSXRQdko0?oc=5",
+      "summary": "BCJz.SIG - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T13:16:39+00:00"
     },
     {
       "title": "Meta’s stock jumps as new personal AI agent Muse addresses a major investor concern",
@@ -665,6 +769,14 @@
       "title": "極右ＡｆＤの反移民政策、「民族浄化」に等しい 独首相が非難 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EcnQ1bXVxTElBYkUzTng4WFpiejI3Y2NlQlBhNWJtTVJYQTlMWmhPaEt2bWFES0pQbXJRak5Eb0dMemhQeGxDOFFVYVhXQ1huRENvLXQ1d2RSTFBZWW81aEx5MTBuTEVWOFJNR1BUV2tnWjU1b3d3eW5uN3BGMVU?oc=5",
       "summary": "極右ＡｆＤの反移民政策、「民族浄化」に等しい 独首相が非難&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T11:12:58+00:00"
+    },
+    {
+      "title": "極右ＡｆＤの反移民政策、「民族浄化」に等しい 独首相が非難 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EcnQ1bXVxTElBYkUzTng4WFpiejI3Y2NlQlBhNWJtTVJYQTlMWmhPaEt2bWFES0pQbXJRak5Eb0dMemhQeGxDOFFVYVhXQ1huRENvLXQ1d2RSTFBZWW81aEx5MTBuTEVWOFJNR1BUV2tnWjU1b3d3eW5uN3BGMVU?oc=5",
+      "summary": "極右ＡｆＤの反移民政策、「民族浄化」に等しい 独首相が非難&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-09T11:12:58+00:00"
@@ -964,6 +1076,14 @@
       "source": "財務省",
       "category": "公的機関",
       "published": "2026-09-09T09:10:00+00:00"
+    },
+    {
+      "title": "E0P.H - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nXzNzdndUMFo5azhWbDZrcHVoOWpldXY4LWpZVktUczd2d0lCSDJrbmdXNjE4NDFMN2NoTllmbWpEcUpndVZfSVFpVzE2TU5zMTVSVUJpbXVETi1FSzkzUUt5YUVIMTdRcXFVY3YzSjhQQ2xJQmpHUXl4bw?oc=5",
+      "summary": "E0P.H&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T09:04:18+00:00"
     },
     {
       "title": "2531.H - | Stock Price & Latest News - Reuters",
@@ -1598,6 +1718,14 @@
       "published": "2026-09-09T05:33:25+00:00"
     },
     {
+      "title": "1870.JSFn - | Stock Price & Latest News - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTWZRYVY2Xy1EU1RRdEFNV09IMGdXNXEyTVZiNndYZ29PSk1iUWhFVkhibkl2UVlnRnd2OXVFeEZKc1VXTkpDcUpsNW5qQkN3bHN2WEl2ZGgyQ1dhVW9Fb3hOU0w5OU9VUDVBMF9IenFuSVFCZllIMlE2QURQcHdWNkIzMmRYZTdHU0E?oc=5",
+      "summary": "1870.JSFn - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T05:33:25+00:00"
+    },
+    {
       "title": "BONAVb.xt - | Stock Price & Latest News | Reuters - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxODRia3ltMTE0dm5wYjN6OHRjdEhMVnVNZmhzYTdEVndMZGczMXdwejdkQXE2cUhkQnN5UFpmdE5zbG5XWjZvcmhmNmVVQTVZU0UzYVFFbXBOdF84bEZ1SA?oc=5",
       "summary": "BONAVb.xt - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
@@ -2068,6 +2196,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-09T02:07:13+00:00"
+    },
+    {
+      "title": "SAOCRLSE.UNL - | Stock Price & Latest News - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV2lvc1drUXpmMTBVTGtOR0JUV0UxZUdKbmlHc2haZVE4MEgzUVZVbFhBRDhSOFRJYjhqanluX25Qb09pYlZ5SHFxLUNBbzdwc3E0cmo3UlJLVExSRV9Gc2NISkpNclgtUjBqSmN4VG5oYzVVRjVwaE1zZm9qVFNuQlhYenBGWVF2OGtXMVBJV1FYZnpX?oc=5",
+      "summary": "SAOCRLSE.UNL - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T02:03:29+00:00"
     },
     {
       "title": "クラスター弾被害、昨年は1063人 9割近くが民間人 - Reuters",
