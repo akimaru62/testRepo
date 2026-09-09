@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T11:07:26.908073+00:00",
+  "generated_at": "2026-09-09T11:24:06.174792+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -134,6 +134,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -162,6 +166,62 @@
       "published": "2026-09-09T16:00:00+00:00"
     },
     {
+      "title": "認知症女性にリフォーム契約　準詐欺容疑で男２人逮捕―大阪府警",
+      "link": "https://www.jiji.com/jc/article?k=2026090901001&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-09T11:23:52.297343+00:00"
+    },
+    {
+      "title": "外国人新資格「育成就労」に航空分野を追加　受け入れ上限は変わらず―政府",
+      "link": "https://www.jiji.com/jc/article?k=2026090900898&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-09T11:23:52.297334+00:00"
+    },
+    {
+      "title": "２０代記者を懲戒免職　ＮＨＫ",
+      "link": "https://www.jiji.com/jc/article?k=2026090900961&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-09T11:23:52.297325+00:00"
+    },
+    {
+      "title": "ソフトバンク元選手を逮捕　不同意わいせつ容疑―福岡県警",
+      "link": "https://www.jiji.com/jc/article?k=2026090900968&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-09T11:23:52.297314+00:00"
+    },
+    {
+      "title": "シェルトン、深夜の激闘で王者破る　全米テニス",
+      "link": "https://www.jiji.com/jc/article?k=2026090900980&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-09T11:23:52.297306+00:00"
+    },
+    {
+      "title": "中道解体、立民系は新党　８カ月で幕、公明系復党へ",
+      "link": "https://www.jiji.com/jc/article?k=2026090900156&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-09T11:23:52.297283+00:00"
+    },
+    {
+      "title": "不正会計のニデックを株主28人が提訴　株価下落の損害賠償求め",
+      "link": "https://www.asahi.com/articles/ASV993JLMV99PLFA004M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-09T11:23:51.872172+00:00"
+    },
+    {
       "title": "輸入小麦、政府売り渡し価格12%引き上げ　円安、輸送費高騰で",
       "link": "https://www.asahi.com/articles/ASV993GJ1V99ULFA017M.html?ref=rss",
       "summary": "",
@@ -184,6 +244,22 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-09T11:01:00+00:00"
+    },
+    {
+      "title": "Millennium to open office in Greece after investor charm offensive",
+      "link": "https://www.ft.com/content/bce40838-6b08-4a04-9937-627bdf64a1a9?syn-25a6b1a6=1",
+      "summary": "Greek government launched tax scheme this summer specifically targeted at hedge fund and private equity executives",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-09T10:58:43+00:00"
+    },
+    {
+      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/ckgwy1k42w4o\nComments URL: https://news.ycombinator.com/item?id=49624255\nPoints: 5\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T10:37:16+00:00"
     },
     {
       "title": "Platinum Set for Surplus in 2026 After Three Years of Deficit",
