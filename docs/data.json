@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T21:47:46.026957+00:00",
+  "generated_at": "2026-09-09T22:06:37.191166+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -150,9 +150,53 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f3c25b196a0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f7096aa97f0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "Hunter Biden’s memecoin flops, falling 95% just hours after launch",
+      "link": "https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories",
+      "summary": "Like so many memecoins before it, Hunter Biden’s $LAPTOP coin has flopped.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-09T22:02:00+00:00"
+    },
+    {
+      "title": "｢羽釜ごはんがお代わり自由｣｢1980円でボリューム満点｣串カツ田中《既存2ブランドを合体した》トンカツ＆メンチ店の実態 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957339?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "人気居酒屋｢串カツ田中｣から誕生した新業態｢ザクッととんかつ カツのジョー｣は､既存ブランドの名物トンカツとメンチカツを融合させたハイブリッド店舗だ。ロードサイド出店の挑戦や､\"揚げる\"アイデンティ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-09T22:00:00+00:00"
+    },
+    {
+      "title": "Republicans Kick Off Midterm Rally in Texas",
+      "link": "https://www.wsj.com/tech/ai/republicans-kick-off-midterm-rally-in-texas-1e7ec07b?mod=rss_markets_main",
+      "summary": "Plus, Steve Witkoff discloses his finances and John Deere introduces a farmer-friendly chatbot.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-09T21:48:00+00:00"
+    },
+    {
+      "title": "LIV races to re-sign golfers to clinch $300mn bankruptcy rescue",
+      "link": "https://www.ft.com/content/326beea4-5d90-474b-be3d-af9038cbecfc?syn-25a6b1a6=1",
+      "summary": "Under new terms proposed by league players would swap claims for millions in past contracts for equity in new circuit",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-09T21:45:31+00:00"
+    },
+    {
+      "title": "｢リッツ脱衣所でYouTube撮影→批判殺到｣｢ホテル側と見解が相違｣　令和の辻希美？板野友美が炎上タレントと化した背景 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957410?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "元AKB48の板野友美がリッツ･カールトン日光の脱衣所でYouTube撮影を行い､炎上。加えてSNSでの子育てやファッション投稿も批判を招き､｢令和の辻希美｣と揶揄されるように。なぜ彼女はこれほど炎…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-09T21:45:00+00:00"
+    },
     {
       "title": "アップルが初の折り畳み式iPhone｢Duo｣を発表…日本での価格は36万4800円から | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/957528?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -568,6 +612,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-09T19:29:00+00:00"
+    },
+    {
+      "title": "BCJz.TQ - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRHJnWUV3VWlGVTl5YVBTTVY1OXktdXRLSXFZakI4Zmx5T3pqNFdTby0tQnFncUMtQml3YlY3VHYzelFhMkxKNW5xYlBsNEhUZzJpeTQ3TVZSMGFEMDBaM3hma1h3R2ZLbkkwN3B3M0Y5LXJac0wtdG9kV2ljMlBWWHR3?oc=5",
+      "summary": "BCJz.TQ - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T19:20:26+00:00"
     },
     {
       "title": "Gold Futures Edge Up Despite Higher U.S. Yields",
