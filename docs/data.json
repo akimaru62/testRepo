@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T18:43:43.231256+00:00",
+  "generated_at": "2026-09-09T18:50:57.473704+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -154,12 +154,36 @@
   ],
   "items": [
     {
+      "title": "Gold Futures Edge Up Despite Higher U.S. Yields",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-slips-traders-eye-inflation-data-a5ad1d66?mod=rss_markets_main",
+      "summary": "Gold futures made small gains despite a rise in Treasury yields. The dollar weakened, however, which tends to support gold.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-09T18:48:00+00:00"
+    },
+    {
+      "title": "I Don't Want to Interact with Stochastic Parrots",
+      "link": "https://ploum.net/2026-09-09-ai_policy.html",
+      "summary": "Article URL: https://ploum.net/2026-09-09-ai_policy.html\nComments URL: https://news.ycombinator.com/item?id=49631476\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T18:33:28+00:00"
+    },
+    {
       "title": "Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors",
       "link": "https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab?syn-25a6b1a6=1",
       "summary": "10-year borrowing costs hit highest level in nearly three years despite upsized repurchase programme",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-09T18:22:29+00:00"
+    },
+    {
+      "title": "Apple Watch Ultra 4",
+      "link": "https://www.apple.com/apple-watch-ultra-4/",
+      "summary": "Article URL: https://www.apple.com/apple-watch-ultra-4/\nComments URL: https://news.ycombinator.com/item?id=49631121\nPoints: 10\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T18:21:40+00:00"
     },
     {
       "title": "Apple Unveils iPhone Duo",
