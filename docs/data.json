@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T17:33:33.689196+00:00",
+  "generated_at": "2026-09-09T17:47:40.580757+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -158,12 +158,28 @@
       "published": "2026-09-09T18:00:00+00:00"
     },
     {
+      "title": "Apple Introduces AirPods 5",
+      "link": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/\nComments URL: https://news.ycombinator.com/item?id=49630253\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T17:39:24+00:00"
+    },
+    {
       "title": "The traditional paths to building wealth are becoming less accessible for young Americans. Here’s what happened.",
       "link": "https://www.marketwatch.com/story/the-traditional-paths-to-building-wealth-are-becoming-less-accessible-for-young-americans-80112c08?mod=mw_rss_topstories",
       "summary": "Generation Z and young millennials are navigating major shifts in the economy that have made it harder to build wealth the way Americans did in the past.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-09T17:30:00+00:00"
+    },
+    {
+      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "link": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "summary": "Article URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3\nComments URL: https://news.ycombinator.com/item?id=49630026\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T17:24:28+00:00"
     },
     {
       "title": "米国とカナダ、応酬がヒートアップ　貿易戦争、再来に現実味",
@@ -188,6 +204,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-09T17:14:59+00:00"
+    },
+    {
+      "title": "Why Emacs Consult async searches feel slow and how to speed them up",
+      "link": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
+      "summary": "Article URL: https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/\nComments URL: https://news.ycombinator.com/item?id=49629865\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T17:13:43+00:00"
     },
     {
       "title": "Steve Witkoff Earned More Than $100 Million From Entity Tied to Trump Crypto",
@@ -289,6 +313,14 @@
       "title": "I Haven't Lost a Customer Service Fight in Seven Months",
       "link": "https://www.sudomoin.com/p/consumer-claims",
       "summary": "Article URL: https://www.sudomoin.com/p/consumer-claims\nComments URL: https://news.ycombinator.com/item?id=49628982\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T16:18:38+00:00"
+    },
+    {
+      "title": "I haven't lost a customer service fight in seven months",
+      "link": "https://www.sudomoin.com/p/consumer-claims",
+      "summary": "Article URL: https://www.sudomoin.com/p/consumer-claims\nComments URL: https://news.ycombinator.com/item?id=49628982\nPoints: 15\n# Comments: 4",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-09T16:18:38+00:00"
@@ -873,6 +905,14 @@
       "title": "I advertise malicious software on Google Ads",
       "link": "https://xlii.space/eng/malicious-software-on-google-ads/",
       "summary": "Article URL: https://xlii.space/eng/malicious-software-on-google-ads/\nComments URL: https://news.ycombinator.com/item?id=49624856\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T11:43:21+00:00"
+    },
+    {
+      "title": "How I advertise malicious software on Google Ads",
+      "link": "https://xlii.space/eng/malicious-software-on-google-ads/",
+      "summary": "Article URL: https://xlii.space/eng/malicious-software-on-google-ads/\nComments URL: https://news.ycombinator.com/item?id=49624856\nPoints: 267\n# Comments: 164",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-09T11:43:21+00:00"
