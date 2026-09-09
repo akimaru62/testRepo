@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T15:24:47.632319+00:00",
+  "generated_at": "2026-09-09T15:36:11.456734+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -174,6 +174,14 @@
       "published": "2026-09-09T16:00:00+00:00"
     },
     {
+      "title": "U.S. Treasury Plans $6 Billion 10- to 20-Year Bond Buyback",
+      "link": "https://www.wsj.com/finance/investing/u-s-treasury-plans-6-billion-10-to-20-year-bond-buyback-d12d3647?mod=rss_markets_main",
+      "summary": "The U.S. Treasury raised the size of its planned buyback operation for Treasurys maturing in 10 to 20 years to $6 billion, triple the typical amount.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-09T15:26:00+00:00"
+    },
+    {
       "title": "寺地が決勝満塁弾　プロ野球・ロッテ１０―４楽天",
       "link": "https://www.jiji.com/jc/article?k=2026090901182&g=spo&m=rss",
       "summary": "",
@@ -206,6 +214,14 @@
       "published": "2026-09-09T15:18:00+00:00"
     },
     {
+      "title": "US Treasury to buy back up to $6bn in long-term bonds",
+      "link": "https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab?syn-25a6b1a6=1",
+      "summary": "Scott Bessent seeks to steady government debt market with expanded purchase programme",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-09T15:16:35+00:00"
+    },
+    {
       "title": "Oil’s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates",
       "link": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
       "summary": "Oil prices rose above $100 a barrel on Wednesday for the first time in seven weeks, reviving concerns about global energy supply disruptions and a fresh inflationary shock just as major central banks prepare to make key interest-rate decisions later this month.",
@@ -214,9 +230,25 @@
       "published": "2026-09-09T15:14:00+00:00"
     },
     {
+      "title": "Anthropic researcher says more than 10% chance AI \"could kill all humans\"",
+      "link": "https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance/",
+      "summary": "Article URL: https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance/\nComments URL: https://news.ycombinator.com/item?id=49627887\nPoints: 12\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T15:10:39+00:00"
+    },
+    {
       "title": "Geiger – See every AI agent on your machine and what it can touch",
       "link": "https://github.com/Atomburstofficial/geiger",
       "summary": "Article URL: https://github.com/Atomburstofficial/geiger\nComments URL: https://news.ycombinator.com/item?id=49627646\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T14:54:49+00:00"
+    },
+    {
+      "title": "Show HN: Geiger – See every AI agent on your machine and what it can touch",
+      "link": "https://github.com/Atomburstofficial/geiger",
+      "summary": "Article URL: https://github.com/Atomburstofficial/geiger\nComments URL: https://news.ycombinator.com/item?id=49627646\nPoints: 14\n# Comments: 2",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-09T14:54:49+00:00"
@@ -1145,6 +1177,14 @@
       "title": "Stock Market Today: Oil Hits $100 for First Time Since July",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-09-2026?mod=rss_markets_main",
       "summary": "Escalating conflict in Middle East stokes fears of supply disruptions",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-09T07:38:00+00:00"
+    },
+    {
+      "title": "Stock Market Today: 10-Year Treasury Yield Hits Fresh Multiyear High",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-09-2026?mod=rss_markets_main",
+      "summary": "Oil rises above $100 for first time since July amid escalating Mideast conflict",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-09T07:38:00+00:00"
