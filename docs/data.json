@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T09:28:05.071900+00:00",
+  "generated_at": "2026-09-09T09:41:40.544738+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -170,6 +170,30 @@
       "published": "2026-09-09T10:00:00+00:00"
     },
     {
+      "title": "Google Pledges Over $15 Billion for AI Infrastructure in Finland",
+      "link": "https://www.wsj.com/tech/google-to-invest-15-billion-in-data-centers-and-infrastructure-in-finland-335c5ee2?mod=rss_markets_main",
+      "summary": "Google said its largest single investment in Europe would power its popular services — such as Gemini, Search, Maps, and YouTube.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-09T09:33:00+00:00"
+    },
+    {
+      "title": "Anthropic researcher quits over AI labs ‘gambling with our lives’",
+      "link": "https://www.ft.com/content/20c07191-8da6-440f-b04b-8ea0ebdd9153?syn-25a6b1a6=1",
+      "summary": "Latest departure highlights mounting unease inside Silicon Valley companies racing to build ever more powerful systems",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-09T09:31:37+00:00"
+    },
+    {
+      "title": "The High-Stakes Gamble Playing Out in the Natural-Gas Market",
+      "link": "https://www.wsj.com/finance/commodities-futures/the-high-stakes-gamble-playing-out-in-the-natural-gas-market-334f774b?mod=rss_markets_main",
+      "summary": "Europe has stockpiled only enough natural gas to get through a mild winter.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-09T09:30:00+00:00"
+    },
+    {
       "title": "公取委、トリドールに不当減額で勧告　丸亀製麺など運営、下請法違反",
       "link": "https://www.jiji.com/jc/article?k=2026090900800&g=soc&m=rss",
       "summary": "",
@@ -192,6 +216,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-09T09:27:59.537743+00:00"
+    },
+    {
+      "title": "「AIは10年以内に我々全員を殺す」　アンソロピックの研究者が「企業は無責任」と退社",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/09/news100.html",
+      "summary": "米オープンAIを経て米アンソロピックに勤務していた英国出身のAI研究者、ジェーコブ・コクソン氏（27）が8日、アンソロピックを退社したと、Xで明らかにした。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-09-09T09:21:00+00:00"
     },
     {
       "title": "‘We fear financial exploitation’: Who will manage our finances if my wife and I become incapacitated?",
@@ -242,6 +274,14 @@
       "published": "2026-09-09T08:49:18.516558+00:00"
     },
     {
+      "title": "Gambling with our lives: AI researcher quits Anthropic with warning about safety",
+      "link": "https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/",
+      "summary": "Article URL: https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/\nComments URL: https://news.ycombinator.com/item?id=49623306\nPoints: 12\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T08:43:27+00:00"
+    },
+    {
       "title": "Bessent says ‘I am the house now.’ What it means for the yen — and U.S. stocks.",
       "link": "https://www.marketwatch.com/story/bessent-says-i-am-the-house-now-what-it-means-for-the-yen-and-u-s-stocks-9ef63bc3?mod=mw_rss_topstories",
       "summary": "Treasury Secretary Scott Bessent has never been accused of being a wallflower, but speaking in front of Southern Methodist University’s business school on Tuesday night he made perhaps the most strident comment of his governmental career.",
@@ -251,6 +291,14 @@
     },
     {
       "title": "Brent crude reaches $100 as war in Iran intensifies",
+      "link": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
+      "summary": "Oil prices advanced on Thursday after the U.S. said it destroyed five Iranian crude oil vessels.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-09T08:27:00+00:00"
+    },
+    {
+      "title": "Brent crude passes $100 threshold as war in Iran intensifies",
       "link": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
       "summary": "Oil prices advanced on Thursday after the U.S. said it destroyed five Iranian crude oil vessels.",
       "source": "MarketWatch",
@@ -328,6 +376,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-09T08:10:57.422470+00:00"
+    },
+    {
+      "title": "ホルムズ海峡のタンカー航行費急騰、保険料高騰で＝石油会社幹部 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUlZoR2U3UWJOMFczQWs1S2N5OTdxTVpDQ0hVSEtDd1dESzdMbm5hcUpHczZyUnVUUFBkVktfNllMSjhpck80VVZGZlRiVHJpQkNmcm9ocFNuVTZzbGJOYkxIMm5hVEdZc0wwNXI5MVo5eHdvdi1BZ0NGYXhRVVkxbQ?oc=5",
+      "summary": "ホルムズ海峡のタンカー航行費急騰、保険料高騰で＝石油会社幹部&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T07:45:45+00:00"
     },
     {
       "title": "Euro Firms on Dollar Weakness, Anticipated ECB Rate Hike",
@@ -4120,6 +4176,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-08T09:30:00+00:00"
+    },
+    {
+      "title": "Maak.el: Lisp machine command runner in Emacs, infinitely extensible and Scheme",
+      "link": "https://codeberg.org/jjba23/maak.el",
+      "summary": "Article URL: https://codeberg.org/jjba23/maak.el\nComments URL: https://news.ycombinator.com/item?id=49607858\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-08T09:28:35+00:00"
     },
     {
       "title": "立民系は近く新党を結成し、公明系は月内にも復党する方針",
