@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T18:10:04.862085+00:00",
+  "generated_at": "2026-09-09T18:29:59.796258+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -146,9 +146,21 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f3c25b196a0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors",
+      "link": "https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab?syn-25a6b1a6=1",
+      "summary": "10-year borrowing costs hit highest level in nearly three years despite upsized repurchase programme",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-09T18:22:29+00:00"
+    },
     {
       "title": "令和８年台風第24号及び前線による大雨に伴う災害等に対する金融上の措置について更新しました。",
       "link": "https://www.fsa.go.jp/news/r8/ginkou/20260907.html",
@@ -156,6 +168,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-09T18:00:00+00:00"
+    },
+    {
+      "title": "Apple raises iPhone prices ahead of foldable device launch",
+      "link": "https://www.ft.com/content/dea481e8-d30b-4cbb-b535-5ff219c4e546?syn-25a6b1a6=1",
+      "summary": "New CEO John Ternus is expected to unveil the folding iPhone Duo later on Wednesday",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-09T17:55:51+00:00"
     },
     {
       "title": "Apple Introduces AirPods 5",
@@ -239,6 +259,14 @@
     },
     {
       "title": "OpenAI names top US AI safety official to foundation board",
+      "link": "https://www.ft.com/content/d73e188f-b906-42ec-8b91-db9729c9d2d9?syn-25a6b1a6=1",
+      "summary": "Former housemate of Anthropic chief joins ChatGPT maker as AI labs accused of regulatory capture",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-09T17:00:02+00:00"
+    },
+    {
+      "title": "OpenAI names top US official from model testing agency to its board",
       "link": "https://www.ft.com/content/d73e188f-b906-42ec-8b91-db9729c9d2d9?syn-25a6b1a6=1",
       "summary": "Former housemate of Anthropic chief joins ChatGPT maker as AI labs accused of regulatory capture",
       "source": "Financial Times",
