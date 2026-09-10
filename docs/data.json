@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T16:47:29.807095+00:00",
+  "generated_at": "2026-09-10T17:07:07.022557+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -165,6 +165,22 @@
     }
   ],
   "items": [
+    {
+      "title": "U.S. Crude Oil Stockpiles Fall, Production Hits Record",
+      "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-fall-production-hits-record-86b655c4?mod=rss_markets_main",
+      "summary": "Commercial crude oil stocks fell by 391,000 barrels last week. Analysts had expected crude stocks to fall by 1.4 million barrels.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-10T16:54:00+00:00"
+    },
+    {
+      "title": "フーシ派、イエメンの要衝湾港モカ制圧 紅海航路への影響拡大 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONUlickFocHdLYkVFSnRKclVRdkF5T041RWltLWlHZHNzdU5UWjdRcm1nWlBzdG5RU185TmRRX0t0Tkx0LWRYREhRMkotTlhod29EWE53WTZMeHM3RWZYYXd4ZEw2MDJRZENkRndnRVlGNkFTNmFOUmNTR0ZrUXNsbDNrRnFSZw?oc=5",
+      "summary": "フーシ派、イエメンの要衝湾港モカ制圧 紅海航路への影響拡大&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T16:32:42+00:00"
+    },
     {
       "title": "官房長官、裏金議員起用排除せず",
       "link": "https://www.jiji.com/jc/article?k=2026091001195&g=pol&m=rss",
@@ -452,6 +468,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-10T15:08:22+00:00"
+    },
+    {
+      "title": "Show HN: Syq – copy files between machines fast (better than rsync)",
+      "link": "https://greaber.github.io/syq/",
+      "summary": "I got frustrated with the slowness of rsync and made an alternative that works faster by using multiple parallel connections, direct encrypted TCP when available, and other optimizations. I also added cool features like the ability to maintain a persistent ssh connection to the server for fast one-offs, the ability to download to your laptop while working in an ssh shell on a server, and the ability to do direct remote-remote transfers without forwarding your ssh agent (by using restricted ssh keys on the receiver that will only execute a specific request signed with the key on your laptop). It is also designed to be more robustly/flexibly scriptable than alternatives.\n\nComments URL: https://news.ycombinator.com/item?id=49644955\nPoints: 8\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T15:01:27+00:00"
     },
     {
       "title": "Brooks Automation Files Confidentially for IPO",
@@ -1206,6 +1230,14 @@
       "published": "2026-09-10T09:27:00+00:00"
     },
     {
+      "title": "韓国、1000億ドル超の対米投資で合意近づく＝ＷＳＪ - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OMWo3aWw1U0JKbWZ2WWlrNE9uV3dxWVIxbGVlTE8xcVI3OEZLUGFiU2JiU1JleTBld1JDZlU3YlNwb1dzRGFVVzl0dVZ1cXhJcW9TYkVFRWpIaGVsU0trNjdKYXdsX0hHajF2WGdzRGN4VnN1MTA4WW1FT0w?oc=5",
+      "summary": "韓国、1000億ドル超の対米投資で合意近づく＝ＷＳＪ&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T09:21:43+00:00"
+    },
+    {
       "title": "Regulatory Uncertainty Clouds Chinese Robot Firm Galaxea AI’s IPO Plan",
       "link": "https://www.wsj.com/business/regulatory-uncertainty-clouds-chinese-robot-firm-galaxea-ais-ipo-plan-b6dab954?mod=rss_markets_main",
       "summary": "A tighter regulatory climate in China is casting a cloud over robotics startup Galaxea AI’s plan to go public in Hong Kong, people familiar with the matter say.",
@@ -1388,6 +1420,14 @@
       "source": "財務省",
       "category": "公的機関",
       "published": "2026-09-10T08:00:00+00:00"
+    },
+    {
+      "title": "ＥＱＴ、カカクコムのＴＯＢ価格引き上げ 1株3680円に - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRjRNMndyUjBLengwd1pXYzVNNmZ0aFRVbGl5NVJiaVM1dDdlSlVLUHkzalYwZlItTHZHa3FMcjBsa0IzX2VYZFduZ2V3bFBBeVhOWnZUUk1LVGNTOUNPTjVCM2xtTkxxdnRmU1JKQzlUX2RXVS1zWnE5ZVRhbHI5VEV1UW0?oc=5",
+      "summary": "ＥＱＴ、カカクコムのＴＯＢ価格引き上げ 1株3680円に&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T07:50:32+00:00"
     },
     {
       "title": "2901stat.HK - | Stock Price & Latest News | Reuters - Reuters",
@@ -1691,6 +1731,14 @@
       "summary": "シルバーウィーク5連休（9月19～23日）の高速道路の渋滞予測がNEXCO各社から発表された。それによると､ゴールデンウィークを上回る渋滞回数となることが予想されているほか､これまでになかった区間の…",
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
+      "published": "2026-09-10T05:00:00+00:00"
+    },
+    {
+      "title": "ウクライナ北部スムイの商業施設に無人機攻撃、2人死亡・20人負傷 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdmJFdkRKM3BPaHphamlQMzVqa2xCVVZlUnNuMlpxejJWZTVQQlZYZ2w3VjBEeV9vbi14NkhDdl8zLVJfazRHVklveHNEaDc0RnhsRTJFTFpxYU44OXJwTzRvQ2h3Ty1vM0gzS1J3YXZtWTRaeXBaZFAzV3RWdWV3MHZPNUo?oc=5",
+      "summary": "ウクライナ北部スムイの商業施設に無人機攻撃、2人死亡・20人負傷&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
       "published": "2026-09-10T05:00:00+00:00"
     },
     {
@@ -2030,6 +2078,22 @@
       "published": "2026-09-10T03:26:00+00:00"
     },
     {
+      "title": "さくらインターネット、不正アクセス巡り業績への影響「限定的」 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRX2RfUkd1MjZ1c1pfYjAwZEkwUm9qYm4wQ21LTjJ4cFUyNGZXOTd6WW9HdmFKb3ZDMnRzQTdSRG5WLXRQTmMxMTUwaGVKT3Y1RnZ2NGl0bDZfV1VacElCX3dvcDFEUTFkRHQ0eGRjMGhHeWF5TE5OV3Fn?oc=5",
+      "summary": "さくらインターネット、不正アクセス巡り業績への影響「限定的」&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T03:17:00+00:00"
+    },
+    {
+      "title": "1時間単位で2倍の値動き目指す個別株ＥＴＦ、デファイアンスが販売計画 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeENSVm1LcWNVV2kzX294amdzTFpYZUdxX1pkVW9RcnlnaUVaNWZmcXplSHFoeW1rb2stdUo4QVI0X3lBc2o0enhYUlJCd3lSWHRZYXdqa01fNmFnV0YxblFzR3hkZ1FseGNXMzBYdmd5X0tTU2xuMVFBYm1YcG1BaEphZHQ?oc=5",
+      "summary": "1時間単位で2倍の値動き目指す個別株ＥＴＦ、デファイアンスが販売計画&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T03:15:55+00:00"
+    },
+    {
       "title": "Breakingviews - COMMENTARY: コラム：カナダの報復関税、米激戦州への政治的圧力狙う - Reuters",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNODdLcklvRmFWaGRQMXBPWTJRZF9WRFBtRkIybnFyVlZvdFV6eUd2djZDRG44NkU4TkRabU1BVDhQbkN1U19WY3l0cnY3cFRFbVRJa1NxMTNJS3piRVh1bVVGQ2lXTElKM2lYZzZFam9ZS2lBb0N5Z1dsMVVnVHVkS0tpa0kxQ1hlVlVTWUNBaw?oc=5",
       "summary": "Breakingviews - COMMENTARY: コラム：カナダの報復関税、米激戦州への政治的圧力狙う&nbsp;&nbsp;Reuters",
@@ -2228,6 +2292,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-10T01:59:51+00:00"
+    },
+    {
+      "title": "ヨルダン駐留の米軍機が複数損傷、夜間空爆で＝ＣＢＳ - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQazgyR0ZCeW5JRVFwaE80SFVaanZHNklRT0lodElsblZUaGZKUmN1VlZlUUxmeF9fSVVlUnNZZmdqOG5ZS2ZabmI3WFN1WVNlUEZqRlpTVjlUSjhYalhPOTNfZTkxV2p0UjRLemx4ZUhLZkh1WmM1OU1JOWFSb2N3amtOMlNSdw?oc=5",
+      "summary": "ヨルダン駐留の米軍機が複数損傷、夜間空爆で＝ＣＢＳ&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T01:59:00+00:00"
     },
     {
       "title": "Show HN: What if the speed of light was 5 km/h?",
@@ -3356,6 +3428,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-09T18:39:55+00:00"
+    },
+    {
+      "title": "折り畳みｉＰｈｏｎｅ「デュオ」発表、アップルが主力製品を大幅刷新 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZRWw2WjhCeG5sMnBBWG5WOXd2a2ZJajV0dmFySTFsdUg2a09rSy1GY0w4bHh4SnZ3VzNBcVBtcVVUTlNRX3pJbmdIc25pMGNnMWc5RVl3cEp2djBIVWJlaVpZQjJMaWlXYUFSdm5PcGhUdWJldGFiRTBVMk4?oc=5",
+      "summary": "折り畳みｉＰｈｏｎｅ「デュオ」発表、アップルが主力製品を大幅刷新&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T18:34:00+00:00"
     },
     {
       "title": "I Don't Want to Interact with Stochastic Parrots",
