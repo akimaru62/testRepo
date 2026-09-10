@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T16:08:00.677088+00:00",
+  "generated_at": "2026-09-10T16:25:15.108701+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -166,6 +166,54 @@
   ],
   "items": [
     {
+      "title": "官房長官、裏金議員起用排除せず",
+      "link": "https://www.jiji.com/jc/article?k=2026091001195&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-10T16:25:09.401763+00:00"
+    },
+    {
+      "title": "紀子さま、還暦に　「今日という日迎え感謝」―典範改正「事実として受け止め」",
+      "link": "https://www.jiji.com/jc/article?k=2026091100004&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-10T16:25:09.401724+00:00"
+    },
+    {
+      "title": "Global Bond Yields Hit Multiyear Highs, Oil Fuels Inflation Fears",
+      "link": "https://www.wsj.com/finance/investing/bond-yields-edge-up-as-investors-await-ecb-rate-hike-u-s-treasury-buybacks-4cd2e9f3?mod=rss_markets_main",
+      "summary": "The selloff in global government bonds accelerated in European midday trade, pushing yields on 10-year German Bunds and Treasurys to fresh multiyear highs.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-10T16:19:00+00:00"
+    },
+    {
+      "title": "Building resilient real-time streaming workers with Amazon DynamoDB leases",
+      "link": "https://aws.amazon.com/blogs/architecture/building-resilient-real-time-streaming-workers-with-amazon-dynamodb-leases/",
+      "summary": "Real-time streaming workers that hold hundreds of persistent WebSocket connections lose data when a worker fails. Learn how to build a WebSocket fleet management system on Amazon ECS and AWS Fargate that uses Amazon DynamoDB conditional writes as a distributed lease to track ownership, fail over automatically, and deploy with low downtime.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-09-10T16:14:22+00:00"
+    },
+    {
+      "title": "Global bond sell-off reignites as oil jumps to $107",
+      "link": "https://www.ft.com/content/49e8c693-0064-4ef9-917f-5f2be97458fc?syn-25a6b1a6=1",
+      "summary": "US 30-year borrowing costs hit highs as falling Saudi oil production gives fresh impetus to rally in crude prices",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-10T16:08:21+00:00"
+    },
+    {
+      "title": "Vantage Data Centers seeks $2bn in loans from Pimco and PGIM",
+      "link": "https://www.ft.com/content/e7a8a9fa-0dc2-41df-890c-9628efac54fd?syn-25a6b1a6=1",
+      "summary": "DigitalBridge-backed firm taps new investors for AI infrastructure as Wall Street banks limit exposure",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-10T16:04:42+00:00"
+    },
+    {
       "title": "企業会計審議会第２回サステナビリティ情報保証部会議事録について掲載しました。",
       "link": "https://www.fsa.go.jp/singi/singi_kigyou/gijiroku/hoshou/20260703.html",
       "summary": "",
@@ -174,12 +222,52 @@
       "published": "2026-09-10T16:00:00+00:00"
     },
     {
+      "title": "Casablanca: How An Unproduced Play Marched into Movie History",
+      "link": "https://www.thecollector.com/casablanca-unproduced-play-movie-history/",
+      "summary": "Article URL: https://www.thecollector.com/casablanca-unproduced-play-movie-history/\nComments URL: https://news.ycombinator.com/item?id=49645826\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T15:52:02+00:00"
+    },
+    {
+      "title": "Serverless DTLS",
+      "link": "https://proxylity.com/docs/listeners/dtls.html",
+      "summary": "Article URL: https://proxylity.com/docs/listeners/dtls.html\nComments URL: https://news.ycombinator.com/item?id=49645804\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T15:50:30+00:00"
+    },
+    {
+      "title": "Neki by PlanetScale",
+      "link": "https://neki.dev/",
+      "summary": "Article URL: https://neki.dev/\nComments URL: https://news.ycombinator.com/item?id=49645763\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T15:48:14+00:00"
+    },
+    {
+      "title": "Neki",
+      "link": "https://planetscale.com/blog/introducing-neki",
+      "summary": "Article URL: https://planetscale.com/blog/introducing-neki\nComments URL: https://news.ycombinator.com/item?id=49645686\nPoints: 11\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T15:43:49+00:00"
+    },
+    {
       "title": "Renewable-energy mandates are actually bad for consumers. They’re not great for solar stocks, either.",
       "link": "https://www.marketwatch.com/story/renewable-energy-mandates-are-actually-bad-for-consumers-theyre-not-great-for-solar-stocks-either-bdfa13bb?mod=mw_rss_topstories",
       "summary": "Renewable-energy mandates in blue states are a major driver of higher electricity bills, adding directly to the cost-of-living problem.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-10T15:34:00+00:00"
+    },
+    {
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "link": "https://cognition.com/blog/swe-2",
+      "summary": "Article URL: https://cognition.com/blog/swe-2\nComments URL: https://news.ycombinator.com/item?id=49645443\nPoints: 23\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T15:29:47+00:00"
     },
     {
       "title": "Don't Let Anyone Take Away Your Big Box of Cables",
@@ -356,6 +444,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-10T14:20:22+00:00"
+    },
+    {
+      "title": "ＥＣＢ、今年2度目の利上げ 中東情勢でインフレ長期化と警告 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0T2pRaFRUQVR6Yk1ORWFObHpYaXhhd3pwR2Uxek9CWWhuc2puVllXcC1PTl9rZnRybGF0Zl9tNTMwcTI4a0Z6SnFXc01SeFhMZ2dWdlhJNU00WThGSkttNEFBMEdOS1JBVUtBajlmcVdtd2plell3SmZQUDI?oc=5",
+      "summary": "ＥＣＢ、今年2度目の利上げ 中東情勢でインフレ長期化と警告&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T14:18:45+00:00"
     },
     {
       "title": "Home sales are the lowest they’ve been all year even though inventory is at a 7-year high",
@@ -886,6 +982,14 @@
       "published": "2026-09-10T10:00:11+00:00"
     },
     {
+      "title": "Trump’s coal revival push fails to reverse fuel’s long decline",
+      "link": "https://www.ft.com/content/8a0bc64f-44c7-4811-8e68-fb17c0a6ae28?syn-25a6b1a6=1",
+      "summary": "Coal-fired electricity generation falls 11% in first half of 2026 as cheaper power sources such as natural gas grow",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-10T10:00:11+00:00"
+    },
+    {
       "title": "【\"膠着”を抜けて年末7万円超えへ】日経平均が再び上昇する理由／「3つの悪材料」をどう見る？／直近の円高は株式相場に影響する？／相場上昇のカギは「金利」の動向／「戦略17分野」は優先順位に注目 | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/957696?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "8月中旬には7万円に迫った日経平均株価だが、8月31日週から値を下げ、現在は6万5000円前後を推移している。上昇への重荷となっている要因は何か。年末に向け、上昇に転じるための条件は。和キャピタルの…",
@@ -1318,6 +1422,14 @@
       "published": "2026-09-10T07:00:22+00:00"
     },
     {
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "link": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "summary": "https://mathstodon.xyz/@andreasthom/117240536885387540https://mathstodon.xyz/@andreasthom/117240537520615623https://x.com/ValerioCapraro/status/2097791836269977996, https://xcancel.com/ValerioCapraro/status/209779183626997799...https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/po...\n\nComments URL: https://news.ycombinator.com/item?id=49639408\nPoints: 27\n# Comments: 269",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T06:49:43+00:00"
+    },
+    {
       "title": "中部電、電気料金12億円を過大請求　複数の役職員が算定ミスを放置",
       "link": "https://www.asahi.com/articles/ASV9B11PXV9BULFA00HM.html?ref=rss",
       "summary": "",
@@ -1404,6 +1516,22 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-10T05:50:00+00:00"
+    },
+    {
+      "title": "「共和党勝てば全成人に5000ドル」、トランプ氏が中間選挙へ異例の訴え - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0ZaQy1McWJjSHMwbEoxT3FJNnhQdDBJR3Q3eXQtcUV4Zk9oTnFjQmJKRU13cnBaUGl6d1JxbXMxTVhWYXNSYXQ4QnZnNnd6Q1lkUDh0Y0pWMUV4SzQ3YWpqMmVKNWJOZGR4MURsaW9UOV8xVUdvMG1pbFpSN1NzUzZONTIwdw?oc=5",
+      "summary": "「共和党勝てば全成人に5000ドル」、トランプ氏が中間選挙へ異例の訴え&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T05:33:55+00:00"
+    },
+    {
+      "title": "コラム：日銀金融政策の「その先」、政策金利が中立化した後の課題とは＝井上哲也氏 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWmZmckVOYV9UaEFoRDgxM2FQa0ZiVlFCQm9weHZXdkkzZGtIUm5Fc1I0d1ZmMjhhUjVqRmdIWllKSkNPRG96YW1mQVJRbmZCQk1Xc0pCdlE0S2YxdjVWQ1VlSWJnUGlYZWR4THhSQVFWTERmQTI0VVRvMVVGanlGVWF5UzNmU0tBWjVIcg?oc=5",
+      "summary": "コラム：日銀金融政策の「その先」、政策金利が中立化した後の課題とは＝井上哲也氏&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T05:33:00+00:00"
     },
     {
       "title": "トランプ氏、コーエン元顧問弁護士の恩赦検討 有罪判決の証言者 - Reuters",
@@ -2006,6 +2134,14 @@
       "published": "2026-09-10T01:20:00+00:00"
     },
     {
+      "title": "9月ロイター企業調査：政府に求める円安対応、「財政健全化」が最多 望ましい水準は150円台 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ITE0zbnZUNTlKN3ViQzhibTQ5RjB1LV9zU2tUOEN4b1hESlR4VTB3eXEyZUNhM2d4RjdUWFdLbmJZWWN2ZTNMNGZqSmkxRzZDYWhNVXZ6ZDZyc2k0Z3lPYk5aT0dDTVl5TzhSaURZS0hHV2ZfdFcxN1MwRGY?oc=5",
+      "summary": "9月ロイター企業調査：政府に求める円安対応、「財政健全化」が最多 望ましい水準は150円台&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T01:18:54+00:00"
+    },
+    {
       "title": "2683.JSA - | Stock Price & Latest News - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcnVoOXFJUHJqUFAzMVg5YVNzZVhleWRhQnZUbGFEZndNeUlHNGd6Ym1tX1NvbUtJek1lX3dobV9rM1plekVSTS1tSW9kQUhBcVNxdUk2TVBzOUpna3M0MndsV0E0M0pHc0NEMHhGZjZFdk45dkMxb3pBcHZBUXQ2d2ZoZmFCQ0Vj?oc=5",
       "summary": "2683.JSA - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
@@ -2028,6 +2164,46 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-10T01:15:00+00:00"
+    },
+    {
+      "title": "北朝鮮、中国との「新鴨緑江大橋」完成間近 長期停滞経て＝分析会社 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORERGQ0IxeDcyMXRBcEFYOWZaQjZEYk5hZDdrRUUzR0Y1Ql9vQ1VQeFlONTIyeVJGSmNxUDZNcUlaN3NYQ2F3clQ5TTVTcEJHZmtpdUlLbkppRnk4aHVtblc0NHF6OGFCOGpEU3lwd0MxbHRGcEF5STVqbG14N2VGZy1n?oc=5",
+      "summary": "北朝鮮、中国との「新鴨緑江大橋」完成間近 長期停滞経て＝分析会社&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T01:09:36+00:00"
+    },
+    {
+      "title": "米エネルギー消費量、今年と来年に過去最高更新へ＝ＥＩＡ - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxSXlZYjd3bHJoaWhIX2pPNUJ1NTRJSklhaFJwQlpBMkxSZmxjWURLZzA1WTViUkFqNDlyVksxc1VST1QtaHlFNVREamN5R3VyRW5Fc3hBSFNnWGZmMll5WUo3Y1JpSlA2RzkzcFFEUG9SSUEzM2h0VDE0UVl5dw?oc=5",
+      "summary": "米エネルギー消費量、今年と来年に過去最高更新へ＝ＥＩＡ&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T01:08:00+00:00"
+    },
+    {
+      "title": "中国ファーウェイ巡る刑事裁判が開廷、米企業技術窃取など争点 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOXZmZFc1X3N3d0Y4WG5ndDBIWHZMck9kWVB0Um8yNjc2OERYLTlaT0s0UzlMTkpsd01KNEFhcnI5aGd3amNhVUFMeVZTRG44bEFfbDNZcThaYm13cGVHaDQ5cXVyQ24zVFJBWV9uZmRrLTFseEZGSmxMQlB4ZFdBQnptMUhidw?oc=5",
+      "summary": "中国ファーウェイ巡る刑事裁判が開廷、米企業技術窃取など争点&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T01:08:00+00:00"
+    },
+    {
+      "title": "ＩＡＥＡ、シリア核活動の「疑問解消」 不拡散義務に違反せずと決議 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQclowY3B5aEVzNjE3ZWRzakZVV2NOTERDNzlRVUJ5SHF1cXljcGFOelpvTHpPRzR2bVVIZzdDNjFETm1NOHVKNjRPT1VuSFc5ekhDZnlNbnllNHBTMlJzQnhXQ1M0U1BKcFQxVXByNVU5QjBsbEdsV2F4R1kySHlaRkt3VDViUQ?oc=5",
+      "summary": "ＩＡＥＡ、シリア核活動の「疑問解消」 不拡散義務に違反せずと決議&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T01:07:00+00:00"
+    },
+    {
+      "title": "エアトリ、26年9月期業績予想を増益に修正 160円に大幅増配へ - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBdjA4OGhHemJPcHdfUWpHR3Y3Z3d6WFFIQzlmYVhpMHZTSFFacGJsbXlvUlZ2M1dDNXhBT28tTGEyUGFYaWJJSGJaXy1TR3ItZlQxLXZoR0RwQW5Yb01iMXZoNnNyVmNNMEVXVWdLNEJtYzlnZ0l3aWVn?oc=5",
+      "summary": "エアトリ、26年9月期業績予想を増益に修正 160円に大幅増配へ&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T01:06:00+00:00"
     },
     {
       "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
@@ -2390,6 +2566,14 @@
       "published": "2026-09-09T22:15:00+00:00"
     },
     {
+      "title": "アマゾンが初のポンド建て起債、58億ドル相当調達 投資家に警戒感も - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5UOWZTZE1fLTNFSFNFTkpUanZKWGw0VUpoVXl4YXdVQ0hLYzU3NnRaeUdrSHdqbkhNRTFobmNYR1pTbG1vcVQyLUoweFFYSFFLQ0FmSFBhNC1DUFNvYm9vNEc2YWtlVGI5NWE3eXJuRExIZEhNVGFfazZQOEI?oc=5",
+      "summary": "アマゾンが初のポンド建て起債、58億ドル相当調達 投資家に警戒感も&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T22:11:43+00:00"
+    },
+    {
       "title": "Hunter Biden’s memecoin flops, falling 95% just hours after launch",
       "link": "https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories",
       "summary": "Like so many memecoins before it, Hunter Biden’s $LAPTOP coin has flopped.",
@@ -2748,6 +2932,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-09T20:45:00+00:00"
+    },
+    {
+      "title": "6228.J3 - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxdmxvMVh2Z0I5SFF4enNCc25udlhCd0JESkJxNk5YMV9HMEwwNFVqdlc0TWd3Wi1DSjVVYlFvRTFRYUt6VGlUNnl6Y1h4ZnU3LTljUjkydU84N1NFNnVHeUh0Y3puMjBCcTVLQmJ6TGNUOFFWZS1FT19CV2R6Zw?oc=5",
+      "summary": "6228.J3 - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T20:44:07+00:00"
     },
     {
       "title": "熱海の｢入場無料｣昭和レトロ施設《売上が4倍》のカラクリ…\"稼ぎ頭\"は売上1位の喫茶ではなく｢1回100円｣のゲームだった | ビジネス | 東洋経済オンライン",
