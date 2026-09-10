@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T08:32:46.669291+00:00",
+  "generated_at": "2026-09-10T08:50:29.731707+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -158,6 +158,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fc61e905940>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fe12e6b9940>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -168,6 +172,54 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-10T16:00:00+00:00"
+    },
+    {
+      "title": "ナフサ高騰、価格転嫁5割超　4割はなお交渉中・検討中　中企庁調査",
+      "link": "https://www.asahi.com/articles/ASV9B2FP9V9BULFA017M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-10T08:50:25.257462+00:00"
+    },
+    {
+      "title": "Running the numbers on Trump’s $5,000 dividend proposal, from its cost to the impact on average American’s finances",
+      "link": "https://www.marketwatch.com/story/running-the-numbers-on-trumps-5-000-dividend-proposal-from-its-cost-to-the-impact-on-average-americans-finances-a708cba5?mod=mw_rss_topstories",
+      "summary": "Here are the numbers on what it would cost and the more complex analysis of what it mean for the economy.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-10T08:47:00+00:00"
+    },
+    {
+      "title": "Euro Is Stable Ahead of ECB Meeting",
+      "link": "https://www.wsj.com/finance/currencies/australian-dollar-touches-fresh-mid-may-highs-c61ab082?mod=rss_markets_main",
+      "summary": "The euro was stable against the dollar as investors awaited the ECB’s rate decision.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-10T08:45:00+00:00"
+    },
+    {
+      "title": "鳥貴族 均一価格410円に値上げへ",
+      "link": "https://news.yahoo.co.jp/pickup/6594875?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-10T08:43:17+00:00"
+    },
+    {
+      "title": "Stock Market Today: Bond Yields and Oil Edge Higher",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-10-2026?mod=rss_markets_main",
+      "summary": "Brent crude stays above $100, S&amp;P futures climb",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-10T08:33:43+00:00"
+    },
+    {
+      "title": "あいち・三十三FG 統合合意解消",
+      "link": "https://news.yahoo.co.jp/pickup/6594874?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-10T08:32:58+00:00"
     },
     {
       "title": "European TTF Gas Marches Higher on LNG Supply Fears",
