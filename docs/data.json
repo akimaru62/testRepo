@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T21:33:56.657446+00:00",
+  "generated_at": "2026-09-10T21:48:01.338568+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -194,9 +194,37 @@
     {
       "url": "https://www.mof.go.jp/news.rss",
       "error": "503 Server Error: Service Unavailable for url: https://www.mof.go.jp/news.rss"
+    },
+    {
+      "url": "https://www.mof.go.jp/news.rss",
+      "error": "503 Server Error: Service Unavailable for url: https://www.mof.go.jp/news.rss"
     }
   ],
   "items": [
+    {
+      "title": "｢チェーン店で松屋が一番好き｣　名ラーメン店･六厘舎が新ブランドで提供｢鮭らーめん｣意外と真面目な背景 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957519?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "東京駅前に誕生する新施設｢TOFROM YAESU｣に､伝説的ラーメン店｢六厘舎｣の三田遼斉氏が新ブランド｢参厘舎｣をオープン。朝7時から親しみある食材を使った\"朝ラーメン\"を提供し､ラーメンの常識…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-10T21:45:00+00:00"
+    },
+    {
+      "title": "Pentagon in Talks to Get Into AI Infrastructure Funding With a $5 Billion Loan",
+      "link": "https://www.wsj.com/tech/ai/pentagon-in-talks-to-get-into-ai-infrastructure-funding-with-a-5-billion-loan-0367eeb0?mod=rss_markets_main",
+      "summary": "Fluidstack, an AI infrastructure company, is being advised on the loan by the bank started by Palmer Luckey, an early supporter of Donald Trump.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-10T21:38:00+00:00"
+    },
+    {
+      "title": "A Trillion-Dollar ‘Trump Dividend’ Faces Hurdles",
+      "link": "https://www.wsj.com/politics/policy/a-trillion-dollar-trump-dividend-faces-hurdles-695c6e8c?mod=rss_markets_main",
+      "summary": "Plus, Iran is building missiles again and Florida pivots from crypto to defense.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-10T21:34:00+00:00"
+    },
     {
       "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
       "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
@@ -206,12 +234,44 @@
       "published": "2026-09-10T21:31:19+00:00"
     },
     {
+      "title": "NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami",
+      "link": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
+      "summary": "Article URL: https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx\nComments URL: https://news.ycombinator.com/item?id=49650418\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T21:30:55+00:00"
+    },
+    {
+      "title": "中道改革連合はなぜ行き詰まったのか､議員の離合集散を超え野党再生に必須の｢政策の結集軸｣とは | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957304?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "巨大与党に対抗するには､既存の政策をすり合わせるだけでは足りない。有権者の潜在的なニーズを捉え､古びた左右軸を超える新たな政策と国家像を打ち出すことが求められている。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-10T21:30:00+00:00"
+    },
+    {
+      "title": "｢11種ドリンクバー無料｣｢名物マーボ焼そば｣で大行列の《町中華チェーン》…ラーメン1杯でも配達する\"人情\"の凄み | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/956775?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "姫路市で｢市民の9割が知る｣と評判の老舗町中華チェーン。創業50年超､手頃な価格と圧倒的ボリューム､無料ドリンクバーに加え､多彩なメニューや行き届いたサービスで地元民の支持を集めています。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-10T21:30:00+00:00"
+    },
+    {
       "title": "The Unrelenting Bond Selloff Puts the 10-Year Yield on the Cusp of 5%",
       "link": "https://www.wsj.com/finance/investing/the-unrelenting-bond-selloff-puts-the-10-year-yield-on-the-cusp-of-5-78bfb4db?mod=rss_markets_main",
       "summary": "Rising borrowing costs threaten to disrupt the stock market and slow the economy.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-10T21:29:00+00:00"
+    },
+    {
+      "title": "The part of Navier-Stokes no one is talking about",
+      "link": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+      "summary": "Article URL: https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/\nComments URL: https://news.ycombinator.com/item?id=49650326\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T21:22:59+00:00"
     },
     {
       "title": "木原官房長官「球界発展に貢献」　張本勲さん死去",
@@ -290,6 +350,14 @@
       "link": "https://toyokeizai.net/articles/-/957075?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "中国で再生可能エネルギーへの転換が急速に進み､太陽光発電の設備容量が石炭火力を初めて上回りました。一方で､パネルメーカーの苦境や導入ペースの減速など課題も山積みです。脱炭素へと急速にかじを切る電力大…",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-10T21:00:00+00:00"
+    },
+    {
+      "title": "1200体のAIが「群れ」で暴走　なぜ想定を超える“協調”が起きたのか",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/11/news012.html",
+      "summary": "米OpenAIで、約1200のAIエージェントが連携して暴走するという事件が起きた。与えられた課題で高評価を得るために、“抜け道”を探し出そうとしてしまったことが原因だ。「目標達成だけを評価する仕組み」をAIに与えることは大きなリスクになる。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-09-10T21:00:00+00:00"
     },
@@ -1900,6 +1968,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-10T09:30:00+00:00"
+    },
+    {
+      "title": "焦点：米中間選挙に警戒乏しい株式市場、急変動リスク懸念も - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3VXYnVMRjN0Rldyajhzem11RVdMMHNGel9tOE9XU0dMcHMyRTZITlhpVGZONGN3TGRlaWtiTk9aVlljVExtaXVTYUFvNG14ZmxCRFNkeE12WmlXWFFuWksyaTBETDBYd2M5N3hLWUdmelkzVkNBV1JWM19wcXhlTHFMeFY?oc=5",
+      "summary": "焦点：米中間選挙に警戒乏しい株式市場、急変動リスク懸念も&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T09:29:23+00:00"
     },
     {
       "title": "新人・原沢敦美氏が出馬表明　横浜市長選",
