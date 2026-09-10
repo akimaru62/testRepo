@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T16:25:15.108701+00:00",
+  "generated_at": "2026-09-10T16:35:04.129018+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -182,6 +182,14 @@
       "published": "2026-09-10T16:25:09.401724+00:00"
     },
     {
+      "title": "U.S. Stocks Fall as Bond Yields Jump, Oil Climbs",
+      "link": "https://www.wsj.com/finance/investing/stock-futures-rise-treasury-yields-hold-near-highs-as-oil-tops-101-74944fa2?mod=rss_markets_main",
+      "summary": "Stocks fell as U.S. government bond yields jumped to multiyear highs and oil prices climbed further amid growing investor concerns about the war in Iran.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-10T16:24:00+00:00"
+    },
+    {
       "title": "Global Bond Yields Hit Multiyear Highs, Oil Fuels Inflation Fears",
       "link": "https://www.wsj.com/finance/investing/bond-yields-edge-up-as-investors-await-ecb-rate-hike-u-s-treasury-buybacks-4cd2e9f3?mod=rss_markets_main",
       "summary": "The selloff in global government bonds accelerated in European midday trade, pushing yields on 10-year German Bunds and Treasurys to fresh multiyear highs.",
@@ -196,6 +204,14 @@
       "source": "AWS ブログ (アーキテクチャ)",
       "category": "開発者向け",
       "published": "2026-09-10T16:14:22+00:00"
+    },
+    {
+      "title": "Traders refocus on US Treasury auction as sovereign debt rout intensifies",
+      "link": "https://www.ft.com/content/083a9c4b-3913-496d-be13-22c96053624b?syn-25a6b1a6=1",
+      "summary": "Global bond sell-off reignited by confluence of higher oil prices, sticky US inflation and ECB’s decision to raise interest rates",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-10T16:13:24+00:00"
     },
     {
       "title": "Global bond sell-off reignites as oil jumps to $107",
@@ -348,6 +364,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-10T15:23:00+00:00"
+    },
+    {
+      "title": "ECB prepares for ‘longer-lasting’ inflation as it lifts interest rates to 2.5%",
+      "link": "https://www.ft.com/content/7816ad68-58ed-494c-a66f-091a9cca2cbc?syn-25a6b1a6=1",
+      "summary": "Central bank’s president Christine Lagarde warns price shock driven by Middle East conflict will persist well into 2027",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-10T15:18:20+00:00"
     },
     {
       "title": "Derailing the AI train will be surprisingly difficult, according to Bank of America",
@@ -990,6 +1014,14 @@
       "published": "2026-09-10T10:00:11+00:00"
     },
     {
+      "title": "Decline of ‘beautiful’ coal deepens despite Trump’s push",
+      "link": "https://www.ft.com/content/8a0bc64f-44c7-4811-8e68-fb17c0a6ae28?syn-25a6b1a6=1",
+      "summary": "Coal-fired electricity generation falls 11% in first half of 2026 as cheaper power sources such as natural gas grow",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-10T10:00:11+00:00"
+    },
+    {
       "title": "【\"膠着”を抜けて年末7万円超えへ】日経平均が再び上昇する理由／「3つの悪材料」をどう見る？／直近の円高は株式相場に影響する？／相場上昇のカギは「金利」の動向／「戦略17分野」は優先順位に注目 | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/957696?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "8月中旬には7万円に迫った日経平均株価だが、8月31日週から値を下げ、現在は6万5000円前後を推移している。上昇への重荷となっている要因は何か。年末に向け、上昇に転じるための条件は。和キャピタルの…",
@@ -1502,6 +1534,14 @@
       "published": "2026-09-10T06:00:00+00:00"
     },
     {
+      "title": "中国のＡＩ半導体メーカーが値上げ、高帯域幅メモリ不足が深刻化 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CVjN2UlZVUlFOYjJsaHdONHFyNUhRaUxxR0dHVG9ibERNQ0J4QVBQUHN3amNrdzVUb1g1NDhnNFNBTFU1Wjg1NFNWekFJS2NQTnk1M2c2eUFlUVc3S2ZCMHloWTAxUmxGQ29qVHFxcndXdmJ3MzJ6alZIYVA?oc=5",
+      "summary": "中国のＡＩ半導体メーカーが値上げ、高帯域幅メモリ不足が深刻化&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T06:00:00+00:00"
+    },
+    {
       "title": "Bank of Korea Warns of Destabilizing Impact of High-Risk AI Trades",
       "link": "https://www.wsj.com/finance/stocks/bank-of-korea-warns-of-destabilizing-impact-of-high-risk-ai-trades-42291984?mod=rss_markets_main",
       "summary": "A surge of investment in leveraged exchange-traded funds generated significant volatility in the domestic stock market, the Bank of Korea said.",
@@ -1644,6 +1684,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-10T04:28:28.331378+00:00"
+    },
+    {
+      "title": "ホルムズ海峡通過船、9日は7隻に減少 10日間平均下回る - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDdERyWHhNRkt1dGZpekotNmd2MEJTaERvOUtLZUtuNUx2SnRrSkJ6em5lbDVwejAyX09QcmNZNXdhTzlqSGQ2TVJmR3lpNmVyX0o3c19MU3ZPOG01ODJLV0ZGYWVuSW5OZkM2M29WSGs5LUlpY3BmZUZjMGRNQQ?oc=5",
+      "summary": "ホルムズ海峡通過船、9日は7隻に減少 10日間平均下回る&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T04:28:00+00:00"
     },
     {
       "title": "OpenAI might have stolen another major proof",
@@ -1900,6 +1948,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-10T03:09:13.303124+00:00"
+    },
+    {
+      "title": "世界の平均気温、8月は観測史上最も暑い月に並ぶ - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zUlhHVVZmVEM4NlpzYkxJR1ZVNGZNTklIQ3prSU94YzZPb2g3LXFibUpuNmVNZzU2ZnZOcHhqb2hRRVNaZUZ3YmM3NkhvZmxaNS03ZG9JT0R6YWFXQThhbFNEeGdZU3ZJOTRSWlZaRFlVbUh3S2c2Zl8xTG4?oc=5",
+      "summary": "世界の平均気温、8月は観測史上最も暑い月に並ぶ&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T03:01:00+00:00"
     },
     {
       "title": "Climate outlook is ‘not pretty’ after oceans break heat records for 100 days",
@@ -2326,6 +2382,14 @@
       "published": "2026-09-10T00:00:00+00:00"
     },
     {
+      "title": "オープンＡＩエージェント、10余りの未公表サイトで無許可通信 判明分超える逸脱か - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9raU94LVgyai1GbEpNRGxESU1tTTBVM1ppdV9NVVFleDNjeFJ4MTJNRFNMSjlnd21vWmgtMk41WExLQW53dzlRMzhELWxrVHY3SXpOQVh6NThJcnIwUFVCVWFkTDVReWZkdTdVMXo1TUdLYVJuWDdfOFR5ZDg?oc=5",
+      "summary": "オープンＡＩエージェント、10余りの未公表サイトで無許可通信 判明分超える逸脱か&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T00:00:00+00:00"
+    },
+    {
       "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
       "link": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
       "summary": "Article URL: https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/\nComments URL: https://news.ycombinator.com/item?id=49636345\nPoints: 92\n# Comments: 34",
@@ -2508,6 +2572,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-09T22:30:00+00:00"
+    },
+    {
+      "title": "焦点：都市戦から敵陣潜入まで、中国軍が描く人型ロボットの戦場活用 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tT2dpeFZ5VXZCeFF5cWZyaS1obDVaU0d4RDJvSk91Sl9MNWdOMGR6Sktjc1EtUm9MSHV2SFgzdHdkNjQwX0lEM0hVZFRzSFMzZ1RyZ0pJckZ5azdUZWZlbjVzSXdDVHFtN0tPbk9tdDVGZE1fVzVzeVZhX2dHUQ?oc=5",
+      "summary": "焦点：都市戦から敵陣潜入まで、中国軍が描く人型ロボットの戦場活用&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T22:23:57+00:00"
     },
     {
       "title": "Blizzard Workers Win Historic Union Contract",
