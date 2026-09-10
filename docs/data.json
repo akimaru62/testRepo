@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T23:06:07.707616+00:00",
+  "generated_at": "2026-09-10T23:33:52.718044+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -218,7 +218,63 @@
   ],
   "items": [
     {
+      "title": "木原官房長官、政権で影響力　自民との連携に課題",
+      "link": "https://www.jiji.com/jc/article?k=2026091000853&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-10T23:33:47.301688+00:00"
+    },
+    {
+      "title": "高市首相、閣僚担務再編へ　「復興・防災」兼務検討―消費税担当の新設浮上・内閣改造",
+      "link": "https://www.jiji.com/jc/article?k=2026091001055&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-10T23:33:47.301671+00:00"
+    },
+    {
+      "title": "「監視国家」、新たな日常　治安強化へ政府組織拡大―権利侵害に懸念・米同時テロ２５年",
+      "link": "https://www.jiji.com/jc/article?k=2026091000678&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-10T23:33:47.301653+00:00"
+    },
+    {
+      "title": "規模は９００億円　米通貨当局の為替介入―ＥＣＢ総裁",
+      "link": "https://www.jiji.com/jc/article?k=2026091100203&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-10T23:33:47.301632+00:00"
+    },
+    {
+      "title": "入閣待機組、狭き門　焦る「安倍チルドレン」―自民",
+      "link": "https://www.jiji.com/jc/article?k=2026091001008&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-10T23:33:47.301591+00:00"
+    },
+    {
+      "title": "アップル初の折りたたみ｢iPhone Duo｣の予想を超える完成度､それでも厚さ11.3mmと36万円超はネックか | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957611?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "アップル初の折りたたみスマホ｢iPhone Duo｣がついに登場。iPad mini級の大画面やApple Pencil対応など､初物らしからぬ完成度が話題だ。一方で厚さや価格など課題も。果たしてi…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-10T23:00:00+00:00"
+    },
+    {
       "title": "Oracle reports rising data centre revenue as AI strategy accelerates",
+      "link": "https://www.ft.com/content/9df99d0b-6ef6-4530-8771-8b220f740e74?syn-25a6b1a6=1",
+      "summary": "Faster sales growth suggests progress in its risky push to compete in the AI infrastructure race",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-10T22:47:12+00:00"
+    },
+    {
+      "title": "Oracle’s data centre revenue surges as AI strategy accelerates",
       "link": "https://www.ft.com/content/9df99d0b-6ef6-4530-8771-8b220f740e74?syn-25a6b1a6=1",
       "summary": "Faster sales growth suggests progress in its risky push to compete in the AI infrastructure race",
       "source": "Financial Times",
@@ -238,6 +294,22 @@
       "link": "https://toyokeizai.net/articles/-/957533?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "仕事や家事に毎日追われ、生活がどんどん雑になっていく――。「丁寧な生活」が美しいとされる風潮もある中、自らの「丁寧とは言えない暮らし」に、なんだか後ろめたいような、モヤモヤした思いを持つ人も少なくな…",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-10T22:30:00+00:00"
+    },
+    {
+      "title": "ロボット3000台が商品を運ぶ　アマゾンが「関西最大」の物流拠点",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/11/news052.html",
+      "summary": "インターネット通販大手のアマゾンジャパンは10日、兵庫県尼崎市で8月5日から稼働を始めた物流拠点「アマゾン武庫川フルフィルメントセンター（FC）」を報道陣に公開した。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-09-10T22:30:00+00:00"
+    },
+    {
+      "title": "パナソニック、AI向け蓄電システム売上高1.5兆円規模も　EV電池から転換",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/11/news053.html",
+      "summary": "パナソニックホールディングス傘下で電池事業を手掛けるパナソニックエナジーの只信一生社長は10日、東京都内で報道陣の取材に応じ、AIデータセンター向け蓄電システムの売上高が「2030年度に最大1兆5000億円規模になる可能性がある」との見通しを示した。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-09-10T22:30:00+00:00"
     },
@@ -264,6 +336,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-10T22:25:00+00:00"
+    },
+    {
+      "title": "「トランプ配当」に共和党内で賛否、インフレ加速と財政悪化懸念も - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rVFFOOUN3cG11UktwUFpxcVpPdFRfSW9pOW1rbE5qcmFqdm5WSUpjZFF6ejZEeEVnSlpBSDJxekRHNTQ4WEFBaERQM2tKbzRVcXFQR1A4bUxGbjFVVnhnOTJFeFdZNlNNVGNob3pENGd4WnFuM1V0VEdvSWNhZw?oc=5",
+      "summary": "「トランプ配当」に共和党内で賛否、インフレ加速と財政悪化懸念も&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T22:23:43+00:00"
     },
     {
       "title": "欧州中銀、０．２５％追加利上げ　米イラン紛争で長期インフレ警戒",
@@ -424,6 +504,14 @@
       "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-09-10T22:00:00+00:00"
+    },
+    {
+      "title": "ＮＹ市場サマリー（10日）米国株続落、ドル上昇、10年債利回り5％に迫る - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RNEQxaThTVW9HLVR1WVVLMy1pRmwwTXdiNkc3X2diaXlab2RhWFZleldreVFuSlhLdEt5NU10WDg0M19xMXBoU3dhS3BUQlV3NTJ3VGxxdTJxRzRpb1Z1WURmamtvenlVSExvN01TUmRqVWdWZ1o3SDY0UHE?oc=5",
+      "summary": "ＮＹ市場サマリー（10日）米国株続落、ドル上昇、10年債利回り5％に迫る&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T21:57:43+00:00"
     },
     {
       "title": "ヨルダン米軍基地で軍機複数損傷、今週のイラン攻撃で＝米当局者 - Reuters",
@@ -818,6 +906,14 @@
       "published": "2026-09-10T19:38:00+00:00"
     },
     {
+      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+      "link": "https://auberon.xyz/blog/posts/deathray/",
+      "summary": "Article URL: https://auberon.xyz/blog/posts/deathray/\nComments URL: https://news.ycombinator.com/item?id=49649124\nPoints: 29\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T19:34:20+00:00"
+    },
+    {
       "title": "This simple mistake can give your money to the wrong person when you die. Here’s how to protect your estate.",
       "link": "https://www.marketwatch.com/story/this-simple-mistake-can-cost-your-loved-ones-their-share-of-your-estate-heres-how-to-protect-your-money-99374a95?mod=mw_rss_topstories",
       "summary": "Estate-planning crises usually come down to small oversights.",
@@ -861,6 +957,14 @@
       "title": "Creativity is the New Moat",
       "link": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
       "summary": "Article URL: https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat\nComments URL: https://news.ycombinator.com/item?id=49648732\nPoints: 73\n# Comments: 39",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T19:03:34+00:00"
+    },
+    {
+      "title": "Creativity is the new moat",
+      "link": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
+      "summary": "Article URL: https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat\nComments URL: https://news.ycombinator.com/item?id=49648732\nPoints: 116\n# Comments: 61",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-10T19:03:34+00:00"
@@ -1274,9 +1378,25 @@
       "published": "2026-09-10T15:47:50+00:00"
     },
     {
+      "title": "Silicon Valley is transforming the military-industrial complex?",
+      "link": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
+      "summary": "Article URL: https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex\nComments URL: https://news.ycombinator.com/item?id=49645754\nPoints: 138\n# Comments: 270",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T15:47:50+00:00"
+    },
+    {
       "title": "Neki",
       "link": "https://planetscale.com/blog/introducing-neki",
       "summary": "Article URL: https://planetscale.com/blog/introducing-neki\nComments URL: https://news.ycombinator.com/item?id=49645686\nPoints: 11\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T15:43:49+00:00"
+    },
+    {
+      "title": "Neki – Sharded Postgres",
+      "link": "https://planetscale.com/blog/introducing-neki",
+      "summary": "Article URL: https://planetscale.com/blog/introducing-neki\nComments URL: https://news.ycombinator.com/item?id=49645686\nPoints: 188\n# Comments: 96",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-10T15:43:49+00:00"
@@ -1514,6 +1634,14 @@
       "published": "2026-09-10T14:36:10+00:00"
     },
     {
+      "title": "CARZZ.AX - | Stock Price & Latest News | Reuters - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSamhoTWd6Nkk1Zk1CUWRGZWpKSjJOTUttNzdycHZLU1h4ck9lcEZMUmhiNHJXZk0wdjE0YUs0Z2U5dTU0OGo0cjMwZkE5OW02ZEJZQ0dzQ1dYSmJ1dkln?oc=5",
+      "summary": "CARZZ.AX - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T14:34:17+00:00"
+    },
+    {
       "title": "Houthis capture Red Sea port in blow to Saudis",
       "link": "https://www.ft.com/content/cd652b20-1fa3-4a51-bea7-4d7e33b1eaa2?syn-25a6b1a6=1",
       "summary": "Rebels overrun historic Yemeni port of Mocha as they advance south towards strategic Bab al-Mandeb Strait",
@@ -1661,6 +1789,14 @@
       "title": "Shopify moves back to Native from React Native",
       "link": "https://shopify.engineering/back-to-native",
       "summary": "Article URL: https://shopify.engineering/back-to-native\nComments URL: https://news.ycombinator.com/item?id=49643982\nPoints: 14\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T14:09:31+00:00"
+    },
+    {
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "link": "https://shopify.engineering/back-to-native",
+      "summary": "Article URL: https://shopify.engineering/back-to-native\nComments URL: https://news.ycombinator.com/item?id=49643982\nPoints: 663\n# Comments: 442",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-10T14:09:31+00:00"
@@ -2687,6 +2823,14 @@
       "summary": "米共和党大会でバンス氏演説へ、28年大統領選に向けた審査会に&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
+      "published": "2026-09-10T08:33:43+00:00"
+    },
+    {
+      "title": "Stock Market News, Sept. 10, 2026: Bond Yields Jump as Oil Climbs",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-10-2026?mod=rss_markets_main",
+      "summary": "Brent crude moves to about $105 a barrel; stocks fall",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
       "published": "2026-09-10T08:33:43+00:00"
     },
     {
@@ -4400,6 +4544,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-09T23:49:29+00:00"
+    },
+    {
+      "title": "2771.MU - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UTkpuVWwtVm5FdUlTY3ozRlVrYURfLXgyVDZCUVBFLXBVanR0VVNhV0RPX003REFZSk0yYzV6dU9sTXhjUkRVNVZiTlBqQ0x0QVd5a05hMm9IMmdxT2J3VXBfU2VIRkhhRDEw?oc=5",
+      "summary": "2771.MU - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T23:46:13+00:00"
     },
     {
       "title": "｢再建築不可｣廃墟の京町家を救ったのは\"省エネ\"だった…築130年超､崩壊寸前の家に開かれた意外な再生ルート | ライフ | 東洋経済オンライン",
