@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T22:06:50.419808+00:00",
+  "generated_at": "2026-09-10T22:21:41.034756+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -202,9 +202,69 @@
     {
       "url": "https://www.mof.go.jp/news.rss",
       "error": "503 Server Error: Service Unavailable for url: https://www.mof.go.jp/news.rss"
+    },
+    {
+      "url": "https://www.mof.go.jp/news.rss",
+      "error": "503 Server Error: Service Unavailable for url: https://www.mof.go.jp/news.rss"
     }
   ],
   "items": [
+    {
+      "title": "欧州中銀、０．２５％追加利上げ　米イラン紛争で長期インフレ警戒",
+      "link": "https://www.jiji.com/jc/article?k=2026091000670&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-10T22:21:22.257352+00:00"
+    },
+    {
+      "title": "ＮＹ原油、１００ドル突破　中東情勢緊迫で、株は続落",
+      "link": "https://www.jiji.com/jc/article?k=2026091100163&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-10T22:21:22.257330+00:00"
+    },
+    {
+      "title": "世界経済、３％成長可能　インフレに懸念も―ＩＭＦ報道官",
+      "link": "https://www.jiji.com/jc/article?k=2026091100174&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-10T22:21:22.257293+00:00"
+    },
+    {
+      "title": "「マイクロ波」技術磨いて世界初の実用化　化学産業に変革の波",
+      "link": "https://www.asahi.com/articles/ASV9B23W9V9BPLFA00LM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-10T22:21:22.032050+00:00"
+    },
+    {
+      "title": "V字回復中の住友ファーマ　経営は「大谷選手を探すのではなく……」",
+      "link": "https://www.asahi.com/articles/ASV992RSPV99PLFA004M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-10T22:21:22.032015+00:00"
+    },
+    {
+      "title": "SpaceX is inching closer to this lofty $100 billion milestone",
+      "link": "https://www.marketwatch.com/story/spacex-is-inching-closer-to-this-lofty-100-billion-milestone-11536cfc?mod=mw_rss_topstories",
+      "summary": "SpaceX has set an ambitious revenue target and a newly disclosed computing-power deal could get the company a bit nearer to its goal.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-10T22:19:00+00:00"
+    },
+    {
+      "title": "All the ways record-high diesel and rising gas prices are about to make your life more expensive — from commuting to grocery shopping",
+      "link": "https://www.marketwatch.com/story/all-the-ways-record-high-diesel-and-rising-gas-prices-are-about-to-make-your-life-more-expensive-from-commuting-to-grocery-shopping-2083fec3?mod=mw_rss_topstories",
+      "summary": "“Diesel touches everything in the economy,” one analyst says.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-10T22:18:00+00:00"
+    },
     {
       "title": "NY原油、5月以来の100ドル台　インフレ懸念で長期金利も上昇",
       "link": "https://www.asahi.com/articles/ASV9B4JMVV9BULFA023M.html?ref=rss",
@@ -212,6 +272,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-10T22:06:28.739214+00:00"
+    },
+    {
+      "title": "Global bond sell-off reignites as oil jumps to $109",
+      "link": "https://www.ft.com/content/49e8c693-0064-4ef9-917f-5f2be97458fc?syn-25a6b1a6=1",
+      "summary": "US yields reach highs of the day after Scott Bessent’s Treasury buyback operation undershoots its target",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-10T22:05:18+00:00"
     },
     {
       "title": "Here are the stocks to favor in the fourth quarter — and those you should avoid",
@@ -244,6 +312,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-10T22:00:00+00:00"
+    },
+    {
+      "title": "ヨルダン米軍基地で軍機複数損傷、今週のイラン攻撃で＝米当局者 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTTA1cHlwSzNIX01ITFlqRjVxekVzeUV4YlhSQzN2akYwSEVFY1AxT0xKRTR0NFhGRXozWFBRdVZUMXFpZkxHZ3l3MzNGaTl0WUtWLTNFUUl2T2JVS0E1Rmk2Mzgyem5BTXFPQmpxRk1XcXJiRHpwTGxRZHN5dGlXbHhjTVdfQQ?oc=5",
+      "summary": "ヨルダン米軍基地で軍機複数損傷、今週のイラン攻撃で＝米当局者&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T21:55:08+00:00"
     },
     {
       "title": "｢チェーン店で松屋が一番好き｣　名ラーメン店･六厘舎が新ブランドで提供｢鮭らーめん｣意外と真面目な背景 | ライフ | 東洋経済オンライン",
@@ -1230,6 +1306,14 @@
       "published": "2026-09-10T14:46:08+00:00"
     },
     {
+      "title": "米中古住宅販売、8月は14カ月ぶり低水準 ローン金利上昇響く - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFctNUJPNGRFQ0FSdk9TMkdySmVXSXJobXFDRUI3ZXgxNnh4Rm5GQlV1T2sxT3E2ei1DQnpyNEVJNmgtU2x5WE5RSC1YSHlHNExTbmRnRXAtWGVrdVFfdkhiWVNZMWs1dnA3U2c3U1ZFTEtTUThjNExaQk50V21Yd1pMamY?oc=5",
+      "summary": "米中古住宅販売、8月は14カ月ぶり低水準 ローン金利上昇響く&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T14:42:07+00:00"
+    },
+    {
       "title": "ABSI.DY - Reuters",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QQ3ptY1otc2dISHV0S29oaXdNUlZjVUhQUmNGNWxZRDNGMXl5UDlDRlpTaEtLNkFmM21jZUF6UHVrcnlBNGduRUsxLTd6Mm43d05BV1hYN1FBZG1jWDlNVzQzSzFBNWV1NGJhVA?oc=5",
       "summary": "ABSI.DY&nbsp;&nbsp;Reuters",
@@ -1812,6 +1896,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T10:54:01+00:00"
+    },
+    {
+      "title": "仏30年債利回りが23年ぶり高水準、独連邦債も2011年以来の水準に上昇 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94WkpWeEhqZmJraFRwM3ViT0tya29JanRRTy1ONEl6YjZDQk9Rckk2WG5mQXJZYlBfaTZzeWltVURfNWRuMnlsRE9sc09RQzRLcHA2ZXo0aWJzNEJUTFZFc0RvZlRkbUJiLURESjhUN3Rmdm45bWxlMXhR?oc=5",
+      "summary": "仏30年債利回りが23年ぶり高水準、独連邦債も2011年以来の水準に上昇&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T10:49:33+00:00"
     },
     {
       "title": "外食業界団体、消費減税に懸念　政府支援策は「望むものとギャップ」",
