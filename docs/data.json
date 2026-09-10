@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T06:13:35.325017+00:00",
+  "generated_at": "2026-09-10T06:42:09.668952+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -158,6 +158,14 @@
   ],
   "items": [
     {
+      "title": "中部電、電気料金12億円を過大請求　複数の役職員が算定ミスを放置",
+      "link": "https://www.asahi.com/articles/ASV9B11PXV9BULFA00HM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-10T06:42:03.906773+00:00"
+    },
+    {
       "title": "ホルムズ海峡への軍派遣に世論反対多数　韓国政府、慎重姿勢に修正か",
       "link": "https://www.jiji.com/jc/article?k=2026091000684&g=int&m=rss",
       "summary": "",
@@ -204,6 +212,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-10T05:50:00+00:00"
+    },
+    {
+      "title": "Must high bond yields crack stocks?",
+      "link": "https://www.ft.com/content/bdde7148-eab2-4e13-abc8-9652c52257f4?syn-25a6b1a6=1",
+      "summary": "It’s mood first, then maths",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-10T05:30:08+00:00"
     },
     {
       "title": "最高出力1001psで価格1億円超…アウディ史上､もっとも高価でハイパフォーマンスな新作｢ヌヴォラーリ｣が示す未来像 | ライフ | 東洋経済オンライン",
@@ -276,6 +292,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-10T04:28:28.331378+00:00"
+    },
+    {
+      "title": "OpenAI might have stolen another major proof",
+      "link": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
+      "summary": "Article URL: https://twitter.com/ValerioCapraro/status/2097791836269977996\nComments URL: https://news.ycombinator.com/item?id=49638353\nPoints: 89\n# Comments: 16",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T04:19:48+00:00"
     },
     {
       "title": "Data Centers Light Fire Under Uranium Prices",
@@ -367,6 +391,14 @@
     },
     {
       "title": "AI rewrites the venture capital playbook",
+      "link": "https://www.ft.com/content/0c440134-686f-4b55-ab35-2afe4e6a3f91?syn-25a6b1a6=1",
+      "summary": "Tech investors are rediscovering the kind of long-shot sci-fi bets that helped build Silicon Valley",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-10T04:00:10+00:00"
+    },
+    {
+      "title": "Silicon Valley bets on the impossible again",
       "link": "https://www.ft.com/content/0c440134-686f-4b55-ab35-2afe4e6a3f91?syn-25a6b1a6=1",
       "summary": "Tech investors are rediscovering the kind of long-shot sci-fi bets that helped build Silicon Valley",
       "source": "Financial Times",
