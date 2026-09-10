@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T17:07:07.022557+00:00",
+  "generated_at": "2026-09-10T17:22:18.028463+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -166,6 +166,22 @@
   ],
   "items": [
     {
+      "title": "ＮＹ原油急伸、再び１００ドル台　３カ月半ぶり、中東混迷長期化懸念",
+      "link": "https://www.jiji.com/jc/article?k=2026091001200&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-10T17:22:11.338112+00:00"
+    },
+    {
+      "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
+      "link": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
+      "summary": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling, and pitchbook tasks traditionally handled by junior bankers.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-09-10T17:12:29+00:00"
+    },
+    {
       "title": "U.S. Crude Oil Stockpiles Fall, Production Hits Record",
       "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-fall-production-hits-record-86b655c4?mod=rss_markets_main",
       "summary": "Commercial crude oil stocks fell by 391,000 barrels last week. Analysts had expected crude stocks to fall by 1.4 million barrels.",
@@ -286,6 +302,14 @@
       "published": "2026-09-10T16:00:00+00:00"
     },
     {
+      "title": "Forgejo <=16.0.3 Critical RCE",
+      "link": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+      "summary": "Article URL: https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md\nComments URL: https://news.ycombinator.com/item?id=49645907\nPoints: 15\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T15:57:40+00:00"
+    },
+    {
       "title": "Casablanca: How An Unproduced Play Marched into Movie History",
       "link": "https://www.thecollector.com/casablanca-unproduced-play-movie-history/",
       "summary": "Article URL: https://www.thecollector.com/casablanca-unproduced-play-movie-history/\nComments URL: https://news.ycombinator.com/item?id=49645826\nPoints: 5\n# Comments: 0",
@@ -308,6 +332,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-10T15:50:30+00:00"
+    },
+    {
+      "title": "Show HN: MultiMatte, a Promptable Image Background Removal Model",
+      "link": "https://usefeyn.com/blog/multimatte/",
+      "summary": "Hey HN, I'm Shreyash from Feyn. We help companies build custom models from their data.Today we're releasing MultiMatte, a background removal model you can aim with words. Name an object in your image. MultiMatte keeps just that thing, and removes everything else.Try it out on your images: https://usefeyn.com/multimatte/.Demo video: https://youtu.be/XZ5BJWAkOjsMultiMatte is open source. Build with it using our NoBg library https://github.com/feyninc/nobg. Model card here: https://hf.co/feyninc/multimatteMultiMatte is the second iteration of our background removal models. The first was FeyNoBg, which we released here https://news.ycombinator.com/item?id=49072462.The big upgrade is promptability. Most models keep all foreground elements when cutting the background. MultiMatte lets you prompt the exact objects you want to keep and remove everything else. For example, If you have an image with a dog and a bowl, you can ask MultiMatte to keep just the dog.MultiMatte is built on Meta's SAM 3, a concept-promptable detector that already understands phrases. Our biggest change was in masking. Instead of binary masks that classify each pixel as being inside or outside an object, MultiMatte uses alpha mattes that assign an opacity value to each pixel, with respect to an object. This allows us to better represent hair, fur, motion blur, and other kinds of fuzzy boundaries.Across all our measured benchmarks, MultiMatte shows a step improvement over SAM 3. On DIS5K, S-measure rises from 0.674 to 0.908 (a 34.6% relative gain), and on DUT-OMRON from 0.792 to 0.901 (13.7%).Our blog covers more of the training details and results https://usefeyn.com/blog/multimatte.Happy to answer any questions!\n\nComments URL: https://news.ycombinator.com/item?id=49645803\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T15:50:25+00:00"
     },
     {
       "title": "Neki by PlanetScale",
@@ -470,6 +502,14 @@
       "published": "2026-09-10T15:08:22+00:00"
     },
     {
+      "title": "Galaxy Z Fold 8 get the same folding animation as iPhone Duo",
+      "link": "https://forgeeks.net/iphone-duo-galaxy-fold-animation/",
+      "summary": "Article URL: https://forgeeks.net/iphone-duo-galaxy-fold-animation/\nComments URL: https://news.ycombinator.com/item?id=49645037\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T15:06:31+00:00"
+    },
+    {
       "title": "Show HN: Syq – copy files between machines fast (better than rsync)",
       "link": "https://greaber.github.io/syq/",
       "summary": "I got frustrated with the slowness of rsync and made an alternative that works faster by using multiple parallel connections, direct encrypted TCP when available, and other optimizations. I also added cool features like the ability to maintain a persistent ssh connection to the server for fast one-offs, the ability to download to your laptop while working in an ssh shell on a server, and the ability to do direct remote-remote transfers without forwarding your ssh agent (by using restricted ssh keys on the receiver that will only execute a specific request signed with the key on your laptop). It is also designed to be more robustly/flexibly scriptable than alternatives.\n\nComments URL: https://news.ycombinator.com/item?id=49644955\nPoints: 8\n# Comments: 4",
@@ -500,6 +540,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-10T14:49:00+00:00"
+    },
+    {
+      "title": "9233JPY.JPx - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY01iMzJIWFphdTd6NktNUjdyOC15QjM2amk3ZVlRRHkyc1QwMlVZMUxpUGVrcFBLajVGbUNXLUNna1FvWjEzRlVUYnptbS1yS2lQcVBkMHVRVkh3WmNBRUlFcFBGeDVnZllPWXpzNjlXeHEtMVBJa3NicEpLSjgzZ2p6ZHItdDA?oc=5",
+      "summary": "9233JPY.JPx&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T14:30:44+00:00"
     },
     {
       "title": "I’m always covering for a lazy employee. How can I deal with him without going crazy?",
@@ -604,6 +652,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-10T14:09:31+00:00"
+    },
+    {
+      "title": "NVGu.SIG - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORWotVXdtcGw2WW5DNzdTS21vZzRBODB4eFF0anFOdTJkWGJRSVd3cXpxZGhaa3ZDRFNnS1NaeUg5U18yUWtNUEhnX0RtTWRYSXpsdkF1QTFlNm9adEVyNXR3MGRpTG0tYkJtLVpMbUlSWUVYbXJZZzJDSDBCWFlwTlVmTQ?oc=5",
+      "summary": "NVGu.SIG&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T14:03:36+00:00"
     },
     {
       "title": "Oil Extends Rally As Middle East Conflict Flares Up",
@@ -1366,6 +1422,14 @@
       "published": "2026-09-10T08:32:58+00:00"
     },
     {
+      "title": "2901ta.HK - | Stock Price & Latest News | Reuters - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14OHZUS0RVVnJZTGhkVkdlLVRXbmYyQ0gtTHdDSmNtNEp6RVE5cmpDUUxlMGxReUNGUF8ybmhOYWNhSGItVFRSeHhWVXNmU0lnNm1LV19FWWR5cGxQbDFyQg?oc=5",
+      "summary": "2901ta.HK - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T08:20:14+00:00"
+    },
+    {
       "title": "European TTF Gas Marches Higher on LNG Supply Fears",
       "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-marches-higher-on-lng-supply-fears-2787b6b7?mod=rss_markets_main",
       "summary": "The benchmark Dutch TTF contract was flat in early trading. Inventory levels and disruptions in the Middle East keep European natural gas prices at their highest since the end of 2022.",
@@ -1566,6 +1630,14 @@
       "published": "2026-09-10T06:49:43+00:00"
     },
     {
+      "title": "基調物価、大きく2％超える状況「今見えるわけではない」＝増日銀委員 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVmZxYjkybGxaRVJPY3kyZkFFYWMwdXdsb05rMlEwemVpaEJYTDh2SDlVMVB3bFdBRG1nZU9HSXB1a3U4Q3BaOUJ4aVIzSFJBN19hU3ZHYVAyaXNpYUtzVXJLTENwWkVRX1lKV1RkeTJMaC1FcU1BM0ktYlMtNy03LWVIMXBickN5Z0NfNGprVQ?oc=5",
+      "summary": "基調物価、大きく2％超える状況「今見えるわけではない」＝増日銀委員&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T06:46:00+00:00"
+    },
+    {
       "title": "中部電、電気料金12億円を過大請求　複数の役職員が算定ミスを放置",
       "link": "https://www.asahi.com/articles/ASV9B11PXV9BULFA00HM.html?ref=rss",
       "summary": "",
@@ -1716,6 +1788,22 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-10T05:14:00+00:00"
+    },
+    {
+      "title": "世界のクリーンテック投資、上半期17％減 中国減速響く - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLUVqOUtvMGFlUk1SSWRsOG5FdUN4SXpuY1o1NFhqcXV4c1JDaHh4WmtNSmx0RXZYM3h3YmM3SmNuakNkWjg2QnVta2I4ckVJeHdRRnRXRlF6UEQ2UkdTRTZoU1V6TzBRREFrZTA5UWZmU3huanVzUVNCTTBtTDJvN0R3?oc=5",
+      "summary": "世界のクリーンテック投資、上半期17％減 中国減速響く&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T05:14:00+00:00"
+    },
+    {
+      "title": "高市首相、適齢期や女性枠より実力主義＝内閣改造・党役員人事で官房長官 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQemxROEFvMHl1VnNnTmpVRklVbERGY19Xb2pOaldxNG92R243eFZxbnRWX0wzaEZrV0ZuczFWTHNVS1dydGJabWkyMkR0bHVnTnBzT3l2aWl3bWRBb1dNdXo3UkxHRjJkaGhiRmlhd1Y1LUJ6cGVPbWpkVkp4Zl9KTUdaeHg?oc=5",
+      "summary": "高市首相、適齢期や女性枠より実力主義＝内閣改造・党役員人事で官房長官&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T05:03:00+00:00"
     },
     {
       "title": "OpenAI have no mathematicians capable of understanding what they put out",
@@ -2027,6 +2115,14 @@
       "summary": "米Appleは9日、1999ドル（約30万7000円）の折りたたみ式iPhone「Duo」を発表した。デザインとデータプライバシーへの取り組みを武器に、何年も前から折りたたみ式スマートフォンを販売してきた競合他社を一気に追い抜くことを狙う。",
       "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
+      "published": "2026-09-10T03:32:00+00:00"
+    },
+    {
+      "title": "ロシアの黒海沿岸ソチで水上ドローン攻撃、8人負傷＝地元当局 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRTBTU3dPa05Fb3BBMy0yLURpMEtvaHhOSGVSaWlnbWZpNjdqX3Jwc1VWU3h3VEw2ZnFTcEVKMHhZMDZPVk8yU2lpX2Z6b1BjMjVBNlBDRmloMENZY0hOcUZtX0xIRUhZR0w3MzlIVU81UjRaa3ZlNmFaYTlwR2NwdURuVHo?oc=5",
+      "summary": "ロシアの黒海沿岸ソチで水上ドローン攻撃、8人負傷＝地元当局&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
       "published": "2026-09-10T03:32:00+00:00"
     },
     {
@@ -2540,6 +2636,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-10T00:18:00+00:00"
+    },
+    {
+      "title": "BCJs.TRE - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVUhqcHJNdHc0NUJtOEV3WEVaRXpyNUljX1JVbThJSlBXUlV5Vm1XQU1EcnAzbmpQX2Zjc0xHSTZ0WHNuOUtMR0pYMXFLR3NBTWxBRy1kdVo1a1JUTUtyRkR1WkF4aGMxTlRoUGp0dzQ2bmF2V0kxOE95RWVTcDBzTDQ0bEF5SnZp?oc=5",
+      "summary": "BCJs.TRE - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T00:17:27+00:00"
     },
     {
       "title": "Oil Rises Amid Escalation in Mideast Conflict",
