@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T19:05:54.324351+00:00",
+  "generated_at": "2026-09-10T19:18:57.157669+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -162,9 +162,37 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fe12e6b9940>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "502 Server Error: Bad Gateway for url: https://hnrss.org/frontpage"
     }
   ],
   "items": [
+    {
+      "title": "フーシ派、要衝近郊の都市制圧か　海上通航掌握の可能性も―イエメン",
+      "link": "https://www.jiji.com/jc/article?k=2026091001077&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-10T19:18:51.824869+00:00"
+    },
+    {
+      "title": "ＮＡＴＯ同盟国にＩＣＣ脱退要求　米大使「誰が味方か注視」―報道",
+      "link": "https://www.jiji.com/jc/article?k=2026091001202&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-10T19:18:51.824830+00:00"
+    },
+    {
+      "title": "Would you buy stock in a company whose own scientists think the product might kill you?",
+      "link": "https://www.marketwatch.com/story/would-you-buy-stock-in-a-company-whose-own-scientists-think-the-product-might-kill-you-f8bc04c3?mod=mw_rss_topstories",
+      "summary": "A former Anthropic employee said he was quitting this week and that AI companies are “gambling with our lives.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-10T19:07:00+00:00"
+    },
     {
       "title": "Treasury yields hit session highs after Bessent’s buyback operation misses target",
       "link": "https://www.ft.com/content/083a9c4b-3913-496d-be13-22c96053624b?syn-25a6b1a6=1",
@@ -6172,6 +6200,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-09T06:31:28+00:00"
+    },
+    {
+      "title": "G0Emu.TBEA - | Stock Price & Latest News | Reuters - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPSl9xM0xNV0xnNnNXZVBFb2gxRkw0cHpKZ1pwNHp4d05aUEE2VG5lUzl5RUxCekdUdW1vWFNxamE3STlQN2VLdlVJUDNDdVd6MllIUkJwWks1Q1hmSXhsTXJR?oc=5",
+      "summary": "G0Emu.TBEA - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T06:30:26+00:00"
     },
     {
       "title": "1720.H - | Stock Price & Latest News - Reuters",
