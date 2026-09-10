@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T19:47:50.779577+00:00",
+  "generated_at": "2026-09-10T20:07:21.604904+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -166,9 +166,29 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "502 Server Error: Bad Gateway for url: https://hnrss.org/frontpage"
+    },
+    {
+      "url": "https://www.mof.go.jp/news.rss",
+      "error": "503 Server Error: Service Unavailable for url: https://www.mof.go.jp/news.rss"
     }
   ],
   "items": [
+    {
+      "title": "60歳超で給料アップも…！｢静かな退職｣が広がる裏で､ベテランの\"昔取った杵柄\"を戦力に変えた富士通の鮮やかな一手 | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957446?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢静かな退職｣は､若者だけでなく中高年にも拡大中です。役職定年や再雇用により責任や給与が大きく変化し､モチベーション低下が深刻な課題に。シニアの活躍を引き出している､富士通の取り組みを紹介します。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-10T20:00:00+00:00"
+    },
+    {
+      "title": "Tight Supply Worries Lift Oil As Middle East Conflict Heats Up",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-escalation-in-mideast-conflict-1394ff07?mod=rss_markets_main",
+      "summary": "Oil futures rose to their highest level in nearly four months with increased fighting across the Persian Gulf region raising supply worries.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-10T19:46:00+00:00"
+    },
     {
       "title": "U.S. Natural Gas Futures Edge Higher",
       "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-marches-higher-on-lng-supply-fears-2787b6b7?mod=rss_markets_main",
@@ -792,6 +812,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-10T14:46:08+00:00"
+    },
+    {
+      "title": "Houthis capture Red Sea port in blow to Saudis",
+      "link": "https://www.ft.com/content/cd652b20-1fa3-4a51-bea7-4d7e33b1eaa2?syn-25a6b1a6=1",
+      "summary": "Rebels overrun historic Yemeni port of Mocha as they advance south towards strategic Bab al-Mandeb Strait",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-10T14:31:22+00:00"
     },
     {
       "title": "9233JPY.JPx - Reuters",
@@ -5210,6 +5238,14 @@
       "published": "2026-09-09T10:54:18+00:00"
     },
     {
+      "title": "G0Emu.TBEA - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOczFjaFBndV9qemRyWVBjTm1MeEdMUzYzRFhhQS1WV01WWTJXaVRoQVpWakhKRmlKazN2RXZTVHVESU1OX1AzUzBRWEdQdmN5QVpGbEEtdS1mdmVVMFYtd0VjSzFpQ0tJeVpxdGxadTF2Q005UEFmdkN4T1FrTlk5ZEhIY3BvRndNOXVB?oc=5",
+      "summary": "G0Emu.TBEA - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T10:51:59+00:00"
+    },
+    {
       "title": "ロシア南部ノボロシースクに無人機攻撃、4人死亡29人負傷 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTUNZWVlVcVRaLXdZZFdPY1F6cUN0N3VYZ1FPb2lDOFlYem1fRlhra3FZN09hQVBZY2F3VnhMcnIxbmdrUHdEbndFUXpiQUZqTEs5Umo1NWtOTFBDdFRnZVI4ZzZaU2swSDUwT2Z0VHl6MVFHa3JBSHFLM2YwYXhiRg?oc=5",
       "summary": "ロシア南部ノボロシースクに無人機攻撃、4人死亡29人負傷&nbsp;&nbsp;Reuters",
@@ -5688,6 +5724,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-09T08:31:00+00:00"
+    },
+    {
+      "title": "5EJ.H - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaUh2QjVlaElUM3RkcmE2QURoS2docFNzTDBQRjJ2TWszcHo2a3FjMFdxUi1MdVB0U0JRdGJzOWNyS09jQ0FzWDFLQ1ljN09NYVNyVUxTcmYyMk1TVnBLMjJZVEx2dkcyTUt5b2hHUUNLRWN1TWo4TjJubkJza3ZRNzY3WnY?oc=5",
+      "summary": "5EJ.H - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T08:30:35+00:00"
     },
     {
       "title": "5EJ.H - Reuters",
