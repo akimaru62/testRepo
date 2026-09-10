@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T20:22:57.632983+00:00",
+  "generated_at": "2026-09-10T20:33:32.642183+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -174,9 +174,29 @@
     {
       "url": "https://www.mof.go.jp/news.rss",
       "error": "503 Server Error: Service Unavailable for url: https://www.mof.go.jp/news.rss"
+    },
+    {
+      "url": "https://www.mof.go.jp/news.rss",
+      "error": "503 Server Error: Service Unavailable for url: https://www.mof.go.jp/news.rss"
     }
   ],
   "items": [
+    {
+      "title": "Treasury yields surge after Bessent’s beefed-up buyback operation fails to calm market",
+      "link": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
+      "summary": "The Treasury market’s painful rout intensified Thursday, after an underwhelming auction of 30-year U.S. government debt and Treasury Secretary Scott Bessent’s first beefed-up buyback operation.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-10T20:24:00+00:00"
+    },
+    {
+      "title": "Bonds Sell Off Despite Buyback Operation",
+      "link": "https://www.wsj.com/finance/investing/bonds-sell-off-despite-buyback-operation-1126d0da?mod=rss_markets_main",
+      "summary": "Plus, oil prices surge above $107 a barrel and wholesale inflation picks up.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-10T20:23:00+00:00"
+    },
     {
       "title": "U.S. Stocks Fall as Oil Tops $100, Yields Hit Multiyear Highs",
       "link": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-oil-tops-100-yields-hit-multiyear-highs-0cd4f1ec?mod=rss_markets_main",
@@ -184,6 +204,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-10T20:19:00+00:00"
+    },
+    {
+      "title": "Global bond sell-off reignites as oil jumps to $108",
+      "link": "https://www.ft.com/content/49e8c693-0064-4ef9-917f-5f2be97458fc?syn-25a6b1a6=1",
+      "summary": "US yields reach highs of the day after Scott Bessent’s Treasury buyback operation undershoots its target",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-10T20:18:08+00:00"
     },
     {
       "title": "Stocks are sliding as this ‘negative risk trinity’ spooks investors",
@@ -832,6 +860,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-10T14:46:08+00:00"
+    },
+    {
+      "title": "ABSI.DY - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QQ3ptY1otc2dISHV0S29oaXdNUlZjVUhQUmNGNWxZRDNGMXl5UDlDRlpTaEtLNkFmM21jZUF6UHVrcnlBNGduRUsxLTd6Mm43d05BV1hYN1FBZG1jWDlNVzQzSzFBNWV1NGJhVA?oc=5",
+      "summary": "ABSI.DY&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T14:36:10+00:00"
     },
     {
       "title": "Houthis capture Red Sea port in blow to Saudis",
