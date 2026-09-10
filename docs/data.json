@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T08:11:00.945163+00:00",
+  "generated_at": "2026-09-10T08:32:46.669291+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -168,6 +168,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-10T16:00:00+00:00"
+    },
+    {
+      "title": "European TTF Gas Marches Higher on LNG Supply Fears",
+      "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-marches-higher-on-lng-supply-fears-2787b6b7?mod=rss_markets_main",
+      "summary": "The benchmark Dutch TTF contract was flat in early trading. Inventory levels and disruptions in the Middle East keep European natural gas prices at their highest since the end of 2022.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-10T08:16:00+00:00"
     },
     {
       "title": "あいちフィナンシャルグループと三十三（さんじゅうさん）フィナンシャルグループは、経営統合に関する基本合意の解除を決めた",
@@ -805,6 +813,14 @@
       "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
       "link": "https://hugovergnes.github.io/little-lm-3-8b/",
       "summary": "Article URL: https://hugovergnes.github.io/little-lm-3-8b/\nComments URL: https://news.ycombinator.com/item?id=49637435\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T02:04:11+00:00"
+    },
+    {
+      "title": "Training a 3.8B LLM to 0.384 CORE for $998",
+      "link": "https://hugovergnes.github.io/little-lm-3-8b/",
+      "summary": "Article URL: https://hugovergnes.github.io/little-lm-3-8b/\nComments URL: https://news.ycombinator.com/item?id=49637435\nPoints: 64\n# Comments: 11",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-10T02:04:11+00:00"
