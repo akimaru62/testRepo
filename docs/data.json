@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T07:47:38.245251+00:00",
+  "generated_at": "2026-09-10T08:11:00.945163+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -154,6 +154,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f7096aa97f0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fc61e905940>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -164,6 +168,54 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-10T16:00:00+00:00"
+    },
+    {
+      "title": "あいちフィナンシャルグループと三十三（さんじゅうさん）フィナンシャルグループは、経営統合に関する基本合意の解除を決めた",
+      "link": "https://www.jiji.com/jc/article?k=2026091000790&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-10T08:10:55.616498+00:00"
+    },
+    {
+      "title": "フェリー火災、５人死亡　８０人超不明―フィリピン",
+      "link": "https://www.jiji.com/jc/article?k=2026091000628&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-10T08:10:55.616483+00:00"
+    },
+    {
+      "title": "大谷翔平、負傷者リストへ　右上腕、左膝の故障長引き―米大リーグ・ドジャース",
+      "link": "https://www.jiji.com/jc/article?k=2026091000734&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-10T08:10:55.616436+00:00"
+    },
+    {
+      "title": "積水ハウス、米国の住宅販売に苦戦　中間決算は売り上げ減少",
+      "link": "https://www.asahi.com/articles/ASV9B2FWNV9BPLFA001M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-10T08:10:55.121179+00:00"
+    },
+    {
+      "title": "減少止まらぬ銭湯 活路にサウナ",
+      "link": "https://news.yahoo.co.jp/pickup/6594870?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-10T08:02:47+00:00"
+    },
+    {
+      "title": "流動性供給(第461回)入札において追加発行した国債の銘柄",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260910a.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-09-10T08:00:00+00:00"
     },
     {
       "title": "日産「キャラバン」など3万6千台をリコール　ブレーキ部品に不具合",
@@ -1564,6 +1616,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-09T20:47:08+00:00"
+    },
+    {
+      "title": "3121.JSA - | Stock Price & Latest News | Reuters - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoZVZyVGpSUGNUVy1YNnBMM1FTRS1hT29DNlZ6cDhWS1ExQm14TVZFRDY0Z2FjUEFpY2p2d1hrR1cwM0ZVdDRCdGFpQzA2N0o5bmxUQVBvT2NKWm1GZlRZ?oc=5",
+      "summary": "3121.JSA - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T20:45:59+00:00"
     },
     {
       "title": "NHK『税金で買った本』のモデルとなった《全国2位の大学図書館》が話題…日本中に\"すごい図書館\"が増殖中のなぜ | ライフ | 東洋経済オンライン",
