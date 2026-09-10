@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T21:48:01.338568+00:00",
+  "generated_at": "2026-09-10T22:06:50.419808+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -198,9 +198,53 @@
     {
       "url": "https://www.mof.go.jp/news.rss",
       "error": "503 Server Error: Service Unavailable for url: https://www.mof.go.jp/news.rss"
+    },
+    {
+      "url": "https://www.mof.go.jp/news.rss",
+      "error": "503 Server Error: Service Unavailable for url: https://www.mof.go.jp/news.rss"
     }
   ],
   "items": [
+    {
+      "title": "NY原油、5月以来の100ドル台　インフレ懸念で長期金利も上昇",
+      "link": "https://www.asahi.com/articles/ASV9B4JMVV9BULFA023M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-10T22:06:28.739214+00:00"
+    },
+    {
+      "title": "Here are the stocks to favor in the fourth quarter — and those you should avoid",
+      "link": "https://www.marketwatch.com/story/here-are-the-stocks-to-favor-in-the-fourth-quarter-and-those-you-should-avoid-cf2dd10b?mod=mw_rss_topstories",
+      "summary": "Large caps tend to outperform small caps as year’s end approaches.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-10T22:02:00+00:00"
+    },
+    {
+      "title": "サンド伊達さん公表で注目　｢脳梗塞｣で知っておくべき\"顔･腕･言葉に表れる前触れ\"と､予防可能な\"10の危険因子\" | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957411?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "サンドウィッチマンの伊達みきおさんが脳梗塞を公表。幸い大事には至らなかったとのことですが､脳梗塞は｢異変に気づいてから病院に着くまでの時間｣で､その後の重症度が大きく変わる病気です。その前触れと､予…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-10T22:00:00+00:00"
+    },
+    {
+      "title": "｢ロートルはテレビをやらないほうがいい｣…民放連･早河会長が語るテレビ局の人材論･組織論（後編） | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/956795?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "大きな変化の波が押し寄せるテレビ業界。動画配信やSNSの台頭､生成AIの普及､働き方改革の流れの中で､対応に必要な人材登用や組織改革とは？民放連会長（テレビ朝日会長）･早河洋氏へのインタビュー後編で…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-10T22:00:00+00:00"
+    },
+    {
+      "title": "The Relentless Crypto Billionaire Who Moved to Venezuela in Pursuit of Oil",
+      "link": "https://www.wsj.com/business/energy-oil/the-relentless-crypto-billionaire-who-moved-to-venezuela-in-pursuit-of-oil-a4f0f219?mod=rss_markets_main",
+      "summary": "Fred Ehrsam, a Trump administration ally and co-founder of Coinbase, lived for months in a luxury Caracas hotel pursuing investments in Venezuela.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-10T22:00:00+00:00"
+    },
     {
       "title": "｢チェーン店で松屋が一番好き｣　名ラーメン店･六厘舎が新ブランドで提供｢鮭らーめん｣意外と真面目な背景 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/957519?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -408,6 +452,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-10T20:40:00+00:00"
+    },
+    {
+      "title": "Bodily Oddities",
+      "link": "https://vester.si/bodily-oddities/",
+      "summary": "Article URL: https://vester.si/bodily-oddities/\nComments URL: https://news.ycombinator.com/item?id=49649789\nPoints: 8\n# Comments: 9",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T20:33:11+00:00"
     },
     {
       "title": "視野に入る｢政策金利2％｣､地銀で広がる\"利上げ格差\"の残酷…次の利上げが逆風になりかねない｢地銀15行リスト｣ | ビジネス | 東洋経済オンライン",
@@ -1322,6 +1374,14 @@
       "published": "2026-09-10T14:07:12+00:00"
     },
     {
+      "title": "3933.JSA - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaWhUVFgzbmFZZWhRUFJvVFl3ZmtYVGhHRjM5bThXTk5xcTVuN1lVZFAtUXFFWlRONWJtTXNqcFFzMWJGRlZ0M0p0N2NBQ05hMG13anNWNmsxTTFTYXVsem90UVRDMjgtNzhkVlNRQkZVY21jTFJ4dWZIaW1TTlZTQWs3cw?oc=5",
+      "summary": "3933.JSA - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T14:05:18+00:00"
+    },
+    {
       "title": "25I.H - Reuters",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSUpEMEdwc2lBcFNGWUdLa3JCREtwME5abjZqY1A3RDc0MmdZSGFLWHd2OFU5THJldTJTWDQxSzJSODlpeFlYaG1wRmpaSktERE1uMFZ2b0JzMFhibGUySkJqZ1dzM2h6ekdJMkVDR0tCTXcyRkRSUFAyNVVUdHBGSw?oc=5",
       "summary": "25I.H&nbsp;&nbsp;Reuters",
@@ -1794,6 +1854,14 @@
       "published": "2026-09-10T10:35:09+00:00"
     },
     {
+      "title": "GFPBF.GTC - | Stock Price & Latest News | Reuters - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MeU5ZWEx2cEc1OVRDUVZvNmxzVDBmZVBtNU5BRmR6ZzVPOWdSVlhJTVJyYVV6QnJCVDE2ZE9BUUFBNXN0ZTRBOGJhTmhobnNpY0M3bUhIc2l1Ym1tek53NA?oc=5",
+      "summary": "GFPBF.GTC - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T10:30:58+00:00"
+    },
+    {
       "title": "Global Bond Yields Hit Multiyear Highs Ahead of ECB Decision, U.S. Treasury Buybacks",
       "link": "https://www.wsj.com/finance/investing/bond-yields-edge-up-as-investors-await-ecb-rate-hike-u-s-treasury-buybacks-4cd2e9f3?mod=rss_markets_main",
       "summary": "The selloff in global government bonds accelerated in European midday trade, pushing yields on 10-year German Bunds and Treasurys to fresh multiyear highs.",
@@ -2208,6 +2276,22 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T08:20:14+00:00"
+    },
+    {
+      "title": "2901.HZ - | Stock Price & Latest News | Reuters - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WMjRFVV9qVUYyazZ5V0RIWHNDNFNCNHc1LWc0b2owaC10RlNyemphZUFUc0RSTk51UDQySF85MzhqcnlCMUlxNHNxUU9mUjdnSnJvV1Vza0JCdVFmVVE?oc=5",
+      "summary": "2901.HZ - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T08:20:09+00:00"
+    },
+    {
+      "title": "2901.HK - | Stock Price & Latest News | Reuters - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtVldYMTZYYWtXRU9KMFBNY3ctZzc5SlNmSkVWaEhkLTNGbk56T3ZTR25fTzduVk9MTE5oTkdnQkkyNlgxczN4ek5UQ1ZHMWpNaFIwSFdHR3FKWl9LcFE?oc=5",
+      "summary": "2901.HK - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T08:20:09+00:00"
     },
     {
       "title": "ガザ北部住宅にイスラエル軍の空爆、8歳と12歳含む4人死亡 - Reuters",
