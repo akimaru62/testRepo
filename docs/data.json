@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T09:08:59.187245+00:00",
+  "generated_at": "2026-09-10T09:27:24.490863+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -172,6 +172,70 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-10T16:00:00+00:00"
+    },
+    {
+      "title": "新人・原沢敦美氏が出馬表明　横浜市長選",
+      "link": "https://www.jiji.com/jc/article?k=2026091000817&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-10T09:27:20.067226+00:00"
+    },
+    {
+      "title": "定数削減、第三者機関で議論を　衆院選改革、野党が提案",
+      "link": "https://www.jiji.com/jc/article?k=2026091000868&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-10T09:27:20.067219+00:00"
+    },
+    {
+      "title": "警察庁、前サイバー捜査課長を懲戒免職　１７４万円着服疑い　不倫女性との交際に充てる",
+      "link": "https://www.jiji.com/jc/article?k=2026091000860&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-10T09:27:20.067212+00:00"
+    },
+    {
+      "title": "トランプ氏、民主党批判「共産主義を打倒」　勝利なら成人米国民に７７万円―共和党、中間選挙へ結束",
+      "link": "https://www.jiji.com/jc/article?k=2026091000181&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-10T09:27:20.067203+00:00"
+    },
+    {
+      "title": "中東の危険情報引き下げへ　イスラエルなど４カ国・地域―日本政府",
+      "link": "https://www.jiji.com/jc/article?k=2026091000852&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-10T09:27:20.067179+00:00"
+    },
+    {
+      "title": "ジャガイモ列車、今年も発進　北海道十勝地方から首都圏へ",
+      "link": "https://www.asahi.com/articles/ASV9B1V44V9BIIPE002M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-10T09:27:19.765770+00:00"
+    },
+    {
+      "title": "Regulatory Uncertainty Clouds Chinese Robot Firm Galaxea AI’s IPO Plan",
+      "link": "https://www.wsj.com/business/regulatory-uncertainty-clouds-chinese-robot-firm-galaxea-ais-ipo-plan-b6dab954?mod=rss_markets_main",
+      "summary": "A tighter regulatory climate in China is casting a cloud over robotics startup Galaxea AI’s plan to go public in Hong Kong, people familiar with the matter say.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-10T09:19:00+00:00"
+    },
+    {
+      "title": "Stock Futures Rise, Treasury Yields Hold Near Highs as Oil Tops $101",
+      "link": "https://www.wsj.com/finance/investing/stock-futures-rise-treasury-yields-hold-near-highs-as-oil-tops-101-74944fa2?mod=rss_markets_main",
+      "summary": "U.S. stock futures edged higher and Brent continued to rise as investors positioned ahead of crucial U.S. inflation prints.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-10T09:15:00+00:00"
     },
     {
       "title": "日米欧「中銀ウィーク」が占うドル円相場　金・ビットコインに影響も",
@@ -414,6 +478,14 @@
       "published": "2026-09-10T07:08:00+00:00"
     },
     {
+      "title": "Show HN: Botbin.io – pastebin for AI agent artifacts",
+      "link": "https://botbin.io/?v=next",
+      "summary": "Article URL: https://botbin.io/?v=next\nComments URL: https://news.ycombinator.com/item?id=49639496\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T07:00:22+00:00"
+    },
+    {
       "title": "中部電、電気料金12億円を過大請求　複数の役職員が算定ミスを放置",
       "link": "https://www.asahi.com/articles/ASV9B11PXV9BULFA00HM.html?ref=rss",
       "summary": "",
@@ -444,6 +516,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-10T06:13:30.860503+00:00"
+    },
+    {
+      "title": "I think I hate the internet",
+      "link": "https://strategictree.bearblog.dev/i-think-i-hate-the-internet/",
+      "summary": "Article URL: https://strategictree.bearblog.dev/i-think-i-hate-the-internet/\nComments URL: https://news.ycombinator.com/item?id=49639104\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T06:12:23+00:00"
     },
     {
       "title": "DeepSeek v4.1 Flash",
