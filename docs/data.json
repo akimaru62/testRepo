@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T03:09:18.373038+00:00",
+  "generated_at": "2026-09-10T03:28:53.457672+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -158,6 +158,46 @@
   ],
   "items": [
     {
+      "title": "【速報】トランプ氏、中間選挙勝利なら成人に５０００ドル",
+      "link": "https://www.jiji.com/jc/article?k=2026091000494&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-10T03:28:47.980321+00:00"
+    },
+    {
+      "title": "プロ野球で史上初の３０００安打を達成した張本勲（はりもと・いさお）さんが亡くなった",
+      "link": "https://www.jiji.com/jc/article?k=2026091000396&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-10T03:28:47.980298+00:00"
+    },
+    {
+      "title": "トランプ氏は、中間選挙で勝利すれば、米国の成人に一人５０００ドルを支給すると述べた",
+      "link": "https://www.jiji.com/jc/article?k=2026091000485&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-10T03:28:47.980285+00:00"
+    },
+    {
+      "title": "張本勲さん死去、８６歳　３０８５安打、首位打者７度",
+      "link": "https://www.jiji.com/jc/article?k=2026091000399&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-10T03:28:47.980255+00:00"
+    },
+    {
+      "title": "Singapore Dollar Consolidates But May Be Weighed by Rising Oil",
+      "link": "https://www.wsj.com/finance/currencies/australian-dollar-touches-fresh-mid-may-highs-c61ab082?mod=rss_markets_main",
+      "summary": "The Singapore dollar consolidated against its U.S. counterpart, but may be weighed by rising oil prices.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-10T03:26:00+00:00"
+    },
+    {
       "title": "民主念頭「共産主義打倒する」　トランプ氏、中間選挙勝利誓う―米共和、異例の党大会",
       "link": "https://www.jiji.com/jc/article?k=2026091000181&g=int&m=rss",
       "summary": "",
@@ -175,6 +215,14 @@
     },
     {
       "title": "Trump promises $5,000 checks if Republicans win the midterms. But he also promised tariff dividends last year that never came.",
+      "link": "https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories",
+      "summary": "President Trump’s speech at his party’s midterm convention in Dallas comes as many analysts expect losses for Republicans in November’s elections due to voters’ frustrations with high prices.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-10T03:00:00+00:00"
+    },
+    {
+      "title": "Trump promises $5,000 checks if Republicans win the midterms. He also teased tariff and ‘DOGE’ dividends last year that never came.",
       "link": "https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories",
       "summary": "President Trump’s speech at his party’s midterm convention in Dallas comes as many analysts expect losses for Republicans in November’s elections due to voters’ frustrations with high prices.",
       "source": "MarketWatch",
@@ -244,6 +292,14 @@
       "source": "GitHub Blog",
       "category": "開発者向け",
       "published": "2026-09-10T02:05:17+00:00"
+    },
+    {
+      "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
+      "link": "https://hugovergnes.github.io/little-lm-3-8b/",
+      "summary": "Article URL: https://hugovergnes.github.io/little-lm-3-8b/\nComments URL: https://news.ycombinator.com/item?id=49637435\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T02:04:11+00:00"
     },
     {
       "title": "Hunter Biden memecoin $LAPTOP loses 95% of value just hours after launch",
