@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T12:11:39.683597+00:00",
+  "generated_at": "2026-09-10T12:36:26.786843+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -172,6 +172,30 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-10T16:00:00+00:00"
+    },
+    {
+      "title": "欧州中銀が0.25%の追加利上げ　2会合ぶり　インフレを警戒",
+      "link": "https://www.asahi.com/articles/ASV9B3GB1V9BUHBI00PM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-10T12:36:20.931073+00:00"
+    },
+    {
+      "title": "Wholesale inflation stirred up again by Iran conflict and higher oil prices",
+      "link": "https://www.marketwatch.com/story/wholesale-inflation-stirred-up-again-by-iran-conflict-and-higher-oil-prices-3f497534?mod=mw_rss_topstories",
+      "summary": "Fed to decide on interest-rate hike after two key inflation reports",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-10T12:34:00+00:00"
+    },
+    {
+      "title": "Nasdaq Futures Fall, Treasury Yields Extend Multiyear Highs as Oil Tops $102",
+      "link": "https://www.wsj.com/finance/investing/stock-futures-rise-treasury-yields-hold-near-highs-as-oil-tops-101-74944fa2?mod=rss_markets_main",
+      "summary": "Nasdaq futures slid and Treasury yields rose to a spate of new multiyear highs as investors took positions ahead of crucial U.S. inflation prints Thursday and Friday.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-10T12:26:00+00:00"
     },
     {
       "title": "秋篠宮ご夫妻が帰国　ノルウェー前国王葬儀終え",
@@ -398,6 +422,14 @@
       "published": "2026-09-10T09:58:12+00:00"
     },
     {
+      "title": "ECB raises interest rates to 2.5%",
+      "link": "https://www.ft.com/content/083a9c4b-3913-496d-be13-22c96053624b?syn-25a6b1a6=1",
+      "summary": "Move is the second increase this year as central bank tries to curb price pressures",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-10T09:58:12+00:00"
+    },
+    {
       "title": "The U.S. Seized $225 Million From Scammers. Who Gets It Back?",
       "link": "https://www.wsj.com/articles/the-u-s-seized-225-million-from-scammers-who-gets-it-back-e479893e?mod=rss_markets_main",
       "summary": "Plus, Trump promises American adults $5,000 if Republicans win the midterms, and we break down what to know about the AI doomsday debate.",
@@ -585,6 +617,14 @@
       "title": "Stock Market Today: Bond Yields and Oil Edge Higher",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-10-2026?mod=rss_markets_main",
       "summary": "Brent crude stays above $100, S&amp;P futures climb",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-10T08:33:43+00:00"
+    },
+    {
+      "title": "Stock Market Today: Bond Yields and Oil Climb",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-10-2026?mod=rss_markets_main",
+      "summary": "Brent crude moves about $104 a barrel; stock futures mixed",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-10T08:33:43+00:00"
@@ -2998,6 +3038,14 @@
       "published": "2026-09-09T14:54:49+00:00"
     },
     {
+      "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
+      "link": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
+      "summary": "Article URL: https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/\nComments URL: https://news.ycombinator.com/item?id=49627634\nPoints: 9\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T14:54:12+00:00"
+    },
+    {
       "title": "US spy chief prepares for greater role in Russia-Ukraine talks",
       "link": "https://www.ft.com/content/d0557d25-78b5-45d8-bb33-d655e859d803?syn-25a6b1a6=1",
       "summary": "CIA director John Ratcliffe will be involved in shuttle diplomacy between Moscow and Kyiv",
@@ -3228,6 +3276,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-09T13:25:26.171653+00:00"
+    },
+    {
+      "title": "Show HN: Persistent Jupyter kernel execution and live output streaming in VSCode",
+      "link": "https://github.com/rnoro/tithon",
+      "summary": "Hi HN, Every time I ran a training loop for a few days via Jupyter Notebook and ran into issues (network disconnected, my laptop suddenly died, etc.), I suffered from losing my ipykernel and cell outputs. I wanted to keep seeing my live outputs right inside the IDE without constantly checking W&amp;B or log files. It is such a hassle. That's why I built Tithon. Let me know what you think!\n\nComments URL: https://news.ycombinator.com/item?id=49626144\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-09T13:23:45+00:00"
     },
     {
       "title": "BCJs.TRE - | Stock Price & Latest News | Reuters - Reuters",
