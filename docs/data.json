@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T22:47:46.003038+00:00",
+  "generated_at": "2026-09-10T23:06:07.707616+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -218,6 +218,14 @@
   ],
   "items": [
     {
+      "title": "Oracle reports rising data centre revenue as AI strategy accelerates",
+      "link": "https://www.ft.com/content/9df99d0b-6ef6-4530-8771-8b220f740e74?syn-25a6b1a6=1",
+      "summary": "Faster sales growth suggests progress in its risky push to compete in the AI infrastructure race",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-10T22:47:12+00:00"
+    },
+    {
       "title": "3月導入のEVバス 早くも運行停止",
       "link": "https://news.yahoo.co.jp/pickup/6594915?source=rss",
       "summary": "",
@@ -237,6 +245,14 @@
       "title": "Anthropic stops attempts to use models for potential biological weapons",
       "link": "https://www.ft.com/content/845cf3bf-59c5-4e53-a45e-e11d2339df9d?syn-25a6b1a6=1",
       "summary": "Start-up outlines five examples of when actors ‘circumvented controls’ and made efforts to ‘obfuscate’ the purpose of their research",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-10T22:27:10+00:00"
+    },
+    {
+      "title": "Anthropic says it blocked attempts to use AI for potential biological weapons",
+      "link": "https://www.ft.com/content/845cf3bf-59c5-4e53-a45e-e11d2339df9d?syn-25a6b1a6=1",
+      "summary": "Start-up discloses five examples of when actors ‘circumvented controls’ and made efforts to ‘obfuscate’ the purpose of their research",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-10T22:27:10+00:00"
@@ -493,6 +509,14 @@
       "title": "The part of Navier-Stokes no one is talking about",
       "link": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
       "summary": "Article URL: https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/\nComments URL: https://news.ycombinator.com/item?id=49650326\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T21:22:59+00:00"
+    },
+    {
+      "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
+      "link": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+      "summary": "Article URL: https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/\nComments URL: https://news.ycombinator.com/item?id=49650326\nPoints: 99\n# Comments: 83",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-10T21:22:59+00:00"
