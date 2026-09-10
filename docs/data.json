@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T22:21:41.034756+00:00",
+  "generated_at": "2026-09-10T22:33:37.663252+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -206,9 +206,21 @@
     {
       "url": "https://www.mof.go.jp/news.rss",
       "error": "503 Server Error: Service Unavailable for url: https://www.mof.go.jp/news.rss"
+    },
+    {
+      "url": "https://www.mof.go.jp/news.rss",
+      "error": "503 Server Error: Service Unavailable for url: https://www.mof.go.jp/news.rss"
     }
   ],
   "items": [
+    {
+      "title": "Want Apple’s $1,999 foldable iPhone Duo? Here’s what T-Mobile, AT&T and Verizon are doing to lower the cost.",
+      "link": "https://www.marketwatch.com/story/want-apples-1-999-foldable-iphone-duo-heres-what-t-mobile-at-t-and-verizon-are-doing-to-lower-the-cost-6b2d3065?mod=mw_rss_topstories",
+      "summary": "Wireless carriers are rolling out their initial iPhone promotions, but analysts say there’s no price war just yet.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-10T22:25:00+00:00"
+    },
     {
       "title": "欧州中銀、０．２５％追加利上げ　米イラン紛争で長期インフレ警戒",
       "link": "https://www.jiji.com/jc/article?k=2026091000670&g=int&m=rss",
@@ -290,6 +302,14 @@
       "published": "2026-09-10T22:02:00+00:00"
     },
     {
+      "title": "米ディーゼル燃料価格が過去最高更新、初の6ドル超え 政権に大きな逆風 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pWnhVNG1iblJOWm9SaHZPeW5TWW9NWjRrT1R0OUU0djVRNGJfbmc0QjVQY2VEV0VrNzRLNnF5d1lrYjN0WUJUMkZSMDlmdV9KNkU0LXdaSDF1WU45cV8wX1RTZGNQZzB0V3JCYlRZcDFabm9aazYtUHhBU0g?oc=5",
+      "summary": "米ディーゼル燃料価格が過去最高更新、初の6ドル超え 政権に大きな逆風&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T22:00:42+00:00"
+    },
+    {
       "title": "サンド伊達さん公表で注目　｢脳梗塞｣で知っておくべき\"顔･腕･言葉に表れる前触れ\"と､予防可能な\"10の危険因子\" | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/957411?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "サンドウィッチマンの伊達みきおさんが脳梗塞を公表。幸い大事には至らなかったとのことですが､脳梗塞は｢異変に気づいてから病院に着くまでの時間｣で､その後の重症度が大きく変わる病気です。その前触れと､予…",
@@ -317,6 +337,14 @@
       "title": "ヨルダン米軍基地で軍機複数損傷、今週のイラン攻撃で＝米当局者 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTTA1cHlwSzNIX01ITFlqRjVxekVzeUV4YlhSQzN2akYwSEVFY1AxT0xKRTR0NFhGRXozWFBRdVZUMXFpZkxHZ3l3MzNGaTl0WUtWLTNFUUl2T2JVS0E1Rmk2Mzgyem5BTXFPQmpxRk1XcXJiRHpwTGxRZHN5dGlXbHhjTVdfQQ?oc=5",
       "summary": "ヨルダン米軍基地で軍機複数損傷、今週のイラン攻撃で＝米当局者&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T21:55:08+00:00"
+    },
+    {
+      "title": "ヨルダン米軍基地で軍機複数損傷、今週のイラン攻撃で＝米当局者 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTTA1cHlwSzNIX01ITFlqRjVxekVzeUV4YlhSQzN2akYwSEVFY1AxT0xKRTR0NFhGRXozWFBRdVZUMXFpZkxHZ3l3MzNGaTl0WUtWLTNFUUl2T2JVS0E1Rmk2Mzgyem5BTXFPQmpxRk1XcXJiRHpwTGxRZHN5dGlXbHhjTVdfQQ?oc=5",
+      "summary": "ヨルダン米軍基地で軍機複数損傷、今週のイラン攻撃で＝米当局者&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T21:55:08+00:00"
@@ -424,6 +452,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-10T21:18:00+00:00"
+    },
+    {
+      "title": "米国株式市場＝続落、ＰＰＩと原油高で利上げ観測強まる - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTWh0Y1lYUEliWS1WRGVVRmJZbE1NVDFBOEh3RlpvYUpvcWVIekxxenNXOTdpR3d3NXF6X3B5VFdLcTlhaGVpMXlqYUEzT2ppNFAwdTM1eEhGQlhTeGU4bTY1WFhiMXN4YUUwWlFZYTlLMGJzdFg4Z1liSC1CTElGZUhwR24?oc=5",
+      "summary": "米国株式市場＝続落、ＰＰＩと原油高で利上げ観測強まる&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T21:17:24+00:00"
     },
     {
       "title": "｢遺伝的要因のおそろしさを感じる｣と投稿⋯東大教授が皇族女性を揶揄？猛烈批判も｢謝罪なし｣｢曲解と反論｣する異様さ | ライフ | 東洋経済オンライン",
@@ -594,6 +630,14 @@
       "published": "2026-09-10T20:21:44+00:00"
     },
     {
+      "title": "米、親イラン勢力支援で追加制裁 「経済的追放作戦」の一環 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oUXdyWU1SRkhuTVVRLXg0czE1YWR2VmxzU1pYaHNpSzlDS2F3c2dSVFN6dEZweXhEZ09xYVB6aTk5MTlFd3FFTVlKd3Zld0NUWXktODRtY2l5ZU5jTjdtUFdIQ0Zwdk1xdmNfMlcwRkdsRk01MFFUR25fbTU4dw?oc=5",
+      "summary": "米、親イラン勢力支援で追加制裁 「経済的追放作戦」の一環&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T20:21:44+00:00"
+    },
+    {
       "title": "U.S. Stocks Fall as Oil Tops $100, Yields Hit Multiyear Highs",
       "link": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-oil-tops-100-yields-hit-multiyear-highs-0cd4f1ec?mod=rss_markets_main",
       "summary": "U.S. stocks fell for the fourth straight session and Treasury yields hit multiyear highs as U.S. oil prices topped the $100-per-barrel level while August inflation data revealed the toll energy costs are taking on commercial users.",
@@ -640,6 +684,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-10T19:44:15+00:00"
+    },
+    {
+      "title": "米8月ＰＰＩ、前年比5.4％上昇に加速 エネルギー価格が再び上昇 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNczB2cHlnX2V0eGVDVEZPcFhtdGRVRjRZb1BBUVFSdzE0SUR0Xy1tOWRmRV9lSzhvanVKSkY3STZiM1V3ZDR4aWY5QnBPTWV4ZS1jMmUyb1J3M2dUakdMVmo4MmNGZmNxdnpzaGdMLUdYWGZEWDc3WE01VjJfYzZ3ejNkckk?oc=5",
+      "summary": "米8月ＰＰＩ、前年比5.4％上昇に加速 エネルギー価格が再び上昇&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T19:43:35+00:00"
     },
     {
       "title": "OpenAI Agents API",
@@ -749,6 +801,14 @@
       "title": "ＥＣＢが0.25％利上げ、エネルギー高に対応 インフレ長期化を警告 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0T2pRaFRUQVR6Yk1ORWFObHpYaXhhd3pwR2Uxek9CWWhuc2puVllXcC1PTl9rZnRybGF0Zl9tNTMwcTI4a0Z6SnFXc01SeFhMZ2dWdlhJNU00WThGSkttNEFBMEdOS1JBVUtBajlmcVdtd2plell3SmZQUDI?oc=5",
       "summary": "ＥＣＢが0.25％利上げ、エネルギー高に対応 インフレ長期化を警告&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T18:23:51+00:00"
+    },
+    {
+      "title": "ＥＣＢが0.25％利上げ、エネルギー高に対応 インフレ長期化を警告 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0T2pRaFRUQVR6Yk1ORWFObHpYaXhhd3pwR2Uxek9CWWhuc2puVllXcC1PTl9rZnRybGF0Zl9tNTMwcTI4a0Z6SnFXc01SeFhMZ2dWdlhJNU00WThGSkttNEFBMEdOS1JBVUtBajlmcVdtd2plell3SmZQUDI?oc=5",
+      "summary": "ＥＣＢが0.25％利上げ、エネルギー高に対応 インフレ長期化を警告&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T18:23:51+00:00"
@@ -898,6 +958,14 @@
       "published": "2026-09-10T17:04:04+00:00"
     },
     {
+      "title": "2901.HS - | Stock Price & Latest News - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbFZYNXBIMWVsLU1RUVZ5S3pScE9saTJua282M25ndDFpc2YxeHJGNmNHVy0wVGgtQ2JralZRbUNBLS1QU3hXSkFzaTRQX0czVVhJZjdWdTk0NUQ1aDhYLUh1YkVQU1cwMXo4WC1obFZ4ZE9fN01VYTRkWmI5WDlSRDdB?oc=5",
+      "summary": "2901.HS - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T17:04:04+00:00"
+    },
+    {
       "title": "U.S. Crude Oil Stockpiles Fall, Production Hits Record",
       "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-fall-production-hits-record-86b655c4?mod=rss_markets_main",
       "summary": "Commercial crude oil stocks fell by 391,000 barrels last week. Analysts had expected crude stocks to fall by 1.4 million barrels.",
@@ -917,6 +985,14 @@
       "title": "フーシ派、イエメンの要衝湾港モカ制圧 紅海航路への影響拡大 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONUlickFocHdLYkVFSnRKclVRdkF5T041RWltLWlHZHNzdU5UWjdRcm1nWlBzdG5RU185TmRRX0t0Tkx0LWRYREhRMkotTlhod29EWE53WTZMeHM3RWZYYXd4ZEw2MDJRZENkRndnRVlGNkFTNmFOUmNTR0ZrUXNsbDNrRnFSZw?oc=5",
       "summary": "フーシ派、イエメンの要衝湾港モカ制圧 紅海航路への影響拡大&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T16:32:42+00:00"
+    },
+    {
+      "title": "フーシ派、イエメンの要衝湾港モカ制圧 紅海航路への影響拡大 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONUlickFocHdLYkVFSnRKclVRdkF5T041RWltLWlHZHNzdU5UWjdRcm1nWlBzdG5RU185TmRRX0t0Tkx0LWRYREhRMkotTlhod29EWE53WTZMeHM3RWZYYXd4ZEw2MDJRZENkRndnRVlGNkFTNmFOUmNTR0ZrUXNsbDNrRnFSZw?oc=5",
+      "summary": "フーシ派、イエメンの要衝湾港モカ制圧 紅海航路への影響拡大&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T16:32:42+00:00"
@@ -1210,6 +1286,14 @@
       "published": "2026-09-10T15:25:04+00:00"
     },
     {
+      "title": "英、スペースＸへの依存深化 衛星サービスに約4000万ドル - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUkZVMkRZc3VTc2FCRFFiVEVYUUJSUjVadUR2NXJZcjhhMVplMzBEMGdNY2FWWDdIaEN0cFZucm1fSXBZVlRRcXVvc1pUTVlDaVpSTWlLaU9UNk9Mc1F0elBsTGVqRklSUW1NWUtiZ1FrV1ZmdXIweTFMNksyakhwRlNPdXdfZw?oc=5",
+      "summary": "英、スペースＸへの依存深化 衛星サービスに約4000万ドル&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T15:25:04+00:00"
+    },
+    {
       "title": "Now’s your chance to make money during the best bond market for yields in decades — if you get over Treasury jitters",
       "link": "https://www.marketwatch.com/story/nows-your-chance-to-make-money-during-the-best-bond-market-for-yields-in-decades-if-you-get-over-treasury-jitters-4209f805?mod=mw_rss_topstories",
       "summary": "If you looking for high income in the bond market, without paying taxes, here’s how you figure out how much interest you’re actually being paid.",
@@ -1314,6 +1398,14 @@
       "published": "2026-09-10T14:42:07+00:00"
     },
     {
+      "title": "米中古住宅販売、8月は14カ月ぶり低水準 ローン金利上昇響く - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFctNUJPNGRFQ0FSdk9TMkdySmVXSXJobXFDRUI3ZXgxNnh4Rm5GQlV1T2sxT3E2ei1DQnpyNEVJNmgtU2x5WE5RSC1YSHlHNExTbmRnRXAtWGVrdVFfdkhiWVNZMWs1dnA3U2c3U1ZFTEtTUThjNExaQk50V21Yd1pMamY?oc=5",
+      "summary": "米中古住宅販売、8月は14カ月ぶり低水準 ローン金利上昇響く&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T14:42:07+00:00"
+    },
+    {
       "title": "ABSI.DY - Reuters",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QQ3ptY1otc2dISHV0S29oaXdNUlZjVUhQUmNGNWxZRDNGMXl5UDlDRlpTaEtLNkFmM21jZUF6UHVrcnlBNGduRUsxLTd6Mm43d05BV1hYN1FBZG1jWDlNVzQzSzFBNWV1NGJhVA?oc=5",
       "summary": "ABSI.DY&nbsp;&nbsp;Reuters",
@@ -1336,6 +1428,22 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T14:30:44+00:00"
+    },
+    {
+      "title": "9233JPY.JPx - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY01iMzJIWFphdTd6NktNUjdyOC15QjM2amk3ZVlRRHkyc1QwMlVZMUxpUGVrcFBLajVGbUNXLUNna1FvWjEzRlVUYnptbS1yS2lQcVBkMHVRVkh3WmNBRUlFcFBGeDVnZllPWXpzNjlXeHEtMVBJa3NicEpLSjgzZ2p6ZHItdDA?oc=5",
+      "summary": "9233JPY.JPx&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T14:30:44+00:00"
+    },
+    {
+      "title": "トルコ中銀、5会合連続で金利据え置き 年内利下げ観測 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0VHFjTHl3MlVEVVNMS2dPaWZsSWxwc1lPYWRhbnM0RF9GTTFZeERjLWFCdTZjMUJhbVFLTHJxQ0lNZ1NOSnl3N0thMlhFSURSaXhQZXpNWG82VFRxMXE1ZmkxYnduR210bFNydlhXdGZwUGtnSmRWWEJldFY?oc=5",
+      "summary": "トルコ中銀、5会合連続で金利据え置き 年内利下げ観測&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T14:30:22+00:00"
     },
     {
       "title": "I’m always covering for a lazy employee. How can I deal with him without going crazy?",
@@ -1458,6 +1566,14 @@
       "published": "2026-09-10T14:07:12+00:00"
     },
     {
+      "title": "ABSI.PH - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SSHdMckZBZktETkwzS3IwY3J0X0tCS2pGRWltbTkxM280Y29rempTTXo5S0cwQnk5TFdnbFd5WlozSDBZenBDNVBqOXNqUnBLcTR6a3lZcDFkODBvX2hJOWFHUmFEZw?oc=5",
+      "summary": "ABSI.PH&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T14:07:12+00:00"
+    },
+    {
       "title": "3933.JSA - | Stock Price & Latest News - Reuters",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaWhUVFgzbmFZZWhRUFJvVFl3ZmtYVGhHRjM5bThXTk5xcTVuN1lVZFAtUXFFWlRONWJtTXNqcFFzMWJGRlZ0M0p0N2NBQ05hMG13anNWNmsxTTFTYXVsem90UVRDMjgtNzhkVlNRQkZVY21jTFJ4dWZIaW1TTlZTQWs3cw?oc=5",
       "summary": "3933.JSA - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
@@ -1474,9 +1590,25 @@
       "published": "2026-09-10T14:03:41+00:00"
     },
     {
+      "title": "25I.H - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSUpEMEdwc2lBcFNGWUdLa3JCREtwME5abjZqY1A3RDc0MmdZSGFLWHd2OFU5THJldTJTWDQxSzJSODlpeFlYaG1wRmpaSktERE1uMFZ2b0JzMFhibGUySkJqZ1dzM2h6ekdJMkVDR0tCTXcyRkRSUFAyNVVUdHBGSw?oc=5",
+      "summary": "25I.H&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T14:03:41+00:00"
+    },
+    {
       "title": "NVGu.SIG - Reuters",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORWotVXdtcGw2WW5DNzdTS21vZzRBODB4eFF0anFOdTJkWGJRSVd3cXpxZGhaa3ZDRFNnS1NaeUg5U18yUWtNUEhnX0RtTWRYSXpsdkF1QTFlNm9adEVyNXR3MGRpTG0tYkJtLVpMbUlSWUVYbXJZZzJDSDBCWFlwTlVmTQ?oc=5",
       "summary": "NVGu.SIG&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T14:03:36+00:00"
+    },
+    {
+      "title": "NVGu.SIG - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORWotVXdtcGw2WW5DNzdTS21vZzRBODB4eFF0anFOdTJkWGJRSVd3cXpxZGhaa3ZDRFNnS1NaeUg5U18yUWtNUEhnX0RtTWRYSXpsdkF1QTFlNm9adEVyNXR3MGRpTG0tYkJtLVpMbUlSWUVYbXJZZzJDSDBCWFlwTlVmTQ?oc=5",
+      "summary": "NVGu.SIG&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T14:03:36+00:00"
@@ -1488,6 +1620,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-10T14:03:00+00:00"
+    },
+    {
+      "title": "3933.JSA - | Stock Price & Latest News - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45Ny1wMmlCemV1ek9QUUd5VUs5NVlQVnBJYWpNSkZ0R1BhRUVzSWFwTkdoVURTX0tfRFc0Sm96dkk4cU8xMVBYNGhBbF9nSWRSZU1QZkJDajktREFVZ25BVjUtaTFwUHRKNUpSVkVjTlpWSi1xaVotYk5CYWlFdkk?oc=5",
+      "summary": "3933.JSA - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T14:02:48+00:00"
     },
     {
       "title": "Who Dung It? (Turdle.fun)",
@@ -1573,6 +1713,14 @@
       "title": "米新規失業保険申請件数は1000件減の20.6万件、一時解雇は低水準維持 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRkpaV0tKU1NVazlsa05LZ0xMem52OWNmUUFORFFIcVhkRDI4bE1tM3NvSmV1empPaWdCYmJqeENjUXJlalJiWDEzTk93c2hYS25rX3FvOW56cWMwQkVGVm1SdkstSE1WbUM2OGNDNGpFVUR4dEFaUVdIZjBIM2dCRlBRcWI?oc=5",
       "summary": "米新規失業保険申請件数は1000件減の20.6万件、一時解雇は低水準維持&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T13:40:10+00:00"
+    },
+    {
+      "title": "米新規失業保険申請件数は1000件減の20.6万件、一時解雇は低水準維持 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRkpaV0tKU1NVazlsa05LZ0xMem52OWNmUUFORFFIcVhkRDI4bE1tM3NvSmV1empPaWdCYmJqeENjUXJlalJiWDEzTk93c2hYS25rX3FvOW56cWMwQkVGVm1SdkstSE1WbUM2OGNDNGpFVUR4dEFaUVdIZjBIM2dCRlBRcWI?oc=5",
+      "summary": "米新規失業保険申請件数は1000件減の20.6万件、一時解雇は低水準維持&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T13:40:10+00:00"
@@ -1770,6 +1918,14 @@
       "published": "2026-09-10T12:18:06+00:00"
     },
     {
+      "title": "EFE1.F - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb1RNdjlNUHFQY2dlUVQ2VmR2V051ejR6dnpyblFzSklzVVJmdWwyOExZb1VTaTl0U0pkVDFyTGR3MXRjTlhxYWU5Nk1XblBvRWZqWDJGRFpmbEVRRWFSdVl3c3RYN253bmhpOVJhbHAxbmZEWXNfb1NBNUx4TFROb0p0c2lHUQ?oc=5",
+      "summary": "EFE1.F&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T12:17:14+00:00"
+    },
+    {
       "title": "秋篠宮ご夫妻が帰国　ノルウェー前国王葬儀終え",
       "link": "https://www.jiji.com/jc/article?k=2026091001050&g=soc&m=rss",
       "summary": "",
@@ -1813,6 +1969,14 @@
       "title": "ドイツの国防特例債務、3分の1超が目的外使用＝ＩＦＯ - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ETlRGcklQb3B5LU1yb1R0NmVDcm1CMjN5OTMxZWg3dnpIVFJzVW5BaHBQa29MS3FCcUdfLUVOMi1qUnR1d2FndlBLS0U2d1dHUXJxVk5sbnQ0OGxCTG9UM0JZOGF0TVRVdjFCQUhUcXMzNnpjMVFOS0xB?oc=5",
       "summary": "ドイツの国防特例債務、3分の1超が目的外使用＝ＩＦＯ&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T11:50:10+00:00"
+    },
+    {
+      "title": "ドイツの国防特例債務、3分の1超が目的外使用＝ＩＦＯ - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ETlRGcklQb3B5LU1yb1R0NmVDcm1CMjN5OTMxZWg3dnpIVFJzVW5BaHBQa29MS3FCcUdfLUVOMi1qUnR1d2FndlBLS0U2d1dHUXJxVk5sbnQ0OGxCTG9UM0JZOGF0TVRVdjFCQUhUcXMzNnpjMVFOS0xB?oc=5",
+      "summary": "ドイツの国防特例債務、3分の1超が目的外使用＝ＩＦＯ&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T11:50:10+00:00"
@@ -1898,9 +2062,25 @@
       "published": "2026-09-10T10:54:01+00:00"
     },
     {
+      "title": "フォルクスワーゲン、人員削減・工場閉鎖の費用160億ユーロに - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtckREOTFvVTB0TFNKdTdZMU5xc2VGdkFDbDNGU21qcEhYUFdkNG5MOHpvTmZyUTBVUGxfQS1JR29lUklLQXFGNEVoMnhfcXBVTE5aeXB2RlBJVDZXT2NaZ1VkX251ZVdKeGFGWjZSRWptclJ5Yk80VjZB?oc=5",
+      "summary": "フォルクスワーゲン、人員削減・工場閉鎖の費用160億ユーロに&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T10:54:01+00:00"
+    },
+    {
       "title": "仏30年債利回りが23年ぶり高水準、独連邦債も2011年以来の水準に上昇 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94WkpWeEhqZmJraFRwM3ViT0tya29JanRRTy1ONEl6YjZDQk9Rckk2WG5mQXJZYlBfaTZzeWltVURfNWRuMnlsRE9sc09RQzRLcHA2ZXo0aWJzNEJUTFZFc0RvZlRkbUJiLURESjhUN3Rmdm45bWxlMXhR?oc=5",
       "summary": "仏30年債利回りが23年ぶり高水準、独連邦債も2011年以来の水準に上昇&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T10:49:33+00:00"
+    },
+    {
+      "title": "仏30年債利回りが23年ぶり高水準、独連邦債も2011年以来の水準に上昇 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94WkpWeEhqZmJraFRwM3ViT0tya29JanRRTy1ONEl6YjZDQk9Rckk2WG5mQXJZYlBfaTZzeWltVURfNWRuMnlsRE9sc09RQzRLcHA2ZXo0aWJzNEJUTFZFc0RvZlRkbUJiLURESjhUN3Rmdm45bWxlMXhR?oc=5",
+      "summary": "仏30年債利回りが23年ぶり高水準、独連邦債も2011年以来の水準に上昇&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T10:49:33+00:00"
@@ -2098,6 +2278,14 @@
       "published": "2026-09-10T09:53:43+00:00"
     },
     {
+      "title": "在中国米企業、5年先の見通し改善 楽観58％に上昇 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wYV9abXR1N2RJOXJJTHJtaDBDanJiZHUxQ0VkOHYxeUtuNFZucjkzZEFqS1BiQnUtdWVLY1lvTDBPX0Z6WjEtNmpSbUF1SGx1cW9UbGlaQWRQNy12T296dDI3OGxUY3B4T0JhbTFGM0VmRk41VVg0N0t1LUdZdw?oc=5",
+      "summary": "在中国米企業、5年先の見通し改善 楽観58％に上昇&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T09:53:43+00:00"
+    },
+    {
       "title": "ABSI.DG - Reuters",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1adFFKUHRXOWFpR1ZDR0FzQzFxR0hpdTFCYVZkeXl0NHd5aWt6dzNhTkM5ckZVOEY4aXdJeXliTmFaY2tvOGt4R0t3OFdSdXdvWE5LcVRnZDBKd0JVeTY4RWtYS3V0THdUbERkZzN2Z1BZcnNpQXc?oc=5",
       "summary": "ABSI.DG&nbsp;&nbsp;Reuters",
@@ -2133,6 +2321,14 @@
       "title": "焦点：米中間選挙に警戒乏しい株式市場、急変動リスク懸念も - Reuters",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3VXYnVMRjN0Rldyajhzem11RVdMMHNGel9tOE9XU0dMcHMyRTZITlhpVGZONGN3TGRlaWtiTk9aVlljVExtaXVTYUFvNG14ZmxCRFNkeE12WmlXWFFuWksyaTBETDBYd2M5N3hLWUdmelkzVkNBV1JWM19wcXhlTHFMeFY?oc=5",
       "summary": "焦点：米中間選挙に警戒乏しい株式市場、急変動リスク懸念も&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T09:29:23+00:00"
+    },
+    {
+      "title": "焦点：米中間選挙に警戒乏しい株式市場、急変動リスク懸念も - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3VXYnVMRjN0Rldyajhzem11RVdMMHNGel9tOE9XU0dMcHMyRTZITlhpVGZONGN3TGRlaWtiTk9aVlljVExtaXVTYUFvNG14ZmxCRFNkeE12WmlXWFFuWksyaTBETDBYd2M5N3hLWUdmelkzVkNBV1JWM19wcXhlTHFMeFY?oc=5",
+      "summary": "焦点：米中間選挙に警戒乏しい株式市場、急変動リスク懸念も&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T09:29:23+00:00"
@@ -2202,6 +2398,14 @@
       "published": "2026-09-10T09:21:43+00:00"
     },
     {
+      "title": "韓国、1000億ドル超の対米投資で合意近づく＝ＷＳＪ - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OMWo3aWw1U0JKbWZ2WWlrNE9uV3dxWVIxbGVlTE8xcVI3OEZLUGFiU2JiU1JleTBld1JDZlU3YlNwb1dzRGFVVzl0dVZ1cXhJcW9TYkVFRWpIaGVsU0trNjdKYXdsX0hHajF2WGdzRGN4VnN1MTA4WW1FT0w?oc=5",
+      "summary": "韓国、1000億ドル超の対米投資で合意近づく＝ＷＳＪ&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T09:21:43+00:00"
+    },
+    {
       "title": "Regulatory Uncertainty Clouds Chinese Robot Firm Galaxea AI’s IPO Plan",
       "link": "https://www.wsj.com/business/regulatory-uncertainty-clouds-chinese-robot-firm-galaxea-ais-ipo-plan-b6dab954?mod=rss_markets_main",
       "summary": "A tighter regulatory climate in China is casting a cloud over robotics startup Galaxea AI’s plan to go public in Hong Kong, people familiar with the matter say.",
@@ -2213,6 +2417,14 @@
       "title": "人民元国際化へオフショア市場拡充、流動性拡大へ＝人民銀副総裁 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05Rnd1LVRwaE1KQnBCM1dxWDh6dWMwR01MLVdEVl83TEhUV1B0TUFHY1pweFExT1pCVHhlQmo1YlpzT2dtNE1USmktYTNNbW5qYjFsYzBrVW1wMVZKOXN1TVluWWFEbzg3TlI3YW9rY0ZLdDRmakM5MVRfYVo?oc=5",
       "summary": "人民元国際化へオフショア市場拡充、流動性拡大へ＝人民銀副総裁&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T09:18:30+00:00"
+    },
+    {
+      "title": "人民元国際化へオフショア市場拡充、流動性拡大へ＝人民銀副総裁 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05Rnd1LVRwaE1KQnBCM1dxWDh6dWMwR01MLVdEVl83TEhUV1B0TUFHY1pweFExT1pCVHhlQmo1YlpzT2dtNE1USmktYTNNbW5qYjFsYzBrVW1wMVZKOXN1TVluWWFEbzg3TlI3YW9rY0ZLdDRmakM5MVRfYVo?oc=5",
+      "summary": "人民元国際化へオフショア市場拡充、流動性拡大へ＝人民銀副総裁&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T09:18:30+00:00"
@@ -2250,6 +2462,14 @@
       "published": "2026-09-10T09:08:53+00:00"
     },
     {
+      "title": "中国・香港株式市場・大引け＝下落、原油高でインフレ懸念再燃 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU2kxcEJDWGNqdEFhVUdKZ0tfclFHZWFWbm5QRzc5Z3BZX044YzU0MnBycHE3elljVy1seVpxZ21MTGxiX3VWN3ZjanM5cmltN3lxeVo2U1FNRHJlS01yczRSM0F2dGFQelFUVVM5YWdnd1ZETlpJSGZyUlM3Qzc2dGZjRXE?oc=5",
+      "summary": "中国・香港株式市場・大引け＝下落、原油高でインフレ懸念再燃&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T09:08:53+00:00"
+    },
+    {
       "title": "What algorithm did Windows XP use to choose your initial user picture?",
       "link": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
       "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683\nComments URL: https://news.ycombinator.com/item?id=49640646\nPoints: 12\n# Comments: 2",
@@ -2269,6 +2489,14 @@
       "title": "アジア株に外国人投資家が回帰、9カ月間続いた売り越しに終止符 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzWkVPT1hxcGMzQ29ucGRkOFA1R0JsZlAwbTBTX2dMMHNfbTV2eWhBXzF2cUZEM0dYU3FSTlV1UDBRN1hrMlJhb0FfS0VMdkJFU1dxODdMNWZfY3UxNE52YW5CTENkME9jNG5rUnRic05CTWx6Y1p3dTFQUlY?oc=5",
       "summary": "アジア株に外国人投資家が回帰、9カ月間続いた売り越しに終止符&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T08:53:10+00:00"
+    },
+    {
+      "title": "アジア株に外国人投資家が回帰、9カ月間続いた売り越しに終止符 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzWkVPT1hxcGMzQ29ucGRkOFA1R0JsZlAwbTBTX2dMMHNfbTV2eWhBXzF2cUZEM0dYU3FSTlV1UDBRN1hrMlJhb0FfS0VMdkJFU1dxODdMNWZfY3UxNE52YW5CTENkME9jNG5rUnRic05CTWx6Y1p3dTFQUlY?oc=5",
+      "summary": "アジア株に外国人投資家が回帰、9カ月間続いた売り越しに終止符&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T08:53:10+00:00"
@@ -2346,6 +2574,14 @@
       "published": "2026-09-10T08:33:43+00:00"
     },
     {
+      "title": "米共和党大会でバンス氏演説へ、28年大統領選に向けた審査会に - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOckVpMFVOdXJPX29CbDJRWmJFQVlwdHNvRS1OdjhsUnNMX09nODdLTVAwMkk1andURWE2elZjaXh5R3ZGX0JIOW9haEJHeTFNVkhIbnBpNjVQZ21DOGVGV3BhN1MyN0p0dmJ3WEcyczU3VUhhLW5fSUFzVHpOTXZYak1XdnN1dw?oc=5",
+      "summary": "米共和党大会でバンス氏演説へ、28年大統領選に向けた審査会に&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T08:33:43+00:00"
+    },
+    {
       "title": "あいち・三十三FG 統合合意解消",
       "link": "https://news.yahoo.co.jp/pickup/6594874?source=rss",
       "summary": "",
@@ -2370,6 +2606,14 @@
       "published": "2026-09-10T08:20:14+00:00"
     },
     {
+      "title": "2901ta.HK - | Stock Price & Latest News | Reuters - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14OHZUS0RVVnJZTGhkVkdlLVRXbmYyQ0gtTHdDSmNtNEp6RVE5cmpDUUxlMGxReUNGUF8ybmhOYWNhSGItVFRSeHhWVXNmU0lnNm1LV19FWWR5cGxQbDFyQg?oc=5",
+      "summary": "2901ta.HK - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T08:20:14+00:00"
+    },
+    {
       "title": "2901.HZ - | Stock Price & Latest News | Reuters - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WMjRFVV9qVUYyazZ5V0RIWHNDNFNCNHc1LWc0b2owaC10RlNyemphZUFUc0RSTk51UDQySF85MzhqcnlCMUlxNHNxUU9mUjdnSnJvV1Vza0JCdVFmVVE?oc=5",
       "summary": "2901.HZ - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
@@ -2389,6 +2633,14 @@
       "title": "ガザ北部住宅にイスラエル軍の空爆、8歳と12歳含む4人死亡 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lai1WaTl1WUhUeTFrWWhXVGV4emY0MnViZUFtazI3OUVDTnFSRWdDd19xN2tkaGFGYy0wcThlWWVrYWF6dmRIRlMyTVpSZlF3Q3pFODFqMUd4Y3g4SDN1SXBDdFdGRkRDREk5ZEU5c1Y3X1EyVkVaRTBLLVcydw?oc=5",
       "summary": "ガザ北部住宅にイスラエル軍の空爆、8歳と12歳含む4人死亡&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T08:17:43+00:00"
+    },
+    {
+      "title": "ガザ北部住宅にイスラエル軍の空爆、8歳と12歳含む4人死亡 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lai1WaTl1WUhUeTFrWWhXVGV4emY0MnViZUFtazI3OUVDTnFSRWdDd19xN2tkaGFGYy0wcThlWWVrYWF6dmRIRlMyTVpSZlF3Q3pFODFqMUd4Y3g4SDN1SXBDdFdGRkRDREk5ZEU5c1Y3X1EyVkVaRTBLLVcydw?oc=5",
+      "summary": "ガザ北部住宅にイスラエル軍の空爆、8歳と12歳含む4人死亡&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T08:17:43+00:00"
@@ -2450,6 +2702,14 @@
       "published": "2026-09-10T08:06:08+00:00"
     },
     {
+      "title": "日経平均は3日ぶり小反発、米ＣＰＩ発表前に手がけにくさ 原油・金利高警戒も - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVJ4VnZxZVFubEtHc1VvQlVGQVFBYk81YU9lcE5rNGo1NEx5TjZMNVhKVUpMYlZfSWdTNnBSaHNKLWNCTldkdG5uZ29FVmEzTEx0TXFLd1VoYWotMlBxb1R6bHFzZ2R3ZmVLdFcxRHloXzk0REN1VHVTOGRtTU5yU3Z0em8?oc=5",
+      "summary": "日経平均は3日ぶり小反発、米ＣＰＩ発表前に手がけにくさ 原油・金利高警戒も&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T08:06:08+00:00"
+    },
+    {
       "title": "減少止まらぬ銭湯 活路にサウナ",
       "link": "https://news.yahoo.co.jp/pickup/6594870?source=rss",
       "summary": "",
@@ -2474,9 +2734,25 @@
       "published": "2026-09-10T07:50:32+00:00"
     },
     {
+      "title": "ＥＱＴ、カカクコムのＴＯＢ価格引き上げ 1株3680円に - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRjRNMndyUjBLengwd1pXYzVNNmZ0aFRVbGl5NVJiaVM1dDdlSlVLUHkzalYwZlItTHZHa3FMcjBsa0IzX2VYZFduZ2V3bFBBeVhOWnZUUk1LVGNTOUNPTjVCM2xtTkxxdnRmU1JKQzlUX2RXVS1zWnE5ZVRhbHI5VEV1UW0?oc=5",
+      "summary": "ＥＱＴ、カカクコムのＴＯＢ価格引き上げ 1株3680円に&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T07:50:32+00:00"
+    },
+    {
       "title": "2901stat.HK - | Stock Price & Latest News | Reuters - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZZ1NzN3hMbEFSdnpZNXd0MDFCVlZUcUJOS0p3T01FUm4xeXhvMGNNcUd4S3U1SUtGNktJZG9hMnhZbktPT1FHcmZvaEJCS1c3NEpZdUliYTFrTHlCYjJRclFCcw?oc=5",
       "summary": "2901stat.HK - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T07:47:51+00:00"
+    },
+    {
+      "title": "2901stat.HK - | Stock Price & Latest News | Reuters - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZZ1NzN3hMbEFSdnpZNXd0MDFCVlZUcUJOS0p3T01FUm4xeXhvMGNNcUd4S3U1SUtGNktJZG9hMnhZbktPT1FHcmZvaEJCS1c3NEpZdUliYTFrTHlCYjJRclFCcw?oc=5",
+      "summary": "2901stat.HK - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T07:47:51+00:00"
@@ -2525,6 +2801,14 @@
       "title": "イラン、物々交換に似た仕組みで中国製品購入 制裁回避＝関係筋 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT2Z5VWF4VTJXVTNXa2JsRzRLci1CamFoN3dacHduTURhLWJ3MThFdjdpLUY2aS1HZDZpZk5GdEtVZ3psU011RFNRd1Q3QkhNblNST2dfU3hmYTVCNVVHNmgzVXBKZUVEODg1ZnVkb0pjZXROTVdrVkE5ZDJkb3B3N0tsTHVqUQ?oc=5",
       "summary": "イラン、物々交換に似た仕組みで中国製品購入 制裁回避＝関係筋&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T07:30:12+00:00"
+    },
+    {
+      "title": "イラン、物々交換に似た仕組みで中国製品購入 制裁回避＝関係筋 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT2Z5VWF4VTJXVTNXa2JsRzRLci1CamFoN3dacHduTURhLWJ3MThFdjdpLUY2aS1HZDZpZk5GdEtVZ3psU011RFNRd1Q3QkhNblNST2dfU3hmYTVCNVVHNmgzVXBKZUVEODg1ZnVkb0pjZXROTVdrVkE5ZDJkb3B3N0tsTHVqUQ?oc=5",
+      "summary": "イラン、物々交換に似た仕組みで中国製品購入 制裁回避＝関係筋&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T07:30:12+00:00"
@@ -2642,6 +2926,14 @@
       "published": "2026-09-10T06:46:00+00:00"
     },
     {
+      "title": "基調物価、大きく2％超える状況「今見えるわけではない」＝増日銀委員 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVmZxYjkybGxaRVJPY3kyZkFFYWMwdXdsb05rMlEwemVpaEJYTDh2SDlVMVB3bFdBRG1nZU9HSXB1a3U4Q3BaOUJ4aVIzSFJBN19hU3ZHYVAyaXNpYUtzVXJLTENwWkVRX1lKV1RkeTJMaC1FcU1BM0ktYlMtNy03LWVIMXBickN5Z0NfNGprVQ?oc=5",
+      "summary": "基調物価、大きく2％超える状況「今見えるわけではない」＝増日銀委員&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T06:46:00+00:00"
+    },
+    {
       "title": "中部電、電気料金12億円を過大請求　複数の役職員が算定ミスを放置",
       "link": "https://www.asahi.com/articles/ASV9B11PXV9BULFA00HM.html?ref=rss",
       "summary": "",
@@ -2653,6 +2945,14 @@
       "title": "中国ＥＶ普及率、30年に80％到達の可能性＝シノペック研究者 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pZjBwRWJfMks2TEVEaHlzQ25xVnhmbWprUU9rOEVyZHFLck8wQVNyb3ZXek1LQU9mYTJ3NWJ6cEdBU3VIZ0VJcjY4elBQR3o5dUV6WFVzTmdyRllnNkNGTGdOS3FKY09PMHNvakY4c3Q0RUVaa3djd0hoZHY?oc=5",
       "summary": "中国ＥＶ普及率、30年に80％到達の可能性＝シノペック研究者&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T06:22:00+00:00"
+    },
+    {
+      "title": "中国ＥＶ普及率、30年に80％到達の可能性＝シノペック研究者 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pZjBwRWJfMks2TEVEaHlzQ25xVnhmbWprUU9rOEVyZHFLck8wQVNyb3ZXek1LQU9mYTJ3NWJ6cEdBU3VIZ0VJcjY4elBQR3o5dUV6WFVzTmdyRllnNkNGTGdOS3FKY09PMHNvakY4c3Q0RUVaa3djd0hoZHY?oc=5",
+      "summary": "中国ＥＶ普及率、30年に80％到達の可能性＝シノペック研究者&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T06:22:00+00:00"
@@ -2730,6 +3030,14 @@
       "published": "2026-09-10T06:00:00+00:00"
     },
     {
+      "title": "中国のＡＩ半導体メーカーが値上げ、高帯域幅メモリ不足が深刻化 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CVjN2UlZVUlFOYjJsaHdONHFyNUhRaUxxR0dHVG9ibERNQ0J4QVBQUHN3amNrdzVUb1g1NDhnNFNBTFU1Wjg1NFNWekFJS2NQTnk1M2c2eUFlUVc3S2ZCMHloWTAxUmxGQ29qVHFxcndXdmJ3MzJ6alZIYVA?oc=5",
+      "summary": "中国のＡＩ半導体メーカーが値上げ、高帯域幅メモリ不足が深刻化&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T06:00:00+00:00"
+    },
+    {
       "title": "Bank of Korea Warns of Destabilizing Impact of High-Risk AI Trades",
       "link": "https://www.wsj.com/finance/stocks/bank-of-korea-warns-of-destabilizing-impact-of-high-risk-ai-trades-42291984?mod=rss_markets_main",
       "summary": "A surge of investment in leveraged exchange-traded funds generated significant volatility in the domestic stock market, the Bank of Korea said.",
@@ -2762,9 +3070,25 @@
       "published": "2026-09-10T05:33:00+00:00"
     },
     {
+      "title": "コラム：日銀金融政策の「その先」、政策金利が中立化した後の課題とは＝井上哲也氏 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWmZmckVOYV9UaEFoRDgxM2FQa0ZiVlFCQm9weHZXdkkzZGtIUm5Fc1I0d1ZmMjhhUjVqRmdIWllKSkNPRG96YW1mQVJRbmZCQk1Xc0pCdlE0S2YxdjVWQ1VlSWJnUGlYZWR4THhSQVFWTERmQTI0VVRvMVVGanlGVWF5UzNmU0tBWjVIcg?oc=5",
+      "summary": "コラム：日銀金融政策の「その先」、政策金利が中立化した後の課題とは＝井上哲也氏&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T05:33:00+00:00"
+    },
+    {
       "title": "トランプ氏、コーエン元顧問弁護士の恩赦検討 有罪判決の証言者 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMdjk0aWt1cnFuRHhLV1NDUkpUYmItc2hPM1NJYkg4REFuanNEcGNPRVppcWhJS0lrV2NZSGZuZVhyVVRzcnI2aDFyeUpLc09xdUh5S3d2M2puTGM0ZmJ6b0JURjFLNE1tbDRNd3dGSjVqMzdTYW9nUm5ueHJidw?oc=5",
       "summary": "トランプ氏、コーエン元顧問弁護士の恩赦検討 有罪判決の証言者&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T05:31:00+00:00"
+    },
+    {
+      "title": "トランプ氏、コーエン元顧問弁護士の恩赦検討 有罪判決の証言者 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMdjk0aWt1cnFuRHhLV1NDUkpUYmItc2hPM1NJYkg4REFuanNEcGNPRVppcWhJS0lrV2NZSGZuZVhyVVRzcnI2aDFyeUpLc09xdUh5S3d2M2puTGM0ZmJ6b0JURjFLNE1tbDRNd3dGSjVqMzdTYW9nUm5ueHJidw?oc=5",
+      "summary": "トランプ氏、コーエン元顧問弁護士の恩赦検討 有罪判決の証言者&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T05:31:00+00:00"
@@ -2810,9 +3134,25 @@
       "published": "2026-09-10T05:14:00+00:00"
     },
     {
+      "title": "世界のクリーンテック投資、上半期17％減 中国減速響く - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLUVqOUtvMGFlUk1SSWRsOG5FdUN4SXpuY1o1NFhqcXV4c1JDaHh4WmtNSmx0RXZYM3h3YmM3SmNuakNkWjg2QnVta2I4ckVJeHdRRnRXRlF6UEQ2UkdTRTZoU1V6TzBRREFrZTA5UWZmU3huanVzUVNCTTBtTDJvN0R3?oc=5",
+      "summary": "世界のクリーンテック投資、上半期17％減 中国減速響く&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T05:14:00+00:00"
+    },
+    {
       "title": "高市首相、適齢期や女性枠より実力主義＝内閣改造・党役員人事で官房長官 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQemxROEFvMHl1VnNnTmpVRklVbERGY19Xb2pOaldxNG92R243eFZxbnRWX0wzaEZrV0ZuczFWTHNVS1dydGJabWkyMkR0bHVnTnBzT3l2aWl3bWRBb1dNdXo3UkxHRjJkaGhiRmlhd1Y1LUJ6cGVPbWpkVkp4Zl9KTUdaeHg?oc=5",
       "summary": "高市首相、適齢期や女性枠より実力主義＝内閣改造・党役員人事で官房長官&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T05:03:00+00:00"
+    },
+    {
+      "title": "高市首相、適齢期や女性枠より実力主義＝内閣改造・党役員人事で官房長官 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQemxROEFvMHl1VnNnTmpVRklVbERGY19Xb2pOaldxNG92R243eFZxbnRWX0wzaEZrV0ZuczFWTHNVS1dydGJabWkyMkR0bHVnTnBzT3l2aWl3bWRBb1dNdXo3UkxHRjJkaGhiRmlhd1Y1LUJ6cGVPbWpkVkp4Zl9KTUdaeHg?oc=5",
+      "summary": "高市首相、適齢期や女性枠より実力主義＝内閣改造・党役員人事で官房長官&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T05:03:00+00:00"
@@ -2840,6 +3180,22 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T05:00:00+00:00"
+    },
+    {
+      "title": "ウクライナ北部スムイの商業施設に無人機攻撃、2人死亡・20人負傷 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdmJFdkRKM3BPaHphamlQMzVqa2xCVVZlUnNuMlpxejJWZTVQQlZYZ2w3VjBEeV9vbi14NkhDdl8zLVJfazRHVklveHNEaDc0RnhsRTJFTFpxYU44OXJwTzRvQ2h3Ty1vM0gzS1J3YXZtWTRaeXBaZFAzV3RWdWV3MHZPNUo?oc=5",
+      "summary": "ウクライナ北部スムイの商業施設に無人機攻撃、2人死亡・20人負傷&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T05:00:00+00:00"
+    },
+    {
+      "title": "BCJCHF.xbo - | Stock Price & Latest News - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMmQ4emZ0cDhnVlQwMGF2cm1rUGMzUk9QZzgzRjk4dE85YTU4MlNBa3lNN1ZtMkhySkdFVThmQUhlZVZjSVFTSENVOTAwQU9fY1Z1dUc4YXNJeVpLWE9CbG1VX3lGTXg5VUVRbzlrR2FoS2dmNVB6MEtJTkhLSlZuMW9YRWN4RlBiVWI4?oc=5",
+      "summary": "BCJCHF.xbo - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T04:48:07+00:00"
     },
     {
       "title": "US59141L1098.TRE - | Stock Price & Latest News - Reuters",
@@ -2882,6 +3238,14 @@
       "published": "2026-09-10T04:41:00+00:00"
     },
     {
+      "title": "ＵＢＳ、中国ファンド販売部門の事業停止へ 競争激化など影響か - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeElLcko4SGVrMHVSU0VtYzlrX2ZIVU8xN0RiMHBPV0wzZ2FMaVh0dVBleTJaYnpIaHFOY081eE1PejFSOG5WVDk1WDd0VjhqQUxVWFFjcFVjVU9rTGkxdXpwU01DbkEtQks0MkRiYzJsYmVxMmhpdGFEdHlTTldkRjJMZDg?oc=5",
+      "summary": "ＵＢＳ、中国ファンド販売部門の事業停止へ 競争激化など影響か&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T04:41:00+00:00"
+    },
+    {
       "title": "積水化学、豪宅地開発・住宅建設会社を買収 370億円 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yUktncWR1Vkc3V3AxeDFvSnVoWmR5QVVMRGM1M3JTOFFrVzJkNDd2RklaeFNtSmFlUXotNWljU1l5ZGRqbGc1YnZWZWdwaEZRX2hOVTVCSE90aE9kNElnMjB1dkk5NFJRWVJfUEVOMUtWdXRPMkJfcDZ3?oc=5",
       "summary": "積水化学、豪宅地開発・住宅建設会社を買収 370億円&nbsp;&nbsp;Reuters",
@@ -2893,6 +3257,14 @@
       "title": "トランプ氏、イランのピックアックス山攻撃を再び示唆 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbHV5TXpKQy1HeENydEsxNzdFa1dDcVBDT3ZxbHlSQldhZUhaaDVZRmNya1dpV3gzM3MxQS14Rm5NSFE3S3hwQzlmRnVIdVNjYW9UMkEyWVVKOG1HWGV3YV90VGtKTkdxZExEWjhBU1REUmwwd3o0cEpFS3hDcTJVMlpjczVVUQ?oc=5",
       "summary": "トランプ氏、イランのピックアックス山攻撃を再び示唆&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T04:34:00+00:00"
+    },
+    {
+      "title": "トランプ氏、イランのピックアックス山攻撃を再び示唆 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbHV5TXpKQy1HeENydEsxNzdFa1dDcVBDT3ZxbHlSQldhZUhaaDVZRmNya1dpV3gzM3MxQS14Rm5NSFE3S3hwQzlmRnVIdVNjYW9UMkEyWVVKOG1HWGV3YV90VGtKTkdxZExEWjhBU1REUmwwd3o0cEpFS3hDcTJVMlpjczVVUQ?oc=5",
+      "summary": "トランプ氏、イランのピックアックス山攻撃を再び示唆&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T04:34:00+00:00"
@@ -2930,12 +3302,28 @@
       "published": "2026-09-10T04:28:00+00:00"
     },
     {
+      "title": "ホルムズ海峡通過船、9日は7隻に減少 10日間平均下回る - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDdERyWHhNRkt1dGZpekotNmd2MEJTaERvOUtLZUtuNUx2SnRrSkJ6em5lbDVwejAyX09QcmNZNXdhTzlqSGQ2TVJmR3lpNmVyX0o3c19MU3ZPOG01ODJLV0ZGYWVuSW5OZkM2M29WSGs5LUlpY3BmZUZjMGRNQQ?oc=5",
+      "summary": "ホルムズ海峡通過船、9日は7隻に減少 10日間平均下回る&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T04:28:00+00:00"
+    },
+    {
       "title": "OpenAI might have stolen another major proof",
       "link": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
       "summary": "Article URL: https://twitter.com/ValerioCapraro/status/2097791836269977996\nComments URL: https://news.ycombinator.com/item?id=49638353\nPoints: 89\n# Comments: 16",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-10T04:19:48+00:00"
+    },
+    {
+      "title": "3121.JSA - | Stock Price & Latest News - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SSTh1VzlXeU9XWllycGRUWUU1REV1S3d1VDZleW92X1FYd3FSaE9ScHA2eFZlRVpEYjNUV0paZHdUNkRMNzE4Q2JDSERNRXpFbXFvUDRmeFRfenNGS2JkNTJGeDBtX0RyWlZGYk5zYXJKQlBNbHhhOEtCZzBPVW8?oc=5",
+      "summary": "3121.JSA - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T04:19:16+00:00"
     },
     {
       "title": "BCJCHF.xbo - | Stock Price & Latest News - Reuters",
@@ -2997,6 +3385,14 @@
       "title": "エヌビディア、豪でデータセンターの計算能力拡張へ ＡＩ需要に対応 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Tdzc0cGttRlZodGY3WFo5MlNlSGVQYUxtQWZGU25LckpzNmRSeTFpRnl0UzJ4U2pOLVJSeGQ2ZmIwdGY4V1ZFWF9wMkFYeFRZMkotZjJlczBldDZrUmRVWFM4RnA5Uk1iMUR2dXQ4SW9hckhORk8zQV9vejU?oc=5",
       "summary": "エヌビディア、豪でデータセンターの計算能力拡張へ ＡＩ需要に対応&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T04:01:00+00:00"
+    },
+    {
+      "title": "エヌビディア、豪でデータセンターの計算能力拡張へ ＡＩ需要に対応 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Tdzc0cGttRlZodGY3WFo5MlNlSGVQYUxtQWZGU25LckpzNmRSeTFpRnl0UzJ4U2pOLVJSeGQ2ZmIwdGY4V1ZFWF9wMkFYeFRZMkotZjJlczBldDZrUmRVWFM4RnA5Uk1iMUR2dXQ4SW9hckhORk8zQV9vejU?oc=5",
+      "summary": "エヌビディア、豪でデータセンターの計算能力拡張へ ＡＩ需要に対応&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T04:01:00+00:00"
@@ -3114,6 +3510,14 @@
       "published": "2026-09-10T03:43:55.860549+00:00"
     },
     {
+      "title": "「共和党勝てば全成人に5000ドル」、トランプ氏が中間選挙へ異例の訴え - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0ZaQy1McWJjSHMwbEoxT3FJNnhQdDBJR3Q3eXQtcUV4Zk9oTnFjQmJKRU13cnBaUGl6d1JxbXMxTVhWYXNSYXQ4QnZnNnd6Q1lkUDh0Y0pWMUV4SzQ3YWpqMmVKNWJOZGR4MURsaW9UOV8xVUdvMG1pbFpSN1NzUzZONTIwdw?oc=5",
+      "summary": "「共和党勝てば全成人に5000ドル」、トランプ氏が中間選挙へ異例の訴え&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T03:36:00+00:00"
+    },
+    {
       "title": "中部電力が過大徴収 12億円返還へ",
       "link": "https://news.yahoo.co.jp/pickup/6594841?source=rss",
       "summary": "",
@@ -3210,9 +3614,25 @@
       "published": "2026-09-10T03:15:55+00:00"
     },
     {
+      "title": "1時間単位で2倍の値動き目指す個別株ＥＴＦ、デファイアンスが販売計画 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeENSVm1LcWNVV2kzX294amdzTFpYZUdxX1pkVW9RcnlnaUVaNWZmcXplSHFoeW1rb2stdUo4QVI0X3lBc2o0enhYUlJCd3lSWHRZYXdqa01fNmFnV0YxblFzR3hkZ1FseGNXMzBYdmd5X0tTU2xuMVFBYm1YcG1BaEphZHQ?oc=5",
+      "summary": "1時間単位で2倍の値動き目指す個別株ＥＴＦ、デファイアンスが販売計画&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T03:15:00+00:00"
+    },
+    {
       "title": "Breakingviews - COMMENTARY: コラム：カナダの報復関税、米激戦州への政治的圧力狙う - Reuters",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNODdLcklvRmFWaGRQMXBPWTJRZF9WRFBtRkIybnFyVlZvdFV6eUd2djZDRG44NkU4TkRabU1BVDhQbkN1U19WY3l0cnY3cFRFbVRJa1NxMTNJS3piRVh1bVVGQ2lXTElKM2lYZzZFam9ZS2lBb0N5Z1dsMVVnVHVkS0tpa0kxQ1hlVlVTWUNBaw?oc=5",
       "summary": "Breakingviews - COMMENTARY: コラム：カナダの報復関税、米激戦州への政治的圧力狙う&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T03:12:00+00:00"
+    },
+    {
+      "title": "Breakingviews - COMMENTARY: コラム：カナダの報復関税、米激戦州への政治的圧力狙う - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNODdLcklvRmFWaGRQMXBPWTJRZF9WRFBtRkIybnFyVlZvdFV6eUd2djZDRG44NkU4TkRabU1BVDhQbkN1U19WY3l0cnY3cFRFbVRJa1NxMTNJS3piRVh1bVVGQ2lXTElKM2lYZzZFam9ZS2lBb0N5Z1dsMVVnVHVkS0tpa0kxQ1hlVlVTWUNBaw?oc=5",
+      "summary": "Breakingviews - COMMENTARY: コラム：カナダの報復関税、米激戦州への政治的圧力狙う&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T03:12:00+00:00"
@@ -3229,6 +3649,14 @@
       "title": "午前の日経平均は続落、金利上昇や原油高を嫌気 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcjVlSDNXQjRRUG1mTWp1SnZ0QjhrX3NkV1Iwd05MdG5vZDZqOXpSd2Jycy1lcUhyaU5fVmlOZ3VxTVpxdFA5R1ZEU3gyLVhibzRXMmxnQWhMX2c5bUc3VjFZOTJsenhyeG9uVHpId1pGTHJiTFpzRzE1dU1fMkR5WmtSZm8?oc=5",
       "summary": "午前の日経平均は続落、金利上昇や原油高を嫌気&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T03:06:00+00:00"
+    },
+    {
+      "title": "午前の日経平均は続落、金利上昇や原油高を嫌気 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcjVlSDNXQjRRUG1mTWp1SnZ0QjhrX3NkV1Iwd05MdG5vZDZqOXpSd2Jycy1lcUhyaU5fVmlOZ3VxTVpxdFA5R1ZEU3gyLVhibzRXMmxnQWhMX2c5bUc3VjFZOTJsenhyeG9uVHpId1pGTHJiTFpzRzE1dU1fMkR5WmtSZm8?oc=5",
+      "summary": "午前の日経平均は続落、金利上昇や原油高を嫌気&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T03:06:00+00:00"
@@ -3314,6 +3742,14 @@
       "published": "2026-09-10T02:32:00+00:00"
     },
     {
+      "title": "COMMENTARY: コラム：円急伸で揺らぐキャリートレード、見つからない次の調達通貨 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yaFFlamppZkFCcTBqQjhUR08tSlY3SmluWWp0ZnY3VkJmbVFWTWhrVVBLUzFPcmtFQkNKZmR2dnRGa2xGeDB4c2pWTWRYMVlmb3hsc0UyRmN5blpXdnlpZGJSMEtlbU5neTV2dTNrekNuRWt3UUxQRDJiMEI?oc=5",
+      "summary": "COMMENTARY: コラム：円急伸で揺らぐキャリートレード、見つからない次の調達通貨&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T02:32:00+00:00"
+    },
+    {
       "title": "｢ズボンをはくときにわかる｣衰えサインとは？　40代から始まる筋肉･柔軟性･バランス感覚の変化を理学療法士が解説 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/956240?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "｢なんとなく前と違う｣と感じ始める40代。エスカレーターに頼りがちになった､ズボンをはくときに片脚立ちでふらつく､とっさに動けない……そんな変化の裏には､筋肉･柔軟性･バランス感覚の小さな衰えが隠れ…",
@@ -3325,6 +3761,14 @@
       "title": "実質金利は「いまだにマイナス」、早く解消すべき＝増日銀委員 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZbHNud0FGUEsyS1RDVDVjbnNpUjJhYzVKRGlrYnRUektvYnlibU0waDloMHpOdGpmNHZMY3pYMTR2LXg4TjV3OFhLNHFQTzNkd3hTbm5zM2k2Y1BHVHZhZ0l3MWRNX0ZVdWUzeF9ldi1nY2F4REtoRnd5NnE?oc=5",
       "summary": "実質金利は「いまだにマイナス」、早く解消すべき＝増日銀委員&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T02:30:00+00:00"
+    },
+    {
+      "title": "実質金利は「いまだにマイナス」、早く解消すべき＝増日銀委員 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZbHNud0FGUEsyS1RDVDVjbnNpUjJhYzVKRGlrYnRUektvYnlibU0waDloMHpOdGpmNHZMY3pYMTR2LXg4TjV3OFhLNHFQTzNkd3hTbm5zM2k2Y1BHVHZhZ0l3MWRNX0ZVdWUzeF9ldi1nY2F4REtoRnd5NnE?oc=5",
+      "summary": "実質金利は「いまだにマイナス」、早く解消すべき＝増日銀委員&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T02:30:00+00:00"
@@ -3426,6 +3870,14 @@
       "published": "2026-09-10T01:59:00+00:00"
     },
     {
+      "title": "ヨルダン駐留の米軍機が複数損傷、夜間空爆で＝ＣＢＳ - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQazgyR0ZCeW5JRVFwaE80SFVaanZHNklRT0lodElsblZUaGZKUmN1VlZlUUxmeF9fSVVlUnNZZmdqOG5ZS2ZabmI3WFN1WVNlUEZqRlpTVjlUSjhYalhPOTNfZTkxV2p0UjRLemx4ZUhLZkh1WmM1OU1JOWFSb2N3amtOMlNSdw?oc=5",
+      "summary": "ヨルダン駐留の米軍機が複数損傷、夜間空爆で＝ＣＢＳ&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T01:59:00+00:00"
+    },
+    {
       "title": "Show HN: What if the speed of light was 5 km/h?",
       "link": "https://rivendell.dmitrybrant.com/relativity/",
       "summary": "I've always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects with everyday objects. And here is the first version of it!\n\nComments URL: https://news.ycombinator.com/item?id=49637385\nPoints: 4\n# Comments: 3",
@@ -3445,6 +3897,14 @@
       "title": "原油上昇、ブレント100ドル台維持 タンカー攻撃で一段の供給懸念 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9EbWFLN1FNdksxOTBvQlhpRVpvMjh4V1NMQ3VLemlQQlIyanE0N0lQcUJ0N2ZZRHJNTFVmSld1MkVZcnhBeG1vTTE3WGljWm85bUtHUEVHZ1IyS21HR3BySUtEYVl4eHprb21wVGI2a01wZV81T1J6TzUtOW50UQ?oc=5",
       "summary": "原油上昇、ブレント100ドル台維持 タンカー攻撃で一段の供給懸念&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T01:40:00+00:00"
+    },
+    {
+      "title": "原油上昇、ブレント100ドル台維持 タンカー攻撃で一段の供給懸念 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9EbWFLN1FNdksxOTBvQlhpRVpvMjh4V1NMQ3VLemlQQlIyanE0N0lQcUJ0N2ZZRHJNTFVmSld1MkVZcnhBeG1vTTE3WGljWm85bUtHUEVHZ1IyS21HR3BySUtEYVl4eHprb21wVGI2a01wZV81T1J6TzUtOW50UQ?oc=5",
+      "summary": "原油上昇、ブレント100ドル台維持 タンカー攻撃で一段の供給懸念&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T01:40:00+00:00"
@@ -3506,6 +3966,22 @@
       "published": "2026-09-10T01:18:54+00:00"
     },
     {
+      "title": "9月ロイター企業調査：政府に求める円安対応、「財政健全化」が最多 望ましい水準は150円台 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ITE0zbnZUNTlKN3ViQzhibTQ5RjB1LV9zU2tUOEN4b1hESlR4VTB3eXEyZUNhM2d4RjdUWFdLbmJZWWN2ZTNMNGZqSmkxRzZDYWhNVXZ6ZDZyc2k0Z3lPYk5aT0dDTVl5TzhSaURZS0hHV2ZfdFcxN1MwRGY?oc=5",
+      "summary": "9月ロイター企業調査：政府に求める円安対応、「財政健全化」が最多 望ましい水準は150円台&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T01:18:00+00:00"
+    },
+    {
+      "title": "2683.JSA - | Stock Price & Latest News - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWnNxSHE4cldaTGhqdGoxSlQwS0p3ZWRaUDFFSF9NaXpPRUdpRC1WRnRIa2tqUUVRaGo0TjZxSE1fN1p5cVhYTDItSVR5R2JTODd5RkhFc2czMndyemcycW40MHNHTEpOZUJWMjVPZEN5ZVQzeEdBZk4zS09tZzZVWUhiUQ?oc=5",
+      "summary": "2683.JSA - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T01:15:41+00:00"
+    },
+    {
       "title": "2683.JSA - | Stock Price & Latest News - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcnVoOXFJUHJqUFAzMVg5YVNzZVhleWRhQnZUbGFEZndNeUlHNGd6Ym1tX1NvbUtJek1lX3dobV9rM1plekVSTS1tSW9kQUhBcVNxdUk2TVBzOUpna3M0MndsV0E0M0pHc0NEMHhGZjZFdk45dkMxb3pBcHZBUXQ2d2ZoZmFCQ0Vj?oc=5",
       "summary": "2683.JSA - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
@@ -3538,6 +4014,14 @@
       "published": "2026-09-10T01:10:24+00:00"
     },
     {
+      "title": "メキシコＣＰＩ、8月は前年比3.26％上昇 5カ月ぶり加速 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0J1LVZTVUp0ZWFCT18wYzVGSExSbjV5MlJSZnlJS0dIV1NYYXhEZW1RcFhlSUFhcVc2NklkMTRPaFpGWTlMOV9TdERBZjhyRW5jVDRjeGpzOExyUmVLTmt4el9rLU5pcFduczlrZi1fZFFIZ0I5SVhqMTdOOVJIWjR4TUM?oc=5",
+      "summary": "メキシコＣＰＩ、8月は前年比3.26％上昇 5カ月ぶり加速&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T01:10:24+00:00"
+    },
+    {
       "title": "北朝鮮、中国との「新鴨緑江大橋」完成間近 長期停滞経て＝分析会社 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORERGQ0IxeDcyMXRBcEFYOWZaQjZEYk5hZDdrRUUzR0Y1Ql9vQ1VQeFlONTIyeVJGSmNxUDZNcUlaN3NYQ2F3clQ5TTVTcEJHZmtpdUlLbkppRnk4aHVtblc0NHF6OGFCOGpEU3lwd0MxbHRGcEF5STVqbG14N2VGZy1n?oc=5",
       "summary": "北朝鮮、中国との「新鴨緑江大橋」完成間近 長期停滞経て＝分析会社&nbsp;&nbsp;Reuters",
@@ -3562,9 +4046,41 @@
       "published": "2026-09-10T01:08:00+00:00"
     },
     {
+      "title": "北朝鮮、中国との「新鴨緑江大橋」完成間近 長期停滞経て＝分析会社 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORERGQ0IxeDcyMXRBcEFYOWZaQjZEYk5hZDdrRUUzR0Y1Ql9vQ1VQeFlONTIyeVJGSmNxUDZNcUlaN3NYQ2F3clQ5TTVTcEJHZmtpdUlLbkppRnk4aHVtblc0NHF6OGFCOGpEU3lwd0MxbHRGcEF5STVqbG14N2VGZy1n?oc=5",
+      "summary": "北朝鮮、中国との「新鴨緑江大橋」完成間近 長期停滞経て＝分析会社&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T01:08:00+00:00"
+    },
+    {
+      "title": "米エネルギー消費量、今年と来年に過去最高更新へ＝ＥＩＡ - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxSXlZYjd3bHJoaWhIX2pPNUJ1NTRJSklhaFJwQlpBMkxSZmxjWURLZzA1WTViUkFqNDlyVksxc1VST1QtaHlFNVREamN5R3VyRW5Fc3hBSFNnWGZmMll5WUo3Y1JpSlA2RzkzcFFEUG9SSUEzM2h0VDE0UVl5dw?oc=5",
+      "summary": "米エネルギー消費量、今年と来年に過去最高更新へ＝ＥＩＡ&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T01:08:00+00:00"
+    },
+    {
+      "title": "中国ファーウェイ巡る刑事裁判が開廷、米企業技術窃取など争点 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOXZmZFc1X3N3d0Y4WG5ndDBIWHZMck9kWVB0Um8yNjc2OERYLTlaT0s0UzlMTkpsd01KNEFhcnI5aGd3amNhVUFMeVZTRG44bEFfbDNZcThaYm13cGVHaDQ5cXVyQ24zVFJBWV9uZmRrLTFseEZGSmxMQlB4ZFdBQnptMUhidw?oc=5",
+      "summary": "中国ファーウェイ巡る刑事裁判が開廷、米企業技術窃取など争点&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T01:08:00+00:00"
+    },
+    {
       "title": "ＩＡＥＡ、シリア核活動の「疑問解消」 不拡散義務に違反せずと決議 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQclowY3B5aEVzNjE3ZWRzakZVV2NOTERDNzlRVUJ5SHF1cXljcGFOelpvTHpPRzR2bVVIZzdDNjFETm1NOHVKNjRPT1VuSFc5ekhDZnlNbnllNHBTMlJzQnhXQ1M0U1BKcFQxVXByNVU5QjBsbEdsV2F4R1kySHlaRkt3VDViUQ?oc=5",
       "summary": "ＩＡＥＡ、シリア核活動の「疑問解消」 不拡散義務に違反せずと決議&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T01:07:00+00:00"
+    },
+    {
+      "title": "ＩＡＥＡ、シリア核活動の「疑問解消」 不拡散義務に違反せずと決議 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQclowY3B5aEVzNjE3ZWRzakZVV2NOTERDNzlRVUJ5SHF1cXljcGFOelpvTHpPRzR2bVVIZzdDNjFETm1NOHVKNjRPT1VuSFc5ekhDZnlNbnllNHBTMlJzQnhXQ1M0U1BKcFQxVXByNVU5QjBsbEdsV2F4R1kySHlaRkt3VDViUQ?oc=5",
+      "summary": "ＩＡＥＡ、シリア核活動の「疑問解消」 不拡散義務に違反せずと決議&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T01:07:00+00:00"
@@ -3682,6 +4198,14 @@
       "published": "2026-09-10T00:17:27+00:00"
     },
     {
+      "title": "BCJs.TRE - | Stock Price & Latest News - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVUhqcHJNdHc0NUJtOEV3WEVaRXpyNUljX1JVbThJSlBXUlV5Vm1XQU1EcnAzbmpQX2Zjc0xHSTZ0WHNuOUtMR0pYMXFLR3NBTWxBRy1kdVo1a1JUTUtyRkR1WkF4aGMxTlRoUGp0dzQ2bmF2V0kxOE95RWVTcDBzTDQ0bEF5SnZp?oc=5",
+      "summary": "BCJs.TRE - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T00:17:27+00:00"
+    },
+    {
       "title": "Oil Rises Amid Escalation in Mideast Conflict",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-escalation-in-mideast-conflict-1394ff07?mod=rss_markets_main",
       "summary": "Oil rose amid the escalation in Middle East conflict that could exacerbate supply disruptions in the region.",
@@ -3693,6 +4217,14 @@
       "title": "オープンＡＩ、ＡＩ安全性要件の全米義務化を要求 自律進化に懸念 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84Y2lEMG9wRzFReFFTYThyMEFDank2a2dWanBVSW9rb3ZzRm40MTBrSWxORXhMaHp6RWlhTzFJb1o1MzFHQTJEbWhzU0VOMml4dERWTlVvdUZCX3Y2aldwSThtN0RfN2lwcmFDQlpTakxudzRWbjFtYlJHaW8?oc=5",
       "summary": "オープンＡＩ、ＡＩ安全性要件の全米義務化を要求 自律進化に懸念&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T00:11:00+00:00"
+    },
+    {
+      "title": "オープンＡＩ、ＡＩ安全性要件の全米義務化を要求 自律進化に懸念 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84Y2lEMG9wRzFReFFTYThyMEFDank2a2dWanBVSW9rb3ZzRm40MTBrSWxORXhMaHp6RWlhTzFJb1o1MzFHQTJEbWhzU0VOMml4dERWTlVvdUZCX3Y2aldwSThtN0RfN2lwcmFDQlpTakxudzRWbjFtYlJHaW8?oc=5",
+      "summary": "オープンＡＩ、ＡＩ安全性要件の全米義務化を要求 自律進化に懸念&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T00:11:00+00:00"
@@ -3717,6 +4249,14 @@
       "title": "オープンＡＩエージェント、10余りの未公表サイトで無許可通信 判明分超える逸脱か - Reuters",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9raU94LVgyai1GbEpNRGxESU1tTTBVM1ppdV9NVVFleDNjeFJ4MTJNRFNMSjlnd21vWmgtMk41WExLQW53dzlRMzhELWxrVHY3SXpOQVh6NThJcnIwUFVCVWFkTDVReWZkdTdVMXo1TUdLYVJuWDdfOFR5ZDg?oc=5",
       "summary": "オープンＡＩエージェント、10余りの未公表サイトで無許可通信 判明分超える逸脱か&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T00:00:00+00:00"
+    },
+    {
+      "title": "オープンＡＩエージェント、10余りの未公表サイトで無許可通信 判明分超える逸脱か - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9raU94LVgyai1GbEpNRGxESU1tTTBVM1ppdV9NVVFleDNjeFJ4MTJNRFNMSjlnd21vWmgtMk41WExLQW53dzlRMzhELWxrVHY3SXpOQVh6NThJcnIwUFVCVWFkTDVReWZkdTdVMXo1TUdLYVJuWDdfOFR5ZDg?oc=5",
+      "summary": "オープンＡＩエージェント、10余りの未公表サイトで無許可通信 判明分超える逸脱か&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T00:00:00+00:00"
@@ -3914,6 +4454,14 @@
       "published": "2026-09-09T22:23:57+00:00"
     },
     {
+      "title": "焦点：都市戦から敵陣潜入まで、中国軍が描く人型ロボットの戦場活用 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tT2dpeFZ5VXZCeFF5cWZyaS1obDVaU0d4RDJvSk91Sl9MNWdOMGR6Sktjc1EtUm9MSHV2SFgzdHdkNjQwX0lEM0hVZFRzSFMzZ1RyZ0pJckZ5azdUZWZlbjVzSXdDVHFtN0tPbk9tdDVGZE1fVzVzeVZhX2dHUQ?oc=5",
+      "summary": "焦点：都市戦から敵陣潜入まで、中国軍が描く人型ロボットの戦場活用&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T22:23:57+00:00"
+    },
+    {
       "title": "Blizzard Workers Win Historic Union Contract",
       "link": "https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers",
       "summary": "Article URL: https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers\nComments URL: https://news.ycombinator.com/item?id=49635384\nPoints: 28\n# Comments: 0",
@@ -3973,6 +4521,14 @@
       "title": "アマゾンが初のポンド建て起債、58億ドル相当調達 投資家に警戒感も - Reuters",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5UOWZTZE1fLTNFSFNFTkpUanZKWGw0VUpoVXl4YXdVQ0hLYzU3NnRaeUdrSHdqbkhNRTFobmNYR1pTbG1vcVQyLUoweFFYSFFLQ0FmSFBhNC1DUFNvYm9vNEc2YWtlVGI5NWE3eXJuRExIZEhNVGFfazZQOEI?oc=5",
       "summary": "アマゾンが初のポンド建て起債、58億ドル相当調達 投資家に警戒感も&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T22:11:43+00:00"
+    },
+    {
+      "title": "アマゾンが初のポンド建て起債、58億ドル相当調達 投資家に警戒感も - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5UOWZTZE1fLTNFSFNFTkpUanZKWGw0VUpoVXl4YXdVQ0hLYzU3NnRaeUdrSHdqbkhNRTFobmNYR1pTbG1vcVQyLUoweFFYSFFLQ0FmSFBhNC1DUFNvYm9vNEc2YWtlVGI5NWE3eXJuRExIZEhNVGFfazZQOEI?oc=5",
+      "summary": "アマゾンが初のポンド建て起債、58億ドル相当調達 投資家に警戒感も&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-09T22:11:43+00:00"
@@ -4106,6 +4662,14 @@
       "published": "2026-09-09T21:22:26+00:00"
     },
     {
+      "title": "2211.J2 - | Stock Price & Latest News - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUjdoQTZQcHUxeDhFTWNyUTNDaHNZVlhjbmFnTVdsQlRKal8xZlRCbFJkWDFaLWJERjh0R1VjZmRjN2J0ZVpfcjY1bGdjYU5JbGF0eUQtMk5RUlJPZkFPVFpKQkNicXp1S2w3TnhabWdEWjBVTEdNTDZsMjJ4RWtMU3lFb2tRSjA?oc=5",
+      "summary": "2211.J2 - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T21:21:55+00:00"
+    },
+    {
       "title": "官房長官「教育水準示した」　国際学力調査",
       "link": "https://www.jiji.com/jc/article?k=2026090900927&g=pol&m=rss",
       "summary": "",
@@ -4136,6 +4700,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-09T21:20:00+00:00"
+    },
+    {
+      "title": "BCJz.TQ - | Stock Price & Latest News - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRkdXaG1PcGxjQ3VwdTFmZ280WWRoMFUwazlXd3NjT2hPakRtRl82aDJpU1M2OUExSUtlQXhaRk9GSnlUam4wcURnTXRscXhjcWE1NUdsTnU4VndqUnE2NUQ5Y0huaWdZMmZSdUdYTkxsbDQzdHJpcU9RS3FBdVRpMWh2SmVQSk0?oc=5",
+      "summary": "BCJz.TQ - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T21:19:08+00:00"
     },
     {
       "title": "The bull market’s biggest enemy right now could be Bessent’s interventions",
@@ -4176,6 +4748,14 @@
       "source": "AWS ブログ (アーキテクチャ)",
       "category": "開発者向け",
       "published": "2026-09-09T21:05:02+00:00"
+    },
+    {
+      "title": "6228.J3 - | Stock Price & Latest News - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWDJNRFZhdHFrWjFUMWQyR09YWWk4LW5SUndscDg1UzJ0N3VMTkpMU29Gd3RfblVpazBCcEdHZzlCMTB0dml5YlVsbi1KZjVrMWVGMk5ranU1aGRhVTRKUEs3OXZKSGNKUi1Nek5oVkx2VDdleEZDeVJnUW9qR01qOTExRmdiR1k?oc=5",
+      "summary": "6228.J3 - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T21:01:09+00:00"
     },
     {
       "title": "くら寿司｢2期連続減益見込み｣と業績が停滞する中で起きた｢ちいかわコラボ中止｣という誤算 | ビジネス | 東洋経済オンライン",
@@ -4344,6 +4924,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-09T20:44:07+00:00"
+    },
+    {
+      "title": "BCJ.xt - | Stock Price & Latest News - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SdG1GOS0wVDZRN1RQVGxobzI3WVZpd0Z4c0xHTk1JQVlvRkhMNEhpREdDUk15dkVZVENmaDhDYTRBVjM4UEdVQXhPelNheklHS01zQnhMbXNKS2xyMmVuRDdPT0dFanNZelZ6SnVEY25oRXlZRElDaE82aEw?oc=5",
+      "summary": "BCJ.xt - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T20:34:01+00:00"
     },
     {
       "title": "熱海の｢入場無料｣昭和レトロ施設《売上が4倍》のカラクリ…\"稼ぎ頭\"は売上1位の喫茶ではなく｢1回100円｣のゲームだった | ビジネス | 東洋経済オンライン",
@@ -4562,6 +5150,14 @@
       "published": "2026-09-09T19:19:17+00:00"
     },
     {
+      "title": "0ROV.L - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaFlfYnloZFlnZEg5SE9LOUo3SmpzdHlPanBxOUdmZGRpTzNBVklvNWxycUF3VzZyTUFEc1NhN3BtZUNsNzBjTTJyLUZGRWo3cnpuSm1YdkpMbWdQRHBTV0h6RHlsVFZCeTVVOEwtMVJ1a2VQZGJnWmM4NnJDQXpXTFVHcFdBdw?oc=5",
+      "summary": "0ROV.L&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T19:19:17+00:00"
+    },
+    {
       "title": "Gold Futures Edge Up Despite Higher U.S. Yields",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-slips-traders-eye-inflation-data-a5ad1d66?mod=rss_markets_main",
       "summary": "Gold futures made small gains despite a rise in Treasury yields. The dollar weakened, however, which tends to support gold.",
@@ -4581,6 +5177,14 @@
       "title": "折り畳みｉＰｈｏｎｅ「デュオ」発表、アップルが主力製品を大幅刷新 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZRWw2WjhCeG5sMnBBWG5WOXd2a2ZJajV0dmFySTFsdUg2a09rSy1GY0w4bHh4SnZ3VzNBcVBtcVVUTlNRX3pJbmdIc25pMGNnMWc5RVl3cEp2djBIVWJlaVpZQjJMaWlXYUFSdm5PcGhUdWJldGFiRTBVMk4?oc=5",
       "summary": "折り畳みｉＰｈｏｎｅ「デュオ」発表、アップルが主力製品を大幅刷新&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T18:34:00+00:00"
+    },
+    {
+      "title": "折り畳みｉＰｈｏｎｅ「デュオ」発表、アップルが主力製品を大幅刷新 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZRWw2WjhCeG5sMnBBWG5WOXd2a2ZJajV0dmFySTFsdUg2a09rSy1GY0w4bHh4SnZ3VzNBcVBtcVVUTlNRX3pJbmdIc25pMGNnMWc5RVl3cEp2djBIVWJlaVpZQjJMaWlXYUFSdm5PcGhUdWJldGFiRTBVMk4?oc=5",
+      "summary": "折り畳みｉＰｈｏｎｅ「デュオ」発表、アップルが主力製品を大幅刷新&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-09T18:34:00+00:00"
@@ -4912,6 +5516,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-09T16:33:44+00:00"
+    },
+    {
+      "title": "634A.JNX - | Stock Price & Latest News - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWDdfWFUzSzBPWnBSMEVjdjFTb1pYZXRZRjc4cFVDNHhUR3F6VjFMdms2TEY2ODlfUG81WUplN3VJSDZyVS0wc0RfWmpHT0RDWXhYeGFwTl9laF9qVjRza0FJRjFuRTRIeVpXbUpiaHFOd1FEMV9MU2dvb2d5VklHeTNHOUdSVHc5?oc=5",
+      "summary": "634A.JNX - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T16:27:22+00:00"
     },
     {
       "title": "\"Good\" AI",
