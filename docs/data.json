@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T21:06:25.324571+00:00",
+  "generated_at": "2026-09-10T21:20:24.715076+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -186,9 +186,53 @@
     {
       "url": "https://www.mof.go.jp/news.rss",
       "error": "503 Server Error: Service Unavailable for url: https://www.mof.go.jp/news.rss"
+    },
+    {
+      "url": "https://www.mof.go.jp/news.rss",
+      "error": "503 Server Error: Service Unavailable for url: https://www.mof.go.jp/news.rss"
     }
   ],
   "items": [
+    {
+      "title": "木原官房長官「球界発展に貢献」　張本勲さん死去",
+      "link": "https://www.jiji.com/jc/article?k=2026091001033&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-10T21:20:04.870048+00:00"
+    },
+    {
+      "title": "首相動静（９月１０日）",
+      "link": "https://www.jiji.com/jc/article?k=2026091000235&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-10T21:20:04.870011+00:00"
+    },
+    {
+      "title": "WSJ Dollar Index Rises 0.35% to 95.18",
+      "link": "https://www.wsj.com/finance/currencies/australian-dollar-touches-fresh-mid-may-highs-c61ab082?mod=rss_markets_main",
+      "summary": "The WSJ Dollar Index rose 0.4%, snapping a three-trading-day losing streak.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-10T21:19:00+00:00"
+    },
+    {
+      "title": "Oracle’s AI bet pays off as cloud momentum helps drive a rosier forecast",
+      "link": "https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa?mod=mw_rss_topstories",
+      "summary": "The company saw its backlog grow even more in the latest quarter.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-10T21:18:00+00:00"
+    },
+    {
+      "title": "｢遺伝的要因のおそろしさを感じる｣と投稿⋯東大教授が皇族女性を揶揄？猛烈批判も｢謝罪なし｣｢曲解と反論｣する異様さ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957522?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "東京大学教授による｢遺伝的要因のおそろしさ｣というSNS投稿が大炎上し､謝罪ではなく｢長文の解説｣でさらに波紋が広がっています。背景にあるSNS時代特有の心理や専門家としての言葉の重み､そして現代社…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-10T21:15:00+00:00"
+    },
     {
       "title": "市場の円安ナラティブが変わった…ベッセント発言が期せずして幕引きする〈リフレ派vs反リフレ派〉の構図と次の論点 | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/957654?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -1934,6 +1978,14 @@
       "published": "2026-09-10T09:08:53.527463+00:00"
     },
     {
+      "title": "中国・香港株式市場・大引け＝下落、原油高でインフレ懸念再燃 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU2kxcEJDWGNqdEFhVUdKZ0tfclFHZWFWbm5QRzc5Z3BZX044YzU0MnBycHE3elljVy1seVpxZ21MTGxiX3VWN3ZjanM5cmltN3lxeVo2U1FNRHJlS01yczRSM0F2dGFQelFUVVM5YWdnd1ZETlpJSGZyUlM3Qzc2dGZjRXE?oc=5",
+      "summary": "中国・香港株式市場・大引け＝下落、原油高でインフレ懸念再燃&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T09:08:53+00:00"
+    },
+    {
       "title": "What algorithm did Windows XP use to choose your initial user picture?",
       "link": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
       "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683\nComments URL: https://news.ycombinator.com/item?id=49640646\nPoints: 12\n# Comments: 2",
@@ -2273,6 +2325,14 @@
       "title": "あいちＦＧと三十三ＦＧ、経営統合の基本合意を解消 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xbmhuRkN0QTNHTGFFa05ISHZqZXdaV29pUDdsMU5KTmhWbFBWRXZvWHozRGFvQXNnMmdJb1ZCeHRreE1SUHg2aEtoMmxRS2R2SjdBSHVVTlpGUmFValEzb1UxcFU4N3FGaG5YTk1xUGJwZW04c3VHaHRn?oc=5",
       "summary": "あいちＦＧと三十三ＦＧ、経営統合の基本合意を解消&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T06:53:00+00:00"
+    },
+    {
+      "title": "サムスン電子、折り畳みスマホ宣伝強化 アップルの攻勢に対抗 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wMlJnQUx3dk9DdENJdmRLNUNzZ293ZE4xVFJsZUNWelNnMXdVOGU1b0xna3FpeHZPMjRTN1pNVFpVX2JuM21rUHB1RUdsS2hFVEozSHVJa3JELXg2VWNkUnRFdkIzSTNsZGw5RlRzNHVuaG9EaEJNdjhRVU0?oc=5",
+      "summary": "サムスン電子、折り畳みスマホ宣伝強化 アップルの攻勢に対抗&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T06:53:00+00:00"
