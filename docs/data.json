@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T17:22:18.028463+00:00",
+  "generated_at": "2026-09-10T17:33:47.142151+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -166,12 +166,28 @@
   ],
   "items": [
     {
+      "title": "Why $500 checks won’t help Americans facing 15% increases in Obamacare premiums next year",
+      "link": "https://www.marketwatch.com/story/why-500-checks-wont-help-americans-facing-15-increases-in-obamacare-premiums-next-year-b8801cc4?mod=mw_rss_topstories",
+      "summary": "Rising healthcare costs have been a major issue for lawmakers in recent years.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-10T17:24:00+00:00"
+    },
+    {
       "title": "ＮＹ原油急伸、再び１００ドル台　３カ月半ぶり、中東混迷長期化懸念",
       "link": "https://www.jiji.com/jc/article?k=2026091001200&g=int&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-10T17:22:11.338112+00:00"
+    },
+    {
+      "title": "Druckenmiller says US borrowing costs still ‘a little low’ despite surge in yields",
+      "link": "https://www.ft.com/content/7410c56e-5350-48f8-a5e6-24f37c1581e9?syn-25a6b1a6=1",
+      "summary": "Close ally of Kevin Warsh says Federal Reserve officials who argue rates are restrictive are ‘just ridiculous’",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-10T17:21:56+00:00"
     },
     {
       "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
@@ -188,6 +204,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-10T16:54:00+00:00"
+    },
+    {
+      "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
+      "link": "https://tokenstead.ai/models/swe-2",
+      "summary": "Article URL: https://tokenstead.ai/models/swe-2\nComments URL: https://news.ycombinator.com/item?id=49646778\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T16:52:11+00:00"
     },
     {
       "title": "フーシ派、イエメンの要衝湾港モカ制圧 紅海航路への影響拡大 - Reuters",
@@ -1206,6 +1230,14 @@
       "published": "2026-09-10T09:54:25+00:00"
     },
     {
+      "title": "在中国米企業、5年先の見通し改善 楽観58％に上昇 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wYV9abXR1N2RJOXJJTHJtaDBDanJiZHUxQ0VkOHYxeUtuNFZucjkzZEFqS1BiQnUtdWVLY1lvTDBPX0Z6WjEtNmpSbUF1SGx1cW9UbGlaQWRQNy12T296dDI3OGxUY3B4T0JhbTFGM0VmRk41VVg0N0t1LUdZdw?oc=5",
+      "summary": "在中国米企業、5年先の見通し改善 楽観58％に上昇&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T09:53:43+00:00"
+    },
+    {
       "title": "高木美帆さん、ワコール外部研究員に　スケート競技経験を商品開発へ",
       "link": "https://www.asahi.com/articles/ASV9B30VTV9BPLFA005M.html?ref=rss",
       "summary": "",
@@ -1620,6 +1652,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-10T07:00:22+00:00"
+    },
+    {
+      "title": "あいちＦＧと三十三ＦＧ、経営統合の基本合意を解消 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xbmhuRkN0QTNHTGFFa05ISHZqZXdaV29pUDdsMU5KTmhWbFBWRXZvWHozRGFvQXNnMmdJb1ZCeHRreE1SUHg2aEtoMmxRS2R2SjdBSHVVTlpGUmFValEzb1UxcFU4N3FGaG5YTk1xUGJwZW04c3VHaHRn?oc=5",
+      "summary": "あいちＦＧと三十三ＦＧ、経営統合の基本合意を解消&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T06:53:00+00:00"
     },
     {
       "title": "More questions about whether researchers can trust OpenAI with unpublished math",
@@ -2316,6 +2356,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-10T02:25:17+00:00"
+    },
+    {
+      "title": "米軍、カリブ海で麻薬密輸船攻撃 3人死亡と発表 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYlFlNGFESktLS2N4S1RkN2RCbnNIOEZDYWkxYWlVbDk0Zy1kMDVxSXBzZ2FTYTNHRmdlbDlDLXpVbTZiejRjT0c3cC1rYUEwZWJ4S19uMkx5MGpWYUxPelhkR0s2RlNsSjNlVnNmVmtIbVBvWFpHdnI3eDgwMnV6UXNnNEpjZw?oc=5",
+      "summary": "米軍、カリブ海で麻薬密輸船攻撃 3人死亡と発表&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T02:24:00+00:00"
     },
     {
       "title": "昨年の自傷・自殺未遂４．３万人　搬送増加、若年女性で顕著―対策センター",
