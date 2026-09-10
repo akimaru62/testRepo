@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T20:07:21.604904+00:00",
+  "generated_at": "2026-09-10T20:22:57.632983+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -170,9 +170,29 @@
     {
       "url": "https://www.mof.go.jp/news.rss",
       "error": "503 Server Error: Service Unavailable for url: https://www.mof.go.jp/news.rss"
+    },
+    {
+      "url": "https://www.mof.go.jp/news.rss",
+      "error": "503 Server Error: Service Unavailable for url: https://www.mof.go.jp/news.rss"
     }
   ],
   "items": [
+    {
+      "title": "U.S. Stocks Fall as Oil Tops $100, Yields Hit Multiyear Highs",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-as-oil-tops-100-yields-hit-multiyear-highs-0cd4f1ec?mod=rss_markets_main",
+      "summary": "U.S. stocks fell for the fourth straight session and Treasury yields hit multiyear highs as U.S. oil prices topped the $100-per-barrel level while August inflation data revealed the toll energy costs are taking on commercial users.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-10T20:19:00+00:00"
+    },
+    {
+      "title": "Stocks are sliding as this ‘negative risk trinity’ spooks investors",
+      "link": "https://www.marketwatch.com/story/stocks-are-sliding-as-this-negative-risk-trinity-spooks-investors-4dd1927e?mod=mw_rss_topstories",
+      "summary": "Investors are taking a more cautious tack as rising bond yields and and a calendar riddled with risks — from Federal Reserve meetings to the U.S. midterm elections — inspire many to adopt a more cautious position.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-10T20:06:00+00:00"
+    },
     {
       "title": "60歳超で給料アップも…！｢静かな退職｣が広がる裏で､ベテランの\"昔取った杵柄\"を戦力に変えた富士通の鮮やかな一手 | キャリア・教育 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/957446?utm_source=rss&utm_medium=http&utm_campaign=link_back",
