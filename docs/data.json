@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T22:33:37.663252+00:00",
+  "generated_at": "2026-09-10T22:47:46.003038+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -210,9 +210,37 @@
     {
       "url": "https://www.mof.go.jp/news.rss",
       "error": "503 Server Error: Service Unavailable for url: https://www.mof.go.jp/news.rss"
+    },
+    {
+      "url": "https://www.mof.go.jp/news.rss",
+      "error": "503 Server Error: Service Unavailable for url: https://www.mof.go.jp/news.rss"
     }
   ],
   "items": [
+    {
+      "title": "3月導入のEVバス 早くも運行停止",
+      "link": "https://news.yahoo.co.jp/pickup/6594915?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-10T22:39:41+00:00"
+    },
+    {
+      "title": "｢エアコン掃除､めんどくさい！｣ 放置して使い続ける人の盲点　ズボラでも絶対に動ける\"3分割\"テク | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957533?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "仕事や家事に毎日追われ、生活がどんどん雑になっていく――。「丁寧な生活」が美しいとされる風潮もある中、自らの「丁寧とは言えない暮らし」に、なんだか後ろめたいような、モヤモヤした思いを持つ人も少なくな…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-10T22:30:00+00:00"
+    },
+    {
+      "title": "Anthropic stops attempts to use models for potential biological weapons",
+      "link": "https://www.ft.com/content/845cf3bf-59c5-4e53-a45e-e11d2339df9d?syn-25a6b1a6=1",
+      "summary": "Start-up outlines five examples of when actors ‘circumvented controls’ and made efforts to ‘obfuscate’ the purpose of their research",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-10T22:27:10+00:00"
+    },
     {
       "title": "Want Apple’s $1,999 foldable iPhone Duo? Here’s what T-Mobile, AT&T and Verizon are doing to lower the cost.",
       "link": "https://www.marketwatch.com/story/want-apples-1-999-foldable-iphone-duo-heres-what-t-mobile-at-t-and-verizon-are-doing-to-lower-the-cost-6b2d3065?mod=mw_rss_topstories",
@@ -310,6 +338,14 @@
       "published": "2026-09-10T22:00:42+00:00"
     },
     {
+      "title": "米ディーゼル燃料価格が過去最高更新、初の6ドル超え 政権に大きな逆風 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pWnhVNG1iblJOWm9SaHZPeW5TWW9NWjRrT1R0OUU0djVRNGJfbmc0QjVQY2VEV0VrNzRLNnF5d1lrYjN0WUJUMkZSMDlmdV9KNkU0LXdaSDF1WU45cV8wX1RTZGNQZzB0V3JCYlRZcDFabm9aazYtUHhBU0g?oc=5",
+      "summary": "米ディーゼル燃料価格が過去最高更新、初の6ドル超え 政権に大きな逆風&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T22:00:42+00:00"
+    },
+    {
       "title": "サンド伊達さん公表で注目　｢脳梗塞｣で知っておくべき\"顔･腕･言葉に表れる前触れ\"と､予防可能な\"10の危険因子\" | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/957411?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "サンドウィッチマンの伊達みきおさんが脳梗塞を公表。幸い大事には至らなかったとのことですが､脳梗塞は｢異変に気づいてから病院に着くまでの時間｣で､その後の重症度が大きく変わる病気です。その前触れと､予…",
@@ -331,6 +367,46 @@
       "summary": "Fred Ehrsam, a Trump administration ally and co-founder of Coinbase, lived for months in a luxury Caracas hotel pursuing investments in Venezuela.",
       "source": "WSJ マーケット",
       "category": "海外金融",
+      "published": "2026-09-10T22:00:00+00:00"
+    },
+    {
+      "title": "「AI利用料は90％下落、でも支出増」の怪――AIコスト問題で注目の「ジェボンズのパラドックス」から考える",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/11/news030.html",
+      "summary": "AIのトークン利用料金は90％下落しているのに、支出が増加する――こうしたAIコストを巡る議論では「ジェボンズのパラドックス」が注目されている。どのような考え方なのか。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-09-10T22:00:00+00:00"
+    },
+    {
+      "title": "好業績なのに“上場廃止”　なぜネットワンはSCSKとの「攻めの統合」に賭けたのか",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/11/news020.html",
+      "summary": "業績絶好調の独立系インフラベンダー・ネットワンシステムズが、自ら上場を廃止しSCSK傘下に入る「攻めの統合」を決断した。身売りではなく、自らの手で次世代IT企業へと進化するための戦略的ディールだ。インフラ（NI）とアプリ（SI）の壁を壊しワンストップ化を目指す両社。文化の異なる大企業同士がいかに融合し事業領域を拡大するのか。最先端拠点「netone valley」で田中拓也COOに直撃した。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-09-10T22:00:00+00:00"
+    },
+    {
+      "title": "働きがいがある人は会社に残る？　早期退職制度で見えた「残る人、去る人」",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/11/news022.html",
+      "summary": "組織開発・人材育成コンサルティング支援を行うNEWONEは、40～60代の会社員・経営層を対象に「ミドルシニアの働きがいとライフキャリアの実態に関する調査」を実施した。その結果……。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-09-10T22:00:00+00:00"
+    },
+    {
+      "title": "はてな「11億円流出事件」から考える「正しい裁量」と「無責任な丸投げ」の違い",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/11/news013.html",
+      "summary": "2026年7月、はてなは「社員による11億円流出事件」に関する特別調査委員会の報告書を公表しました。その内容は、批判を恐れずに言えば「人間関係」の問題であり「信頼」という二文字が全く見えない組織で、起こるべきしておきた事件という他ないものでした。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-09-10T22:00:00+00:00"
+    },
+    {
+      "title": "「今日、何個売れるか」を当てるのをやめる　総菜の需要が読めない小売りが持つべき「幅」とは",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/11/news009.html",
+      "summary": "夕食の献立は、その日の直前にならないと決まらないことが多い。総菜の「作った量」と「売れる量」が一致しにくいのは、そのためだ。読めない需要に、小売りはどう対応すればいいのか。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
       "published": "2026-09-10T22:00:00+00:00"
     },
     {
@@ -1441,6 +1517,14 @@
       "title": "トルコ中銀、5会合連続で金利据え置き 年内利下げ観測 - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0VHFjTHl3MlVEVVNMS2dPaWZsSWxwc1lPYWRhbnM0RF9GTTFZeERjLWFCdTZjMUJhbVFLTHJxQ0lNZ1NOSnl3N0thMlhFSURSaXhQZXpNWG82VFRxMXE1ZmkxYnduR210bFNydlhXdGZwUGtnSmRWWEJldFY?oc=5",
       "summary": "トルコ中銀、5会合連続で金利据え置き 年内利下げ観測&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T14:30:22+00:00"
+    },
+    {
+      "title": "トルコ中銀、5会合連続で金利据え置き 年内利下げ観測 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0VHFjTHl3MlVEVVNMS2dPaWZsSWxwc1lPYWRhbnM0RF9GTTFZeERjLWFCdTZjMUJhbVFLTHJxQ0lNZ1NOSnl3N0thMlhFSURSaXhQZXpNWG82VFRxMXE1ZmkxYnduR210bFNydlhXdGZwUGtnSmRWWEJldFY?oc=5",
+      "summary": "トルコ中銀、5会合連続で金利据え置き 年内利下げ観測&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T14:30:22+00:00"
