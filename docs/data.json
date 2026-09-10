@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T21:20:24.715076+00:00",
+  "generated_at": "2026-09-10T21:33:56.657446+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -190,9 +190,29 @@
     {
       "url": "https://www.mof.go.jp/news.rss",
       "error": "503 Server Error: Service Unavailable for url: https://www.mof.go.jp/news.rss"
+    },
+    {
+      "url": "https://www.mof.go.jp/news.rss",
+      "error": "503 Server Error: Service Unavailable for url: https://www.mof.go.jp/news.rss"
     }
   ],
   "items": [
+    {
+      "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
+      "summary": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app.\nThe post GitHub Copilot app for Beginners: Using the diff, terminal, and browser appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "category": "開発者向け",
+      "published": "2026-09-10T21:31:19+00:00"
+    },
+    {
+      "title": "The Unrelenting Bond Selloff Puts the 10-Year Yield on the Cusp of 5%",
+      "link": "https://www.wsj.com/finance/investing/the-unrelenting-bond-selloff-puts-the-10-year-yield-on-the-cusp-of-5-78bfb4db?mod=rss_markets_main",
+      "summary": "Rising borrowing costs threaten to disrupt the stock market and slow the economy.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-10T21:29:00+00:00"
+    },
     {
       "title": "木原官房長官「球界発展に貢献」　張本勲さん死去",
       "link": "https://www.jiji.com/jc/article?k=2026091001033&g=pol&m=rss",
@@ -1954,6 +1974,14 @@
       "published": "2026-09-10T09:19:00+00:00"
     },
     {
+      "title": "人民元国際化へオフショア市場拡充、流動性拡大へ＝人民銀副総裁 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05Rnd1LVRwaE1KQnBCM1dxWDh6dWMwR01MLVdEVl83TEhUV1B0TUFHY1pweFExT1pCVHhlQmo1YlpzT2dtNE1USmktYTNNbW5qYjFsYzBrVW1wMVZKOXN1TVluWWFEbzg3TlI3YW9rY0ZLdDRmakM5MVRfYVo?oc=5",
+      "summary": "人民元国際化へオフショア市場拡充、流動性拡大へ＝人民銀副総裁&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T09:18:30+00:00"
+    },
+    {
       "title": "Stock Futures Rise, Treasury Yields Hold Near Highs as Oil Tops $101",
       "link": "https://www.wsj.com/finance/investing/stock-futures-rise-treasury-yields-hold-near-highs-as-oil-tops-101-74944fa2?mod=rss_markets_main",
       "summary": "U.S. stock futures edged higher and Brent continued to rise as investors positioned ahead of crucial U.S. inflation prints.",
@@ -2112,6 +2140,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T08:17:43+00:00"
+    },
+    {
+      "title": "3933.JSA - | Stock Price & Latest News | Reuters - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZdjRkTW8xN0VmOWtlQzZNNFJtUndkcGJibGJVaWQxOVNSUEZTSlJMVkNwY0JaWmE0bnY1S1Flb1Z4Sk1kLWZJdERVUnRBRlBtZFNGdTJlRGkxdUVqUFQw?oc=5",
+      "summary": "3933.JSA - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T08:17:02+00:00"
     },
     {
       "title": "European TTF Gas Marches Higher on LNG Supply Fears",
@@ -2360,6 +2396,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-10T06:42:03.906773+00:00"
+    },
+    {
+      "title": "中国ＥＶ普及率、30年に80％到達の可能性＝シノペック研究者 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pZjBwRWJfMks2TEVEaHlzQ25xVnhmbWprUU9rOEVyZHFLck8wQVNyb3ZXek1LQU9mYTJ3NWJ6cEdBU3VIZ0VJcjY4elBQR3o5dUV6WFVzTmdyRllnNkNGTGdOS3FKY09PMHNvakY4c3Q0RUVaa3djd0hoZHY?oc=5",
+      "summary": "中国ＥＶ普及率、30年に80％到達の可能性＝シノペック研究者&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T06:22:00+00:00"
     },
     {
       "title": "BCJz.SIG - | Stock Price & Latest News - Reuters",
