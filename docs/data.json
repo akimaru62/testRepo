@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T20:33:32.642183+00:00",
+  "generated_at": "2026-09-10T20:47:54.730037+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -178,9 +178,45 @@
     {
       "url": "https://www.mof.go.jp/news.rss",
       "error": "503 Server Error: Service Unavailable for url: https://www.mof.go.jp/news.rss"
+    },
+    {
+      "url": "https://www.mof.go.jp/news.rss",
+      "error": "503 Server Error: Service Unavailable for url: https://www.mof.go.jp/news.rss"
     }
   ],
   "items": [
+    {
+      "title": "U.S. 10-Year Treasury Yield Nears 5% as Oil Fuels Inflation Fears",
+      "link": "https://www.wsj.com/finance/investing/bond-yields-edge-up-as-investors-await-ecb-rate-hike-u-s-treasury-buybacks-4cd2e9f3?mod=rss_markets_main",
+      "summary": "Oil prices topped $102 a barrel in the U.S. and global benchmark Brent hit $107, fueling a global bond market sell off Thursday.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-10T20:40:00+00:00"
+    },
+    {
+      "title": "視野に入る｢政策金利2％｣､地銀で広がる\"利上げ格差\"の残酷…次の利上げが逆風になりかねない｢地銀15行リスト｣ | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957581?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "少し前まで現実味に乏しかったターミナルレート（政策金利の最終到達点）2％が、視野に入り始めた。日本銀行は9月17、18日の金融政策決定会合で、現在1％の政策金利を1.25％へ引き上げる公算が大きい。…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-10T20:30:00+00:00"
+    },
+    {
+      "title": "ライバル｢アルファード/ヴェルファイア｣にない､日産らしい\"運転する楽しさ\"…新型｢エルグランド｣の特異性 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957250?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "20年以上の歴史を持つ日産自動車｢エルグランド｣が最新型に進化。独自ハイブリッド｢e-POWER｣や全輪駆動｢e-4ORCE｣などで実現した快適性､そして日産らしい走りの良さとは？",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-10T20:30:00+00:00"
+    },
+    {
+      "title": "Oracle boosts data centre revenue forecast as AI strategy accelerates",
+      "link": "https://www.ft.com/content/9df99d0b-6ef6-4530-8771-8b220f740e74?syn-25a6b1a6=1",
+      "summary": "Database group reports huge increase in capex as it tries to compete with larger rivals",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-10T20:24:50+00:00"
+    },
     {
       "title": "Treasury yields surge after Bessent’s beefed-up buyback operation fails to calm market",
       "link": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
@@ -364,6 +400,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-10T18:06:00+00:00"
+    },
+    {
+      "title": "YALA.A - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKdFcxQ3YtSkl6UXZzTnBzWlFzMlZ2LW5lNjJrQkxpOGF1aVRmdWFuUXNiWFYxQlVRRlB2YWJIZkRQVURpNGw3aVBXRm9HY0o3QmpVQVVaNk9Tcm00ODItMU94TWtpWWNMcGc?oc=5",
+      "summary": "YALA.A&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T18:03:10+00:00"
     },
     {
       "title": "The future of retirement: Work until you die",
@@ -1414,6 +1458,14 @@
       "published": "2026-09-10T11:00:00+00:00"
     },
     {
+      "title": "フォルクスワーゲン、人員削減・工場閉鎖の費用160億ユーロに - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtckREOTFvVTB0TFNKdTdZMU5xc2VGdkFDbDNGU21qcEhYUFdkNG5MOHpvTmZyUTBVUGxfQS1JR29lUklLQXFGNEVoMnhfcXBVTE5aeXB2RlBJVDZXT2NaZ1VkX251ZVdKeGFGWjZSRWptclJ5Yk80VjZB?oc=5",
+      "summary": "フォルクスワーゲン、人員削減・工場閉鎖の費用160億ユーロに&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T10:54:01+00:00"
+    },
+    {
       "title": "外食業界団体、消費減税に懸念　政府支援策は「望むものとギャップ」",
       "link": "https://www.asahi.com/articles/ASV9B3D0FV9BULFA00JM.html?ref=rss",
       "summary": "",
@@ -1884,6 +1936,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-10T08:10:55.121179+00:00"
+    },
+    {
+      "title": "日経平均は3日ぶり小反発、米ＣＰＩ発表前に手がけにくさ 原油・金利高警戒も - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVJ4VnZxZVFubEtHc1VvQlVGQVFBYk81YU9lcE5rNGo1NEx5TjZMNVhKVUpMYlZfSWdTNnBSaHNKLWNCTldkdG5uZ29FVmEzTEx0TXFLd1VoYWotMlBxb1R6bHFzZ2R3ZmVLdFcxRHloXzk0REN1VHVTOGRtTU5yU3Z0em8?oc=5",
+      "summary": "日経平均は3日ぶり小反発、米ＣＰＩ発表前に手がけにくさ 原油・金利高警戒も&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T08:06:08+00:00"
     },
     {
       "title": "減少止まらぬ銭湯 活路にサウナ",
