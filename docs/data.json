@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T16:35:04.129018+00:00",
+  "generated_at": "2026-09-10T16:47:29.807095+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -198,6 +198,14 @@
       "published": "2026-09-10T16:19:00+00:00"
     },
     {
+      "title": "Native Python and TypeScript Drivers for ArcadeDB, from OpenAPI and Protobuf",
+      "link": "https://arcadedb.com/blog/arcadedb-native-drivers-python-typescript/",
+      "summary": "Article URL: https://arcadedb.com/blog/arcadedb-native-drivers-python-typescript/\nComments URL: https://news.ycombinator.com/item?id=49646199\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T16:14:48+00:00"
+    },
+    {
       "title": "Building resilient real-time streaming workers with Amazon DynamoDB leases",
       "link": "https://aws.amazon.com/blogs/architecture/building-resilient-real-time-streaming-workers-with-amazon-dynamodb-leases/",
       "summary": "Real-time streaming workers that hold hundreds of persistent WebSocket connections lose data when a worker fails. Learn how to build a WebSocket fleet management system on Amazon ECS and AWS Fargate that uses Amazon DynamoDB conditional writes as a distributed lease to track ownership, fail over automatically, and deploy with low downtime.",
@@ -206,12 +214,36 @@
       "published": "2026-09-10T16:14:22+00:00"
     },
     {
+      "title": "Software Drives People Insane",
+      "link": "https://graybeard.ing/software-drives-people-insane/",
+      "summary": "Article URL: https://graybeard.ing/software-drives-people-insane/\nComments URL: https://news.ycombinator.com/item?id=49646181\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T16:13:42+00:00"
+    },
+    {
       "title": "Traders refocus on US Treasury auction as sovereign debt rout intensifies",
       "link": "https://www.ft.com/content/083a9c4b-3913-496d-be13-22c96053624b?syn-25a6b1a6=1",
       "summary": "Global bond sell-off reignited by confluence of higher oil prices, sticky US inflation and ECB’s decision to raise interest rates",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-10T16:13:24+00:00"
+    },
+    {
+      "title": "Traders focus on US Treasury auction as sovereign debt rout intensifies",
+      "link": "https://www.ft.com/content/083a9c4b-3913-496d-be13-22c96053624b?syn-25a6b1a6=1",
+      "summary": "Global bond sell-off reignited by confluence of higher oil prices, sticky US inflation and ECB’s decision to raise interest rates",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-10T16:13:24+00:00"
+    },
+    {
+      "title": "One resignation turned the embers of AI fear into a wildfire",
+      "link": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+      "summary": "Article URL: https://www.interconnects.ai/p/one-resignation-turned-the-embers\nComments URL: https://news.ycombinator.com/item?id=49646123\nPoints: 12\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T16:09:43+00:00"
     },
     {
       "title": "Global bond sell-off reignites as oil jumps to $107",
@@ -246,6 +278,14 @@
       "published": "2026-09-10T15:52:02+00:00"
     },
     {
+      "title": "Casablanca: How an unproduced play marched into movie history",
+      "link": "https://www.thecollector.com/casablanca-unproduced-play-movie-history/",
+      "summary": "Article URL: https://www.thecollector.com/casablanca-unproduced-play-movie-history/\nComments URL: https://news.ycombinator.com/item?id=49645826\nPoints: 12\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T15:52:02+00:00"
+    },
+    {
       "title": "Serverless DTLS",
       "link": "https://proxylity.com/docs/listeners/dtls.html",
       "summary": "Article URL: https://proxylity.com/docs/listeners/dtls.html\nComments URL: https://news.ycombinator.com/item?id=49645804\nPoints: 3\n# Comments: 1",
@@ -260,6 +300,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-10T15:48:14+00:00"
+    },
+    {
+      "title": "Silicon Valley Is Transforming the Military-Industrial Complex",
+      "link": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
+      "summary": "Article URL: https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex\nComments URL: https://news.ycombinator.com/item?id=49645754\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T15:47:50+00:00"
     },
     {
       "title": "Neki",
@@ -284,6 +332,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-10T15:29:47+00:00"
+    },
+    {
+      "title": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
+      "link": "https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844",
+      "summary": "Article URL: https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844\nComments URL: https://news.ycombinator.com/item?id=49645437\nPoints: 15\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T15:29:30+00:00"
     },
     {
       "title": "Don't Let Anyone Take Away Your Big Box of Cables",
@@ -364,6 +420,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-10T15:23:00+00:00"
+    },
+    {
+      "title": "米8月ＰＰＩ、前年比5.4％上昇に加速 エネルギー価格が再び上昇 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNczB2cHlnX2V0eGVDVEZPcFhtdGRVRjRZb1BBUVFSdzE0SUR0Xy1tOWRmRV9lSzhvanVKSkY3STZiM1V3ZDR4aWY5QnBPTWV4ZS1jMmUyb1J3M2dUakdMVmo4MmNGZmNxdnpzaGdMLUdYWGZEWDc3WE01VjJfYzZ3ejNkckk?oc=5",
+      "summary": "米8月ＰＰＩ、前年比5.4％上昇に加速 エネルギー価格が再び上昇&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T15:22:59+00:00"
     },
     {
       "title": "ECB prepares for ‘longer-lasting’ inflation as it lifts interest rates to 2.5%",
@@ -1662,6 +1726,30 @@
       "published": "2026-09-10T04:44:59+00:00"
     },
     {
+      "title": "ＵＢＳ、中国ファンド販売部門の事業停止へ 競争激化など影響か - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeElLcko4SGVrMHVSU0VtYzlrX2ZIVU8xN0RiMHBPV0wzZ2FMaVh0dVBleTJaYnpIaHFOY081eE1PejFSOG5WVDk1WDd0VjhqQUxVWFFjcFVjVU9rTGkxdXpwU01DbkEtQks0MkRiYzJsYmVxMmhpdGFEdHlTTldkRjJMZDg?oc=5",
+      "summary": "ＵＢＳ、中国ファンド販売部門の事業停止へ 競争激化など影響か&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T04:41:00+00:00"
+    },
+    {
+      "title": "積水化学、豪宅地開発・住宅建設会社を買収 370億円 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yUktncWR1Vkc3V3AxeDFvSnVoWmR5QVVMRGM1M3JTOFFrVzJkNDd2RklaeFNtSmFlUXotNWljU1l5ZGRqbGc1YnZWZWdwaEZRX2hOVTVCSE90aE9kNElnMjB1dkk5NFJRWVJfUEVOMUtWdXRPMkJfcDZ3?oc=5",
+      "summary": "積水化学、豪宅地開発・住宅建設会社を買収 370億円&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T04:35:00+00:00"
+    },
+    {
+      "title": "トランプ氏、イランのピックアックス山攻撃を再び示唆 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbHV5TXpKQy1HeENydEsxNzdFa1dDcVBDT3ZxbHlSQldhZUhaaDVZRmNya1dpV3gzM3MxQS14Rm5NSFE3S3hwQzlmRnVIdVNjYW9UMkEyWVVKOG1HWGV3YV90VGtKTkdxZExEWjhBU1REUmwwd3o0cEpFS3hDcTJVMlpjczVVUQ?oc=5",
+      "summary": "トランプ氏、イランのピックアックス山攻撃を再び示唆&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T04:34:00+00:00"
+    },
+    {
       "title": "大なり小なり交渉がつきものの人生で､交渉の失敗を受け入れ､学び､心の負荷を減らすにはどうしたらいいのか？ | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/956526?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "数多くの交渉術本が｢成功の秘訣｣を語るなか､『失敗に学ぶ交渉術』は異彩を放ちます。なぜ私たちは失敗から学べないのか､交渉場面での心理的バイアスや損失嫌悪､正当化の罠に迫る内容です。あなたは失敗から本…",
@@ -1942,12 +2030,28 @@
       "published": "2026-09-10T03:26:00+00:00"
     },
     {
+      "title": "Breakingviews - COMMENTARY: コラム：カナダの報復関税、米激戦州への政治的圧力狙う - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNODdLcklvRmFWaGRQMXBPWTJRZF9WRFBtRkIybnFyVlZvdFV6eUd2djZDRG44NkU4TkRabU1BVDhQbkN1U19WY3l0cnY3cFRFbVRJa1NxMTNJS3piRVh1bVVGQ2lXTElKM2lYZzZFam9ZS2lBb0N5Z1dsMVVnVHVkS0tpa0kxQ1hlVlVTWUNBaw?oc=5",
+      "summary": "Breakingviews - COMMENTARY: コラム：カナダの報復関税、米激戦州への政治的圧力狙う&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T03:12:00+00:00"
+    },
+    {
       "title": "民主念頭「共産主義打倒する」　トランプ氏、中間選挙勝利誓う―米共和、異例の党大会",
       "link": "https://www.jiji.com/jc/article?k=2026091000181&g=int&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-10T03:09:13.303124+00:00"
+    },
+    {
+      "title": "午前の日経平均は続落、金利上昇や原油高を嫌気 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcjVlSDNXQjRRUG1mTWp1SnZ0QjhrX3NkV1Iwd05MdG5vZDZqOXpSd2Jycy1lcUhyaU5fVmlOZ3VxTVpxdFA5R1ZEU3gyLVhibzRXMmxnQWhMX2c5bUc3VjFZOTJsenhyeG9uVHpId1pGTHJiTFpzRzE1dU1fMkR5WmtSZm8?oc=5",
+      "summary": "午前の日経平均は続落、金利上昇や原油高を嫌気&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T03:06:00+00:00"
     },
     {
       "title": "世界の平均気温、8月は観測史上最も暑い月に並ぶ - Reuters",
@@ -2140,6 +2244,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-10T01:54:05.280420+00:00"
+    },
+    {
+      "title": "原油上昇、ブレント100ドル台維持 タンカー攻撃で一段の供給懸念 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9EbWFLN1FNdksxOTBvQlhpRVpvMjh4V1NMQ3VLemlQQlIyanE0N0lQcUJ0N2ZZRHJNTFVmSld1MkVZcnhBeG1vTTE3WGljWm85bUtHUEVHZ1IyS21HR3BySUtEYVl4eHprb21wVGI2a01wZV81T1J6TzUtOW50UQ?oc=5",
+      "summary": "原油上昇、ブレント100ドル台維持 タンカー攻撃で一段の供給懸念&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T01:40:00+00:00"
     },
     {
       "title": "緊急脱出装置を誤操作　駐機中の新型大統領機―米",
@@ -2364,6 +2476,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-10T00:12:00+00:00"
+    },
+    {
+      "title": "オープンＡＩ、ＡＩ安全性要件の全米義務化を要求 自律進化に懸念 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84Y2lEMG9wRzFReFFTYThyMEFDank2a2dWanBVSW9rb3ZzRm40MTBrSWxORXhMaHp6RWlhTzFJb1o1MzFHQTJEbWhzU0VOMml4dERWTlVvdUZCX3Y2aldwSThtN0RfN2lwcmFDQlpTakxudzRWbjFtYlJHaW8?oc=5",
+      "summary": "オープンＡＩ、ＡＩ安全性要件の全米義務化を要求 自律進化に懸念&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T00:11:00+00:00"
     },
     {
       "title": "Ant International partners with Visa, Mastercard on developing AI payments",
@@ -3748,6 +3868,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-09T15:42:46+00:00"
+    },
+    {
+      "title": "634A.JNX - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcEpidlg3ZEhBcTl0M21vazg5SW9UYzNfeHdhXzlGbVBVYTNJVy16Y2F2ZXdqdUl2WFBUWGQ2cWRkMWNhTGxILUlYZVlNQW1UMjFNVGZld0Nha2IzVU1uLVhKYUtBd1h5ZXZwV3ZWUGhNeWdtemdDdVE5QVd1UEdYNmwxTQ?oc=5",
+      "summary": "634A.JNX - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T15:42:33+00:00"
     },
     {
       "title": "Bomb Sense",
