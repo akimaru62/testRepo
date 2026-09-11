@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T13:47:27.764023+00:00",
+  "generated_at": "2026-09-11T14:08:45.236115+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -270,6 +270,46 @@
       "published": "2026-09-11T15:00:00+00:00"
     },
     {
+      "title": "From zero-shot forecast to purchase order with Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/architecture/from-zero-shot-forecast-to-purchase-order-with-amazon-bedrock-agentcore/",
+      "summary": "Combine zero-shot forecasting with Amazon Chronos2 and multi-agent orchestration on Amazon Bedrock AgentCore to turn demand forecasts into validated purchase orders. No per-product model training, with business rules, auditability, and cost that scales to zero.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-09-11T14:08:01+00:00"
+    },
+    {
+      "title": "I’m locked into a 10-year annuity and now I’m strapped for cash. What are my options?",
+      "link": "https://www.marketwatch.com/story/im-locked-into-a-10-year-annuity-and-now-im-strapped-for-cash-what-are-my-options-e6463c91?mod=mw_rss_topstories",
+      "summary": "A self-described “spender” is concerned about taxes.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-11T14:00:00+00:00"
+    },
+    {
+      "title": "Stocks Climb as Inflation Figure Boosts Odds of Rate Hike Next Week",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-nudge-up-yields-slip-but-markets-remain-on-edge-035097c4?mod=rss_markets_main",
+      "summary": "U.S. stocks rose in a signal that investors like the idea of a Fed rate hike tamping down inflation.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-11T13:52:00+00:00"
+    },
+    {
+      "title": "業界初 迷惑客の対応費補償の保険",
+      "link": "https://news.yahoo.co.jp/pickup/6594995?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-11T13:51:59+00:00"
+    },
+    {
+      "title": "Oil Futures Pull Back After Big Rally",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-on-escalating-supply-disruption-concerns-998e07a1?mod=rss_markets_main",
+      "summary": "Oil futures were lower in early U.S. trading, pulling back from nearly four-month highs reached on escalation of the Middle East conflict.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-11T13:48:00+00:00"
+    },
+    {
       "title": "Opinion | Wall Street’s Recovery From 9/11",
       "link": "https://www.wsj.com/opinion/wall-streets-recovery-from-9-11-db1a1379?mod=rss_markets_main",
       "summary": "When the market reopened on Sept. 17, 2001, it told the world that terrorism wouldn’t paralyze us.",
@@ -278,12 +318,28 @@
       "published": "2026-09-11T13:43:00+00:00"
     },
     {
+      "title": "Houthis 'take control' of key island in global shipping route",
+      "link": "https://www.bbc.com/news/live/cmd683p01eljt",
+      "summary": "Article URL: https://www.bbc.com/news/live/cmd683p01eljt\nComments URL: https://news.ycombinator.com/item?id=49658299\nPoints: 26\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-11T13:41:38+00:00"
+    },
+    {
       "title": "Anthropic’s safety-first image takes a hit ahead of its massive IPO: ‘AI could kill all humans’",
       "link": "https://www.marketwatch.com/story/anthropics-safety-first-image-takes-a-hit-ahead-of-its-massive-ipo-ai-could-kill-all-humans-befd133d?mod=mw_rss_topstories",
       "summary": "While concerns over AI safety are not likely to derail Anthropic’s IPO plans, experts expect more regulation and safety disclosures.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-11T13:38:00+00:00"
+    },
+    {
+      "title": "Diesel prices in U.S. top $6 a gallon for first time",
+      "link": "https://www.cbsnews.com/news/rising-diesel-prices-consumer-impact/",
+      "summary": "Article URL: https://www.cbsnews.com/news/rising-diesel-prices-consumer-impact/\nComments URL: https://news.ycombinator.com/item?id=49658192\nPoints: 15\n# Comments: 8",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-11T13:35:30+00:00"
     },
     {
       "title": "The future of retirement? Work until you die.",
