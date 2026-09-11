@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T08:32:20.770547+00:00",
+  "generated_at": "2026-09-11T08:50:27.082006+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -266,6 +266,22 @@
       "published": "2026-09-11T10:00:00+00:00"
     },
     {
+      "title": "Stock Futures Nudge Up, Yields Slip, But Markets Remain on Edge",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-nudge-up-yields-slip-but-markets-remain-on-edge-035097c4?mod=rss_markets_main",
+      "summary": "U.S. stock futures nudged higher and Treasury yields retreated slightly, but investors remained on edge ahead of crucial inflation data later.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-11T08:40:00+00:00"
+    },
+    {
+      "title": "Gold Set for Weekly Loss as Rate-Hike Expectations Pressure Prices",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-ahead-of-u-s-cpi-data-c995e7d0?mod=rss_markets_main",
+      "summary": "Gold prices were headed for a weekly loss of more than 2%, weighed down by surging oil prices, higher bond yields and rising rate-hike expectations.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-11T08:36:00+00:00"
+    },
+    {
       "title": "北朝鮮選手団が入国　サッカー代表の選手ら―愛知・名古屋アジア大会",
       "link": "https://www.jiji.com/jc/article?k=2026091100811&g=spo&m=rss",
       "summary": "",
@@ -514,6 +530,22 @@
       "published": "2026-09-11T06:46:19+00:00"
     },
     {
+      "title": "(.AXVI) | Stock Price & Latest News | Reuters - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1YlJfaXRVLUNYMVM3OTRBdWFjYjdHaENpU0tsb0RNcDQwQ29QeVZZRGtmdzNObDBWbDFoZnZXWnVWc2tsT19JNnZnYzdEUWdPTUs5Mw?oc=5",
+      "summary": "(.AXVI) | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-11T06:28:02+00:00"
+    },
+    {
+      "title": "中国、30年までに自動運転車を大規模導入へ - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lM3V1Um5PNEVZaEJncUhXNFgxeF9CQ1JsNlRCZWF2YnloN25GcERNQ21SOC11YlBXQ29IWlhicy1RdEpWT1Q3aGZ4ZWlmQ0xQazF4cHN1NFFVUVRDTm1XYUprOVplWkQxbE9pQ21QZ0xBRl9EeWpCdkhvR0g?oc=5",
+      "summary": "中国、30年までに自動運転車を大規模導入へ&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-11T06:28:00+00:00"
+    },
+    {
       "title": "Astra for Coding: Why Are We Doing This Again?",
       "link": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
       "summary": "Article URL: https://lucumr.pocoo.org/2026/9/7/astra-why/\nComments URL: https://news.ycombinator.com/item?id=49654229\nPoints: 27\n# Comments: 6",
@@ -568,6 +600,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-11T05:51:01+00:00"
+    },
+    {
+      "title": "GPT‑Live‑1 in the API",
+      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-live-1-in-the-api/\nComments URL: https://news.ycombinator.com/item?id=49653985\nPoints: 4\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-11T05:45:19+00:00"
     },
     {
       "title": "独政府、コメルツ銀の国内上場維持など伊大手銀に要請へ＝関係筋 - Reuters",
@@ -765,6 +805,14 @@
       "title": "Europe’s difficult choices on AI",
       "link": "https://www.ft.com/content/f054f927-b512-452a-b494-ea53f5ac1079",
       "summary": "Data is the one area where it can still be sovereign and it has the greatest potential to generate growth",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-11T04:00:10+00:00"
+    },
+    {
+      "title": "9/11 and the America it left behind",
+      "link": "https://www.ft.com/content/bbdad57e-bd57-4c75-98b8-12fca7cbd268?syn-25a6b1a6=1",
+      "summary": "The shock that briefly brought a shared sense of purpose has left a complicated legacy",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-11T04:00:10+00:00"
