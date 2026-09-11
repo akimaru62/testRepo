@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T17:48:08.597412+00:00",
+  "generated_at": "2026-09-11T18:08:43.508192+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -246,6 +246,14 @@
       "published": "2026-09-11T17:41:00+00:00"
     },
     {
+      "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
+      "link": "https://snap.berkeley.edu/",
+      "summary": "Article URL: https://snap.berkeley.edu/\nComments URL: https://news.ycombinator.com/item?id=49662214\nPoints: 11\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-11T17:36:11+00:00"
+    },
+    {
       "title": "U.S. Stocks Rise as Inflation Figure Boosts Odds of Rate Hike",
       "link": "https://www.wsj.com/finance/stocks/stock-futures-nudge-up-yields-slip-but-markets-remain-on-edge-035097c4?mod=rss_markets_main",
       "summary": "U.S. stocks rose, a signal that investors like the idea of a Federal Reserve rate hike tamping down inflation.",
@@ -446,6 +454,14 @@
       "published": "2026-09-11T16:03:05+00:00"
     },
     {
+      "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
+      "link": "https://github.com/godot-pty/gpty",
+      "summary": "I wanted to share my side-project: gPTY. Started off as an idea to combine Godot and Rust in a project (two stacks I wanted to use more to learn more). The base inspiration was tmux - simply allow spawning multiple PTYs and then let the user grid/tile them how they see fit.But since we have the Godot game engine at our disposal, we can do some more interesting things, like add an FPS counter, and then subsequently also let people set their preferred FPS (the idea being the potential lower power draw if someone's running it on a laptop on battery power vs someone running it on a desktop with high/native FPS). In its current state, with me using Oh-my-Pi a lot, it's evolving into a terminal workspace that can be used for orchestrating autonomous AI agents by way of dogfooding (or you know, just run herdr inside of gPTY - it's the better orchestrator and just good software - I found it after starting this project, and now I'm finding myself using it a lot).Also, we're not limited to just terminals. Since we have Godot, we have basically a 2D (and potentially a 3D) canvas to play with. We can already full-screen the app for \"zen\" mode, no taskbar, no distractions. TUI die-hards can have their media or other apps entirely in terminal panes.There has been some ground-work on getting Markdowns displayed properly done and I want to work on some kind of Wiki framework for local knowledge-management next, then create more types of panes (think native audio/video on a media pane, that sits alongside your terminal pane), and some simple 2D games (like snake) to prototype. More details are on the ROADMAP.What's not easy (and probably won't happen) is a browser. Having done a couple of (small) projects using Electron already, the temptation to ditch Godot/Rust (learning curve) did come up (and also the ecosystem, the ease with which I could pull components and use web technologies - development velocity would definitely be higher there). But on the flipside, given all of the available LLM and AI support that we are privileged to have today, I figured the velocity should be comparable depending on how much I leaned on those. And lean I did.Godot/Rust seemed the better call to me and my intent anyway - going with the 'it's not just the end but the journey that matters' philosophy. So yes, there has been heavy use of LLMs & AI to generate a lot of the code. But I do review and steer actively, not relying solely on vibes, and there's a few bits here & there that have been human authored.There are definitely a lot of polish and QoL items that need to land to make the end user experience better, but in the meantime, let me know your thoughts and/or concerns!Repository: https://github.com/godot-pty/gptyDocs/Blog: https://godot-pty.github.io/gpty/\n\nComments URL: https://news.ycombinator.com/item?id=49660676\nPoints: 46\n# Comments: 26",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-11T16:03:05+00:00"
+    },
+    {
       "title": "Global Glacier Extinction Explorer",
       "link": "https://glacierextinction.com",
       "summary": "Article URL: https://glacierextinction.com\nComments URL: https://news.ycombinator.com/item?id=49660576\nPoints: 16\n# Comments: 2",
@@ -590,6 +606,14 @@
       "published": "2026-09-11T14:54:58+00:00"
     },
     {
+      "title": "米ＣＰＩ、8月前月比＋0.4％に加速 コアも4カ月ぶり大幅な伸び - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdU1sUnR2dm1HcF9JYkhraDJmVHhHdlFzb3RZbVY1V25OOEZjSko2eHR6dWdoN014ZlZYaVJfQW92UmpWQ2xKQnZLcGFCUHJEMXJBUlZYZ0xJMUFQUEZiblVBcTRjUUtCNEZHbklZTW9sdnNSREo4eEtlMVliZng1UVRfOFY?oc=5",
+      "summary": "米ＣＰＩ、8月前月比＋0.4％に加速 コアも4カ月ぶり大幅な伸び&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-11T14:54:58+00:00"
+    },
+    {
       "title": "Warsh under mounting pressure to raise rates as US inflation persists",
       "link": "https://www.ft.com/content/24646e74-9506-4718-b1be-789208db86d9?syn-25a6b1a6=1",
       "summary": "Inflation remained stubbornly elevated at 3.4% in August at the end of a week of surging oil prices",
@@ -601,6 +625,14 @@
       "title": "フーシ派、紅海の要衝ペリム島に到達 原油輸送路への脅威増大 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41cTE3cFlLZ3hNNW5iVzd6dE1VaE5tS04zQjdzT0p0dU4xTEJWQk5QU3lGeVZxVFpkOU9saDFScmJrR1Q2dnhaMGljcktjRlVDNXhQdWZfOVNwTUFvVU10RzFWcDROVzNzYVlzTWdZTXZmT3I4X1FNNUY5S0JMUQ?oc=5",
       "summary": "フーシ派、紅海の要衝ペリム島に到達 原油輸送路への脅威増大&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-11T14:39:51+00:00"
+    },
+    {
+      "title": "フーシ派、紅海の要衝ペリム島に到達 原油輸送路への脅威増大 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41cTE3cFlLZ3hNNW5iVzd6dE1VaE5tS04zQjdzT0p0dU4xTEJWQk5QU3lGeVZxVFpkOU9saDFScmJrR1Q2dnhaMGljcktjRlVDNXhQdWZfOVNwTUFvVU10RzFWcDROVzNzYVlzTWdZTXZmT3I4X1FNNUY5S0JMUQ?oc=5",
+      "summary": "フーシ派、紅海の要衝ペリム島に到達 原油輸送路への脅威増大&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-11T14:39:51+00:00"
@@ -788,6 +820,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-11T13:35:00+00:00"
+    },
+    {
+      "title": "LKTEF.PK - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JY19jYk9CWE00djVuWkF4M1lCOHhsdW5UaXpydHFKZlVOYV9kQUlheUFROS1TbTJfNlJGQlVoOVAyZ0praHV0RXdRT21QdW15OVliWjl0SzU1TWRVZWpYWml3WVRwOU0?oc=5",
+      "summary": "LKTEF.PK&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-11T13:34:01+00:00"
     },
     {
       "title": "I went to a dinner party, brought an appetizer and wine — and the host charged me $60. Should I cut ties with her?",
@@ -1318,6 +1358,14 @@
       "published": "2026-09-11T08:36:33+00:00"
     },
     {
+      "title": "中銀保有国債帳消しは「違法かつ危険」、フランス銀行総裁が批判 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWk5xbWlhZ09KRE1INVZSSVZpTDFoVS1BMVhOaThuSlNKdmVRNzhTY05GWmpRWUJhVDI2VFpROFNUYmduSWNybjlPUFlySXhLeHU0cEdlY2JoZWMwTk5GcHM4R0owRTJzU245RjFLMUkwOTFKMWFxLU00c19fNDBkaVU2Ym8?oc=5",
+      "summary": "中銀保有国債帳消しは「違法かつ危険」、フランス銀行総裁が批判&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-11T08:36:33+00:00"
+    },
+    {
       "title": "Gold Set for Weekly Loss as Rate-Hike Expectations Pressure Prices",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-ahead-of-u-s-cpi-data-c995e7d0?mod=rss_markets_main",
       "summary": "Gold prices were headed for a weekly loss of more than 2%, weighed down by surging oil prices, higher bond yields and rising rate-hike expectations.",
@@ -1329,6 +1377,14 @@
       "title": "中部電力、不適切事案相次ぎ「極めて遺憾」＝木原官房長官 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLTd6RXVXbmZqSU9KQ0xDTVZta2RWS1N1YU1iZkVrSUVFeVdaRnRwRkE3WHRTd1BZSHpTSWlhaXJFZ2FPMG9YV2hZSUdaMWRudGcxNDBXclZuQURRVzFNMzJhODFobVJzcXN0dUUxMkJtMnQ2RHp0NUEwaGZ5b2FOall3?oc=5",
       "summary": "中部電力、不適切事案相次ぎ「極めて遺憾」＝木原官房長官&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-11T08:34:24+00:00"
+    },
+    {
+      "title": "中部電力、不適切事案相次ぎ「極めて遺憾」＝木原官房長官 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLTd6RXVXbmZqSU9KQ0xDTVZta2RWS1N1YU1iZkVrSUVFeVdaRnRwRkE3WHRTd1BZSHpTSWlhaXJFZ2FPMG9YV2hZSUdaMWRudGcxNDBXclZuQURRVzFNMzJhODFobVJzcXN0dUUxMkJtMnQ2RHp0NUEwaGZ5b2FOall3?oc=5",
+      "summary": "中部電力、不適切事案相次ぎ「極めて遺憾」＝木原官房長官&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-11T08:34:24+00:00"
@@ -1654,6 +1710,14 @@
       "published": "2026-09-11T06:34:47+00:00"
     },
     {
+      "title": "A8M.F - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yblFSVDNZNWQ2MzVnUFJ1TlRBNlNhVjhfcXFqQ1dxR0UwOUxFSVljN3JVTEdSdkJhSzBORE5HUlRWZDVqYWtUWWJDMjFsc3ZjMUU0OG1od0ZNanUwYkJGbktVeXlOUmcy?oc=5",
+      "summary": "A8M.F&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-11T06:34:47+00:00"
+    },
+    {
       "title": "(.AXVI) | Stock Price & Latest News | Reuters - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1YlJfaXRVLUNYMVM3OTRBdWFjYjdHaENpU0tsb0RNcDQwQ29QeVZZRGtmdzNObDBWbDFoZnZXWnVWc2tsT19JNnZnYzdEUWdPTUs5Mw?oc=5",
       "summary": "(.AXVI) | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
@@ -1734,6 +1798,14 @@
       "published": "2026-09-11T06:05:49+00:00"
     },
     {
+      "title": "TRYl.TXEA - | Stock Price & Latest News - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUVFCenRYR3laajd2WWN4d3lBV2ZycmZKbnBKRFpEazA4ZFpkdk9BVzdXTVY0N0hXRWFtaFBxWXdYLWhIWWE3ZnR5OXd0X3M1YVN0YTdHNjZCRC11WG5hS0ZndEVjU1o5Qm1iYkx1OGlJbHNaTmdFbXBJNnI0R2tabg?oc=5",
+      "summary": "TRYl.TXEA - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-11T06:05:49+00:00"
+    },
+    {
       "title": "3933.J2 - | Stock Price & Latest News - Reuters",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WbENOT1pxVFRLY0lvQ2FfWEZ5VTVZZU5UVGFTYnR1dndkb3V0bFA5YWY4bFlKRnlMaUZ6SkI2NUF4TlBwcFFUWDlTSTV2NS0tN1BKSndhc0thZHRidEExcFdDZUZoMVZUN19KMDBueGJ1bUxTX3VqXzFQa2czUQ?oc=5",
       "summary": "3933.J2 - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
@@ -1798,6 +1870,14 @@
       "published": "2026-09-11T05:38:00+00:00"
     },
     {
+      "title": "2901stat.HK - | Stock Price & Latest News - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTXpHSld5SHdWWmt5dk5xYXpmdmM3bTNtMHlPOHpuZWczWFp1YUszRHRvNnFPUWpyMFNUd18tSDVhaG9PVmtsSzFIcXBnUjJZUUNkR0Z0c1NGR3BaaHBERWtFWUd0dVRxSVZvRnhXTHFsVjRIMnI3LXNWMVZNNkZ4b2FaN3pvejg?oc=5",
+      "summary": "2901stat.HK - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-11T05:34:11+00:00"
+    },
+    {
       "title": "Real Test for China’s ‘Four Little GPU Tigers’ Has yet to Come",
       "link": "https://www.wsj.com/tech/real-test-for-chinas-four-little-gpu-tigers-has-yet-to-come-3fff21e2?mod=rss_markets_main",
       "summary": "Shares of Shanghai Enflame Technology more than doubled on their trading debut. But the real test for the Chinese company, along with three other so-called “little GPU tigers,” has yet to come.",
@@ -1857,6 +1937,14 @@
       "title": "ER4.SG - Reuters",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOemJEd0Y1MDgyUnFsQ29zcV9oUnZzTEo2RmJMX0pWR012eGtDeGJsb2dTNFp5aVFQM295dXg0ME5RQmZ0dnNsd2k5ZlNSQkZRVHZSblJfUDRaR01VaHplTDJvazRDRms1X09KNkZ0ams5c0pESlhJLVY4XzBpMmtMUg?oc=5",
       "summary": "ER4.SG&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-11T05:04:55+00:00"
+    },
+    {
+      "title": "ER4.SG - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOemJEd0Y1MDgyUnFsQ29zcV9oUnZzTEo2RmJMX0pWR012eGtDeGJsb2dTNFp5aVFQM295dXg0ME5RQmZ0dnNsd2k5ZlNSQkZRVHZSblJfUDRaR01VaHplTDJvazRDRms1X09KNkZ0ams5c0pESlhJLVY4XzBpMmtMUg?oc=5",
+      "summary": "ER4.SG&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-11T05:04:55+00:00"
@@ -1934,9 +2022,25 @@
       "published": "2026-09-11T04:34:00+00:00"
     },
     {
+      "title": "トランプ氏、フーシ派への直接攻撃見送り サウジ皇太子の要請退ける - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PLUdncU94eDBUcE5TWDVOQWdNSVN4bjZLQkFQOFY2cWN4ZksxSU96aTBwaGJuOGFONTRBTklYeDROZUZLTjk0dy1hTFFNZEE0YXdQZDBJUGE2ZndySWdicFZteXYyZHl0TW9aeldTc2xqQVgxQmFOOTFmOGZxZw?oc=5",
+      "summary": "トランプ氏、フーシ派への直接攻撃見送り サウジ皇太子の要請退ける&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-11T04:34:00+00:00"
+    },
+    {
       "title": "ABSI.OQ - Reuters",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iRUFHeUtHUUFEMDJlOXZjVkVhakZmcHV2UERwSC12aTdEajBCTmRJMUVOZFJKN1pCQlVGQVRVa1VpV3FuR0Y3dDhKeTZETWxYRVdsODJpMHlVR09oYUxBYlZfcWRVSlU4M0p2bkJjNEEyNVhHMVE?oc=5",
       "summary": "ABSI.OQ&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-11T04:33:30+00:00"
+    },
+    {
+      "title": "ABSI.OQ - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iRUFHeUtHUUFEMDJlOXZjVkVhakZmcHV2UERwSC12aTdEajBCTmRJMUVOZFJKN1pCQlVGQVRVa1VpV3FuR0Y3dDhKeTZETWxYRVdsODJpMHlVR09oYUxBYlZfcWRVSlU4M0p2bkJjNEEyNVhHMVE?oc=5",
+      "summary": "ABSI.OQ&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-11T04:33:30+00:00"
@@ -2286,6 +2390,14 @@
       "published": "2026-09-11T03:13:51+00:00"
     },
     {
+      "title": "688801.SS - | Stock Price & Latest News | Reuters - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lYWNQY25NUzJMTUh6bTBxYV9PQVgxamNPY2luRmZ2ai1SU2xBdjFYdjFoY1pjQW9haHFieThiR3lYcU5OWWNhclRTZmc0ejNXcWh6UFRjb0hERjJoZ0VF?oc=5",
+      "summary": "688801.SS - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-11T03:13:51+00:00"
+    },
+    {
       "title": "テンセント出資の中国ＡＩ半導体メーカー、上海上場で株価3倍に - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT0tUaDY2SG90dHhmdzBiZVVEeXJnN0FEbmtNLVNfNlEzWl90SXJGak83ZjhmMXFrWjJlZDJmU3FES1hoYWFvTHd2MUQ4OXloZEVGam5oOFNuSXkwVVdKcnVtWVBQZUViYWNmZnhVdUZwX01KeHJYQ2JxR0xWNzkzMXVMd08?oc=5",
       "summary": "テンセント出資の中国ＡＩ半導体メーカー、上海上場で株価3倍に&nbsp;&nbsp;jp.reuters.com",
@@ -2409,6 +2521,14 @@
       "title": "ALAON.PA - Reuters",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUW5EOHZKMGVzaUNublBycWtLSjFpcTdyVDFWNk1WNHMwV1NBQzIwVmJiLWlwUG0zUkg1TWYyZnF5UW1YTkJhdmE2dUUybkpqdDVEWVRfR0tJUmh1b0NHNlFOVEhDM2p1em9qVDhxQUJ5SUxxREZVSGFzN3dodThYOGpyaw?oc=5",
       "summary": "ALAON.PA&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-11T02:36:31+00:00"
+    },
+    {
+      "title": "ALAON.PA - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUW5EOHZKMGVzaUNublBycWtLSjFpcTdyVDFWNk1WNHMwV1NBQzIwVmJiLWlwUG0zUkg1TWYyZnF5UW1YTkJhdmE2dUUybkpqdDVEWVRfR0tJUmh1b0NHNlFOVEhDM2p1em9qVDhxQUJ5SUxxREZVSGFzN3dodThYOGpyaw?oc=5",
+      "summary": "ALAON.PA&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-11T02:36:31+00:00"
@@ -2886,6 +3006,14 @@
       "published": "2026-09-10T23:50:00+00:00"
     },
     {
+      "title": "OLYMPy.BCU - | Stock Price & Latest News - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zWU9lNmhZMUNWVUlQVjBLUmY1VWJCb1gtTkVPWU5nNUFobUVXdUc5bF9ONTR6RnFjUWVvd1NCTU96UV9pTDFqdmpfZGQySXY2YzA1MXRQR3lLWlY1N0taSFVkOUdvS3FPRlZUWkhsa093ZWZGT3BNRm9RMA?oc=5",
+      "summary": "OLYMPy.BCU - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T23:41:37+00:00"
+    },
+    {
       "title": "木原官房長官、政権で影響力　自民との連携に課題",
       "link": "https://www.jiji.com/jc/article?k=2026091000853&g=pol&m=rss",
       "summary": "",
@@ -2929,6 +3057,14 @@
       "title": "米オラクル、四半期売上高が予想上回る ＡＩ需要でクラウド堅調 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xNWFLUnY4cl9UeDRPOUZtZGdzSWZieE9zRTA3MkpDNVlUeGkxMTcwMEp6cDUwUjFtOXdnbk9aRUExQ0lLTXZzVWFIWDFGTGtMTWh3N0tvRzF2OXEzV2M0RFhrNDA3RjZJSzVDUWZwQzNjcXFhUXJOb0s2VXI?oc=5",
       "summary": "米オラクル、四半期売上高が予想上回る ＡＩ需要でクラウド堅調&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T23:32:33+00:00"
+    },
+    {
+      "title": "米オラクル、四半期売上高が予想上回る ＡＩ需要でクラウド堅調 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xNWFLUnY4cl9UeDRPOUZtZGdzSWZieE9zRTA3MkpDNVlUeGkxMTcwMEp6cDUwUjFtOXdnbk9aRUExQ0lLTXZzVWFIWDFGTGtMTWh3N0tvRzF2OXEzV2M0RFhrNDA3RjZJSzVDUWZwQzNjcXFhUXJOb0s2VXI?oc=5",
+      "summary": "米オラクル、四半期売上高が予想上回る ＡＩ需要でクラウド堅調&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T23:32:33+00:00"
@@ -3390,6 +3526,14 @@
       "published": "2026-09-10T21:30:39+00:00"
     },
     {
+      "title": "8964.J2 - | Stock Price & Latest News | Reuters - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXZ0JqcGlLZi1rN3gtb3BFMXo0bUhJSWhoeFlXaDdKX1BpZ0ZwemhTbG9TMmJlVER6d1RRWEdpbE5pelYtcnFuV2F6MTdDcFc2WXVGa215dlUxZW9YT2c?oc=5",
+      "summary": "8964.J2 - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T21:30:39+00:00"
+    },
+    {
       "title": "中道改革連合はなぜ行き詰まったのか､議員の離合集散を超え野党再生に必須の｢政策の結集軸｣とは | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/957304?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "巨大与党に対抗するには､既存の政策をすり合わせるだけでは足りない。有権者の潜在的なニーズを捉え､古びた左右軸を超える新たな政策と国家像を打ち出すことが求められている。",
@@ -3606,6 +3750,14 @@
       "published": "2026-09-10T20:33:11+00:00"
     },
     {
+      "title": "Show HN: Bodily Oddities",
+      "link": "https://vester.si/bodily-oddities/",
+      "summary": "When I was about 11 years old, my best friend and I were playing during recess at school, and I was carrying him around on my back, presumably pretending to be a multipart attack robot. All of a sudden, my heart started hurting, and I collapsed to my knees, and the robot was no more. Every time I inhaled, it would feel like a spike was being driven into my heart, and my breathing got completely shallow. I was sure I was done for, when all of a sudden, after an exhale, it disappeared.It wasn't until I was in my twenties that I learned this was called Precordial catch syndrome and it happens to most everyone. Every friend I've told about it was surprised, and also most knew the feeling.I collected a growing list of strange things bodies do ever since. And now finally I made it into a little page for others to see:https://vester.si/bodily-oddities/It includes a form to tell me about new things, if you think they belong on the page. Feedback welcome!\n\nComments URL: https://news.ycombinator.com/item?id=49649789\nPoints: 77\n# Comments: 74",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T20:33:11+00:00"
+    },
+    {
       "title": "視野に入る｢政策金利2％｣､地銀で広がる\"利上げ格差\"の残酷…次の利上げが逆風になりかねない｢地銀15行リスト｣ | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/957581?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "少し前まで現実味に乏しかったターミナルレート（政策金利の最終到達点）2％が、視野に入り始めた。日本銀行は9月17、18日の金融政策決定会合で、現在1％の政策金利を1.25％へ引き上げる公算が大きい。…",
@@ -3694,12 +3846,28 @@
       "published": "2026-09-10T20:18:08+00:00"
     },
     {
+      "title": "59K.SG - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vN0ZLQUdla0JSWVJKbFo0YWczQ0pyRlV1dVk3Y0tNcXVGSy1OOXhNSkNEU24yT1pyVnRGUUYyNWJEUG4xQzZZcmdVYmRUbXVnWGliM180YkRFOHA0TFN2d0V1c2lCd1RWelE?oc=5",
+      "summary": "59K.SG&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T20:09:59+00:00"
+    },
+    {
       "title": "59K.SG - Reuters",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qekNtUjNxbUw4LTVCOS13N3VucjdEa0RkR09PVXBzd0c2RWkxdjliMUhzMTEybWJybjEzTFhTN2lCU1RucWR0QVBMNmdHSkphUFgyUUhvdTRVMmN6WkRmLVpxOVI2VWt6aGJCbzRlZG9qc0FUbXRCWUpVQkE?oc=5",
       "summary": "59K.SG&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T20:07:39+00:00"
+    },
+    {
+      "title": "2771.MU - | Stock Price & Latest News - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWDd0WW01NnFuandicGtndUtyTmNFT0I5azBHV3FCbld0d0ttaV9wV3EzVzh3YjZucThSWGNucWhMOEJxOTlKdEJfUHJXZ3I4YmlCc1dDWDJIZmtaOW5BQXRQVUpyYnV4NDA4SFB4QmZrRDFNbDQwQV9obkx4Mll6aTNPN1pwZmZwdk1GQk1B?oc=5",
+      "summary": "2771.MU - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T20:06:23+00:00"
     },
     {
       "title": "Stocks are sliding as this ‘negative risk trinity’ spooks investors",
@@ -3937,6 +4105,14 @@
       "title": "5FO.H - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTmVSSFRKNEhrY29Dc3I5b1dVQ21fUVlFdzF6VnpDcDNoWDROeUZWRjJTQTZEdWQ3T1EyUGZneDRPYjlaWXVzdUt3dldncGpxQTV1My1WM1BaakF0M1N3aXh3R1NLOFNfbDRVUThoNzc4VHV2ellMbEtmUmw1M3E0c20xWU5XTzF2WW84?oc=5",
       "summary": "5FO.H&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T18:32:46+00:00"
+    },
+    {
+      "title": "5FO.H - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTmVSSFRKNEhrY29Dc3I5b1dVQ21fUVlFdzF6VnpDcDNoWDROeUZWRjJTQTZEdWQ3T1EyUGZneDRPYjlaWXVzdUt3dldncGpxQTV1My1WM1BaakF0M1N3aXh3R1NLOFNfbDRVUThoNzc4VHV2ellMbEtmUmw1M3E0c20xWU5XTzF2WW84?oc=5",
+      "summary": "5FO.H&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T18:32:46+00:00"
@@ -4689,6 +4865,14 @@
       "title": "CARZZ.AX - | Stock Price & Latest News | Reuters - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSamhoTWd6Nkk1Zk1CUWRGZWpKSjJOTUttNzdycHZLU1h4ck9lcEZMUmhiNHJXZk0wdjE0YUs0Z2U5dTU0OGo0cjMwZkE5OW02ZEJZQ0dzQ1dYSmJ1dkln?oc=5",
       "summary": "CARZZ.AX - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T14:34:17+00:00"
+    },
+    {
+      "title": "CARZZ.AX - | Stock Price & Latest News | Reuters - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSamhoTWd6Nkk1Zk1CUWRGZWpKSjJOTUttNzdycHZLU1h4ck9lcEZMUmhiNHJXZk0wdjE0YUs0Z2U5dTU0OGo0cjMwZkE5OW02ZEJZQ0dzQ1dYSmJ1dkln?oc=5",
+      "summary": "CARZZ.AX - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T14:34:17+00:00"
