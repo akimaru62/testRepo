@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T05:35:29.680404+00:00",
+  "generated_at": "2026-09-11T05:47:50.152534+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -234,6 +234,14 @@
       "published": "2026-09-11T10:00:00+00:00"
     },
     {
+      "title": "Real Test for China’s ‘Four Little GPU Tigers’ Has yet to Come",
+      "link": "https://www.wsj.com/tech/real-test-for-chinas-four-little-gpu-tigers-has-yet-to-come-3fff21e2?mod=rss_markets_main",
+      "summary": "Shares of Shanghai Enflame Technology more than doubled on their trading debut. But the real test for the Chinese company, along with three other so-called “little GPU tigers,” has yet to come.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-11T05:34:00+00:00"
+    },
+    {
       "title": "Ｆ１５戦闘機の那覇緊急着陸、拘束装置を使用　小泉防衛相",
       "link": "https://www.jiji.com/jc/article?k=2026091100595&g=pol&m=rss",
       "summary": "",
@@ -250,12 +258,28 @@
       "published": "2026-09-11T05:24:42.878751+00:00"
     },
     {
+      "title": "政府システムに不正アクセス、個人情報24.6万件漏えいか　原因は「既知のVPN脆弱性」　なぜ防げなかった？",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/11/news072.html",
+      "summary": "デジタル庁が運営する政府システムが不正アクセスを受け、個人情報約24.6万件が漏えいした可能性があると発表した。事前に把握していたVPN機器の脆弱性から侵入されたという。なぜ防げなかったのか。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-09-11T05:20:00+00:00"
+    },
+    {
       "title": "｢東大に合格する人｣と｢そうでない人｣はAIの使い方がどう違うのか？　AIで学習効果を加速するための\"3つの要諦\" | キャリア・教育 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/955787?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "東大生の多くが当たり前のように活用しているという生成AI。その使い方には｢思考の補助｣としての活用と､｢答えを求める機械｣への依存という大きな分岐点があります。あなたはAIから｢ヒント｣をもらい､学…",
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-11T05:00:00+00:00"
+    },
+    {
+      "title": "The Gemini app is now available for Windows",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/\nComments URL: https://news.ycombinator.com/item?id=49653699\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-11T04:52:20+00:00"
     },
     {
       "title": "【記者会見】増審議委員（福井、9月10日分）",
@@ -512,6 +536,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-11T03:28:29.928335+00:00"
+    },
+    {
+      "title": "インタビュー：米国、円安で日本経済弱体化を懸念 日銀利上げ到達2.25％も＝中尾元財務官 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rSG5zSkZ6bDJBNE5MZ2Fjd1M5WjM5emxGRVE4dGhTVlhBRVlBYnJFcUV0blk5MjkxUXpQcHZYWjRQSkFrZUhNSlhYaE0yY2pSbG4xTHc4QnFfZ0pCc1ZSVm1lVGIwTWtpc3FHQnJBTVZyMWtKR1VpQWFJNUk?oc=5",
+      "summary": "インタビュー：米国、円安で日本経済弱体化を懸念 日銀利上げ到達2.25％も＝中尾元財務官&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-11T03:26:00+00:00"
     },
     {
       "title": "テンセント出資の中国ＡＩ半導体メーカー、上海上場で株価3倍に - Reuters",
