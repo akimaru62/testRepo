@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T07:37:00.895192+00:00",
+  "generated_at": "2026-09-11T07:47:39.579864+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -384,6 +384,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-09-11T06:51:54+00:00"
+    },
+    {
+      "title": "DeepSeek v4.1 Flash Uncensored",
+      "link": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
+      "summary": "Article URL: https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8\nComments URL: https://news.ycombinator.com/item?id=49654387\nPoints: 11\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-11T06:46:19+00:00"
     },
     {
       "title": "Astra for Coding: Why Are We Doing This Again?",
