@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T18:08:43.508192+00:00",
+  "generated_at": "2026-09-11T18:28:32.458993+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -230,12 +230,44 @@
   ],
   "items": [
     {
+      "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+      "link": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
+      "summary": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team.\nThe post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "category": "開発者向け",
+      "published": "2026-09-11T18:26:10+00:00"
+    },
+    {
+      "title": "Litelm: LiteLLM Without the Bloat",
+      "link": "https://github.com/kennethwolters/litelm",
+      "summary": "Article URL: https://github.com/kennethwolters/litelm\nComments URL: https://news.ycombinator.com/item?id=49662767\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-11T18:10:20+00:00"
+    },
+    {
+      "title": "The Fed could raise interest rates three times. Here’s where the market could face the stiffest test.",
+      "link": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
+      "summary": "Economists note that the Fed historically has not been content to raise rates only once.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-11T18:09:00+00:00"
+    },
+    {
       "title": "無登録で貸金業を行っている者等（Bit Hills Inc.）に対する警告書の発出について公表しました。",
       "link": "https://www.fsa.go.jp/ordinary/chuui/bithills_inc._keikokushiryo.pdf",
       "summary": "",
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-11T18:00:00+00:00"
+    },
+    {
+      "title": "Show HN: Toast, a beautiful by default in terminal IDE",
+      "link": "https://github.com/paradise-runner/toast",
+      "summary": "Article URL: https://github.com/paradise-runner/toast\nComments URL: https://news.ycombinator.com/item?id=49662496\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-11T17:54:53+00:00"
     },
     {
       "title": "Tesla could transform the trucking business — and capitalize on high diesel prices",
@@ -828,6 +860,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-11T13:34:01+00:00"
+    },
+    {
+      "title": "LKTEF.PK - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnajFWeWVBQnN5N1kwMEJiZjk1MGprQ1VSRWhxWEF4YjIxVDBrZnRsTHhNT1gwNGJwbExrV3ZsLWstLWgxdl9wMGNsTHc0VFFHdm5vYm1Sdm9USXh5Zy0xaFNHTXZQeXBEQllOZA?oc=5",
+      "summary": "LKTEF.PK&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-11T13:33:18+00:00"
     },
     {
       "title": "I went to a dinner party, brought an appetizer and wine — and the host charged me $60. Should I cut ties with her?",
