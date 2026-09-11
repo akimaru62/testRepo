@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T17:22:23.356630+00:00",
+  "generated_at": "2026-09-11T17:33:32.239819+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -238,6 +238,22 @@
       "published": "2026-09-11T18:00:00+00:00"
     },
     {
+      "title": "U.S. Stocks Rise as Inflation Figure Boosts Odds of Rate Hike",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-nudge-up-yields-slip-but-markets-remain-on-edge-035097c4?mod=rss_markets_main",
+      "summary": "U.S. stocks rose, a signal that investors like the idea of a Federal Reserve rate hike tamping down inflation.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-11T17:28:00+00:00"
+    },
+    {
+      "title": "Situational Awareness builds relationships with new brokers as it attempts rebound",
+      "link": "https://www.ft.com/content/916eea1b-d483-49e1-9a70-53b4df8f9870?syn-25a6b1a6=1",
+      "summary": "Leopold Aschenbrenner’s hedge fund previously suffered billions of dollars in losses during AI sell-off",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-11T17:15:28+00:00"
+    },
+    {
       "title": "Cluster of Polymarket Accounts Won Big on Companies Audited by KPMG",
       "link": "https://www.wsj.com/business/c-suite/cluster-of-polymarket-accounts-won-big-on-companies-audited-by-kpmg-b4d322f7?mod=rss_markets_main",
       "summary": "Findings come after The Wall Street Journal reported that a KPMG employee is under investigation for alleged insider trading.",
@@ -348,6 +364,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-11T16:26:23.279685+00:00"
+    },
+    {
+      "title": "Military jet triggered UK’s latest air traffic meltdown",
+      "link": "https://www.ft.com/content/e070149c-70a4-41ee-a829-0630abb2ce35?syn-25a6b1a6=1",
+      "summary": "Flight plan submitted by one aircraft sparked turmoil that grounded thousands of planes this week",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-11T16:26:14+00:00"
     },
     {
       "title": "How rising bond yields can wreck some portfolios while pumping up others with cash",
@@ -697,6 +721,14 @@
       "title": "If coding is solved, what now?: Measuring the sloppiness of code",
       "link": "https://earendil.com/posts/measuring-code-sloppiness/",
       "summary": "Article URL: https://earendil.com/posts/measuring-code-sloppiness/\nComments URL: https://news.ycombinator.com/item?id=49658311\nPoints: 34\n# Comments: 15",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-11T13:42:28+00:00"
+    },
+    {
+      "title": "Measuring the sloppiness of code",
+      "link": "https://earendil.com/posts/measuring-code-sloppiness/",
+      "summary": "Article URL: https://earendil.com/posts/measuring-code-sloppiness/\nComments URL: https://news.ycombinator.com/item?id=49658311\nPoints: 129\n# Comments: 169",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-11T13:42:28+00:00"
