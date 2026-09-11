@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T18:49:43.414363+00:00",
+  "generated_at": "2026-09-11T19:06:11.915702+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -230,6 +230,14 @@
   ],
   "items": [
     {
+      "title": "U.S. Stocks Gain as Inflation Figure Boosts Odds of Rate Hike",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-nudge-up-yields-slip-but-markets-remain-on-edge-035097c4?mod=rss_markets_main",
+      "summary": "U.S. stocks climbed, a signal that investors like the idea of a Federal Reserve rate hike tamping down inflation.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-11T18:54:00+00:00"
+    },
+    {
       "title": "Gold Little Changed As August CPI Raises Interest-Rate Expectations",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-ahead-of-u-s-cpi-data-c995e7d0?mod=rss_markets_main",
       "summary": "Gold futures held steady as a pullback in oil prices helped offset the impact of an inflation report that increased expectations for a Fed interest-rate rise next week.",
@@ -310,9 +318,25 @@
       "published": "2026-09-11T17:54:53+00:00"
     },
     {
+      "title": "Suno v6 released for music creation",
+      "link": "https://suno.com/blog/introducing-v6",
+      "summary": "Article URL: https://suno.com/blog/introducing-v6\nComments URL: https://news.ycombinator.com/item?id=49662427\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-11T17:49:44+00:00"
+    },
+    {
       "title": "A Severe Misalignment of AI in Mathematics - Terence Tao et al",
       "link": "https://mathandai.org/",
       "summary": "Article URL: https://mathandai.org/\nComments URL: https://news.ycombinator.com/item?id=49662371\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-11T17:45:12+00:00"
+    },
+    {
+      "title": "A misalignment of AI in mathematics",
+      "link": "https://mathandai.org/",
+      "summary": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm...\n\nComments URL: https://news.ycombinator.com/item?id=49662371\nPoints: 18\n# Comments: 8",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-11T17:45:12+00:00"
@@ -361,6 +385,14 @@
       "title": "Major Life Announcement",
       "link": "https://ma.tt/2026/09/mirene/",
       "summary": "Article URL: https://ma.tt/2026/09/mirene/\nComments URL: https://news.ycombinator.com/item?id=49661997\nPoints: 4\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-11T17:23:47+00:00"
+    },
+    {
+      "title": "I’ve made an offer to buy Ryan Phelan and Stewart Brand’s houseboat Mirene",
+      "link": "https://ma.tt/2026/09/mirene/",
+      "summary": "Article URL: https://ma.tt/2026/09/mirene/\nComments URL: https://news.ycombinator.com/item?id=49661997\nPoints: 11\n# Comments: 3",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-11T17:23:47+00:00"
@@ -1449,6 +1481,14 @@
       "title": "Cherenkov Radiation - traveling faster than light",
       "link": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
       "summary": "Article URL: http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation\nComments URL: https://news.ycombinator.com/item?id=49655286\nPoints: 11\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-11T08:42:04+00:00"
+    },
+    {
+      "title": "Cherenkov Radiation",
+      "link": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+      "summary": "Article URL: http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation\nComments URL: https://news.ycombinator.com/item?id=49655286\nPoints: 198\n# Comments: 88",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-11T08:42:04+00:00"
