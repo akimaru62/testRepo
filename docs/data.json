@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T12:12:17.814738+00:00",
+  "generated_at": "2026-09-11T12:36:35.842638+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -268,6 +268,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-11T15:00:00+00:00"
+    },
+    {
+      "title": "US inflation held steady at 3.4% in August as high fuel prices persist",
+      "link": "https://www.ft.com/content/24646e74-9506-4718-b1be-789208db86d9?syn-25a6b1a6=1",
+      "summary": "Figure comes ahead of high-stakes Fed meeting",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-11T12:30:53+00:00"
     },
     {
       "title": "ビザ料金、７倍に　日本側の値上げに合わせ―在日中国大使館",
@@ -671,6 +679,14 @@
     },
     {
       "title": "CPI Report Today: Bond Yields Edge Lower as Investors Await Inflation Data",
+      "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026?mod=rss_markets_main",
+      "summary": "10-year Treasury yield shies away from 5% level, stock futures tick up",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-11T08:34:20+00:00"
+    },
+    {
+      "title": "CPI Report Today: Inflation Rises 3.4% in August from a Year Ago",
       "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026?mod=rss_markets_main",
       "summary": "10-year Treasury yield shies away from 5% level, stock futures tick up",
       "source": "WSJ マーケット",
