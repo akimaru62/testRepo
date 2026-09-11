@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T08:50:27.082006+00:00",
+  "generated_at": "2026-09-11T09:08:51.408200+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -222,9 +222,21 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "502 Server Error: Bad Gateway for url: https://hnrss.org/frontpage"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fa09fbea120>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "無登録で貸金業を行っている者等（Bit Hills Inc.）に対する警告書の発出について公表しました。",
+      "link": "https://www.fsa.go.jp/ordinary/chuui/bithills_inc._keikokushiryo.pdf",
+      "summary": "",
+      "source": "金融庁",
+      "category": "公的機関",
+      "published": "2026-09-11T18:00:00+00:00"
+    },
     {
       "title": "「保険会社向けの総合的な監督指針」の一部改正（案）について公表しました。",
       "link": "https://www.fsa.go.jp/news/r8/hoken/20260911/20260911.html",
@@ -266,6 +278,14 @@
       "published": "2026-09-11T10:00:00+00:00"
     },
     {
+      "title": "36万円の折りたたみ｢iPhone Duo｣アップルがあえて高くても売る理由､サムスンとは違う\"市場の広げ方\"とは | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957685?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "アップルが満を持して発表した折りたたみ型スマホ｢iPhone Duo｣。驚きの\"すりガラス効果\"や独自のUI設計､36万円という高価格設定､サムスンとは異なる戦略など話題に事欠かない。革新的プロダク…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-11T09:00:00+00:00"
+    },
+    {
       "title": "Stock Futures Nudge Up, Yields Slip, But Markets Remain on Edge",
       "link": "https://www.wsj.com/finance/stocks/stock-futures-nudge-up-yields-slip-but-markets-remain-on-edge-035097c4?mod=rss_markets_main",
       "summary": "U.S. stock futures nudged higher and Treasury yields retreated slightly, but investors remained on edge ahead of crucial inflation data later.",
@@ -280,6 +300,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-11T08:36:00+00:00"
+    },
+    {
+      "title": "Stock Market Today: Bond Yields Edge Lower as Investors Await CPI Report",
+      "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026?mod=rss_markets_main",
+      "summary": "10-year Treasury yield shies away from 5% level, stock futures tick up",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-11T08:34:20+00:00"
     },
     {
       "title": "北朝鮮選手団が入国　サッカー代表の選手ら―愛知・名古屋アジア大会",
@@ -4368,6 +4396,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T09:18:30+00:00"
+    },
+    {
+      "title": "AS5.DE - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcGJpOUFxRmFyRWVSeDYwY3I2OUF2VHBZN29NcTkxS3NVOWJkRFg5dDQ1SnZsZkZpcTZjdWJPOExMenhjcnVkREVMbG14Z0JnSFg2dko5X0dweTRnRVNsZWF2ZktNRkFFbUpzSzk0eWZ0VFBZcWRFQm03eWNaLVd2bFZQeDhXdw?oc=5",
+      "summary": "AS5.DE&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T09:18:08+00:00"
     },
     {
       "title": "Stock Futures Rise, Treasury Yields Hold Near Highs as Oil Tops $101",
