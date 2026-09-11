@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T00:20:56.602312+00:00",
+  "generated_at": "2026-09-11T01:04:08.120380+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -214,9 +214,101 @@
     {
       "url": "https://www.mof.go.jp/news.rss",
       "error": "503 Server Error: Service Unavailable for url: https://www.mof.go.jp/news.rss"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "その他,2027年版EDINETタクソノミ（案）について公表しました。",
+      "link": "https://www.fsa.go.jp/search/20260911.html",
+      "summary": "",
+      "source": "金融庁",
+      "category": "公的機関",
+      "published": "2026-09-11T10:00:00+00:00"
+    },
+    {
+      "title": "財政投融資分科会（令和8年7月15日開催）議事録",
+      "link": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/proceedings/zaitoa20260715.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-09-11T01:00:00+00:00"
+    },
+    {
+      "title": "入札、落札結果情報（工事等）",
+      "link": "https://www.mof.go.jp/application-contact/procurement/kouji/index.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-09-11T01:00:00+00:00"
+    },
+    {
+      "title": "Oil Rises on Escalating Supply-Disruption Concerns",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-on-escalating-supply-disruption-concerns-998e07a1?mod=rss_markets_main",
+      "summary": "Oil rose in early trade on escalating concerns over supply disruptions in the Middle East",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-11T00:44:00+00:00"
+    },
+    {
+      "title": "Kalshi Looks to Expand a Rapidly Growing Universe of Risky Trading",
+      "link": "https://www.wsj.com/finance/kalshi-looks-to-expand-a-rapidly-growing-universe-of-risky-trading-a7670fde?mod=rss_markets_main",
+      "summary": "A platform known for prediction markets has seen perpetual futures surge in popularity.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-11T00:43:00+00:00"
+    },
+    {
+      "title": "Google will buy half the electricity of a nuclear power plant",
+      "link": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c8r6y4me2g6o\nComments URL: https://news.ycombinator.com/item?id=49652105\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-11T00:42:41+00:00"
+    },
+    {
+      "title": "Asian Currencies Consolidate, But Haven Demand for Dollar May Weigh",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-haven-demand-for-dollar-may-weigh-a563ed11?mod=rss_markets_main",
+      "summary": "Asian currencies consolidated against the dollar in early trade, but may be weighed by safe-haven demand for the greenback.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-11T00:42:00+00:00"
+    },
+    {
+      "title": "Nikkei Falls 2.8%, Dragged by Chip Stocks",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-8-dragged-by-chip-stocks-abb86523?mod=rss_markets_main",
+      "summary": "Japanese stocks were lower as fears about the Iran war and rising energy costs have grown.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-11T00:39:00+00:00"
+    },
+    {
+      "title": "日経平均 一時2000円以上値下がり",
+      "link": "https://news.yahoo.co.jp/pickup/6594924?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-11T00:32:12+00:00"
+    },
+    {
+      "title": "｢半人半牛の怪物｣が封印された遺跡…｢ミノタウロス伝説｣の成り立ちとは　漫画｢宗像教授世界篇｣（第8集 第24話 前編） | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957348?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "世界各地で語り継がれてきた伝説や神話、古来受け継がれてきた風習等には何らかの歴史的事実が秘められている。東亜文化大学・宗像伝奇（むなかたただくす）が、閉ざされし歴史の扉を開く。考古学上の謎や因習の謎…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-11T00:30:00+00:00"
+    },
+    {
+      "title": "国債金利情報(令和8年9月10日)",
+      "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-09-11T00:30:00+00:00"
+    },
     {
       "title": "イチローの快挙、渡米し祝福　張本勲さん、記録更新に賛辞",
       "link": "https://www.jiji.com/jc/article?k=2026091000841&g=spo&m=rss",
@@ -232,6 +324,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-11T00:20:50.921036+00:00"
+    },
+    {
+      "title": "The iPhone Duo enters China’s crowded foldable market — and faces a price test",
+      "link": "https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
+      "summary": "Chinese netizens focused on the price of Apple’s iPhone Duo, as cheaper Xiaomi and Huawei foldables raise value comparisons and muddle the foldable's reception.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-09-11T00:19:54+00:00"
     },
     {
       "title": "1泊20万円の高野山宿坊も 嘆く声",
@@ -320,6 +420,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-10T23:30:00+00:00"
+    },
+    {
+      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+      "link": "https://system76.com/workstations/thelio-mira-ai",
+      "summary": "Article URL: https://system76.com/workstations/thelio-mira-ai\nComments URL: https://news.ycombinator.com/item?id=49651372\nPoints: 9\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T23:10:06+00:00"
     },
     {
       "title": "米政権、大手銀行に来週制裁 対イラン圧力継続＝財務長官 - Reuters",
