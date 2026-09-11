@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T16:26:29.524748+00:00",
+  "generated_at": "2026-09-11T16:37:58.918016+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -254,6 +254,14 @@
       "published": "2026-09-11T17:00:00+00:00"
     },
     {
+      "title": "Your Social Security check could go up another $71 next year. That’s not necessarily good news.",
+      "link": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories",
+      "summary": "A higher COLA is a sign that persistent inflation isn’t going anywhere.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-11T16:32:00+00:00"
+    },
+    {
       "title": "高市首相、閣僚招き会食　内閣改造控え慰労",
       "link": "https://www.jiji.com/jc/article?k=2026091101082&g=pol&m=rss",
       "summary": "",
@@ -278,6 +286,22 @@
       "published": "2026-09-11T16:17:00+00:00"
     },
     {
+      "title": "The AI Takeover Checklist: A Devil's Advocate Audit",
+      "link": "https://nochan.net/b/Internet-Crap/20260910-Asked-Claude-For-A-Checklist/",
+      "summary": "Article URL: https://nochan.net/b/Internet-Crap/20260910-Asked-Claude-For-A-Checklist/\nComments URL: https://news.ycombinator.com/item?id=49660923\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-11T16:16:05+00:00"
+    },
+    {
+      "title": "Why the AI race has its creators fearing human extinction",
+      "link": "https://www.ft.com/content/b7fe0fe0-0463-4f55-9590-0a7d08d8fe66?syn-25a6b1a6=1",
+      "summary": "Advances in autonomous agents and bitter rivalry between Anthropic and OpenAI have pushed once-fringe fears into the mainstream",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-11T16:11:14+00:00"
+    },
+    {
       "title": "How PayPal’s CEO Is Planning to Go It Alone and Fix the Payments Giant",
       "link": "https://www.wsj.com/finance/banking/how-paypals-ceo-is-planning-to-go-it-alone-and-fix-the-payments-giant-ec0daf22?mod=rss_markets_main",
       "summary": "A $50 billion buyout is stalled but Enrique Lores could make a $25 million bonus if Wall Street buys into his plans to transform the payments company.",
@@ -286,12 +310,28 @@
       "published": "2026-09-11T16:07:00+00:00"
     },
     {
+      "title": "The Last 24 Hours Are the Opening Scene in a Horror Movie",
+      "link": "https://www.honest-broker.com/p/the-last-24-hours-are-the-opening",
+      "summary": "Article URL: https://www.honest-broker.com/p/the-last-24-hours-are-the-opening\nComments URL: https://news.ycombinator.com/item?id=49660707\nPoints: 16\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-11T16:04:47+00:00"
+    },
+    {
       "title": "Godot and Rust based multiplexer (terminal panes and more)",
       "link": "https://github.com/godot-pty/gpty",
       "summary": "Article URL: https://github.com/godot-pty/gpty\nComments URL: https://news.ycombinator.com/item?id=49660676\nPoints: 3\n# Comments: 1",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-11T16:03:05+00:00"
+    },
+    {
+      "title": "Global Glacier Extinction Explorer",
+      "link": "https://glacierextinction.com",
+      "summary": "Article URL: https://glacierextinction.com\nComments URL: https://news.ycombinator.com/item?id=49660576\nPoints: 16\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-11T15:58:06+00:00"
     },
     {
       "title": "Hacker News with reduced priority for AI driven content",
@@ -412,6 +452,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-11T14:44:33+00:00"
+    },
+    {
+      "title": "フーシ派、紅海の要衝ペリム島に到達 原油輸送路への脅威増大 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41cTE3cFlLZ3hNNW5iVzd6dE1VaE5tS04zQjdzT0p0dU4xTEJWQk5QU3lGeVZxVFpkOU9saDFScmJrR1Q2dnhaMGljcktjRlVDNXhQdWZfOVNwTUFvVU10RzFWcDROVzNzYVlzTWdZTXZmT3I4X1FNNUY5S0JMUQ?oc=5",
+      "summary": "フーシ派、紅海の要衝ペリム島に到達 原油輸送路への脅威増大&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-11T14:39:51+00:00"
     },
     {
       "title": "HuggingFace: Security.txt",
