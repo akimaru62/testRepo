@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T14:08:45.236115+00:00",
+  "generated_at": "2026-09-11T14:26:03.858808+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -270,6 +270,38 @@
       "published": "2026-09-11T15:00:00+00:00"
     },
     {
+      "title": "米同時テロから２５年　各地で追悼、関連死も対象に",
+      "link": "https://www.jiji.com/jc/article?k=2026091100688&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-11T14:25:58.981255+00:00"
+    },
+    {
+      "title": "森本レオさん死去、８３歳　俳優、ナレーター",
+      "link": "https://www.jiji.com/jc/article?k=2026091101155&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-11T14:25:58.981203+00:00"
+    },
+    {
+      "title": "All the ways $6 diesel and rising gas prices are about to make your life more expensive — from commuting to grocery shopping",
+      "link": "https://www.marketwatch.com/story/all-the-ways-record-high-diesel-and-rising-gas-prices-are-about-to-make-your-life-more-expensive-from-commuting-to-grocery-shopping-2083fec3?mod=mw_rss_topstories",
+      "summary": "“Diesel touches everything in the economy,” one analyst says.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-11T14:22:00+00:00"
+    },
+    {
+      "title": "BMO, Sun Life Pledge C$75 Billion Private Capital for Canadian Infrastructure Push",
+      "link": "https://www.wsj.com/finance/investing/bmo-sun-life-pledge-c-75-billion-private-capital-for-canadian-infrastructure-push-d35f5f58?mod=rss_markets_main",
+      "summary": "BMO plans to mobilize up to C$70 billion over the next decade for sectors critical to Canadian economic security and resilience. Sun Life launched its own C$5 billion initiative to take direct debt and equity stakes in major national projects.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-11T14:21:00+00:00"
+    },
+    {
       "title": "From zero-shot forecast to purchase order with Amazon Bedrock AgentCore",
       "link": "https://aws.amazon.com/blogs/architecture/from-zero-shot-forecast-to-purchase-order-with-amazon-bedrock-agentcore/",
       "summary": "Combine zero-shot forecasting with Amazon Chronos2 and multi-agent orchestration on Amazon Bedrock AgentCore to turn demand forecasts into validated purchase orders. No per-product model training, with business rules, auditability, and cost that scales to zero.",
@@ -310,12 +342,36 @@
       "published": "2026-09-11T13:48:00+00:00"
     },
     {
+      "title": "Show HN: ClaudeStatsBar: your session is 486k deep and nothing told you",
+      "link": "https://github.com/Field-Logic-Ltd/ClaudeStatsBar",
+      "summary": "Article URL: https://github.com/Field-Logic-Ltd/ClaudeStatsBar\nComments URL: https://news.ycombinator.com/item?id=49658328\nPoints: 9\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-11T13:43:53+00:00"
+    },
+    {
       "title": "Opinion | Wall Street’s Recovery From 9/11",
       "link": "https://www.wsj.com/opinion/wall-streets-recovery-from-9-11-db1a1379?mod=rss_markets_main",
       "summary": "When the market reopened on Sept. 17, 2001, it told the world that terrorism wouldn’t paralyze us.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-11T13:43:00+00:00"
+    },
+    {
+      "title": "If coding is solved, what now?: Measuring the sloppiness of code",
+      "link": "https://earendil.com/posts/measuring-code-sloppiness/",
+      "summary": "Article URL: https://earendil.com/posts/measuring-code-sloppiness/\nComments URL: https://news.ycombinator.com/item?id=49658311\nPoints: 34\n# Comments: 15",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-11T13:42:28+00:00"
+    },
+    {
+      "title": "Re-Engineering YouTube for the Living Room: Bringing \"Chrobalt\" to RDK",
+      "link": "https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html",
+      "summary": "Article URL: https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html\nComments URL: https://news.ycombinator.com/item?id=49658302\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-11T13:41:58+00:00"
     },
     {
       "title": "Houthis 'take control' of key island in global shipping route",
@@ -881,6 +937,14 @@
       "title": "CPI Report Today: Inflation Figure Boosts Odds of Rate Hike Next Week",
       "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026?mod=rss_markets_main",
       "summary": "August CPI comes in at 3.4%; Traders increase chance of Fed rate increase to 90%",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-11T08:34:20+00:00"
+    },
+    {
+      "title": "Stock Market Today: Inflation Figure Boosts Odds of Rate Hike Next Week",
+      "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026?mod=rss_markets_main",
+      "summary": "Traders increase chance of Fed rate increase to more than 80%; Dow rallies",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-11T08:34:20+00:00"
