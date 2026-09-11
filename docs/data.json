@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T06:41:08.844637+00:00",
+  "generated_at": "2026-09-11T06:57:33.573284+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -250,6 +250,46 @@
       "published": "2026-09-11T10:00:00+00:00"
     },
     {
+      "title": "日銀、追加利上げの公算大　政策金利1.25%へ、物価上ぶれを警戒",
+      "link": "https://www.asahi.com/articles/ASV9B4W3ZV9BULFA01PM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-11T06:57:27.366382+00:00"
+    },
+    {
+      "title": "長期金利がわかりにくい…　仕組みと「気持ち悪さ」の正体を徹底解説",
+      "link": "https://www.asahi.com/articles/ASV9C1SZLV9CULFA001M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-11T06:57:27.366373+00:00"
+    },
+    {
+      "title": "日銀は金利をどこまで上げる？　識者「2.5%より高くなることも」",
+      "link": "https://www.asahi.com/articles/ASV9B5289V9BULFA00LM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-11T06:57:27.366349+00:00"
+    },
+    {
+      "title": "浜岡原発 審査申請取り下げで調整",
+      "link": "https://news.yahoo.co.jp/pickup/6594957?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-11T06:51:54+00:00"
+    },
+    {
+      "title": "Astra for Coding: Why Are We Doing This Again?",
+      "link": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+      "summary": "Article URL: https://lucumr.pocoo.org/2026/9/7/astra-why/\nComments URL: https://news.ycombinator.com/item?id=49654229\nPoints: 27\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-11T06:23:06+00:00"
+    },
+    {
       "title": "紀子さま、両陛下にあいさつ　６０歳の誕生日―皇居",
       "link": "https://www.jiji.com/jc/article?k=2026091100668&g=soc&m=rss",
       "summary": "",
@@ -296,6 +336,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-11T05:34:00+00:00"
+    },
+    {
+      "title": "We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower",
+      "link": "https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/",
+      "summary": "Article URL: https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/\nComments URL: https://news.ycombinator.com/item?id=49653882\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-11T05:26:58+00:00"
     },
     {
       "title": "Ｆ１５戦闘機の那覇緊急着陸、拘束装置を使用　小泉防衛相",
@@ -427,6 +475,14 @@
     },
     {
       "title": "Dubai airport group plans underground fuel tanks to protect against strikes",
+      "link": "https://www.ft.com/content/918858ee-e771-4448-8fad-cfaf808c7011?syn-25a6b1a6=1",
+      "summary": "UAE pressing ahead with expansion plans for flight hub despite the Iran war",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-11T04:00:19+00:00"
+    },
+    {
+      "title": "Iran war forces Dubai to plan underground fuel tanks for new airport",
       "link": "https://www.ft.com/content/918858ee-e771-4448-8fad-cfaf808c7011?syn-25a6b1a6=1",
       "summary": "UAE pressing ahead with expansion plans for flight hub despite the Iran war",
       "source": "Financial Times",
@@ -4224,6 +4280,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-10T08:16:00+00:00"
+    },
+    {
+      "title": "VAL.CHA - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRnh2eVpDc184SFRrdDhXOXFVTjkwVUtYU2o0WFk4WnVReGMtYTg4U3RRWjkwUTR3elRIeUhwTDVqSy15RW12N1dXZ3prMko0UUMyRHdQbl85UURLbDE2d1F6UWxyT041ZDZkdkx6X0Z3N0l6dHhOTktGNjhRT3pWUkdR?oc=5",
+      "summary": "VAL.CHA - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T08:15:09+00:00"
     },
     {
       "title": "あいちフィナンシャルグループと三十三（さんじゅうさん）フィナンシャルグループは、経営統合に関する基本合意の解除を決めた",
