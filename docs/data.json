@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T01:31:47.630945+00:00",
+  "generated_at": "2026-09-11T01:53:52.821319+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -218,6 +218,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "502 Server Error: Bad Gateway for url: https://hnrss.org/frontpage"
     }
   ],
   "items": [
@@ -228,6 +232,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-11T10:00:00+00:00"
+    },
+    {
+      "title": "武田薬品元社長の長谷川閑史さんが死去　経済同友会代表幹事も務める",
+      "link": "https://www.asahi.com/articles/ASV9C0CNDV9CULFA01SM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-11T01:53:46.817716+00:00"
+    },
+    {
+      "title": "何歳まで活躍期待? 企業にアンケ",
+      "link": "https://news.yahoo.co.jp/pickup/6594929?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-11T01:41:36+00:00"
     },
     {
       "title": "イエメンのフーシ派、海運要衝で支配拡大　イランが指揮か、原油輸送に懸念",
@@ -244,6 +264,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-11T01:31:42.050409+00:00"
+    },
+    {
+      "title": "｢いい大学に行く意味ある？｣令和の子どもが抱く当然の疑問…\"高学歴でも幸せになれない\"時代に専門家はどう答える？ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/956974?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢いい大学に行く意味｣や｢勉強の価値｣に悩む子どもたちが増えています。親はどんな言葉をかけ､どう対話すればよいのでしょうか。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-11T01:30:00+00:00"
     },
     {
       "title": "Gold Rises Ahead of U.S. CPI Data",
@@ -3140,6 +3168,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T08:53:10+00:00"
+    },
+    {
+      "title": "(.MISX00000PUS) | Stock Price & Latest News | Reuters - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5idldmNnhuenkwZThJaXBzemtaMWRCSmh2aWFpc0ZjOS1MeTdnYllhNk8xR2xCaVktT1dORnFUYVJFNWpaMTUxanRWUmFxc3A3d1ZJT3BuZDBkUHJrZmZR?oc=5",
+      "summary": "(.MISX00000PUS) | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T08:53:04+00:00"
     },
     {
       "title": "ナフサ高騰、価格転嫁5割超　4割はなお交渉中・検討中　中企庁調査",
