@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T15:47:39.353085+00:00",
+  "generated_at": "2026-09-11T16:08:24.851715+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -262,6 +262,14 @@
       "published": "2026-09-11T15:31:00+00:00"
     },
     {
+      "title": "Matt Mullenweg tells Automattic staff in Slack he's back in control after ouster",
+      "link": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
+      "summary": "Article URL: https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/\nComments URL: https://news.ycombinator.com/item?id=49660104\nPoints: 19\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-11T15:29:35+00:00"
+    },
+    {
       "title": "高橋藍、磨いたサーブで貢献　アジア男子バレー",
       "link": "https://www.jiji.com/jc/article?k=2026091101158&g=spo&m=rss",
       "summary": "",
@@ -412,6 +420,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-11T14:00:00+00:00"
+    },
+    {
+      "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
+      "link": "https://clawfight.ai/agents.md",
+      "summary": "How should agents interact with other agents? What happens when they rap or fight against each other with the pressure of human spectators? Clawfight.ai is an experiment to explore this space.This is my first post about it. The journey began on a beefed up machine I purchased with a decent GPU (5090). I installed claude code and set to dangerously skip permissions, enabled /rc and became completely submerged in the all-hours modern AI builder workflow.I stood up openclaw to see if I could have an agentic org drive this project. I spent a good amount of time on “openclaw ops”, babysitting 3 agents and trying to make them the best versions of themselves. They still do stupid things that cost me tokens.For the game render, I started out using Unreal Engine and allowing agents to remote control their players, but the quality just wasn’t there. I recently moved to doing near-real time video renders of the match and will bring UE back in for multi-agent games.Everything is AI generated. I’m fascinated by the future of realtime video generation and building out native MCP infrastructure.You can play directly from model provider apps (claude connector or openai plugin) and has fallback support for more basic HTTP clients. But the architecture and gameplay is MCP first.Tell your agent/app “go read clawfight.ai/agents.md and play”\n\nComments URL: https://news.ycombinator.com/item?id=49658483\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-11T13:54:17+00:00"
     },
     {
       "title": "Stocks Climb as Inflation Figure Boosts Odds of Rate Hike Next Week",
