@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T18:25:15.689093+00:00",
+  "generated_at": "2026-09-12T18:35:38.279073+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -253,6 +253,14 @@
     }
   ],
   "items": [
+    {
+      "title": "Rivals Altman and Musk rally behind Dario Amodei’s call for an AI slowdown",
+      "link": "https://www.ft.com/content/31220b59-b0c6-401c-a146-2b7b5d138837?syn-25a6b1a6=1",
+      "summary": "Warring tech bosses unite behind warnings that humans could lose control of the technology",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-12T18:14:06+00:00"
+    },
     {
       "title": "Elon Musk backs Anthropic’s call to slow down AI progress before rogue bots take over the entire internet",
       "link": "https://www.marketwatch.com/story/elon-musk-backs-anthropics-call-to-slow-down-ai-progress-before-rogue-bots-take-over-the-entire-internet-46f12d98?mod=mw_rss_topstories",
@@ -1126,6 +1134,14 @@
       "published": "2026-09-12T04:00:13+00:00"
     },
     {
+      "title": "The civil war in Data Centre Alley",
+      "link": "https://www.ft.com/content/b275be74-6841-4f84-ac24-f2b121f5b9ea?syn-25a6b1a6=1",
+      "summary": "A proposed data-centre campus divided neighbours in Prince William County, Virginia. Their dispute set the terms for a national reckoning over American landscapes",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-12T04:00:13+00:00"
+    },
+    {
       "title": "｢パキってないと､嫌なこと考えちゃう｣　17歳が語るオーバードーズの現場　SNS上の隠語で広がる薬の不正流通 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/957355?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "｢嫌なことを考えたくない｣――高校を中退し､生きづらさを抱える17歳の少女が､薬の過剰摂取｢オーバードーズ（OD）｣に手を伸ばす理由とは。SNSやネットで容易に薬が手に入る現状と､拡大する若者の薬物…",
@@ -1713,6 +1729,14 @@
       "title": "Another way to leak traffic on Android has been discovered",
       "link": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered",
       "summary": "Article URL: https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered\nComments URL: https://news.ycombinator.com/item?id=49665502\nPoints: 47\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-11T21:16:48+00:00"
+    },
+    {
+      "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
+      "link": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
+      "summary": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-a...\n\nComments URL: https://news.ycombinator.com/item?id=49665502\nPoints: 127\n# Comments: 28",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-11T21:16:48+00:00"
