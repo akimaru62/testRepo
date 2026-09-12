@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T15:21:20.017106+00:00",
+  "generated_at": "2026-09-12T15:33:44.132052+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -290,6 +290,14 @@
       "published": "2026-09-12T15:21:16.293380+00:00"
     },
     {
+      "title": "Ask HN: What default model do you use and why?",
+      "link": "https://news.ycombinator.com/item?id=49672966",
+      "summary": "I use claude for most of what I do, and Fable is largely overkill for me and frequently burns through my Max plan's session credits in minutes (!) when just doing an initial mobile app planning with 4 agents. After I waited out the timeout period 6 hours later,  and I picked up again, the cache had timed out so it burned through 2% of the session in less than a minute. Opus 4.8 is now my goto and I will be avoiding 5 until I see a reason to switch back. 4.8 is 'good enough' for what I need and has been a great value. It mostly gets things right. Most of what I do is web and mobile , largely cloud backend.\n\nComments URL: https://news.ycombinator.com/item?id=49672966\nPoints: 8\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-12T14:58:44+00:00"
+    },
+    {
       "title": "Brics push for Gulf peace as war worries mount",
       "link": "https://www.ft.com/content/f32bef26-d2b8-47a6-b938-3dcd5e870685?syn-25a6b1a6=1",
       "summary": "India-China rapprochement faces obstacles over economic and geopolitical rivalry",
@@ -322,6 +330,14 @@
       "published": "2026-09-12T14:16:24+00:00"
     },
     {
+      "title": "You Don't Need Matrix Calculus",
+      "link": "https://julesjacobs.com/2024/07/28/you-dont-need-matrix-calculus.html",
+      "summary": "Article URL: https://julesjacobs.com/2024/07/28/you-dont-need-matrix-calculus.html\nComments URL: https://news.ycombinator.com/item?id=49672541\nPoints: 11\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-12T14:15:08+00:00"
+    },
+    {
       "title": "We Must Pace the Frontier",
       "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
       "summary": "Article URL: https://darioamodei.com/post/we-must-pace-the-frontier\nComments URL: https://news.ycombinator.com/item?id=49672510\nPoints: 18\n# Comments: 6",
@@ -352,6 +368,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-12T13:54:19+00:00"
+    },
+    {
+      "title": "LLMs are real, AI is fake",
+      "link": "https://pluralistic.net/2026/09/12/god-in-the-box/",
+      "summary": "Article URL: https://pluralistic.net/2026/09/12/god-in-the-box/\nComments URL: https://news.ycombinator.com/item?id=49672281\nPoints: 34\n# Comments: 8",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-12T13:47:28+00:00"
     },
     {
       "title": "北朝鮮体育相の来日計画　愛知・名古屋アジア大会",
@@ -464,6 +488,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-12T12:00:00+00:00"
+    },
+    {
+      "title": "5464.ODX - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EZDBfWkt2Qmctd042eWVwbGtjWG5DQkFVcEg1YldpbkxSOXRVVnVTal9GTFdoZVNxRFdLaC1UaTNfS29sRzNtc2UyWEJiMFI4c0l3Sy1vOGVQNmhabC10TlR5VXV2cDVOUU9RZjR2dzRvcTV3MHFB?oc=5",
+      "summary": "5464.ODX - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-12T11:51:14+00:00"
     },
     {
       "title": "Fuck it, make it anyway",
@@ -1877,6 +1909,14 @@
       "title": "5EY.H - | Stock Price & Latest News - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DSHlPYjk5MEhXSk02T2JWbmNmTWFTOEdmTU5KdWUySEZiU3gxQ1hDRnV4Um9IalRWRHk2a0dqS1kxU1hNcGgza3dpVE9tOFdZUDZiTnVQV3ZxZ0p3by1lRUo5eVNWSzNw?oc=5",
       "summary": "5EY.H - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-11T18:41:03+00:00"
+    },
+    {
+      "title": "5EY.H - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DSHlPYjk5MEhXSk02T2JWbmNmTWFTOEdmTU5KdWUySEZiU3gxQ1hDRnV4Um9IalRWRHk2a0dqS1kxU1hNcGgza3dpVE9tOFdZUDZiTnVQV3ZxZ0p3by1lRUo5eVNWSzNw?oc=5",
+      "summary": "5EY.H - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-11T18:41:03+00:00"
