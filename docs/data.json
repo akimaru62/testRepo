@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T17:19:42.507177+00:00",
+  "generated_at": "2026-09-12T17:33:29.508541+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -254,6 +254,14 @@
   ],
   "items": [
     {
+      "title": "Elon Musk backs Anthropic’s call to slow down AI progress before rogue bots take over the entire internet",
+      "link": "https://www.marketwatch.com/story/elon-musk-backs-anthropics-call-to-slow-down-ai-progress-before-rogue-bots-take-over-the-entire-internet-46f12d98?mod=mw_rss_topstories",
+      "summary": "Leaders of major AI companies say they agree with Anthropic CEO Dario Amodei, who just called for the tech industry to move more slowly with model development.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-12T17:20:00+00:00"
+    },
+    {
       "title": "イラン情勢「最大限の自制」を　ＢＲＩＣＳ首脳が共同宣言",
       "link": "https://www.jiji.com/jc/article?k=2026091200302&g=int&m=rss",
       "summary": "",
@@ -262,12 +270,36 @@
       "published": "2026-09-12T17:19:36.498735+00:00"
     },
     {
+      "title": "Larry Ellison cancels $7.5bn Oracle share sale",
+      "link": "https://www.ft.com/content/05e61eb8-9273-4b9a-a356-47f525b7d506?syn-25a6b1a6=1",
+      "summary": "About-face comes a day after a filing revealed plans to sell up to 50mn shares by the end of October",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-12T17:18:43+00:00"
+    },
+    {
       "title": "Larry Ellison Scraps Plan to Sell Up to $7.5 Billion Worth of Oracle Stock",
       "link": "https://www.wsj.com/business/larry-ellison-scraps-plan-to-sell-up-to-7-5-billion-worth-of-oracle-stock-9f41edd2?mod=rss_markets_main",
       "summary": "The billionaire says no stock was sold, and he cancels a plan to unload 50 million shares.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-12T17:10:00+00:00"
+    },
+    {
+      "title": "Will There Be a 7G?",
+      "link": "https://arxiv.org/abs/2609.01877",
+      "summary": "Article URL: https://arxiv.org/abs/2609.01877\nComments URL: https://news.ycombinator.com/item?id=49674498\nPoints: 11\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-12T17:05:31+00:00"
+    },
+    {
+      "title": "How SaaS startup guys get first 100 customers first, make fkn $500k ARR fast?",
+      "link": "https://news.ycombinator.com/item?id=49674396",
+      "summary": "I am running a small AI company that has been building an offline security audit app, simply a fine-tuned small language model powering an Electron app that can audit GitHub and local code repos for security stuff. I always see these LinkedIn or X guys making $500k ARR or $1m ARR within months; how the fkk do they get that many customers without spending on ads? I can't even get 5 customers; damn it, I do suck at sales\n\nComments URL: https://news.ycombinator.com/item?id=49674396\nPoints: 3\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-12T16:56:54+00:00"
     },
     {
       "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
@@ -580,6 +612,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-12T12:15:12+00:00"
+    },
+    {
+      "title": "ATE.NSf - | Stock Price & Latest News - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oX1d5bHBrQ2ZDcTcyVVB6UmVKeWN6Y3M2aUVCdkl2c0tfbHo1RlBURHFYZVJBbGwydU9wQTl2SmNyTndVOHZsVkRVTGcwS2xNTEY3QVBxSExmaDJyeE5SZzhqYml1ZS1UcGp6MnpteXl0TEVDckE?oc=5",
+      "summary": "ATE.NSf - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-12T12:13:55+00:00"
     },
     {
       "title": "Overshoot: The World Is Hitting Point of No Return on Climate",
@@ -4665,6 +4705,14 @@
       "title": "午前の日経平均は反落、一時1カ月ぶり安値 米早期利上げ観測強まる - Reuters",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQmp4NHlfQVZuMnc1Qk5MejhKWXppVFN6Y0tDdGlRRi04aDQ0NWx6MW00cFdxRnhEVkFITE00MGd3R0o3UnNGdWZfQW5LUGFpRUc1cTB1aEhncV9tZ2dZcWpsai1VZGJjTGF3XzUxRWRwZFR6T05iSUxvZUJGMFRkVzhtTlg?oc=5",
       "summary": "午前の日経平均は反落、一時1カ月ぶり安値 米早期利上げ観測強まる&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-11T03:01:00+00:00"
+    },
+    {
+      "title": "午前の日経平均は反落、一時1カ月ぶり安値 米早期利上げ観測強まる - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQmp4NHlfQVZuMnc1Qk5MejhKWXppVFN6Y0tDdGlRRi04aDQ0NWx6MW00cFdxRnhEVkFITE00MGd3R0o3UnNGdWZfQW5LUGFpRUc1cTB1aEhncV9tZ2dZcWpsai1VZGJjTGF3XzUxRWRwZFR6T05iSUxvZUJGMFRkVzhtTlg?oc=5",
+      "summary": "午前の日経平均は反落、一時1カ月ぶり安値 米早期利上げ観測強まる&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-11T03:01:00+00:00"
