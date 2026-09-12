@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T03:08:59.399432+00:00",
+  "generated_at": "2026-09-12T03:27:03.799939+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -234,12 +234,44 @@
   ],
   "items": [
     {
+      "title": "岡本和真、豪快に３１号　「巨人の先輩」松井秀喜さんの最多に並ぶ―ＭＬＢ・ブルージェイズ",
+      "link": "https://www.jiji.com/jc/article?k=2026091200245&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-12T03:26:58.754773+00:00"
+    },
+    {
+      "title": "辻が左肘手術　プロ野球・広島",
+      "link": "https://www.jiji.com/jc/article?k=2026091200246&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-12T03:26:58.754738+00:00"
+    },
+    {
       "title": "【一橋大学､新設学部の狙いは?】受験のプロが作った｢厳選予想入試問題｣から見えたAI時代の｢頭のよさ｣と｢観る力｣の正体 | キャリア・教育 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/954525?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "大学でデータサイエンス系の学部新設が相次ぐ中､一橋大学は｢ソーシャル･データサイエンス学部｣という独自の道を選びました。受験のプロが作成した｢厳選予想入試問題｣から､AI時代に必要な｢本当の頭の…",
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-12T03:00:00+00:00"
+    },
+    {
+      "title": "Pandas Should Go Extinct",
+      "link": "https://eddie.codes/posts/pandas-should-go-extinct/",
+      "summary": "Article URL: https://eddie.codes/posts/pandas-should-go-extinct/\nComments URL: https://news.ycombinator.com/item?id=49668198\nPoints: 20\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-12T02:42:08+00:00"
+    },
+    {
+      "title": "Google stole open source code without crediting the authors (Artemis/Minitap)",
+      "link": "https://www.minitap.ai/blog/i-expected-better-from-google",
+      "summary": "Article URL: https://www.minitap.ai/blog/i-expected-better-from-google\nComments URL: https://news.ycombinator.com/item?id=49668181\nPoints: 9\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-12T02:39:39+00:00"
     },
     {
       "title": "〈書評〉『空き家があっても借りられない時代の居住保障』『ルポ シリコンバレー』など3冊 | ライフ | 東洋経済オンライン",
