@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T14:21:53.131949+00:00",
+  "generated_at": "2026-09-12T14:33:51.688114+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -260,6 +260,22 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-12T14:21:48.376158+00:00"
+    },
+    {
+      "title": "We Must Pace the Frontier",
+      "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "summary": "Article URL: https://darioamodei.com/post/we-must-pace-the-frontier\nComments URL: https://news.ycombinator.com/item?id=49672510\nPoints: 18\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-12T14:10:49+00:00"
+    },
+    {
+      "title": "A Mathematical Framework for Transformer Circuits (2021)",
+      "link": "https://transformer-circuits.pub/2021/framework/index.html",
+      "summary": "Article URL: https://transformer-circuits.pub/2021/framework/index.html\nComments URL: https://news.ycombinator.com/item?id=49672365\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-12T13:56:58+00:00"
     },
     {
       "title": "My last six months at Evernote",
@@ -7356,6 +7372,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-10T13:39:16+00:00"
+    },
+    {
+      "title": "LRU is harder to beat than the KV-cache papers suggest",
+      "link": "https://github.com/gauravapiscean/agentic-kv-cache",
+      "summary": "Article URL: https://github.com/gauravapiscean/agentic-kv-cache\nComments URL: https://news.ycombinator.com/item?id=49643543\nPoints: 19\n# Comments: 9",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-10T13:39:11+00:00"
     },
     {
       "title": "Bond sell-off reignites as oil jumps above $105",
