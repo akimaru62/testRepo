@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T15:33:44.132052+00:00",
+  "generated_at": "2026-09-12T15:47:23.380171+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -290,6 +290,14 @@
       "published": "2026-09-12T15:21:16.293380+00:00"
     },
     {
+      "title": "Nvidia is the central bank of AI",
+      "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "summary": "Article URL: https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai\nComments URL: https://news.ycombinator.com/item?id=49673098\nPoints: 30\n# Comments: 9",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-12T15:08:27+00:00"
+    },
+    {
       "title": "Ask HN: What default model do you use and why?",
       "link": "https://news.ycombinator.com/item?id=49672966",
       "summary": "I use claude for most of what I do, and Fable is largely overkill for me and frequently burns through my Max plan's session credits in minutes (!) when just doing an initial mobile app planning with 4 agents. After I waited out the timeout period 6 hours later,  and I picked up again, the cache had timed out so it burned through 2% of the session in less than a minute. Opus 4.8 is now my goto and I will be avoiding 5 until I see a reason to switch back. 4.8 is 'good enough' for what I need and has been a great value. It mostly gets things right. Most of what I do is web and mobile , largely cloud backend.\n\nComments URL: https://news.ycombinator.com/item?id=49672966\nPoints: 8\n# Comments: 7",
@@ -472,6 +480,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-12T12:15:12+00:00"
+    },
+    {
+      "title": "Overshoot: The World Is Hitting Point of No Return on Climate",
+      "link": "https://e360.yale.edu/features/1.5-degrees-tipping-points",
+      "summary": "Article URL: https://e360.yale.edu/features/1.5-degrees-tipping-points\nComments URL: https://news.ycombinator.com/item?id=49671460\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-12T12:03:42+00:00"
     },
     {
       "title": "「時給100円」ブラックインターン",
@@ -802,6 +818,14 @@
       "published": "2026-09-12T05:42:00+00:00"
     },
     {
+      "title": "トランプ氏、中国車の米国生産「構わない」 雇用が重要と指摘 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EMUhRYzRqcTZsb2RpZFVES2s5RzVTNi00MlRNbjdzT0c4aDcxdzNRVTlwSktXOUItU1dRXzNwZS1XNXVnRWxmYWFGM0tYUWVMS2c3NVliaFpsa1V2cEVrMTU1eUUteGplXzNOelZnZWNlNG5HVW1yRFVJTnE?oc=5",
+      "summary": "トランプ氏、中国車の米国生産「構わない」 雇用が重要と指摘&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-12T05:42:00+00:00"
+    },
+    {
       "title": "ＳＮＳ依存性高める機能に規制　１６歳未満の子供保護―米カリフォルニア州",
       "link": "https://www.jiji.com/jc/article?k=2026091200230&g=int&m=rss",
       "summary": "",
@@ -925,6 +949,14 @@
       "title": "A8M.F - | Stock Price & Latest News - Reuters",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nSmFsd3F4X2ZkYXV2dmFEQ1dXZXBVM0N5SlNSd01CZm1LZDlZOFZMakZaSHY2eFdMWnlCSnZwYW9rOWdSQnpzR3ZBRHkxQUxoSW05ME5LZUVSWlJISGxna0d1a2gyUF9NbUxHQ2huYzl6YWc4WHZiUVFqZjBSSWM?oc=5",
       "summary": "A8M.F - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-12T03:49:20+00:00"
+    },
+    {
+      "title": "A8M.F - | Stock Price & Latest News - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nSmFsd3F4X2ZkYXV2dmFEQ1dXZXBVM0N5SlNSd01CZm1LZDlZOFZMakZaSHY2eFdMWnlCSnZwYW9rOWdSQnpzR3ZBRHkxQUxoSW05ME5LZUVSWlJISGxna0d1a2gyUF9NbUxHQ2huYzl6YWc4WHZiUVFqZjBSSWM?oc=5",
+      "summary": "A8M.F - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-12T03:49:20+00:00"
@@ -3941,6 +3973,14 @@
       "title": "アングル：米保守活動家カーク氏暗殺から1年、設立団体拡大も若年層にトランプ離れ - Reuters",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sa2hPNEQ4bGRMYWdlT2Z5VExPdGhBY2lOdnpDZU5fbkxWV2l3Rm5zazJOQk01bmNHS0ltNklMdHd3YUw5VGRHRkFLUnNHTXZZTnZoMU5iU1BmQTNIT3dMWkZ6TEluazlYU2pXZVZRQkczcmN3MkZuVDA1c3dmQQ?oc=5",
       "summary": "アングル：米保守活動家カーク氏暗殺から1年、設立団体拡大も若年層にトランプ離れ&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-11T05:29:00+00:00"
+    },
+    {
+      "title": "アングル：米保守活動家カーク氏暗殺から1年、設立団体拡大も若年層にトランプ離れ - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sa2hPNEQ4bGRMYWdlT2Z5VExPdGhBY2lOdnpDZU5fbkxWV2l3Rm5zazJOQk01bmNHS0ltNklMdHd3YUw5VGRHRkFLUnNHTXZZTnZoMU5iU1BmQTNIT3dMWkZ6TEluazlYU2pXZVZRQkczcmN3MkZuVDA1c3dmQQ?oc=5",
+      "summary": "アングル：米保守活動家カーク氏暗殺から1年、設立団体拡大も若年層にトランプ離れ&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-11T05:29:00+00:00"
