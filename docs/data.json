@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T13:21:08.238178+00:00",
+  "generated_at": "2026-09-12T13:33:46.231212+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -238,6 +238,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f49dd3767b0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f2070f6a7b0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -589,6 +593,14 @@
       "title": "1AW.DE - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SamMyR3BpU3ozZzFocEltM1FDSThseDlKQXQ3Z2ZEVS1ZaDgwNWdUbzdPa2pIOFJ4VGNzYmZ1TFgxcE8tUGp0aEV5VVJtYVdaZ1BwaGFrXzVwZ0tNeEstZ3ZvQkRIT000dXc?oc=5",
       "summary": "1AW.DE&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-12T06:45:34+00:00"
+    },
+    {
+      "title": "1AW.DE - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SamMyR3BpU3ozZzFocEltM1FDSThseDlKQXQ3Z2ZEVS1ZaDgwNWdUbzdPa2pIOFJ4VGNzYmZ1TFgxcE8tUGp0aEV5VVJtYVdaZ1BwaGFrXzVwZ0tNeEstZ3ZvQkRIT000dXc?oc=5",
+      "summary": "1AW.DE&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-12T06:45:34+00:00"
@@ -1354,6 +1366,14 @@
       "published": "2026-09-11T21:05:32+00:00"
     },
     {
+      "title": "ＮＹ外為市場＝ドル小幅高、米ＣＰＩ受け利上げ観測強まる 円は強含み - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHOFZNNTdMN1gzUHhZMjJKdEdsdHFtR1pwMnl6cG9wSHF4LUhqYnFZMnhCblUxbUJVa01nX3NNbVNWMGliS0hERG52UkxQbkt6SEV5bkVXNlNURFdOZWxmcEljbE9UTktpdi1LUjBnNDdOQjJkWi1UVjYySms?oc=5",
+      "summary": "ＮＹ外為市場＝ドル小幅高、米ＣＰＩ受け利上げ観測強まる 円は強含み&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-11T21:05:32+00:00"
+    },
+    {
       "title": "システムに侵入されても気付けない…さくらインターネットへの不正アクセス｢3年以上前からの可能性が判明｣の重み | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/957684?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "さくらインターネットは､9月10日に不正アクセスに関する第三報を公表しました。外部のサイバーセキュリティ専門機関を交えた調査を終え､新たな事実も見えてきました。",
@@ -1437,6 +1457,14 @@
       "title": "米国株式市場＝反発、ＣＰＩ受け利上げ観測強まる デル最高値 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmFkQUVjMFRIbWZ6NnlPZFZ0UVIwTnV6V2VtWERLU2QwUHhYRENETm5aWG1Pd0FnMDgxYmM1QUlGQkVIOGFkaC1qNmQ2WUNRQ0RwRjVuUHg5R3RuMjdqazZVZ1k5OE50RlczX2lhZWdhV3FvT3lFV2ZETmVQWlkzbXdBVG4?oc=5",
       "summary": "米国株式市場＝反発、ＣＰＩ受け利上げ観測強まる デル最高値&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-11T20:48:56+00:00"
+    },
+    {
+      "title": "米国株式市場＝反発、ＣＰＩ受け利上げ観測強まる デル最高値 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmFkQUVjMFRIbWZ6NnlPZFZ0UVIwTnV6V2VtWERLU2QwUHhYRENETm5aWG1Pd0FnMDgxYmM1QUlGQkVIOGFkaC1qNmQ2WUNRQ0RwRjVuUHg5R3RuMjdqazZVZ1k5OE50RlczX2lhZWdhV3FvT3lFV2ZETmVQWlkzbXdBVG4?oc=5",
+      "summary": "米国株式市場＝反発、ＣＰＩ受け利上げ観測強まる デル最高値&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-11T20:48:56+00:00"
@@ -1720,6 +1748,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-11T18:42:00+00:00"
+    },
+    {
+      "title": "5EY.H - | Stock Price & Latest News - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DSHlPYjk5MEhXSk02T2JWbmNmTWFTOEdmTU5KdWUySEZiU3gxQ1hDRnV4Um9IalRWRHk2a0dqS1kxU1hNcGgza3dpVE9tOFdZUDZiTnVQV3ZxZ0p3by1lRUo5eVNWSzNw?oc=5",
+      "summary": "5EY.H - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-11T18:41:03+00:00"
     },
     {
       "title": "Are AI-written resumes more likely to get you a job? The answer may surprise you.",
@@ -4266,6 +4302,14 @@
       "published": "2026-09-11T03:08:00+00:00"
     },
     {
+      "title": "日銀、政策金利1.25％に引き上げへ 利上げ継続の方針＝関係筋 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrYWpGSDFlUVIxX3JJZ2Itckx1aWhFQVpuWHNDajlUMnpnZmp2ZEF2emNIZTJjTE00STdCMFFKa2RJcllsdzd0Q1d0cVQxcFJ5eHZlQS1sQzh2bFpfOWZWYWNoY3huam5qV1RZdDY3ZF9RWGxoYnV4TXdSbEw?oc=5",
+      "summary": "日銀、政策金利1.25％に引き上げへ 利上げ継続の方針＝関係筋&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-11T03:08:00+00:00"
+    },
+    {
       "title": "PANL.DE - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZFhQeldMenhlVmQ0QmxZdUhQZnZLZ2JfUHhXQXdLUXB5WlFkQUJoeGVpMWlBMG56U1hGbmdQWmFUQ01ic2hCYy05em9RVzg0dnBGR1VLd0dCUE9KcEkwR2RPOEtfQ3U3X2k2bkRDemdnejRvbm4tMGxJNzk0TG1PbEp3?oc=5",
       "summary": "PANL.DE&nbsp;&nbsp;Reuters",
@@ -4853,6 +4897,14 @@
       "title": "日経平均は反落で寄り付く、米株安や原油高が重し 幅広い業種で売り先行 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQemZMVm56QTRnNDdERXF2YmZmd0RJM3NPMVNFdk9aWUpVR1RGVTNkN25lZ2lmWVJIcDhfdnBCNVdlcUF6VXVfRFdZaElHaG5BeUF3UGpUTGxUOFZyZ1BCaVFBZFQ2eVhUU21VU1p6ZXNHWG13eWY3M1hNQkJraFdyVEhwMWk?oc=5",
       "summary": "日経平均は反落で寄り付く、米株安や原油高が重し 幅広い業種で売り先行&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-11T00:12:00+00:00"
+    },
+    {
+      "title": "日経平均は反落で寄り付く、米株安や原油高が重し 幅広い業種で売り先行 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQemZMVm56QTRnNDdERXF2YmZmd0RJM3NPMVNFdk9aWUpVR1RGVTNkN25lZ2lmWVJIcDhfdnBCNVdlcUF6VXVfRFdZaElHaG5BeUF3UGpUTGxUOFZyZ1BCaVFBZFQ2eVhUU21VU1p6ZXNHWG13eWY3M1hNQkJraFdyVEhwMWk?oc=5",
+      "summary": "日経平均は反落で寄り付く、米株安や原油高が重し 幅広い業種で売り先行&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-11T00:12:00+00:00"
@@ -6210,6 +6262,14 @@
       "published": "2026-09-10T17:27:30+00:00"
     },
     {
+      "title": "イラン、地下施設で弾道ミサイル生産再開 既存の部品活用＝報道 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON1owblpIQ0RsUzQ0VUloODFpeUxNckV4clVMaWdIaGtWbTRBbjRXcW1uZTJhMTRpVzhJeFZnaTV4dDc4WVF2T2ZaUXVaZ040UGh4WDJJYmJqaEVoRk5nQ2NzeGp3R2stbG44cEVJQUd1Q3pGMFRUTngtVDFySGt1ekZFWVZ4QQ?oc=5",
+      "summary": "イラン、地下施設で弾道ミサイル生産再開 既存の部品活用＝報道&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T17:27:30+00:00"
+    },
+    {
       "title": "Why $500 checks won’t help Americans facing 15% increases in Obamacare premiums next year",
       "link": "https://www.marketwatch.com/story/why-500-checks-wont-help-americans-facing-15-increases-in-obamacare-premiums-next-year-b8801cc4?mod=mw_rss_topstories",
       "summary": "Rising healthcare costs have been a major issue for lawmakers in recent years.",
@@ -6877,6 +6937,14 @@
       "title": "ＥＣＢ理事会後のラガルド総裁発言要旨 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNWnRKYmdPeVBWNVpuR0YxTFE5TGdmZ0QzYVhQdHYyWGVPWXN4aWw0QUpUTl8yWUlZU1VSSlVMU3F2bTF3WjVPQzNSbXlIY056WGVwM3RQdnlTQ1BZTUd2VUctcmtSWlRJWWp0LXpHMWY3SHFMSzRsNXY0YmQ?oc=5",
       "summary": "ＥＣＢ理事会後のラガルド総裁発言要旨&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-10T14:31:28+00:00"
+    },
+    {
+      "title": "ＥＣＢ理事会後のラガルド総裁発言要旨 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNWnRKYmdPeVBWNVpuR0YxTFE5TGdmZ0QzYVhQdHYyWGVPWXN4aWw0QUpUTl8yWUlZU1VSSlVMU3F2bTF3WjVPQzNSbXlIY056WGVwM3RQdnlTQ1BZTUd2VUctcmtSWlRJWWp0LXpHMWY3SHFMSzRsNXY0YmQ?oc=5",
+      "summary": "ＥＣＢ理事会後のラガルド総裁発言要旨&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-10T14:31:28+00:00"
