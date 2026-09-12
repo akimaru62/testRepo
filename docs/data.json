@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T06:11:52.132271+00:00",
+  "generated_at": "2026-09-12T06:36:20.597704+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -230,6 +230,10 @@
     {
       "url": "https://www.boj.or.jp/rss/whatsnew.xml",
       "error": "HTTPSConnectionPool(host='www.boj.or.jp', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -256,6 +260,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-12T05:23:19.195060+00:00"
+    },
+    {
+      "title": "macOS defaults list: Incomplete list of macOS defaults commands with demos",
+      "link": "https://macos-defaults.com",
+      "summary": "Article URL: https://macos-defaults.com\nComments URL: https://news.ycombinator.com/item?id=49669001\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-12T05:04:03+00:00"
     },
     {
       "title": "OpenAI agents attacked RubyGems back in May",
@@ -285,6 +297,14 @@
       "title": "Clay Mathematics Institute on the Navier-Stokes Problem",
       "link": "https://www.claymath.org/news/navier-stokes-announcement/",
       "summary": "Article URL: https://www.claymath.org/news/navier-stokes-announcement/\nComments URL: https://news.ycombinator.com/item?id=49668706\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-12T04:09:43+00:00"
+    },
+    {
+      "title": "Navier-Stokes Announcement",
+      "link": "https://www.claymath.org/news/navier-stokes-announcement/",
+      "summary": "Article URL: https://www.claymath.org/news/navier-stokes-announcement/\nComments URL: https://news.ycombinator.com/item?id=49668706\nPoints: 72\n# Comments: 29",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-12T04:09:43+00:00"
@@ -357,6 +377,14 @@
       "title": "Google no longer provides direct URLs in search results",
       "link": "https://www.autom.dev/blog/google-search-goto-links",
       "summary": "Article URL: https://www.autom.dev/blog/google-search-goto-links\nComments URL: https://news.ycombinator.com/item?id=49668386\nPoints: 3\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-12T03:14:20+00:00"
+    },
+    {
+      "title": "google.com/goto: Google's anti-scraping update",
+      "link": "https://www.autom.dev/blog/google-search-goto-links",
+      "summary": "Article URL: https://www.autom.dev/blog/google-search-goto-links\nComments URL: https://news.ycombinator.com/item?id=49668386\nPoints: 286\n# Comments: 144",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-12T03:14:20+00:00"
