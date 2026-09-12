@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T22:33:23.220728+00:00",
+  "generated_at": "2026-09-12T22:48:30.476987+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -250,9 +250,29 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fe0d6a46900>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "朝ドラ『まんぷく』出演の元俳優（36）第2の人生は｢果物の営業マン｣…勇気が必要だった30代半ば転職の\"意外な顛末\" | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957479?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "俳優として華やかな舞台に立った西村元貴さんが､30代半ばで新たに選んだのは｢農業の営業職｣。営業未経験から父の農園を支え､地域活性化やインバウンド観光にも挑戦する転身の真意とは？ 意外な経験が生きる…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-12T22:30:00+00:00"
+    },
+    {
+      "title": "｢あなたの性格で芸能界はつらい｣引っ込み思案な36歳･元朝ドラ俳優が｢農業の営業職｣に…\"転職\"を後押しした妻の言葉 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957477?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "30代後半､キャリアに悩む人は少なくありません。NHK朝ドラ俳優として注目された西村元貴さんもその一人。華やかな俳優業から一転､実家の果物を東京で販売する営業職へ――異例の転身の理由と､その裏にあっ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-12T22:30:00+00:00"
+    },
     {
       "title": "陸上大会関係者２８人、食中毒の疑い　弁当原因か―全日本実業団・京都",
       "link": "https://www.jiji.com/jc/article?k=2026091200433&g=soc&m=rss",
