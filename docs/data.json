@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T15:06:34.894839+00:00",
+  "generated_at": "2026-09-12T15:21:20.017106+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -242,9 +242,53 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f2070f6a7b0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fb86a4567b0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "長崎、守備から光明　Ｊリーグ",
+      "link": "https://www.jiji.com/jc/article?k=2026091200501&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-12T15:21:16.293531+00:00"
+    },
+    {
+      "title": "粘り見せた日本ハム　プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026091200508&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-12T15:21:16.293512+00:00"
+    },
+    {
+      "title": "西武、手痛いドロー　逆転優勝遠ざかる―プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026091200506&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-12T15:21:16.293477+00:00"
+    },
+    {
+      "title": "大迫、無難に初先発　Ｊリーグ・広島",
+      "link": "https://www.jiji.com/jc/article?k=2026091200511&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-12T15:21:16.293421+00:00"
+    },
+    {
+      "title": "チーム救った望月　Ｊリーグ・町田",
+      "link": "https://www.jiji.com/jc/article?k=2026091200510&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-12T15:21:16.293380+00:00"
+    },
     {
       "title": "Brics push for Gulf peace as war worries mount",
       "link": "https://www.ft.com/content/f32bef26-d2b8-47a6-b938-3dcd5e870685?syn-25a6b1a6=1",
