@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T04:08:33.120117+00:00",
+  "generated_at": "2026-09-12T04:26:44.941758+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -234,6 +234,38 @@
   ],
   "items": [
     {
+      "title": "十勝岳、警戒レベル３に引き上げ　噴火の恐れ―気象庁",
+      "link": "https://www.jiji.com/jc/article?k=2026091200260&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-12T04:26:40.804102+00:00"
+    },
+    {
+      "title": "We are setting up a generation to fail at school",
+      "link": "https://www.ft.com/content/724f8ecb-1e2b-4c7f-bbb6-14239abd50dd?syn-25a6b1a6=1",
+      "summary": "The disturbing global decline in test results rests on wrong-headed curriculum changes",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-12T04:00:42+00:00"
+    },
+    {
+      "title": "US limits air defence time slots for tankers sailing through Hormuz",
+      "link": "https://www.ft.com/content/d4b4105e-d91f-48bb-820e-64290e916f5e?syn-25a6b1a6=1",
+      "summary": "Shift to two specified times daily follows increase in Iranian attacks",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-12T04:00:22+00:00"
+    },
+    {
+      "title": "EU races to Le Pen-proof its agenda",
+      "link": "https://www.ft.com/content/94c2830e-cbec-43ed-b329-23a79060469a?syn-25a6b1a6=1",
+      "summary": "Diplomats say Paris has urged bloc to agree budget and climate measures before French presidential election in April",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-12T04:00:13+00:00"
+    },
+    {
       "title": "｢パキってないと､嫌なこと考えちゃう｣　17歳が語るオーバードーズの現場　SNS上の隠語で広がる薬の不正流通 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/957355?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "｢嫌なことを考えたくない｣――高校を中退し､生きづらさを抱える17歳の少女が､薬の過剰摂取｢オーバードーズ（OD）｣に手を伸ばす理由とは。SNSやネットで容易に薬が手に入る現状と､拡大する若者の薬物…",
@@ -288,6 +320,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-12T02:42:08+00:00"
+    },
+    {
+      "title": "Ask HN: Did Google kill its enterprise workhorse model?",
+      "link": "https://news.ycombinator.com/item?id=49668196",
+      "summary": "Is anyone else in a panic over the Gemini 2.5 model generation (Pro, Flash) being sunset in October before there's even any Pro class model in general availability (with geo restrictions etc.)?   Google wants everyone to migrate to 3.x Flash, which beats the older Pro models on the benchmarked tasks, but isn't the same thing as the Pro class on reasoning-heavy tasks like complex reasoning on very large documents (my big use case).The Gemini family had a distinct niche in document comprehension, with thousand page input documents taking only 300k tokens.  Nothing quite like that in OpenAI or Anthropic world, even at more than 10x the token adjusted price.  Should we just give up on Google at this point and engineer around the competitors' limits and eat the costs?  Totally unnecessary own goal by team Google.\n\nComments URL: https://news.ycombinator.com/item?id=49668196\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-12T02:41:49+00:00"
     },
     {
       "title": "Google stole open source code without crediting the authors (Artemis/Minitap)",
@@ -736,6 +776,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-11T21:16:00+00:00"
+    },
+    {
+      "title": "北朝鮮、短距離弾道ミサイルを東側海域へ数発発射 250キロ飛行 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPanZGMGtwNFRGcU80b1l0bEhfb0lDcXkzalhvMnptVmk1SVFva1gzQzJmaGk4cGtkY3ZkSGZlcUJKSFJCUl90b25sQ3U0dkx1RXRhdFI0MlFrWEY1WDgwR3VwcHUyU3FoOHJORnpVXzZ3dklkRTVoT2ZKUWc0bnN5Rnp1YTU4LVRlWlE?oc=5",
+      "summary": "北朝鮮、短距離弾道ミサイルを東側海域へ数発発射 250キロ飛行&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-11T21:09:00+00:00"
     },
     {
       "title": "システムに侵入されても気付けない…さくらインターネットへの不正アクセス｢3年以上前からの可能性が判明｣の重み | ビジネス | 東洋経済オンライン",
@@ -1528,6 +1576,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-11T15:36:14+00:00"
+    },
+    {
+      "title": "How both sides lost after 9/11",
+      "link": "https://www.ft.com/content/d7f197dd-a39a-43dc-a2f9-6204c5876e76?syn-25a6b1a6=1",
+      "summary": "America lost wars and Osama bin Laden lost Saudi Arabia",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-11T15:34:39+00:00"
     },
     {
       "title": "Rune is now open source",
