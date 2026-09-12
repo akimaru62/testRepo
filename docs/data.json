@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T12:48:40.474704+00:00",
+  "generated_at": "2026-09-12T13:06:24.860284+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -242,6 +242,22 @@
   ],
   "items": [
     {
+      "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
+      "link": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
+      "summary": "In August, consumer prices rose 3.4% over the past year while wages increased just 3.1%.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-09-12T12:49:15+00:00"
+    },
+    {
+      "title": "Trump says united Ireland ‘inevitable’ and ‘a very cool thing’",
+      "link": "https://www.ft.com/content/70bd4f6c-a5f4-4e59-b773-614f0a5efd58?syn-25a6b1a6=1",
+      "summary": "Off-the-cuff remarks from US president during a visit to Ireland anger pro-UK parties",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-12T12:40:45+00:00"
+    },
+    {
       "title": "日本、韓国下し決勝進出　バレーボール男子",
       "link": "https://www.jiji.com/jc/article?k=2026091200402&g=spo&m=rss",
       "summary": "",
@@ -264,6 +280,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-12T12:30:42.024485+00:00"
+    },
+    {
+      "title": "Show HN: Liniora – Ever thought about replacing your project manager?",
+      "link": "https://liniora.com",
+      "summary": "Hi HN, the title could be a little bit aggressive sorry for that... Basically i am Computer engineer graduated recently but i was and still working remotely for approx. 3 years with the same foreign company in EU. and i noticed that we are always somehow lose the context of a ticket -- even though we are using the popular project management systems -- so i decided why not build something that can fix our context loosing problems and with some improvements. here i created Liniora. an AI powered project management system. basically the core idea is to link the tools that we use to gather information about tickets in one place. i integrated Google meet for the meetings transcripts so you do your meeting it automatically got registered and indexed. You discuss about a bug in Slack thread so you mention @Liniora app and it will handle the bug context and create a ticket for you. We have the version control also connected so you create a ticket with ability of creating a separate branch with one-click for both Gitlab and Github. you have as well the Pull request controlled in our place inside the app. lets suppose you have a ticket and you created a branch called 'USER-325-create-login-form' then you merged to staging or production ? it will be automatically flagged with staging/production badge so you know what tickets are done. there are a lot of interesting features i wanted to describe but i will just let you guys discover and i will be very happy about your feedback. Thanks\n\nComments URL: https://news.ycombinator.com/item?id=49671542\nPoints: 5\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-12T12:15:12+00:00"
     },
     {
       "title": "「時給100円」ブラックインターン",
@@ -4184,6 +4208,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-11T03:10:00+00:00"
+    },
+    {
+      "title": "日銀、政策金利1.25％に引き上げへ 利上げ継続の方針＝関係筋 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrYWpGSDFlUVIxX3JJZ2Itckx1aWhFQVpuWHNDajlUMnpnZmp2ZEF2emNIZTJjTE00STdCMFFKa2RJcllsdzd0Q1d0cVQxcFJ5eHZlQS1sQzh2bFpfOWZWYWNoY3huam5qV1RZdDY3ZF9RWGxoYnV4TXdSbEw?oc=5",
+      "summary": "日銀、政策金利1.25％に引き上げへ 利上げ継続の方針＝関係筋&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-11T03:08:00+00:00"
     },
     {
       "title": "PANL.DE - Reuters",
