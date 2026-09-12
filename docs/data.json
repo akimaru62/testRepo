@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T16:47:43.933087+00:00",
+  "generated_at": "2026-09-12T17:05:44.175889+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -254,12 +254,28 @@
   ],
   "items": [
     {
+      "title": "Make Your First Edit to OpenStreetMap in the Next 15 Minutes",
+      "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
+      "summary": "Article URL: https://high5apps.github.io/josm-plugin-website-wizard/\nComments URL: https://news.ycombinator.com/item?id=49674050\nPoints: 18\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-12T16:25:08+00:00"
+    },
+    {
       "title": "India’s central bank tells Tata Sons to take conglomerate public",
       "link": "https://www.ft.com/content/6a173e7c-cfe8-4ab8-8c8f-b90871cc907e?syn-25a6b1a6=1",
       "summary": "RBI rejects group’s appeal against forced listing, setting the stage for what could become India’s biggest IPO",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-12T16:20:04+00:00"
+    },
+    {
+      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+      "link": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+      "summary": "Article URL: https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html\nComments URL: https://news.ycombinator.com/item?id=49673580\nPoints: 11\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-12T15:49:52+00:00"
     },
     {
       "title": "LG responds to TV spying allegations",
@@ -340,6 +356,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-12T14:34:25+00:00"
+    },
+    {
+      "title": "I refuse to let SPICE die",
+      "link": "https://github.com/nefarius/vd_agent/",
+      "summary": "Article URL: https://github.com/nefarius/vd_agent/\nComments URL: https://news.ycombinator.com/item?id=49672641\nPoints: 13\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-12T14:25:07+00:00"
     },
     {
       "title": "米利上げ観測強まる　３年ぶり、物価安定を優先―１５、１６日に金融政策会合",
@@ -460,6 +484,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-09-12T13:09:47+00:00"
+    },
+    {
+      "title": "A Few Good Ideas in Programming Languages",
+      "link": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
+      "summary": "Article URL: https://prydt.xyz/blog/a-few-good-ideas-in-pl/\nComments URL: https://news.ycombinator.com/item?id=49671972\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-12T13:07:52+00:00"
     },
     {
       "title": "対米投資第3弾 次世代原発が有力",
