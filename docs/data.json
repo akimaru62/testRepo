@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T02:32:27.413041+00:00",
+  "generated_at": "2026-09-12T02:50:08.207299+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -226,6 +226,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fa09fbea120>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://www.boj.or.jp/rss/whatsnew.xml",
+      "error": "HTTPSConnectionPool(host='www.boj.or.jp', port=443): Read timed out. (read timeout=15)"
     }
   ],
   "items": [
@@ -9372,6 +9376,14 @@
       "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-09-09T22:45:00+00:00"
+    },
+    {
+      "title": "米ＥＩＡ、原油価格見通し引き上げ イラン戦争で世界在庫が急減 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iakhVVkJWWFcyVTRuTWNub3VVUnZSN08ycEdKcDdQd0tvUWRKS3RuSTRfWkhhdkQ0RngxMHJ5NXo5eGlEeDNyRHhIQ2F3MXNLNlhGR0NzNTdnclBJZUhUQTNhclN2S0pjd1M1X1hOd1puNmdtbTdoN29VTEI1Zw?oc=5",
+      "summary": "米ＥＩＡ、原油価格見通し引き上げ イラン戦争で世界在庫が急減&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-09T22:38:09+00:00"
     },
     {
       "title": "タワマン宅配 駐車場不足嘆く業者",
