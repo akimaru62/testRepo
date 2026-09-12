@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T14:33:51.688114+00:00",
+  "generated_at": "2026-09-12T14:47:41.049776+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -246,6 +246,14 @@
   ],
   "items": [
     {
+      "title": "Brics push for Gulf peace as war worries mount",
+      "link": "https://www.ft.com/content/f32bef26-d2b8-47a6-b938-3dcd5e870685?syn-25a6b1a6=1",
+      "summary": "India-China rapprochement faces obstacles over economic and geopolitical rivalry",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-12T14:34:25+00:00"
+    },
+    {
       "title": "米利上げ観測強まる　３年ぶり、物価安定を優先―１５、１６日に金融政策会合",
       "link": "https://www.jiji.com/jc/article?k=2026091200294&g=int&m=rss",
       "summary": "",
@@ -262,12 +270,28 @@
       "published": "2026-09-12T14:21:48.376158+00:00"
     },
     {
+      "title": "Waymo pulls over, calls cops on juvenile riders who had 'ghost gun\"",
+      "link": "https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun",
+      "summary": "Article URL: https://www.latimes.com/california/story/2026-09-12/juveniles-riding-in-waymo-arrested-after-police-find-ghost-gun\nComments URL: https://news.ycombinator.com/item?id=49672549\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-12T14:16:24+00:00"
+    },
+    {
       "title": "We Must Pace the Frontier",
       "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
       "summary": "Article URL: https://darioamodei.com/post/we-must-pace-the-frontier\nComments URL: https://news.ycombinator.com/item?id=49672510\nPoints: 18\n# Comments: 6",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-12T14:10:49+00:00"
+    },
+    {
+      "title": "Compiler Can Undo Your Security Checks",
+      "link": "https://davidbombal.com/your-compiler-can-undo-your-security-checks/",
+      "summary": "Article URL: https://davidbombal.com/your-compiler-can-undo-your-security-checks/\nComments URL: https://news.ycombinator.com/item?id=49672474\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-12T14:07:58+00:00"
     },
     {
       "title": "A Mathematical Framework for Transformer Circuits (2021)",
@@ -692,6 +716,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-12T05:49:10+00:00"
+    },
+    {
+      "title": "トランプ氏、中国車の米国生産「構わない」 雇用が重要と指摘 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EMUhRYzRqcTZsb2RpZFVES2s5RzVTNi00MlRNbjdzT0c4aDcxdzNRVTlwSktXOUItU1dRXzNwZS1XNXVnRWxmYWFGM0tYUWVMS2c3NVliaFpsa1V2cEVrMTU1eUUteGplXzNOelZnZWNlNG5HVW1yRFVJTnE?oc=5",
+      "summary": "トランプ氏、中国車の米国生産「構わない」 雇用が重要と指摘&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-12T05:42:00+00:00"
     },
     {
       "title": "ＳＮＳ依存性高める機能に規制　１６歳未満の子供保護―米カリフォルニア州",
