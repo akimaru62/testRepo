@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T11:19:50.812555+00:00",
+  "generated_at": "2026-09-12T11:33:45.354217+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -234,6 +234,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f49dd3767b0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -380,6 +384,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-12T07:54:03+00:00"
+    },
+    {
+      "title": "JMT1.H - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdHAyYWEzRV9xT1VHZ1I2ZmM2cWV2X0VDeTdlT1lTZlZYUHRBbmltQi1LS2pqODVUUTVxSUVURW13YmVycEllZ2FlbDQ0NnNwcGJtdGNzMGcxN3RmSjVPOURwV19vSDhvYm9nbFBDclJzcnZMN0JLakZmOHdxbDNMdnZn?oc=5",
+      "summary": "JMT1.H&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-12T07:46:49+00:00"
     },
     {
       "title": "政府、十勝岳の噴火警戒で連絡室",
