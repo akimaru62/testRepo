@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T07:47:35.387321+00:00",
+  "generated_at": "2026-09-12T08:09:17.707094+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -237,6 +237,22 @@
     }
   ],
   "items": [
+    {
+      "title": "「VAIO T」発表 再挑戦する理由",
+      "link": "https://news.yahoo.co.jp/pickup/6595069?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-12T07:58:49+00:00"
+    },
+    {
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "link": "https://eiln.github.io/posts/ane.html",
+      "summary": "Article URL: https://eiln.github.io/posts/ane.html\nComments URL: https://news.ycombinator.com/item?id=49670032\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-12T07:54:03+00:00"
+    },
     {
       "title": "政府、十勝岳の噴火警戒で連絡室",
       "link": "https://www.jiji.com/jc/article?k=2026091200295&g=soc&m=rss",
@@ -908,6 +924,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-11T21:19:00+00:00"
+    },
+    {
+      "title": "Another way to leak traffic on Android has been discovered",
+      "link": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered",
+      "summary": "Article URL: https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered\nComments URL: https://news.ycombinator.com/item?id=49665502\nPoints: 47\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-11T21:16:48+00:00"
     },
     {
       "title": "Marvell is sitting on an incredibly ‘sticky’ business that could help it unlock a $30 billion opportunity",
