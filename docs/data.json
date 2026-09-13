@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T15:47:50.303954+00:00",
+  "generated_at": "2026-09-13T16:07:15.709703+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -266,6 +266,30 @@
   ],
   "items": [
     {
+      "title": "沖縄知事、古謝氏が当選　辺野古容認、１２年ぶり自民奪還",
+      "link": "https://www.jiji.com/jc/article?k=2026091300354&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-13T16:07:10.411861+00:00"
+    },
+    {
+      "title": "Donald Trump rejects calls from tech bosses for an AI slowdown",
+      "link": "https://www.ft.com/content/cae60732-f929-4735-a627-db8c14e7c7ed?syn-25a6b1a6=1",
+      "summary": "President denounces demands for regulation as existential fears over technology move to the centre of US politics",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-13T15:42:41+00:00"
+    },
+    {
+      "title": "Libraries Run Rust Inside Python (With PyO3)",
+      "link": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
+      "summary": "Article URL: https://belderbos.dev/blog/how-libraries-run-rust-inside-python/\nComments URL: https://news.ycombinator.com/item?id=49685037\nPoints: 5\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-13T15:24:05+00:00"
+    },
+    {
       "title": "日本、ロス五輪切符　３大会連続出場―バレーボール男子",
       "link": "https://www.jiji.com/jc/article?k=2026091300391&g=spo&m=rss",
       "summary": "",
@@ -304,6 +328,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-13T15:21:11.848615+00:00"
+    },
+    {
+      "title": "Predictive intelligence to anticipate anything.",
+      "link": "https://prior.chat/",
+      "summary": "Article URL: https://prior.chat/\nComments URL: https://news.ycombinator.com/item?id=49684879\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-13T15:11:22+00:00"
     },
     {
       "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
@@ -352,6 +384,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-13T14:15:40+00:00"
+    },
+    {
+      "title": "Making Startups Powerful",
+      "link": "https://paulgraham.com/powerful.html",
+      "summary": "Article URL: https://paulgraham.com/powerful.html\nComments URL: https://news.ycombinator.com/item?id=49684196\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-13T14:09:53+00:00"
     },
     {
       "title": "Key symbols we lost to time, pt. 1: The PC side",
@@ -730,12 +770,28 @@
       "published": "2026-09-13T09:34:51+00:00"
     },
     {
+      "title": "EMmrt.CHI - | Stock Price & Latest News | Reuters - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yS1lJNFE4VU1SNmNLRUxGVktGSkFQbzlIXzdiazZXc05raVE5OUZGaFZXLWRnVTNGOWN4OWRsVFQ0TzhuaDl4d05scE4zY3V1c2pBdUxYTjEwbUpxTTBxLQ?oc=5",
+      "summary": "EMmrt.CHI - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-13T09:32:55+00:00"
+    },
+    {
       "title": "2919.HK - | Stock Price & Latest News | Reuters - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1Sl9Hdlh2Z09xUVVrOERrUWJLWjNRVy0wZ01qNmh5NE0wR3d5bXNGQTdvbVFTODlRRE5yZW91NVdyeldBWHFSdnAxQmNkQi1sUWIyMWdMUTdoRzc1Y0E?oc=5",
       "summary": "2919.HK - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-13T09:09:56+00:00"
+    },
+    {
+      "title": "LTMCm.CHI - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIcHh3TUVTOEQ1UTloV0tOTTEyeFEtZ3J0dlJwN1dXRVlRSDlWcDlXUU5xWUN1RENVMWpxY2FmUDNWYU5Zby1odHRhWW55Z2xpMHZKWGdQWnp6cTZzVi0wT1JLTDVXU3g4dWJyQlR3?oc=5",
+      "summary": "LTMCm.CHI&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-13T09:09:15+00:00"
     },
     {
       "title": "Norton Neo Browser",
@@ -2266,6 +2322,14 @@
       "published": "2026-09-12T16:23:49+00:00"
     },
     {
+      "title": "CIRSA.MC1 - | Stock Price & Latest News | Reuters - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54TksteDd5dnhXWjlnMWpNdXZQVGxWQlNBRG9ZYlBQaUM2aHVfS0EySlhkWnY2V25aekFrVThZRjdJZGkzWU8yeVZzTUdLeHNtb1hmTlJoSWtyaHp0bTBSVQ?oc=5",
+      "summary": "CIRSA.MC1 - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-12T16:23:49+00:00"
+    },
+    {
       "title": "India’s central bank tells Tata Sons to take conglomerate public",
       "link": "https://www.ft.com/content/6a173e7c-cfe8-4ab8-8c8f-b90871cc907e?syn-25a6b1a6=1",
       "summary": "RBI rejects group’s appeal against forced listing, setting the stage for what could become India’s biggest IPO",
@@ -2277,6 +2341,14 @@
       "title": "CIRSAmc.TRE - | Stock Price & Latest News | Reuters - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xMGIwaHA0UnFZX2gyS0NCejYzc2dQaWxZVTFrU01BRkN0N0NOekxWR2lhMlVxSnF1bFFqY29WYWlRdktnbXg3S0p3MjhvbGRMT0szUE5YUDZmQ09rMUI5aWlMZw?oc=5",
       "summary": "CIRSAmc.TRE - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-12T16:16:41+00:00"
+    },
+    {
+      "title": "CIRSAmc.TRE - | Stock Price & Latest News | Reuters - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xMGIwaHA0UnFZX2gyS0NCejYzc2dQaWxZVTFrU01BRkN0N0NOekxWR2lhMlVxSnF1bFFqY29WYWlRdktnbXg3S0p3MjhvbGRMT0szUE5YUDZmQ09rMUI5aWlMZw?oc=5",
+      "summary": "CIRSAmc.TRE - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-12T16:16:41+00:00"
