@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T13:21:18.120667+00:00",
+  "generated_at": "2026-09-13T13:33:26.219023+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1300,6 +1300,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-12T23:44:44+00:00"
+    },
+    {
+      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
+      "link": "https://github.com/FeralFirmware/TailTalk/",
+      "summary": "Article URL: https://github.com/FeralFirmware/TailTalk/\nComments URL: https://news.ycombinator.com/item?id=49678423\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-12T23:43:31+00:00"
     },
     {
       "title": "新車はハイブリッドばかり…なぜ純ガソリン車は次々と廃止されるのか？ その裏にある｢2030年問題｣とメーカーの思惑 | ビジネス | 東洋経済オンライン",
