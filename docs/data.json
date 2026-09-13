@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T23:21:04.376035+00:00",
+  "generated_at": "2026-09-13T23:33:30.367235+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -262,9 +262,21 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fbb9577a900>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "84歳の医師は今も現役､それでも人生には必ずエンディングが…老いも病気も受け入れてたどり着いた\"人生のしまい方\" | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957238?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "84歳現役医師として今も診療に励む天野恵子さんが実践する､老年期を｢人生の黄金期｣と捉える生き方。自分らしく日々を重ねる｢人生のしまい方｣を探ります。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-13T23:30:00+00:00"
+    },
     {
       "title": "Due to concerns about malicious applications, GPT2 will not be released (2019)",
       "link": "https://openai.com/index/better-language-models/",
