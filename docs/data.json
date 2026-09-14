@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T13:26:44.877860+00:00",
+  "generated_at": "2026-09-14T13:39:27.382410+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -282,6 +282,22 @@
   ],
   "items": [
     {
+      "title": "U.S. Natural Gas Futures Start Week With Gains",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-start-week-with-gains-fe358fb7?mod=rss_markets_main",
+      "summary": "U.S. natural gas futures gained ground as weekend weather forecasts showed summer heat lasting a little longer.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-14T13:35:00+00:00"
+    },
+    {
+      "title": "US tech stocks fall after big AI groups call for slowdown",
+      "link": "https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1",
+      "summary": "Memory-chip makers and Nvidia slide at the start of trading in New York",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-14T13:33:12+00:00"
+    },
+    {
       "title": "フーシ派、サウジ軍基地を攻撃　空爆に対抗と主張―イエメン",
       "link": "https://www.jiji.com/jc/article?k=2026091401025&g=int&m=rss",
       "summary": "",
@@ -320,6 +336,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-14T13:20:00+00:00"
+    },
+    {
+      "title": "Volkswagen Just Built an EV That Can Go Nearly 900 Miles on a Charge",
+      "link": "https://www.motor1.com/news/808114/vw-mission-efficiency-concept-specs-photos/",
+      "summary": "Article URL: https://www.motor1.com/news/808114/vw-mission-efficiency-concept-specs-photos/\nComments URL: https://news.ycombinator.com/item?id=49696313\nPoints: 12\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T13:15:05+00:00"
     },
     {
       "title": "Dell’s DFO-Led Consortium Taking Baldwin Group Private for Enterprise Value of $7.7 Billion",
@@ -698,6 +722,14 @@
       "published": "2026-09-14T10:35:00+00:00"
     },
     {
+      "title": "Big AI sets out its terms for regulatory capture",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067\nComments URL: https://news.ycombinator.com/item?id=49694596\nPoints: 26\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T10:28:28+00:00"
+    },
+    {
       "title": "セリーヌ・ディオンさん、パリで感動の復帰ライブ ６年ぶりの公演",
       "link": "https://www.jiji.com/jc/article?k=20260914049351a&g=afp&m=rss",
       "summary": "",
@@ -728,6 +760,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-14T10:25:52.221698+00:00"
+    },
+    {
+      "title": "ZUCmrt.CHI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLaGY2d1kwYjg4S2ZYWHRaVll2VnB1U01CeTRMRjNBcmZSa1h3ZEw3YkNNT2hnUW1OcGcwelJ6RGRxVkxPMHpLWVZKcWxLYzB4WVRKNVo4cUpiZTBrZGJ4LVIwX251dUMyb3hORTQ5QQ?oc=5",
+      "summary": "ZUCmrt.CHI&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-14T10:05:59+00:00"
     },
     {
       "title": "Show HN: ChaosTree – A zero-dependency Java tree library (AVL,RBT,B-Tree,B+Tree)",
@@ -792,6 +832,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-14T09:45:00+00:00"
+    },
+    {
+      "title": "RPC.A - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQjRzMXdLcGFrLXJKSTBOMWtDVzA0TS11Z2l0MXBzekszT3pTc0ZnOWxxUnZUNUs3bVNrVGw0djRlbDBkeEowLWZNN0xmeXlIbnhScnJyU1NzSm4zengwcUxjOHpQbi10MHVRYkNoU3NocWtMOTE2SERjbzhhVl91NkZSTQ?oc=5",
+      "summary": "RPC.A - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-14T09:40:59+00:00"
     },
     {
       "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
@@ -931,6 +979,14 @@
     },
     {
       "title": "Stock Market Today: Nasdaq Futures Drop, Oil Climbs",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026?mod=rss_markets_main",
+      "summary": "Talk of a safety-first AI slowdown weighs on tech stocks",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-14T08:44:44+00:00"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Drops, Oil Climbs",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026?mod=rss_markets_main",
       "summary": "Talk of a safety-first AI slowdown weighs on tech stocks",
       "source": "WSJ マーケット",
@@ -1298,6 +1354,14 @@
       "published": "2026-09-14T06:09:19+00:00"
     },
     {
+      "title": "IRCmrt.CHI - | Stock Price & Latest News | Reuters - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tUHV0YTFCOFpyZFVCX3BONzdqcXBsTTZFWnZEWkJ1S2FqTDlkN2xWQVhFajZfS280cW1hbGpURnZPMDJQdTJYZkxjSlhCM1RETVBnZ0pxVXZlYVRrbVRoVVZB?oc=5",
+      "summary": "IRCmrt.CHI - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-14T06:08:33+00:00"
+    },
+    {
       "title": "3283.JNF - | Stock Price & Latest News | Reuters - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02eVExUGplUExCX1BsNHpveHlDeDV1UmIxM0JpVWJfdVh4aG1LVmFmSmFuV3RlNDZLUW90Z2JBVmw2SWJqYWJHZmUtR2JaMXNVRHFINXZ1S2dVcmVUZHBV?oc=5",
       "summary": "3283.JNF - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
@@ -1552,6 +1616,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-14T04:39:29+00:00"
+    },
+    {
+      "title": "LTMGF.PK - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Sak1ybHVaSEF4Nk8ydGtqTW1UVlVwQ0ZCa2lUX2x3RVNEb0M5LTVnMHpPRUdaOXFCOGV5UDh3NXhrWUZocEkwNDBSblc4eDlMeE5LSG05WVoxUmJLdXhTVG1DaFlHYnhCZW5LTQ?oc=5",
+      "summary": "LTMGF.PK&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-14T04:37:55+00:00"
     },
     {
       "title": "原油価格、供給バッファー枯渇でさらに上昇の可能性＝シェブロンＣＥＯ - Reuters",
