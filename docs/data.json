@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T16:37:38.709641+00:00",
+  "generated_at": "2026-09-14T16:48:30.724835+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -282,12 +282,44 @@
   ],
   "items": [
     {
+      "title": "Why don't machine learning research agents overfit?",
+      "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+      "summary": "Article URL: https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit\nComments URL: https://news.ycombinator.com/item?id=49699648\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T16:32:23+00:00"
+    },
+    {
       "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
       "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
       "summary": "“I invested on the recommendation of an executive vice president of a major New York investment bank.”",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-14T16:30:00+00:00"
+    },
+    {
+      "title": "When LLM judges agree, should we believe them?",
+      "link": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
+      "summary": "Article URL: https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them\nComments URL: https://news.ycombinator.com/item?id=49699590\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T16:29:30+00:00"
+    },
+    {
+      "title": "I stress-tested Meta Muse until its agent control plane started timing out",
+      "link": "https://blog.cygankiewicz.com/en/meta-muse-black-box-testing/",
+      "summary": "Article URL: https://blog.cygankiewicz.com/en/meta-muse-black-box-testing/\nComments URL: https://news.ycombinator.com/item?id=49699527\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T16:26:07+00:00"
+    },
+    {
+      "title": "Hacking AI customer service agents",
+      "link": "https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents",
+      "summary": "Article URL: https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents\nComments URL: https://news.ycombinator.com/item?id=49699526\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T16:26:03+00:00"
     },
     {
       "title": "自治政府発足へ初の議会選　ミンダナオ和平節目に―フィリピン南部",
@@ -304,6 +336,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-14T16:21:00+00:00"
+    },
+    {
+      "title": "France in ‘astonishing’ push to lift EU sanctions on Russian oligarch",
+      "link": "https://www.ft.com/content/b01682ae-1d49-46bb-b23a-d6212574214d?syn-25a6b1a6=1",
+      "summary": "Paris replicates Viktor Orbán’s tactics in bid to free French nationals from Azerbaijan",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-14T16:19:28+00:00"
     },
     {
       "title": "MIT creates method to force AI to comply with safety rules",
@@ -338,6 +378,14 @@
       "published": "2026-09-14T16:09:45+00:00"
     },
     {
+      "title": "Show HN: Neobrutalism.dev – just added Base UI support and added new color theme",
+      "link": "https://www.neobrutalism.dev/",
+      "summary": "Article URL: https://www.neobrutalism.dev/\nComments URL: https://news.ycombinator.com/item?id=49699159\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T16:02:02+00:00"
+    },
+    {
       "title": "Distributed Systems Classics",
       "link": "https://nvartolomei.com/dist-sys-classics/",
       "summary": "Article URL: https://nvartolomei.com/dist-sys-classics/\nComments URL: https://news.ycombinator.com/item?id=49699158\nPoints: 7\n# Comments: 0",
@@ -346,12 +394,44 @@
       "published": "2026-09-14T16:02:01+00:00"
     },
     {
+      "title": "The Tudor Kings",
+      "link": "https://analog-antiquarian.net/2026/09/11/the-tudor-kings/",
+      "summary": "Article URL: https://analog-antiquarian.net/2026/09/11/the-tudor-kings/\nComments URL: https://news.ycombinator.com/item?id=49699145\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T16:00:56+00:00"
+    },
+    {
+      "title": "Truncated SVD",
+      "link": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
+      "summary": "Article URL: https://brashandplucky.com/2023/09/09/truncated-svd.html\nComments URL: https://news.ycombinator.com/item?id=49699134\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T16:00:33+00:00"
+    },
+    {
+      "title": "Show HN: Fly.exe – An EON systems like virtual fruit fly uploaded to computer",
+      "link": "https://github.com/Ibtisam-Mohammad/Fly.exe",
+      "summary": "Article URL: https://github.com/Ibtisam-Mohammad/Fly.exe\nComments URL: https://news.ycombinator.com/item?id=49699075\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T15:56:39+00:00"
+    },
+    {
       "title": "AWS Weekly Roundup: OpenAI GPT-6 Astra on Amazon Bedrock, Amazon Quick desktop GA, Kiro for students, and more (September 14, 2026)",
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-gpt-6-astra-on-amazon-bedrock-amazon-quick-desktop-ga-kiro-for-students-and-more-september-14-2026/",
       "summary": "There’s a particular energy to mid-September in New York. Pumpkin spice lattes are flowing, temperatures are dropping, and it’s nearly sweater weather. The city is back at full speed, and so is the AWS launch calendar. This week that energy showed up in a new frontier model on Amazon Bedrock, a desktop app for Amazon […]",
       "source": "AWS ブログ (AWS)",
       "category": "テクノロジー",
       "published": "2026-09-14T15:56:33+00:00"
+    },
+    {
+      "title": "ProGantt: Gantt charts your AI agent can read and write via MCP",
+      "link": "https://progantt.com",
+      "summary": "Article URL: https://progantt.com\nComments URL: https://news.ycombinator.com/item?id=49698952\nPoints: 3\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T15:48:32+00:00"
     },
     {
       "title": "10-year Treasury yield briefly tops 5%, hitting its highest level since 2007 as bond-market selloff deepens",
@@ -584,6 +664,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-14T14:09:10+00:00"
+    },
+    {
+      "title": "IRCmrt.CHI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeVhycml1Qm1QZFRTalk1M0o4YTcxSFlPT09RUXJWZ0w4OGlfTjJUQW1CTzlxSk9QWnpnMXBpZkNmRjhkeGlkOTNYcHE4dU9YRjFYVFp3NVU2R2Y5TjcycHEtQk5lc09Hc1FONURoRW9zcDJ5SzBGN1VMVmZuMXpZT1p6RU9qZEk?oc=5",
+      "summary": "IRCmrt.CHI&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-14T14:07:06+00:00"
     },
     {
       "title": "Novo Nordisk is changing its name and its culture to try to compete in the GLP-1 diet-drug wars",
@@ -2952,6 +3040,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-14T00:49:00+00:00"
+    },
+    {
+      "title": "アングル：フーシ派勢力拡大で湾岸諸国に試練、イランとの対話か対立継続か - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aZHo0WTJzVlhvaTZvQmtlelVVcmVYcWl5QlAwd2VfQWhlUlpkZ0NNNzg5ZlllMTc0RmV5eFVycFYyU0ZETzdXTEl2NXlOX0RTVTdsTVVrckpYYWhMeDZwLWZBdmFoeHpfMERFbmdjRHpfeUgtWWV3R25JSzI?oc=5",
+      "summary": "アングル：フーシ派勢力拡大で湾岸諸国に試練、イランとの対話か対立継続か&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-14T00:47:00+00:00"
     },
     {
       "title": "Michael Dell’s family office leads $7.7bn deal to take insurance broker private",
