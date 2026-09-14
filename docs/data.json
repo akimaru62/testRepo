@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T17:21:15.086216+00:00",
+  "generated_at": "2026-09-14T17:33:44.632076+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -282,12 +282,60 @@
   ],
   "items": [
     {
+      "title": "Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike",
+      "link": "https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html",
+      "summary": "With inflation above target and no visibility on lower oil prices or stability of tariffs, the Fed chairman needs to pass the test that has faced his predecessors",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-09-14T17:26:21+00:00"
+    },
+    {
+      "title": "There’s every reason to slow AI development. But here’s why it probably won’t happen.",
+      "link": "https://www.marketwatch.com/story/theres-every-reason-to-slow-ai-development-but-heres-why-it-probably-wont-happen-80be6ad6?mod=mw_rss_topstories",
+      "summary": "The risks of disaster are real. But who wants to give up those massive stock valuations?",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-14T17:22:00+00:00"
+    },
+    {
+      "title": "Trump claims Russia and Ukraine have agreed energy truce",
+      "link": "https://www.ft.com/content/d6f98d2e-9f0c-4414-a339-fe8462810276?syn-25a6b1a6=1",
+      "summary": "Kyiv was caught off guard by the US president’s announcement after previous attempts to halt strikes on power plants and refineries failed",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-14T17:18:42+00:00"
+    },
+    {
+      "title": "Pion, an agent designed to run any company autonomously",
+      "link": "https://andonlabs.com/blog/why-we-built-pion",
+      "summary": "Article URL: https://andonlabs.com/blog/why-we-built-pion\nComments URL: https://news.ycombinator.com/item?id=49700477\nPoints: 11\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T17:16:06+00:00"
+    },
+    {
       "title": "Stocks making the biggest moves midday: Zscaler, CrowdStrike, Marvell Technology, Rum Group & more",
       "link": "https://www.cnbc.com/2026/09/14/stocks-making-the-biggest-moves-midday-zs-crwd-mrvl-rum.html",
       "summary": "These are some of the stocks posting the largest moves midday.",
       "source": "CNBC",
       "category": "海外金融",
       "published": "2026-09-14T17:07:37+00:00"
+    },
+    {
+      "title": "It's a Scam",
+      "link": "https://nice-marmot.net/Archives/2026/September_2026.html#note_3792",
+      "summary": "Article URL: https://nice-marmot.net/Archives/2026/September_2026.html#note_3792\nComments URL: https://news.ycombinator.com/item?id=49700299\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T17:04:45+00:00"
+    },
+    {
+      "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
+      "link": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+      "summary": "Article URL: https://blog.cloudflare.com/automatic-key-exchange-for-origins/\nComments URL: https://news.ycombinator.com/item?id=49700255\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T17:02:34+00:00"
     },
     {
       "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
