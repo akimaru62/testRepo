@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T17:06:17.103951+00:00",
+  "generated_at": "2026-09-14T17:21:15.086216+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -282,6 +282,22 @@
   ],
   "items": [
     {
+      "title": "Stocks making the biggest moves midday: Zscaler, CrowdStrike, Marvell Technology, Rum Group & more",
+      "link": "https://www.cnbc.com/2026/09/14/stocks-making-the-biggest-moves-midday-zs-crwd-mrvl-rum.html",
+      "summary": "These are some of the stocks posting the largest moves midday.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-09-14T17:07:37+00:00"
+    },
+    {
+      "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
+      "link": "https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead",
+      "summary": "Article URL: https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead\nComments URL: https://news.ycombinator.com/item?id=49700218\nPoints: 0\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T17:00:53+00:00"
+    },
+    {
       "title": "Fitting Neural Textures and PBR Material Maps with ES (No Backprop)",
       "link": "http://richg42.blogspot.com/2026/09/fitting-neural-texture-and-pbr-material.html",
       "summary": "Article URL: http://richg42.blogspot.com/2026/09/fitting-neural-texture-and-pbr-material.html\nComments URL: https://news.ycombinator.com/item?id=49699696\nPoints: 3\n# Comments: 0",
@@ -405,6 +421,14 @@
       "title": "Show HN: Neobrutalism.dev – just added Base UI support and added new color theme",
       "link": "https://www.neobrutalism.dev/",
       "summary": "Article URL: https://www.neobrutalism.dev/\nComments URL: https://news.ycombinator.com/item?id=49699159\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T16:02:02+00:00"
+    },
+    {
+      "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
+      "link": "https://www.neobrutalism.dev/",
+      "summary": "Article URL: https://www.neobrutalism.dev/\nComments URL: https://news.ycombinator.com/item?id=49699159\nPoints: 21\n# Comments: 5",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-14T16:02:02+00:00"
@@ -552,6 +576,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-14T15:21:00+00:00"
+    },
+    {
+      "title": "Transitions.dev: UI transitions for AI agents",
+      "link": "https://transitions.dev/",
+      "summary": "Article URL: https://transitions.dev/\nComments URL: https://news.ycombinator.com/item?id=49698443\nPoints: 9\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T15:18:58+00:00"
     },
     {
       "title": "Opinion | A Flawed Model That Burdens Small Banks",
@@ -845,6 +877,14 @@
       "title": "Show HN: Pelican-bicycle alternatives (updated for 2026)",
       "link": "https://gally.net/temp/20260914pelican-alternatives/index.html",
       "summary": "In November and December 2025, inspired by Simon Willison’s pelican-riding-a-bicycle benchmark, I had some then-current LLMs create SVGs from thirty similar prompts, such as “Generate an SVG of an octopus operating a pipe organ.” Simon mentioned that experiment on his blog [1].Nine months have passed and much stronger models have been released, so I tried the experiment again today. The linked site shows the results.Running ten of the prompts through six models at OpenRouter cost about twenty dollars, so I stopped there for now.[1] https://simonwillison.net/2025/Nov/25/\n\nComments URL: https://news.ycombinator.com/item?id=49696402\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T13:20:22+00:00"
+    },
+    {
+      "title": "Show HN: Pelican-bicycle alternatives",
+      "link": "https://gally.net/temp/20260914pelican-alternatives/index.html",
+      "summary": "In November and December 2025, inspired by Simon Willison’s pelican-riding-a-bicycle benchmark, I had some then-current LLMs create SVGs from thirty similar prompts, such as “Generate an SVG of an octopus operating a pipe organ.” Simon mentioned that experiment on his blog [1].Nine months have passed and much stronger models have been released, so I tried the experiment again today. The linked site shows the results.Running ten of the prompts through six models at OpenRouter cost about twenty dollars, so I stopped there for now.[1] https://simonwillison.net/2025/Nov/25/\n\nComments URL: https://news.ycombinator.com/item?id=49696402\nPoints: 57\n# Comments: 20",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-14T13:20:22+00:00"
@@ -2928,6 +2968,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-14T01:25:47+00:00"
+    },
+    {
+      "title": "PETROy.BCU - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsck5fNHJnbWRBa1pqR3gwY004dXpvMUZtNkprbTRDTmlvUmV6SU5Hck1KTHdrZlVqaEUtRlMxcUVXRHRvVTdmZmpGeEVQOEIzQng1MUxOYW1DVDZlWHVUZ2FxY3ZzNnQ3NEYxODFjQ3ZTOXloX0tsS0Fxaw?oc=5",
+      "summary": "PETROy.BCU - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-14T01:24:30+00:00"
     },
     {
       "title": "EBP.WA - Reuters",
