@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T12:38:22.155760+00:00",
+  "generated_at": "2026-09-14T12:55:53.586723+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -274,9 +274,29 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f5a6b4d2900>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "なでしこ大勝発進　８得点でタイ圧倒―愛知・名古屋アジア大会",
+      "link": "https://www.jiji.com/jc/article?k=2026091400912&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-14T12:55:48.202739+00:00"
+    },
+    {
+      "title": "光通信 レオパレス21にTOB実施",
+      "link": "https://news.yahoo.co.jp/pickup/6595298?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-14T12:51:42+00:00"
+    },
     {
       "title": "Show HN: I'm Serving Esp32s31.fun",
       "link": "https://news.ycombinator.com/item?id=49695744",
@@ -284,6 +304,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-14T12:29:41+00:00"
+    },
+    {
+      "title": "Zelenskyy imposes sanctions on former aide turned critic",
+      "link": "https://www.ft.com/content/f395dab5-29cd-401b-bbaa-a546da9908e3?syn-25a6b1a6=1",
+      "summary": "Ex-press secretary Iuliia Mendel has become one of the Ukrainian president’s most vocal opponents in the US",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-14T12:26:19+00:00"
     },
     {
       "title": "ウクライナ検事総長を解任へ　汚職関与疑惑、本人は否定",
@@ -740,6 +768,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-14T09:11:20.818094+00:00"
+    },
+    {
+      "title": "1FA.DE - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zbVVOSUlzRTF2V2lVejBnMkZManBzRExPcEpEeXRoS3V1aU0ybXRIQ2ZINnlhR25xT0ZJcC1pVzRaa2dENUhXYXVIVnRYSjJCbkdrekh5d0VqNDdmSl9oZFdFeUN6Sl9iS2UxdA?oc=5",
+      "summary": "1FA.DE&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-14T09:09:30+00:00"
     },
     {
       "title": "The very big caveat to the report that Anthropic is profitable for a second straight quarter",
@@ -1286,12 +1322,36 @@
       "published": "2026-09-14T05:12:00+00:00"
     },
     {
+      "title": "IGVmrt.CHI - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vWThIZmF5aWdyUEJtX29CcWQ4OVVaRVZZZ0k2eThkTE5haXZHbDN1QU1xbGF6VDN2UjE3NjBxbnpId19vTEtCdnBmNUdZY05XUGVrTlo1Y3N0T3BHQXFsaHJ0Mlh6MUJwX1M2cWRMVkNLZw?oc=5",
+      "summary": "IGVmrt.CHI&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-14T05:10:06+00:00"
+    },
+    {
       "title": "PENkrt.CHI - | Stock Price & Latest News | Reuters - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kbllBQl92MTQ1ZkVsU3NMYkQwSXBabTNIVjFPV3o4WHExN3J0dkJaV2VvM3VXcWRmdVVIZHZISjZES0dJWXhlazNqcHlhVThxb1NsMmc0WkprdzE4TDByS2lB?oc=5",
       "summary": "PENkrt.CHI - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-14T05:10:05+00:00"
+    },
+    {
+      "title": "PENkrt.CHI - | Stock Price & Latest News | Reuters - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kbllBQl92MTQ1ZkVsU3NMYkQwSXBabTNIVjFPV3o4WHExN3J0dkJaV2VvM3VXcWRmdVVIZHZISjZES0dJWXhlazNqcHlhVThxb1NsMmc0WkprdzE4TDByS2lB?oc=5",
+      "summary": "PENkrt.CHI - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-14T05:10:05+00:00"
+    },
+    {
+      "title": "LTMGF.PK - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUTdzeG9RSmJROUd2Wkh0bjJfX1BCdVFpd3dkMzBPaFE3VGdZYm4tcmNrQlpTM0JON1NoeGhYUm93UE5tcmp4eXdwNEpNNFRJSVo4SFQ0ZGNYcXoySWNQQnlSaXRKRVhiTmhIVTB3QTFEVU9JeTBhQi1RbVlzd1U2d1RDQQ?oc=5",
+      "summary": "LTMGF.PK&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-14T05:06:39+00:00"
     },
     {
       "title": "中継 データ不正巡り中部電が会見",
@@ -1628,6 +1688,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-14T03:14:00+00:00"
+    },
+    {
+      "title": "2909.HK - | Stock Price & Latest News - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yVE0zLU9nUkdOb0lmX3NPTGRWLURrNjhXdTZBM1ltd25KdnRDTGVESXhIclVaOGZHb3U1Q08xaEdRMTNHTXZ3OFlTdVRKdDU2cUhiZzRUdjJXbklzTXZldW1Qd2Q2d1V0WlZ0a3ZR?oc=5",
+      "summary": "2909.HK - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-14T03:08:29+00:00"
     },
     {
       "title": "中部電力 データ不正で調査報告書",
@@ -2318,9 +2386,25 @@
       "published": "2026-09-13T23:54:55+00:00"
     },
     {
+      "title": "KIO.SG - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sTnBiT21faUgyOTVMd0ZyTEoyemE2RzlwOUlEb3BtRkItX2JjQS1Ha1FEZ0lSSDJTNTB3SVdYb2tVVDZiN1FiZUxnNGhfZWhQZUx4VXNtVW54Nl82N21ZN0xmUldQMEluREE?oc=5",
+      "summary": "KIO.SG&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-13T23:51:52+00:00"
+    },
+    {
       "title": "JSWwrt.CHI - | Stock Price & Latest News | Reuters - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBORGRUdXdtb0V4d0JpVnpjVXBfbDQzNkplQ3pSb3JtOG9iRldzSVRKSmhVSUdZYlpYalMyS2lNaEQwcGlXcnJId2l4d2MwZFJRelVWUFNCQ1hXM1RQRlpyNzBn?oc=5",
       "summary": "JSWwrt.CHI - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-13T23:51:08+00:00"
+    },
+    {
+      "title": "JSWwrt.CHI - | Stock Price & Latest News | Reuters - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBORGRUdXdtb0V4d0JpVnpjVXBfbDQzNkplQ3pSb3JtOG9iRldzSVRKSmhVSUdZYlpYalMyS2lNaEQwcGlXcnJId2l4d2MwZFJRelVWUFNCQ1hXM1RQRlpyNzBn?oc=5",
+      "summary": "JSWwrt.CHI - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-13T23:51:08+00:00"
@@ -2385,6 +2469,14 @@
       "title": "ANPl.TPRM - | Stock Price & Latest News | Reuters - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWSjI3VDQ4aDVaVXZoa0dxTmNfdGREZ2hXN1IySWdsMGlVZmRMb0RLVjdfRi1VVE5TMlRNY1NHOGNHTllDc3Q5UkZia2E1MWFHTXppSTVjZk1OSk03R19jRQ?oc=5",
       "summary": "ANPl.TPRM - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-13T23:21:48+00:00"
+    },
+    {
+      "title": "ANPl.TPRM - | Stock Price & Latest News | Reuters - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWSjI3VDQ4aDVaVXZoa0dxTmNfdGREZ2hXN1IySWdsMGlVZmRMb0RLVjdfRi1VVE5TMlRNY1NHOGNHTllDc3Q5UkZia2E1MWFHTXppSTVjZk1OSk03R19jRQ?oc=5",
+      "summary": "ANPl.TPRM - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-13T23:21:48+00:00"
@@ -2481,6 +2573,14 @@
       "title": "RESIlrt.CHI - Reuters",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RTjdRakgwWmJwVTNsVHZhOVFpOG41Y1BFcDEtbzctajIyYnFyTS1Za2c3cVlOWVdmWEdzSng4R3puWV9vaDhlUlBMeDJmelVJM1hoOGhXSTBLTU9iaksyX0Z2QTRDZUNxcjBN?oc=5",
       "summary": "RESIlrt.CHI&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-13T22:56:08+00:00"
+    },
+    {
+      "title": "RESIlrt.CHI - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RTjdRakgwWmJwVTNsVHZhOVFpOG41Y1BFcDEtbzctajIyYnFyTS1Za2c3cVlOWVdmWEdzSng4R3puWV9vaDhlUlBMeDJmelVJM1hoOGhXSTBLTU9iaksyX0Z2QTRDZUNxcjBN?oc=5",
+      "summary": "RESIlrt.CHI&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-13T22:56:08+00:00"
@@ -2817,6 +2917,14 @@
       "title": "CIRSAe.TQ - Reuters",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1eFRxTVhnaHFqUEUyU2RDYUtOa2R6US1lbzRQUGVrR2EySXUyUjRhM3l6cmpLWFhILS1GQWxMNXdZNTZDRWlJMW5MMURSdGJaa0twNU9yM0wzNmFxd0IydmY5cWZSdDc4VDhBeE5R?oc=5",
       "summary": "CIRSAe.TQ&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-13T21:26:46+00:00"
+    },
+    {
+      "title": "CIRSAe.TQ - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1eFRxTVhnaHFqUEUyU2RDYUtOa2R6US1lbzRQUGVrR2EySXUyUjRhM3l6cmpLWFhILS1GQWxMNXdZNTZDRWlJMW5MMURSdGJaa0twNU9yM0wzNmFxd0IydmY5cWZSdDc4VDhBeE5R?oc=5",
+      "summary": "CIRSAe.TQ&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-13T21:26:46+00:00"
@@ -4609,6 +4717,14 @@
       "title": "ＢＲＩＣＳ首脳、中東に「深い懸念」 共同宣言にイラン・ＵＡＥも署名 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xX3VQM1FNa1FMd2VpSmo1aUlIVFlTcHplU2dSb2YzNU9YYjB3SEtXU3ZkUzNpNnJXY1VsdXc2cFJhYkIzRm1JbFJxZTNCck91LWRaYVVHYklOaTVyblhnVjhHRnEyZlMxUmRhSFRDdmRORUdPNVZBNFlDRV92QQ?oc=5",
       "summary": "ＢＲＩＣＳ首脳、中東に「深い懸念」 共同宣言にイラン・ＵＡＥも署名&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-13T05:22:00+00:00"
+    },
+    {
+      "title": "ＢＲＩＣＳ首脳、中東に「深い懸念」 共同宣言にイラン・ＵＡＥも署名 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xX3VQM1FNa1FMd2VpSmo1aUlIVFlTcHplU2dSb2YzNU9YYjB3SEtXU3ZkUzNpNnJXY1VsdXc2cFJhYkIzRm1JbFJxZTNCck91LWRaYVVHYklOaTVyblhnVjhHRnEyZlMxUmRhSFRDdmRORUdPNVZBNFlDRV92QQ?oc=5",
+      "summary": "ＢＲＩＣＳ首脳、中東に「深い懸念」 共同宣言にイラン・ＵＡＥも署名&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-13T05:22:00+00:00"
