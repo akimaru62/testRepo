@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T17:48:16.119664+00:00",
+  "generated_at": "2026-09-14T18:08:51.253632+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -282,6 +282,14 @@
   ],
   "items": [
     {
+      "title": "iOS 27, iPadOS 27, and macOS 27 released",
+      "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/\nComments URL: https://news.ycombinator.com/item?id=49701004\nPoints: 26\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T17:50:29+00:00"
+    },
+    {
       "title": "Inflation is sinking your high-yield savings account’s returns. Here’s one way to fight it.",
       "link": "https://www.marketwatch.com/story/inflation-is-sinking-your-high-yield-savings-accounts-returns-heres-one-way-to-fight-it-6aa798e9?mod=mw_rss_topstories",
       "summary": "4% APYs sound good. Too bad inflation is taking a bigger bite out of those yields now.",
@@ -312,6 +320,14 @@
       "source": "CNBC",
       "category": "海外金融",
       "published": "2026-09-14T17:26:21+00:00"
+    },
+    {
+      "title": "Why delaying an AI doomsday would benefit investors too",
+      "link": "https://www.ft.com/content/38ea0870-0100-4f4e-bd71-89074761095c?syn-25a6b1a6=1",
+      "summary": "A slowdown would reduce the enormous amounts of cash being lavished on training new models",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-14T17:24:42+00:00"
     },
     {
       "title": "There’s every reason to slow AI development. But here’s why it probably won’t happen.",
@@ -506,6 +522,14 @@
       "published": "2026-09-14T16:09:45+00:00"
     },
     {
+      "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+      "link": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
+      "summary": "Hey HN, Toby from Nari Labs here.We've been working on making OSS speech models super-fast. Last year, we built Dia, the first OSS text-to-speech model capable of doing natural dialogue. Since then, so many more great speech models have been released to the public.But the market is still dominated by closed source models. We think that's an inference problem. Existing systems such as vLLM / SGLang are not well suited for multimodal inference. To prove this, we built an inference engine specialized for Qwen3-TTS and open-sourced it (https://github.com/nari-labs/nari-qwen3-tts). Running at sub-50 ms latency at 10 RPS, this showed open models can be run much faster and cheaper.Since then, we've been working hard to bring cheap, fast, and high quality serving to all. And we've even beat closed models at their game!Measured on the highly cited Coval (YC S24) voice AI benchmarks, our Qwen3-TTS endpoint not just is #2 in latency, but #1 in accuracy (WER) compared to 11Labs, Cartesia etc. while being the cheapest endpoint. Our Qwen3-ASR endpoint has the lowest latency and #2 accuracy, just 0.1% away from #1. It is the second cheapest model on the list.It took a lot of clever inference engineering to make these models quick, perform well while keeping costs low. Interestingly, Alibaba's official endpoints seem to perform worse in terms of accuracy and latency compared to ours. But nonetheless, much love to the Qwen team for OSS-ing these amazing speech models.We want to continue to push prices down to make speech technology a commodity - so that every app can have great TTS and STT without worrying about unit costs. We're also working on other parts of audio such as diarization - as well as video and world model inference. More to come!\n\nComments URL: https://news.ycombinator.com/item?id=49699267\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T16:07:58+00:00"
+    },
+    {
       "title": "Show HN: Neobrutalism.dev – just added Base UI support and added new color theme",
       "link": "https://www.neobrutalism.dev/",
       "summary": "Article URL: https://www.neobrutalism.dev/\nComments URL: https://news.ycombinator.com/item?id=49699159\nPoints: 3\n# Comments: 1",
@@ -549,6 +573,14 @@
       "title": "Truncated SVD",
       "link": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
       "summary": "Article URL: https://brashandplucky.com/2023/09/09/truncated-svd.html\nComments URL: https://news.ycombinator.com/item?id=49699134\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T16:00:33+00:00"
+    },
+    {
+      "title": "Truncated SVD (2023)",
+      "link": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
+      "summary": "Article URL: https://brashandplucky.com/2023/09/09/truncated-svd.html\nComments URL: https://news.ycombinator.com/item?id=49699134\nPoints: 17\n# Comments: 1",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-14T16:00:33+00:00"
