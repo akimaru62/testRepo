@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T12:12:18.896301+00:00",
+  "generated_at": "2026-09-14T12:38:22.155760+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -278,6 +278,14 @@
   ],
   "items": [
     {
+      "title": "Show HN: I'm Serving Esp32s31.fun",
+      "link": "https://news.ycombinator.com/item?id=49695744",
+      "summary": "esp32s31.fun is an experiment to see how far it can go, maybe a week without crash/reboot?\n\nComments URL: https://news.ycombinator.com/item?id=49695744\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T12:29:41+00:00"
+    },
+    {
       "title": "ウクライナ検事総長を解任へ　汚職関与疑惑、本人は否定",
       "link": "https://www.jiji.com/jc/article?k=2026091400985&g=int&m=rss",
       "summary": "",
@@ -310,6 +318,14 @@
       "published": "2026-09-14T12:12:12.529744+00:00"
     },
     {
+      "title": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
+      "link": "https://xcancel.com/twitter",
+      "summary": "Article URL: https://xcancel.com/twitter\nComments URL: https://news.ycombinator.com/item?id=49695459\nPoints: 51\n# Comments: 23",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T12:05:52+00:00"
+    },
+    {
       "title": "「投資信託及び投資法人に関する法律施行規則の一部を改正する内閣府令（案）」に対するパブリックコメントの実施について公表しました。",
       "link": "https://www.fsa.go.jp/news/r8/shouken/20260728/20260728.html",
       "summary": "",
@@ -326,7 +342,23 @@
       "published": "2026-09-14T12:01:32+00:00"
     },
     {
+      "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
+      "link": "https://github.com/callbacked/kinesis",
+      "summary": "a couple hours ago i had astra take on a 10 month old repo of mine https://github.com/callbacked/neural-band-poc/ that involved finding a way to use the meta neural band independently from the glasses to read the sEMG data off of it. i really think it is a cool piece of technology that largely gets overlooked by the glasses, and always thought it was a shame it couldn't be used outside of its main application.after making quick work of that, i wanted to use it to control my mac using gesture controls and that's how kinesis was born. it has been very cool being able to swipe from desktops using my fingers, swiping up to open up mission control or controlling a virtual knob to adjust my volume.i definitely havent scratched the surface with the neural band but it has been a really fun endeavor thus far! i really hope others can find creative uses for their neural bands too :)\n\nComments URL: https://news.ycombinator.com/item?id=49695408\nPoints: 12\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T12:01:31+00:00"
+    },
+    {
       "title": "Oil over $100 has JPMorgan stock-market strategists fearing a missing out on a swift decline",
+      "link": "https://www.marketwatch.com/story/oil-over-100-has-jpmorgan-stock-market-strategists-fearing-a-missing-out-on-a-swift-decline-ba32bfd4?mod=mw_rss_topstories",
+      "summary": "Brent crude and West Texas Intermediate’s front-month contracts rose on Monday after Saudi Arabia closed its East-West pipeline, citing damage cause by drone attacks.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-14T11:59:00+00:00"
+    },
+    {
+      "title": "Oil over $100 has JPMorgan strategists warning stock-market investors against missing out on a sudden turnaround",
       "link": "https://www.marketwatch.com/story/oil-over-100-has-jpmorgan-stock-market-strategists-fearing-a-missing-out-on-a-swift-decline-ba32bfd4?mod=mw_rss_topstories",
       "summary": "Brent crude and West Texas Intermediate’s front-month contracts rose on Monday after Saudi Arabia closed its East-West pipeline, citing damage cause by drone attacks.",
       "source": "MarketWatch",
@@ -380,6 +412,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-14T11:27:54+00:00"
+    },
+    {
+      "title": "Show HN: StemJSON – a language for LLMs to extend native mobile apps on the fly",
+      "link": "https://stemjson.com/",
+      "summary": "Hey HN! I'd like to share something I've been working on for a while and hear what you think. It's a new domain-specific language built on JSON and designed for AI, along with an ecosystem for building native mobile features, screens, and even entire apps quickly, right on the devices where they live. On top of that, end users can use AI to customize what their apps do on the fly, which might take the user experience to a whole new level.\n\nComments URL: https://news.ycombinator.com/item?id=49695057\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T11:26:45+00:00"
     },
     {
       "title": "渡辺元智さんしのび１５００人　小倉元部長「感謝しかない」―横浜高校野球部",
@@ -1900,6 +1940,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-14T01:25:47+00:00"
+    },
+    {
+      "title": "EBP.WA - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMOGNVTGlHbV9VM1ZvV1psTjNrbll4R3Uzck5IQVR4Zm9uWHhqSS1QYlJMRm45N1A4dXl4eWNBLVBRTXBJY2ZBYkxKM2pfcl9FVDg2cWxjVjA1U3RJNTNIaW5KcWdsU0piMENPTg?oc=5",
+      "summary": "EBP.WA&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-14T01:23:32+00:00"
     },
     {
       "title": "The Malicious Use of Artificial Intelligence",
