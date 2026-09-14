@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T12:55:53.586723+00:00",
+  "generated_at": "2026-09-14T13:09:46.235486+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -282,6 +282,14 @@
   ],
   "items": [
     {
+      "title": "Gold Futures Pressured By Dollar Gains, Rate Expectations",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-focus-on-u-s-core-inflation-9f264ece?mod=rss_markets_main",
+      "summary": "Gold futures fell as the dollar gained amid heightened expectations for a Fed interest-rate increase this week.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-14T13:04:00+00:00"
+    },
+    {
       "title": "なでしこ大勝発進　８得点でタイ圧倒―愛知・名古屋アジア大会",
       "link": "https://www.jiji.com/jc/article?k=2026091400912&g=spo&m=rss",
       "summary": "",
@@ -296,6 +304,30 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-09-14T12:51:42+00:00"
+    },
+    {
+      "title": "What a time to be alive – rouge AI agents attack RubyGems.org",
+      "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "summary": "Article URL: https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/\nComments URL: https://news.ycombinator.com/item?id=49695876\nPoints: 17\n# Comments: 8",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T12:40:57+00:00"
+    },
+    {
+      "title": "Steve Bannon and Bernie Sanders unite in AI safety call",
+      "link": "https://www.ft.com/content/bab5c4c5-5377-4dd0-8b46-d8c4ce9a36d5?syn-25a6b1a6=1",
+      "summary": "Rightwing activist and leftwing senator join forces to demand stronger regulation of the technology",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-14T12:40:33+00:00"
+    },
+    {
+      "title": "Texas judge rules TikTok misled users on child safety feature",
+      "link": "https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/",
+      "summary": "Article URL: https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/\nComments URL: https://news.ycombinator.com/item?id=49695829\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T12:37:42+00:00"
     },
     {
       "title": "Show HN: I'm Serving Esp32s31.fun",
@@ -400,6 +432,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-14T11:48:33+00:00"
+    },
+    {
+      "title": "光通信や投資ファンド、レオパレス２１にＴＯＢ 1株1000円 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIZW5pOW9zMUctVVI4cUxQNGZNbUNPcnFyak9TR0hNVEU4T2hkT0p6OXVzM3hQZUt1X0tmTDdVN0dZQVlNb3ZyVm52VWx3NWpSRExZNnBuUmdvaGkyZ081dWpRUUhMQmZJNVJYVDRtLXVXWERrQmYyZjFR?oc=5",
+      "summary": "光通信や投資ファンド、レオパレス２１にＴＯＢ 1株1000円&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-14T11:46:53+00:00"
     },
     {
       "title": "Private Equity Daily: A Hidden Risk in Private Credit",
@@ -624,6 +664,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-14T10:25:52.221698+00:00"
+    },
+    {
+      "title": "Show HN: ChaosTree – A zero-dependency Java tree library (AVL,RBT,B-Tree,B+Tree)",
+      "link": "https://github.com/Chaos-vy/ChaosTree",
+      "summary": "What is ChaosTree?ChaosTree is a zero-dependency Java Sorted Set/Map library built around multiple tree implementations.It provides implementations of:\n- AVL Tree\n- Red-Black Tree\n- B-Tree\n- B+TreeI have not made my custom API as it implements NavigableSet, NavigableMap, SequencedSet and SequencedMap. My Custome API are:\n- buildFromSorted(Iterator> it, float factor)\n- importFlatMatrix(Object[][] blast, float factor)\n- Object[][] exportFlatMatrix()I started ChaosTree because I wanted to explore how far I could learn DS structure, It started as frst release of 7 tree of Set type with Custome API, As i got engrossed into it I moved to Map, During phase of switching from Set to Map there was drastic change and knowledge upgrade where I pushed my Tree limit from jdk11+ support to jdk21+ where paid close attention to dependency-free and memory layout, allocation,JVM behavior, and real-world performance.Some of the things I experimented with:\n- Different node layouts and metadata footprints\n- CRTP/F-bounded polymorphism for tree implementations\n- Parent-pointer vs parentless nodes\n- Array-based N-ary tree nodes\n- B-Tree/B+Tree degree selection\n- JMH benchmarking and JFR profiling\n- Differential/randomized testing against java.util.TreeMap/TreeSetAfter this rough and tough It also passes these test:-Guava Testlib compatibility testing\n-jqwik property-based testing\n-Randomized differential testing against reference collections\n-White-box structural validation of tree nodes\n-Direct validation of B-Tree/B+Tree structural invariants\n-Exception and iterator-contract testing\n-Serialization and cloning tests\n-Nary Tree uses custom jqwick test of API validation as well.Tail latency behavior is not shown here because it get's truncated into a simple text which made the dat read wrong:https://chaos-vy.github.io/ChaosTree/utils/JMH-Report.html\nI have also ran benchmark with official JDK TreeMapUpdate to my N-ary tree.GitHub:\nhttps://github.com/Chaos-vy/ChaosTree\nhttps://chaos-vy.github.io/ChaosTree/I'd especially like feedback on the API design, implementation choices, benchmark methodology. I am currently trying to truncate useless and complex branches for performnace tuning.\n\nComments URL: https://news.ycombinator.com/item?id=49694404\nPoints: 7\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T10:03:46+00:00"
     },
     {
       "title": "Liechtenstein says EU zeal for disclosure has gone ‘too far’",
