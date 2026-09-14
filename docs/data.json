@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T09:51:14.467912+00:00",
+  "generated_at": "2026-09-14T10:08:03.045105+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -270,6 +270,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fb9bb0f6900>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -280,6 +284,38 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-14T12:04:00+00:00"
+    },
+    {
+      "title": "Malls Lead Commercial Real Estate as Property Values Jump 13%",
+      "link": "https://www.wsj.com/articles/malls-lead-commercial-real-estate-as-property-values-jump-13-036009f1?mod=rss_markets_main",
+      "summary": "Plus, see which stocks our investing columnist is watching and what could trip up Democrats’ midterm momentum.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-14T09:54:00+00:00"
+    },
+    {
+      "title": "Pkgsrc Is Cool (2022)",
+      "link": "https://www.wisellama.rocks/posts/2021-12-23-pkgsrc-is-cool/",
+      "summary": "Article URL: https://www.wisellama.rocks/posts/2021-12-23-pkgsrc-is-cool/\nComments URL: https://news.ycombinator.com/item?id=49694311\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T09:53:34+00:00"
+    },
+    {
+      "title": "「コンビニは便利だが高い」払拭狙う　ファミマ、朝限定で「おむすび＋ドリンク」を250円に",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/14/news088.html",
+      "summary": "ファミリーマートが「朝」の利用客を取り込む施策に力を入れている。9月15日から、朝限定でおむすびやパンとドリンクを250円で購入できる新たな取り組みを開始する。その背景と狙いを聞いた。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-09-14T09:52:00+00:00"
+    },
+    {
+      "title": "XCancel Taken Down Again",
+      "link": "https://xcancel.com/#",
+      "summary": "Article URL: https://xcancel.com/#\nComments URL: https://news.ycombinator.com/item?id=49694296\nPoints: 11\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T09:51:50+00:00"
     },
     {
       "title": "‘He does not have a spouse or children’: My son has a serious genetic disease. What should I do with my $1.3 million estate?",
@@ -464,6 +500,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-14T07:59:00+00:00"
+    },
+    {
+      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+      "link": "https://github.com/anuj0456/OpenArch",
+      "summary": "Article URL: https://github.com/anuj0456/OpenArch\nComments URL: https://news.ycombinator.com/item?id=49693384\nPoints: 6\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T07:55:19+00:00"
     },
     {
       "title": "経団連「法人増税、賛成できない」 消費減税の財源で一部野党が主張",
@@ -811,6 +855,14 @@
     },
     {
       "title": "China’s spy agency warns of AI risk to national security",
+      "link": "https://www.ft.com/content/8715d1c6-054d-4eab-bcad-147acebfd2a9?syn-25a6b1a6=1",
+      "summary": "Beijing signals growing concern over how rapid advances in technology could be used against the country",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-14T05:15:49+00:00"
+    },
+    {
+      "title": "Hostile forces using AI for ‘cognitive warfare’ against China, spy agency warns",
       "link": "https://www.ft.com/content/8715d1c6-054d-4eab-bcad-147acebfd2a9?syn-25a6b1a6=1",
       "summary": "Beijing signals growing concern over how rapid advances in technology could be used against the country",
       "source": "Financial Times",
