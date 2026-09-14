@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T15:38:27.757252+00:00",
+  "generated_at": "2026-09-14T15:47:52.750424+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -282,6 +282,14 @@
   ],
   "items": [
     {
+      "title": "10-year Treasury yield briefly tops 5%, hitting its highest level since 2007 as bond-market selloff deepens",
+      "link": "https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories",
+      "summary": "The benchmark 10-year Treasury yield briefly touched the crucial 5% threshold on Monday, with oil prices marching higher, jitters about artificial intelligence growing and investors looking elsewhere for safety.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-14T15:40:00+00:00"
+    },
+    {
       "title": "米長期金利上昇、一時5%超え　インフレ懸念で2023年10月以来",
       "link": "https://www.asahi.com/articles/ASV9G4WS2V9GUHBI01MM.html?ref=rss",
       "summary": "",
@@ -368,6 +376,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-14T14:55:00+00:00"
+    },
+    {
+      "title": "A list of 1,325 AI assisted repositories, mined from GitHub",
+      "link": "https://github.com/ActuallyTaylor/strata/blob/main/paper/data/large/datasets/ai-assisted-repositories.csv",
+      "summary": "Article URL: https://github.com/ActuallyTaylor/strata/blob/main/paper/data/large/datasets/ai-assisted-repositories.csv\nComments URL: https://news.ycombinator.com/item?id=49697727\nPoints: 8\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T14:42:18+00:00"
     },
     {
       "title": "RubyGems Open Source Supply Chain Security and OpenAI",
@@ -480,6 +496,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-14T14:01:04+00:00"
+    },
+    {
+      "title": "Yoneda Lemma in Double Categories",
+      "link": "https://bartoszmilewski.com/2026/09/13/yoneda-lemma-in-double-categories/",
+      "summary": "Article URL: https://bartoszmilewski.com/2026/09/13/yoneda-lemma-in-double-categories/\nComments URL: https://news.ycombinator.com/item?id=49697035\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T14:00:34+00:00"
     },
     {
       "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
