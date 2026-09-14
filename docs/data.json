@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T18:08:51.253632+00:00",
+  "generated_at": "2026-09-14T18:28:45.337804+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -282,9 +282,49 @@
   ],
   "items": [
     {
+      "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
+      "link": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
+      "summary": "The latest cracks in the AI trade are emerging at a particularly troubling time for investors.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-14T18:20:00+00:00"
+    },
+    {
+      "title": "10-year Treasury yield eases back from crucial 5% level despite concerns about AI and the surge in oil prices",
+      "link": "https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories",
+      "summary": "The benchmark 10-year Treasury yield briefly touched the crucial 5% threshold on Monday, but it then pulled back.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-14T18:14:00+00:00"
+    },
+    {
+      "title": "Precious Metals Settle Lower With Yields in Focus",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-focus-on-u-s-core-inflation-9f264ece?mod=rss_markets_main",
+      "summary": "Gold futures ended the session off their intraday lows as oil prices eased from highs and Treasury yields pulled back after the 10-year touched 5% for the first time in three years.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-14T18:11:00+00:00"
+    },
+    {
+      "title": "AI companies say they want to slow down. Here’s how Washington might help apply the brakes.",
+      "link": "https://www.marketwatch.com/story/ai-companies-say-they-want-to-slow-down-heres-how-washington-might-help-apply-the-brakes-7db9dabb?mod=mw_rss_topstories",
+      "summary": "Washington is likely to move slowly, but there are catalysts that could make it act faster than expected",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-14T18:08:00+00:00"
+    },
+    {
       "title": "iOS 27, iPadOS 27, and macOS 27 released",
       "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
       "summary": "Article URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/\nComments URL: https://news.ycombinator.com/item?id=49701004\nPoints: 26\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T17:50:29+00:00"
+    },
+    {
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/\nComments URL: https://news.ycombinator.com/item?id=49701004\nPoints: 78\n# Comments: 37",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-14T17:50:29+00:00"
@@ -384,6 +424,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-14T17:00:53+00:00"
+    },
+    {
+      "title": "iOS 27 Released",
+      "link": "https://www.apple.com/os/ios/",
+      "summary": "Article URL: https://www.apple.com/os/ios/\nComments URL: https://news.ycombinator.com/item?id=49700193\nPoints: 7\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T16:59:39+00:00"
     },
     {
       "title": "Fitting Neural Textures and PBR Material Maps with ES (No Backprop)",
