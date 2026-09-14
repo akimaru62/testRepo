@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T21:47:48.041663+00:00",
+  "generated_at": "2026-09-14T22:07:09.689575+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -281,6 +281,14 @@
     }
   ],
   "items": [
+    {
+      "title": "The murky AI milestone that has some of the industry’s leading voices increasingly on edge",
+      "link": "https://www.marketwatch.com/story/the-murky-ai-milestone-that-has-some-of-the-industrys-leading-voices-increasingly-on-edge-6ffeacc7?mod=mw_rss_topstories",
+      "summary": "Anthropic CEO Dario Amodei and others are warning that AI models may be able to build on themselves, without the help of humans. It’s a concept known as recursive self-improvement.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-14T21:57:00+00:00"
+    },
     {
       "title": "インテグラルが｢純正ごま油｣のかどや製油にTOB…会社側は賛同を表明､一般株主に対して応募推奨 | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/958093?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -832,6 +840,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-14T18:04:59+00:00"
+    },
+    {
+      "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
+      "link": "https://pub.sakana.ai/pc-alm/",
+      "summary": "Article URL: https://pub.sakana.ai/pc-alm/\nComments URL: https://news.ycombinator.com/item?id=49701182\nPoints: 14\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T18:03:12+00:00"
     },
     {
       "title": "Iranian banks' SSL certificates are being revoked due to OFAC sanctions",
@@ -1400,6 +1416,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-14T14:42:18+00:00"
+    },
+    {
+      "title": "JSIG.SG - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbVc1WjFjZi05cjQ4M20yTjJHYUdkWGF4UmUzYi0zcmhRSm1JQXRORHRHc0EwWUJZMWVYZnUyUWNIRGk5QjV4Z29JU05pWnBhcklvQkZLSjREQzZfVFlsQl9UakQ5VkJqTWtPaHVOeWpfS1J5QXN5NzJOSnAyTHhybXBwUQ?oc=5",
+      "summary": "JSIG.SG&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-14T14:40:42+00:00"
     },
     {
       "title": "RubyGems Open Source Supply Chain Security and OpenAI",
