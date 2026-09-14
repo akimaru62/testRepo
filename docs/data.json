@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T02:36:42.298257+00:00",
+  "generated_at": "2026-09-14T02:54:00.095841+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -266,6 +266,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fb9bb0f6900>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -364,6 +368,14 @@
       "source": "CNBC",
       "category": "海外金融",
       "published": "2026-09-14T01:37:44+00:00"
+    },
+    {
+      "title": "ブラックロック、第3四半期プライベートクレジット解約圧力緩和 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYVJZUkdZeHhaVFBPcS1WbjlUSF9zY2JnNkhSdzlsVHQxZjFGQ1VrM2YxcHRSSWJ5Q3VZcDJJSUVlRjdoZVhCRnJIMGszYi1JS1RYZF83ay1nc0c3M3VDTUZJLVJlU3lXekJDc1FyUEtwMk9vdnIyTmFQV0QxSDRlVWFac2k?oc=5",
+      "summary": "ブラックロック、第3四半期プライベートクレジット解約圧力緩和&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-14T01:35:00+00:00"
     },
     {
       "title": "｢血糖値が高め｣の人へ､痩せなくても改善できる？ \"薬物療法に匹敵\"する効果も､最新研究でわかった｢筋トレ｣の実力 | ライフ | 東洋経済オンライン",
@@ -1220,6 +1232,14 @@
       "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-09-13T20:30:00+00:00"
+    },
+    {
+      "title": "PROmrt.CHI - | Stock Price & Latest News | Reuters - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fSTBiYWllc3F3REY0cGZVZDJZZGJwTTk1WkNVZUh2M0pmWEthQi1VTmZYZF80aDBwVkh0cVU4d0ZqaHhOdnNjZ09yN1NJUTY0VDVmR0JNNGRkc3dDYzRURThR?oc=5",
+      "summary": "PROmrt.CHI - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-13T20:24:09+00:00"
     },
     {
       "title": "Mullenweg has returned as CEO after attempted board ouster",
