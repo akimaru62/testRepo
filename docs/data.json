@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T14:08:58.538297+00:00",
+  "generated_at": "2026-09-14T14:27:56.856377+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -282,6 +282,54 @@
   ],
   "items": [
     {
+      "title": "広島の玉村、久々の白星　プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026091401054&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-14T14:27:52.771755+00:00"
+    },
+    {
+      "title": "維新・中司幹事長が入閣へ　自民国対委員長に村井氏―高市首相、１６日役員人事",
+      "link": "https://www.jiji.com/jc/article?k=2026091400332&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-14T14:27:52.771725+00:00"
+    },
+    {
+      "title": "Oil Jumps, 10-Year Treasury Yield Hits 5% as AI-Related Stocks Tumble Worldwide",
+      "link": "https://www.wsj.com/finance/stocks/oil-jumps-nasdaq-futures-slide-as-ai-related-stocks-tumble-worldwide-eaaf198b?mod=rss_markets_main",
+      "summary": "The Nasdaq fell amid a global selloff in artificial intelligence stocks following calls from industry leaders for a uniform slowdown in AI development.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-14T14:22:00+00:00"
+    },
+    {
+      "title": "Ten-year Treasury yield hits 5% for first time since 2023",
+      "link": "https://www.ft.com/content/06cb850d-089a-4318-88d7-a410e9766b89?syn-25a6b1a6=1",
+      "summary": "Rise in US borrowing costs comes after Iran war sparked inflation shock",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-14T14:18:54+00:00"
+    },
+    {
+      "title": "Couples with a big age gap need more money — they have to plan for two retirements",
+      "link": "https://www.marketwatch.com/story/couples-with-a-big-age-gap-need-more-money-they-have-to-plan-for-two-retirements-1454b8c2?mod=mw_rss_topstories",
+      "summary": "These are the biggest issues to consider when there’s more than a 10-year age difference.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-14T14:15:00+00:00"
+    },
+    {
+      "title": "Has the Bitcoin Rally Fizzled Out?",
+      "link": "https://www.wsj.com/finance/currencies/has-the-bitcoin-rally-fizzled-out-562b8c5a?mod=rss_markets_main",
+      "summary": "The cryptocurrency has struggled to hold above $80,000 since its mid-August surge. Analysts say progress this week on the Clarity Act and a Fed rate hold could provide boosts.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-14T14:12:00+00:00"
+    },
+    {
       "title": "Novo Nordisk is changing its name and its culture to try to compete in the GLP-1 diet-drug wars",
       "link": "https://www.marketwatch.com/story/novo-drops-nordisk-in-corporate-refresh-to-take-on-lilly-in-the-weight-loss-wars-a406161a?mod=mw_rss_topstories",
       "summary": "The Danish drug giant behind Ozempic is competing with Eli Lilly in the market for weight-loss drugs.",
@@ -296,6 +344,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-14T13:45:00+00:00"
+    },
+    {
+      "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+      "link": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+      "summary": "Article URL: https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete\nComments URL: https://news.ycombinator.com/item?id=49696697\nPoints: 15\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T13:38:58+00:00"
     },
     {
       "title": "Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here’s what to know.",
@@ -354,6 +410,22 @@
       "published": "2026-09-14T13:26:39.619281+00:00"
     },
     {
+      "title": "People Who Can't Picture Anything Are Rewriting the Science of Imagination",
+      "link": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
+      "summary": "Article URL: https://dailyneuron.com/aphantasia-mental-imagery-brain-network/\nComments URL: https://news.ycombinator.com/item?id=49696453\nPoints: 17\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T13:23:53+00:00"
+    },
+    {
+      "title": "Show HN: Pelican-bicycle alternatives (updated for 2026)",
+      "link": "https://gally.net/temp/20260914pelican-alternatives/index.html",
+      "summary": "In November and December 2025, inspired by Simon Willison’s pelican-riding-a-bicycle benchmark, I had some then-current LLMs create SVGs from thirty similar prompts, such as “Generate an SVG of an octopus operating a pipe organ.” Simon mentioned that experiment on his blog [1].Nine months have passed and much stronger models have been released, so I tried the experiment again today. The linked site shows the results.Running ten of the prompts through six models at OpenRouter cost about twenty dollars, so I stopped there for now.[1] https://simonwillison.net/2025/Nov/25/\n\nComments URL: https://news.ycombinator.com/item?id=49696402\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T13:20:22+00:00"
+    },
+    {
       "title": "Novo drops ‘Nordisk’ in corporate refresh to take on Lilly in the weight-loss wars",
       "link": "https://www.marketwatch.com/story/novo-drops-nordisk-in-corporate-refresh-to-take-on-lilly-in-the-weight-loss-wars-a406161a?mod=mw_rss_topstories",
       "summary": "The Danish drug giant behind Ozempic is competing with Eli Lilly in the market for weight-loss drugs.",
@@ -392,6 +464,30 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-14T13:04:00+00:00"
+    },
+    {
+      "title": "Largest known Roman mosaic, beneath Baths of Trajan, opens to the public",
+      "link": "https://www.theartnewspaper.com/2026/09/14/largest-roman-mosaic-opens-to-the-public",
+      "summary": "Article URL: https://www.theartnewspaper.com/2026/09/14/largest-roman-mosaic-opens-to-the-public\nComments URL: https://news.ycombinator.com/item?id=49696132\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T13:01:04+00:00"
+    },
+    {
+      "title": "How to Write an Effective Software Design Document",
+      "link": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+      "summary": "Article URL: https://refactoringenglish.com/excerpts/write-an-effective-design-doc/\nComments URL: https://news.ycombinator.com/item?id=49696125\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T13:00:46+00:00"
+    },
+    {
+      "title": "Show HN: I built Otis, a minimal AI agent that runs local models out of the box",
+      "link": "https://triangllabs.ai/otis",
+      "summary": "Hi everyone,Been working on Otis, an open-source ai agent that gives you one minimal experience across local and hosted open-weight models, privacy-focused by design.On setup it recommends a local model based on the hardware Otis is running on, downloads it and runs it through llama.cpp for you. Ollama, LM Studio and Nvidia PAIR are supported too.Excited for everyone to try it and all feedback is welcome!\n\nComments URL: https://news.ycombinator.com/item?id=49696084\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T12:58:32+00:00"
     },
     {
       "title": "Oil hits $109 after Saudi Arabia closes vital export pipeline",
@@ -442,6 +538,14 @@
       "published": "2026-09-14T12:37:42+00:00"
     },
     {
+      "title": "SDR–; open source SDR with a patchable signal graph, Rust DSP, web UI",
+      "link": "https://github.com/Newspicel/sdrminusminus",
+      "summary": "Article URL: https://github.com/Newspicel/sdrminusminus\nComments URL: https://news.ycombinator.com/item?id=49695805\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T12:35:56+00:00"
+    },
+    {
       "title": "Show HN: I'm Serving Esp32s31.fun",
       "link": "https://news.ycombinator.com/item?id=49695744",
       "summary": "esp32s31.fun is an experiment to see how far it can go, maybe a week without crash/reboot?\n\nComments URL: https://news.ycombinator.com/item?id=49695744\nPoints: 4\n# Comments: 1",
@@ -456,6 +560,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-14T12:26:19+00:00"
+    },
+    {
+      "title": "PCB is brought to you by Fable 5",
+      "link": "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/",
+      "summary": "Article URL: https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/\nComments URL: https://news.ycombinator.com/item?id=49695689\nPoints: 6\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T12:25:24+00:00"
     },
     {
       "title": "ウクライナ検事総長を解任へ　汚職関与疑惑、本人は否定",
@@ -536,6 +648,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-14T11:59:00+00:00"
+    },
+    {
+      "title": "'Offensively cheap': solar power is looking up",
+      "link": "https://www.ft.com/content/8b704ae0-1fa2-4303-925f-170fa5d935b3",
+      "summary": "Article URL: https://www.ft.com/content/8b704ae0-1fa2-4303-925f-170fa5d935b3\nComments URL: https://news.ycombinator.com/item?id=49695304\nPoints: 41\n# Comments: 16",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-14T11:52:33+00:00"
     },
     {
       "title": "A spreading war threatens Trump and MBS",
@@ -1027,6 +1147,14 @@
     },
     {
       "title": "Stock Market Today: AI Stocks Fall; Oil-Price Surge Pushes Yields Higher",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026?mod=rss_markets_main",
+      "summary": "Concerns about AI safety weigh on tech stocks",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-14T08:44:44+00:00"
+    },
+    {
+      "title": "Stock Market Today: 10-Year Treasury Yield Hits 5%, Pushed Higher by Oil Surge",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026?mod=rss_markets_main",
       "summary": "Concerns about AI safety weigh on tech stocks",
       "source": "WSJ マーケット",
