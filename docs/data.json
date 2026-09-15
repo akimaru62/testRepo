@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T22:07:24.983205+00:00",
+  "generated_at": "2026-09-15T22:23:46.151673+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -282,9 +282,45 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f9eaf9b7620>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "森衆院議長とエネルギー支援を協議　ウクライナ大統領、高市首相の訪問招請",
+      "link": "https://www.jiji.com/jc/article?k=2026091600137&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-15T22:23:41.958029+00:00"
+    },
+    {
+      "title": "日米議員、対中抑止で一致　自民の親台湾有志",
+      "link": "https://www.jiji.com/jc/article?k=2026091600144&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-15T22:23:41.957986+00:00"
+    },
+    {
+      "title": "基準地価 全国平均が5年連続上昇",
+      "link": "https://news.yahoo.co.jp/pickup/6595429?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-15T22:19:30+00:00"
+    },
+    {
+      "title": "供給不安なハイエースに変わる存在に…フィアット｢デュカト｣をベースにした｢ダヴィンチ5.4｣が新型を発表した意図 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957893?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "近年､人気上昇中のデュカトをベースにしたキャンピングカー。その代表格｢ダヴィンチ5.4｣がフルモデルチェンジを果たし､さらに快適性や利便性を高めました。ハイエースの新車不足が続く今､選択肢として注目…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-15T22:15:00+00:00"
+    },
     {
       "title": "木村拓哉（53歳）に再評価の波…平成の絶頂期→《何やってもキムタク》の逆風を経て､\"継続\"が評価を180度変えたワケ | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/957812?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -1732,6 +1768,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-15T12:59:07+00:00"
+    },
+    {
+      "title": "tuba.mc - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUkcyZEMzbXZNenBMc2xBTDcySDZXNmJOUGxHSnJ0NEFZcHhsRmdnUm5UREtReUVGZ1FCZkhVQU1FbVVveHFIZ19kMTZCMHAtRUpHeHZpU2VtY0Y2cTdRRHM0czUwVGNxdldZT3hFcWdRUDQ3amE0OVpJLWRBRks5OGxB?oc=5",
+      "summary": "tuba.mc - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:58:48+00:00"
     },
     {
       "title": "FHER3.SA - | Stock Price & Latest News | Reuters - ロイター",
