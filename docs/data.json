@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T22:23:46.151673+00:00",
+  "generated_at": "2026-09-15T22:33:44.193207+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -289,6 +289,14 @@
     }
   ],
   "items": [
+    {
+      "title": "｢会社員で一生を終えていいのか…｣起業を煽る異業種交流会で感化された25歳に､定年まで3カ月の先輩が贈った\"金言\"〈再配信〉 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958006?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "真面目で仕事はできるものの、“何かがどうしようもなくズレている”若手社員、真締真一（まじめ・しんいち）。その教育係に任命された先輩の柔木美和（やわらき・みわ）は、彼に何かと翻弄される毎日を送っていま…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-15T22:30:00+00:00"
+    },
     {
       "title": "森衆院議長とエネルギー支援を協議　ウクライナ大統領、高市首相の訪問招請",
       "link": "https://www.jiji.com/jc/article?k=2026091600137&g=int&m=rss",
@@ -818,6 +826,14 @@
       "published": "2026-09-15T19:13:33+00:00"
     },
     {
+      "title": "Learning to solve hard problems in RL for LLMs by never giving up",
+      "link": "https://mnoukhov.github.io/posts/ngu/",
+      "summary": "https://arxiv.org/abs/2609.13443\n\nComments URL: https://news.ycombinator.com/item?id=49717280\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-15T19:07:38+00:00"
+    },
+    {
       "title": "Chop Up Your Books",
       "link": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
       "summary": "Article URL: https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html\nComments URL: https://news.ycombinator.com/item?id=49716953\nPoints: 6\n# Comments: 2",
@@ -1234,6 +1250,14 @@
       "published": "2026-09-15T15:24:11+00:00"
     },
     {
+      "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+      "link": "https://github.com/pizza-bot-app/pizza-bot",
+      "summary": "Hi HN - long-time lurker (since 2012!), first time poster.Pizza Bot is a self-hosted desktop app for Mac, Windows, and Linux that runs AI agents in the background and exposes them through an email-like UI. Finished work shows up in Unread, and anything waiting on your approval shows up in Action. It's Apache 2.0-licensed, there's no signup and no telemetry, and you bring your own model provider: Anthropic, Amazon Bedrock, Google Gemini, OpenAI, OpenRouter, or a local model through Ollama. There are builds on the releases page, or you can run it from source.Pizza Bot started as an internal passion project I worked on with a small team at Amazon.The whole thing came out of my frustration at having to manually log CRM activities through a browser form. I built a simple REST API called \"JoeBot\" that connected to my authenticated browser session over CDP and filled out the form for me using Playwright. Then I hacked up a quick Obsidian plugin so I could trigger it from my local notes (no AI and no MCP servers involved).This caught on quickly. My fellow AWS Solutions Architect Igor Fil joined up with me, and we rebranded the project as \"Pizza Bot,\" named after Amazon's two-pizza teams. We started seeing what other automations we could build. We found a GraphQL API we could query and hacked up some \"recipes\" to pull data out of the CRM to help with meeting prep. That worked great, and it was right around the time MCP servers seemed to be taking off, so we decided to expose Pizza Bot as an MCP server instead, so it would be available to AI tools through natural language.This was a decent solution for technical users, but the Account Managers who live inside our CRM system wanted something too. We decided to rebuild Pizza Bot as an Electron desktop app modeled after an email inbox, so it would be familiar to non-technical users and would run on both Mac and Windows. We also bundled internal MCP servers as OCI images and hosted them in Amazon ECR as an \"addon marketplace\" so users could install them with one click without having to set up Amazon developer tooling.The project took off organically and expanded outside of AWS into the wider Amazon organization globally. More than 2,000 people ended up using it for meeting prep, email drafting, Slack summaries, CRM logging, prioritizing their day, and web research.Once apps like Claude Cowork and Amazon's own Quick Desktop came out, we realized the real growth opportunity was outside of Amazon. Rather than try to rip out the Amazon-specific integrations, we rebuilt Pizza Bot once more as an open source project. We leaned on coding agents heavily, which is the only reason a team our size could pull off a full rewrite. I'm pleased to say it's finally public, and we're hoping to bring in community members and see where it goes. We'd like to do for knowledge workers what Claude Code and Codex have done for programmers.A couple of things to know up front. Most of what made Pizza Bot useful on day one inside Amazon came from that internal catalog of skills and MCP servers for Amazon's own systems, and none of it could come out with the app. So it ships thinner than the version those 2,000 people used, and building that catalog back up for tools other people actually use is where we need the most help. It's also a community project and not an AWS service, so there's no support or SLA behind it. The Windows and Linux builds aren't signed yet either.On the technical side, Pizza Bot is a server and a client. The desktop app bundles both, or you can point a client at a remote backend; personally, I self-host the server on my home network and reach it from my phone over Tailscale. The server owns the thread lifecycle and checkpoints state with DeepAgents and LangGraph, and clients rehydrate from it as needed, so you can disconnect mid-run and pick the thread back up from another client. Approval pauses outlive the session that created them and collect in an Action filter, so you can answer an hour later from a different device. The agent you talk to has a sandboxed QuickJS interpreter that can reach your filesystem only if you grant it a folder, but its main job is to delegate. Each subagent is a 1:1 mapping of a Skill, and an Activity bar shows that subagent and the tool calls it's making as it works. Memory is opt-in and stored as plain markdown files on your machine. Every tool call is explicit, including looking up a memory - we err on the side of transparency to reduce surprises. Tools come from MCP servers, and skills are ordinary SKILL.md files with a per-tool approval policy, so existing skills that don't require a code interpreter should still work.What I'd most like to hear about is where the app itself gets in your way, the kind of problem you can't fix by writing a skill or an MCP server. I'm around today to answer questions!\n\nComments URL: https://news.ycombinator.com/item?id=49713894\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-15T15:20:26+00:00"
+    },
+    {
       "title": "How many rate hikes are on tap? Wall Street hopes to connect the Fed’s dots.",
       "link": "https://www.marketwatch.com/story/how-many-rate-hikes-are-on-tap-wall-street-hopes-to-connect-the-feds-dots-6b1ac5dc?mod=mw_rss_topstories",
       "summary": "If the Federal Reserve jacks up interest rates this week to try to tame inflation, investors hope to connect the dots to figure out how much more the central bank will raise borrowing costs.",
@@ -1645,6 +1669,14 @@
       "title": "eqh.n - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96RFNZemNTbzFHX2pWdDNJWHVzcDBMR2ZrSjBobXo3aDV6LXF4UlRpX1RSX3Q5Z3NaVDFFS0Q3TF9tekVqLVBUbW9ySWwtdjdsMkdUT2xHV1B3VFkydHAzWWJ2c3hld1lHYUpBNng2cUZXNDg1X194UWRxT0cyRGM?oc=5",
       "summary": "eqh.n - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T13:03:35+00:00"
+    },
+    {
+      "title": "eqh.n - | Stock Price & Latest News | Reuters - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96RFNZemNTbzFHX2pWdDNJWHVzcDBMR2ZrSjBobXo3aDV6LXF4UlRpX1RSX3Q5Z3NaVDFFS0Q3TF9tekVqLVBUbW9ySWwtdjdsMkdUT2xHV1B3VFkydHAzWWJ2c3hld1lHYUpBNng2cUZXNDg1X194UWRxT0cyRGM?oc=5",
+      "summary": "eqh.n - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-15T13:03:35+00:00"
@@ -2426,6 +2458,14 @@
       "published": "2026-09-15T12:25:49+00:00"
     },
     {
+      "title": "himx.o - | Stock Price & Latest News | Reuters - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQWw2ZXBVZjdMRGZ2ZXd5N3FfT2l3YVB0akt1QnkzTndwUGprQmx2bHVyWHpkR2hkaUd5cl9fUlp4YXl2QlNRRlJkc3k5YmtpRHdzU0o5T1NjYWFnXzNnTmUyYy1QLTFmUVctY0c4Q1p2MEJ5cEdOMXN4S0NIR2YxSS16Y1M?oc=5",
+      "summary": "himx.o - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:25:49+00:00"
+    },
+    {
       "title": "3712.T - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMXdsQWJldUlHSTktRHZuTFc1a3N3N25zb3d0SGhjSXVMWUR4WC1yd3dKV1dyUkg3MEd6NzJJUFdFQjh2OVJFN0xrMVZTbWlNa3JqUWJZLU83ZVA0YWtKUWZKY1U0dHpXUW9oQVBZel96eV9Vd2pGejBjR2Vpdmw4LTNpTUs?oc=5",
       "summary": "3712.T - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
@@ -2533,6 +2573,14 @@
       "title": "dometic.st - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS2pkMGVVdnpYQVFIM0ZwXzJ4cm5CZUEtNjRjLXJzZnJ6c0JzYWxRTENSVzZOcTJMQmpOLWhRZk1PeVBuMGo5Sms1TGlsbVR0LWxkcUdEeGtLTE9TUDA0a2JJU2NDTElqTmUxRW9feHlMV010Ym5QQXNiLXZlZ2YxbG9YMGg2bnFVSGc?oc=5",
       "summary": "dometic.st - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:23:21+00:00"
+    },
+    {
+      "title": "dometic.st - | Stock Price & Latest News | Reuters - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS2pkMGVVdnpYQVFIM0ZwXzJ4cm5CZUEtNjRjLXJzZnJ6c0JzYWxRTENSVzZOcTJMQmpOLWhRZk1PeVBuMGo5Sms1TGlsbVR0LWxkcUdEeGtLTE9TUDA0a2JJU2NDTElqTmUxRW9feHlMV010Ym5QQXNiLXZlZ2YxbG9YMGg2bnFVSGc?oc=5",
+      "summary": "dometic.st - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-15T12:23:21+00:00"
@@ -3162,6 +3210,14 @@
       "published": "2026-09-15T11:23:49+00:00"
     },
     {
+      "title": "PBI.P - | Stock Price & Latest News | Reuters - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRzk4ZVZUVlczZXR1bHNXVlZmbWx1c29JT19nQ2I3YkluTzNLMVFCeGs4ajZzVlJrUGFycDk0UnJ4LWVnMnJFejVEbURIc2t2b1NXbXBzdWNvWHBUT0o3UVVENFRyMjljWVlxSWR0bUI0blU4bjVpa2xxY0t4N2FDM3NOcw?oc=5",
+      "summary": "PBI.P - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T11:23:49+00:00"
+    },
+    {
       "title": "マンション１１階から５歳児転落死　ベランダ手すり乗り越えたか―東京",
       "link": "https://www.jiji.com/jc/article?k=2026091501003&g=soc&m=rss",
       "summary": "",
@@ -3661,6 +3717,14 @@
       "title": "601607.ss - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcU90YjVHWU9KMGVxcDMzWE4wdkUxc0hvYTNrYlZzenlBbXRQWGlDRVp2bU5sWURtQ3hoanc0Q1BMVFBveUdrc1JOOW1vTzBOY2JWYi1nOGs3cjBMdmdlemJzWmFkNzhHZEVfcGUxVENNMmpfMWxSelNLYWk1bHBFOE1OTk9FdWFncHhab3V3?oc=5",
       "summary": "601607.ss - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T10:54:58+00:00"
+    },
+    {
+      "title": "601607.ss - | Stock Price & Latest News | Reuters - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcU90YjVHWU9KMGVxcDMzWE4wdkUxc0hvYTNrYlZzenlBbXRQWGlDRVp2bU5sWURtQ3hoanc0Q1BMVFBveUdrc1JOOW1vTzBOY2JWYi1nOGs3cjBMdmdlemJzWmFkNzhHZEVfcGUxVENNMmpfMWxSelNLYWk1bHBFOE1OTk9FdWFncHhab3V3?oc=5",
+      "summary": "601607.ss - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-15T10:54:58+00:00"
