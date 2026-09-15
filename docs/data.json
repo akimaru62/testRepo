@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T16:48:32.353404+00:00",
+  "generated_at": "2026-09-15T17:07:51.649142+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -298,6 +298,14 @@
       "published": "2026-09-15T18:00:00+00:00"
     },
     {
+      "title": "Jiga (YC W21) Is Hiring Product Engineer (Remote/US)",
+      "link": "https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd",
+      "summary": "Article URL: https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd\nComments URL: https://news.ycombinator.com/item?id=49715446\nPoints: 0\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-15T17:00:31+00:00"
+    },
+    {
       "title": "「金融商品取引法第二条に規定する定義に関する内閣府令の一部を改正する内閣府令」等の公布及びパブリックコメントの結果等について公表しました。",
       "link": "https://www.fsa.go.jp/news/r8/sonota/20260915/20260915.html",
       "summary": "",
@@ -336,6 +344,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-15T16:45:00+00:00"
+    },
+    {
+      "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
+      "link": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
+      "summary": "Article URL: https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/\nComments URL: https://news.ycombinator.com/item?id=49715113\nPoints: 27\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-15T16:38:45+00:00"
     },
     {
       "title": "What investors need to do — and mistakes not to make — in today’s uncertain world",
@@ -394,12 +410,28 @@
       "published": "2026-09-15T16:11:00+00:00"
     },
     {
+      "title": "Iran war has left US with munitions ‘shortfall’, Pentagon watchdog says",
+      "link": "https://www.ft.com/content/e89bfb29-2aef-40ec-9c9d-b9c1afa783a8?syn-25a6b1a6=1",
+      "summary": "Inspector general warns of ‘industrial base bottlenecks’ after military spent $22bn on ordnance in first four months of conflict",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-15T16:10:59+00:00"
+    },
+    {
       "title": "Stocks making the biggest moves midday: Skyworks Solutions, Axon, Dave & Buster's, Revvity & more",
       "link": "https://www.cnbc.com/2026/09/15/stocks-making-the-biggest-moves-midday-swks-axon-play-rvty.html",
       "summary": "These are the stocks posting the largest moves midday.",
       "source": "CNBC",
       "category": "海外金融",
       "published": "2026-09-15T16:03:28+00:00"
+    },
+    {
+      "title": "America's Driver's License Breach Is a National Security Disaster",
+      "link": "https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster",
+      "summary": "Article URL: https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster\nComments URL: https://news.ycombinator.com/item?id=49714547\nPoints: 21\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-15T15:58:48+00:00"
     },
     {
       "title": "V1.1 state of open source- OS 4.4 months behind frontier [pdf]",
@@ -562,9 +594,25 @@
       "published": "2026-09-15T14:44:33+00:00"
     },
     {
+      "title": "Closing the IPv6 first-packet gap with GRAND",
+      "link": "https://labs.ripe.net/author/pouria/closing-the-ipv6-first-packet-gap-with-grand/",
+      "summary": "Article URL: https://labs.ripe.net/author/pouria/closing-the-ipv6-first-packet-gap-with-grand/\nComments URL: https://news.ycombinator.com/item?id=49713337\nPoints: 13\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-15T14:44:33+00:00"
+    },
+    {
       "title": "The CSS Zen Garden dream shipped",
       "link": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/",
       "summary": "Article URL: https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/\nComments URL: https://news.ycombinator.com/item?id=49713262\nPoints: 3\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-15T14:40:08+00:00"
+    },
+    {
+      "title": "The CSS Zen Garden dream, finally shipped",
+      "link": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/",
+      "summary": "Article URL: https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/\nComments URL: https://news.ycombinator.com/item?id=49713262\nPoints: 27\n# Comments: 12",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-15T14:40:08+00:00"
@@ -616,6 +664,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-15T14:26:41.354278+00:00"
+    },
+    {
+      "title": "Show HN: Check if your IP has appeared in a residential proxy network",
+      "link": "https://haveibeenproxied.com/",
+      "summary": "Article URL: https://haveibeenproxied.com/\nComments URL: https://news.ycombinator.com/item?id=49713037\nPoints: 18\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-15T14:24:47+00:00"
     },
     {
       "title": "The Inference Hardware Revolution of 2026",
@@ -829,6 +885,14 @@
       "title": "Java 27 Released",
       "link": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
       "summary": "Article URL: https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/\nComments URL: https://news.ycombinator.com/item?id=49712041\nPoints: 25\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-15T13:13:43+00:00"
+    },
+    {
+      "title": "Java 27",
+      "link": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
+      "summary": "Article URL: https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/\nComments URL: https://news.ycombinator.com/item?id=49712041\nPoints: 246\n# Comments: 191",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-15T13:13:43+00:00"
@@ -1741,6 +1805,14 @@
       "title": "25 Years of Mass Surveillance Is Enough",
       "link": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
       "summary": "Article URL: https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html\nComments URL: https://news.ycombinator.com/item?id=49710883\nPoints: 14\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-15T11:26:48+00:00"
+    },
+    {
+      "title": "25 years of mass surveillance is enough",
+      "link": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+      "summary": "Article URL: https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html\nComments URL: https://news.ycombinator.com/item?id=49710883\nPoints: 518\n# Comments: 162",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-15T11:26:48+00:00"
