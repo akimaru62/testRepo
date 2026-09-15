@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T14:08:47.275701+00:00",
+  "generated_at": "2026-09-15T14:26:45.011783+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -330,6 +330,46 @@
       "published": "2026-09-15T17:00:00+00:00"
     },
     {
+      "title": "空自無人機グローバルホーク墜落か　通信途絶、一部機体発見―鳥取沖",
+      "link": "https://www.jiji.com/jc/article?k=2026091500758&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-15T14:26:41.354333+00:00"
+    },
+    {
+      "title": "対イラン作戦で弾薬不足　監察官が報告書―米国防総省",
+      "link": "https://www.jiji.com/jc/article?k=2026091501138&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-15T14:26:41.354278+00:00"
+    },
+    {
+      "title": "Oil Futures Rise on Continuing Supply Disruption Worries",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-stabilizers-in-crude-market-start-to-weaken-5dc85781?mod=rss_markets_main",
+      "summary": "Oil futures rose amid market pessimism about flows out of the Middle East following the outage of a key Saudi pipeline and the increased Houthi threat to Red Sea shipping.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-15T14:16:00+00:00"
+    },
+    {
+      "title": "Classic budgeting rules don’t work anymore — even if your household makes $100,000. Here’s what does.",
+      "link": "https://www.marketwatch.com/story/classic-budgeting-rules-dont-work-anymore-even-if-your-household-makes-100-000-heres-what-does-cfb235a8?mod=mw_rss_topstories",
+      "summary": "Spending guidelines designed to put diligent consumers in a solid financial position may not set them up to succeed in today’s economy.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-15T14:14:00+00:00"
+    },
+    {
+      "title": "Show HN: Jexxa: High Speed on Device Dictation",
+      "link": "https://jexxa.org",
+      "summary": "Jexxa Demo: https://lnkd.in/p/gvpF4nJN\n\nComments URL: https://news.ycombinator.com/item?id=49712720\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-15T14:05:42+00:00"
+    },
+    {
       "title": "Stocks Lower as 10-Year Treasury Yield Hits Fresh High",
       "link": "https://www.wsj.com/finance/stocks/stock-futures-retreat-10-year-treasury-yield-holds-above-5-as-investors-await-fed-decision-1cde847e?mod=rss_markets_main",
       "summary": "U.S. stocks weakened,  with the Dow industrials leading modest declines.",
@@ -354,12 +394,44 @@
       "published": "2026-09-15T14:01:00+00:00"
     },
     {
+      "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
+      "link": "https://github.com/greentfrapp/panel",
+      "summary": "Article URL: https://github.com/greentfrapp/panel\nComments URL: https://news.ycombinator.com/item?id=49712621\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-15T13:58:37+00:00"
+    },
+    {
+      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+      "link": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cqgk5e2j0gg8o\nComments URL: https://news.ycombinator.com/item?id=49712409\nPoints: 6\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-15T13:41:28+00:00"
+    },
+    {
       "title": "DOJ Says Binance Customers Used Crypto Exchange to Funnel Iran Oil Money",
       "link": "https://www.wsj.com/finance/currencies/doj-says-binance-customers-used-crypto-exchange-to-funnel-iran-oil-money-d546b0a9?mod=rss_markets_main",
       "summary": "Prosecutors said in total around $1.5 billion was sent to Iran through a series of interrelated digital wallets.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-15T13:39:00+00:00"
+    },
+    {
+      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+      "link": "https://withcapsule.app/",
+      "summary": "Hey HN,I always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and sharing it afterwards was not easy. Over the last few months, I've been building an app called Capsule (it’s also the file extension name) written in Rust with Tauri 2.0 that allows packing an HTML app and its data into a single SQLite file.The HTML file and any related assets are directly embedded in the database. User data can either be saved as a localStorage key/value store or via a MongoDB-inspired collections API as documents, saved in a table in the file. You can also save other assets, like PDF files or images, directly in the database to keep different documents together. All data can be easily exported to CSV or JSON if needed.Privacy and security were a big priority for me, so documents cannot do anything out of the box. They don’t have direct access to the file system and they require permission to access the internet. The permission model is still something I’m working to improve. Capsule documents can also use local or remote AI models for document specific AI features.One downside with this approach is that multiple people working on it will create different copies. To make it possible to merge different copies of the same file, each data entry has a unique UUID and timestamp.I’m planning to open up the file format specification for the 1.0 version of the app so other apps can read or write Capsule files.You can try it out in the web preview at https://withcapsule.app/preview with pre-built templates or use any AI provider of your choice to create a custom, Capsule-optimized app by using the following prompt:\"Please read the app wizard instructions at https://withcapsule.app/prompt.txt and help me design an app.“I’m still working on the file format but there are migrations for each new version, so data should never be lost when using newer versions of the app in the future. Please let me know if you have any ideas or use cases where this might make sense or does not work.\n\nComments URL: https://news.ycombinator.com/item?id=49712278\nPoints: 18\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-15T13:31:40+00:00"
+    },
+    {
+      "title": "Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks",
+      "link": "https://github.com/ordewell/ordewell",
+      "summary": "Article URL: https://github.com/ordewell/ordewell\nComments URL: https://news.ycombinator.com/item?id=49712276\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-15T13:31:37+00:00"
     },
     {
       "title": "エネ施設への攻撃停止、ロ・ウクライナが「同意」　トランプ氏",
@@ -450,12 +522,28 @@
       "published": "2026-09-15T13:13:43+00:00"
     },
     {
+      "title": "IWGG.SG - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcEtNazZHWktoMFBRWE43VzR4WVpaZVltNEozMnh3UVBMQ05MYk5MeWhQNVIxMkJWWVR5aWZGenZLbnNtYU81M2g5c0NjN09rUW1NU00xYmUxSEpHeW1mSEhuRm9xa29sTWZpbXEwazZrZkx5MkdENFdsMVN4Y0pfUW5jNDVoaUNZQWtF?oc=5",
+      "summary": "IWGG.SG - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T13:03:29+00:00"
+    },
+    {
       "title": "1VYn.F - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWRuMHZ6NUtCV1FxVG41QzVMRldkWU9veXBhU2ZIZ3pCdWRnVmV3eWtUU0VJamxzc251MnNhQzF3azlIeE55WnJEU3pteXBpU25TYnNlOUZHMmlDeVVCdFUzZnVfVEotX1hpZzdvcVBOSmd4dHkxczY1c252VWtfLWVWdmM?oc=5",
       "summary": "1VYn.F - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-15T13:03:03+00:00"
+    },
+    {
+      "title": "R5P.SG - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT3pWbjNUSDJMSzJzcUNudEc5TTd0YjZ6cXVHcndGdzNiMWszblpvOTZDUllhRFdDTU9MOFZiS04zRklFLUFzMlFjbEFNc3FYTDEzRWNRakEzS25XZDk4MjhESkQzOUJBbUttWXpxRWRoNkcwRWMyWVE0VlBTUDRkOXNVdUVpcWdSRUE?oc=5",
+      "summary": "R5P.SG - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T13:02:54+00:00"
     },
     {
       "title": "0712.SZ%5EK01 - | Stock Price & Latest News | Reuters - ロイター",
@@ -482,12 +570,44 @@
       "published": "2026-09-15T13:00:00+00:00"
     },
     {
+      "title": "CULP.N - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc3g0RTVFZ0VyS0dBb2k0Y0JCNy04NjB0S19FcDBjZFFscWJJYjJpZi1tMU1adTRMVmJ1SFZHcVlqQ01BdHQwSnl3eVl2aTd3clhYVU92TDJEOHM4cGduVmpsaEdSVWd1ckdjOGxua2gwZjIyQ0xQb2otRG1oeFVwam1TRU4?oc=5",
+      "summary": "CULP.N - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:59:07+00:00"
+    },
+    {
+      "title": "4521.T - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUjd6YnVaQlZzWFBNMzJHSmkwYVdNMXhKSWRWT1FxRWRja0tCQ1NkcVpCMzVfR1BUUloxdUIyaXFYcTA2aEFUUkE4NmhDbm9zMm41OWoxREo0VmNEMnZaemhGTldYMHhibmlhTFlTc3U4dTR0QlpwbkE5UVhPU3JQdQ?oc=5",
+      "summary": "4521.T - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:56:36+00:00"
+    },
+    {
       "title": "NNEUR.xbo - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONWczQjV1YVRCeHk5U0N3a0QxT3N4a2I1NmpWaUxvMnpjcGxQZ2lYTFBlUHYtQ3Vha2RCMmcwYU9mUGNaZVJQMUtZQVJzXzRxY3pUMnYwOWN3UUhEY0s4d3FtOVFWeUtndk92cUtncnFfa0UxZ0dtelVmcmx1amhxdHZFRVo?oc=5",
       "summary": "NNEUR.xbo - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-15T12:56:31+00:00"
+    },
+    {
+      "title": "0BO.SG - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOTh4d1lxTEhONzhwdktScElZZ1E2dXpiVWloVS1ITnc0QkxYSXlCcVd5OU4wM2VaZlVlQ3BuVC1RUkg0bmxLcGF0U09IVl9YUDdBSnNOZ1hzVC1JZzBDS1MxMjRNWnlHOGhvQ3RLUGg1ZlRzTzloZnB1Z0ZWUFNrQm1rVkc?oc=5",
+      "summary": "0BO.SG - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:56:22+00:00"
+    },
+    {
+      "title": "AB.N - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdF9hWExyUjVSZmR6X04zOXZ1TGZmUWRSRFB0Q3JJZ3ZMZXFYRUlGLTZnMjlvVWdyU05GRUR2cjNvcnFvS09OazdfbDJPNi1VWlZzcHRrdUZhUTJFWFBJOEdyMzFqUVJja0pNcHBxanBlVHBEZ2YwbkNlamVkNWE0Q1BTQTAzclU?oc=5",
+      "summary": "AB.N - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:56:18+00:00"
     },
     {
       "title": "Wells Fargo just lowered its S&P 500 year-end price target. Will others follow?",
@@ -506,6 +626,14 @@
       "published": "2026-09-15T12:56:00+00:00"
     },
     {
+      "title": "601916ta.SH - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOXhfdzhKUVJwN21MMm1TVDVsUmQ2ZmxvNzNqcS1ldVBxRW5UNURsSkx5bFl4bFZLaENpTUZwRjlGRDlmUVNHdEdvY0NLNGZjNXRXRmw0ejk0VmhwaHdkWmtQSWhTMUhETVBLTkw4REZ6ZmZUVFFQTFJEbEh0UlhWOGxSMDRMVWo0elM2V3NjaC0?oc=5",
+      "summary": "601916ta.SH - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:54:44+00:00"
+    },
+    {
       "title": "パナソニック、来年のCES参加を見送り　60年連続の出展途切れる",
       "link": "https://www.asahi.com/articles/ASV9H452FV9HPLFA00VM.html?ref=rss",
       "summary": "",
@@ -514,12 +642,36 @@
       "published": "2026-09-15T12:54:26.278623+00:00"
     },
     {
+      "title": "pubm.kl - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRElodFJsNUpZb29KaEpUQzNQcXRoRUVHbDg1MHZxeVA3QXFFRVpfejR5S1N0S29mSVhGWjVBalJycFF1dmtQX29wSF9LYkVQeEtrdWVUOEk3dl9YeXhDRE15WUVPMGM5NjVWYWZld0l1WUFXUTJRYXFoSUlyNV9BOVM1WUFyUQ?oc=5",
+      "summary": "pubm.kl - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:54:01+00:00"
+    },
+    {
+      "title": "600330.sh - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQkdHU1NDaHhsR2hZYmhCbVdYdUNLWThRNVVZcU1FX3Q5UC0xZkloZlFKS1pWRF9qbm1felpqcUZjTm81SGZSUlR3amZxeFZNMW9EcVNkSGlxY1YtaE1hc3BrLWlvbnRURVB3eGFjYmRXMklETGlqZlNxMUJXY196bVI4eWRHdHBCdHgyU2hB?oc=5",
+      "summary": "600330.sh - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:53:05+00:00"
+    },
+    {
       "title": "Shandong Swan Cotton Industrial Machinery Stock Co Ltd - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdTdOQjBhOXFYS2l0bTVnUjI5Y2VTTVZ4UW1sVUFwS252Z3ZTNDVSN1RWMzIxZm1CeW11WlVPUjFTYTBZVDc4UVd2SXMzRWJOOEtJTWdER0hHYzcyeE9YRXplYjk3d1ZhT0luZXA1NEswQVF5eTI5Q0h2aHVLM2wxLTB6VkZFdVds?oc=5",
       "summary": "Shandong Swan Cotton Industrial Machinery Stock Co Ltd&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-15T12:53:04+00:00"
+    },
+    {
+      "title": "8VK.H - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbGRtVmdZWlNzTE1qQlFtQ1VoVXNnd0xwbzZSaDQ3N2wtMTVwVTR2NGN1WXJBY3V3QjRMN3RSemJld2M4bk40RVpTTms2c3ZEOUhaWE03Nk9uUTRlX0xNM245MkpKX2pCRkZXVFVSTkhtaDUtcU1uZmlBR1EyS0xOdkZUVlVMS0dt?oc=5",
+      "summary": "8VK.H - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:52:07+00:00"
     },
     {
       "title": "LODE.DG - | Stock Price & Latest News | Reuters - ロイター",
@@ -544,6 +696,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-15T12:51:00+00:00"
+    },
+    {
+      "title": "atea.ol - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRmh0VHIwVTcwUjJHaXY1NU1GeV9aVmtBTWZYZG1velZRYmgzMVh2YVpKR1o3MTczLTlMeFlPWkhNOURHcDNNdzV4Rlg4MkFkZm1DTkFBLXNuTjNwRmJyNF9rb2pzelhVX1dIZ0dYYzlZQlhYVVJ3bWNrWjJGTkR0OEtB?oc=5",
+      "summary": "atea.ol - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:48:33+00:00"
     },
     {
       "title": "600048.SS - | Stock Price & Latest News | Reuters - ロイター",
@@ -602,6 +762,14 @@
       "published": "2026-09-15T12:31:00+00:00"
     },
     {
+      "title": "200725.sz - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZTI4ZUJYQ2gxdUpmMHFQY0JQdm0tRXdkeTA4dGRibXZPYXZLa3lqakJwRGRTbFdBdmF2NTJqNG9wTmdEdXR3dUtmajEtS09FdWU4SDNBWVctNlc0U0NOMVhzYWg1M19rZEFpbFd0UzczLWxza25Ba2FzSnpfOXRkaGhEOUItUlVQdzhVTHpn?oc=5",
+      "summary": "200725.sz - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:29:08+00:00"
+    },
+    {
       "title": "Wells Fargo just cuts its S&P 500 price target. Will others follow?",
       "link": "https://www.marketwatch.com/story/wells-fargo-just-cuts-its-s-p-500-price-target-will-others-follow-e32f968a?mod=mw_rss_topstories",
       "summary": "It what may be a first since the early days of the war between the U.S. and Iran, a Wall Street firm is lowering rather than raising its S&amp;P 500 year-end target.",
@@ -642,6 +810,14 @@
       "published": "2026-09-15T12:25:06+00:00"
     },
     {
+      "title": "019490F.KS - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWWtrSVJyYmNxM0NmZlplcXR0dHF0RGZSTklBT2NfbVh2U2RhOFlOdjF1REhEMENnaW1ORE1mZTQwbWlVd01fMlp4WkN1bEt4SHMyeDU2RXNOaTQxLWVTdld5bG9zWXZYSXIzYm50RGlSZ1JJaktkTUp2QWtENTNpMkhQU29sdw?oc=5",
+      "summary": "019490F.KS - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:24:30+00:00"
+    },
+    {
       "title": "MANU.N - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVExJSmtWYW85WGE2MDI0SUIyR0tIb09KdXg4VDRJY2Fmeml0eHBGR2hvSjB0SzVyQkVXR25oUWhIX2g3eDlyZTEyMU1CUVdoNjQ4THZWamdKNkVPbjdzbUVyaFFYUVVIbGI4dzZCV1d1eXNTMnVFb3c0ejNKLVBMSA?oc=5",
       "summary": "MANU.N - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
@@ -656,6 +832,22 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-15T12:24:24+00:00"
+    },
+    {
+      "title": "WM - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVlNCUHZIQzNQMURjd3VsbHF6eGF2UUVUQWVMd3hfeWF3OWg3aE51blpxU0c1WGRELXRNR2pTQ2JWOVZmUjZ6WWM5SVZrVndIMEh1QVQtbm9tM3U2Z2t2V1RVNVNZajJCUVdGRk5vYUpXLTBmZUlFQjZ2QlMyelFTbWp0UlM?oc=5",
+      "summary": "WM - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:23:32+00:00"
+    },
+    {
+      "title": "dometic.st - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS2pkMGVVdnpYQVFIM0ZwXzJ4cm5CZUEtNjRjLXJzZnJ6c0JzYWxRTENSVzZOcTJMQmpOLWhRZk1PeVBuMGo5Sms1TGlsbVR0LWxkcUdEeGtLTE9TUDA0a2JJU2NDTElqTmUxRW9feHlMV010Ym5QQXNiLXZlZ2YxbG9YMGg2bnFVSGc?oc=5",
+      "summary": "dometic.st - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:23:21+00:00"
     },
     {
       "title": "pcty.oq - | Stock Price & Latest News | Reuters - ロイター",
@@ -730,12 +922,36 @@
       "published": "2026-09-15T12:08:26+00:00"
     },
     {
+      "title": "PMAUF.GTC - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWlMeFJveDRWS0xFeG9zSUJyUGNJVGV6S1hRMXYwMWxuZzB5TlpDODB1cC05OUJsQkNvZkN2SjVoQWNfaUF6SG9oTkNvWjAtYkQ1bUltS0VoNlJfanUtMjhnRXlvczRyVnhEeE42TmtwenBCVGU2LXNiemlVOXpYc3g0Ylk?oc=5",
+      "summary": "PMAUF.GTC - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:07:17+00:00"
+    },
+    {
+      "title": "kepe.si - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN2ZrRktxaG9nMncycmN4UlRTUTJSMWJhcWc1bW9RQ0xlNmdVcjduNmxkcVdiLXoxVzNOQWl0WVB2QzRpS3ZUQkxFZEhEMnQxQU9jbDkzMW1VTENwNkFQa3QxQk1VbWNaUW5HQjdvTmwtbDhSTWV3UVVudGNSYXVzekN3?oc=5",
+      "summary": "kepe.si - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:04:31+00:00"
+    },
+    {
       "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
       "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
       "summary": "Article URL: https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/\nComments URL: https://news.ycombinator.com/item?id=49711240\nPoints: 6\n# Comments: 0",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-15T12:01:31+00:00"
+    },
+    {
+      "title": "MA2.F%5EH21 - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYWMzNzl1UmgybndpSEJMdGNzR192eHNLdjBDM2M3X0VpNE5HMFpiN1NfaXpZNnNhVVlkSGtZRWpfMGJ3c0dvU0lQZFY5MXBMZ3ZzT0NDNGtUYUVVUmJWS1Z6ZzlvaWdxaEVIdjNickJFR2tpa21uWkZvMUpiUV9rTVlLMG95Zk4tYjJn?oc=5",
+      "summary": "MA2.F%5EH21 - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T11:58:09+00:00"
     },
     {
       "title": "ANKf.TRE - | Stock Price & Latest News | Reuters - ロイター",
@@ -776,6 +992,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-15T11:50:49+00:00"
+    },
+    {
+      "title": "eufi.pa - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMGRld3F1V01QNWNaWmhrYjlwMkFJSlNMVGgxYmVhWmNDYUVWX2JqbWduNlU1clRSbWNZQjBlckp0OGl1MnFKeTQ1TUNpckVqd08yV05ZaDdVUTY5Z1hFbEpQZmZMYUY2LU5iLURnYTFkNzZyMXNlWTNxX3Q2OHZNQWc5MTlsZw?oc=5",
+      "summary": "eufi.pa - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T11:50:46+00:00"
     },
     {
       "title": "ちいかわグッズ騒動 JR東海回答",
@@ -1048,6 +1272,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-15T11:24:00+00:00"
+    },
+    {
+      "title": "PBI.P - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRzk4ZVZUVlczZXR1bHNXVlZmbWx1c29JT19nQ2I3YkluTzNLMVFCeGs4ajZzVlJrUGFycDk0UnJ4LWVnMnJFejVEbURIc2t2b1NXbXBzdWNvWHBUT0o3UVVENFRyMjljWVlxSWR0bUI0blU4bjVpa2xxY0t4N2FDM3NOcw?oc=5",
+      "summary": "PBI.P - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T11:23:49+00:00"
     },
     {
       "title": "マンション１１階から５歳児転落死　ベランダ手すり乗り越えたか―東京",
