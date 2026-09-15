@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T18:08:29.649121+00:00",
+  "generated_at": "2026-09-15T18:27:37.515952+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -278,9 +278,21 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f5a6b4d2900>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+      "link": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+      "summary": "Article URL: https://www.strix.ai/blog/baseten-harbor-github-pat-takeover\nComments URL: https://news.ycombinator.com/item?id=49716476\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-15T18:11:24+00:00"
+    },
     {
       "title": "その他,「成長投資を促進するための金融戦略 － 資産運用立国のアップグレード －」について公表しました。",
       "link": "https://www.fsa.go.jp/policy/financialservicesstrategy2026/index.html",
@@ -312,6 +324,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-15T17:59:00+00:00"
+    },
+    {
+      "title": "An Update on Wayback Machine Access",
+      "link": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+      "summary": "Article URL: https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/\nComments URL: https://news.ycombinator.com/item?id=49716176\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-15T17:52:18+00:00"
     },
     {
       "title": "Dystopian Surveillance Is Becoming a Reality",
@@ -400,6 +420,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-15T17:00:00+00:00"
+    },
+    {
+      "title": "US says Chinese groups used Binance to launder $61mn from Iranian oil deals",
+      "link": "https://www.ft.com/content/a3830162-2f40-46b7-8259-0db45fe2acef?syn-25a6b1a6=1",
+      "summary": "US Justice Department files forfeiture lawsuit to seize $61mn in alleged proceeds processed through cryptocurrency platform",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-15T16:52:55+00:00"
     },
     {
       "title": "Institutional investors are dangerously overinvested in stocks",
