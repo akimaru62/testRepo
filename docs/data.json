@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T15:47:34.813395+00:00",
+  "generated_at": "2026-09-15T16:08:21.179152+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -330,12 +330,28 @@
       "published": "2026-09-15T17:00:00+00:00"
     },
     {
+      "title": "V1.1 state of open source- OS 4.4 months behind frontier [pdf]",
+      "link": "https://stateofopensource.ai/state-of-open-source-ai-v1-1.pdf",
+      "summary": "Article URL: https://stateofopensource.ai/state-of-open-source-ai-v1-1.pdf\nComments URL: https://news.ycombinator.com/item?id=49714457\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-15T15:53:30+00:00"
+    },
+    {
       "title": "基準地価、上昇地点数は増加　全国2.1万地点の価格地図はこちら",
       "link": "https://www.asahi.com/articles/ASV9G23DPV9GULFA009M.html?ref=rss",
       "summary": "",
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-15T15:47:30.270964+00:00"
+    },
+    {
+      "title": "Swift 6.4 Released",
+      "link": "https://www.swift.org/blog/swift-6.4-released/",
+      "summary": "Article URL: https://www.swift.org/blog/swift-6.4-released/\nComments URL: https://news.ycombinator.com/item?id=49714239\nPoints: 34\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-15T15:40:14+00:00"
     },
     {
       "title": "Cartesian – AI 3D Modeling for Design",
@@ -456,6 +472,30 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-15T14:47:21+00:00"
+    },
+    {
+      "title": "Closing the IPv6 First-Packet Gap with Grand",
+      "link": "https://labs.ripe.net/author/pouria/closing-the-ipv6-first-packet-gap-with-grand/",
+      "summary": "Article URL: https://labs.ripe.net/author/pouria/closing-the-ipv6-first-packet-gap-with-grand/\nComments URL: https://news.ycombinator.com/item?id=49713337\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-15T14:44:33+00:00"
+    },
+    {
+      "title": "The CSS Zen Garden dream shipped",
+      "link": "https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/",
+      "summary": "Article URL: https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/\nComments URL: https://news.ycombinator.com/item?id=49713262\nPoints: 3\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-15T14:40:08+00:00"
+    },
+    {
+      "title": "What we have learned at OpenShell applying formal methods to control AI agents",
+      "link": "https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/",
+      "summary": "Article URL: https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/\nComments URL: https://news.ycombinator.com/item?id=49713261\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-15T14:40:05+00:00"
     },
     {
       "title": "Canada Looks to Lure Investment With Expensing Change That Promises to Give Country a Tax Edge",
@@ -888,6 +928,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-15T12:55:13+00:00"
+    },
+    {
+      "title": "8202.t - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMWljWEFZSklZWVEtTFRVajdDczc5dV90N0hJOGxCeFFGZ3haNUkyMGI1Zlc4MUF1Z1ZHZ2I3bi0zbGo3ZHBHLWE1QzdPYnNHc0JUQTJsT0FCVjZ4bzVJTThUWXpHRkZmaVhUeHdpYlltM2tDOUJPQTFWXzEzVVZNbg?oc=5",
+      "summary": "8202.t - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:54:52+00:00"
     },
     {
       "title": "601916ta.SH - | Stock Price & Latest News | Reuters - ロイター",
@@ -4445,6 +4493,14 @@
       "title": "Stock Market Today: 10-Year Treasury Yield Hits Fresh High Above 5%",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-15-2026?mod=rss_markets_main",
       "summary": "Oil ticks up to trade above $106 a barrel; Nasdaq futures edge lower",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-15T08:39:51+00:00"
+    },
+    {
+      "title": "Stock Market Today: Dow Falls; 10-Year Treasury Yield Hits Fresh High",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-15-2026?mod=rss_markets_main",
+      "summary": "Oil rises to $108 as energy moves rattle investors",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-15T08:39:51+00:00"
