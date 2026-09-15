@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T16:08:21.179152+00:00",
+  "generated_at": "2026-09-15T16:26:58.393440+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -330,6 +330,54 @@
       "published": "2026-09-15T17:00:00+00:00"
     },
     {
+      "title": "Stocks Decline as 10-Year Treasury Yield Hovers Near 5%",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-retreat-10-year-treasury-yield-holds-above-5-as-investors-await-fed-decision-1cde847e?mod=rss_markets_main",
+      "summary": "U.S. stocks dropped, with the Dow industrials leading modest declines.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-15T16:22:00+00:00"
+    },
+    {
+      "title": "Gold is starting to move on something a lot bigger than inflation",
+      "link": "https://www.marketwatch.com/story/gold-is-starting-to-move-on-something-a-lot-bigger-than-inflation-39509ac5?mod=mw_rss_topstories",
+      "summary": "Gold is weighing the Federal Reserve’s credibility against the traditional price driver of inflation and interest rates.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-15T16:21:00+00:00"
+    },
+    {
+      "title": "Wall Street may have gotten the ‘slower AI’ story all wrong",
+      "link": "https://www.marketwatch.com/story/wall-street-may-have-gotten-the-slower-ai-story-all-wrong-a08613c4?mod=mw_rss_topstories",
+      "summary": "A world where AI companies slow their development isn’t necessarily bad for chip makers or great for software vendors.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-15T16:16:00+00:00"
+    },
+    {
+      "title": "Factory robots long posed a safety threat to human workers. This company says it has solved that problem.",
+      "link": "https://www.marketwatch.com/story/factory-robots-long-posed-a-safety-threat-to-human-workers-one-company-says-its-solved-that-problem-2db84297?mod=mw_rss_topstories",
+      "summary": "Ahead of an expected public-market debut later this year, Agility Robotics says it has cracked the code and devised humanoids that can work safely near real humans.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-15T16:11:00+00:00"
+    },
+    {
+      "title": "Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’",
+      "link": "https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories",
+      "summary": "A pilot program using artificial intelligence to approve care for Medicare beneficiaries has resulted in high levels of denials and delayed decisions and prompted warnings from a vendor about a lack of readiness, according to a lawsuit seeking information about the program.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-15T16:11:00+00:00"
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Skyworks Solutions, Axon, Dave & Buster's, Revvity & more",
+      "link": "https://www.cnbc.com/2026/09/15/stocks-making-the-biggest-moves-midday-swks-axon-play-rvty.html",
+      "summary": "These are the stocks posting the largest moves midday.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-09-15T16:03:28+00:00"
+    },
+    {
       "title": "V1.1 state of open source- OS 4.4 months behind frontier [pdf]",
       "link": "https://stateofopensource.ai/state-of-open-source-ai-v1-1.pdf",
       "summary": "Article URL: https://stateofopensource.ai/state-of-open-source-ai-v1-1.pdf\nComments URL: https://news.ycombinator.com/item?id=49714457\nPoints: 3\n# Comments: 1",
@@ -434,6 +482,14 @@
       "published": "2026-09-15T15:16:00+00:00"
     },
     {
+      "title": "The bitter lesson of browser agents",
+      "link": "https://browser-use.com/posts/bitter-lesson-browser-agents",
+      "summary": "Article URL: https://browser-use.com/posts/bitter-lesson-browser-agents\nComments URL: https://news.ycombinator.com/item?id=49713637\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-15T15:03:38+00:00"
+    },
+    {
       "title": "Leverage or Luck?",
       "link": "https://www.wsj.com/finance/investing/leverage-or-luck-c0641149?mod=rss_markets_main",
       "summary": "If you buy and hold a leveraged ETF, anything can happen.",
@@ -528,6 +584,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-15T14:26:41.354278+00:00"
+    },
+    {
+      "title": "The Inference Hardware Revolution of 2026",
+      "link": "https://spectrum.ieee.org/inference-hardware-revolution",
+      "summary": "Article URL: https://spectrum.ieee.org/inference-hardware-revolution\nComments URL: https://news.ycombinator.com/item?id=49713024\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-15T14:24:08+00:00"
     },
     {
       "title": "Oil Futures Rise on Continuing Supply Disruption Worries",
@@ -4499,6 +4563,14 @@
     },
     {
       "title": "Stock Market Today: Dow Falls; 10-Year Treasury Yield Hits Fresh High",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-15-2026?mod=rss_markets_main",
+      "summary": "Oil rises to $108 as energy moves rattle investors",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-15T08:39:51+00:00"
+    },
+    {
+      "title": "Stock Market Today: Dow Falls 500 Points; 10-Year Treasury Yield Hovers Near 5%",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-15-2026?mod=rss_markets_main",
       "summary": "Oil rises to $108 as energy moves rattle investors",
       "source": "WSJ マーケット",
