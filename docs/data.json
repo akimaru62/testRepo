@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T20:07:57.836599+00:00",
+  "generated_at": "2026-09-15T20:24:22.118294+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -286,11 +286,43 @@
   ],
   "items": [
     {
+      "title": "伊藤匠二冠勝ちタイに　将棋・王座戦",
+      "link": "https://www.jiji.com/jc/article?k=2026091501098&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-15T20:24:16.300684+00:00"
+    },
+    {
+      "title": "Dow clinches its worst September start since 2008 as history repeats itself",
+      "link": "https://www.marketwatch.com/story/dow-clinches-its-worst-september-start-since-2008-as-history-repeats-itself-57d11f3f?mod=mw_rss_topstories",
+      "summary": "The Dow Jones Industrial Average on Tuesday posted its worst performance during the first 10 days of September since 2008.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-15T20:20:00+00:00"
+    },
+    {
+      "title": "Top Senate Republican floats a diesel export ban as prices soar. It might not work.",
+      "link": "https://www.marketwatch.com/story/top-senate-republican-floats-a-diesel-export-ban-as-prices-soar-it-might-not-work-45966943?mod=mw_rss_topstories",
+      "summary": "With diesel prices hitting a record $6.27 a gallon, Washington is talking about a maneuver that could ultimately make matters worse.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-15T20:15:00+00:00"
+    },
+    {
       "title": "書店販売をやめて定期購読限定になった｢週刊ダイヤモンド｣が今度は紙の雑誌そのものをやめる決断をした背景事情 | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/958174?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "創刊から110年を超える歴史を持つ『週刊ダイヤモンド』が､ついに紙媒体からの撤退を決断。その背景はどこにあるのか。紙の雑誌を続ける東洋経済の取材に､ダイヤモンド社の麻生祐司社長が応じました。",
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
+      "published": "2026-09-15T20:01:00+00:00"
+    },
+    {
+      "title": "Oil Futures Rise as More Oil Routes Are Obstructed",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-stabilizers-in-crude-market-start-to-weaken-5dc85781?mod=rss_markets_main",
+      "summary": "Crude futures rose to their highest level in four months as supply worries increased with threats to alternative supply routes out of the Middle East such as the outage of Saudi Arabia’s pipeline to the Red Sea.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
       "published": "2026-09-15T20:01:00+00:00"
     },
     {
@@ -300,6 +332,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-15T20:00:00+00:00"
+    },
+    {
+      "title": "How much oil-market buffer is left?",
+      "link": "https://www.depletion.org",
+      "summary": "Article URL: https://www.depletion.org\nComments URL: https://news.ycombinator.com/item?id=49718025\nPoints: 4\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-15T19:56:56+00:00"
     },
     {
       "title": "The Fed’s expected interest-rate hike on Wednesday could be the start of something more troubling for investors",
@@ -324,6 +364,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-15T19:39:00+00:00"
+    },
+    {
+      "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
+      "link": "https://github.com/GraafHenk/numberwang",
+      "summary": "Article URL: https://github.com/GraafHenk/numberwang\nComments URL: https://news.ycombinator.com/item?id=49717605\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-15T19:27:35+00:00"
     },
     {
       "title": "Here’s what investors need to watch for on Wednesday — in addition to a Fed rate hike",
@@ -5551,6 +5599,14 @@
     },
     {
       "title": "Stock Market Today: Dow Falls; 10-Year Treasury Yield Hovers Near 5%",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-15-2026?mod=rss_markets_main",
+      "summary": "Oil rises above $108 as energy moves rattle investors",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-15T08:39:51+00:00"
+    },
+    {
+      "title": "Stock Market Today: Dow Falls; 10-Year Treasury Yield Closes Near 5%",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-15-2026?mod=rss_markets_main",
       "summary": "Oil rises above $108 as energy moves rattle investors",
       "source": "WSJ マーケット",
