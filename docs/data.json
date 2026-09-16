@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T14:08:41.717818+00:00",
+  "generated_at": "2026-09-16T14:27:08.980444+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -302,6 +302,62 @@
       "published": "2026-09-16T17:00:00+00:00"
     },
     {
+      "title": "１１、１２月にブラジル戦　なでしこジャパン",
+      "link": "https://www.jiji.com/jc/article?k=2026091601148&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-16T14:27:03.039459+00:00"
+    },
+    {
+      "title": "サチ元大統領に禁錮２５年　コソボ紛争で戦争犯罪―特別法廷",
+      "link": "https://www.jiji.com/jc/article?k=2026091601016&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-16T14:27:03.039446+00:00"
+    },
+    {
+      "title": "物足りなさ残った初戦　積極プレーも２得点―アジア大会・サッカー",
+      "link": "https://www.jiji.com/jc/article?k=2026091601145&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-16T14:27:03.039427+00:00"
+    },
+    {
+      "title": "「よど号」赤木容疑者死亡か　国際手配中、滞在先の北朝鮮で",
+      "link": "https://www.jiji.com/jc/article?k=2026091601165&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-16T14:27:03.039351+00:00"
+    },
+    {
+      "title": "What happens if you never buy a house? What renters are gaining — and giving up",
+      "link": "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
+      "summary": "The high cost of buying a home means that many 20- and 30-somethings are re-evaluating traditional personal-finance advice that assumed homeownership to build wealth.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-16T14:18:00+00:00"
+    },
+    {
+      "title": "More home builders cut prices as buyers get spooked",
+      "link": "https://www.marketwatch.com/story/more-home-builders-cut-prices-as-buyers-get-spooked-4cd4b4ec?mod=mw_rss_topstories",
+      "summary": "A rising share of builders are slashing prices on newly built homes despite increasing construction costs, as buyers get spooked by high mortgage rates.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-16T14:10:00+00:00"
+    },
+    {
+      "title": "AI must not outrun safety controls, DeepMind co-founder warns",
+      "link": "https://www.ft.com/content/0fc3ae6d-732e-4f08-950e-8669b1fcfd8e?syn-25a6b1a6=1",
+      "summary": "Shane Legg launches new institute to explore deployment of artificial general intelligence, amid growing calls for industry slowdown",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-16T14:00:05+00:00"
+    },
+    {
       "title": "「金融商品取引業者等向けの総合的な監督指針」の一部改正（案）に対するパブリックコメントの結果等について公表しました。",
       "link": "https://www.fsa.go.jp/news/r8/shouken/20260916/20260916.html",
       "summary": "",
@@ -310,12 +366,28 @@
       "published": "2026-09-16T14:00:00+00:00"
     },
     {
+      "title": "OpenAI Expands ChatGPT Ads with Sponsored Agents",
+      "link": "https://openai.com/index/reimagining-advertising-with-ai/",
+      "summary": "Article URL: https://openai.com/index/reimagining-advertising-with-ai/\nComments URL: https://news.ycombinator.com/item?id=49727041\nPoints: 12\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-16T13:51:15+00:00"
+    },
+    {
       "title": "Markets Steady as Investors Await Rate Decision",
       "link": "https://www.wsj.com/finance/stocks/oil-pares-gains-stock-futures-steady-as-cautious-optimism-heralds-fed-day-65090da0?mod=rss_markets_main",
       "summary": "Markets were largely calm ahead of the Fed‘s 2 p.m. ET policy announcement.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-16T13:48:00+00:00"
+    },
+    {
+      "title": "DeepMind Paper: Dream-RSI: Recursive Self-Improvement Through Evolving Worlds",
+      "link": "https://arxiv.org/abs/2609.14858",
+      "summary": "Article URL: https://arxiv.org/abs/2609.14858\nComments URL: https://news.ycombinator.com/item?id=49726955\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-16T13:44:40+00:00"
     },
     {
       "title": "U.S. Natural Gas Futures Extend Gains",
