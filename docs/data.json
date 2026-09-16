@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T08:34:11.348119+00:00",
+  "generated_at": "2026-09-16T08:52:04.789552+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -286,6 +286,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f9eaf9b7620>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fdaa24fb770>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -304,6 +308,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-16T14:00:00+00:00"
+    },
+    {
+      "title": "8月の訪日客9.6%減　中国が6割減、9カ月連続で前年割れ",
+      "link": "https://www.asahi.com/articles/ASV9J2R3WV9JULFA016M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-16T08:51:58.744701+00:00"
+    },
+    {
+      "title": "ドクターイエローを保存へ JR西",
+      "link": "https://news.yahoo.co.jp/pickup/6595506?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-16T08:34:20+00:00"
     },
     {
       "title": "【速報】維新、臨時国会で衆院定数削減",
@@ -338,12 +358,28 @@
       "published": "2026-09-16T08:34:07.491482+00:00"
     },
     {
+      "title": "EU to restrict social media and chatbots for children under 15",
+      "link": "https://www.ft.com/content/410db291-f133-4d72-b883-b2d5a32abbf8?syn-25a6b1a6=1",
+      "summary": "Ursula von der Leyen describes AI as ‘second tipping point of our time’ after climate change",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-16T08:27:43+00:00"
+    },
+    {
       "title": "What Altman, Amodei, Huang and Zuckerberg are saying about the raging AI debate",
       "link": "https://www.marketwatch.com/story/what-altman-amodei-huang-and-zuckerberg-are-saying-about-the-raging-ai-debate-afaae83b?mod=mw_rss_topstories",
       "summary": "A product conference at software giant Salesforce turned into the battleground on the new debate on whether there should be a slowdown in artificial intelligence.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-16T08:26:00+00:00"
+    },
+    {
+      "title": "Fed Meeting Today: Markets Steady as Investors Await Warsh Rate Decision",
+      "link": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026?mod=rss_markets_main",
+      "summary": "The 10-year Treasury yield is still just above 5%, with oil retreating slightly",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-16T08:25:11+00:00"
     },
     {
       "title": "｢局部露出でトレンド入り｣｢まさに命がけ｣…ショートスリーパー男･堀大輔の｢1週間生配信｣が視聴者を熱狂させる3要因 | ライフ | 東洋経済オンライン",
