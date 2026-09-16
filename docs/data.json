@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T19:06:19.992448+00:00",
+  "generated_at": "2026-09-16T19:21:41.636485+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -298,6 +298,54 @@
   ],
   "items": [
     {
+      "title": "ＦＲＢは年内にあと１回の追加利上げを行う想定を示した",
+      "link": "https://www.jiji.com/jc/article?k=2026091700072&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-16T19:21:36.233743+00:00"
+    },
+    {
+      "title": "ティラノサウルスは体温３６度　歯の炭素・水素同位体から推定―米大学",
+      "link": "https://www.jiji.com/jc/article?k=2026091700066&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-16T19:21:36.233726+00:00"
+    },
+    {
+      "title": "米ＦＲＢ、３年ぶり利上げ　０．２５％、インフレ長期化回避へ―年内の追加引き締めも想定",
+      "link": "https://www.jiji.com/jc/article?k=2026091700083&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-16T19:21:36.233700+00:00"
+    },
+    {
+      "title": "国策うたう投資で損失160億円　阪神OBや政治家との接点アピール",
+      "link": "https://www.asahi.com/articles/ASV9910V8V99PTIL001M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-16T19:21:35.914398+00:00"
+    },
+    {
+      "title": "As Fed rolls out its first interest-rate hike in 3 years, officials are divided on what to do next",
+      "link": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
+      "summary": "The Fed’s policy-making committee was unanimous in its decision to hike, but forward guidance was split.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-16T19:10:00+00:00"
+    },
+    {
+      "title": "Dow Falls 500 Points as the Federal Reserve Raises Key Interest Rate",
+      "link": "https://www.wsj.com/finance/stocks/oil-pares-gains-stock-futures-steady-as-cautious-optimism-heralds-fed-day-65090da0?mod=rss_markets_main",
+      "summary": "Stocks turned lower after Fed Chairman Kevin Warsh signaled inflation is still too hot.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-16T19:08:00+00:00"
+    },
+    {
       "title": "FRBはなぜ利上げしたのか　日本への影響は　今後のポイントを解説",
       "link": "https://www.asahi.com/articles/ASV9J462XV9JUHBI01VM.html?ref=rss",
       "summary": "",
@@ -320,6 +368,22 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-16T18:57:00+00:00"
+    },
+    {
+      "title": "Accurate Models of AMD Matrix Cores",
+      "link": "https://arxiv.org/abs/2609.14845",
+      "summary": "Article URL: https://arxiv.org/abs/2609.14845\nComments URL: https://news.ycombinator.com/item?id=49731360\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-16T18:56:05+00:00"
+    },
+    {
+      "title": "Show HN: Friday – Self-hosted persistent memory for AI coding agents (MCP)",
+      "link": "https://github.com/itskie/friday",
+      "summary": "Article URL: https://github.com/itskie/friday\nComments URL: https://news.ycombinator.com/item?id=49731353\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-16T18:55:09+00:00"
     },
     {
       "title": "FRBが3年2カ月ぶりに利上げ決定　0.25％幅　インフレに対処",
@@ -560,6 +624,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-16T16:13:55+00:00"
+    },
+    {
+      "title": "Bach choir is a rare symbol of unity in a swing state",
+      "link": "https://www.ft.com/content/fc08dba8-3e16-4262-9e2c-0d59d049efdc?syn-25a6b1a6=1",
+      "summary": "In small-city Pennsylvania, music brings people together from across the political divide",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-16T16:03:27+00:00"
     },
     {
       "title": "15 stocks that have grown dividends the most — and nearly all have beaten the S&P 500",
@@ -1634,6 +1706,14 @@
       "published": "2026-09-16T08:25:11+00:00"
     },
     {
+      "title": "Fed Meeting Today: Federal Reserve Raises Key Interest Rate; Dow Falls More Than 700 Points",
+      "link": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026?mod=rss_markets_main",
+      "summary": "Wednesday’s rate hike was the central bank’s first in three years",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-16T08:25:11+00:00"
+    },
+    {
       "title": "｢局部露出でトレンド入り｣｢まさに命がけ｣…ショートスリーパー男･堀大輔の｢1週間生配信｣が視聴者を熱狂させる3要因 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/958315?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "｢1日30分睡眠｣で話題の堀大輔氏による1週間ライブ配信。衆人環視の中､限界ギリギリの過酷な挑戦が多くの視聴者を魅了しています。しかし､その裏には健康への重大なリスクや｢本当に可能なのか｣という疑念…",
@@ -2008,6 +2088,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-16T04:00:05+00:00"
+    },
+    {
+      "title": "Iran’s hidden leader stirs unease at home",
+      "link": "https://www.ft.com/content/ffe402ca-564a-457f-a861-18083a361e50?syn-25a6b1a6=1",
+      "summary": "Mojtaba Khamenei’s absence from public view has been a source of bafflement and suspicion",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-16T04:00:04+00:00"
     },
     {
       "title": "小麦を栽培する地域では個人主義の文化に､稲作をする地域では集団主義の文化になった納得の理由 | ライフ | 東洋経済オンライン",
