@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T19:21:41.636485+00:00",
+  "generated_at": "2026-09-16T19:33:31.816455+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -298,6 +298,14 @@
   ],
   "items": [
     {
+      "title": "U.S. Natural Gas Futures Slip Ahead of Storage Data",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-extend-gains-4b096c35?mod=rss_markets_main",
+      "summary": "U.S. natural gas futures gave up early gains and settled lower with current heat expected to give way to cooler weather as the month progresses, reducing power-sector demand.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-16T19:27:00+00:00"
+    },
+    {
       "title": "ＦＲＢは年内にあと１回の追加利上げを行う想定を示した",
       "link": "https://www.jiji.com/jc/article?k=2026091700072&g=flash&m=rss",
       "summary": "",
@@ -328,6 +336,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-16T19:21:35.914398+00:00"
+    },
+    {
+      "title": "How good are frontier models at physics?",
+      "link": "https://arxiv.org/abs/2609.13009",
+      "summary": "Article URL: https://arxiv.org/abs/2609.13009\nComments URL: https://news.ycombinator.com/item?id=49731620\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-16T19:19:08+00:00"
     },
     {
       "title": "As Fed rolls out its first interest-rate hike in 3 years, officials are divided on what to do next",
@@ -378,6 +394,14 @@
       "published": "2026-09-16T18:56:05+00:00"
     },
     {
+      "title": "Fed hikes rates as inflation worries push up bond yields",
+      "link": "https://www.reuters.com/live/live-fed-rate-hike-expected-inflation-worries-push-up-bond-yields-2026-09-16/",
+      "summary": "Article URL: https://www.reuters.com/live/live-fed-rate-hike-expected-inflation-worries-push-up-bond-yields-2026-09-16/\nComments URL: https://news.ycombinator.com/item?id=49731356\nPoints: 20\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-16T18:55:21+00:00"
+    },
+    {
       "title": "Show HN: Friday – Self-hosted persistent memory for AI coding agents (MCP)",
       "link": "https://github.com/itskie/friday",
       "summary": "Article URL: https://github.com/itskie/friday\nComments URL: https://news.ycombinator.com/item?id=49731353\nPoints: 3\n# Comments: 0",
@@ -392,6 +416,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-16T18:52:12.480855+00:00"
+    },
+    {
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "link": "https://rohanbansal.com/qorl",
+      "summary": "Article URL: https://rohanbansal.com/qorl\nComments URL: https://news.ycombinator.com/item?id=49731285\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-16T18:50:00+00:00"
     },
     {
       "title": "Precious Metals Relinquish Gains Following Fed Rate Increase",
@@ -421,6 +453,14 @@
       "title": "We've created the first vectorized Quicksort",
       "link": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
       "summary": "Article URL: https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html\nComments URL: https://news.ycombinator.com/item?id=49731054\nPoints: 21\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-16T18:31:35+00:00"
+    },
+    {
+      "title": "Vectorized and performance-portable Quicksort",
+      "link": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
+      "summary": "Article URL: https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html\nComments URL: https://news.ycombinator.com/item?id=49731054\nPoints: 98\n# Comments: 14",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-16T18:31:35+00:00"
@@ -538,6 +578,14 @@
       "published": "2026-09-16T17:31:19+00:00"
     },
     {
+      "title": "GitHub is having trouble counting things",
+      "link": "https://chuckgreenman.com/2026/09/16/counting-at-github",
+      "summary": "Article URL: https://chuckgreenman.com/2026/09/16/counting-at-github\nComments URL: https://news.ycombinator.com/item?id=49730302\nPoints: 23\n# Comments: 17",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-16T17:31:19+00:00"
+    },
+    {
       "title": "ER visits for gambling disorders doubled after expanded online gambling market",
       "link": "https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market",
       "summary": "Article URL: https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market\nComments URL: https://news.ycombinator.com/item?id=49730239\nPoints: 32\n# Comments: 23",
@@ -645,6 +693,14 @@
       "title": "Small Programming Tricks",
       "link": "https://will-keleher.com/posts/small-programming-tricks-matter/",
       "summary": "Article URL: https://will-keleher.com/posts/small-programming-tricks-matter/\nComments URL: https://news.ycombinator.com/item?id=49729000\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-16T15:56:47+00:00"
+    },
+    {
+      "title": "Small programming tricks",
+      "link": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+      "summary": "Article URL: https://will-keleher.com/posts/small-programming-tricks-matter/\nComments URL: https://news.ycombinator.com/item?id=49729000\nPoints: 203\n# Comments: 119",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-16T15:56:47+00:00"
@@ -1707,6 +1763,14 @@
     },
     {
       "title": "Fed Meeting Today: Federal Reserve Raises Key Interest Rate; Dow Falls More Than 700 Points",
+      "link": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026?mod=rss_markets_main",
+      "summary": "Wednesday’s rate hike was the central bank’s first in three years",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-16T08:25:11+00:00"
+    },
+    {
+      "title": "Stock Market Today: Dow Falls 800 Points After Fed Raises Key Interest Rate",
       "link": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026?mod=rss_markets_main",
       "summary": "Wednesday’s rate hike was the central bank’s first in three years",
       "source": "WSJ マーケット",
