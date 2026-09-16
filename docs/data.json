@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T22:06:58.627741+00:00",
+  "generated_at": "2026-09-16T22:22:56.063085+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -298,12 +298,36 @@
   ],
   "items": [
     {
+      "title": "「金利をすぐに下げろ」　ＦＲＢに圧力―トランプ米大統領",
+      "link": "https://www.jiji.com/jc/article?k=2026091700156&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-16T22:22:51.353579+00:00"
+    },
+    {
+      "title": "戦後最長の景気拡大か 実感乏しく",
+      "link": "https://news.yahoo.co.jp/pickup/6595539?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-16T22:19:58+00:00"
+    },
+    {
       "title": "ティラノサウルスの体温は、ヒト並み３６．３度　アメリカの大学が初の推定　代謝が活発か",
       "link": "https://www.jiji.com/jc/article?k=2026091700066&g=int&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-16T22:06:52.767103+00:00"
+    },
+    {
+      "title": "奮発したメガネが台無し？実はやりがちな｢間違った掛け方｣と､見た目の清潔感がぐっと増す《正しいお手入れ方法》 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957649?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ビジネスシーンでの眼鏡選び､デザインや色だけに気をとられていませんか？眼鏡取材歴約20年の筆者が､眼鏡姿を格上げする方法をお伝えします。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-16T22:00:00+00:00"
     },
     {
       "title": "Generac’s stock soars more than 30% after Amazon deal cements company’s status as an AI-power player",
@@ -1178,6 +1202,14 @@
       "published": "2026-09-16T15:35:00+00:00"
     },
     {
+      "title": "Autism is genetic – and why this information matters now",
+      "link": "https://www.autism.org.uk/blog/autism-is-genetic-%E2%80%93-and-why-this-information-matters-now",
+      "summary": "Article URL: https://www.autism.org.uk/blog/autism-is-genetic-%E2%80%93-and-why-this-information-matters-now\nComments URL: https://news.ycombinator.com/item?id=49728536\nPoints: 31\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-16T15:28:08+00:00"
+    },
+    {
       "title": "ソフトバンク、ついにＭ２　投手陣ゼロでつなぐ―プロ野球",
       "link": "https://www.jiji.com/jc/article?k=2026091601188&g=spo&m=rss",
       "summary": "",
@@ -1808,6 +1840,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-16T11:19:11+00:00"
+    },
+    {
+      "title": "Nvidia announces native GPU programming in Rust",
+      "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "summary": "Article URL: https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/\nComments URL: https://news.ycombinator.com/item?id=49724881\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-16T11:15:53+00:00"
     },
     {
       "title": "The Morning Risk Report: Landmark Crypto Bill Fails Procedural Vote, Casting Doubt on New Digital-Asset Rules",
