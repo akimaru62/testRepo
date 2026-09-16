@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T15:07:29.379257+00:00",
+  "generated_at": "2026-09-16T15:24:15.212400+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -302,12 +302,52 @@
       "published": "2026-09-16T17:00:00+00:00"
     },
     {
+      "title": "ソフトバンク、ついにＭ２　投手陣ゼロでつなぐ―プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026091601188&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-16T15:24:09.366279+00:00"
+    },
+    {
+      "title": "頼れる司令塔が躍動　黒川、攻撃をけん引―アジア大会・バスケットボール男子",
+      "link": "https://www.jiji.com/jc/article?k=2026091601131&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-16T15:24:09.366265+00:00"
+    },
+    {
+      "title": "オリックス、Ｂクラス確定　プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026091601190&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-16T15:24:09.366244+00:00"
+    },
+    {
+      "title": "バスケット男子が４強入り　サッカー、バレーは白星発進―愛知・名古屋アジア大会",
+      "link": "https://www.jiji.com/jc/article?k=2026091600790&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-16T15:24:09.366207+00:00"
+    },
+    {
       "title": "呪術廻戦コラボ巡り不正 牛角謝罪",
       "link": "https://news.yahoo.co.jp/pickup/6595532?source=rss",
       "summary": "",
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-09-16T15:05:57+00:00"
+    },
+    {
+      "title": "Show HN: Free WhatsApp MCP (+UI) – Give Your AI Agents Access to WhatsApp",
+      "link": "https://news.ycombinator.com/item?id=49728159",
+      "summary": "Hi,I built Chat-Man because I wanted a cheap way to give my agents access to WhatsApp without integrating a WhatsApp library separately in every project.You get  WhatsApp MCP server, so you can connect WhatsApp to an agent and programmatically read, search, extract and send messages - but also have a web UI for non-techies.You can also receive webhooks for incoming messages for starred conversations.What you can do with the MCP?\n-Read WhatsApp messages and turn them into CRM records\n-Summarise conversations or groups\n-Extract structured information from messages\n-Find messages, participants or other WhatsApp data\n-Send messages\n-Manage group membershipsOf course.. you always need to follow data protection regulation.The web UI:\n-Edit group details\n-See who joined or left\n-See who is most active\n-Export group members\n-Match members against a CSV (e.g. from a CRM)\n-Bulk message members\n-Bulk kick members\n-Create invite links\nFor individual contacts, you can send messages directly from the UI.Why I built it for myself?\nI needed WhatsApp access for several projects (hermo.ai, florahaus.co.uk, …) and didn't want to pay for a WhatsApp integration for each project.Link: https://chat-man.netI’d love to get some feedback, especially from people building agents that need access to WhatsApp. \nFabian\n\nComments URL: https://news.ycombinator.com/item?id=49728159\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-16T15:04:08+00:00"
     },
     {
       "title": "Senate is still a tossup, but Democrats now have slight edge, prediction market traders think",
@@ -3910,6 +3950,14 @@
       "published": "2026-09-15T12:56:31+00:00"
     },
     {
+      "title": "O648AO.T - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb0dGM0p5a0Vwd0Y5aHFfalM1cVpLN0t1TEYtR1JkV3VvTmJZVnJqeWJFREJYS1pnb0NLbnFXYUtfOG5FdkJuMXpqdEVmb3BRT2NnNEVHZU9fSVBDS25sb3piN3lwOUltNGRNbjhQY183VkJEQ0NKZlpBV21BUG9VVGVMX2VORFU?oc=5",
+      "summary": "O648AO.T - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:56:30+00:00"
+    },
+    {
       "title": "0BO.SG - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOTh4d1lxTEhONzhwdktScElZZ1E2dXpiVWloVS1ITnc0QkxYSXlCcVd5OU4wM2VaZlVlQ3BuVC1RUkg0bmxLcGF0U09IVl9YUDdBSnNOZ1hzVC1JZzBDS1MxMjRNWnlHOGhvQ3RLUGg1ZlRzTzloZnB1Z0ZWUFNrQm1rVkc?oc=5",
       "summary": "0BO.SG - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
@@ -4129,6 +4177,14 @@
       "title": "CGPO.NS - | Stock Price & Latest News | Reuters - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ3hZREMyc2dxQ2YyWERHV0UyQU9CV0xQYjRCcnpmbmU4LUhNSGlyN1NDWVpCUmVHa2JpdVBRNi1NZGNoblNLWlZoTWFZb1lIZUplLVY2cjk0cmNERkdHN19XNi11OVZPZ19fcHZRWW1nMEhnMU1ocThKY1prOXMyMDRXRG4xT0haSTZJ?oc=5",
       "summary": "CGPO.NS - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:54:39+00:00"
+    },
+    {
+      "title": "CGPO.NS - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ3hZREMyc2dxQ2YyWERHV0UyQU9CV0xQYjRCcnpmbmU4LUhNSGlyN1NDWVpCUmVHa2JpdVBRNi1NZGNoblNLWlZoTWFZb1lIZUplLVY2cjk0cmNERkdHN19XNi11OVZPZ19fcHZRWW1nMEhnMU1ocThKY1prOXMyMDRXRG4xT0haSTZJ?oc=5",
+      "summary": "CGPO.NS - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-15T12:54:39+00:00"
@@ -4689,6 +4745,14 @@
       "title": "619A.JSA - | Stock Price & Latest News | Reuters - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY2ZDWXRXQ0JOWV80T1dmNk1HemN2U0pmVmRVTXBINXc0dEs3Y2ZIbHJsOUwwZUhPZ19qYXlvRDNHZDktMllxN0tfVE8yQkZMQzhMdHVoc3BJMTNha2hJWVRJMFRJeFNoQjM2T241RTVoQXoydzJtbm91UlV3U2RCN19jTGdpWmM?oc=5",
       "summary": "619A.JSA - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:25:52+00:00"
+    },
+    {
+      "title": "619A.JSA - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY2ZDWXRXQ0JOWV80T1dmNk1HemN2U0pmVmRVTXBINXc0dEs3Y2ZIbHJsOUwwZUhPZ19qYXlvRDNHZDktMllxN0tfVE8yQkZMQzhMdHVoc3BJMTNha2hJWVRJMFRJeFNoQjM2T241RTVoQXoydzJtbm91UlV3U2RCN19jTGdpWmM?oc=5",
+      "summary": "619A.JSA - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-15T12:25:52+00:00"
@@ -5654,6 +5718,14 @@
       "published": "2026-09-15T11:32:08+00:00"
     },
     {
+      "title": "SIG.DY - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT0NkQW5LUnZjVTdoR0hMNllyV1BfTFRmbTlLNFFWMkhHaFh0T2lEMEFteUE3VEdkaHBpQzlwZEp0eXNBeWh6U0Mzc2FkRFpQTEpBbjFkTWN3a0RBNXZEdGpqWGtJbzlwS1NQM2NoU1lZNXc1emFLODB6WHRPVEpQeg?oc=5",
+      "summary": "SIG.DY - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T11:32:08+00:00"
+    },
+    {
       "title": "4551.TW - | Stock Price & Latest News | Reuters - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdWg1OU02czJvR0Y5c2VMS2ZGU3VNVjNXVzl5cVluSHpFekdNc0Q4bDF5eFZIY3pMTU43S3VZMzBnbjNKbDZUYWMzWWpEbXk0TjRKRkhPYVdUb0ozbTc0dEhRbVdXbmdnZW5GS1JGNkpEWEdPQWdjcDMyelJYZ25EckZn?oc=5",
       "summary": "4551.TW - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
@@ -5689,6 +5761,14 @@
       "title": "0636.HK - | Stock Price & Latest News | Reuters - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRnNsXzJaOGVWRWxGVWtubW9QMnQ5RkQ1N0J2UlBZQ3BQcTVSVDBZQkdIc2x3ODc1TWkzcVhObFJhYy1mTFdpOXo1ZEYxZGRsSk8yMDQ4NDA0TTB6dXdycTJzemxGNlBQTE9jdlBkU00yTEllWlpTUTNKb2dBMDBkQ2NB?oc=5",
       "summary": "0636.HK - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T11:27:54+00:00"
+    },
+    {
+      "title": "0636.HK - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRnNsXzJaOGVWRWxGVWtubW9QMnQ5RkQ1N0J2UlBZQ3BQcTVSVDBZQkdIc2x3ODc1TWkzcVhObFJhYy1mTFdpOXo1ZEYxZGRsSk8yMDQ4NDA0TTB6dXdycTJzemxGNlBQTE9jdlBkU00yTEllWlpTUTNKb2dBMDBkQ2NB?oc=5",
+      "summary": "0636.HK - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-15T11:27:54+00:00"
@@ -6097,6 +6177,14 @@
       "title": "0218.hk - | Stock Price & Latest News | Reuters - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSndJdlZXbWhVclRRNU9Ub3Q5bVpTLXI1czdLQWRrZ2ZXTWlKd3VMeFl1MDJxSVpuYzB4Z2Y5dGVia0o0SGxmYlh1Z2xDandreUFpQldkWGdSWmJoNEZMVXUzMjduTks3cWZ5aTVYN1E4ZWlZVnVzUTFyT29oMU5zOUx3?oc=5",
       "summary": "0218.hk - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T11:08:24+00:00"
+    },
+    {
+      "title": "0218.hk - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSndJdlZXbWhVclRRNU9Ub3Q5bVpTLXI1czdLQWRrZ2ZXTWlKd3VMeFl1MDJxSVpuYzB4Z2Y5dGVia0o0SGxmYlh1Z2xDandreUFpQldkWGdSWmJoNEZMVXUzMjduTks3cWZ5aTVYN1E4ZWlZVnVzUTFyT29oMU5zOUx3?oc=5",
+      "summary": "0218.hk - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-15T11:08:24+00:00"
@@ -6553,6 +6641,14 @@
       "title": "6301.T - | Stock Price & Latest News | Reuters - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRUJSdGw0TEV6cWVkaU84RDRCYzJTMzlPS3MxSUVBY1R6RDZBSTJZcllnSUJEOWZhN2JxZld6dGZKbFdTNGFoT3cteXp6RTNMR1ZDdkgxeXRpYnFXWUlqdnFTY1lwZnZEcDViR01BWDFqOFRsa0Flak5PVkRxZGt1T2lBMzg?oc=5",
       "summary": "6301.T - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T10:54:56+00:00"
+    },
+    {
+      "title": "6301.T - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRUJSdGw0TEV6cWVkaU84RDRCYzJTMzlPS3MxSUVBY1R6RDZBSTJZcllnSUJEOWZhN2JxZld6dGZKbFdTNGFoT3cteXp6RTNMR1ZDdkgxeXRpYnFXWUlqdnFTY1lwZnZEcDViR01BWDFqOFRsa0Flak5PVkRxZGt1T2lBMzg?oc=5",
+      "summary": "6301.T - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-15T10:54:56+00:00"
