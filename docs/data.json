@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T17:07:18.036899+00:00",
+  "generated_at": "2026-09-16T17:21:35.834115+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -306,6 +306,14 @@
       "published": "2026-09-16T17:00:00+00:00"
     },
     {
+      "title": "Gold Futures Hold Gains Ahead of Fed Decision",
+      "link": "https://www.wsj.com/finance/commodities-futures/rate-hike-views-yields-keep-gold-under-pressure-49c31f66?mod=rss_markets_main",
+      "summary": "Gold futures rose as the market awaited the Fed’s interest-rate decision at 2pm ET, where expectations are for an increase.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-16T16:54:00+00:00"
+    },
+    {
       "title": "The Wedding Guests’ Guide to Saying No",
       "link": "https://www.wsj.com/lifestyle/the-wedding-guests-guide-to-saying-no-1d2b973d?mod=rss_markets_main",
       "summary": "Flights and hotels are now customary expenses, in addition to gifts. But invitations aren’t obligations.",
@@ -330,9 +338,25 @@
       "published": "2026-09-16T16:26:39.801385+00:00"
     },
     {
+      "title": "Claude Cowork and chat are now one Claude",
+      "link": "https://claude.com/blog/cowork-is-now-claude",
+      "summary": "Article URL: https://claude.com/blog/cowork-is-now-claude\nComments URL: https://news.ycombinator.com/item?id=49729412\nPoints: 30\n# Comments: 17",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-16T16:26:25+00:00"
+    },
+    {
       "title": "Code Is Crap",
       "link": "https://testing.googleblog.com/2011/02/this-code-is-crap.html",
       "summary": "Article URL: https://testing.googleblog.com/2011/02/this-code-is-crap.html\nComments URL: https://news.ycombinator.com/item?id=49729228\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-16T16:13:55+00:00"
+    },
+    {
+      "title": "Code Is CRAP [2011]",
+      "link": "https://testing.googleblog.com/2011/02/this-code-is-crap.html",
+      "summary": "Article URL: https://testing.googleblog.com/2011/02/this-code-is-crap.html\nComments URL: https://news.ycombinator.com/item?id=49729228\nPoints: 43\n# Comments: 33",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-16T16:13:55+00:00"
