@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T17:33:37.051480+00:00",
+  "generated_at": "2026-09-16T17:48:08.265141+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1411,6 +1411,14 @@
     },
     {
       "title": "Fed Meeting Today: Treasury Yields Pull Back Ahead of Fed Rate Decision",
+      "link": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026?mod=rss_markets_main",
+      "summary": "10-year Treasury yield falls below 5%, with oil retreating and stocks advancing",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-16T08:25:11+00:00"
+    },
+    {
+      "title": "Fed Meeting Today: Treasury Yields Decline Ahead of Fed Rate Decision",
       "link": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026?mod=rss_markets_main",
       "summary": "10-year Treasury yield falls below 5%, with oil retreating and stocks advancing",
       "source": "WSJ マーケット",
@@ -2920,6 +2928,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-15T19:13:33+00:00"
+    },
+    {
+      "title": "The Siberian Ice Maiden and the Scythian World",
+      "link": "https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian",
+      "summary": "Article URL: https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian\nComments URL: https://news.ycombinator.com/item?id=49717298\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-15T19:09:09+00:00"
     },
     {
       "title": "Learning to solve hard problems in RL for LLMs by never giving up",
