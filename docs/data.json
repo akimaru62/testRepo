@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T21:23:26.753268+00:00",
+  "generated_at": "2026-09-16T21:34:08.299501+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -448,6 +448,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-16T21:00:00+00:00"
+    },
+    {
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "link": "https://arxiv.org/abs/2609.16338",
+      "summary": "Article URL: https://arxiv.org/abs/2609.16338\nComments URL: https://news.ycombinator.com/item?id=49732931\nPoints: 19\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-16T20:59:24+00:00"
     },
     {
       "title": "Fed defies Trump with first rate rise since 2023",
@@ -1000,6 +1008,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-16T16:47:00+00:00"
+    },
+    {
+      "title": "Turkish stocks slide in ‘fund run’ as investors withdraw $1bn",
+      "link": "https://www.ft.com/content/3f9013b1-11a8-4dbd-a985-b0577fd95313?syn-25a6b1a6=1",
+      "summary": "Index provider MSCI raises prospect of cutting Turkey from emerging market to frontier status amid accusations of ‘co-ordinated trading’ by fund managers",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-16T16:39:25+00:00"
     },
     {
       "title": "Traders expect Fed to raise interest rates for first time in 3 years",
