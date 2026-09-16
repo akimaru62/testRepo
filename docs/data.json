@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T16:48:13.879064+00:00",
+  "generated_at": "2026-09-16T17:07:18.036899+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -290,6 +290,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fdaa24fb770>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f5faeb4f770>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -300,6 +304,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-16T17:00:00+00:00"
+    },
+    {
+      "title": "The Wedding Guests’ Guide to Saying No",
+      "link": "https://www.wsj.com/lifestyle/the-wedding-guests-guide-to-saying-no-1d2b973d?mod=rss_markets_main",
+      "summary": "Flights and hotels are now customary expenses, in addition to gifts. But invitations aren’t obligations.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-16T16:47:00+00:00"
+    },
+    {
+      "title": "Traders expect Fed to raise interest rates for first time in 3 years",
+      "link": "https://www.ft.com/content/61b5fbae-9dd6-4980-bd1f-effe54b72d84",
+      "summary": "Kevin Warsh under pressure to tame stubbornly high inflation in move that could draw the ire of Donald Trump weeks out from US midterm elections",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-16T16:32:59+00:00"
     },
     {
       "title": "ヒト脳オルガノイドを移植、機能　遺伝子操作の生体マウスに―米大学",
