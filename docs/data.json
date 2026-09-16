@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T18:52:17.753914+00:00",
+  "generated_at": "2026-09-16T19:06:19.992448+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -298,12 +298,44 @@
   ],
   "items": [
     {
+      "title": "FRBはなぜ利上げしたのか　日本への影響は　今後のポイントを解説",
+      "link": "https://www.asahi.com/articles/ASV9J462XV9JUHBI01VM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-16T19:06:13.478694+00:00"
+    },
+    {
+      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+      "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+      "summary": "The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-16T19:00:00+00:00"
+    },
+    {
+      "title": "Google is playing a different AI game than everyone else, and Wall Street may be missing the point",
+      "link": "https://www.marketwatch.com/story/google-is-playing-a-different-ai-game-than-everyone-else-and-wall-street-may-be-missing-the-point-e91077a3?mod=mw_rss_topstories",
+      "summary": "Investors have been fixated on the relative performance of Alphabet’s AI models when they should instead be cheering the company’s cloud potential, an analyst says.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-16T18:57:00+00:00"
+    },
+    {
       "title": "FRBが3年2カ月ぶりに利上げ決定　0.25％幅　インフレに対処",
       "link": "https://www.asahi.com/articles/ASV9J42NDV9JUHBI01PM.html?ref=rss",
       "summary": "",
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-16T18:52:12.480855+00:00"
+    },
+    {
+      "title": "Precious Metals Relinquish Gains Following Fed Rate Increase",
+      "link": "https://www.wsj.com/finance/commodities-futures/rate-hike-views-yields-keep-gold-under-pressure-49c31f66?mod=rss_markets_main",
+      "summary": "Gold prices slipped after the Federal Reserve raised interest rates as expected.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-16T18:49:00+00:00"
     },
     {
       "title": "The smartest money moves to make now that interest rates are going higher",
@@ -320,6 +352,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-16T18:37:00+00:00"
+    },
+    {
+      "title": "We've created the first vectorized Quicksort",
+      "link": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
+      "summary": "Article URL: https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html\nComments URL: https://news.ycombinator.com/item?id=49731054\nPoints: 21\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-16T18:31:35+00:00"
     },
     {
       "title": "Warsh’s Fed rolls out first interest-rate hike in 3 years — with one more increase expected",
@@ -424,6 +464,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-16T17:39:16+00:00"
+    },
+    {
+      "title": "GitHub Is Having Trouble Counting Things",
+      "link": "https://chuckgreenman.com/2026/09/16/counting-at-github",
+      "summary": "Article URL: https://chuckgreenman.com/2026/09/16/counting-at-github\nComments URL: https://news.ycombinator.com/item?id=49730302\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-16T17:31:19+00:00"
     },
     {
       "title": "ER visits for gambling disorders doubled after expanded online gambling market",
@@ -1571,6 +1619,14 @@
     },
     {
       "title": "Fed Meeting Today: Federal Reserve Raises Key Interest Rate; Dow Turns Lower",
+      "link": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026?mod=rss_markets_main",
+      "summary": "Wednesday’s 0.25% rate hike was the central bank’s first in three years",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-16T08:25:11+00:00"
+    },
+    {
+      "title": "Fed Meeting Today: Federal Reserve Raises Key Interest Rate; Dow Falls 500 Points",
       "link": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026?mod=rss_markets_main",
       "summary": "Wednesday’s 0.25% rate hike was the central bank’s first in three years",
       "source": "WSJ マーケット",
