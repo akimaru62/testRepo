@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T17:48:08.265141+00:00",
+  "generated_at": "2026-09-16T18:09:21.921483+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -297,6 +297,38 @@
     }
   ],
   "items": [
+    {
+      "title": "Federal Reserve raises rates for first time since 2023",
+      "link": "https://www.ft.com/content/61b5fbae-9dd6-4980-bd1f-effe54b72d84",
+      "summary": "Central bank chair Kevin Warsh defies calls from Donald Trump to lower borrowing costs",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-16T18:01:54+00:00"
+    },
+    {
+      "title": "AWS reimagines the getting started experience",
+      "link": "https://aws.amazon.com/blogs/aws/aws-reimagines-the-getting-started-experience/",
+      "summary": "AWS has reimagined the getting started experience with smart and sensible defaults to help developers get started fast so that they can focus on building. New customers can sign up and get started right away with $100 in Free Tier credits, managed project environments, and simplified team and resource permissions. If their workload evolves, customers can activate advanced features to access the full breadth and depth of AWS in one step, with no migration required.",
+      "source": "AWS ブログ (AWS)",
+      "category": "テクノロジー",
+      "published": "2026-09-16T17:50:14+00:00"
+    },
+    {
+      "title": "Comex Gold Settles 1.27% Higher at $4346.30",
+      "link": "https://www.wsj.com/finance/commodities-futures/rate-hike-views-yields-keep-gold-under-pressure-49c31f66?mod=rss_markets_main",
+      "summary": "Gold settled 1.3% higher and silver rose 1.7%, with both metals snapping a two-session losing streak.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-16T17:45:00+00:00"
+    },
+    {
+      "title": "Trump oil ally Harold Hamm to invest in Venezuela",
+      "link": "https://www.ft.com/content/7be92efe-13d6-4d02-9f77-0e8229b3b8fa?syn-25a6b1a6=1",
+      "summary": "Move by Continental Resources marks latest foray by a western oil producer into the country after US military seized president Nicolás Maduro",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-16T17:39:16+00:00"
+    },
     {
       "title": "令和５年金融商品取引法等改正及び社債、株式等の振替に関する法律等改正（３年６月以内施行）に係る内閣府令の公布及びパブリックコメントの結果等について公表しました。",
       "link": "https://www.fsa.go.jp/news/r8/sonota/20260916/20260916.html",
