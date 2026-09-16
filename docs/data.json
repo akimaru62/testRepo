@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T15:35:10.114113+00:00",
+  "generated_at": "2026-09-16T15:47:49.514174+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -302,6 +302,14 @@
       "published": "2026-09-16T17:00:00+00:00"
     },
     {
+      "title": "Dollar Unlikely to Fall Materially if Fed Dampens Rate-Rise Bets",
+      "link": "https://www.wsj.com/finance/currencies/fed-guidance-key-to-asian-fx-outlook-511a4410?mod=rss_markets_main",
+      "summary": "The dollar edged higher. The Fed could dampen rate-rise expectations in its decision, although any dollar selloff is likely to prove limited, Rabobank’s Jane Foley said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-16T15:35:00+00:00"
+    },
+    {
       "title": "ソフトバンク、ついにＭ２　投手陣ゼロでつなぐ―プロ野球",
       "link": "https://www.jiji.com/jc/article?k=2026091601188&g=spo&m=rss",
       "summary": "",
@@ -366,12 +374,28 @@
       "published": "2026-09-16T14:53:32+00:00"
     },
     {
+      "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
+      "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo\nComments URL: https://news.ycombinator.com/item?id=49727661\nPoints: 19\n# Comments: 17",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-16T14:32:15+00:00"
+    },
+    {
       "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
       "link": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/",
       "summary": "Article URL: https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/\nComments URL: https://news.ycombinator.com/item?id=49727627\nPoints: 57\n# Comments: 21",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-16T14:30:36+00:00"
+    },
+    {
+      "title": "Anatomy of a Texture",
+      "link": "https://agentlien.github.io/texture/",
+      "summary": "Article URL: https://agentlien.github.io/texture/\nComments URL: https://news.ycombinator.com/item?id=49727592\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-16T14:28:28+00:00"
     },
     {
       "title": "A warning about 'model welfare'",
