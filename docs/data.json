@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T18:09:21.921483+00:00",
+  "generated_at": "2026-09-16T18:28:57.464493+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -298,7 +298,55 @@
   ],
   "items": [
     {
+      "title": "与党党首は、正式に維新が閣内協力に転じることを確認した",
+      "link": "https://www.jiji.com/jc/article?k=2026091600741&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-16T18:28:51.664832+00:00"
+    },
+    {
+      "title": "１７日の予告先発投手　プロ野球セ・リーグ",
+      "link": "https://www.jiji.com/jc/article?k=2026091600823&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-16T18:28:51.664793+00:00"
+    },
+    {
+      "title": "Fed approves interest rate hike, signals one more to come this year",
+      "link": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html",
+      "summary": "The Federal Reserve on Wednesday approved its first interest rate hike since 2023 and indicated another to come.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-09-16T18:28:00+00:00"
+    },
+    {
+      "title": "Micron’s stock could climb 70% higher thanks to a factor that’s been largely absent so far",
+      "link": "https://www.marketwatch.com/story/microns-stock-could-climb-70-higher-thanks-to-a-factor-thats-been-largely-absent-so-far-2489f2cc?mod=mw_rss_topstories",
+      "summary": "Shares of Micron trade at a stubbornly low valuation but a TD Cowen analyst thinks that could change.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-16T18:26:00+00:00"
+    },
+    {
+      "title": "Here is what changed in the new Fed statement under Warsh",
+      "link": "https://www.cnbc.com/2026/09/16/september-fed-statement-redline.html",
+      "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in July.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-09-16T18:18:54+00:00"
+    },
+    {
       "title": "Federal Reserve raises rates for first time since 2023",
+      "link": "https://www.ft.com/content/61b5fbae-9dd6-4980-bd1f-effe54b72d84",
+      "summary": "Central bank chair Kevin Warsh defies calls from Donald Trump to lower borrowing costs",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-16T18:01:54+00:00"
+    },
+    {
+      "title": "Fed raises rates for first time since 2023 in unanimous decision",
       "link": "https://www.ft.com/content/61b5fbae-9dd6-4980-bd1f-effe54b72d84",
       "summary": "Central bank chair Kevin Warsh defies calls from Donald Trump to lower borrowing costs",
       "source": "Financial Times",
@@ -328,6 +376,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-16T17:39:16+00:00"
+    },
+    {
+      "title": "ER visits for gambling disorders doubled after expanded online gambling market",
+      "link": "https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market",
+      "summary": "Article URL: https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market\nComments URL: https://news.ycombinator.com/item?id=49730239\nPoints: 32\n# Comments: 23",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-16T17:27:37+00:00"
     },
     {
       "title": "令和５年金融商品取引法等改正及び社債、株式等の振替に関する法律等改正（３年６月以内施行）に係る内閣府令の公布及びパブリックコメントの結果等について公表しました。",
@@ -1453,6 +1509,14 @@
       "title": "Fed Meeting Today: Treasury Yields Decline Ahead of Fed Rate Decision",
       "link": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026?mod=rss_markets_main",
       "summary": "10-year Treasury yield falls below 5%, with oil retreating and stocks advancing",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-16T08:25:11+00:00"
+    },
+    {
+      "title": "Fed Meeting Today: Federal Reserve Raises Key Interest Rate; Stocks Edge Higher",
+      "link": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026?mod=rss_markets_main",
+      "summary": "Wednesday’s 0.25% rate hike was the central bank’s first in three years",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-16T08:25:11+00:00"
