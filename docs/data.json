@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T20:08:36.432470+00:00",
+  "generated_at": "2026-09-16T20:25:35.469100+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -298,6 +298,22 @@
   ],
   "items": [
     {
+      "title": "「金のネックレス売るだけ」に注意！　相次ぐ偽造品、「安易な応募だめ」―警視庁",
+      "link": "https://www.jiji.com/jc/article?k=2026091700104&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-16T20:25:31.020839+00:00"
+    },
+    {
+      "title": "Fed Issues First Rate Hike Since 2023",
+      "link": "https://www.wsj.com/finance/investing/fed-issues-first-rate-hike-since-2023-10eea80d?mod=rss_markets_main",
+      "summary": "Plus, Treasury yields climb and OpenAI holds talks about new funding round",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-16T20:21:00+00:00"
+    },
+    {
       "title": "ダイヤモンド社長ロングインタビュー〈後編〉踊り場のダイヤモンド･オンライン､再成長に向けて何をやるのか | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/957897?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "2019年に有料記事を軸としたサブスクモデルに転換し､一時は快進撃を遂げたダイヤモンド･オンライン。しかし現在､有料会員数の伸びは｢踊り場｣にあります。生成AIの台頭や急速な環境変化を背景に､ダイヤ…",
@@ -376,6 +392,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-16T19:10:00+00:00"
+    },
+    {
+      "title": "Fed Raises Rates for First Time in Three Years",
+      "link": "https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe",
+      "summary": "Article URL: https://www.wsj.com/economy/central-banking/fed-raises-rates-for-first-time-in-three-years-08539fbe\nComments URL: https://news.ycombinator.com/item?id=49731515\nPoints: 15\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-16T19:09:22+00:00"
     },
     {
       "title": "Dow Falls 500 Points as the Federal Reserve Raises Key Interest Rate",
@@ -501,6 +525,14 @@
       "title": "Vectorized and performance-portable Quicksort",
       "link": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
       "summary": "Article URL: https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html\nComments URL: https://news.ycombinator.com/item?id=49731054\nPoints: 98\n# Comments: 14",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-16T18:31:35+00:00"
+    },
+    {
+      "title": "Vectorized and performance-portable Quicksort (2022)",
+      "link": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
+      "summary": "Article URL: https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html\nComments URL: https://news.ycombinator.com/item?id=49731054\nPoints: 133\n# Comments: 19",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-16T18:31:35+00:00"
