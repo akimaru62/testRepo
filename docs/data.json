@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T17:21:10.058878+00:00",
+  "generated_at": "2026-09-17T17:33:39.573712+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -318,6 +318,14 @@
   ],
   "items": [
     {
+      "title": "Stocks making the biggest moves midday: Workday, Generac, Vital Farms, Vicor, Tower Semi & more",
+      "link": "https://www.cnbc.com/2026/09/17/stocks-making-the-biggest-moves-premarket-wday-gnrc-vicr-tsem-vitl.html",
+      "summary": "These are some of the stocks posting the largest moves midday.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-09-17T17:22:00+00:00"
+    },
+    {
       "title": "Why growth stocks’ surprising strength may be warning of a market bubble",
       "link": "https://www.marketwatch.com/story/why-growth-stocks-surprising-strength-may-be-warning-of-a-market-bubble-5288a7dc?mod=mw_rss_topstories",
       "summary": "Yet another warning sign of a stock-market bubble is coming from growth stocks’ surprising strength.",
@@ -340,6 +348,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-17T17:00:00+00:00"
+    },
+    {
+      "title": "Show HN: AutoBot – live voice control for long-running AI work",
+      "link": "https://github.com/demeyer1/Autobot",
+      "summary": "I wanted to manage long horizon agentic workstreams via voice, then put my phone down, and have a harness manage completion - extending into full computer use.I was trying to build a personal Jarvis, so I benchmarked AutoBot to see how close I could get:- OSWorld: 32.41% (moved Sol Max from 4th to 1st, beating Opus 5)- AssistantBench: 50.70%Hermes and OpenClaw, but without needing a weekend and VMs. And with the ability to manage deep personalization AND keep strict privacy rules, storing data on encrypted disk.AutoBot is a passion project that grew out of trying to make this all work for myself.I’m sharing it here because I suspect other here have the same frustration. And I’m curious what else everyone is doing for this.It’s an MIT-licensed harness that lives within a project.Native voice lets me discuss tasks, check progress, and steer work; a local ledger tracks unfinished outputs and the evidence needed to call them done. Memory drives more autonomy over time, and “defrags and locks in learning nightly” while a heartbeat system persists execution.I’m not selling anything. If you’re building something similar for yourself, I’d love to compare notes.GitHub: https://github.com/demeyer1/Autobot\n\nComments URL: https://news.ycombinator.com/item?id=49743478\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T16:54:57+00:00"
     },
     {
       "title": "Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS",
@@ -1481,6 +1497,14 @@
       "title": "GLM Built Its Own Inference Infrastructure",
       "link": "https://z.ai/blog/glm-built-its-inference-infrastructure",
       "summary": "Article URL: https://z.ai/blog/glm-built-its-inference-infrastructure\nComments URL: https://news.ycombinator.com/item?id=49737922\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T08:27:09+00:00"
+    },
+    {
+      "title": "How GLM built its own inference infrastructure",
+      "link": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+      "summary": "Article URL: https://z.ai/blog/glm-built-its-inference-infrastructure\nComments URL: https://news.ycombinator.com/item?id=49737922\nPoints: 256\n# Comments: 209",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-17T08:27:09+00:00"
@@ -9465,6 +9489,14 @@
       "title": "6LP0f.TRE - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUTJlalFZWnJMdWIxd0RnRmVfQVRNaENYYzJTMmpjRzdBZzJVSkZYN1BuWU10UG9Pb2lnQXhZYWQ0RFJrQS1PRjZFRkdfVG9CYWg5ak5BWERuQUV6TW1xdGltTG1kNW1wMGtaMlFhd0stWjlBTXpZSm1qSG96X01SSWFWNTNRQXlMTXpYSTVn?oc=5",
       "summary": "6LP0f.TRE - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T11:24:31+00:00"
+    },
+    {
+      "title": "6LP0f.TRE - | Stock Price & Latest News | Reuters - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUTJlalFZWnJMdWIxd0RnRmVfQVRNaENYYzJTMmpjRzdBZzJVSkZYN1BuWU10UG9Pb2lnQXhZYWQ0RFJrQS1PRjZFRkdfVG9CYWg5ak5BWERuQUV6TW1xdGltTG1kNW1wMGtaMlFhd0stWjlBTXpZSm1qSG96X01SSWFWNTNRQXlMTXpYSTVn?oc=5",
+      "summary": "6LP0f.TRE - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-15T11:24:31+00:00"
