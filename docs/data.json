@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T00:20:08.091449+00:00",
+  "generated_at": "2026-09-17T01:06:56.522595+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -294,9 +294,69 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f5faeb4f770>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "イベント,「昭和100年」関連シンポジウムの開催について公表しました。",
+      "link": "https://www.fsa.go.jp/kouhou/showa100nen/showa100symposium.html",
+      "summary": "",
+      "source": "金融庁",
+      "category": "公的機関",
+      "published": "2026-09-17T10:00:00+00:00"
+    },
+    {
+      "title": "Oil Falls Amid Hopes to Contain Mideast Crude Supply Disruption",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-hopes-to-contain-mideast-crude-supply-disruption-e7e3d9f0?mod=rss_markets_main",
+      "summary": "Oil was lower in early Asian trade. The softer prices likely reflect optimism about taming the effect of the deep disruption to Middle East crude-oil exports, said XS.com.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-17T01:02:00+00:00"
+    },
+    {
+      "title": "｢睡眠の質｣は何で変わる？…酒､サウナ､22時のコーヒー､メンタリストDaiGoおすすめサプリを\"人体実験\"した結果 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958189?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "日本人の多くが慢性的な睡眠不足にといわれる現代。お酒やカフェイン､スマホ､サウナ､サプリが睡眠の質にどれだけ影響を与えるのか､\"肉体派ライター\"が人体実験して確かめました！",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-17T00:45:00+00:00"
+    },
+    {
+      "title": "Trump suggests EU-Canada associate member deal would be ‘hostile act’",
+      "link": "https://www.ft.com/content/7b0f8f90-b3ad-4640-916a-f8b5495920a3?syn-25a6b1a6=1",
+      "summary": "US president threatens to impose ‘very serious’ tariffs on the bloc if the measure is approved",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-17T00:30:30+00:00"
+    },
+    {
+      "title": "町工場の娘が異世界転生?!貴族令嬢が｢辺境のボロ屋敷｣に嫁いだ結果　漫画｢商人令嬢アニエス｣（第1話） | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/956662?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "前世からの経営・マーケティングの知識であらゆる問題を解決！悪役令嬢×商売知識チート！ 追放令嬢の痛快成り上がりストーリー！『商人令嬢アニエス 辺境に追放された悪役令嬢は商才を発揮し成り上がる』（集英…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-17T00:30:00+00:00"
+    },
+    {
+      "title": "国債金利情報(令和8年9月16日)",
+      "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-09-17T00:30:00+00:00"
+    },
+    {
+      "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+      "link": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+      "summary": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took.\nThe post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "category": "開発者向け",
+      "published": "2026-09-17T00:26:43+00:00"
+    },
     {
       "title": "ドゥテルテ前比大統領、ＩＣＣに初出廷　１年半ぶり公の場に姿",
       "link": "https://www.jiji.com/jc/article?k=2026091700172&g=int&m=rss",
@@ -304,6 +364,22 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-17T00:20:02.254028+00:00"
+    },
+    {
+      "title": "まさかの「折り紙」?!　マック社員が受講する「ハンバーガー大学」、何を教えている？【実際に体験】",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/17/news057.html",
+      "summary": "マクドナルドの人材教育を担う「ハンバーガー大学」には年間約1万4500人が参加している。現場クルーから店長や店舗オーナーまで受講するというハンバーガー大学では、何を教えているのだろうか。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-09-17T00:20:00+00:00"
+    },
+    {
+      "title": "生成AIで商品選び、なぜ「人」が求められる？　購入後に6割がモヤモヤ",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/17/news044.html",
+      "summary": "商品選びで生成AIを利用する人の約6割が、大量のデータ比較に疲れを感じていることが分かった。一方、AIだけで決めるより、人と会話しながら選ぶほうが納得感があるとの回答が多かった。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-09-17T00:01:00+00:00"
     },
     {
       "title": "40万円近い｢iPhone Duo｣は大量に売れなくても別にいい？ アップルが折りたたみiPhoneに託す｢別の狙い｣ | ビジネス | 東洋経済オンライン",
@@ -464,6 +540,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-16T22:19:27+00:00"
+    },
+    {
+      "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+      "link": "https://harnesstax.github.io/",
+      "summary": "Article URL: https://harnesstax.github.io/\nComments URL: https://news.ycombinator.com/item?id=49733726\nPoints: 16\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-16T22:10:13+00:00"
     },
     {
       "title": "ティラノサウルスの体温は、ヒト並み３６．３度　アメリカの大学が初の推定　代謝が活発か",
