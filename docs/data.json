@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T18:30:22.524548+00:00",
+  "generated_at": "2026-09-17T18:46:07.788413+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -390,6 +390,14 @@
       "published": "2026-09-17T17:16:00+00:00"
     },
     {
+      "title": "T. Rex Had a Body Temperature of 97 Degrees",
+      "link": "https://www.nytimes.com/2026/09/16/science/trex-dinosaur-temperature-warm-blooded.html",
+      "summary": "gift link:\nhttps://www.nytimes.com/2026/09/16/science/trex-dinosaur-tem...paper:\nhttps://www.science.org/doi/10.1126/sciadv.aeb7653\n\nComments URL: https://news.ycombinator.com/item?id=49743691\nPoints: 14\n# Comments: 12",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T17:13:42+00:00"
+    },
+    {
       "title": "Economic Policy for AGI",
       "link": "https://institute.deepmind.com/essays/economic-policy-for-agi/",
       "summary": "Article URL: https://institute.deepmind.com/essays/economic-policy-for-agi/\nComments URL: https://news.ycombinator.com/item?id=49743685\nPoints: 3\n# Comments: 0",
@@ -452,6 +460,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-17T16:54:57+00:00"
+    },
+    {
+      "title": "Show HN: Craigslist for agent skills, curated by a human",
+      "link": "https://skillbay.sh/",
+      "summary": "hey, i'm nick (@skeptrune on X). i have been using ai for a lot of things i'm not an expert in and thought it would be nice to try and buy paid skills for helping it accomplish those tasks more efficiently.for example, redlining contracts, creating ai generated videos, different website designs, and more.curious to see if this resonates with folks here. i figure a more engineering'y audience that's ai coding-agent forward would have similar problems to what inspired me to make this\n\nComments URL: https://news.ycombinator.com/item?id=49743459\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T16:53:51+00:00"
     },
     {
       "title": "Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS",
