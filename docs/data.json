@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T17:06:24.857009+00:00",
+  "generated_at": "2026-09-17T17:21:10.058878+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -318,12 +318,36 @@
   ],
   "items": [
     {
+      "title": "Why growth stocks’ surprising strength may be warning of a market bubble",
+      "link": "https://www.marketwatch.com/story/why-growth-stocks-surprising-strength-may-be-warning-of-a-market-bubble-5288a7dc?mod=mw_rss_topstories",
+      "summary": "Yet another warning sign of a stock-market bubble is coming from growth stocks’ surprising strength.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-17T17:16:00+00:00"
+    },
+    {
+      "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
+      "link": "https://zscc.ai/careers?job_id=109821",
+      "summary": "Article URL: https://zscc.ai/careers?job_id=109821\nComments URL: https://news.ycombinator.com/item?id=49743567\nPoints: 0\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T17:00:59+00:00"
+    },
+    {
       "title": "その他,令和８年６月、令和８年７月に開催された業界団体との意見交換会において、金融庁が提起した主な論点を公表しました。",
       "link": "https://www.fsa.go.jp/common/ronten/index.html",
       "summary": "",
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-17T17:00:00+00:00"
+    },
+    {
+      "title": "Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS",
+      "link": "https://www.aclif.ai/",
+      "summary": "Simple discovery of the provider's default schemas is possible without any credentials (since they are built into the binary). If you want it to fetch customizations of your specific instance, give it credentials to your org.The repo has more details. https://github.com/agent-cli-framework/aclif\n\nComments URL: https://news.ycombinator.com/item?id=49743382\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T16:48:17+00:00"
     },
     {
       "title": "Rising rates throw a spanner in investment bankers’ spreadsheets",
@@ -9134,6 +9158,14 @@
       "published": "2026-09-15T11:39:36+00:00"
     },
     {
+      "title": "648A.JSA - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRG15WVVDcHA5LTVORHFPczNtRlJBT0pBV2xtT1dUaG56b0ZBd0R6NFE4Mlp0RVZBSlpIVlROZ2N2WGJoVkFRN1ZBWG5NZWV2dmpSbWFjd0NCQWp3YjJVSWRqZUczQ0gyRTgweXZJdVJydjJ6LUlYZ3htbEZmeDl1ZmhaMzhWdUZ0dW1oeg?oc=5",
+      "summary": "648A.JSA - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T11:39:03+00:00"
+    },
+    {
       "title": "Stocks making the biggest moves premarket: Dave & Buster's, Enova, Etsy & more",
       "link": "https://www.cnbc.com/2026/09/15/stocks-making-the-biggest-moves-premarket-play-enva-etsy.html",
       "summary": "These are the stocks posting the largest moves in early trading.",
@@ -9425,6 +9457,14 @@
       "title": "6LP0f.TRE - | Stock Price & Latest News | Reuters - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUTJlalFZWnJMdWIxd0RnRmVfQVRNaENYYzJTMmpjRzdBZzJVSkZYN1BuWU10UG9Pb2lnQXhZYWQ0RFJrQS1PRjZFRkdfVG9CYWg5ak5BWERuQUV6TW1xdGltTG1kNW1wMGtaMlFhd0stWjlBTXpZSm1qSG96X01SSWFWNTNRQXlMTXpYSTVn?oc=5",
       "summary": "6LP0f.TRE - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T11:24:31+00:00"
+    },
+    {
+      "title": "6LP0f.TRE - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUTJlalFZWnJMdWIxd0RnRmVfQVRNaENYYzJTMmpjRzdBZzJVSkZYN1BuWU10UG9Pb2lnQXhZYWQ0RFJrQS1PRjZFRkdfVG9CYWg5ak5BWERuQUV6TW1xdGltTG1kNW1wMGtaMlFhd0stWjlBTXpZSm1qSG96X01SSWFWNTNRQXlMTXpYSTVn?oc=5",
+      "summary": "6LP0f.TRE - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-15T11:24:31+00:00"
