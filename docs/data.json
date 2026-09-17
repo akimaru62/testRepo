@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T21:07:30.295307+00:00",
+  "generated_at": "2026-09-17T21:22:59.767424+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -317,6 +317,70 @@
     }
   ],
   "items": [
+    {
+      "title": "プロ野球パ・リーグでソフトバンクが優勝した",
+      "link": "https://www.jiji.com/jc/article?k=2026091701201&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-17T21:22:54.496612+00:00"
+    },
+    {
+      "title": "首相動静（９月１７日）",
+      "link": "https://www.jiji.com/jc/article?k=2026091700244&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-17T21:22:54.496590+00:00"
+    },
+    {
+      "title": "習氏到着、異例の出迎えへ　トランプ氏",
+      "link": "https://www.jiji.com/jc/article?k=2026091800120&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-17T21:22:54.496554+00:00"
+    },
+    {
+      "title": "【更新中】日銀、昼に金融政策発表　政治の思惑は、暮らしへの影響は",
+      "link": "https://www.asahi.com/articles/ASV9K3TK4V9KULFA01NM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-17T21:22:54.124041+00:00"
+    },
+    {
+      "title": "日産、新型スカイラインを12月に発表へ　社長「日産復活の象徴に」",
+      "link": "https://www.asahi.com/articles/ASV9K340HV9KUQIP02XM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-17T21:22:54.124005+00:00"
+    },
+    {
+      "title": "Investors Come Back to AI Stocks, Snapping Market Out of Inflation Gloom",
+      "link": "https://www.wsj.com/finance/stocks/investors-come-back-to-ai-stocks-snapping-market-out-of-inflation-gloom-a7690ce5?mod=rss_markets_main",
+      "summary": "The S&amp;P 500 and Nasdaq composite posted their biggest one-day gains in six weeks.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-17T21:18:00+00:00"
+    },
+    {
+      "title": "New low-cost burstable Amazon EC2 T8i instances are generally available",
+      "link": "https://aws.amazon.com/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/",
+      "summary": "AWS introduces new low-cost burstable Amazon EC2 T8i instances powered by custom sixth generation Intel Xeon Scalable Processors (Granite Rapids), available only on AWS. T8i instances are among the lowest-cost EC2 instances and deliver up to 30% better price performance over previous generation T3 instances.",
+      "source": "AWS ブログ (AWS)",
+      "category": "テクノロジー",
+      "published": "2026-09-17T21:11:48+00:00"
+    },
+    {
+      "title": "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
+      "link": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
+      "summary": "For six months, investors had a playbook: when Trump threatens Iran, buy the dip, because he always backs down. But in September, the playbook stopped working.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-17T21:09:00+00:00"
+    },
     {
       "title": "U.S. Stocks Up on Hopes Rising Inflation, Oil Prices Are Now Contained",
       "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-on-inflation-containment-hopes-4b45bf55?mod=rss_markets_main",
@@ -1889,6 +1953,14 @@
       "title": "Stock Market Today: Stocks Climb as Markets Retrace Post-Fed Moves",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-17-2026?mod=rss_markets_main",
       "summary": "The 10-year Treasury yield is just below 5% as oil retreats",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-17T08:47:43+00:00"
+    },
+    {
+      "title": "Stock Market Today: Stocks Climbed as Markets Retrace Post-Fed Moves",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-17-2026?mod=rss_markets_main",
+      "summary": "The 10-year Treasury yield fell below 5% after oil retreated",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-17T08:47:43+00:00"
