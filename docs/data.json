@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T17:47:43.060719+00:00",
+  "generated_at": "2026-09-17T18:10:05.692665+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -318,6 +318,22 @@
   ],
   "items": [
     {
+      "title": "How Equinix cut operational overhead with a shared services architecture on Amazon EKS",
+      "link": "https://aws.amazon.com/blogs/architecture/how-equinix-cut-operational-overhead-with-a-shared-services-architecture-on-amazon-eks/",
+      "summary": "Equinix, the world's digital infrastructure company, built a shared services architecture on Amazon EKS to eliminate the operational sprawl of its self-managed Kubernetes environment. Learn how a multi-account North Star architecture centralized governance and shared services, delivering 4x faster deployments and 40% less operational overhead.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-09-17T18:00:56+00:00"
+    },
+    {
+      "title": "Securitize jumps after regulators greenlight some tokenized U.S. stock trading",
+      "link": "https://www.cnbc.com/2026/09/17/securitize-jumps-after-regulators-greenlight-tokenized-us-stocks.html",
+      "summary": "Securitize surged Thursday after federal regulators greenlit the issuing of tokenized stocks on some trading platforms in the U.S.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-09-17T17:59:51+00:00"
+    },
+    {
       "title": "Amazon’s secret weapon against Walmart could be a massive blitz in same-day delivery",
       "link": "https://www.marketwatch.com/story/amazons-secret-weapon-against-walmart-could-be-a-massive-blitz-in-same-day-delivery-a0ddf8d6?mod=mw_rss_topstories",
       "summary": "BofA analysts say Amazon’s reported plans to expand same-day fulfillment centers represent an effort to make basic goods “immediately accessible.”",
@@ -350,6 +366,14 @@
       "published": "2026-09-17T17:16:00+00:00"
     },
     {
+      "title": "Economic Policy for AGI",
+      "link": "https://institute.deepmind.com/essays/economic-policy-for-agi/",
+      "summary": "Article URL: https://institute.deepmind.com/essays/economic-policy-for-agi/\nComments URL: https://news.ycombinator.com/item?id=49743685\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T17:12:51+00:00"
+    },
+    {
       "title": "Hispanics feel ‘betrayed’ by Trump, top Republican says",
       "link": "https://www.ft.com/content/0b3d10cb-a321-429f-879d-86e1bee82efe?syn-25a6b1a6=1",
       "summary": "Florida lawmaker María Elvira Salazar rebukes president in TV ad for heavy-handed immigration policies",
@@ -372,6 +396,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-17T17:00:00+00:00"
+    },
+    {
+      "title": "Towards Self-Driving Codebases",
+      "link": "https://blog.detail.dev/posts/towards-self-driving-codebases/",
+      "summary": "Article URL: https://blog.detail.dev/posts/towards-self-driving-codebases/\nComments URL: https://news.ycombinator.com/item?id=49743527\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T16:58:31+00:00"
+    },
+    {
+      "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+      "link": "https://arxiv.org/abs/2609.18842",
+      "summary": "Article URL: https://arxiv.org/abs/2609.18842\nComments URL: https://news.ycombinator.com/item?id=49743483\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T16:55:14+00:00"
     },
     {
       "title": "Show HN: AutoBot – live voice control for long-running AI work",
