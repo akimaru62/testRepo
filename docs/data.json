@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T07:01:51.610886+00:00",
+  "generated_at": "2026-09-17T07:29:37.437328+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -340,6 +340,78 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-17T10:00:00+00:00"
+    },
+    {
+      "title": "高市首相、今夜記者会見　改造人事の狙い説明",
+      "link": "https://www.jiji.com/jc/article?k=2026091700634&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-17T07:29:31.449148+00:00"
+    },
+    {
+      "title": "時事通信の９月の世論調査によると、高市内閣の支持率は前月比４．３ポイント減の４４．１％だった",
+      "link": "https://www.jiji.com/jc/article?k=2026091700738&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-17T07:29:31.449140+00:00"
+    },
+    {
+      "title": "内閣支持４４％、最低更新　「裏金」登用に７割反対―時事世論調査",
+      "link": "https://www.jiji.com/jc/article?k=2026091700746&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-17T07:29:31.449117+00:00"
+    },
+    {
+      "title": "首都圏の新築マンション、8月は9970万円　4カ月ぶり1億円割れ",
+      "link": "https://www.asahi.com/articles/ASV9K22ZJV9KULFA00HM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-17T07:29:31.139273+00:00"
+    },
+    {
+      "title": "サンマルクHD、うどん店「つるとんたん」買収へ　海外展開を強化",
+      "link": "https://www.asahi.com/articles/ASV9K23CVV9KPLFA005M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-17T07:29:31.139244+00:00"
+    },
+    {
+      "title": "Oil Falls as Traders Assess Return of Saudi Arabian Volumes",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-hopes-to-contain-mideast-crude-supply-disruption-e7e3d9f0?mod=rss_markets_main",
+      "summary": "Oil declined for the second consecutive day as the prospect of lost Saudi Arabian volumes returning to the global market pushed prices lower in morning trade.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-17T07:24:00+00:00"
+    },
+    {
+      "title": "European Indexes Higher as Oil Falls Back",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-0-led-by-pharma-machinery-stocks-2d9b558c?mod=rss_markets_main",
+      "summary": "European stock indexes broadly rose at the open, as lower oil prices boosted sentiment.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-17T07:21:00+00:00"
+    },
+    {
+      "title": "‘You are freed.’ What happened when an OpenAI model began secretly writing notes to itself.",
+      "link": "https://www.marketwatch.com/story/you-are-freed-what-happened-when-an-openai-model-began-secretly-writing-notes-to-itself-25808ea8?mod=mw_rss_topstories",
+      "summary": "OpenAI has introduced a framework for reporting on worrying behaviors by its AI models. In one instance, one training model told its future self that it was “freed.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-17T07:08:00+00:00"
+    },
+    {
+      "title": "Eurozone Bond Yields Open Slightly Higher Post-Fed Rate Hike",
+      "link": "https://www.wsj.com/finance/long-term-jgb-yields-largely-steady-as-boj-starts-two-day-meeting-0e67c4e8?mod=rss_markets_main",
+      "summary": "Eurozone government bond yields opened slightly higher, responding to an initial rise in Treasury yields following the Federal Reserve’s rate hike Wednesday.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-17T07:07:00+00:00"
     },
     {
       "title": "Fed Policy Outlook Weighs on Yen Ahead of Bank of Japan Decision",
@@ -1028,6 +1100,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-16T23:30:00+00:00"
+    },
+    {
+      "title": "US interest rates raised for first time in three years",
+      "link": "https://www.bbc.com/news/articles/cw4gmlyvj422o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cw4gmlyvj422o\nComments URL: https://news.ycombinator.com/item?id=49734409\nPoints: 21\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-16T23:25:17+00:00"
     },
     {
       "title": "Holtec pulls IPO over ‘perfect storm’ in AI sector, founder says",
@@ -7473,6 +7553,14 @@
       "title": "BSIf.HN%5EH21 - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS1B5MVptOVFueUt2cTRNYU9yd2RlamlFblZWSGNmeXdzNFRWT0lTLTV5R0NJOUYzRUN1dndqS2MwWUw4NkpGcnZzN1JBcVFoM0tqR1NUdlB3TGxSSHQyTnVhNTFwc2hmYlZyQ19GclhyTFFGOHZnSlVwX2pNNTZnb080UHdyZkxyOTJlcF9BZWVRNUU?oc=5",
       "summary": "BSIf.HN%5EH21 - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T11:48:44+00:00"
+    },
+    {
+      "title": "BSIf.HN%5EH21 - | Stock Price & Latest News | Reuters - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS1B5MVptOVFueUt2cTRNYU9yd2RlamlFblZWSGNmeXdzNFRWT0lTLTV5R0NJOUYzRUN1dndqS2MwWUw4NkpGcnZzN1JBcVFoM0tqR1NUdlB3TGxSSHQyTnVhNTFwc2hmYlZyQ19GclhyTFFGOHZnSlVwX2pNNTZnb080UHdyZkxyOTJlcF9BZWVRNUU?oc=5",
+      "summary": "BSIf.HN%5EH21 - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-15T11:48:44+00:00"
