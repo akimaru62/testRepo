@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T16:09:08.912936+00:00",
+  "generated_at": "2026-09-17T16:27:25.309185+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -326,6 +326,46 @@
       "published": "2026-09-17T17:00:00+00:00"
     },
     {
+      "title": "米中外相が電話会談　首脳会談巡り協議",
+      "link": "https://www.jiji.com/jc/article?k=2026091701309&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-17T16:27:19.671505+00:00"
+    },
+    {
+      "title": "京大の小川誠司教授ら２氏に　今年の慶応医学賞",
+      "link": "https://www.jiji.com/jc/article?k=2026091800002&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-17T16:27:19.671448+00:00"
+    },
+    {
+      "title": "Ask HN: How to recover Google auth after phone stolen?",
+      "link": "https://news.ycombinator.com/item?id=49742976",
+      "summary": "As we know, google has been effective at automating a lot of their systems, to the point where it can feel like there isn't any help available from a human. So what is supposed to be the plan when this type of situation happens?Basically I have a situation that after my phone was stolen, I can't get into any of my accounts that are either connected to google, or connected to the phone via 2FA. This has made it complicated/impossible not only to get info about my phone, but also my banking, email, drive, etc.Of course they offer you \"multiple options\" to recover an account, but not if you forgot your old email's password. At that point the options you get are,  a) Use old phone (obviously the phone is long gone)\n  b) Use current phone (the phone is gone)\n  c) Use old email (I haven't used it in like 12 years)\n\nDoes anyone know if their is a process to appeal 2FA or anything to deal with this type of situation?I'd imagine that this has happened to people many many times, and given how phones and particularly, google auth have become so critical to accomplishing essential tasks within society, there must be some way. Or maybe it's just like, once you're phone is gone, you are completely over with society? If anyone has any experience with this or inside knowledge please share it!I'm sure people here have heard of this, and maybe experienced it themselves.Is there a secret option that exists that allows us to use passwords instead of rigamarole? I would love an account that let me simply log in with a password, like google used to be.\n\nComments URL: https://news.ycombinator.com/item?id=49742976\nPoints: 5\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T16:17:28+00:00"
+    },
+    {
+      "title": "World Bank Grows Footprint With More Private Capital",
+      "link": "https://www.wsj.com/finance/investing/world-bank-grows-footprint-with-more-private-capital-2b56df71?mod=rss_markets_main",
+      "summary": "Global lender’s private-capital mobilization nearly equals its own deployment of funds.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-17T16:17:00+00:00"
+    },
+    {
+      "title": "U.S. Stocks Climb as Markets Retrace Post-Fed Moves",
+      "link": "https://www.wsj.com/finance/commodities-futures/stocks-rally-yields-fall-as-lower-oil-boosts-market-mood-e5c10b6c?mod=rss_markets_main",
+      "summary": "U.S. stocks rose as investors shook off the jitters that followed the Federal Reserve’s first rate hike in three years.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-17T16:15:00+00:00"
+    },
+    {
       "title": "公開買付け等に係る株式発行者役員からの情報受領者による（株）グッドスピード株式に係る内部者取引に対する課徴金納付命令の決定について公表しました。",
       "link": "https://www.fsa.go.jp/news/r8/shouken/20260917/20260917-2.html",
       "summary": "",
@@ -358,6 +398,14 @@
       "published": "2026-09-17T16:00:00+00:00"
     },
     {
+      "title": "Whoisinspace.com/",
+      "link": "https://whoisinspace.com",
+      "summary": "Article URL: https://whoisinspace.com\nComments URL: https://news.ycombinator.com/item?id=49742714\nPoints: 11\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T15:59:37+00:00"
+    },
+    {
       "title": "Is Fuel-Export Ban Trump’s Last Option to Ease Prices? How It Could Work",
       "link": "https://www.wsj.com/business/energy-oil/is-fuel-export-ban-trumps-last-option-to-ease-prices-how-it-could-work-271b1100?mod=rss_markets_main",
       "summary": "Any ban would likely target diesel, which has come in short supply globally, and be short-lived to avoid disruptions.",
@@ -374,6 +422,14 @@
       "published": "2026-09-17T15:42:00+00:00"
     },
     {
+      "title": "Vinix – A modern operating system written in V",
+      "link": "https://vinix-os.org/",
+      "summary": "Article URL: https://vinix-os.org/\nComments URL: https://news.ycombinator.com/item?id=49742439\nPoints: 11\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T15:40:19+00:00"
+    },
+    {
       "title": "LLM Classification Is Feature Engineering",
       "link": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
       "summary": "Article URL: https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/\nComments URL: https://news.ycombinator.com/item?id=49742437\nPoints: 5\n# Comments: 0",
@@ -388,6 +444,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-17T15:39:00+00:00"
+    },
+    {
+      "title": "CrowdSec Source Code Leak",
+      "link": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
+      "summary": "Article URL: https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure\nComments URL: https://news.ycombinator.com/item?id=49742355\nPoints: 12\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T15:34:01+00:00"
     },
     {
       "title": "Rate limits on GitLab.com are changing",
@@ -8689,6 +8753,14 @@
       "title": "EA.O - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1NnUjg1dEdfSzlkanM0ZVN1Vkp2Y0ZQVTFINUVySDdSLVRkQ0JrX0pFZWVrUDZuNXM3bzlNT0pINVU4dDd2S0l0SF9rTmR5VzRUeEJ6TVlodXRUdlJZR2dqMDlhRDU4eGlETnoyLW9zbGprMGVkbV9tY09HaS01U0hyc09oajg?oc=5",
       "summary": "EA.O - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T11:51:04+00:00"
+    },
+    {
+      "title": "EA.O - | Stock Price & Latest News | Reuters - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1NnUjg1dEdfSzlkanM0ZVN1Vkp2Y0ZQVTFINUVySDdSLVRkQ0JrX0pFZWVrUDZuNXM3bzlNT0pINVU4dDd2S0l0SF9rTmR5VzRUeEJ6TVlodXRUdlJZR2dqMDlhRDU4eGlETnoyLW9zbGprMGVkbV9tY09HaS01U0hyc09oajg?oc=5",
+      "summary": "EA.O - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-15T11:51:04+00:00"
