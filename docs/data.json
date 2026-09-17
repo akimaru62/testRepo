@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T11:23:45.326458+00:00",
+  "generated_at": "2026-09-17T11:34:58.960906+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -306,6 +306,10 @@
     {
       "url": "https://www.mof.go.jp/news.rss",
       "error": "HTTPSConnectionPool(host='www.mof.go.jp', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -348,6 +352,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-17T16:00:00+00:00"
+    },
+    {
+      "title": "How can I get my employees to stop oversharing at work?",
+      "link": "https://www.marketwatch.com/story/how-can-i-get-my-employees-to-stop-oversharing-at-work-540ba78c?mod=mw_rss_topstories",
+      "summary": "“They have complained before that I don’t share enough details about my personal life with them.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-17T11:30:00+00:00"
+    },
+    {
+      "title": "SBI 「因縁」超えライブドア買収",
+      "link": "https://news.yahoo.co.jp/pickup/6595625?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-17T11:26:35+00:00"
     },
     {
       "title": "千葉豪雨、保険金３５４億円　熊本地震は２３８億円―損保協",
