@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T01:06:56.522595+00:00",
+  "generated_at": "2026-09-17T01:34:42.989989+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -310,12 +310,76 @@
       "published": "2026-09-17T10:00:00+00:00"
     },
     {
+      "title": "米ＦＲＢに追随利上げ　ドル連動制で―中東湾岸諸国",
+      "link": "https://www.jiji.com/jc/article?k=2026091700284&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-17T01:34:36.880273+00:00"
+    },
+    {
+      "title": "ＥＵ製優遇法案で懸念表明　ＷＴＯルール適合に疑義―相川大使",
+      "link": "https://www.jiji.com/jc/article?k=2026091700268&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-17T01:34:36.880218+00:00"
+    },
+    {
+      "title": "Nikkei Rises 1.0%, Led by Pharma, Machinery Stocks",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-0-led-by-pharma-machinery-stocks-2d9b558c?mod=rss_markets_main",
+      "summary": "Japanese stocks were higher, supported by bargain-hunting, as recent rising momentum in crude oil eases.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-17T01:25:00+00:00"
+    },
+    {
+      "title": "国庫短期証券（第1408回）の入札発行",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20260917.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-09-17T01:20:00+00:00"
+    },
+    {
+      "title": "Global Tightening Could Cap Dollar’s Fed Boost",
+      "link": "https://www.wsj.com/finance/currencies/global-tightening-could-cap-dollars-fed-boost-fe1f509c?mod=rss_markets_main",
+      "summary": "The Fed hiking is positive for the dollar, but there may not be enough central bank policy divergence out there to move its value much higher, said Monex USA.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-17T01:19:00+00:00"
+    },
+    {
+      "title": "Gold Ticks Up as Markets Weigh Fed Path",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-ticks-up-as-markets-weigh-fed-path-eeb22df6?mod=rss_markets_main",
+      "summary": "Gold edged up in early Asian trade after slipping in the wake of the Fed’s first rate hike in over three years.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-17T01:15:00+00:00"
+    },
+    {
+      "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
+      "link": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html\nComments URL: https://news.ycombinator.com/item?id=49735180\nPoints: 8\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T01:02:13+00:00"
+    },
+    {
       "title": "Oil Falls Amid Hopes to Contain Mideast Crude Supply Disruption",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-hopes-to-contain-mideast-crude-supply-disruption-e7e3d9f0?mod=rss_markets_main",
       "summary": "Oil was lower in early Asian trade. The softer prices likely reflect optimism about taming the effect of the deep disruption to Middle East crude-oil exports, said XS.com.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-17T01:02:00+00:00"
+    },
+    {
+      "title": "｢Suicaの6割問題｣が変わる､JR東日本が改札機を減らして全駅対応を急ぐ理由､運賃計算をサーバーに移す大転換 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957861?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "JR東日本のSuica利用エリアが現在の6つから統合され､さらに全駅での利用を目指す大規模改革が始まる。運賃計算のサーバー化､QR乗車券導入､そして｢どこでも改札｣や｢スマホ改札｣で駅の風景はどう変…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-17T01:00:00+00:00"
     },
     {
       "title": "｢睡眠の質｣は何で変わる？…酒､サウナ､22時のコーヒー､メンタリストDaiGoおすすめサプリを\"人体実験\"した結果 | ライフ | 東洋経済オンライン",
@@ -6182,6 +6246,14 @@
       "published": "2026-09-15T12:25:22+00:00"
     },
     {
+      "title": "001696.SZ - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYzBZeTI5TFJOcmVpSkNtTkszM2JrNExXaldzd0xtSjdwRDhnc2t1bGd3bVFJWU1fWkcwcWRvQzZWNUlsVHRieUQyS1hRTGY3bzdaXzB0WjZCdVN2SXFjc2dtemw1a0hfQldjdDNVMlJGcTY1a0ROR0tHM20tUlFNLW4wenU4dWNV?oc=5",
+      "summary": "001696.SZ - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:25:22+00:00"
+    },
+    {
       "title": "6497.J3 - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcklrdDlKZ09uWUpWSXlRYjZEazltb0RJcE5WZUQ5WDFFX3dMOEpRQjJ6N0xiTDFwSjRfWDdOSkY5SnFyb0s3R0NmY0NTdmRqR1VLRFBZanNUQVR4SUpvcEU1QlN0Nk5TZWxQbTJmd0J6b2pJcFhBMDk2bk5vRXQzMzMtZzExZw?oc=5",
       "summary": "6497.J3 - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
@@ -6225,6 +6297,14 @@
       "title": "kchol.is - | Stock Price & Latest News | Reuters - Reuters",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUTJ5TC1OVnlneklIcURvbnlGNnpZV0FBOExKdzlXdFpOSk5qdVRyN2lWVTNlNElqaDdrRVVrV0JaV1lUb3h0ZGFOenVkOThvdUQ3cmlyRFdxdTh3QUdfWWwyQ3ZiaE82ejF2bThXNTdJU2NLZ2FqOWg5T0NwWFBxWWNmTHJOc00?oc=5",
       "summary": "kchol.is - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:24:37+00:00"
+    },
+    {
+      "title": "kchol.is - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUTJ5TC1OVnlneklIcURvbnlGNnpZV0FBOExKdzlXdFpOSk5qdVRyN2lWVTNlNElqaDdrRVVrV0JaV1lUb3h0ZGFOenVkOThvdUQ3cmlyRFdxdTh3QUdfWWwyQ3ZiaE82ejF2bThXNTdJU2NLZ2FqOWg5T0NwWFBxWWNmTHJOc00?oc=5",
+      "summary": "kchol.is - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-15T12:24:37+00:00"
@@ -7572,6 +7652,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-15T11:09:28+00:00"
+    },
+    {
+      "title": "FSHAF.PK%5EH09 - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcHkyR0RMUGt1ZlF3VW1POHpiM0MzeTJWOTdXNnloN3pLaVpRQzNtQlpVY0Q2Vm9EdFBkaXM5WnN5UDZ4enRoamJFY3ZBZXVMdk9XeXdTZC05eGtPQ2wzVFJDM3VxLWxLcU1KTnBwdHF6MHhMRWIzZE4yd0JINEp3VTN2dGhlWjF4di0xdktyYw?oc=5",
+      "summary": "FSHAF.PK%5EH09 - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T11:08:58+00:00"
     },
     {
       "title": "0218.hk - | Stock Price & Latest News | Reuters - Reuters",
