@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T21:33:15.713479+00:00",
+  "generated_at": "2026-09-17T21:47:40.641796+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -318,6 +318,46 @@
   ],
   "items": [
     {
+      "title": "習氏が２３日に米国に到着、異例の出迎えへ　トランプ氏",
+      "link": "https://www.jiji.com/jc/article?k=2026091800120&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-17T21:47:36.397970+00:00"
+    },
+    {
+      "title": "Opinion | The SEC’s Big and Welcome Proxy Reform",
+      "link": "https://www.wsj.com/opinion/sec-paul-atkins-proxy-advisor-shareholder-resolution-reform-0283e4da?mod=rss_markets_main",
+      "summary": "The agency wants to stop telling companies how to handle shareholder resolutions.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-17T21:40:00+00:00"
+    },
+    {
+      "title": "WSJ Dollar Index Falls 0.10% to 96.07",
+      "link": "https://www.wsj.com/finance/currencies/global-tightening-could-cap-dollars-fed-boost-fe1f509c?mod=rss_markets_main",
+      "summary": "The WSJ Dollar Index declined 0.1%, snapping a three-trading-day winning streak.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-17T21:38:00+00:00"
+    },
+    {
+      "title": "The S&P 500 and Nasdaq Post Biggest Gains in Six Weeks",
+      "link": "https://www.wsj.com/finance/investing/the-s-p-500-and-nasdaq-post-biggest-gains-in-six-weeks-d3ccd84e?mod=rss_markets_main",
+      "summary": "Traders turned their attention away from inflation and interest rates toward tech stocks. And record donations are flowing into state attorneys general races.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-17T21:34:00+00:00"
+    },
+    {
+      "title": "数十億の車が飛び交う｢現代ラグジュアリーカービジネス｣変貌を遂げた《モントレー･カー･ウィーク》のきらびやかな世界 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957905?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "カリフォルニアのモントレー･カー･ウィークは､クラシックカー愛好家の集いから､世界中のラグジュアリーカービジネスが集結するマーケティングの最前線へと進化を果たした。60億円超のフェラーリ落札劇や日本…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-17T21:30:00+00:00"
+    },
+    {
       "title": "プロ野球パ・リーグでソフトバンクが優勝した",
       "link": "https://www.jiji.com/jc/article?k=2026091701201&g=flash&m=rss",
       "summary": "",
@@ -372,6 +412,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-17T21:18:00+00:00"
+    },
+    {
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "link": "https://prismml.com/news/bonsai-2-27b",
+      "summary": "Article URL: https://prismml.com/news/bonsai-2-27b\nComments URL: https://news.ycombinator.com/item?id=49746618\nPoints: 5\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T21:13:31+00:00"
     },
     {
       "title": "New low-cost burstable Amazon EC2 T8i instances are generally available",
@@ -454,12 +502,36 @@
       "published": "2026-09-17T21:00:00+00:00"
     },
     {
+      "title": "関空から京都まで25分、料金2万円　Space Aviationがヘリ移動便を開始",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/18/news029.html",
+      "summary": "Space Aviationは、関西国際空港とJPD京都ヘリポートを結ぶヘリコプター移動便「Airport Heli Shuttle」を就航した。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-09-17T21:00:00+00:00"
+    },
+    {
+      "title": "The most important product decision is what you don't build",
+      "link": "https://liamnugent.me/posts/what-you-dont-build/",
+      "summary": "Article URL: https://liamnugent.me/posts/what-you-dont-build/\nComments URL: https://news.ycombinator.com/item?id=49746407\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T20:52:36+00:00"
+    },
+    {
       "title": "Crude Oil Futures Settle Lower For Second Session",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-hopes-to-contain-mideast-crude-supply-disruption-e7e3d9f0?mod=rss_markets_main",
       "summary": "Crude futures fell as the supply fears fueled by the outage of Saudi Arabia’s East-West pipeline eased, and oil continued to make it through the Strait of Hormuz via ship-to-ship loadings and dark transits.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-17T20:52:00+00:00"
+    },
+    {
+      "title": "Computer Reset, Dallas",
+      "link": "https://dfarq.homeip.net/computer-reset-dallas/",
+      "summary": "Article URL: https://dfarq.homeip.net/computer-reset-dallas/\nComments URL: https://news.ycombinator.com/item?id=49746371\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T20:50:03+00:00"
     },
     {
       "title": "利上げがあっても米国株S&P500の年末予想を引き上げる根拠と気になる\"新たなリスク要因\" | 政治・経済・投資 | 東洋経済オンライン",
