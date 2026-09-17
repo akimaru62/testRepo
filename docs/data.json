@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T20:47:38.563362+00:00",
+  "generated_at": "2026-09-17T21:07:30.295307+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -318,6 +318,86 @@
   ],
   "items": [
     {
+      "title": "U.S. Stocks Up on Hopes Rising Inflation, Oil Prices Are Now Contained",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-on-inflation-containment-hopes-4b45bf55?mod=rss_markets_main",
+      "summary": "U.S. stocks recouped some of their recent losses as oil prices stabilized and confidence grew in the Federal Reserve’s ability to contain inflation.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-17T21:01:00+00:00"
+    },
+    {
+      "title": "中部電力･不正の背後に｢原発再稼働｣への固執､調査報告書が指摘した｢独自の正当化理論｣…異論許さず不祥事の温床に | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958497?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "原子力発電所再稼働のために無理を押し通そうとしてきたことが、最悪の結果を招いた。中部電力は9月14日、林欣吾社長、勝野哲会長ら経営陣の辞任（9月30日付）および浜岡原発3、4号機の再稼働に向けて必要…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-17T21:00:00+00:00"
+    },
+    {
+      "title": "タイ版｢失われた20年｣の緩い閉塞感…21世紀初のクーデターで民主化が逆回転､タクシン時代の終焉と見えない｢次｣ | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958462?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "20年前のクーデターで激変したタイ。経済･社会の発展と民主化の両立は進まず､タクシン元首相を中心に政界は混迷を極めてきました。タイの｢失われた20年｣の現在地に迫ります。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-17T21:00:00+00:00"
+    },
+    {
+      "title": "3％まで上がった金利は〈債務残高比が反転上昇する〉リスクシナリオを現実に変える･･･市場が政権に問う財政への本気度 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958457?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "長期金利が約30年ぶりに3％台へ突入し､政府の財政運営に対する不安が金利上昇の主因となっています。財政状況は改善傾向にあるものの､巨額の債務残高が依然重くのしかかり､市場は政府の本気度と持続可能性を…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-17T21:00:00+00:00"
+    },
+    {
+      "title": "いすゞ･山口新社長が語る｢新規事業1兆円｣の道筋…｢自動運転とコネクテッドサービスで物流自動化を実現したい｣ | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958101?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "いすゞ自動車は､国内商用車シェアトップとして､2030年度に売上高6兆円を掲げる新たな成長戦略に挑みます。不透明な国際情勢と技術革新の波の中､同社は現場力と\"仲間づくり\"で乗り越えられるのか。次世代…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-17T21:00:00+00:00"
+    },
+    {
+      "title": "【PISA2025結果】日本の15歳は｢世界1位｣も…手放しで喜べない日本の子どもが抱える｢致命的な課題｣ | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957982?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "日本の15歳は世界トップレベルの学力を誇り､国際調査PISA2025でも主要分野で首位に輝きました。しかし､そこから課題も見えてきました。高得点の裏に隠れた日本の教育の真の姿と未来を考えます。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-17T21:00:00+00:00"
+    },
+    {
+      "title": "スマホはどこまで高くなる？ ファーウェイが40万円超の3つ折りモデル投入…半導体価格高騰で既存品値上げも | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957879?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "世界的なメモリー半導体価格の高騰などを背景に､中国スマートフォンメーカー各社が高価格帯モデルへのシフトを加速しています。折りたたみスマホを筆頭に値上げが続き､｢安価なスマホ時代の終焉｣とも言える状況…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-17T21:00:00+00:00"
+    },
+    {
+      "title": "〈インタビュー〉時価総額でアサヒに肉薄！株価急伸のキリンHD社長が明かす｢脱･酒類一本足｣と失敗を生かすM&A戦略 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957592?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "――25年8月から株価が急上昇しています。時価総額では、競合のアサヒGHDに急接近しています。潮目が変わってきたな、という実感はある。ヘルスサイエンス事業の中長期的な成長に対して市場から信任をいただ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-17T21:00:00+00:00"
+    },
+    {
+      "title": "Crude Oil Futures Settle Lower For Second Session",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-hopes-to-contain-mideast-crude-supply-disruption-e7e3d9f0?mod=rss_markets_main",
+      "summary": "Crude futures fell as the supply fears fueled by the outage of Saudi Arabia’s East-West pipeline eased, and oil continued to make it through the Strait of Hormuz via ship-to-ship loadings and dark transits.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-17T20:52:00+00:00"
+    },
+    {
+      "title": "利上げがあっても米国株S&P500の年末予想を引き上げる根拠と気になる\"新たなリスク要因\" | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958453?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "アメリカ経済とS&amp;P500の動向を識者が徹底分析。足元では新たなリスクも浮上しています。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-17T20:50:00+00:00"
+    },
+    {
       "title": "U.S. Natural Gas Futures Inch Down in Choppy Trade",
       "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-as-european-inventories-remain-low-4d38b0ac?mod=rss_markets_main",
       "summary": "U.S. natural gas futures ended a choppy session little changed with some support from a below-average weekly storage build that trimmed the inventory surplus.",
@@ -332,6 +412,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-17T20:40:00+00:00"
+    },
+    {
+      "title": "Bend",
+      "link": "https://bend-lang.com/",
+      "summary": "Article URL: https://bend-lang.com/\nComments URL: https://news.ycombinator.com/item?id=49746163\nPoints: 29\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T20:36:13+00:00"
     },
     {
       "title": "Stocks Rally, Shaking Off Fed’s Rate Hike",
@@ -354,6 +442,14 @@
       "link": "https://toyokeizai.net/articles/-/958461?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "急速に普及するAIを支えるデータセンター。その建設が､埼玉県の歴史ある｢ふるさとの緑の景観地｣にまで押し寄せています。しかし､莫大な電力･水の消費や環境･住民への影響をめぐり､専門家や住民の懸念が噴…",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-17T20:30:00+00:00"
+    },
+    {
+      "title": "ファミマ、アルバイト採用で「Web・録画面接」を導入　夜型の人も、子育て中も面接しやすく",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/18/news013.html",
+      "summary": "ファミリーマートは、アルバイト採用で「Web面接」「録画面接」を導入した。応募者と店舗双方の負担を減らし、人手不足の解消につなげる狙いだ。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-09-17T20:30:00+00:00"
     },
