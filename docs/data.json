@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T19:06:40.883021+00:00",
+  "generated_at": "2026-09-17T19:21:46.502662+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -318,6 +318,22 @@
   ],
   "items": [
     {
+      "title": "国内生産100万台へ「重要な輸出拠点に」　日産社長との一問一答",
+      "link": "https://www.asahi.com/articles/ASV9K1VD4V9KUQIP02XM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-17T19:21:38.957773+00:00"
+    },
+    {
+      "title": "AWS Elastic Beanstalk introduces Cluster Mode",
+      "link": "https://aws.amazon.com/blogs/aws/aws-elastic-beanstalk-introduces-cluster-mode/",
+      "summary": "Run an application on AWS Elastic Beanstalk Cluster Mode without provisioning or operating the compute underneath it. You provide a container image or source code; Elastic Beanstalk with service-operated compute creates and operates the environment that runs it.",
+      "source": "AWS ブログ (AWS)",
+      "category": "テクノロジー",
+      "published": "2026-09-17T19:20:21+00:00"
+    },
+    {
       "title": "This is the only cybersecurity stock that can post big gains, according to one analyst",
       "link": "https://www.marketwatch.com/story/this-is-the-only-cybersecurity-stock-that-can-post-big-gains-according-to-one-analyst-8ffe034f?mod=mw_rss_topstories",
       "summary": "Zscaler’s stock has missed out on the cybersecurity sector’s big rally this year — but it could soon get its moment in the spotlight",
@@ -340,6 +356,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-17T18:21:00+00:00"
+    },
+    {
+      "title": "Don't Make Job Referrals Public",
+      "link": "https://blog.melashri.net/micro/public-job-referral/",
+      "summary": "Article URL: https://blog.melashri.net/micro/public-job-referral/\nComments URL: https://news.ycombinator.com/item?id=49744530\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T18:16:38+00:00"
     },
     {
       "title": "OpenAI staff knew the ‘existential threat’ AI posed to publishers, New York Times claims",
@@ -431,6 +455,14 @@
     },
     {
       "title": "Hispanics feel ‘betrayed’ by Trump, top Republican says",
+      "link": "https://www.ft.com/content/0b3d10cb-a321-429f-879d-86e1bee82efe?syn-25a6b1a6=1",
+      "summary": "Florida lawmaker María Elvira Salazar rebukes president in TV ad for heavy-handed immigration policies",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-17T17:10:02+00:00"
+    },
+    {
+      "title": "Hispanic voters feel ‘betrayed’ by Trump, top Republican says",
       "link": "https://www.ft.com/content/0b3d10cb-a321-429f-879d-86e1bee82efe?syn-25a6b1a6=1",
       "summary": "Florida lawmaker María Elvira Salazar rebukes president in TV ad for heavy-handed immigration policies",
       "source": "Financial Times",
