@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T21:47:40.641796+00:00",
+  "generated_at": "2026-09-17T22:07:17.483634+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -318,12 +318,52 @@
   ],
   "items": [
     {
+      "title": "58歳の\"青島\"織田裕二に｢老けた｣の声も…映画『踊る大捜査線 N.E.W.』の《老いを隠さない演出》が絶賛に変わったワケ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958520?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "14年ぶりに帰ってきた､｢踊る大捜査線｣シリーズの織田裕二さん演じる青島俊作。若手刑事だった青島も58歳となり､\"老けた\"という心ない声もありましたが､公開が近づくにつれてファンの受け止め方にも変化…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-17T22:00:00+00:00"
+    },
+    {
+      "title": "日産 新型スカイライン12月発表へ",
+      "link": "https://news.yahoo.co.jp/pickup/6595646?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-17T21:59:43+00:00"
+    },
+    {
+      "title": "九州新幹線 52日ぶり全線運転",
+      "link": "https://news.yahoo.co.jp/pickup/6595645?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-17T21:48:34+00:00"
+    },
+    {
       "title": "習氏が２３日に米国に到着、異例の出迎えへ　トランプ氏",
       "link": "https://www.jiji.com/jc/article?k=2026091800120&g=int&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-17T21:47:36.397970+00:00"
+    },
+    {
+      "title": "これまでとほぼ同じ見た目の新型『Apple Watch』は何が進化したのか。5秒ごとの心拍計測と｢準備度｣に込めた狙い | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958385?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "毎年進化を遂げるApple Watch。今年は外観に変化がない一方､最新モデルに搭載された新センサーで｢準備度｣という体の状態を0〜10で可視化する機能が加わった。このスコアを私たちは本当に日常や働…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-17T21:45:00+00:00"
+    },
+    {
+      "title": "I Hate You Microsoft",
+      "link": "https://henriquenunez.eu/posts/you_did_it_again_ms/",
+      "summary": "Article URL: https://henriquenunez.eu/posts/you_did_it_again_ms/\nComments URL: https://news.ycombinator.com/item?id=49746986\nPoints: 51\n# Comments: 12",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T21:41:48+00:00"
     },
     {
       "title": "Opinion | The SEC’s Big and Welcome Proxy Reform",
@@ -399,6 +439,14 @@
     },
     {
       "title": "The bond market is seeing trouble. Why investors are buying now anyway.",
+      "link": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
+      "summary": "The 10-year Treasury note has logged its worst five-year return in more than a century, according to Goldman Sachs.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-17T21:22:00+00:00"
+    },
+    {
+      "title": "The bond market is having a historically bad run. Why investors are buying now anyway.",
       "link": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
       "summary": "The 10-year Treasury note has logged its worst five-year return in more than a century, according to Goldman Sachs.",
       "source": "MarketWatch",
@@ -542,6 +590,14 @@
       "published": "2026-09-17T20:50:00+00:00"
     },
     {
+      "title": "Flet 1.0 – Build cross-platform apps in Python",
+      "link": "https://flet.dev/",
+      "summary": "Article URL: https://flet.dev/\nComments URL: https://news.ycombinator.com/item?id=49746290\nPoints: 6\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T20:44:28+00:00"
+    },
+    {
       "title": "U.S. Natural Gas Futures Inch Down in Choppy Trade",
       "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-as-european-inventories-remain-low-4d38b0ac?mod=rss_markets_main",
       "summary": "U.S. natural gas futures ended a choppy session little changed with some support from a below-average weekly storage build that trimmed the inventory surplus.",
@@ -561,6 +617,14 @@
       "title": "Bend",
       "link": "https://bend-lang.com/",
       "summary": "Article URL: https://bend-lang.com/\nComments URL: https://news.ycombinator.com/item?id=49746163\nPoints: 29\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T20:36:13+00:00"
+    },
+    {
+      "title": "Bend – A language that blocks AI mistakes via proof and runs on GPUs",
+      "link": "https://bend-lang.com/",
+      "summary": "Article URL: https://bend-lang.com/\nComments URL: https://news.ycombinator.com/item?id=49746163\nPoints: 145\n# Comments: 64",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-17T20:36:13+00:00"
@@ -972,6 +1036,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-17T16:39:53+00:00"
+    },
+    {
+      "title": "The New Rules for Selling Your Home With Mortgage Rates Near 7%",
+      "link": "https://www.wsj.com/personal-finance/mortgages/the-new-rules-for-selling-your-home-with-mortgage-rates-near-7-b4628469?mod=rss_markets_main",
+      "summary": "Real-estate agents are giving much different advice these days than they did five years ago.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-17T16:28:00+00:00"
     },
     {
       "title": "Going faster will only slow AI down",
