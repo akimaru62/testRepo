@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T22:07:17.483634+00:00",
+  "generated_at": "2026-09-17T22:22:40.261988+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -314,9 +314,45 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://www.ft.com/rss/home",
+      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     }
   ],
   "items": [
+    {
+      "title": "ドジャース、地区５連覇　最近１４季で１３度目―米大リーグ",
+      "link": "https://www.jiji.com/jc/article?k=2026091800161&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-17T22:22:32.824290+00:00"
+    },
+    {
+      "title": "イラン暗号資産業者に制裁　ホルムズ航行で資金洗浄―米",
+      "link": "https://www.jiji.com/jc/article?k=2026091800151&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-17T22:22:32.824266+00:00"
+    },
+    {
+      "title": "米、イランで「戦争犯罪」　学校と民間施設攻撃を非難―国連報告書",
+      "link": "https://www.jiji.com/jc/article?k=2026091800157&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-17T22:22:32.824239+00:00"
+    },
+    {
+      "title": "ノジマ傘下のVAIOが｢早すぎた商品｣だったフリップ機構を復活､40万円超のノートPCに踏み切った理由 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958074?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "画面を裏返すだけでノートPCからタブレットへ──VAIO独自の｢マルチフリップ機構｣を10年ぶりに搭載した新モデル｢VAIO T｣が登場。保守的になりがちだったものづくりから､再び\"驚き\"のある体験…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-17T22:15:00+00:00"
+    },
     {
       "title": "58歳の\"青島\"織田裕二に｢老けた｣の声も…映画『踊る大捜査線 N.E.W.』の《老いを隠さない演出》が絶賛に変わったワケ | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/958520?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -454,12 +490,36 @@
       "published": "2026-09-17T21:22:00+00:00"
     },
     {
+      "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
+      "link": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
+      "summary": "“The higher that yields go — for at least new money — it becomes more enticing to think about putting money into bonds,” one strategist notes.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-17T21:22:00+00:00"
+    },
+    {
       "title": "Investors Come Back to AI Stocks, Snapping Market Out of Inflation Gloom",
       "link": "https://www.wsj.com/finance/stocks/investors-come-back-to-ai-stocks-snapping-market-out-of-inflation-gloom-a7690ce5?mod=rss_markets_main",
       "summary": "The S&amp;P 500 and Nasdaq composite posted their biggest one-day gains in six weeks.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-17T21:18:00+00:00"
+    },
+    {
+      "title": "Sex, AI, and the Apocalypse",
+      "link": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+      "summary": "Article URL: https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/\nComments URL: https://news.ycombinator.com/item?id=49746654\nPoints: 14\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T21:15:52+00:00"
+    },
+    {
+      "title": "How Uber Protects Against Retry Storms",
+      "link": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
+      "summary": "Article URL: https://www.uber.com/us/en/blog/protecting-against-retry-storms/\nComments URL: https://news.ycombinator.com/item?id=49746628\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T21:14:32+00:00"
     },
     {
       "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
@@ -625,6 +685,14 @@
       "title": "Bend – A language that blocks AI mistakes via proof and runs on GPUs",
       "link": "https://bend-lang.com/",
       "summary": "Article URL: https://bend-lang.com/\nComments URL: https://news.ycombinator.com/item?id=49746163\nPoints: 145\n# Comments: 64",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T20:36:13+00:00"
+    },
+    {
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "link": "https://bend-lang.com/",
+      "summary": "Article URL: https://bend-lang.com/\nComments URL: https://news.ycombinator.com/item?id=49746163\nPoints: 161\n# Comments: 78",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-17T20:36:13+00:00"
