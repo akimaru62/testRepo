@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T05:37:50.080014+00:00",
+  "generated_at": "2026-09-17T05:47:58.874660+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -310,6 +310,14 @@
       "published": "2026-09-17T10:00:00+00:00"
     },
     {
+      "title": "Fed Tightening Isn’t Start of Dollar-Strengthening Trend",
+      "link": "https://www.wsj.com/finance/currencies/global-tightening-could-cap-dollars-fed-boost-fe1f509c?mod=rss_markets_main",
+      "summary": "The dollar was flat against a basket of currencies and DBS said the Fed’s move to raise rates doesn’t necessarily mark the start of sustained upward momentum in the currency.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-17T05:45:00+00:00"
+    },
+    {
       "title": "自民党の笹川博義（ささがわ・ひろよし）氏の入閣が固まった",
       "link": "https://www.jiji.com/jc/article?k=2026091700579&g=flash&m=rss",
       "summary": "",
@@ -364,6 +372,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-17T05:00:00+00:00"
+    },
+    {
+      "title": "Cloudflare/Security-Audit-Skill",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "summary": "Article URL: https://github.com/cloudflare/security-audit-skill\nComments URL: https://news.ycombinator.com/item?id=49736466\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T04:36:55+00:00"
     },
     {
       "title": "東京五輪スケボー代表を書類送検　青木勇貴斗選手、大麻所持容疑―警視庁",
@@ -588,6 +604,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-17T03:25:00+00:00"
+    },
+    {
+      "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
+      "link": "https://github.com/browser-use/jev-ultrafast",
+      "summary": "Article URL: https://github.com/browser-use/jev-ultrafast\nComments URL: https://news.ycombinator.com/item?id=49735979\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T03:12:05+00:00"
     },
     {
       "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
