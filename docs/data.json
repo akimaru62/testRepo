@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T15:08:00.935816+00:00",
+  "generated_at": "2026-09-17T15:25:00.381776+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -358,6 +358,86 @@
       "published": "2026-09-17T16:00:00+00:00"
     },
     {
+      "title": "ソフトバンク優勝・他球団監督談話　プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026091701280&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-17T15:24:55.686892+00:00"
+    },
+    {
+      "title": "杉山、８球で締める　プロ野球・ソフトバンク",
+      "link": "https://www.jiji.com/jc/article?k=2026091701297&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-17T15:24:55.686874+00:00"
+    },
+    {
+      "title": "日本ハム、０．５差に迫る　プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026091701302&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-17T15:24:55.686860+00:00"
+    },
+    {
+      "title": "ソフトバンク、９連勝で歓喜　小久保監督、７度舞う―プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026091701236&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-17T15:24:55.686848+00:00"
+    },
+    {
+      "title": "日本、格下圧倒し好発進　アジア大会・バスケットボール女子",
+      "link": "https://www.jiji.com/jc/article?k=2026091701290&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-17T15:24:55.686831+00:00"
+    },
+    {
+      "title": "徳島が後期優勝　野球四国ＩＬ",
+      "link": "https://www.jiji.com/jc/article?k=2026091701300&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-17T15:24:55.686813+00:00"
+    },
+    {
+      "title": "ソフトバンクの正木「素直にうれしい」　プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026091701298&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-17T15:24:55.686782+00:00"
+    },
+    {
+      "title": "Building cloud-native PACS on AWS",
+      "link": "https://aws.amazon.com/blogs/architecture/building-cloud-native-pacs-on-aws/",
+      "summary": "A hybrid cloud architecture pattern for modernizing medical imaging on AWS. Learn how multi-hospital networks can centralize PACS archives, enable cross-facility interoperability, and use Amazon S3 storage tiers to manage cost and retention at scale.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-09-17T15:21:06+00:00"
+    },
+    {
+      "title": "More Americans are about to get scammed by the coming peptide rush",
+      "link": "https://www.marketwatch.com/story/more-americans-are-about-to-get-scammed-by-the-coming-peptide-rush-c835bc3d?mod=mw_rss_topstories",
+      "summary": "Patients will order these cheaper, unproven products via an 800-number or the internet, skipping appointments with real doctors who can provide accurate diagnoses and proven treatments.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-17T15:20:00+00:00"
+    },
+    {
+      "title": "How DHI Group accelerates generative AI workloads from idea to production using hackathons",
+      "link": "https://aws.amazon.com/blogs/architecture/how-dhi-group-accelerates-generative-ai-workloads-from-idea-to-production-using-hackathons/",
+      "summary": "Learn how DHI Group partnered with AWS to move generative AI workloads from idea to production using a structured hackathon. This post covers the Hackathon Acceleration Package, the winning ClearanceJobs and AgileATS agentic architecture on Amazon Bedrock AgentCore, and the principles that make hackathons a repeatable path to production.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-09-17T15:13:42+00:00"
+    },
+    {
       "title": "スウェーデン、政権交代へ　左派が僅差で勝利―総選挙",
       "link": "https://www.jiji.com/jc/article?k=2026091701225&g=int&m=rss",
       "summary": "",
@@ -460,6 +540,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-17T14:03:00+00:00"
+    },
+    {
+      "title": "I Don't Like LLMs",
+      "link": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+      "summary": "Article URL: https://martinfowler.com/articles/2026-dont-like-llms.html\nComments URL: https://news.ycombinator.com/item?id=49740834\nPoints: 33\n# Comments: 12",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T13:57:07+00:00"
     },
     {
       "title": "After Warsh’s strong start, how high will rates need to go?",
@@ -668,6 +756,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-17T12:04:00+00:00"
+    },
+    {
+      "title": "Turkish authorities rush to stem fallout from stock market scandal",
+      "link": "https://www.ft.com/content/ef54585a-4d2f-4538-b185-9bff75ef2f5e?syn-25a6b1a6=1",
+      "summary": "Funds frozen or liquidated and 38 people referred to prosecutors as regulators move to restore calm",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-17T11:59:41+00:00"
     },
     {
       "title": "Stocks making the biggest moves premarket: Generac, Lennar, Nike & more",
@@ -924,6 +1020,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-17T10:26:01.049442+00:00"
+    },
+    {
+      "title": "Wall Street warns trading boom is losing steam",
+      "link": "https://www.ft.com/content/3bb7e0e8-6aef-4b6b-a5f0-f472a2655c1f?syn-25a6b1a6=1",
+      "summary": "Revenue growth slows after record-breaking bonanza in second quarter",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-17T10:00:03+00:00"
     },
     {
       "title": "イベント,「昭和100年」関連シンポジウムの開催について公表しました。",
@@ -8510,6 +8614,14 @@
       "published": "2026-09-15T11:51:04+00:00"
     },
     {
+      "title": "EA.O - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa1NnUjg1dEdfSzlkanM0ZVN1Vkp2Y0ZQVTFINUVySDdSLVRkQ0JrX0pFZWVrUDZuNXM3bzlNT0pINVU4dDd2S0l0SF9rTmR5VzRUeEJ6TVlodXRUdlJZR2dqMDlhRDU4eGlETnoyLW9zbGprMGVkbV9tY09HaS01U0hyc09oajg?oc=5",
+      "summary": "EA.O - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T11:51:04+00:00"
+    },
+    {
       "title": "ARLn.BCU - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYVl4elY1V0V3akx2aHVzSUVrd19JSnZzREEzdHVSZ0tyR042V184NENuaENsMnVlMVhROC1ZX3ZxZV9vOWZXLUl5eFk0R0xXdnlSRkVySDJWNGNFN2NjLW43b0JycVEwcVNqbFJOcE5qc293TG13a3NaeEFzU3FHelQxcw?oc=5",
       "summary": "ARLn.BCU - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
@@ -8940,6 +9052,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-15T11:30:14+00:00"
+    },
+    {
+      "title": "ANPl.BCU - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS3V1cWN6ZENfZ1g0SmlNWGNqV3dVaXhpQjIzbHNMRWo2QTVadHNyck9PSC15ZVBuRkNSMGZzQTA3M2ljYU9xUXFxRDlsdXEyQUloSE5mMTZhR3JYVjFWa3NTUlJIVllfaHVaMmNZWE4yX1hzQTVhd09kdTdNaWhSSkdvN3NTTjQ?oc=5",
+      "summary": "ANPl.BCU - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T11:28:33+00:00"
     },
     {
       "title": "0636.HK - | Stock Price & Latest News | Reuters - Reuters",
@@ -9726,6 +9846,14 @@
       "published": "2026-09-15T11:02:50+00:00"
     },
     {
+      "title": "AEUXX.AX - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcDl0eDRMTndKMHBxd0M4elJzaV81QXBDNW9zWGt4dDRjWVNWMGhyYzZLSW8wa3RBekY4emF3NS1UYlhPVjh4cjNCbmMyNDhJWWF2allPa2poZkoyVzltV21XZUxJSEl2VUlMLWhuY05ULWFyWG5jT1VMYmZ4OHR1S3hnckI5RkhBejMteQ?oc=5",
+      "summary": "AEUXX.AX - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T11:02:50+00:00"
+    },
+    {
       "title": "BE - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMFk3cFFnclRoM25FRWtUOTRrMVVyQWZfT3pQWTc1ZXUxWkdJXzdpWi1vaEdkMjhaUTFhNFBDelJ6S1JXcmxxT1JfaVB2dDJJUzlqRUMtXy1mOG1tU243eENzQkhBSEk3Y0Z3a0gxbzJ5U09qS0VXUlowSUZKQ3NqQlZGTjg?oc=5",
       "summary": "BE - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
@@ -10017,6 +10145,14 @@
       "title": "AOFYY.AX - | Stock Price & Latest News | Reuters - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdUI2VHgzSFBXTmNRZmhPZk4ydUJtWGVLU1l1UDZYQjZnWEg4clpCWkQ4VUpEeHl1cmRJOC0yWWI5MXdxN3M1UjlCQWN3d2MzcmFRdzJDaGZtNEZaZkVnd2JPcDlYQ2sxc0VyMElydEFZY2RMNmU2T2dIWEVyYnFXMkJac2VjTTlmR3hVYw?oc=5",
       "summary": "AOFYY.AX - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T10:53:41+00:00"
+    },
+    {
+      "title": "AOFYY.AX - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdUI2VHgzSFBXTmNRZmhPZk4ydUJtWGVLU1l1UDZYQjZnWEg4clpCWkQ4VUpEeHl1cmRJOC0yWWI5MXdxN3M1UjlCQWN3d2MzcmFRdzJDaGZtNEZaZkVnd2JPcDlYQ2sxc0VyMElydEFZY2RMNmU2T2dIWEVyYnFXMkJac2VjTTlmR3hVYw?oc=5",
+      "summary": "AOFYY.AX - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-15T10:53:41+00:00"
