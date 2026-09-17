@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T10:26:04.992976+00:00",
+  "generated_at": "2026-09-17T10:38:24.302573+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -302,6 +302,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://www.mof.go.jp/news.rss",
+      "error": "HTTPSConnectionPool(host='www.mof.go.jp', port=443): Read timed out. (read timeout=15)"
     }
   ],
   "items": [
@@ -344,6 +348,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-17T16:00:00+00:00"
+    },
+    {
+      "title": "ＥＵ、１５歳未満のＳＮＳ利用制限へ　「子供法案」発表、依存招く機能禁止",
+      "link": "https://www.jiji.com/jc/article?k=2026091700927&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-17T10:38:04.564112+00:00"
+    },
+    {
+      "title": "The Nuclear Stock Boom Could Keep Decaying",
+      "link": "https://www.wsj.com/finance/stocks/the-nuclear-stock-boom-could-keep-decaying-67d78958?mod=rss_markets_main",
+      "summary": "Plus, markets digest Fed’s “hawkish hike”",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-17T10:34:00+00:00"
     },
     {
       "title": "北朝鮮体育相が８年ぶり来日　愛知・名古屋アジア大会",
@@ -5026,6 +5046,14 @@
       "published": "2026-09-15T20:55:00+00:00"
     },
     {
+      "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+      "link": "https://jakeasmith.com/blog/http-build-url/",
+      "summary": "Article URL: https://jakeasmith.com/blog/http-build-url/\nComments URL: https://news.ycombinator.com/item?id=49718773\nPoints: 119\n# Comments: 24",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-15T20:53:36+00:00"
+    },
+    {
       "title": "｢威張った中高年社員は異動させる｣…福岡県議会報道で新聞協会賞の西日本新聞社長が強調！ 過去の新聞社の勘違い | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/957190?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "福岡県議会の金銭授受疑惑に迫る調査報道で新聞協会賞を受賞した西日本新聞社。ただ､田川社長は特ダネ至上主義とは一線を画し､待ダネも重視する方針です。｢社風を変える｣｢威張った中高年は異動させる｣という…",
@@ -5520,6 +5548,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-15T16:52:55+00:00"
+    },
+    {
+      "title": "Comparison of Malloc() Algorithms",
+      "link": "https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html",
+      "summary": "Article URL: https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html\nComments URL: https://news.ycombinator.com/item?id=49715318\nPoints: 77\n# Comments: 11",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-15T16:52:25+00:00"
     },
     {
       "title": "Institutional investors are dangerously overinvested in stocks",
