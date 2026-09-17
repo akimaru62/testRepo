@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T13:07:50.435994+00:00",
+  "generated_at": "2026-09-17T13:25:30.564626+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -358,6 +358,54 @@
       "published": "2026-09-17T16:00:00+00:00"
     },
     {
+      "title": "知床観光船沈没直前の動画復元　乗客撮影、揺れる船内など記録―公開の両親「息子が生んだ奇跡」",
+      "link": "https://www.jiji.com/jc/article?k=2026091700720&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-17T13:25:25.731224+00:00"
+    },
+    {
+      "title": "国王主催でＡＩ会合　企業幹部ら、安全性議論―英",
+      "link": "https://www.jiji.com/jc/article?k=2026091701176&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-17T13:25:25.731214+00:00"
+    },
+    {
+      "title": "日本ハム競り勝つ　プロ野球・日本ハム４―２西武",
+      "link": "https://www.jiji.com/jc/article?k=2026091701182&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-17T13:25:25.731207+00:00"
+    },
+    {
+      "title": "「裏金」閣僚、初めて起用　女性２人変わらず―改造内閣",
+      "link": "https://www.jiji.com/jc/article?k=2026091701000&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-17T13:25:25.731196+00:00"
+    },
+    {
+      "title": "野党、国会軽視に警戒感　「裏金議員」入閣、論点に―内閣改造",
+      "link": "https://www.jiji.com/jc/article?k=2026091701019&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-17T13:25:25.731170+00:00"
+    },
+    {
+      "title": "Canada Producer Prices Continue to Increase on Energy Costs",
+      "link": "https://www.wsj.com/economy/canada-producer-prices-continue-to-increase-on-energy-costs-caede917?mod=rss_markets_main",
+      "summary": "Statistics Canada’s industrial product price index increased 1.3% in July from the month before. Compared with a year earlier, prices were 13.5% higher, a 23rd straight annual increase.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-17T13:23:00+00:00"
+    },
+    {
       "title": "‘You are freed’: What happened when an OpenAI model began secretly writing notes to itself",
       "link": "https://www.marketwatch.com/story/you-are-freed-what-happened-when-an-openai-model-began-secretly-writing-notes-to-itself-25808ea8?mod=mw_rss_topstories",
       "summary": "OpenAI has introduced a framework for reporting on worrying behaviors by its AI models. In one instance, one training model told its future self that it was “freed.”",
@@ -374,12 +422,28 @@
       "published": "2026-09-17T13:06:00+00:00"
     },
     {
+      "title": "My AI agent gets his own calendar",
+      "link": "https://heyjonny.dev/posts/gave-my-ai-agent-a-calendar/",
+      "summary": "Article URL: https://heyjonny.dev/posts/gave-my-ai-agent-a-calendar/\nComments URL: https://news.ycombinator.com/item?id=49740093\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T13:00:38+00:00"
+    },
+    {
       "title": "Tokenized Stocks Get U.S. Regulator’s Green Light to Come Ashore",
       "link": "https://www.wsj.com/finance/regulation/tokenized-stocks-get-u-s-regulators-green-light-to-come-ashore-c37d956f?mod=rss_markets_main",
       "summary": "The SEC granted exemptions to allow venues to trade digital tokens, but give corporate issuers the chance to block the offerings.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-17T13:00:00+00:00"
+    },
+    {
+      "title": "Show HN: I built a new version of my fun spatial 3D online meeting app",
+      "link": "https://flat.social",
+      "summary": "Hi HN!flat.social is a fun spatial online meeting app for remote teams and communities. It's largely built like a web multiplayer game, and the 3D virtual spaces are highly customisable with elements and activities (I recently added surfing!).Live demo to try it out: https://app.flat.social/f/demo-flatHere's a quick demo video: https://www.youtube.com/watch?v=GeinBNqL23sIt's a solo, bootstrapped project built with Three.js, LiveKit and Rapier for physics. I built the first version during the pandemic and posted it here back then: https://news.ycombinator.com/item?id=31833415I had a couple of months off this year, so I locked myself in an (almost) jungle house in Brazil and rebuilt it into what I've always wanted it to be.Would love to hear what you think!\n\nComments URL: https://news.ycombinator.com/item?id=49740047\nPoints: 13\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T12:57:09+00:00"
     },
     {
       "title": "第２次高市改造内閣が発足　「決断と実行」主要閣僚留任―裏金議員起用、林氏は退任・維新から初入閣",
@@ -476,6 +540,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-17T11:30:00+00:00"
+    },
+    {
+      "title": "Tata board agrees listing and extends chair’s term at contested meeting",
+      "link": "https://www.ft.com/content/c34d492b-1468-47cb-8036-12a4a0627ea0?syn-25a6b1a6=1",
+      "summary": "Vote by Tata Sons directors immediately challenged by family scion as battle for control intensifies",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-17T11:28:11+00:00"
     },
     {
       "title": "SBI 「因縁」超えライブドア買収",
@@ -9470,6 +9542,14 @@
       "published": "2026-09-15T11:02:50+00:00"
     },
     {
+      "title": "AEUXX.AX - | Stock Price & Latest News | Reuters - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcDl0eDRMTndKMHBxd0M4elJzaV81QXBDNW9zWGt4dDRjWVNWMGhyYzZLSW8wa3RBekY4emF3NS1UYlhPVjh4cjNCbmMyNDhJWWF2allPa2poZkoyVzltV21XZUxJSEl2VUlMLWhuY05ULWFyWG5jT1VMYmZ4OHR1S3hnckI5RkhBejMteQ?oc=5",
+      "summary": "AEUXX.AX - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T11:02:50+00:00"
+    },
+    {
       "title": "BE - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMFk3cFFnclRoM25FRWtUOTRrMVVyQWZfT3pQWTc1ZXUxWkdJXzdpWi1vaEdkMjhaUTFhNFBDelJ6S1JXcmxxT1JfaVB2dDJJUzlqRUMtXy1mOG1tU243eENzQkhBSEk3Y0Z3a0gxbzJ5U09qS0VXUlowSUZKQ3NqQlZGTjg?oc=5",
       "summary": "BE - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
@@ -9753,6 +9833,14 @@
       "title": "AOFYY.AX - | Stock Price & Latest News | Reuters - Reuters",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdUI2VHgzSFBXTmNRZmhPZk4ydUJtWGVLU1l1UDZYQjZnWEg4clpCWkQ4VUpEeHl1cmRJOC0yWWI5MXdxN3M1UjlCQWN3d2MzcmFRdzJDaGZtNEZaZkVnd2JPcDlYQ2sxc0VyMElydEFZY2RMNmU2T2dIWEVyYnFXMkJac2VjTTlmR3hVYw?oc=5",
       "summary": "AOFYY.AX - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T10:53:41+00:00"
+    },
+    {
+      "title": "AOFYY.AX - | Stock Price & Latest News | Reuters - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdUI2VHgzSFBXTmNRZmhPZk4ydUJtWGVLU1l1UDZYQjZnWEg4clpCWkQ4VUpEeHl1cmRJOC0yWWI5MXdxN3M1UjlCQWN3d2MzcmFRdzJDaGZtNEZaZkVnd2JPcDlYQ2sxc0VyMElydEFZY2RMNmU2T2dIWEVyYnFXMkJac2VjTTlmR3hVYw?oc=5",
+      "summary": "AOFYY.AX - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-15T10:53:41+00:00"
