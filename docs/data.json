@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T18:10:05.692665+00:00",
+  "generated_at": "2026-09-17T18:30:22.524548+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -318,6 +318,22 @@
   ],
   "items": [
     {
+      "title": "Stocks Gain as Markets Retrace Post-Fed Moves",
+      "link": "https://www.wsj.com/finance/commodities-futures/stocks-rally-yields-fall-as-lower-oil-boosts-market-mood-e5c10b6c?mod=rss_markets_main",
+      "summary": "U.S. stocks rose as investors shook off the jitters that followed the Federal Reserve’s first rate hike in three years.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-17T18:21:00+00:00"
+    },
+    {
+      "title": "OpenAI staff knew the ‘existential threat’ AI posed to publishers, New York Times claims",
+      "link": "https://www.ft.com/content/3df8edae-ae3b-4f56-83a3-40602edc17a3?syn-25a6b1a6=1",
+      "summary": "Lawyers say AI co-founder Greg Brockman was ‘motivated by the gazillions’ he hoped to gain from models trained on copyrighted content",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-17T18:09:19+00:00"
+    },
+    {
       "title": "How Equinix cut operational overhead with a shared services architecture on Amazon EKS",
       "link": "https://aws.amazon.com/blogs/architecture/how-equinix-cut-operational-overhead-with-a-shared-services-architecture-on-amazon-eks/",
       "summary": "Equinix, the world's digital infrastructure company, built a shared services architecture on Amazon EKS to eliminate the operational sprawl of its self-managed Kubernetes environment. Learn how a multi-account North Star architecture centralized governance and shared services, delivering 4x faster deployments and 40% less operational overhead.",
@@ -358,6 +374,14 @@
       "published": "2026-09-17T17:22:00+00:00"
     },
     {
+      "title": "Stallman: Thousands Dead, Millions Deprived of Liberties (2001)",
+      "link": "https://news.slashdot.org/story/01/09/17/1758231/stallman-thousands-dead-millions-deprived-of-liberties",
+      "summary": "Article URL: https://news.slashdot.org/story/01/09/17/1758231/stallman-thousands-dead-millions-deprived-of-liberties\nComments URL: https://news.ycombinator.com/item?id=49743756\nPoints: 30\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T17:20:14+00:00"
+    },
+    {
       "title": "Why growth stocks’ surprising strength may be warning of a market bubble",
       "link": "https://www.marketwatch.com/story/why-growth-stocks-surprising-strength-may-be-warning-of-a-market-bubble-5288a7dc?mod=mw_rss_topstories",
       "summary": "Yet another warning sign of a stock-market bubble is coming from growth stocks’ surprising strength.",
@@ -369,6 +393,14 @@
       "title": "Economic Policy for AGI",
       "link": "https://institute.deepmind.com/essays/economic-policy-for-agi/",
       "summary": "Article URL: https://institute.deepmind.com/essays/economic-policy-for-agi/\nComments URL: https://news.ycombinator.com/item?id=49743685\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T17:12:51+00:00"
+    },
+    {
+      "title": "Economic policy for AGI",
+      "link": "https://institute.deepmind.com/essays/economic-policy-for-agi/",
+      "summary": "Article URL: https://institute.deepmind.com/essays/economic-policy-for-agi/\nComments URL: https://news.ycombinator.com/item?id=49743685\nPoints: 17\n# Comments: 7",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-17T17:12:51+00:00"
@@ -430,12 +462,28 @@
       "published": "2026-09-17T16:48:17+00:00"
     },
     {
+      "title": "Has AI broken the old VC model?",
+      "link": "https://www.ft.com/content/8c4143c7-f846-43a0-807a-b460fff7cd75?syn-25a6b1a6=1",
+      "summary": "A spate of mega-IPOs triggered by the AI boom is stretching the feast-or-famine industry dynamic to an extreme",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-17T16:46:53+00:00"
+    },
+    {
       "title": "Rising rates throw a spanner in investment bankers’ spreadsheets",
       "link": "https://www.ft.com/content/0480bd32-41e7-465d-b828-156edae94ecb?syn-25a6b1a6=1",
       "summary": "When the cost of capital goes up, the value of a company theoretically goes down. Share prices tell a different story",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-17T16:39:53+00:00"
+    },
+    {
+      "title": "Going faster will only slow AI down",
+      "link": "https://www.ft.com/content/b97ac029-271b-44d2-8641-bd8eb1dc7ab1?syn-25a6b1a6=1",
+      "summary": "Without stronger safeguards, the danger is that any disaster could trigger a furious public backlash and regulatory overreaction",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-17T16:27:29+00:00"
     },
     {
       "title": "米中外相が電話会談　首脳会談巡り協議",
@@ -457,6 +505,14 @@
       "title": "hister",
       "link": "https://github.com/asciimoo/hister",
       "summary": "Article URL: https://github.com/asciimoo/hister\nComments URL: https://news.ycombinator.com/item?id=49743097\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T16:25:37+00:00"
+    },
+    {
+      "title": "Hister: A private search engine for the pages you visit and the files you keep",
+      "link": "https://github.com/asciimoo/hister",
+      "summary": "Article URL: https://github.com/asciimoo/hister\nComments URL: https://news.ycombinator.com/item?id=49743097\nPoints: 99\n# Comments: 32",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-17T16:25:37+00:00"
