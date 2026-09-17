@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T12:12:09.370139+00:00",
+  "generated_at": "2026-09-17T12:37:37.558536+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -310,6 +310,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -352,6 +356,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-17T16:00:00+00:00"
+    },
+    {
+      "title": "第２次高市改造内閣が発足　「決断と実行」主要閣僚留任―裏金議員起用、林氏は退任・維新から初入閣",
+      "link": "https://www.jiji.com/jc/article?k=2026091700731&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-17T12:37:23.992390+00:00"
+    },
+    {
+      "title": "Sterling Falls to 7-Week Low Vs Dollar After BOE Holds Rates",
+      "link": "https://www.wsj.com/finance/currencies/global-tightening-could-cap-dollars-fed-boost-fe1f509c?mod=rss_markets_main",
+      "summary": "Sterling fell to a seven-week low against the dollar and a one-week low vs the euro after the BOE voted 6-3 to keep interest rates unchanged.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-17T12:19:00+00:00"
     },
     {
       "title": "フィジーでＨＩＶ感染拡大　「緊急事態」宣言",
@@ -416,6 +436,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-17T11:41:00+00:00"
+    },
+    {
+      "title": "European carmakers warn EU-UK tariffs could be ‘catastrophic’",
+      "link": "https://www.ft.com/content/a9e7a625-9dab-4064-bf12-0498f2256792?syn-25a6b1a6=1",
+      "summary": "Industry argues that stricter rules of origin should be delayed to allow more time for supply chains to be established",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-17T11:33:23+00:00"
     },
     {
       "title": "How can I get my employees to stop oversharing at work?",
@@ -896,6 +924,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-17T08:13:54+00:00"
+    },
+    {
+      "title": "CCC invites all model citizens to 40C3",
+      "link": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+      "summary": "Article URL: https://events.ccc.de/en/2026/09/12/40c3-model-citizens/\nComments URL: https://news.ycombinator.com/item?id=49737787\nPoints: 13\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T08:03:54+00:00"
     },
     {
       "title": "TDS新規ショー決定 100億円投資",
