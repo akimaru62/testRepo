@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T12:11:24.421221+00:00",
+  "generated_at": "2026-09-18T12:35:16.807719+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -326,6 +326,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fe553317b60>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
+      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     }
   ],
   "items": [
@@ -368,6 +372,38 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-18T16:00:00+00:00"
+    },
+    {
+      "title": "最速利上げ、市場の注目は「次」　政府関係者「米国の圧力も制約」",
+      "link": "https://www.asahi.com/articles/ASV9L0PZ3V9LULFA02NM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-18T12:35:09.751362+00:00"
+    },
+    {
+      "title": "【完全版】日銀が利上げ決定、31年ぶり1.25%　暮らしの影響は",
+      "link": "https://www.asahi.com/articles/ASV9K3TK4V9KULFA01NM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-18T12:35:09.751329+00:00"
+    },
+    {
+      "title": "Warren Buffett moves further out of the spotlight at Berkshire, as his son is named chairman",
+      "link": "https://www.marketwatch.com/story/warren-buffett-exits-as-berkshire-hathaway-as-his-son-howard-becomes-chairman-095cc4f9?mod=mw_rss_topstories",
+      "summary": "Warren Buffett, the investing legend that turned Berkshire Hathaway into an massive conglomerate, has officially stepped aside as chairman after leaving as CEO at the beginning of the year.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-18T12:22:00+00:00"
+    },
+    {
+      "title": "Sports brand On signs Kylian Mbappé in blow to Nike",
+      "link": "https://www.ft.com/content/3e72dc10-5733-4623-9c4d-1beaab3dd5cf?syn-25a6b1a6=1",
+      "summary": "Swiss group targets long-term partnership with French star, similar to relationship with tennis great Roger Federer",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-18T12:18:25+00:00"
     },
     {
       "title": "選手逮捕の東葛に制裁金　ラグビー・リーグワン",
@@ -432,6 +468,14 @@
       "source": "CNBC",
       "category": "海外金融",
       "published": "2026-09-18T12:04:02+00:00"
+    },
+    {
+      "title": "Bend 2 and the Vibe-Coding Trap",
+      "link": "https://blog.liampwll.com/posts/bend_vibe_coding/",
+      "summary": "Article URL: https://blog.liampwll.com/posts/bend_vibe_coding/\nComments URL: https://news.ycombinator.com/item?id=49753179\nPoints: 15\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-18T12:03:55+00:00"
     },
     {
       "title": "Sports brand On signs Kylian Mbappé from Nike to lead new football push",
@@ -1245,6 +1289,14 @@
       "title": "020150.ks - | Stock Price & Latest News - Reuters",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTXRqQnNsTHpTY3k2VHBRMFIxT2twZkhpcVVJdm1PUm5qUFV0cnF5UjFobWxOdmJkLXl6QUtnTzhUYlgweENSRjN4Nm4zeHRLc19zOENIVUxTblFtUVZCQ0xMai1RY0ViUjl0S1llc19SVUFWaHJqUEtHSHg3dHZSS0xFSlUtQQ?oc=5",
       "summary": "020150.ks - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-18T05:37:04+00:00"
+    },
+    {
+      "title": "020150.ks - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTXRqQnNsTHpTY3k2VHBRMFIxT2twZkhpcVVJdm1PUm5qUFV0cnF5UjFobWxOdmJkLXl6QUtnTzhUYlgweENSRjN4Nm4zeHRLc19zOENIVUxTblFtUVZCQ0xMai1RY0ViUjl0S1llc19SVUFWaHJqUEtHSHg3dHZSS0xFSlUtQQ?oc=5",
+      "summary": "020150.ks - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-18T05:37:04+00:00"
@@ -2722,6 +2774,14 @@
       "published": "2026-09-17T20:13:00+00:00"
     },
     {
+      "title": "0712.hk - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiLXE5aEF3b0Vlc2REVlgxeHRPOE43OTRoamNVZGZUYWRzdDFhSVZjeEZxdENLWi1fOGpRQ3VIOEhIUDhrSkhqUnlNbERyY0szZVdURW5wN0dHUTVjLWl4N2FZYjRJNGpaMmRN?oc=5",
+      "summary": "0712.hk - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-17T20:12:14+00:00"
+    },
+    {
       "title": "Plugin4Shell – Zero Click RCE Vulnerability found in top four coding agents",
       "link": "https://www.air.security/blog-posts/plugin4shell",
       "summary": "Article URL: https://www.air.security/blog-posts/plugin4shell\nComments URL: https://news.ycombinator.com/item?id=49745809\nPoints: 4\n# Comments: 2",
@@ -3346,6 +3406,14 @@
       "published": "2026-09-17T15:20:00+00:00"
     },
     {
+      "title": "mowi.ol - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY0dLajVkT0tMX09SVDVUaW5xN01TNTN3Q2V3NkdHcUxIRkluOWtfVm5jWTcza0hWSWx6LVQwcmhoT0lVQ29qdW5pRXpaUzZMYXduR1hHUGRxb0tnQ2p0SVRBTk5tc1pSTmF3OUVHaF8za0RsRnFiQ2YxWWJIWGk0a0lhZ1N1cHlKMlhUalln?oc=5",
+      "summary": "mowi.ol - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-17T15:16:14+00:00"
+    },
+    {
       "title": "mowi.ol - ロイター",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSS15NUo0X0RWdjBDZlhKT2gzWUE5MGM2Y0hrckhlcUR6WE5haXJwNEFtM2toaHpVOW9KZm5DUC1RbGNtWDN1U1hHVEVhc2NOaHpaa1JWWnJRaEJESzJ3RGFsR0haa3Yxam4wZ3JFaDliNXZqblFZVnJ6OS02anFoWg?oc=5",
       "summary": "mowi.ol&nbsp;&nbsp;ロイター",
@@ -3370,6 +3438,14 @@
       "published": "2026-09-17T15:13:30+00:00"
     },
     {
+      "title": "19X.DE - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xX09faTNhOWp0U0NTVExVcEdWLWsyZmFJeW1oSldodnR5bjNoaWJ3VGJEZjZfb3hfdTJGbU5vSDB5amxJZGpNYkhYc3ByeFFMaTRzUHMwbC1qSUFVUWNMY2VuNTRIdXZCbHY4?oc=5",
+      "summary": "19X.DE&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-17T14:52:30+00:00"
+    },
+    {
       "title": "スウェーデン、政権交代へ　左派が僅差で勝利―総選挙",
       "link": "https://www.jiji.com/jc/article?k=2026091701225&g=int&m=rss",
       "summary": "",
@@ -3384,6 +3460,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-17T14:40:00+00:00"
+    },
+    {
+      "title": "0506.hk - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xaEFBZE1NWU9XdWtDSFE0ZUZHZnR3UUxGbnRtbl9PMGtvNEdYSkU1V0d2aTdNNDZEZENMS2oxRFB6dXZyMHFleG1NQVo4UFIxTjJubzNRbWhUVWthdUw2N0VjX3ZIZVRZT09tdmFB?oc=5",
+      "summary": "0506.hk - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-17T14:38:36+00:00"
     },
     {
       "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
@@ -3496,6 +3580,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-17T13:43:04+00:00"
+    },
+    {
+      "title": "Q64.MU - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS2hGOEFTMTBnb0ZUOVgyZmZUcVlmbjA0X2RXa0t6ekhnS2tfMmxyX2FYY3hMN3Jhai16NWlpZDZZVVJUaGFLQ3NUQk43NEFPM2p1N1RlQURxalFiZkhQaXRjeUc1ajFWR1gyWVNVaXFGV0VJQVR5bFJ6RVJFVm1OQU1B?oc=5",
+      "summary": "Q64.MU&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-17T13:40:06+00:00"
     },
     {
       "title": "Canada welcomes EU proposal to become 'associate member'",
@@ -3970,6 +4062,14 @@
       "published": "2026-09-17T10:26:01.049442+00:00"
     },
     {
+      "title": "ASTL.NS - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xeGU5RkpFRXgzOHNDZW00akZnSjRCMHFCMmNwTkVxN25uSUx3RDFCQWdoTjhZblJUS2hPVWkwUzUzY3F5aW8zZjVqNktLakdNWW9kRC1oTExMdm9peDBCTklwUXozREdPQmotdUN3?oc=5",
+      "summary": "ASTL.NS&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-17T10:14:46+00:00"
+    },
+    {
       "title": "Wall Street warns trading boom is losing steam",
       "link": "https://www.ft.com/content/3bb7e0e8-6aef-4b6b-a5f0-f472a2655c1f?syn-25a6b1a6=1",
       "summary": "Revenue growth slows after record-breaking bonanza in second quarter",
@@ -4288,6 +4388,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-17T08:13:54+00:00"
+    },
+    {
+      "title": "hepr.at - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb1E4eHROXzFYUDVXa1BDaDVxSWRVUURYbzVFMUtkeEtYbEl6UkRQY0x0S3JRT1RpWWh0Z3h0T05keDdtUHgtQlg1U0pUOUphc2JTeXBOaFFxdVIyZXJ1clk0b2l3TFptUlRNUnR2OGpQNk9GMFJtS3NLTkpEcHFuag?oc=5",
+      "summary": "hepr.at&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-17T08:08:14+00:00"
     },
     {
       "title": "CCC invites all model citizens to 40C3",
@@ -5010,6 +5118,14 @@
       "published": "2026-09-17T01:57:20.048036+00:00"
     },
     {
+      "title": "CAXXF.PK - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Jc2N6dGdGeVRIaHYxMFYyb0dHNXFJQWw0RzRmYi13c2VpaE5yWmVZT0lMdV92QldmaFZ5Rzg0SHpVUlVFNkhrelJXUUwtU0FmZkNqUzMzOVlQcWxmNW5N?oc=5",
+      "summary": "CAXXF.PK - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-17T01:40:32+00:00"
+    },
+    {
       "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
       "link": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
       "summary": "Article URL: https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html\nComments URL: https://news.ycombinator.com/item?id=49735410\nPoints: 8\n# Comments: 0",
@@ -5178,6 +5294,14 @@
       "published": "2026-09-17T00:20:00+00:00"
     },
     {
+      "title": "5YU0.F - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IZzFqOUhMcXEtNUNyQ0k4aGw4eVRtN2ExUjl3THduT2ZkelhVdGYtTWhOWks0eEtRY3lhSDdIVkJ4bUFTMEQxeHFyNmFJM3hMcHVOMHRYamEtUDdFMkgyQmprRks0cGw4SWhvN2VGMHdYRFN2cXAwZw?oc=5",
+      "summary": "5YU0.F&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-17T00:14:21+00:00"
+    },
+    {
       "title": "5YU0.F - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOFEwSThnXzU1QlBtSm1NMVBZbEo0UkpsclJ5SWJuSTVKY2lJSU1pOXZSUGhnV0xRRFFyX0pPZklEUUZlR2hPTjg4VlFQNUhibDJmN0FCb0M5VldXc0U4dWE0ekVIZVRzQ01CUTNXOEd5M0luUmFndVF5ZGFXMVZDNTNB?oc=5",
       "summary": "5YU0.F&nbsp;&nbsp;jp.reuters.com",
@@ -5216,6 +5340,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-16T23:47:27.516861+00:00"
+    },
+    {
+      "title": "085620.ks - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT2xNZ2twb3lUeW1LQjVYVmppcHBsa3VLRXhpYkxzYkVIaExyV0FGdHlJSDVSUThobzRTblQyWlBFemM1elJtb2tCalhUQ2FoRlZZcEZhVzQ2bVZ1aWJoYk5ZY0tzb3BGRHNHYWVhaUlFck1IUm5nUExVTHk5Y3NPUEZHQWZVUQ?oc=5",
+      "summary": "085620.ks - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T23:34:28+00:00"
     },
     {
       "title": "｢マナー違反じゃね？｣ 映画館､フェス､一口馬主… 日本各地で｢マナー警察｣が増殖し｢マナー論争｣が頻発する文化論的理由 | ライフ | 東洋経済オンライン",
@@ -5306,6 +5438,14 @@
       "published": "2026-09-16T22:56:48+00:00"
     },
     {
+      "title": "SQZ.L - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sd2JTZlZwTnZFcXJjbnpKVWxjRHJWY1ZPZmM1Y3JWUDJINXBNTEJmaG1kOVByTzF5ZkpIQVFwRzZJZnZFVy1qcjNrWFJIMTgtekdZdi1CejBaemdnZEVzVWRaalVYMGNBSGZj?oc=5",
+      "summary": "SQZ.L - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T22:45:40+00:00"
+    },
+    {
       "title": "｢ビッグダディ｣も…結婚を繰り返す人は､なぜまた相手に巡り合える？ 婚活のプロ･植草美幸が語る\"彼らにあるもの\" | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/956815?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "｢男性の約4人に1人が生涯結婚しない｣といわれる時代に､何度も結婚･離婚を繰り返す人がいます。恋愛･婚活アドバイザーの植草美幸さんがそんな人たちに共通する特徴と､｢離婚は必ずしも失敗ではない｣と考え…",
@@ -5370,9 +5510,25 @@
       "published": "2026-09-16T22:13:12+00:00"
     },
     {
+      "title": "1GALD.MI - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSGhTTjFxQk1ybGFPSEpaNzJJX3NpR3ZYb3ZjbXJQRzdYUFFBTkJldTczVmJBcGNHOC1YU01KSlBXV3NWSDVXZTZDMzNxUGtlUWlHX0J1YXVUT21OQ1lQVlQtRnhNUHZuRkxoTHE5a1pUUkcxQ2FXYVVXOVpFRWRXcUpLWld2WWdv?oc=5",
+      "summary": "1GALD.MI&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T22:13:12+00:00"
+    },
+    {
       "title": "FITB.N - | Stock Price & Latest News | Reuters - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ydWNIUUN6TUJ1REZIcEZFN3VoMlN0aWt1WWh5MnpuaHZ6NjNSQVVzakVrZHhGWHdNdDJJbkVyalpRX2dyQlM4QjZNYTZDVG1DN0I2QVUtbGRfbFE?oc=5",
       "summary": "FITB.N - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T22:10:40+00:00"
+    },
+    {
+      "title": "FITB.N - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ydWNIUUN6TUJ1REZIcEZFN3VoMlN0aWt1WWh5MnpuaHZ6NjNSQVVzakVrZHhGWHdNdDJJbkVyalpRX2dyQlM4QjZNYTZDVG1DN0I2QVUtbGRfbFE?oc=5",
+      "summary": "FITB.N - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-16T22:10:40+00:00"
@@ -5445,6 +5601,14 @@
       "title": "4186.t - | Stock Price & Latest News - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53ZG1pc3ZFNDFuS1RVanJQSHJRczVZR2YzQVdEZVd6aGxKd1dEQXFHczdiX1lKWE1WSWY3NnpBYTJvcDhWUGl2UXZ5TTlVNHQtZ3dXQXM3bTFKbXMxMUZkUDRtRmxsWkFfdmxJ?oc=5",
       "summary": "4186.t - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T21:38:03+00:00"
+    },
+    {
+      "title": "4186.t - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53ZG1pc3ZFNDFuS1RVanJQSHJRczVZR2YzQVdEZVd6aGxKd1dEQXFHczdiX1lKWE1WSWY3NnpBYTJvcDhWUGl2UXZ5TTlVNHQtZ3dXQXM3bTFKbXMxMUZkUDRtRmxsWkFfdmxJ?oc=5",
+      "summary": "4186.t - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-16T21:38:03+00:00"
@@ -5536,6 +5700,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-16T21:15:00+00:00"
+    },
+    {
+      "title": "ABF.L - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05NTFEM2RiT0ZKeGFYT3FJRTVBbWJMYWNtRzBDaW16M3hBWjFabkl4NEZOejV5MG50NTNfMGVPVVVOQXZwdjlyZlhvYTI3ZnVwODVFeUwzdGR1T0ZLbGdkbFBERnotOEZTOGoyRlNhNEVrNHlrRXhuSF9OSDJZQQ?oc=5",
+      "summary": "ABF.L - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T21:14:56+00:00"
     },
     {
       "title": "U.S. Markets Sell Off After Fed’s Warsh Says Inflation Is Still ‘Too High’",
@@ -6002,12 +6174,28 @@
       "published": "2026-09-16T18:45:20+00:00"
     },
     {
+      "title": "trox.k - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SclhuYnZYY2NyV3BobzRkaUYyVmkxMmFfckdMWWpBUVZCTk9zTVY3eFdqYWV1NkRaWVhNVERBUzZJdXExeWNlWjJnSEJFMFJCV19JVEg3VmlfU1BHcUEwdnR5SjVUYldUdE9J?oc=5",
+      "summary": "trox.k&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T18:45:19+00:00"
+    },
+    {
       "title": "Tell HN: An inside view of Montana's new biotech law",
       "link": "https://news.ycombinator.com/item?id=49731216",
       "summary": "Montana passed a law called SB535. It builds on right-to-try (pre-approval access with informed consent, Phase 1 safety data etc.) but goes much further, fixing problems with those laws.Alex Tabarrok called it \"the most important regulatory innovation in drug approval in my lifetime\" (https://marginalrevolution.com/marginalrevolution/2026/06/mo...). Was posted here but died in /new (https://news.ycombinator.com/item?id=48559525). The mods suggested this post.I contributed ideas to the law and am now implementing it through my company. I invested in biotech for years and watched companies struggle. I built the biotech ecosystem in Prospera as an alternative, concluded it was too early, and now think Montana is the best place to prove this.Why this exists: When FDA approves a bad drug, heads roll. When it delays a good one, the deaths are statistical and nobody gets blamed (\"invisible graveyard\"). So the incentive is overcaution, which is why the cost per approved drug has roughly doubled every 9 years for decades (\"Eroom's Law\"). Founders are in the \"Valley of Death\" around Phase 1: grants are no longer available, and commercial money wants assurance the drug will pass the next trial. Only ~10% of post-Phase 1 drugs get approved, but 68% of failed trials don’t stop because they found lack of safety or efficacy but commercial reasons (Williams et al., PLOS ONE 2015). Federal Right to Try and Expanded Access haven't fixed this. Federal reform is super-hard.What Montana allows: A physician can give an experimental treatment outside a trial if: it completed FDA Phase 1 under an active IND; a state-registered private review board (ETRB) approved the protocol; it's delivered at a state-licensed clinic; consent exceeds the federal standard & adverse events need to be reported. The key is: sponsors and clinics can charge.Why this time it's different: The risk-reward ratio is what's broken. Right to Try and Expanded Access don't let sponsors charge, so treating a patient is risk plus expense. Montana is the first state law where sponsors of IND-stage drugs can price in that risk. Trial recruitment today is a price-control system: per-patient cost is around $50-100k, typically has a ceiling upward on what it can pay patients (\"undue inducement\") and a floor downward (no profit, only at cost in RTT / EA). Montana removes both (I know this will lead to lots of debate, let’s have it.)So this is not a free for all, the additional liberties come with tough oversight. An ETRB is Montana's version of an IRB: safety review, consent, mandatory outcome reporting, and you can't withhold safety information from patients. That’s the truth-funding mechanism.What companies can do now: If you have a Phase 1 asset stuck in the Valley of Death: treat patients, negotiate payment, get real-world data, use it to sharpen your Phase 2/3 design.Disclosure: my company formed the first ETRB. The model is review fees, like an IRB; no equity in applicants, no payment by outcome; COI policy and board bios public; decision letters published with applicant consent; annual outcome report required.Objections:- Someone gets hurt? Same as trials and ordinary care: US legal system, legal recourse.- FDA shuts it down? They haven't said they won't, but historically FDA goes after grey-market clinics, not state laws; we're asking for safe harbor, but some companies aren't waiting.- Snake oil? Bad actors want to fly under the radar, and Montana makes that hard.What's needed: Biotechs with Phase 1+ assets willing to move before full FDA assurance, to build the evidence that gets the agency on board - the point is not to skip FDA, but to reduce the cost of data. And ex-FDA reviewers, IND operators, IRB members telling us where this breaks.Happy to answer anything.\n\nComments URL: https://news.ycombinator.com/item?id=49731216\nPoints: 3\n# Comments: 0",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-16T18:43:57+00:00"
+    },
+    {
+      "title": "njr - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02RWlUaktXamxpSExyQnkzMFNkczJLMDJ3U1pEWGlCV2tEa2ROYmJtUml3bF8xQW5xT3FLOXJ5R2hEbXZsQjV5dTBjVDlSQzVjeWRyZTNDV2JJTC1pNEtFX2tQWXZmUW8?oc=5",
+      "summary": "njr - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T18:39:20+00:00"
     },
     {
       "title": "The smartest money moves to make now that interest rates are going higher",
@@ -6346,6 +6534,14 @@
       "published": "2026-09-16T15:35:00+00:00"
     },
     {
+      "title": "2134.t - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOXIxaWloQkU2MXNvZVpXVWFqSjNRcE5MVWU4TmhYU0NnYXlVN0tVS2ZHUkdXVmJua3hYZmdfNVJwZU4zenk5UEFXVDk0cEw5TVNCMmhvZjRVMy1uRkgzUGpKU2FlNG8zaVF2VWRvLTNFOVVOeWptZFhWQ0VNTDhZVEFB?oc=5",
+      "summary": "2134.t - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T15:31:25+00:00"
+    },
+    {
       "title": "Autism is genetic – and why this information matters now",
       "link": "https://www.autism.org.uk/blog/autism-is-genetic-%E2%80%93-and-why-this-information-matters-now",
       "summary": "Article URL: https://www.autism.org.uk/blog/autism-is-genetic-%E2%80%93-and-why-this-information-matters-now\nComments URL: https://news.ycombinator.com/item?id=49728536\nPoints: 31\n# Comments: 6",
@@ -6522,6 +6718,14 @@
       "published": "2026-09-16T14:12:51+00:00"
     },
     {
+      "title": "1055.HK - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWSW5xeFlQS1FjUGRGTDMxcDRTS3NJLVJhakVmVm1sVExRRnlHRkd3ZU1BWm12UDlWYk1wbmFGV0hPT2N3UEE1QkFpZ1FMaldxLWQ3aUNtc0RLWWhTSDNTQnpYQU5SSkRTR3dERXRFZUJ6U0ZRTG1V?oc=5",
+      "summary": "1055.HK - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T14:12:51+00:00"
+    },
+    {
       "title": "More home builders cut prices as buyers get spooked",
       "link": "https://www.marketwatch.com/story/more-home-builders-cut-prices-as-buyers-get-spooked-4cd4b4ec?mod=mw_rss_topstories",
       "summary": "A rising share of builders are slashing prices on newly built homes despite increasing construction costs, as buyers get spooked by high mortgage rates.",
@@ -6533,6 +6737,14 @@
       "title": "tls.ax - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xWndTR1I1NGFRcTd2LVlFYS1XaV9pYnl2T2hjVjFlWHJ5TXA5QW1GaEFHSFFkbXFON2NfRXF3MjhHRklLWi1LSnBsVGtSM3NhWjJRUml5Y1V1Vjg5TVRGbTYtTGhkY0NkNTNpXzNXRXNtTHd6?oc=5",
       "summary": "tls.ax&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T14:03:49+00:00"
+    },
+    {
+      "title": "tls.ax - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xWndTR1I1NGFRcTd2LVlFYS1XaV9pYnl2T2hjVjFlWHJ5TXA5QW1GaEFHSFFkbXFON2NfRXF3MjhHRklLWi1LSnBsVGtSM3NhWjJRUml5Y1V1Vjg5TVRGbTYtTGhkY0NkNTNpXzNXRXNtTHd6?oc=5",
+      "summary": "tls.ax&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-16T14:03:49+00:00"
@@ -6597,6 +6809,14 @@
       "title": "SPOS.SI - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzamJMRXFEN0lzSm53bnFDcWRSWEp2eFI2R3NSaXRQZ0VBVzNVSHU2QWo0ZVZ0Y1dVWWNMUE1QeU5pOEFpN2JGVGNHRU8wTHZ6TnViS0pIajd4Rzl4UFQ3TUJDcGp0MW1aTi1KNlJ3?oc=5",
       "summary": "SPOS.SI&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T13:44:16+00:00"
+    },
+    {
+      "title": "SPOS.SI - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzamJMRXFEN0lzSm53bnFDcWRSWEp2eFI2R3NSaXRQZ0VBVzNVSHU2QWo0ZVZ0Y1dVWWNMUE1QeU5pOEFpN2JGVGNHRU8wTHZ6TnViS0pIajd4Rzl4UFQ3TUJDcGp0MW1aTi1KNlJ3?oc=5",
+      "summary": "SPOS.SI&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-16T13:44:16+00:00"
@@ -6760,6 +6980,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-16T12:53:00+00:00"
+    },
+    {
+      "title": "KIO.DEU - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KSVpwYTB0TUI4c1R3OVQxdFdvV19jdTZVYWNnLVB6RFNBdk41RDFRQzV6NENEM0RPMmdnYjFkLUNNUjNZenFPU2ZVRV9qdENMdTNRUVVUS2tWbDcyeE5yc0RoWWhLMVpBQnlUTUl3MHFvNDR1dGwzdVdB?oc=5",
+      "summary": "KIO.DEU&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T12:43:10+00:00"
     },
     {
       "title": "Retail sales surged toward the end of summer. Economy still has plenty of momentum.",
@@ -6946,6 +7174,14 @@
       "published": "2026-09-16T11:44:23+00:00"
     },
     {
+      "title": "FNTGn.S - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSEVYQXRyTVdDZWlCaEVlMXg1ejhqc2VwcHJpM2ZXZUltUjUwWXBIRHlZNWpXbzRvUUo3b2cxczJBRWJEVWFfQXltZEJPd0RQRlVzTjZ5ZWduZXE4dkFrN2psb245Sm01cEdsVnU4OURzZU9pcmlBM01wV1VjdDB3VENweWtFU0k?oc=5",
+      "summary": "FNTGn.S&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T11:42:19+00:00"
+    },
+    {
       "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
       "link": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
       "summary": "A report says Intel is in early talks with SK Hynix, which is considering some sort of partnership that would enable it to make memory chips in the U.S.",
@@ -7090,6 +7326,14 @@
       "published": "2026-09-16T10:40:36+00:00"
     },
     {
+      "title": "6566.t - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtN19YY0NkZENDdGVCMEI0VWZOLTI2UV9OazdYQ1dYak5IaGdObnRCc2JZeEVYcEQ2dHVqT2pneXZ0OThXSjRzZXJqa09MMkd3WkRPZXZTSVdYRndqSnE5clBSdjlvRF9tTkxJ?oc=5",
+      "summary": "6566.t - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T10:40:36+00:00"
+    },
+    {
       "title": "Salesforce Global Outage",
       "link": "https://status.salesforce.com/products/all",
       "summary": "Article URL: https://status.salesforce.com/products/all\nComments URL: https://news.ycombinator.com/item?id=49724488\nPoints: 11\n# Comments: 4",
@@ -7202,6 +7446,22 @@
       "published": "2026-09-16T09:48:45.076096+00:00"
     },
     {
+      "title": "XE3.H - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9UM1J6cXFDai0wVDhyZ28wNE1WaElRNGJCX1hRN3U5SmdJNlFBS3VSbTg1ZTZydlpPOEFBb0oyVXNUTnktQ0RkeFBjYjZYdVFWX0lkdnM0UUczc0xYcHJYQjNMNGJBc0xQQlVjQW9JblNJdnVRUk5yZl9nbzQ5dw?oc=5",
+      "summary": "XE3.H - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T09:43:04+00:00"
+    },
+    {
+      "title": "600927.SH - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52NTltbkRuOUk4bVB3SlFNU1lWdy1iMGJMbmU2OGE0dkNvTkdRVlp5eTBTQmpSbmxHVk1vSGxQWTBHRW1VRUQ5emVzWkpndTgzckY2VHNCYVJ3U2RqQzRvM0pjazAyLUJFSWc?oc=5",
+      "summary": "600927.SH - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T09:36:37+00:00"
+    },
+    {
       "title": "This BlackRock strategist opposes a Fed hike. Here are the funds she recommends.",
       "link": "https://www.marketwatch.com/story/this-blackrock-strategist-opposes-a-fed-hike-here-are-the-funds-she-recommends-36a3b981?mod=mw_rss_topstories",
       "summary": "Gargi Pal Chaudhuri, of BlackRock, recommends investors stay invested in the artificial-intelligence sector but broaden into themes like quality and healthcare.",
@@ -7264,6 +7524,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-16T09:27:17.535948+00:00"
+    },
+    {
+      "title": "XMAX.DG - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZFREbVBVRkhMRXJmZW5vcmdPSGJzcUc0Tk9tbWNZbko0SWhqWXo1LVlfTVdtQnZ3UGpvaG8yZHRweFdFcFA4WERLa2o1cm5vdVNsUWtGMzZVa1VEd08wN042bTVqQUcwdVpERlh2OXdITWpTR1BVeU4xbENkNF9JVEFyN1BPZw?oc=5",
+      "summary": "XMAX.DG - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T09:22:48+00:00"
     },
     {
       "title": "片山財務大臣兼内閣府特命担当大臣臨時閣議後記者会見の概要(令和8年9月15日(火曜日))",
@@ -7538,6 +7806,14 @@
       "published": "2026-09-16T07:50:13+00:00"
     },
     {
+      "title": "BSR.HM - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0aEZ3a0kwREU2SThUODMwU2FycmN5V1k4dV93TkRUY2NGWjA5M2pGVDZGZGFURURRaWJsT0ZpcDV2ZHlCQWF4LThjNE5ZdGxrbXBzT1VTVVR3MWs?oc=5",
+      "summary": "BSR.HM - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T07:50:13+00:00"
+    },
+    {
       "title": "ローソン、297円「具材1種類のみ」弁当発売　節約志向を意識、高価格商品も",
       "link": "https://www.itmedia.co.jp/business/articles/2609/16/news079.html",
       "summary": "ローソンは9月22日から順次、具材を1つに絞ることで価格を抑えた弁当と、具材の量や質にこだわった高付加価値の弁当の2シリーズを順次発売する。",
@@ -7634,6 +7910,14 @@
       "published": "2026-09-16T07:26:40+00:00"
     },
     {
+      "title": "634A.JSF - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5Z0pMQ2sxMmVFblJRYlg0ZzdkdnBCYnJpNWJWaER6X3Q5ajROa012Q2g4UGVUUVJLNHlIbmxUcG1hUDRGM3Qzdk9vMktBd3FGWkFGbGw0d1FveTBxanM4?oc=5",
+      "summary": "634A.JSF - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T07:26:40+00:00"
+    },
+    {
       "title": "片山大臣とロバートソン駐日英国大使との面会（令和8年9月16日（水））",
       "link": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20260916094525.html",
       "summary": "",
@@ -7674,6 +7958,14 @@
       "published": "2026-09-16T07:00:00+00:00"
     },
     {
+      "title": "IOBK.NS - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tcUV4Z19GWTA4ejFrLWhiR3NUX3lhVlRNbXpyU2NIRXh0aml1TzJLRXdLcjJnWFVSZWRFT21LeUtCMjk0UUZjYTlvaGJRU3ZWeFVPOFNVdEduMzJzNjdLREFGb0ZPeVp0Q3RQQUd3?oc=5",
+      "summary": "IOBK.NS&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T06:59:27+00:00"
+    },
+    {
       "title": "Sterling Shows Subdued Reaction to In-Line Inflation Data",
       "link": "https://www.wsj.com/finance/currencies/fed-guidance-key-to-asian-fx-outlook-511a4410?mod=rss_markets_main",
       "summary": "Sterling was little moved after U.K. annual headline inflation rose 3.1% last month, in line with expectations.",
@@ -7712,6 +8004,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-16T06:08:00+00:00"
+    },
+    {
+      "title": "TD9.D - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQkFWb3BiU1VHTUxuQjYtNDh6VHBkM1ktMnFTeW1FaGFBNm5WTTFHYURLZDBXeVdYT1lJTUlwUkp1RFdSYWthSnJBSElya2t6UThlOS1uNEoxMUdKZG9YTUdVU1V0NHhNUDJLbERIdDFqbVJDNmp5WExKOGRjdXNBQWhaUEdXZjV0ZEJj?oc=5",
+      "summary": "TD9.D - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T06:00:55+00:00"
     },
     {
       "title": "高市首相\"聖域崩し\"は大誤算に終わる？ 参院幹事長を更迭した｢強権人事｣の代償と党内に芽生える｢高市降ろし｣の足音 | 政治・経済・投資 | 東洋経済オンライン",
@@ -7770,6 +8070,14 @@
       "published": "2026-09-16T05:14:00+00:00"
     },
     {
+      "title": "IRDM.DE - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLXZUOW83T3VSY2FBX1haYWxrUmljbWNzQkV2VjBWT1RKcFdpOE1XdmpqVnBpQlJJRVFyMERwTTlXdzZYUHc1Qk91Wjl2SEc2eUZqOUFuS3ZxU1RmNEZQZGhkald4MTJOUHd3b1VhMWJYTGZiOGdwOEN1ZC1YekRZY0F3?oc=5",
+      "summary": "IRDM.DE&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T05:03:43+00:00"
+    },
+    {
       "title": "犬と登山 求められる飼い主の配慮",
       "link": "https://news.yahoo.co.jp/pickup/6595486?source=rss",
       "summary": "",
@@ -7800,6 +8108,22 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-16T04:55:08+00:00"
+    },
+    {
+      "title": "002399.sz - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ydFR3YXJiUlhSR1FTSG1WcGptbUR2WHRfWUZlRkdmYzdJTnAtbjlyd1BtdnBmTTM2QkgwbGttSUVLVTJsRGN0cnZnS1Y0c21SODNwaEdlYzFqaHkzbGwtNkdBNXh5MEUtank0TF92Uk9mSE90TXhWNjBn?oc=5",
+      "summary": "002399.sz - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T04:40:02+00:00"
+    },
+    {
+      "title": "Q64.SG - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44WnJMM1lOcENvWnJoa3M0LVI4d3BCY1F0aWtpNTlVR1pmdG1NQlB4dTlBdnNON2VlTHVybURFTnEwWXhJb2R3LXRhMlVGdTdnREFwaUk5QkE1VW5seVdWUUFJelpvX1dXTWc?oc=5",
+      "summary": "Q64.SG&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T04:39:57+00:00"
     },
     {
       "title": "短ければ短いほどいい｢アマゾンの社内会議｣…プレゼンの成否を決定づける\"冒頭15分の沈黙\"で行われていること | キャリア・教育 | 東洋経済オンライン",
@@ -7914,6 +8238,30 @@
       "published": "2026-09-16T03:42:08+00:00"
     },
     {
+      "title": "7241.t - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZGlrMGJCWXpHeVcwN3FnTDN6Z2VNRDkwa3FJWnhrbW5URjBxRWZ6Z0owZXQtNTBSOUpmby03U2dPdEZqeEJvOGFIWk56Nkc4YVFWWlBkVnBiV1dsV1Ewb1JEdVZYYjhILS1SbEhUWWNUWkQxUWhVd180R0dpdXFFWDltZVE?oc=5",
+      "summary": "7241.t - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T03:41:02+00:00"
+    },
+    {
+      "title": "PSDLlrt.CHI - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xbW9nOVdFZ2M5RnJGUk5BUzg4dkZuc25tSkdDcndOODl6MGV1YjhBbTloc2ZlNDkyaVRmc09wSVc1WXRPNWNGZUhXWWNPMXYyeWRzUU5wRHYwSHU1Vm8zQUp5Zw?oc=5",
+      "summary": "PSDLlrt.CHI - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T03:40:39+00:00"
+    },
+    {
+      "title": "1091.HK - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkZGJNc3FyX2p4QzJQZk83QmpDX2Y0d3hxTXhIMk1meHFiVHVzLWFGM3psNy05SWNlTjR5MkJEWXU2NVBpaE9rdkduOFo2c0RJQUhKT3Fzb2tDUlctbGYyRWdnaVV1ZVp3MXdwZlBOLVhhZFVuQWc?oc=5",
+      "summary": "1091.HK - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T03:39:08+00:00"
+    },
+    {
       "title": "国庫短期証券（第1407回）の入札結果",
       "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20260916.htm",
       "summary": "",
@@ -7978,6 +8326,14 @@
       "published": "2026-09-16T03:12:00+00:00"
     },
     {
+      "title": "590A.JNU - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXRF9qOUFOUEZVNUZhY1k0bnkzRHA1LUZpNlBuR0EwemtSRUxTQXExc3ZlYlNlaGtYRDlzVTI0RzQ3R0REZGthNl95c2o3MGxfZUNWMXNYcUU1Sk54U2l5d19SbjhiTF9DQk1NYnR0QQ?oc=5",
+      "summary": "590A.JNU - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T03:09:40+00:00"
+    },
+    {
       "title": "Singapore Dollar Weakens Ahead of Fed Rate Decision",
       "link": "https://www.wsj.com/finance/currencies/fed-guidance-key-to-asian-fx-outlook-511a4410?mod=rss_markets_main",
       "summary": "The Singapore dollar weakened against its U.S. counterpart ahead of the Fed’s policy decision.",
@@ -7994,9 +8350,25 @@
       "published": "2026-09-16T03:00:00+00:00"
     },
     {
+      "title": "GA7.F - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQkRrTzdkNklGd1M2dFFVMFltM2s1b2lGYi1lbnluanN0ZllaMlZCN21reEpGVlhfaEo5MWg1ZGNMbTROVTFoX0RMbzFJU3c4dGpLM1NVUWJlSVpveWpVQ1JOX1ZwaGkyZy15YWM2dm9ZUHpyaEtCc1VQMEhjenh5UQ?oc=5",
+      "summary": "GA7.F - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T02:56:52+00:00"
+    },
+    {
       "title": "BITTIh.ED - | Stock Price & Latest News | Reuters - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CSHRVVG5iWGxkcjJqcHBVdE5VbGxlNEF6M1NwbVJpeGFVR1JPOWZjU0NoVHZiVTNFVzg3RVJfU1JiLVc1YnVUV09xMEVBM0NkblNib090Umx4RW1zeHEwOA?oc=5",
       "summary": "BITTIh.ED - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T02:48:20+00:00"
+    },
+    {
+      "title": "BITTIh.ED - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CSHRVVG5iWGxkcjJqcHBVdE5VbGxlNEF6M1NwbVJpeGFVR1JPOWZjU0NoVHZiVTNFVzg3RVJfU1JiLVc1YnVUV09xMEVBM0NkblNib090Umx4RW1zeHEwOA?oc=5",
+      "summary": "BITTIh.ED - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-16T02:48:20+00:00"
@@ -8008,6 +8380,30 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-16T02:46:06+00:00"
+    },
+    {
+      "title": "6NV.H - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcXpVd1dTWlFsM0FsNFpXWDZKTFVOMWhmV0NVYVFTNlpncnpuajhyUUlYTnRhLVljQ1k3U25YN0R0Z1BNMF9kQmpBZW1rYVlRSkJtZS1iTWJLVE1lSTA1dnE3OHpmc00tTDc0ZVJISHVtWFpwSzllX3pjZ1k3N2NUWU42cw?oc=5",
+      "summary": "6NV.H - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T02:44:02+00:00"
+    },
+    {
+      "title": "andr.vi - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpRXRhaHBJZ25SU2FMRHM5M0trWlNNTHRXNWQ0bGpMVmdyNzVtdUNYcnJFQWpzc3NiZFBhdXVQUjh2ODlVa0x4STJtQ2Qyb3FuVFE5Mkx1QWV0LXBvSjJNcjNSX0p5dTcyZzhRXw?oc=5",
+      "summary": "andr.vi&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T02:42:05+00:00"
+    },
+    {
+      "title": "CFIprt.CHI - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iaTFjTnlScDhzRWo2MWdNQlFaM2VLTUxBcHZLUXJFMVQtS1RFSGRLMkxCeWV6UWdVTVdKR1o0TnBqWEgxZnBaa1hyTTZmdWtpZUF2dTVQV2NHQ2ZtRHhwOW53?oc=5",
+      "summary": "CFIprt.CHI - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T02:41:50+00:00"
     },
     {
       "title": "自民執行部が発足　「骨格」麻生・鈴木氏続投　高市首相、総裁選へ安定重視",
@@ -8130,6 +8526,14 @@
       "published": "2026-09-16T02:18:01.153842+00:00"
     },
     {
+      "title": "AVT.SG - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbFFqekVuVFdQTEFrS3pMMHhCd3RQTVVVRGNVeFUtWi1xekJ4bjN5QlR6eXhvOHpHTmJuLTBUQTYtRUJJMDBFZWVua1NfQ1pGRmtnSE9IbTFEYkQ1TkJNdDFIY0gtS2hMcGpoSXlwUnktWXAwS0JLdDgtVWQxd1AwQWs1azZGdw?oc=5",
+      "summary": "AVT.SG&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T02:11:45+00:00"
+    },
+    {
       "title": "Apple Reference Image: A New Approach for Verified Photography",
       "link": "https://security.apple.com/blog/apple-reference-image/",
       "summary": "Article URL: https://security.apple.com/blog/apple-reference-image/\nComments URL: https://news.ycombinator.com/item?id=49721322\nPoints: 3\n# Comments: 0",
@@ -8186,6 +8590,22 @@
       "published": "2026-09-16T01:55:23+00:00"
     },
     {
+      "title": "mtnl.ns - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zeXFoWFNINjJqWHdWU2c1bVAwc1BSaGpobER1RkFmRTZBT2JKMDc4ZGdmbXRURTNZSkh2WTYwMTlXaGdjYkwxRVhBM0lIZk9KajZ2al85b0JQdTh2NXY3N2RVM2E5bFJSVnRVeA?oc=5",
+      "summary": "mtnl.ns&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T01:42:25+00:00"
+    },
+    {
+      "title": "RBA.TO - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GbVpaVHM1cVVtV0JjZjBwSlFsZXQ4UXRteVJubUVzcnhlOEppWHJ3OG1ZVXBxVzVsV1lwaE0yTllsek44U20xQ2taVnRrQS1aUEUtdGpqR3ZKN2hra29ENEVWVzBBQXY2dF9j?oc=5",
+      "summary": "RBA.TO&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T01:40:48+00:00"
+    },
+    {
       "title": "就活生が選んだ「就活を表す漢字一文字」1位は？　8月末の内々定率は85.6％",
       "link": "https://www.itmedia.co.jp/business/articles/2609/16/news060.html",
       "summary": "マイナビは、2027年卒業予定の大学生・大学院生を対象に「大学生キャリア意向調査」を実施した。その結果……。",
@@ -8240,6 +8660,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-16T01:15:00+00:00"
+    },
+    {
+      "title": "ATE.NSf - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeXhnT1NyNWU5bF9CZ2ZhVnF3N0ZKZEFjZmZSNnhMWV9hQzFaSUJUZHNHZ1c0UTl2UlJ0b01IQkZBV2doRkM5NWg5NWNfNVdMX0FWQVMtX0UtRVZqVGxYMDRBYk5WdUM4dG5fVVlWbzMyYXlxWUc4UHZfYWxlQTU5TQ?oc=5",
+      "summary": "ATE.NSf - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T01:04:15+00:00"
     },
     {
       "title": "なぜあのお笑い芸人が美人女優と？ 人類が獲得したすごい能力とクジャクの羽､ピカソの絵が示す｢モテる男の真実｣ | キャリア・教育 | 東洋経済オンライン",
@@ -8402,6 +8830,14 @@
       "published": "2026-09-15T23:22:30.560144+00:00"
     },
     {
+      "title": "142A.J2 - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UTzBxUV96czlDaTlpcUdWU1FERHZYNGpZSTNxYWYweUE4UVNMdVBPTTExOEd5Wm9GSWtzbDNuY3JJNWU2RFJacy1EU2RISmlWeE53azZjLVRfWFhmc0E?oc=5",
+      "summary": "142A.J2 - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T23:19:53+00:00"
+    },
+    {
       "title": "めじるしアクセ 販売停止が相次ぐ",
       "link": "https://news.yahoo.co.jp/pickup/6595438?source=rss",
       "summary": "",
@@ -8416,6 +8852,22 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-15T23:17:20+00:00"
+    },
+    {
+      "title": "2909.HK - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lQWVKTmVZcGlRV1BBZlZ4UTdBQzdaUlRKUkxwUUNWU21jeDF0Q05ITHJPR0IzT3hwcjNLYU5oZVNOVnY1M0ZEME5DeURTMGRtRUluR29aN3VmWDNLRFRxNXNBVGJFX3lsbjYxdzhjYkR2N3E2czU0?oc=5",
+      "summary": "2909.HK - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T23:12:27+00:00"
+    },
+    {
+      "title": "KIO.SG - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX1p5UC1ST0k4UGRzMk91NnozekFHaWpNWkV2SVozeUs4dncxQWZLdkNvTF9zMVEyY01hREhSVEFBc0hIME5yTzZwY01kM3RXZjBjRHM0eGxOd2I4NVZaOXRHMjBDb1JnME8xVlo0Y1VCYVoyemNaUm5NUnZ0OGJ3bQ?oc=5",
+      "summary": "KIO.SG&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T23:11:22+00:00"
     },
     {
       "title": "最新｢四季報｣配当利回りランキングTOP50　業績堅調で株主還元にも積極的な会社はここだ！【本日発売】 | 政治・経済・投資 | 東洋経済オンライン",
@@ -8514,6 +8966,14 @@
       "published": "2026-09-15T22:15:00+00:00"
     },
     {
+      "title": "ABSI.OQ - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYnBOR3lsdEMxZngxempQX2lna2xIUmlsNVVndDV2bmE4UjM2ckJqQmtCa3RCMXl0NVgwQ2ppWTBzS3BUa1ZheDVfSEdSeDVVb0d6Qm9FRXhZdGkzbTR4OVNOcmRQV1Nwbk5kbmhNMkstQ0ZiVjdxUXdIVmdJbGpIWVdUWQ?oc=5",
+      "summary": "ABSI.OQ&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T22:14:52+00:00"
+    },
+    {
       "title": "Trump says Kennedy Center renovation depends on whether his name is on it",
       "link": "https://www.ft.com/content/38707536-bf54-42cb-8072-e022956047bd?syn-25a6b1a6=1",
       "summary": "President’s vow comes after a federal judge rejects effort to rename building",
@@ -8594,6 +9054,14 @@
       "published": "2026-09-15T21:41:42+00:00"
     },
     {
+      "title": "psagn.de - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb0UtUVhVS2VfOUNpcmtFMWZZVzR4RmY0eW1wamRYSlJYUWd4bDVQd0NSc3NwMEsybXF5dzBaREE1Z1BBaDJBOWRWWVh6Z3h0M3BJVGNsZHpETmhueG5RWkZTa1AwdkNTd19zc3FPS3BjRFNRNllBd1RDVVdSLTRnbmx3?oc=5",
+      "summary": "psagn.de&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T21:41:29+00:00"
+    },
+    {
       "title": "ファミマがセブン､ローソンから｢朝のシェア｣を奪いに来ている…250円で大満足｢朝ファミマのコンビ割｣に見た\"本気\" | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/958157?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "急拡大する｢第4次モーニングブーム｣に乗り､各コンビニが熾烈な朝食戦線を展開中。なかでもファミリーマートの\"朝ファミマのコンビ割\"は､最大36.7％オフの驚き価格で話題急上昇しています。",
@@ -8616,6 +9084,22 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-15T21:40:00+00:00"
+    },
+    {
+      "title": "AQIMD.PK - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtZk5CYUd3N0xFTUF2eVZXLW9lU1pQOWxYdzhFRER6NU5yZ2ZpZDVZTUVRR3htNy1oSmJwS2F0aEY2U3ZOSndFaEtNT3ZIZ0o3OHFFTlBnWEt6ZEFNaHFIdHV1OFo3NUNacWlZdy1tTWhJWXJrQjEyWA?oc=5",
+      "summary": "AQIMD.PK&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T21:38:50+00:00"
+    },
+    {
+      "title": "LTMGF.PK - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGSjBMRlotMld0SWVWOW5HSXd6Vmw1V0hXWFJIdGUwbG9oU3N0NXNZVDdVd3RkZmJmeEJBQk5TckNiYl9CMWxPYjFiVTFRYkNjNTRZOU1uQzIzSkVfNndVMHJMRFh6YTF4SW1RNUFCSVNNYmoyQjRpMmRNOA?oc=5",
+      "summary": "LTMGF.PK&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T21:38:15+00:00"
     },
     {
       "title": "How the Iran war is transforming the relationship between stocks, bonds and oil",
@@ -8650,12 +9134,28 @@
       "published": "2026-09-15T21:21:47.321633+00:00"
     },
     {
+      "title": "BRINBsrt.CHI - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZaXlsdXFaTkc0WmJSRXk4N2ZpRmotX2M1VUM3Y09GRXIzaXJkWmtOaEh5cE50bHdmN1NDRnVFRk5mYXRWVkRiNGhvMkppY0VsT3BIajJMQmo1c3ZvaHZsWDdCNjFIUmN5YXhBQnNfOFpOTDQ?oc=5",
+      "summary": "BRINBsrt.CHI&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T21:20:24+00:00"
+    },
+    {
       "title": "《台湾》なぜインバウンド向けに大々的な施策を打ちまくるのか？｢2万5000円＋新幹線乗り放題｣の太っ腹還元を獲得する方法 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/957356?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "台湾が旅行者に向けて､驚きの大型キャンペーンを実施します。これから台湾を旅するあなたに､絶好のチャンスかもしれません。",
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-15T21:15:00+00:00"
+    },
+    {
+      "title": "VS3.DE - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zUVdubm4zZ0RfdWpWOWFQam9sRUpkS1VzdmpvRjk0S2ZKeXFnaDdVWlhzeTZBaEluM3lMNWtoYUlDU2U2TGJZQTlaSnN4M0xIYXRpeTlwQ0NhUDM4cDU4WS1rQUVsLWZ2Qmc?oc=5",
+      "summary": "VS3.DE&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T21:12:05+00:00"
     },
     {
       "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
@@ -8866,6 +9366,14 @@
       "published": "2026-09-15T20:45:00+00:00"
     },
     {
+      "title": "wst.n - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xZ0Mwd3Vjd19jekFEeXQ5UHBIeGU3OUZzSU1WYmFVLXlYVFVsVm5qLV9HRWx0Tl81SjI4STlET3NUTzFDdTMxWlFRaHZ0Q0xiVEVXZFI2UVhWdlQ0UVBSTUx2Y25XSHBVaDBnLU1ETkFVNEE?oc=5",
+      "summary": "wst.n - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T20:33:39+00:00"
+    },
+    {
       "title": "Oracle’s stock falls for the fifth day in a row — missing out on the AI bounce",
       "link": "https://www.marketwatch.com/story/oracles-stock-falls-for-the-fifth-day-in-a-row-missing-out-on-the-ai-bounce-9150c9ed?mod=mw_rss_topstories",
       "summary": "Chip stocks linked to OpenAI rebounded a bit on Tuesday, but Oracle shares extended their losses.",
@@ -8928,6 +9436,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-15T20:16:00+00:00"
+    },
+    {
+      "title": "8T8.DE - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTU5wUXRHR0NhbHNaZDh3dXd6VUh0WFZrQTR2TTVrU1p4Y3pHQTBFRUMyWlZlUUNOa2pTX0pPRmRJaVZrRUZYWlFWREVBcEx6bUpHaWxtODBvaTk5U1hEZXg3dG5FNHNyRThhd2M3YWdLYUxhSXZRbXdJSHFsZXJ1YWQwZTdCUQ?oc=5",
+      "summary": "8T8.DE&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T20:15:03+00:00"
     },
     {
       "title": "Top Senate Republican floats a diesel export ban as prices soar. It might not work.",
@@ -8994,12 +9510,44 @@
       "published": "2026-09-15T19:39:00+00:00"
     },
     {
+      "title": "IMDCY.PK - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vWS1QVVpoVy1nOXNZck44TkM4Si1MY0RxOS1PX3FHYlRkUGMySEhkV2Ryc1ZndzdOTUVxMjRBeWFPU0pxOWRZZi1DZEhqVDgtTjFZN0UwRE1WWUtfNFE0UGwxX0lZaVdQSkxJNXBB?oc=5",
+      "summary": "IMDCY.PK&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T19:36:42+00:00"
+    },
+    {
+      "title": "WLK.DE - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcVhmdVBqREUzX0FfR1ExWkxsdE1vVkxvdDBCbnN5dUtzOFVUMjNEZndiNC03WW1xbUJHa1VLTDB1R2lWcm13OEZtSlJoSHI0a1RHMXpKWWZDSDdMbU9sWDBHUy1wVUhqTzNOTS1obURybWFqVDNWa3pjdG1Ed25UZkNB?oc=5",
+      "summary": "WLK.DE&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T19:35:46+00:00"
+    },
+    {
       "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
       "link": "https://codyho.dev/blog/gpu-driver/",
       "summary": "Article URL: https://codyho.dev/blog/gpu-driver/\nComments URL: https://news.ycombinator.com/item?id=49717638\nPoints: 5\n# Comments: 0",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-15T19:30:03+00:00"
+    },
+    {
+      "title": "5331.H - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10eEVvZWkySkdkMnlwbVBRTm1lem1FU0ZaXzJYZm1EZ2tKRVc5TGZ1NXR6Z3FrX0lsWDV4WS1rZFZtTDlzUXJZd0NQdUlpQ1N4alM2dHc4Mjl3TzVBSlBCU0hIbzhSYkRIRlE?oc=5",
+      "summary": "5331.H - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T19:29:57+00:00"
+    },
+    {
+      "title": "BY8.H - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQSTU5c2hPRGJaaFNidHM0dVhFSEowYzN1N0c3TVNHZG1qVjdaWkhsMnA0bDlxNklZNjAzX1hKSjZxVW45Q3J0ZlgtMl9TMHBYS2RVMkhjOGQ5WFk2X0RMTmcySWhuWkRP?oc=5",
+      "summary": "BY8.H - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T19:27:57+00:00"
     },
     {
       "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
@@ -9098,6 +9646,14 @@
       "published": "2026-09-15T18:54:46+00:00"
     },
     {
+      "title": "UFPT.DY - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wM0dXTWRabkItdkktRWo1NkVlVVNTZWpkTUV4c09JMGZjT2FRbnNLdkk3dnNkb0lOdG1lb2ROOEs3b3VvT1lrT3U5WUtET0tGTGlYb01qQk1PWEZFOXdNLTBfeUtwZ1E?oc=5",
+      "summary": "UFPT.DY&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T18:54:46+00:00"
+    },
+    {
       "title": "Chop Up Your Books",
       "link": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
       "summary": "Article URL: https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html\nComments URL: https://news.ycombinator.com/item?id=49716953\nPoints: 6\n# Comments: 2",
@@ -9152,6 +9708,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-15T18:27:24+00:00"
+    },
+    {
+      "title": "RESIlrt.CHI - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ocGxNLThlS3JKbHZEcnFWbTdpRldLOGVZQXJKYUJmdmczc0lBSk1rdElMY1FoZzRtOS1XWHdveTdQNUFJZHNsbV8zQ19KQW5VSDcxbWJWYndmNk9INWRkLTVBSDFfSXF0YWxiTFhURWE5QzJsUVVudUhXSElvUEk?oc=5",
+      "summary": "RESIlrt.CHI&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T18:23:30+00:00"
     },
     {
       "title": "We got admin access to Baseten's production GitHub in 25 minutes",
@@ -9266,6 +9830,14 @@
       "published": "2026-09-15T17:28:50+00:00"
     },
     {
+      "title": "MS6N.SG - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWHdYaU5veEtvRkVmN0U2N19yTWg0a1k5ZDhlYXc5MS1HT1FPV1hjT2tLemQ3NS0zMTY2RFpiV0w4R21JTjlBdFhLdEItRkFqdVA3eXlFc0UwTlhHd241akM4eVhBcW56bzZNVExoUElVTE9RMVpaNDFYRDFCU0Y5bTdjV1FZUQ?oc=5",
+      "summary": "MS6N.SG&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T17:28:50+00:00"
+    },
+    {
       "title": "AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.",
       "link": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
       "summary": "Customers are signing multiyear deals for chips and more: “That’s not what the front end of a downturn looks like.”",
@@ -9346,6 +9918,30 @@
       "published": "2026-09-15T17:00:00+00:00"
     },
     {
+      "title": "2327.tw - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcHdBYlpoTkRFSGxVUUREbVFvUXpPU205bExaR3RXNHNTN3BnczY2cl9KRnNHVkxaUUVYWXkwU3VIOGo4a1lxM3B3VE94NjJCZlhDYVVxOWxXSkRsTUJnaU9NbURGaXl5SnN1TlhqX1Nhc0FhQ3pvdmdic3RxNnlfNHU5TlRmTi1uZW8tTGFR?oc=5",
+      "summary": "2327.tw - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T16:55:10+00:00"
+    },
+    {
+      "title": "646A.T - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wN0pEaWRhMjExRGpQTHVkZl9HektDbXJ3UC1nM1o5R0FRdlhSV1k1bHFRQ3RpTjN3R1FNZ3RCd3FRbG1lZ2lhYUkydlBuYUJTeV9hbkptaWE5LVRfd1lXU3pKTEJia1cxMnd5YUU4bWIxWXVoTXc?oc=5",
+      "summary": "646A.T&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T16:55:04+00:00"
+    },
+    {
+      "title": "KIO.D - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVFNoSlJYUnRBdnkxTmVlck1CTWtpUVpVLU9MaDdfNHdNMGdsRjdNZFpMeE05NGpNTTFWNG9iR005VnR1RlpzX0hXUk9fTEVNMnRIQjFSQ3NIa3FlVWpiT3VJX3EzVjIxY2lEaWxSRURKQ3pJalVUYVdPTWNFSnBkeF9uQQ?oc=5",
+      "summary": "KIO.D&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T16:53:01+00:00"
+    },
+    {
       "title": "US says Chinese groups used Binance to launder $61mn from Iranian oil deals",
       "link": "https://www.ft.com/content/a3830162-2f40-46b7-8259-0db45fe2acef?syn-25a6b1a6=1",
       "summary": "US Justice Department files forfeiture lawsuit to seize $61mn in alleged proceeds processed through cryptocurrency platform",
@@ -9392,6 +9988,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-15T16:26:00+00:00"
+    },
+    {
+      "title": "600006.sh - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwRVNLejBmZEdKeWk2LWFBcGQwYlpVOGRsTFJFYnZnM0YwUWF4MmFlWVJEbHNJTFo1RUJrSGJGX2pxVEExcS0yWm8zV3B6M0U2WTVPa0t0VlBiQzZDdkJSZ2dUUFNOck9PTVlLcjZIVVA?oc=5",
+      "summary": "600006.sh - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T16:23:40+00:00"
     },
     {
       "title": "Stocks Decline as 10-Year Treasury Yield Hovers Near 5%",
@@ -9458,6 +10062,22 @@
       "published": "2026-09-15T15:58:48+00:00"
     },
     {
+      "title": "O634AO.T - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VVl85cThjbm5yR2RjZy1zZFVtUUlQcTNMN1Nqa1czWEhyWVNlQTRMeWwzeXE4R1VGcTE4a3dzRlJ4TXdidTJBc0pCN1Y2YmI2R2ZlaHNNT2Nkci1NR3pB?oc=5",
+      "summary": "O634AO.T - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T15:54:32+00:00"
+    },
+    {
+      "title": "BBJ.H - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9oRGNGUklKT0tVYnI4SDY3RkN4QWlUekpHTGxOazVSemRFRHNqSlFocjJaVHVlbThzaFdyZE9TT05jVFp5cWd2VGt6cDNDVDhPazMySnVhZWh6WE1ZUVNlRWc4TEloNGJPcUo1aldhal9Qd2RIQzBN?oc=5",
+      "summary": "BBJ.H - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T15:54:16+00:00"
+    },
+    {
       "title": "V1.1 state of open source- OS 4.4 months behind frontier [pdf]",
       "link": "https://stateofopensource.ai/state-of-open-source-ai-v1-1.pdf",
       "summary": "Article URL: https://stateofopensource.ai/state-of-open-source-ai-v1-1.pdf\nComments URL: https://news.ycombinator.com/item?id=49714457\nPoints: 3\n# Comments: 1",
@@ -9480,6 +10100,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-15T15:40:14+00:00"
+    },
+    {
+      "title": "(EDUS_rol.KL%5EL13) | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ObFhJdGhQQ09ZOEF6bEtlVDVyNW52SnR5YUdXRXpGZ01ieUlDajhxSkhtOXd4Um54N2dWZWtIYTJRa1JuNlo5UjJCdXNaenZvdEVnNVdsRVBHVGFld0RwZjQydnBCdw?oc=5",
+      "summary": "(EDUS_rol.KL%5EL13) | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T15:37:34+00:00"
     },
     {
       "title": "Cartesian – AI 3D Modeling for Design",
@@ -9562,6 +10190,14 @@
       "published": "2026-09-15T15:20:26+00:00"
     },
     {
+      "title": "8291.JNF - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CMkRlSGExQzJUbl9EQzZfdlY5RkNjQVcyc0hXeWdvZ2ZDQ2NDX2lSMVRrdU1ESWdLQjZhVHNaTDVNNHRJdzl5eUl1QzJaWHpKODFIZU5xOGdDRkNVT1hZ?oc=5",
+      "summary": "8291.JNF - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T15:19:10+00:00"
+    },
+    {
       "title": "How many rate hikes are on tap? Wall Street hopes to connect the Fed’s dots.",
       "link": "https://www.marketwatch.com/story/how-many-rate-hikes-are-on-tap-wall-street-hopes-to-connect-the-feds-dots-6b1ac5dc?mod=mw_rss_topstories",
       "summary": "If the Federal Reserve jacks up interest rates this week to try to tame inflation, investors hope to connect the dots to figure out how much more the central bank will raise borrowing costs.",
@@ -9586,12 +10222,28 @@
       "published": "2026-09-15T15:03:38+00:00"
     },
     {
+      "title": "004800.ks - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUEgwYjRPOEp3bW5Jc2tYZmRoNEFpUkxNelNKQmd5a0ZEejV3eWNWT2h3WVdhSWJoQ0RDS0dsRk40REtvMmlDRzFrYkN3Z05nQi1QcXBYX2ZuMkoySW8yd1NYOVowakRNcl9jZXZfOEJrRlVOaENqeHBkRFRDMzE0akVQd0xLdw?oc=5",
+      "summary": "004800.ks - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T14:55:23+00:00"
+    },
+    {
       "title": "Leverage or Luck?",
       "link": "https://www.wsj.com/finance/investing/leverage-or-luck-c0641149?mod=rss_markets_main",
       "summary": "If you buy and hold a leveraged ETF, anything can happen.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-15T14:55:00+00:00"
+    },
+    {
+      "title": "PD.A - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GRDN1dWZoNWlZTTNYRWoxbkF3MGNTZU9EekxZLWQ1OWkzRlZsZk1vUmlROUx1MDdLLVVkbzFoT282RW1RczQyNzNvandPTGlINlRMS1Y3QWQyV1Vwb3pJUGk4cVZwYTdzTlE?oc=5",
+      "summary": "PD.A - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T14:52:31+00:00"
     },
     {
       "title": "Israeli Minister Threatens Filmmakers' Citizenship over Gaza Documentary",
@@ -9722,6 +10374,14 @@
       "published": "2026-09-15T14:24:08+00:00"
     },
     {
+      "title": "PRHI.O - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVTF5U2lHXzcyOExqNmdDUERGeEhZSW90UWtXZXItR3lNZmZ6anlBQk12aXl2WHNBZ1l0ODRKNmJMejNab0E4ZDU5d25lTFRhcTBpdUpQLUs0SkJNeGdfcjYwcld0ZHJSYUw5ZzlWZmF4cjVKbjNCZ0RLZlVZOG1QWQ?oc=5",
+      "summary": "PRHI.O&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T14:23:35+00:00"
+    },
+    {
       "title": "Oil Futures Rise on Continuing Supply Disruption Worries",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-stabilizers-in-crude-market-start-to-weaken-5dc85781?mod=rss_markets_main",
       "summary": "Oil futures rose amid market pessimism about flows out of the Middle East following the outage of a key Saudi pipeline and the increased Houthi threat to Red Sea shipping.",
@@ -9800,6 +10460,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-15T13:56:18+00:00"
+    },
+    {
+      "title": "PET.HMd%5EI25 - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51S0JHSVpTN2JfZHNRRU5yaDl6N0RDTm9wZEliNjlOOXFneHF6WU8wellJSnRiSjEwNVFJMlR1SkV6azZwcDlneFYzeUFKRG14ek0wMi1TNUZKR19nY2lPMXl3TDdGUDVsc3o3WmpqSllyelE?oc=5",
+      "summary": "PET.HMd%5EI25 - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T13:54:37+00:00"
     },
     {
       "title": "AI is breaking our proxies for expertise",
