@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T05:36:10.845872+00:00",
+  "generated_at": "2026-09-18T05:47:25.327161+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -478,12 +478,28 @@
       "published": "2026-09-18T04:24:00+00:00"
     },
     {
+      "title": "Jemalloc 5.4.0",
+      "link": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+      "summary": "Article URL: https://github.com/jemalloc/jemalloc/releases/tag/5.4.0\nComments URL: https://news.ycombinator.com/item?id=49750152\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-18T04:20:24+00:00"
+    },
+    {
       "title": "Singapore Dollar Steady Amid Possible U.S. Dollar Debasement",
       "link": "https://www.wsj.com/finance/currencies/yen-weakens-after-boj-raises-rate-as-expected-10cc8985?mod=rss_markets_main",
       "summary": "The Singapore dollar was steady against its U.S. counterpart during Asian trading.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-18T04:10:00+00:00"
+    },
+    {
+      "title": "The Scourge of x86 Emulation",
+      "link": "https://fex-emu.com/Scourge-of-emulation/",
+      "summary": "Article URL: https://fex-emu.com/Scourge-of-emulation/\nComments URL: https://news.ycombinator.com/item?id=49750094\nPoints: 12\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-18T04:09:48+00:00"
     },
     {
       "title": "Bank of Japan Raises Rates, Making U.S. Less Alluring for Tokyo Investors",
