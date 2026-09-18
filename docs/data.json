@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T21:06:30.381863+00:00",
+  "generated_at": "2026-09-18T21:21:48.604451+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -346,12 +346,52 @@
   ],
   "items": [
     {
+      "title": "首相動静（９月１８日）",
+      "link": "https://www.jiji.com/jc/article?k=2026091800216&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-18T21:21:42.888884+00:00"
+    },
+    {
+      "title": "二つの花束、「海望む場」に　秋篠宮さまと悠仁さまが追悼―東日本大震災",
+      "link": "https://www.jiji.com/jc/article?k=2026091900102&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-18T21:21:42.888844+00:00"
+    },
+    {
+      "title": "It’s almost impossible to sell a condo unit these days: ‘I feel trapped’",
+      "link": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
+      "summary": "Selling a condominium unit has become a challenge for many, as buyers get spooked at the prospect of bearing ever-rising HOA fees — even if the home comes with a lower price tag.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-18T21:16:00+00:00"
+    },
+    {
+      "title": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
+      "link": "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories",
+      "summary": "The AI data-center buildout is still early, and UBS says investors can cash in through investments across the technology, media and telecommunications sectors.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-18T21:14:00+00:00"
+    },
+    {
       "title": "RFK Jr. Got Free Flights to Fiji and Greece From a Top Donor",
       "link": "https://www.wsj.com/politics/rfk-jr-got-free-flights-to-fiji-and-greece-from-a-top-donor-e4b8d525?mod=rss_markets_main",
       "summary": "The health secretary disclosed over $250,000 in gifts from security specialist Gavin de Becker.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-18T21:03:00+00:00"
+    },
+    {
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "link": "https://code.claude.com/docs/en/changelog",
+      "summary": "Article URL: https://code.claude.com/docs/en/changelog\nComments URL: https://news.ycombinator.com/item?id=49760187\nPoints: 29\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-18T21:00:32+00:00"
     },
     {
       "title": "トヨタ自動車の中国合弁2社に｢歴史的再編｣機運 国有大手の第一汽車が広州汽車に出資､第2位株主に  | ビジネス | 東洋経済オンライン",
@@ -570,6 +610,22 @@
       "published": "2026-09-18T19:48:35+00:00"
     },
     {
+      "title": "ＮＹ外為市場＝ドル対円で上昇、日銀利上げも判断割れで追加観測に影 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qUE10MHphcV9ZYmNSeWJJX1FHZF93NDFTQnBFUGh6MkpkLW1rT0YtUUZrdnVucG1Vcl9hdERvQUZ5UnVSUW1Wb3pKU0lwUUdOdUlGVGFVZHZONXcyamwzcWZWRUlFUDNDQ1ltMzRGZ20xa19FS2o0RjNQTlA?oc=5",
+      "summary": "ＮＹ外為市場＝ドル対円で上昇、日銀利上げも判断割れで追加観測に影&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-18T19:46:09+00:00"
+    },
+    {
+      "title": "トランプ氏、ＣＮＮなど3メディアをホワイトハウスから排除と表明 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iaWFzY09TczRjdWpMRFVoSzJGWUJBaldvZVRQb1hhOFFsQXNTYWVtU3dCVmxKbUlGeVNxY1oyR2hXdG43RzdMTi13QTZEVzVHSS1zcmhpTGJSdUZVTW5qSElTT3BVaVRlWGFtNExzakUxRlA4ckM0Qjd4ZGpKdw?oc=5",
+      "summary": "トランプ氏、ＣＮＮなど3メディアをホワイトハウスから排除と表明&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-18T19:38:52+00:00"
+    },
+    {
       "title": "Oil Futures End Week Little Changed",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-worries-over-middle-east-supply-disruptions-ease-36be861a?mod=rss_markets_main",
       "summary": "Oil futures ended a frantic week little changed with prices easing back after a midweek rise to four-month highs on disruptions to Saudi Arabia’s East-West pipeline.",
@@ -712,6 +768,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-18T18:28:15.728710+00:00"
+    },
+    {
+      "title": "独ＡｆＤとプーチン氏側近、来春会談へ準備 ロ産ガス供給再開を協議 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRXd6eTlpNm1QQmlxRnBBbVpRaEo0VURwQS1mOHZLSlhLRExkeFNVb2NyeGxMazk4WGZWM200ZXozNzFnMUdJYUdWNklvbnVpMlVzWVBOQm01UWZuMmJ2bkNMZVZheWlaR2pBT3F0OTR0SW9EM3J1YVVaU1BYT0FSZWhiaHNwUQ?oc=5",
+      "summary": "独ＡｆＤとプーチン氏側近、来春会談へ準備 ロ産ガス供給再開を協議&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-18T18:10:13+00:00"
     },
     {
       "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
