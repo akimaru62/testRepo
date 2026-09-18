@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T14:37:17.629464+00:00",
+  "generated_at": "2026-09-18T14:48:03.692429+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -378,6 +378,14 @@
       "published": "2026-09-18T16:00:00+00:00"
     },
     {
+      "title": "Gold Falls With Focus on U.S. Monetary Policy",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-worries-over-middle-east-supply-disruptions-ease-36be861a?mod=rss_markets_main",
+      "summary": "Gold prices fell despite lower oil prices, as a stronger dollar and rate-hike expectations weighed on the precious metal.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-18T14:43:00+00:00"
+    },
+    {
       "title": "How CSIRO built scalable, cost-optimized genomic variant querying on AWS",
       "link": "https://aws.amazon.com/blogs/architecture/how-csiro-built-scalable-cost-optimized-genomic-variant-querying-on-aws/",
       "summary": "Learn how researchers at CSIRO, Australia's national science agency, built Serverless Beacon (sBeacon), a scalable serverless solution for securely querying genomic variant data on AWS. sBeacon implements the GA4GH Beacon standard using Amazon S3, AWS Lambda, Amazon DynamoDB, and Amazon Athena to support production-scale clinical and research applications.",
@@ -408,6 +416,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-18T14:12:00+00:00"
+    },
+    {
+      "title": "Second Circuit Allows Government to Search Electronic Devices at the Border",
+      "link": "https://knightcolumbia.org/content/second-circuit-allows-government-to-search-electronic-devices-at-the-border-without-any-suspicion",
+      "summary": "Article URL: https://knightcolumbia.org/content/second-circuit-allows-government-to-search-electronic-devices-at-the-border-without-any-suspicion\nComments URL: https://news.ycombinator.com/item?id=49754687\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-18T14:11:22+00:00"
     },
     {
       "title": "Travis Kelce and others lost millions in a Ponzi scheme. Here’s what a basic index fund would have earned them instead.",
@@ -480,6 +496,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-09-18T13:25:47+00:00"
+    },
+    {
+      "title": "NATS publishes preliminary report on technical incident of 8 September",
+      "link": "https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/",
+      "summary": "Article URL: https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/\nComments URL: https://news.ycombinator.com/item?id=49754064\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-18T13:24:35+00:00"
     },
     {
       "title": "サッカー、皇后杯決勝は元日　天皇杯と同日開催に",
@@ -1480,6 +1504,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-18T07:35:43+00:00"
+    },
+    {
+      "title": "New wild cat species discovered – with only one known living member",
+      "link": "https://www.bbc.com/news/articles/c6x2zgv9rr4ro",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c6x2zgv9rr4ro\nComments URL: https://news.ycombinator.com/item?id=49751222\nPoints: 24\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-18T07:32:50+00:00"
     },
     {
       "title": "European Indexes Slip, But AI-Related Stocks Gain",
