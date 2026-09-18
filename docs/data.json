@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T21:33:38.755681+00:00",
+  "generated_at": "2026-09-18T21:47:38.350989+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -346,6 +346,78 @@
   ],
   "items": [
     {
+      "title": "｢メーター3万円の生地｣｢2回着たら破けるシルクの服｣…24歳･繊維研究者が魅了された80年代･DCブランドの《狂気》 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958545?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "バブル期の熱狂とともに生まれた80年代DCブランド。その真価がなぜ長く正当に評価されなかったのか､そして現代の若者世代がなぜ今その｢トゥーマッチ｣な魅力に心を奪われるのか――24歳の古着店主･市村修…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-18T21:45:00+00:00"
+    },
+    {
+      "title": "｢正気か！就活せえ！｣と母は猛反対したが…芦屋育ちの箱入り息子（24）が長野で｢DCブランド専門の古着店｣を開いた顛末 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958544?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "1980年代､日本の個性派ファッションを牽引した｢DCブランド｣ブーム。その熱狂をリアルタイムで知らない24歳の若き店主が､再び光を当てる理由とは？",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-18T21:45:00+00:00"
+    },
+    {
+      "title": "Opinion | The Staring Contest Over the Dollar and the Yen",
+      "link": "https://www.wsj.com/opinion/bank-of-japan-interest-rate-yen-scott-bessent-07bd6b74?mod=rss_markets_main",
+      "summary": "Or is it a circular firing squad among Bessent, Tokyo and investors?",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-18T21:38:00+00:00"
+    },
+    {
+      "title": "Wall Street Ends Volatile Week with Quiet Finish",
+      "link": "https://www.wsj.com/finance/stocks/wall-street-ends-volatile-week-with-quiet-finish-8aa4d4f2?mod=rss_markets_main",
+      "summary": "The Dow Industrials fell for a third-straight week, while the Nasdaq composite eked out a small gain.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-18T21:36:00+00:00"
+    },
+    {
+      "title": "ReadyOn’s Four Walls of tenant isolation on Amazon EKS",
+      "link": "https://aws.amazon.com/blogs/architecture/readyons-four-walls-of-tenant-isolation-on-amazon-eks/",
+      "summary": "ReadyOn runs a multi-tenant platform on Amazon EKS that handles highly sensitive enterprise data. This post describes their Four Walls model: four independent layers of tenant isolation combining Kubernetes namespaces, Karpenter node pools, Amazon VPC security groups, and per-tenant Amazon Aurora databases for zero-trust defense in depth.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-09-18T21:33:13+00:00"
+    },
+    {
+      "title": "同じ利上げ決定でもアメリカは｢中央銀行が一致団結｣､一方の日銀は圧力に屈し､国のトップには危機感なし､もはやこれは国難だ | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958665?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "アメリカのFEDと日銀､同じ利上げでも両国中央銀行の内情や決断の背景は大きく異なります。アメリカとあまりに違う日本に筆者は危機を感じます。（このリード文はAIが作成しました）",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-18T21:30:00+00:00"
+    },
+    {
+      "title": "｢幼稚園で元素周期表を暗記｣｢独学で5カ国語習得｣生活保護世帯に生まれた\"ギフテッド\"が一家心中図った壮絶な子供時代 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958137?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢神童｣と呼ばれながら､家庭の貧困や家族の苦悩､絶望的な状況に追い込まれた清野孝弥さん。彼は東大を目指すことで人生を逆転させました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-18T21:30:00+00:00"
+    },
+    {
+      "title": "〈大学ランキング〉｢自己努力収入｣の比率が高い国立大学全85校､24年度1位は東大59.0%､2位阪大54.3%､10％未満も8校 | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958070?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "18歳人口の急減や多様化する学びの潮流を背景に､日本の大学は自力で資金を獲得し､変革を迫られています。本記事では､国立大学が外部資金をどれだけ集めているかを最新データで分析。｢本当に強い大学｣とは何…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-18T21:30:00+00:00"
+    },
+    {
+      "title": "Trump claims US has deal with Denmark for ‘control’ of Greenland security",
+      "link": "https://www.ft.com/content/2ecc74bd-2fba-4ca6-9f1c-f0a927ed983c?syn-25a6b1a6=1",
+      "summary": "President says Washington will develop ‘large military presence’ in territory",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-18T21:28:48+00:00"
+    },
+    {
       "title": "首相動静（９月１８日）",
       "link": "https://www.jiji.com/jc/article?k=2026091800216&g=pol&m=rss",
       "summary": "",
@@ -438,6 +510,22 @@
       "link": "https://toyokeizai.net/articles/-/958035?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "吹奏楽部は､地域移行の中でどのようにその価値を継承･発展させていくべきでしょうか。｢STEAM教育｣のポテンシャルに注目する筆者が､解説します。",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-18T21:00:00+00:00"
+    },
+    {
+      "title": "ワークマンの開発者が「欲しい」　2990円の「着るネックピロー」が誕生",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/19/news014.html",
+      "summary": "ワークマンが、旅行や帰省など長時間移動を快適にする新作アイテムを発売。2990円の「着るネックピロー」など、物価高で高まるコスパ重視の旅行需要に応える。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-09-18T21:00:00+00:00"
+    },
+    {
+      "title": "未経験以上、即戦力未満──「微経験」者の採用、企業の7割が「満足」と回答したワケ",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/19/news007.html",
+      "summary": "採用活動において、募集条件を満たすほどの実務経験はないものの、応募職種や業務に関連する経験を有していることを「微経験」と呼ぶ。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-09-18T21:00:00+00:00"
     },
@@ -4520,6 +4608,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-17T22:53:43+00:00"
+    },
+    {
+      "title": "プーチン氏、ネスレとオーシャンのロシア資産を暫定管理下に - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pZDRLYVkzbHBnSGRoZWhNUkcwd3JMVGxBcUF2clU3ZDVmSDhFbVNHYmcyRTVSalliM01PZW9OU3ZhXzZSZXI2aG5NcW1QazdzdVlJekVReUVoYmdvNmJocVFXQWhCNHkwUHZSWVBoMTVMTVdMWExwcWMyb1o?oc=5",
+      "summary": "プーチン氏、ネスレとオーシャンのロシア資産を暫定管理下に&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-17T22:47:43+00:00"
     },
     {
       "title": "押切もえ｢産後に漠然としたお金の不安が…｣無我夢中だった20代の後悔と､わが子に伝えたい｢お金の知識｣ | キャリア・教育 | 東洋経済オンライン",
