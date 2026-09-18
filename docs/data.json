@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T02:37:37.561001+00:00",
+  "generated_at": "2026-09-18T02:51:41.885609+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -354,6 +354,14 @@
       "published": "2026-09-18T10:00:00+00:00"
     },
     {
+      "title": "8月の消費者物価、1.7%上昇　電気代の補助が伸びを押し下げ",
+      "link": "https://www.asahi.com/articles/ASV9L0QMRV9LULFA006M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-18T02:51:36.175020+00:00"
+    },
+    {
       "title": "新米が古米より安い「逆転現象」はなぜ起きたのか　カギはJAルート",
       "link": "https://www.asahi.com/articles/ASV9K3FWLV9KULFA00NM.html?ref=rss",
       "summary": "",
@@ -501,6 +509,14 @@
       "title": "Goose: 1.16x faster than C++ and 1.12x than safe Rust, while memory safe",
       "link": "https://github.com/aardappel/goose/tree/master",
       "summary": "Article URL: https://github.com/aardappel/goose/tree/master\nComments URL: https://news.ycombinator.com/item?id=49748954\nPoints: 18\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-18T01:04:54+00:00"
+    },
+    {
+      "title": "Goose:experimental lang 1.16x faster than C++ and 1.12x than safe Rust, mem safe",
+      "link": "https://github.com/aardappel/goose/tree/master",
+      "summary": "Article URL: https://github.com/aardappel/goose/tree/master\nComments URL: https://news.ycombinator.com/item?id=49748954\nPoints: 36\n# Comments: 32",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-18T01:04:54+00:00"
@@ -11749,6 +11765,14 @@
       "title": "ASU0.GTX - | Stock Price & Latest News | Reuters - Reuters",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUVk5bzl4X1I1M0RLaGMxUnhTWTNTUGU5Qk9IaWJicFB1YjA0UjZESmExZzZoNlkxdUJNcHpabDNyWnVPbGRGU0NtaGlNM01iOGxrRU13VnFpV2tYS0FId0JTd0FBS0JVUGItMXlVTllrdDJJd1l6TmtkOFJQWjNkWnRPLXNXa0paZGhmTg?oc=5",
       "summary": "ASU0.GTX - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T10:53:27+00:00"
+    },
+    {
+      "title": "ASU0.GTX - | Stock Price & Latest News | Reuters - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUVk5bzl4X1I1M0RLaGMxUnhTWTNTUGU5Qk9IaWJicFB1YjA0UjZESmExZzZoNlkxdUJNcHpabDNyWnVPbGRGU0NtaGlNM01iOGxrRU13VnFpV2tYS0FId0JTd0FBS0JVUGItMXlVTllrdDJJd1l6TmtkOFJQWjNkWnRPLXNXa0paZGhmTg?oc=5",
+      "summary": "ASU0.GTX - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-15T10:53:27+00:00"
