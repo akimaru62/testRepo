@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T05:24:29.155094+00:00",
+  "generated_at": "2026-09-18T05:36:10.845872+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -318,6 +318,10 @@
     {
       "url": "https://www.ft.com/rss/home",
       "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f0b3316fb60>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -352,6 +356,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-18T10:00:00+00:00"
+    },
+    {
+      "title": "｢TBSが隠蔽した｣｢打ち切ったほうがいい｣の声も…『VIVANT』福澤監督\"骨折パワハラ\"報道の裏にある､思考停止の危うさ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958583?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "TBS日曜劇場『VIVANT』の福澤克雄監督による助監督への\"骨折パワハラ\"報道が波紋を広げています。隠蔽疑惑の訴えや打ち切り論争まで､感情が先走る声も噴出。論点を冷静に整理し､真に問われるべきもの…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-18T05:30:00+00:00"
     },
     {
       "title": "臨時国会、１０月５日召集　政府、与党に伝達",
