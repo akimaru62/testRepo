@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T17:06:54.138518+00:00",
+  "generated_at": "2026-09-18T17:21:14.005270+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -334,6 +334,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f78eb5c01a0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f8b2c5881a0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -722,6 +726,14 @@
       "published": "2026-09-18T14:16:00+00:00"
     },
     {
+      "title": "Former Wells Fargo asset manager Allspring explores $4bn sale",
+      "link": "https://www.ft.com/content/1270032d-25e9-4be0-aa2f-5205b9bedd08?syn-25a6b1a6=1",
+      "summary": "Deal by private equity owners would follow a string of transactions that have reshaped the industry",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-18T14:12:56+00:00"
+    },
+    {
       "title": "U.S. Natural Gas Futures on Track for Weekly Gains",
       "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-on-track-for-weekly-gains-7f67c787?mod=rss_markets_main",
       "summary": "Natural gas futures rose, looking to end the week with gains as extended summer weather kept up cooling demand in the southern half of the country.",
@@ -776,6 +788,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-18T13:58:15+00:00"
+    },
+    {
+      "title": "disb.du - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CYzFraC1VT1dRSkN0SlhaSkl0Q3psclk2LVZaaHBxUC1NUUJUMDRvY1h4NHVHRkFKMC1rano3REZZdkxhaE5NNlRkZzN0aXFLbkFfb2o4eElhRHVVTy1LN2s3R1RQelB0RUh5Qm9mcUhPcnl6d2dhcHlR?oc=5",
+      "summary": "disb.du&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-18T13:58:00+00:00"
     },
     {
       "title": "HEIF Heist: image parser RCE exploit",
@@ -896,6 +916,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-18T13:06:30+00:00"
+    },
+    {
+      "title": "Xi’s edge over Trump on AI",
+      "link": "https://www.ft.com/content/a528adc7-3a8c-4a00-826f-1fdde748efb5?syn-25a6b1a6=1",
+      "summary": "The US president’s anti-regulatory stance fails to take into account that China is catching up",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-18T13:00:02+00:00"
     },
     {
       "title": "ETFs Are Getting Wackier. Investors Must Stay Sane.",
