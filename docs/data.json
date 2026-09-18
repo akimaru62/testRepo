@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:36:05.182477+00:00",
+  "generated_at": "2026-09-18T16:47:20.082256+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -354,6 +354,22 @@
       "published": "2026-09-18T17:00:00+00:00"
     },
     {
+      "title": "Why investors’ best move in reaction to Fed’s rate hike is doing nothing at all",
+      "link": "https://www.marketwatch.com/story/why-investors-best-move-in-reaction-to-feds-rate-hike-is-doing-nothing-at-all-6ff56b4c?mod=mw_rss_topstories",
+      "summary": "Even when rates are higher, stocks should still beat bonds",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-18T16:39:00+00:00"
+    },
+    {
+      "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
+      "link": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
+      "summary": "The chairman both explained this week's decision to raise interest rates, and raised vexing questions about what comes next",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-09-18T16:33:43+00:00"
+    },
+    {
       "title": "Two signs investors don’t have to fear an AI slowdown",
       "link": "https://www.marketwatch.com/story/two-signs-investors-dont-have-to-fear-an-ai-slowdown-5ec40948?mod=mw_rss_topstories",
       "summary": "Neocloud companies CoreWeave and Nebius are signaling strong demand and rising prices for AI chips.",
@@ -610,6 +626,14 @@
       "published": "2026-09-18T14:36:10+00:00"
     },
     {
+      "title": "I vibed a proof of Conway's conjecture",
+      "link": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
+      "summary": "https://github.com/gaearon/conway-refinement#why-i-think-its...\n\nComments URL: https://news.ycombinator.com/item?id=49755024\nPoints: 80\n# Comments: 81",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-18T14:36:10+00:00"
+    },
+    {
       "title": "How CSIRO built scalable, cost-optimized genomic variant querying on AWS",
       "link": "https://aws.amazon.com/blogs/architecture/how-csiro-built-scalable-cost-optimized-genomic-variant-querying-on-aws/",
       "summary": "Learn how researchers at CSIRO, Australia's national science agency, built Serverless Beacon (sBeacon), a scalable serverless solution for securely querying genomic variant data on AWS. sBeacon implements the GA4GH Beacon standard using Amazon S3, AWS Lambda, Amazon DynamoDB, and Amazon Athena to support production-scale clinical and research applications.",
@@ -624,6 +648,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-18T14:25:50.735734+00:00"
+    },
+    {
+      "title": "U.S. Stocks Trade Mixed",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-rise-as-oil-extends-losses-treasury-yields-rise-0bda0bff?mod=rss_markets_main",
+      "summary": "U.S. stocks traded mixed as a continued fall in oil prices helped lift sentiment across markets.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-18T14:23:00+00:00"
     },
     {
       "title": "BeanShell3 in Development",
