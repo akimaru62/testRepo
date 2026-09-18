@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T01:33:32.462527+00:00",
+  "generated_at": "2026-09-18T01:55:57.099300+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -426,6 +426,22 @@
       "published": "2026-09-18T01:20:00+00:00"
     },
     {
+      "title": "Claude Code from Source",
+      "link": "https://claude-code-from-source.com/",
+      "summary": "Article URL: https://claude-code-from-source.com/\nComments URL: https://news.ycombinator.com/item?id=49749019\nPoints: 12\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-18T01:14:04+00:00"
+    },
+    {
+      "title": "Goose: 1.16x faster than C++ and 1.12x than safe Rust, while memory safe",
+      "link": "https://github.com/aardappel/goose/tree/master",
+      "summary": "Article URL: https://github.com/aardappel/goose/tree/master\nComments URL: https://news.ycombinator.com/item?id=49748954\nPoints: 18\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-18T01:04:54+00:00"
+    },
+    {
       "title": "ファンデーションは1年､リップグロスは1カ月で買い替えが理想…酸化や雑菌を避けるために知るべき｢コスメの使用期限｣ | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/957283?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "何年も前の化粧品を今でも使っている……という方､意外と多いのでは？ 良くないだろうなと思いつつ､捨てるタイミングや買い替え時がわからない！ という方に向け､コスメの使用期限と買い替えのタイミングを詳…",
@@ -616,6 +632,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-17T23:20:23.631277+00:00"
+    },
+    {
+      "title": "Alibaba releases Qwen 3.8 Omni Flash",
+      "link": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen3.8-omni-flash\nComments URL: https://news.ycombinator.com/item?id=49747925\nPoints: 19\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-17T23:05:48+00:00"
     },
     {
       "title": "秀吉相手に｢まさかの落城｣北条氏の《難攻不落の城》があっさりと攻め落とされた\"致命的な盲点\" | キャリア・教育 | 東洋経済オンライン",
