@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T03:44:21.383060+00:00",
+  "generated_at": "2026-09-18T03:52:05.032283+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -370,6 +370,14 @@
       "published": "2026-09-18T03:32:00+00:00"
     },
     {
+      "title": "OpenAI breached by researchers using Anthropic models",
+      "link": "https://www.ft.com/content/c4aa118e-a258-48bc-b50e-28e453a95db8?syn-25a6b1a6=1",
+      "summary": "Security company hacked into AI lab using tools from its rival",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-18T03:31:31+00:00"
+    },
+    {
       "title": "AIを発明したのは誰？ノーベル物理学賞を受賞した半導体と機械学習の研究を東大院物理学生が解説 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/957783?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "AIやITの進化を支えるカギ､｢半導体｣。最新技術への注目や株式市場への影響が叫ばれる一方で､その本質について知る人は多くありません。本記事では､ノーベル賞受賞の裏側や半導体の仕組み､AIとの深い関…",
@@ -424,6 +432,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-18T03:28:17.829624+00:00"
+    },
+    {
+      "title": "Bank of Japan raises rates to highest since 1995",
+      "link": "https://www.ft.com/content/97a0bed5-0580-4ccc-bd3c-fe9a714259e2?syn-25a6b1a6=1",
+      "summary": "Central bank cites inflation risks as it lifts interest rates by 0.25 percentage points to 1.25%",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-18T03:26:05+00:00"
     },
     {
       "title": "Potential AI IPOs Could Create Liquidity Headwind for Existing Listings",
