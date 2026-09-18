@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T10:07:57.563679+00:00",
+  "generated_at": "2026-09-18T10:25:21.255420+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -322,6 +322,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f0b3316fb60>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fe553317b60>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -364,6 +368,86 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-18T16:00:00+00:00"
+    },
+    {
+      "title": "高所得者の介護保険料引き上げへ　６５歳以上、低所得者の負担軽減―厚労省検討",
+      "link": "https://www.jiji.com/jc/article?k=2026091800942&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-18T10:25:16.076092+00:00"
+    },
+    {
+      "title": "中部電は「責務を軽視」　浜岡不正巡り陳謝―電事連会長",
+      "link": "https://www.jiji.com/jc/article?k=2026091800929&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-18T10:25:16.076071+00:00"
+    },
+    {
+      "title": "「小さな森の家」ＣＭで不当表示　葬儀会社に措置命令―消費者庁",
+      "link": "https://www.jiji.com/jc/article?k=2026091800947&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-18T10:25:16.076042+00:00"
+    },
+    {
+      "title": "コメ平均価格、2年ぶり2千円台に　政府は備蓄米の買い戻し契約",
+      "link": "https://www.asahi.com/articles/ASV9L2S9LV9LULFA01XM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-18T10:25:15.580038+00:00"
+    },
+    {
+      "title": "中部電力の浜岡原発データ不正問題とは　トップ辞任、審査取り下げへ",
+      "link": "https://www.asahi.com/articles/ASV6Q7JFLV6QULFA01QM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-18T10:25:15.579988+00:00"
+    },
+    {
+      "title": "スタバ ラテなどの定番商品値上げ",
+      "link": "https://news.yahoo.co.jp/pickup/6595729?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-18T10:13:27+00:00"
+    },
+    {
+      "title": "Warren Buffett stepping down as chairman of Berkshire Hathaway: 'Father Time always wins'",
+      "link": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
+      "summary": "Buffett's son, Howard, will replace him as chairman as dictated by a long-standing succession plan, Berkshire said.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-09-18T10:09:35+00:00"
+    },
+    {
+      "title": "Russia seizes control of Nestlé and Auchan operations",
+      "link": "https://www.ft.com/content/35f6bcf0-ba88-4a82-9575-9dae232d1b54?syn-25a6b1a6=1",
+      "summary": "Move is first crackdown on western-owned assets since 2023",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-18T10:09:02+00:00"
+    },
+    {
+      "title": "The Fed’s never been so confident on economic growth. What investors should do now, according to KKR.",
+      "link": "https://www.marketwatch.com/story/the-feds-never-been-so-confident-on-economic-growth-what-investors-should-do-now-according-to-kkr-b2eef2ee?mod=mw_rss_topstories",
+      "summary": "Members of the Federal Open Market Committee showed their lowest level of worry about gross domestic product growth since it first started releasing its outlook.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-18T10:08:00+00:00"
+    },
+    {
+      "title": "The Fed hasn’t been this terse since 2007. What a 130-word statement signals for market stability.",
+      "link": "https://www.marketwatch.com/story/the-fed-hasnt-been-this-terse-since-2007-what-a-130-word-statement-signals-for-market-stability-0fd31292?mod=mw_rss_topstories",
+      "summary": "Bank of America calculates this week’s Federal Open Market Committee statement explaining the decision to lift interest rates by a quarter-point as its most terse, at just 130 words, since 2007.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-18T10:08:00+00:00"
     },
     {
       "title": "円安進み一時157円　利上げに委員2人が反対、「ハト」受け止めも",
@@ -419,6 +503,14 @@
       "summary": "",
       "source": "金融庁",
       "category": "公的機関",
+      "published": "2026-09-18T10:00:00+00:00"
+    },
+    {
+      "title": "【kenmoさんが伝授！】四季報で2倍株を探す方法／20銘柄のうち1銘柄は2倍株！？／中長期投資におすすめの銘柄は？／銘柄選びに5つのチェックポイント／時価総額50億～200億円の企業が狙い目！？ | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958707?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "「きしたかのとスパルタ四季報学園」第13回は個人投資家のKenmoさんによる授業です。今回のテーマは「四季報で2倍株を見つけよう」。きしたかのに「四季報で好きなページを開いて、ページをめくってみてく…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
       "published": "2026-09-18T10:00:00+00:00"
     },
     {
@@ -9670,6 +9762,14 @@
       "published": "2026-09-15T12:57:47+00:00"
     },
     {
+      "title": "ASB_pe.N - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM0pTeDNlczZpcjdtdzkyWktMSy1fRVFZY25sQVo4YmxLYk5zOWF1ZUFxbTBCTkt0YUFoR3hoUVRRV0xUTEhtRi1DbllXNE9iTlk3cEYzSzBVNzFoM0NBUEl1R2pnZ0pDY2xUbE9IcF9NOGxTbFlTX0Jual9pVGxPbWkyaG8tZTQ?oc=5",
+      "summary": "ASB_pe.N - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:57:47+00:00"
+    },
+    {
       "title": "PZXBy.D - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV25nVmhNWmVjWGtJSXRDZkEwd0hpdFpmbm9jX2FZVkF0bU9oUDFxUGdTQWhnU2VwNnEtZjBfekpBTDFOOW1kOFJHaU0zNFhpd0FHVC1tZmhzai1kemVsd3ljTndZZ0NyM05DOURicFdsRG9FNm9vZzdRVEQ4UjR3d29B?oc=5",
       "summary": "PZXBy.D - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
@@ -9838,6 +9938,14 @@
       "published": "2026-09-15T12:55:29+00:00"
     },
     {
+      "title": "2587.T - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUHNTVUxXNEtZYzZrVkhBRTNfSGNaRkVpRE4yX0t4aV9Yd0VLeXNVZEFrU0VYQnV6V2p6Q1g5R2RBUjlncjdJdnM0Uko0X0RlaVNyMEl2RVluSTNFT0hnTmRzcldsVzNiLThidE1hOTdEQnQ3eDdMdEZFN210NUN3UzBTQ3A?oc=5",
+      "summary": "2587.T - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:55:29+00:00"
+    },
+    {
       "title": "MKTX.F - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZXowYWRQbnVXMWlSRFhSb3hYVHRGYTVRNndxMXJvbTVnazZaUk9tV1RYcFlIcWVRRkFvNHhPYXFmRUozYlA5c0xUUmRJTVJGZ1BUajVBLVRwNjBOeTVBeDYxbFlraEdIVHNjRDRSdmlCMi0wd2NfNE5CLTdGMFI3bjRmanAyb1c0bVE?oc=5",
       "summary": "MKTX.F - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
@@ -9865,6 +9973,14 @@
       "title": "0001.HZ - | Stock Price & Latest News | Reuters - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWE5kTUxKMS1ndEtMNFJYeTIwVzJDUzlvb0hRTlBOdy1Od0dOTWZiYlZvWEMzSzZvUnJuWkJHRTIxVXd6Tl9ZQWpWY09PcDl4V1JjMm1IQXRkeDl1Q2N1SVpTSHZINDVfem5HbUZLNzJlMlJjdUJKVFJUZmNIQXRkZnpHU0x1QQ?oc=5",
       "summary": "0001.HZ - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:55:20+00:00"
+    },
+    {
+      "title": "0001.HZ - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWE5kTUxKMS1ndEtMNFJYeTIwVzJDUzlvb0hRTlBOdy1Od0dOTWZiYlZvWEMzSzZvUnJuWkJHRTIxVXd6Tl9ZQWpWY09PcDl4V1JjMm1IQXRkeDl1Q2N1SVpTSHZINDVfem5HbUZLNzJlMlJjdUJKVFJUZmNIQXRkZnpHU0x1QQ?oc=5",
+      "summary": "0001.HZ - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-15T12:55:20+00:00"
@@ -10145,6 +10261,14 @@
       "title": "BZU.MI - | Stock Price & Latest News | Reuters - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeV9aQW9kNkhoelhBYmh6MmZVejhQYTlnMmU1eUFmQ1dXVl9ZNWFQWjhWZ3I4cGtTZ3BiWS1YalZhNmNGMTZqb0IxV2lCYkJuX0lFOTgtVnVfMzFVenUwUTJobnAyTENxaTg4QkkyVUl2UGxaZjlPanpRMENsQUNnSERGLVI?oc=5",
       "summary": "BZU.MI - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:52:54+00:00"
+    },
+    {
+      "title": "BZU.MI - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeV9aQW9kNkhoelhBYmh6MmZVejhQYTlnMmU1eUFmQ1dXVl9ZNWFQWjhWZ3I4cGtTZ3BiWS1YalZhNmNGMTZqb0IxV2lCYkJuX0lFOTgtVnVfMzFVenUwUTJobnAyTENxaTg4QkkyVUl2UGxaZjlPanpRMENsQUNnSERGLVI?oc=5",
+      "summary": "BZU.MI - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-15T12:52:54+00:00"
@@ -10486,6 +10610,14 @@
       "published": "2026-09-15T12:37:50+00:00"
     },
     {
+      "title": "MUX - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX1U5azFHQ3RoZHZPdEw5cUJSdWVxSHRrZFlWOFBFVVUwNjd6TlBSeGhXTkxka1A5cGJWUWV4Y1NKU3laNHBPX0o0TEtFMlRFOEI5WVRycVFpTktpeTR1M0ZaV1JIeFBHTEVmZXdEdGxKV2FHVTlNN1djWlNOVkRoNw?oc=5",
+      "summary": "MUX - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:37:50+00:00"
+    },
+    {
       "title": "2060.SE - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPajA1eEFFdm5MZGZXQUtJWm5GLTBMQmtWaUpXRU1ndGl4Zkw4R3QxeGxMZEZZZC1lZVEzNV9ZNUx4amVpdUJfREVZOEI5UmszQUVRX0wwNjdfdUhsSHRabDZLX0xsTURWRDJQSjBKaGQtcGJMbGZQZGhQdTBJQW9UMGVOQUVndw?oc=5",
       "summary": "2060.SE - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
@@ -10625,6 +10757,14 @@
       "title": "CPNG.N - | Stock Price & Latest News | Reuters - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM0M5cklNSlp2ZXRlZ1k1RWdqM284QWJ5a0poTS1RTVhHQlpFUnpEVEZSTTBVamloV09tYldrTnNmSnRSTVAxUG1ROXVwRmV2N2lweHliXzBQWTRkY1JqWFdlTUJhU085SDdzcm1RNDRmVno2bFh2NUlPUDB1UDJTNG1UQVg?oc=5",
       "summary": "CPNG.N - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:30:14+00:00"
+    },
+    {
+      "title": "CPNG.N - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM0M5cklNSlp2ZXRlZ1k1RWdqM284QWJ5a0poTS1RTVhHQlpFUnpEVEZSTTBVamloV09tYldrTnNmSnRSTVAxUG1ROXVwRmV2N2lweHliXzBQWTRkY1JqWFdlTUJhU085SDdzcm1RNDRmVno2bFh2NUlPUDB1UDJTNG1UQVg?oc=5",
+      "summary": "CPNG.N - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-15T12:30:14+00:00"
@@ -11174,6 +11314,14 @@
       "published": "2026-09-15T12:23:38+00:00"
     },
     {
+      "title": "PL.MW - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT25YSUkwVjBrTHVTQThGME1TSHRybHpWS3RzdVBOM0NYYWZzUVlLSlhzSkJKMkp1X21QVzU2LW5qZVRiODBxT0Vlb1ZwdHFTLXlKekxfRjRmRW53d2lPOHhlQnJIVG1IcVlhQjhzUlNsdVgtUFNfNlVqRjQyVDRvZUFGYw?oc=5",
+      "summary": "PL.MW - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:23:38+00:00"
+    },
+    {
       "title": "WM - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVlNCUHZIQzNQMURjd3VsbHF6eGF2UUVUQWVMd3hfeWF3OWg3aE51blpxU0c1WGRELXRNR2pTQ2JWOVZmUjZ6WWM5SVZrVndIMEh1QVQtbm9tM3U2Z2t2V1RVNVNZajJCUVdGRk5vYUpXLTBmZUlFQjZ2QlMyelFTbWp0UlM?oc=5",
       "summary": "WM - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
@@ -11201,6 +11349,14 @@
       "title": "J28q.F - | Stock Price & Latest News | Reuters - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbFgxUkk4Q2pkMGxiR0xzSkd0Q1hVMTItTFF2N1doMHViTkNCdWVPUzVEcDNmRFVwUnd4UzdTVDZmLWhoaTdrU1RJcGp6ZjVMSy1HWjJxa0N4T0ViV1RuSmZLbWNUYU1nclptX2dnRndFTWxVdk1TbXdWS0xERmo1eEQ2a0o?oc=5",
       "summary": "J28q.F - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-15T12:23:26+00:00"
+    },
+    {
+      "title": "J28q.F - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbFgxUkk4Q2pkMGxiR0xzSkd0Q1hVMTItTFF2N1doMHViTkNCdWVPUzVEcDNmRFVwUnd4UzdTVDZmLWhoaTdrU1RJcGp6ZjVMSy1HWjJxa0N4T0ViV1RuSmZLbWNUYU1nclptX2dnRndFTWxVdk1TbXdWS0xERmo1eEQ2a0o?oc=5",
+      "summary": "J28q.F - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-15T12:23:26+00:00"
