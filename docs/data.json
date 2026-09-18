@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T22:33:31.029003+00:00",
+  "generated_at": "2026-09-18T22:47:34.616659+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -346,6 +346,38 @@
   ],
   "items": [
     {
+      "title": "円が一時1円超急騰、1ドル156円台に　レートチェックとの見方も",
+      "link": "https://www.asahi.com/articles/ASV9L7FT6V9LUHBI005M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-18T22:47:27.931507+00:00"
+    },
+    {
+      "title": "Why investors shouldn’t be spooked by fears of an October stock-market crash",
+      "link": "https://www.marketwatch.com/story/why-investors-shouldnt-be-spooked-by-fears-of-an-october-stock-market-crash-ac0eb2e1?mod=mw_rss_topstories",
+      "summary": "You may be able to profit from investors’ irrational belief that crashes are especially likely to occur in October.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-18T22:41:00+00:00"
+    },
+    {
+      "title": "富士急 27年夏に新大型コースター",
+      "link": "https://news.yahoo.co.jp/pickup/6595759?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-18T22:31:23+00:00"
+    },
+    {
+      "title": "｢芯がない｣と元同僚もバッサリ… 新党｢民主｣旗揚げから\"軸ブレまくり\"の呆れた実態と野党再結集の絶望的状況 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958615?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "8カ月で瓦解した中道改革連合。その所属議員のうち立憲民主党出身者が結党したのが｢民主改革の会｣でしたが､船出前から針路は荒れ模様。元同僚からも｢芯がない｣と切って捨てられる､呆れた現状とは？",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-18T22:30:00+00:00"
+    },
+    {
       "title": "ＮＹ株反落、９５ドル安　原油は一時１００ドル割れ",
       "link": "https://www.jiji.com/jc/article?k=2026091900138&g=int&m=rss",
       "summary": "",
@@ -374,6 +406,14 @@
       "link": "https://toyokeizai.net/articles/-/958594?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "イラン戦争によるエネルギー価格高騰が世界各地で波紋を広げています。燃料不足と急騰する原油価格が市民生活や経済を直撃し､抗議やストライキが続発。補助金拡大か物価高容認か､各国は難しい選択を突きつけられ…",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-18T22:00:00+00:00"
+    },
+    {
+      "title": "エレコムがトラックボールに仕込んだ工夫　売上1.5倍、「もっと滑ってほしい」にどう応えた？",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/19/news003.html",
+      "summary": "エレコムのトラックボール「IST PLUS」が好調だ。売り上げは従来モデルの1.5倍。ボールを支える部品を交換できる仕組みを採用し、「もっと滑ってほしい」という声にどう応えたのか。開発に2年を費やした工夫を聞いた。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-09-18T22:00:00+00:00"
     },
@@ -4464,6 +4504,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-18T00:14:00+00:00"
+    },
+    {
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "link": "https://cactuscompute.com/needle",
+      "summary": "Hey HN, Henry from Cactus here.We submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! Thanks to all that feedback, we’ve been able to move quickly to release Needle 3 and I'd love to hear what you think again.The key features:1) Automation (tool calls & structured JSON output): Needle still doesn't chat by design, its quite challenging to pack general capacity into such small models, so we focus on tool calls and structured JSON. If no tool you declared fits the request, you get an empty list back (note for when playing with the demo).2) Intelligence Laddering: Every layer (2 to 20) is a deployable subnetwork, so one set of weights, 25 to 121 million parameters at 2-bit, shipping as 8-29MB binaries. On a Raspberry Pi 5 it decodes at up to 4k tokens/sec and prefills at up to 10k.3) Monarch Hadamard MLP: replaces the dense FFN with three learnable Walsh-Hadamard-initialized Kronecker (Monarch) factor pairs interleaved with per-channel diagonal scales, fixed permutations, a SiLU nonlinearity, and a rank-8 input-conditioned gate, so each token gets a fully mixed nonlinear transform of its d_model channels at O(d√d) parameters and compute instead of the O(d²) a dense 4x-expansion MLP would cost.4) Performance: On Mobile Actions (phone commands, scored on the exact call) the 20-layer model gets 86.0 through the shipped 2-bit binary; LFM2.5 1.2B is at 82.4, Qwen3.5 0.8B at 76.0, Apple's on-device model at 57.6, all at f16. More results on the link, we do not win everywhere ofc.5) Multilingual: Needle 3 now supports English, French, Spanish, German, Dutch, Italian, Polish, with more languages coming.6) Finetuning: You can achieve DeepSeek v4 Flash grade performance on a narrow task with just 4L, stress on \"narrow task\", we found that production users often prefer tuning before production.7) Triggers: Grounding is a common challenge for tool call, at least for Needle 2, so we added support case-insensitive regular expressions matched against each request to gate false negatives.8) Confidence: Every response also carries a calibrated confidence score, the minimum of a judgement on the finished call and its decode probability. Act above your threshold, show the call and ask below it, or escalate to a bigger model.9) Supported Platforms: macOS, Linux on x86-64, ARM64, ARMv7, RISC-V and MIPS32, Windows x64 and ARM, Android, iOS, watchOS, tvOS, the browser as WebAssembly, and a WASI component.Thanks for reading and as always, thoughts appreciated!\n\nComments URL: https://news.ycombinator.com/item?id=49748553\nPoints: 144\n# Comments: 71",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-18T00:11:44+00:00"
     },
     {
       "title": "｢自動運転の先にあるもの｣ウーバーの創業者とウェイモの創業者が相次いでAIロボットのスタートアップを始める理由 | ビジネス | 東洋経済オンライン",
