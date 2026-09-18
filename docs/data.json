@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T13:47:32.876931+00:00",
+  "generated_at": "2026-09-18T14:08:03.812679+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -330,6 +330,10 @@
     {
       "url": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
       "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f78eb5c01a0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -372,6 +376,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-18T16:00:00+00:00"
+    },
+    {
+      "title": "New Fed Report on SVB Collapse Pins Blame on Fed’s Own Regulators",
+      "link": "https://www.wsj.com/economy/central-banking/new-fed-report-on-svb-collapse-pins-blame-on-feds-own-regulators-9a3cb062?mod=rss_markets_main",
+      "summary": "The report, commissioned by Trump ally Michelle Bowman, blamed bank-supervision staff in the Biden era.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-18T14:03:00+00:00"
     },
     {
       "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
@@ -1793,6 +1805,14 @@
       "title": "MUVGn.DE - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaVVhVFUySDc5dGszOExBT3lkVGpBazFkMXczQkRyMDBoTV9rX0I2dElYd3oycHpQSHZJcF90NTJkU2Zxd0FpN1U4Z0ZJMDExS0NCczlqQU9TNjRqM3lRSXQxajFBQjhWdHFKbHpHY2NPUVBlQU9vZEpxZVFQWGRkenh1aUhzZFBOYlpacDA0NA?oc=5",
       "summary": "MUVGn.DE&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-18T04:35:56+00:00"
+    },
+    {
+      "title": "MUVGn.DE - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaVVhVFUySDc5dGszOExBT3lkVGpBazFkMXczQkRyMDBoTV9rX0I2dElYd3oycHpQSHZJcF90NTJkU2Zxd0FpN1U4Z0ZJMDExS0NCczlqQU9TNjRqM3lRSXQxajFBQjhWdHFKbHpHY2NPUVBlQU9vZEpxZVFQWGRkenh1aUhzZFBOYlpacDA0NA?oc=5",
+      "summary": "MUVGn.DE&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-18T04:35:56+00:00"
@@ -3478,6 +3498,14 @@
       "published": "2026-09-17T19:14:50+00:00"
     },
     {
+      "title": "004890.ks - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xcy1HWktpWFItbWlNcUJTUkJNS09kS1JhdV92OFRUenZ4ZHlzZktVVU4xSWtNUXhZT1cxV2VNWHJWTnhFRXhDVmdqVi1XLWF6cXBOZ21Ldk9OdFhoN21kU3AwSmZuNzloSHhkZENMQQ?oc=5",
+      "summary": "004890.ks - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-17T19:14:50+00:00"
+    },
+    {
       "title": "Trump administration approves $24bn sale of F-35 jets to Saudi Arabia",
       "link": "https://www.ft.com/content/9934acc6-6b06-4f2e-a37a-6cf0869092cb?syn-25a6b1a6=1",
       "summary": "Deal is a win for Riyadh while it is embroiled in a regional crisis triggered by the Iran war",
@@ -4081,6 +4109,14 @@
       "title": "EYDr.AT - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wTEVTekFUcExfYmQ2bmI2TDhHallvS0J4MlA0bnR6T2FMY0I0Zi01UnhmbDNkckdLUENSbGtUR0dnd3oyQVJIb0c0VUtIU3Z5aEJiQ1h2ZUc1bERKNWFmMmloTExaMVU?oc=5",
       "summary": "EYDr.AT&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-17T15:07:26+00:00"
+    },
+    {
+      "title": "EYDr.AT - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wTEVTekFUcExfYmQ2bmI2TDhHallvS0J4MlA0bnR6T2FMY0I0Zi01UnhmbDNkckdLUENSbGtUR0dnd3oyQVJIb0c0VUtIU3Z5aEJiQ1h2ZUc1bERKNWFmMmloTExaMVU?oc=5",
+      "summary": "EYDr.AT&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-17T15:07:26+00:00"
@@ -6580,6 +6616,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-16T21:23:21.451744+00:00"
+    },
+    {
+      "title": "ZUCmrt.CHI - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53X0VNX1V5WE5GNmJpREpqRTlpaWxKbWh5dEhMUGlGYjk1eWxxTG4zd0tuSXlyUFkyNWwySVN4SjIzVEppT0tmZWV4ZEs5VnFEcnRXc1dJTm8yMVVpRnNhZGNjTU1lWVBpcWJvOW1rbWUzZTRaNzd4bnVn?oc=5",
+      "summary": "ZUCmrt.CHI&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T21:20:49+00:00"
     },
     {
       "title": "The Fed Is Raising Rates As Its Inflation Fight Drags On",
@@ -9689,6 +9733,14 @@
       "title": "8XC0.D - | Stock Price & Latest News | Reuters - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10b2dGRjF5aGdtSFNvWFMtYjhLUW1tMENvdlFGTmVLcV9CQWNoZDhUVmgyc2NYTUlfb3hKX0RORVpQYkZFQjNtOE90YU9sb1JEM3RBcHdCV3kydngz?oc=5",
       "summary": "8XC0.D - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T03:18:41+00:00"
+    },
+    {
+      "title": "8XC0.D - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10b2dGRjF5aGdtSFNvWFMtYjhLUW1tMENvdlFGTmVLcV9CQWNoZDhUVmgyc2NYTUlfb3hKX0RORVpQYkZFQjNtOE90YU9sb1JEM3RBcHdCV3kydngz?oc=5",
+      "summary": "8XC0.D - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-16T03:18:41+00:00"
@@ -34702,6 +34754,14 @@
       "published": "2026-09-12T09:08:54+00:00"
     },
     {
+      "title": "CIRSAe.ED - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFQUJ6X1NuSUVXY3VRcDFZSEpGejhTaXZBS3ZEWDZ1Wmh1cnVVc19sQkZWendubmswMWZleE9RTWc3VVI2TmpzYTVHVFdTZWxUbXprNGozMGF4WnVremNtOXlMMlBmUzNfaDZTdTlWbVJZcmN2QXY1bWVR?oc=5",
+      "summary": "CIRSAe.ED&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-12T08:47:16+00:00"
+    },
+    {
       "title": "村上宗隆、代打で１打点も　ＭＬＢ・Ｗソックス",
       "link": "https://www.jiji.com/jc/article?k=2026091200310&g=spo&m=rss",
       "summary": "",
@@ -35228,6 +35288,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-12T00:16:10+00:00"
+    },
+    {
+      "title": "LKTEF.PK - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWUR4dWlWR3Nwc25USXl3MW93TDdpT0RFc0dGQlpqYjdrV0VGTml1d2tUbC1MSldWSTV3Q0RfU01xdE1qdTRyeDh1dEV4QXNIbWFQTEwzV0dSWTdrT2VkemZlaDJXWlZXdTg1eEdKSFZWa1hBdGF3LWxqLXVIM0RXbFF6V3g?oc=5",
+      "summary": "LKTEF.PK&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-12T00:05:31+00:00"
     },
     {
       "title": "編集部厳選､注目の経済ニュース！【9月12日】 今週のトピックス＆来週のスケジュール | ビジネス | 東洋経済オンライン",
