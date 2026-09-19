@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T18:48:05.311870+00:00",
+  "generated_at": "2026-09-19T19:05:51.091380+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -350,9 +350,21 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+      "link": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+      "summary": "Article URL: https://bartosz.fenski.pl/modern-fs-benchmark/\nComments URL: https://news.ycombinator.com/item?id=49768833\nPoints: 12\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-19T18:11:40+00:00"
+    },
     {
       "title": "People who know the most often sound the least certain",
       "link": "https://vrash.substack.com/p/the-people-who-know-the-most-often",
@@ -392,6 +404,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-19T16:13:45+00:00"
+    },
+    {
+      "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+      "link": "https://github.com/trycua/cua",
+      "summary": "Hello HN! We're Dillon and Francesco from Cua.We were wondering how many computer use tasks actually need a full general purpose LLM (e.g. gpt-6-astra, claude-opus-5 etc.) to think through all their decisions and steps. Some tasks require thinking about a plan, exploring different paths, recovering from failure. Other tasks are a question of making local decisions, like this value should go in this box, or should I check this box, or this element should be ignored.We wondered how far we could go with a small model trained to only make these kinds of decisions.Our inspiration was Typesafe's Jev and its System One Model framing. This is a nod to the dichotomy between thinking quickly, automatically, and intuitively (system 1) vs. thinking slowly, analytically (system 2), as described by Daniel Kahneman.The interesting question for us was: what happens if you give a model an interface of current context, and a set of possible choices, and you ask it to return a probability for each choice? This kind of model does not generate output token by token like most LLMs do, but rather scores the options you give it, which you can check, trust, and use to drive your app's behavior.CUA-S1 is our answer for narrow, specialized decision models for computer use. Our first release is CUA-S1-FORMS. We built this from ideas and code in jevlike, and then trained a second model just to handle form interactions. It has 706k parameters, and the original checkpoint is 2.8 MB.The first training iteration took less than 30 minutes on synthetic data. Given a set of structured elements and values extracted from a document, it predicts whether to use the given value, CHECK, CLICK, or SKIP for each element. It does not predict new values for text fields, and does not consider screenshots. Element decisions are scored together, and your code can order the actions, and Cua Driver will execute them one at a time.A first evaluation of this specialist vs. hosted Jev on our form task:- For the whole decision set: 99.7% correct vs 83.6%.- For the subset of steps that require an action: 100% correct vs 96%.- For the subset of steps that are just leaving already-filled fields alone: 100% correct vs 74%.The specialist was trained specifically for this task and convention (just press skip for already filled boxes), while hosted Jev has not been fine-tuned for it, so this is an experiment in scoped specialization.We measured 7-9 ms to score a form locally vs. 260-280 ms per call to hosted Jev including network latency, though those samples measure different things and are not end-to-end form completion times.Our interest here is in the space between a brittle script and a general agent loop. The content and layout of form fields vary enough that scripts get unwieldy, but the set of available decisions can remain narrow and well scoped. We want to explore the possibility of a general agent encountering something novel, and passing well understood decisions over to specialists like this.That is a direction we are looking into. The current release is for forms only. We're open sourced the synthetic data generation, training, evaluation, and Driver integration under libs/cua-s1 with an MIT license.Comments welcome! Especially if you are building computer-use agents and have run into a recurring decision that is too variable to script but is too narrow to call another LLM for.\n\nComments URL: https://news.ycombinator.com/item?id=49767564\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-19T15:52:51+00:00"
     },
     {
       "title": "Jobs Without LeetCode",
@@ -637,6 +657,14 @@
       "title": "I Built Non-Autoregressive Decision Models with RL a Year Ago",
       "link": "https://laya.convaiinnovations.com/",
       "summary": "Article URL: https://laya.convaiinnovations.com/\nComments URL: https://news.ycombinator.com/item?id=49765348\nPoints: 620\n# Comments: 147",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-19T10:46:58+00:00"
+    },
+    {
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "link": "https://laya.convaiinnovations.com/",
+      "summary": "Article URL: https://laya.convaiinnovations.com/\nComments URL: https://news.ycombinator.com/item?id=49765348\nPoints: 735\n# Comments: 177",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-19T10:46:58+00:00"
