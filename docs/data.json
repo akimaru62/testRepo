@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T06:54:33.080731+00:00",
+  "generated_at": "2026-09-19T07:08:13.160752+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -342,9 +342,21 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://www.mof.go.jp/news.rss",
+      "error": "HTTPSConnectionPool(host='www.mof.go.jp', port=443): Read timed out."
     }
   ],
   "items": [
+    {
+      "title": "｢初めて見た時､胸が震えた｣と孫正義氏が吐露…絶えず変化対応を進めてきた\"コンビニ生みの親\"鈴木敏文氏の功績 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958742?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "24時間営業や品揃えの充実など､現代のコンビニ文化を生み出した立役者であるセブン&アイ･ホールディングス名誉顧問の鈴木敏文氏。その経営哲学は柳井正氏や孫正義氏ら多くのリーダーへ多大な影響を与え続けて…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-19T07:00:00+00:00"
+    },
     {
       "title": "If math is more than proof, we need to better celebrate the rest of it",
       "link": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
@@ -5426,6 +5438,14 @@
       "published": "2026-09-18T01:00:00+00:00"
     },
     {
+      "title": "ルーシッドとボルト、ロボタクシー事業で提携 欧州で2.5万台展開 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE13UUlhVEFVUF82djNrUTU0d0NSOTlpNDJxUlU1Q0ZGU0R2eEp2aGc2SkxaOF8zbTctVEl2V3lzb0NHYmVrOGswbDE4LWFYZWtnQ1FSZWtvdEtZSW1Sb0p3NU5teHMxemh5TUJwSWI0cC1VVWNqdnp3Y0VZWlA?oc=5",
+      "summary": "ルーシッドとボルト、ロボタクシー事業で提携 欧州で2.5万台展開&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-18T00:56:00+00:00"
+    },
+    {
       "title": "東京ばな奈 35周年で工場取材解禁",
       "link": "https://news.yahoo.co.jp/pickup/6595668?source=rss",
       "summary": "",
@@ -9770,6 +9790,14 @@
       "published": "2026-09-16T23:06:39+00:00"
     },
     {
+      "title": "ゴールドマン、7─9月の債券・為替・商品部門「やや軟調」＝ＣＥＯ - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9CYUIyUk9KMXJtMVB5bEo3eFBHLWQzWU81NUZFLVdKQ3Y2dWs1UFVTOTBlSFV0a3VIZG9DY3pRVmFEVmFoVFAwYmI3VnVBS01NOGxDSi1mZFVYZWRjNkpZc3pRRGpERm5NajRhLTc5Q09zYXlUZEV4RlBKbW0?oc=5",
+      "summary": "ゴールドマン、7─9月の債券・為替・商品部門「やや軟調」＝ＣＥＯ&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T23:05:57+00:00"
+    },
+    {
       "title": "名車2000GTをはじめとしたトヨタ･スポーツカーの源流に迫る…｢パブリカスポーツ｣と｢スポーツ800｣が残した功績 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/957931?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "トヨタ･スポーツカーの歴史を語るうえで重要なモデル｢パブリカスポーツ｣と｢スポーツ800｣について迫ります。",
@@ -11250,6 +11278,14 @@
       "published": "2026-09-16T14:40:46+00:00"
     },
     {
+      "title": "中国外相、イランと米国に自制促す ホルムズ海峡の早期再開呼びかけ - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OS1pEWlROTldianJfSlV6Qm9uNkFXb0E5eVZDRzA2TnhZY1huQnk5R1lma09qQlc1ZEdMdDRBLXJoU1NPRER4enNOTFQ4TW1jMzZuckhQNnduZ3E5R1pVdjR3ZThHaUdfQmxDLTVtOVFJbG1acDNTQWV0WmNRdw?oc=5",
+      "summary": "中国外相、イランと米国に自制促す ホルムズ海峡の早期再開呼びかけ&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T14:40:46+00:00"
+    },
+    {
       "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
       "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo",
       "summary": "Article URL: https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo\nComments URL: https://news.ycombinator.com/item?id=49727661\nPoints: 19\n# Comments: 17",
@@ -12504,6 +12540,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-16T08:51:58.744701+00:00"
+    },
+    {
+      "title": "ＥＵ、カナダを「準加盟国」として受け入れる道開く＝欧州委員長 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HWTBYSllEUGZiYlpjN3lLdGluWHFFOFJmZFVGcThCN2R3aW1TSDFBV01UR2xtclVwcDM4YU8yQnJmQ2xpTTdGTnFrMXBQUWYyNlVycWlMTW8xNmdPZGZEbTVtbDZhT1RZOHI3Rmo5ak1VN1UzbDEzbXB1WmJTQQ?oc=5",
+      "summary": "ＥＵ、カナダを「準加盟国」として受け入れる道開く＝欧州委員長&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T08:43:08+00:00"
     },
     {
       "title": "ドクターイエローを保存へ JR西",
