@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T14:06:58.912264+00:00",
+  "generated_at": "2026-09-19T14:22:14.507400+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -350,6 +350,38 @@
   ],
   "items": [
     {
+      "title": "攻守に主導権、難敵撃破　フィジーの攻撃封じた日本―ラグビー",
+      "link": "https://www.jiji.com/jc/article?k=2026091900489&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-19T14:22:08.659551+00:00"
+    },
+    {
+      "title": "漫才師の中田ボタンさん死去",
+      "link": "https://www.jiji.com/jc/article?k=2026091900475&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-19T14:22:08.659511+00:00"
+    },
+    {
+      "title": "What Zig felt like, coming from Rust",
+      "link": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+      "summary": "Article URL: https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/\nComments URL: https://news.ycombinator.com/item?id=49766637\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-19T13:55:18+00:00"
+    },
+    {
+      "title": "Tin: full-text search for Postgres",
+      "link": "https://planetscale.com/blog/introducing-tin",
+      "summary": "Article URL: https://planetscale.com/blog/introducing-tin\nComments URL: https://news.ycombinator.com/item?id=49766611\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-19T13:52:06+00:00"
+    },
+    {
       "title": "サウジ首都空港付近で黒煙　フーシ派の攻撃か、石油施設で火災も",
       "link": "https://www.jiji.com/jc/article?k=2026091900458&g=int&m=rss",
       "summary": "",
@@ -684,6 +716,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-19T06:28:02+00:00"
+    },
+    {
+      "title": "北朝鮮、ＩＡＥＡ決議を一蹴 「二重基準」と反発 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMm44ejZyQUhjb3E4Ym9BTXdWckkxd1dZYm4tVTlPenlMT0E2VndLRm1IX0VMWUZOV2dnYmJVSDdHekVKWHd2TEtjSTQ5WlF0T1czd21CRHpKMmEwdTd2cjczbVQyZ2hMdlljbFNtSVN5QzBqRzVTNmtCbWJmemJKS2o1MjQ1WEFVS0E?oc=5",
+      "summary": "北朝鮮、ＩＡＥＡ決議を一蹴 「二重基準」と反発&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-19T06:23:00+00:00"
     },
     {
       "title": "Apple M6 Pro Achieves the Highest Single-Core CPU Score in Geekbench 7",
@@ -4118,6 +4158,14 @@
       "published": "2026-09-18T09:20:09+00:00"
     },
     {
+      "title": "印タタ各社が急落、時価総額32億ドル消失 上場・人事対立で - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM2loTFZ1QThUOWZNb0prMktJbFVhWGVINTJpSXdESFlYZnJwWmZZb3hlMDdhd2ZaY1RTT2ZSamxZajR2VS1vbHlhM1lvSmpBMUxEaE10c0tDZG1PYUgwZG4yNzdhTk54cnFMbkwtSjZLS01lVTlhc2tkOFo4aFI4c2swVjU?oc=5",
+      "summary": "印タタ各社が急落、時価総額32億ドル消失 上場・人事対立で&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-18T09:20:09+00:00"
+    },
+    {
       "title": "TINV.NS - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0Y2tXUlp1VlpPa0FTb3VfdEpTX3BJT2VvMGFMdU56VXpsWVh5ZlIwdUFQSGloWjhlR1RJMjJTMVR6TUxlRzdsX0twTjZLZnBWYTdzNV9GUkZGeDFo?oc=5",
       "summary": "TINV.NS - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
@@ -4193,6 +4241,14 @@
       "title": "日銀植田総裁が記者会見：識者はこうみる - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4tUUlJZmFxNzhSbTREdHJUWDJhOC00Q0d1TnloYVNKUERpYmF5d2ZkQlZzLWQ0MDBDbUlMR2lIY3dJMVROOW1zc1Rya1NDem5CVFJCUFd2T1hrYUVpanB2NHJaMk9FV3FDMDQ5cDhPYmhmcGFXWkh6U0YzZno?oc=5",
       "summary": "日銀植田総裁が記者会見：識者はこうみる&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-18T09:01:44+00:00"
+    },
+    {
+      "title": "日銀植田総裁が記者会見：識者はこうみる - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4tUUlJZmFxNzhSbTREdHJUWDJhOC00Q0d1TnloYVNKUERpYmF5d2ZkQlZzLWQ0MDBDbUlMR2lIY3dJMVROOW1zc1Rya1NDem5CVFJCUFd2T1hrYUVpanB2NHJaMk9FV3FDMDQ5cDhPYmhmcGFXWkh6U0YzZno?oc=5",
+      "summary": "日銀植田総裁が記者会見：識者はこうみる&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-18T09:01:44+00:00"
@@ -5649,6 +5705,14 @@
       "title": "不動産ファンド市場は52兆円超に拡大、金利上昇で投資縮小の動きも＝三井住友トラスト調査 - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56WEZ5ZHFZSzV5Ymh4ZDF3ekF2QWdxYUM1WFpiSGhudHB5VHlNLVo3bXhiSHhMVDZ1ZENtWkRmaENOSGN3elZ4VUp6UmFpeUxRUWxMdTZTLWRVM1pSYk12bHlIYjVIekFXNzJ1MUlOT2VBWVE1eVZ5RUVOY2Y?oc=5",
       "summary": "不動産ファンド市場は52兆円超に拡大、金利上昇で投資縮小の動きも＝三井住友トラスト調査&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-18T03:06:00+00:00"
+    },
+    {
+      "title": "不動産ファンド市場は52兆円超に拡大、金利上昇で投資縮小の動きも＝三井住友トラスト調査 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56WEZ5ZHFZSzV5Ymh4ZDF3ekF2QWdxYUM1WFpiSGhudHB5VHlNLVo3bXhiSHhMVDZ1ZENtWkRmaENOSGN3elZ4VUp6UmFpeUxRUWxMdTZTLWRVM1pSYk12bHlIYjVIekFXNzJ1MUlOT2VBWVE1eVZ5RUVOY2Y?oc=5",
+      "summary": "不動産ファンド市場は52兆円超に拡大、金利上昇で投資縮小の動きも＝三井住友トラスト調査&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-18T03:06:00+00:00"
@@ -7353,6 +7417,14 @@
       "title": "ＪＰモルガン、英中銀が27年2月に利上げと予想 従来の利下げ見通し修正 - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OeUFsVXRzWFU1QTMtWl92SVJGbl8ySWZ1T3VwUFFUdTc0bGlFZ05Yc3duTmVya3ZvQjdEalY0Y05OcjF6Sm1QMFpfUWdaankxRXNHdi1rcVNOSGZGRENpMkpONFkwRDhELVMxS1dPM2FmbUh6R0JsX2FieFQ?oc=5",
       "summary": "ＪＰモルガン、英中銀が27年2月に利上げと予想 従来の利下げ見通し修正&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-17T18:41:43+00:00"
+    },
+    {
+      "title": "ＪＰモルガン、英中銀が27年2月に利上げと予想 従来の利下げ見通し修正 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OeUFsVXRzWFU1QTMtWl92SVJGbl8ySWZ1T3VwUFFUdTc0bGlFZ05Yc3duTmVya3ZvQjdEalY0Y05OcjF6Sm1QMFpfUWdaankxRXNHdi1rcVNOSGZGRENpMkpONFkwRDhELVMxS1dPM2FmbUh6R0JsX2FieFQ?oc=5",
+      "summary": "ＪＰモルガン、英中銀が27年2月に利上げと予想 従来の利下げ見通し修正&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-17T18:41:43+00:00"
@@ -10377,6 +10449,14 @@
       "title": "ＮＺ第2四半期ＧＤＰ、伸び鈍化も予想上回る 景気の底堅さ示す - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZWXgyT2xzVnA5Y0ZhU0ZnR2FqQVlMSlN0ck50SkVnbGhYOHhMc0tHb1pKYWl2QXduZlB2ZW04eVI0WkhrZHBnWDlHMkFpVWx2SkFpN3JYcEZmaUVQd1dUUlVyUHBWUU1PNTd1UWk2LWJDeFk1MFlYbzNqVHM?oc=5",
       "summary": "ＮＺ第2四半期ＧＤＰ、伸び鈍化も予想上回る 景気の底堅さ示す&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-17T01:12:00+00:00"
+    },
+    {
+      "title": "ＮＺ第2四半期ＧＤＰ、伸び鈍化も予想上回る 景気の底堅さ示す - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZWXgyT2xzVnA5Y0ZhU0ZnR2FqQVlMSlN0ck50SkVnbGhYOHhMc0tHb1pKYWl2QXduZlB2ZW04eVI0WkhrZHBnWDlHMkFpVWx2SkFpN3JYcEZmaUVQd1dUUlVyUHBWUU1PNTd1UWk2LWJDeFk1MFlYbzNqVHM?oc=5",
+      "summary": "ＮＺ第2四半期ＧＤＰ、伸び鈍化も予想上回る 景気の底堅さ示す&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-17T01:12:00+00:00"
