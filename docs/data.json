@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T20:47:23.205907+00:00",
+  "generated_at": "2026-09-19T21:06:07.551788+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -358,6 +358,14 @@
   ],
   "items": [
     {
+      "title": "Refineries Are Now the Main Chokepoint for Global Energy Supplies",
+      "link": "https://www.wsj.com/business/energy-oil/refineries-are-now-the-main-chokepoint-for-global-energy-supplies-f923e1ba?mod=rss_markets_main",
+      "summary": "The Iran and Ukraine wars have exposed the world’s reliance on the Middle East and Russia for diesel.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-19T20:53:00+00:00"
+    },
+    {
       "title": "平均年齢86歳｢夕食だけ一緒｣の超快適シニアライフ…老人ホームとも違う､食事でつながる《ゆるい共同生活》の醍醐味 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/958604?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "超高齢社会の今､新たなシニアの住まい方として注目されている｢グループリビング｣。神奈川県川崎市にある｢おでんせ中の島｣のルールは､｢1日1回の夕食をみんなで囲むこと｣だといいます。",
@@ -436,6 +444,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-19T19:18:22.951546+00:00"
+    },
+    {
+      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit\nComments URL: https://news.ycombinator.com/item?id=49768921\nPoints: 26\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-19T18:21:30+00:00"
     },
     {
       "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
