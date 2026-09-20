@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T17:33:27.664929+00:00",
+  "generated_at": "2026-09-20T17:47:47.607951+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -369,6 +369,14 @@
     }
   ],
   "items": [
+    {
+      "title": "Opinion | The Bessent Predicament",
+      "link": "https://www.wsj.com/opinion/the-bessent-predicament-327b5552?mod=rss_markets_main",
+      "summary": "The smart fix for the Treasury secretary is to dump tariffs and encourage free trade.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-20T17:33:00+00:00"
+    },
     {
       "title": "Autonomous strike drone uses Nvidia Jetson Orin Nano to pick and bomb targets",
       "link": "https://www.tomshardware.com/tech-industry/drones/autonomous-strike-drone-uses-nvidia-jetson-orin-nano-to-independently-pick-and-bomb-targets-swedish-startups-attack-drones-run-small-ai-model-require-no-human-input-and-zero-external-comms",
@@ -845,6 +853,14 @@
       "title": "NTCT.OQ - Reuters",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb1JvUk1WN3BWTGkxaFpQdTFuMWY1RUZBdjZ5bFdNbS1nbHduWktfV0xxUzJZY1JGNUhlb1h0X3NlTGZGeE94ZGpfNUx3U1RVRmdZUUktOEQ2RjVXYmZvSDJib3ZUeDhhbkRDdGFjbDRVNVdIWnNJVzNackhVYldiWFVScw?oc=5",
       "summary": "NTCT.OQ&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-20T10:22:52+00:00"
+    },
+    {
+      "title": "NTCT.OQ - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb1JvUk1WN3BWTGkxaFpQdTFuMWY1RUZBdjZ5bFdNbS1nbHduWktfV0xxUzJZY1JGNUhlb1h0X3NlTGZGeE94ZGpfNUx3U1RVRmdZUUktOEQ2RjVXYmZvSDJib3ZUeDhhbkRDdGFjbDRVNVdIWnNJVzNackhVYldiWFVScw?oc=5",
+      "summary": "NTCT.OQ&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-20T10:22:52+00:00"
