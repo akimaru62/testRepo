@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T18:09:03.541103+00:00",
+  "generated_at": "2026-09-20T18:26:39.427237+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -370,6 +370,30 @@
   ],
   "items": [
     {
+      "title": "ＩＣＣ問題、トランプ氏に提起を　中谷元氏「首相はしっかり話して」",
+      "link": "https://www.jiji.com/jc/article?k=2026092000330&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-20T18:26:33.896417+00:00"
+    },
+    {
+      "title": "A Necessary History of the Oddest Letter: W",
+      "link": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
+      "summary": "Article URL: https://lithub.com/a-necessary-history-of-the-oddest-letter-w/\nComments URL: https://news.ycombinator.com/item?id=49778195\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-20T17:55:57+00:00"
+    },
+    {
+      "title": "I turned Jev into a (lousy) chatbot",
+      "link": "https://github.com/kyle-pena-nlp/jevchat/",
+      "summary": "Article URL: https://github.com/kyle-pena-nlp/jevchat/\nComments URL: https://news.ycombinator.com/item?id=49778162\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-20T17:51:27+00:00"
+    },
+    {
       "title": "German chancellor Merz vows to stay on despite ‘disastrous’ losses in regional polls",
       "link": "https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3?syn-25a6b1a6=1",
       "summary": "Early partial results show CDU just above the 5 per cent threshold for parliamentary representation in Mecklenburg-Vorpommern",
@@ -378,12 +402,52 @@
       "published": "2026-09-20T17:49:18+00:00"
     },
     {
+      "title": "German chancellor Merz vows to stay on despite ‘disaster’ in regional elections",
+      "link": "https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3?syn-25a6b1a6=1",
+      "summary": "Partial results show CDU just above the 5 per cent threshold for parliamentary representation in Mecklenburg-Vorpommern",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-20T17:49:18+00:00"
+    },
+    {
+      "title": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
+      "link": "https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/",
+      "summary": "Article URL: https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/\nComments URL: https://news.ycombinator.com/item?id=49778078\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-20T17:43:35+00:00"
+    },
+    {
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "link": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "summary": "Article URL: https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say\nComments URL: https://news.ycombinator.com/item?id=49778029\nPoints: 14\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-20T17:38:50+00:00"
+    },
+    {
+      "title": "Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++",
+      "link": "https://github.com/adonis-singh/re4",
+      "summary": "Article URL: https://github.com/adonis-singh/re4\nComments URL: https://news.ycombinator.com/item?id=49778022\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-20T17:38:27+00:00"
+    },
+    {
       "title": "Opinion | The Bessent Predicament",
       "link": "https://www.wsj.com/opinion/the-bessent-predicament-327b5552?mod=rss_markets_main",
       "summary": "The smart fix for the Treasury secretary is to dump tariffs and encourage free trade.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-20T17:33:00+00:00"
+    },
+    {
+      "title": "Trying the Software Factory Pattern",
+      "link": "https://lethain.com/software-factory-experiment/",
+      "summary": "Article URL: https://lethain.com/software-factory-experiment/\nComments URL: https://news.ycombinator.com/item?id=49777913\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-20T17:27:11+00:00"
     },
     {
       "title": "People hate Flock so much its employees are now demoralized and quitting",
@@ -416,6 +480,22 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-20T16:51:26+00:00"
+    },
+    {
+      "title": "A History of the Chiming Machines at Gloucester's Cathedral and City Churches [pdf]",
+      "link": "https://www.bgas.org.uk/tbgas_bg/v135/251-268-MacKechnie-Jarvis.pdf",
+      "summary": "Article URL: https://www.bgas.org.uk/tbgas_bg/v135/251-268-MacKechnie-Jarvis.pdf\nComments URL: https://news.ycombinator.com/item?id=49777515\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-20T16:48:20+00:00"
+    },
+    {
+      "title": "I Am Often Wrong",
+      "link": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
+      "summary": "Article URL: https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html\nComments URL: https://news.ycombinator.com/item?id=49777467\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-20T16:41:46+00:00"
     },
     {
       "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
