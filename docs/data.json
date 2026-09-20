@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:22:40.010705+00:00",
+  "generated_at": "2026-09-20T10:33:25.239087+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -362,6 +362,14 @@
   ],
   "items": [
     {
+      "title": "日本勢メダルラッシュ　北條巧、尾野真歩、松下知之ら金―愛知・名古屋アジア大会",
+      "link": "https://www.jiji.com/jc/article?k=2026092000112&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-20T10:33:19.545891+00:00"
+    },
+    {
       "title": "被災地を１６００人が疾走　ツール・ド・東北、震災遺構見学も―宮城",
       "link": "https://www.jiji.com/jc/article?k=2026092000252&g=soc&m=rss",
       "summary": "",
@@ -440,6 +448,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-20T09:09:14+00:00"
+    },
+    {
+      "title": "Microsoft agentically ports Copilot runtime to Rust for $120K",
+      "link": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
+      "summary": "Article URL: https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549\nComments URL: https://news.ycombinator.com/item?id=49773998\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-20T09:08:52+00:00"
     },
     {
       "title": "北朝鮮が弾道ミサイル発射　日本のＥＥＺ外に落下か",
@@ -597,6 +613,14 @@
       "title": "smin.l - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM2ZhRlZnM2R3QWIyaml4c29nUXM2ZmQ5Z1JSWE5hYVFNSGNwZHM0UU16ZVRtcHVrM25UV2xFSk1KZm5WR3R4ck4yV0Vfcnc5eWlnY1J0RzV1NklDMnZMQzM0THdNeEV2eTdMYWhGWjhVR09UcExPOGtzSUVXRDFYZWVINWhzUQ?oc=5",
       "summary": "smin.l&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-20T05:15:08+00:00"
+    },
+    {
+      "title": "smin.l - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM2ZhRlZnM2R3QWIyaml4c29nUXM2ZmQ5Z1JSWE5hYVFNSGNwZHM0UU16ZVRtcHVrM25UV2xFSk1KZm5WR3R4ck4yV0Vfcnc5eWlnY1J0RzV1NklDMnZMQzM0THdNeEV2eTdMYWhGWjhVR09UcExPOGtzSUVXRDFYZWVINWhzUQ?oc=5",
+      "summary": "smin.l&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-20T05:15:08+00:00"
@@ -1181,6 +1205,14 @@
       "title": "ndase.st - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90aXhTc0tUblZQUTJZQTE2VWZsQ1NkZEpGOTVmdTItX1k1TnVoSGNPTEtSV2ZJLXdhY2ZneXludHlTQkRuWUVveFY2bElpd1JqcXBLQjY3SldrSl91UEtWLXIxd1FhVkowXzRjNg?oc=5",
       "summary": "ndase.st&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-19T22:57:21+00:00"
+    },
+    {
+      "title": "ndase.st - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90aXhTc0tUblZQUTJZQTE2VWZsQ1NkZEpGOTVmdTItX1k1TnVoSGNPTEtSV2ZJLXdhY2ZneXludHlTQkRuWUVveFY2bElpd1JqcXBLQjY3SldrSl91UEtWLXIxd1FhVkowXzRjNg?oc=5",
+      "summary": "ndase.st&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-19T22:57:21+00:00"
