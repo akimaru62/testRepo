@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T07:47:32.757811+00:00",
+  "generated_at": "2026-09-20T08:09:59.088630+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -354,9 +354,21 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+      "link": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+      "summary": "Article URL: https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282\nComments URL: https://news.ycombinator.com/item?id=49773439\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-20T07:38:37+00:00"
+    },
     {
       "title": "「浄化槽転換」先例少なく、高いハードル　費用負担、住民説明に課題―下水道法改正",
       "link": "https://www.jiji.com/jc/article?k=2026091900333&g=pol&m=rss",
