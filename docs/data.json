@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T14:06:32.275398+00:00",
+  "generated_at": "2026-09-20T14:21:59.341667+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -358,9 +358,45 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "ＥＰＡ拡充へ調査開始で合意　日ＡＳＥＡＮ経済相が会合―フィリピン",
+      "link": "https://www.jiji.com/jc/article?k=2026092000189&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-20T14:21:48.575886+00:00"
+    },
+    {
+      "title": "日本、得点力が改善　アジア大会・サッカー男子",
+      "link": "https://www.jiji.com/jc/article?k=2026092000387&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-20T14:21:48.575868+00:00"
+    },
+    {
+      "title": "日本勢メダルラッシュ　北條巧、尾野真歩、松下知之ら金６個―愛知・名古屋アジア大会",
+      "link": "https://www.jiji.com/jc/article?k=2026092000112&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-20T14:21:48.575826+00:00"
+    },
+    {
+      "title": "Snoopy cups at Starbucks and McDonald’s SpongeBob toys are commanding huge markups on eBay",
+      "link": "https://www.marketwatch.com/story/starbuckss-snoopy-cups-and-mcdonalds-spongebob-toys-are-commanding-huge-markups-on-ebay-ed3e514d?mod=mw_rss_topstories",
+      "summary": "Adults are scooping up promotional items out of nostalgia — and playing into a frenzy around collectibles .",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-20T14:08:00+00:00"
+    },
     {
       "title": "油揚げの包装に職人名を記載 狙い",
       "link": "https://news.yahoo.co.jp/pickup/6595967?source=rss",
