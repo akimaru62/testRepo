@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T20:23:21.046055+00:00",
+  "generated_at": "2026-09-20T20:34:24.528600+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -346,6 +346,10 @@
     {
       "url": "https://www.mof.go.jp/news.rss",
       "error": "HTTPSConnectionPool(host='www.mof.go.jp', port=443): Read timed out."
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     },
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
