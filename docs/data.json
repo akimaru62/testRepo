@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T16:47:35.967813+00:00",
+  "generated_at": "2026-09-20T17:05:56.694227+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -370,6 +370,14 @@
   ],
   "items": [
     {
+      "title": "Show HN: Radius – A Meetup.com Alternative",
+      "link": "https://radius.to/",
+      "summary": "Hello HN!I'm relaunching Radius [1] - far too long after the original Show HN [2] (I'll blame the day job for that).Radius started out from my frustration with not knowing what was going on around me.  The initial plan was to \"show all and every type of event\" from big to small, but over time I narrowed the focus to communities, groups, events, and helping people connect through them.The initial Show HN gave me 150+ comments (surprising, looking back, given how terrible the plain Bootstrap UI was...) with a huge amount of useful feedback and feature requests.  I've spent the time since then working through that, along with additional requests from groups using Radius, and it finally feels ready for a proper relaunch.I've also recently added \"Activities\" [3] - which are lightweight events, independent of groups, intended to help people find others to do things with - for example:> John is going for a cycle and a coffee in New York at 10amPeople can join and vote for a time that works for them.I've got a bunch of ideas for where to go next with this, including things like open sourcing and federation, but those are for another day!Any feedback would be greatly appreciated!P.S. it's built with Ruby on Rails, for those interested.  I highly suspect it would have taken me 2 more years to get to this point without Rails![1] https://radius.to/[2] https://news.ycombinator.com/item?id=40717398[3] https://radius.to/documentation/activities/post-an-activity\n\nComments URL: https://news.ycombinator.com/item?id=49777539\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-20T16:51:26+00:00"
+    },
+    {
       "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
       "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
       "summary": "“I also own my home and an SUV outright, with no outstanding debt.”",
@@ -394,12 +402,44 @@
       "published": "2026-09-20T16:24:23.714947+00:00"
     },
     {
+      "title": "Prompts Aren't Real",
+      "link": "https://evaluation.club",
+      "summary": "Article URL: https://evaluation.club\nComments URL: https://news.ycombinator.com/item?id=49777111\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-20T15:59:25+00:00"
+    },
+    {
+      "title": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
+      "link": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
+      "summary": "Article URL: https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0\nComments URL: https://news.ycombinator.com/item?id=49777106\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-20T15:58:52+00:00"
+    },
+    {
+      "title": "Custom home server built from spare parts",
+      "link": "https://asmat.ca/blog/i-went-bananas/",
+      "summary": "Article URL: https://asmat.ca/blog/i-went-bananas/\nComments URL: https://news.ycombinator.com/item?id=49776960\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-20T15:43:32+00:00"
+    },
+    {
       "title": "Trump says 250ft arch will be ‘military complex’ with drones and snipers",
       "link": "https://www.ft.com/content/33b317b4-cd7b-486a-8707-4d65db837c6d?syn-25a6b1a6=1",
       "summary": "President claims national security justification for controversial Washington monument",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-20T15:43:07+00:00"
+    },
+    {
+      "title": "Jev Collection",
+      "link": "https://academy.dair.ai/resources/jev-field-notes",
+      "summary": "Article URL: https://academy.dair.ai/resources/jev-field-notes\nComments URL: https://news.ycombinator.com/item?id=49776887\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-20T15:34:45+00:00"
     },
     {
       "title": "One-Electron Universe",
@@ -432,6 +472,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-20T15:21:33.245048+00:00"
+    },
+    {
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "link": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "summary": "Article URL: https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/\nComments URL: https://news.ycombinator.com/item?id=49776729\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-20T15:18:44+00:00"
     },
     {
       "title": "Singapore Is Paying People to Put Down Their Phones and Read Books",
@@ -496,6 +544,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-20T14:21:48.575826+00:00"
+    },
+    {
+      "title": "The senior engineer death spiral",
+      "link": "https://sunilpai.dev/posts/the-senior-engineer-death-spiral/",
+      "summary": "Article URL: https://sunilpai.dev/posts/the-senior-engineer-death-spiral/\nComments URL: https://news.ycombinator.com/item?id=49776130\nPoints: 10\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-20T14:16:14+00:00"
     },
     {
       "title": "Snoopy cups at Starbucks and McDonald’s SpongeBob toys are commanding huge markups on eBay",
