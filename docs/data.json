@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T14:47:43.063628+00:00",
+  "generated_at": "2026-09-20T15:06:52.081012+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -362,6 +362,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -396,6 +400,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-20T14:08:00+00:00"
+    },
+    {
+      "title": "system design in depth – 200 topics, 118 diagrams, interactive demos",
+      "link": "https://system-design-in-depth.pages.dev",
+      "summary": "Article URL: https://system-design-in-depth.pages.dev\nComments URL: https://news.ycombinator.com/item?id=49775979\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-20T14:01:24+00:00"
     },
     {
       "title": "油揚げの包装に職人名を記載 狙い",
@@ -1350,6 +1362,14 @@
       "published": "2026-09-20T00:10:00+00:00"
     },
     {
+      "title": "Apple iPhone 18 Pro Camera test",
+      "link": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
+      "summary": "Article URL: https://www.dxomark.com/apple-iphone-18-pro-camera-test/\nComments URL: https://news.ycombinator.com/item?id=49771218\nPoints: 6\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-20T00:00:47+00:00"
+    },
+    {
       "title": "｢日本人は無限に働く！｣　正反対すぎる2人が｢海外で社畜生活と訴訟劇｣を経て鹿児島の離島で｢トバトバコーラ｣を完成させるまで | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/958512?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "喜界島でクラフトコーラを製造･販売する夫婦を取材しました。過酷な働き方を乗り越え､島で見つけた\"自分たちらしい働き方\"とは？家族の幸せのヒントを探ります。",
@@ -1908,6 +1928,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-19T17:39:36+00:00"
+    },
+    {
+      "title": "Key symbols we lost to time, pt. 2: The Mac side",
+      "link": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/",
+      "summary": "Article URL: https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/\nComments URL: https://news.ycombinator.com/item?id=49768347\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-19T17:16:10+00:00"
     },
     {
       "title": "Supabase (YC S20) Is Hiring for OrioleDB",
