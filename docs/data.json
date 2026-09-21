@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T20:47:55.740374+00:00",
+  "generated_at": "2026-09-21T21:06:55.556288+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -390,9 +390,77 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "502 Server Error: Bad Gateway for url: https://hnrss.org/frontpage"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f8b11768c20>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "米国株式市場＝ナスダック史上最高値、ＡＩ・半導体株高がけん引 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQXdJblJvXzJzTFJBUmpWaTNMdkRBRDl5VGs0bVVyeXJiaVIyaDRQZUZlOHFSQVA0bjNjd3NKV1VSMXZhTXctaDRHcVVNUFBoYjZfSjZHS0x0MDlwRUduNGpwT09uQlFRc3pWZVk0M0R3RERreFNrMVNSSGJVVFRzMjdwUlM?oc=5",
+      "summary": "米国株式市場＝ナスダック史上最高値、ＡＩ・半導体株高がけん引&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-21T21:01:44+00:00"
+    },
+    {
+      "title": "主張と尊重の間で\"中間点\"を探す…演奏家同士が異なる音楽観をぶつけ合う室内楽の面白さ 牛田智大氏インタビュー② | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958626?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "国内屈指の人気を誇るピアニストの牛田智大氏（26）。2010年代初頭､12歳という異例の早さでデビューし､天才少年として注目の的となった。その華やかなイメージの一方､ひたむきな姿勢で音楽に向かい､実…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-21T21:01:00+00:00"
+    },
+    {
+      "title": "なぜ音楽は社会の縮図だと言われるのか? そして室内楽は｢小さなオーケストラ｣ではない 牛田智大氏インタビュー① | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958624?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "国内屈指の人気を誇るピアニストの牛田智大氏（26）。2010年代初頭､12歳という異例の早さでデビューし､天才少年として注目の的となった。その華やかなイメージの一方､ひたむきな姿勢で音楽に向かい､実…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-21T21:00:00+00:00"
+    },
+    {
+      "title": "中国こそが世界に｢トランプ現象｣を輸出している…産業空洞化で過激政治が加速､もはや保護政策以外に対策はない | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958432?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "中国の猛烈な輸出攻勢が､かつてアメリカ経済に与えた｢チャイナショック｣と同様の脅威を､今や欧州にももたらしつつあります。経済モデルの転換が進まぬ中国に対し､欧州の産業基盤は守れるのでしょうか。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-21T21:00:00+00:00"
+    },
+    {
+      "title": "24年ぶり復活した｢プレリュード｣は現代のGTカーたり得るのか？600万円超のクーペで330km走って見えた素顔 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957981?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "24年ぶりに復活したホンダ｢プレリュード｣。かつて｢デートカー｣として一世を風靡したこのクーペは､最新のハイブリッド技術と快適性をまとい､大人のためのGTとして生まれ変わりました。伝説の名はどんな走…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-21T21:00:00+00:00"
+    },
+    {
+      "title": "教員と生徒が1週間｢遠く離れた他校の日常を知る｣､北海道･宮崎･広島の公立高校3校が仕掛ける､異例な\"越境の学び\"とは？ | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957187?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "地域も特色も異なる北海道大空高校､宮崎県立飯野高校､広島県立大崎海星高校が､前例のない｢3校循環型滞在研修｣を2026年にスタート。教員と生徒が1週間ずつ他校で学ぶことで､どんな成長や発見が生まれる…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-21T21:00:00+00:00"
+    },
+    {
+      "title": "｢月給26万円で家賃15万円なんて払えない｣45歳デザイナーが東京を離れ大阪の実家で手に入れた快適生活 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958660?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "アイドルやクリエイターなど多彩な表現者が集う日本の大都市。彼女たちはどんな夢を描き､どこで､どのように生きているのでしょうか。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-21T20:45:00+00:00"
+    },
+    {
+      "title": "Nasdaq Composite ends at record high as Meta rallies and oil prices fall",
+      "link": "https://www.ft.com/content/18f9e0ac-b7d9-4648-803f-3e894990c626?syn-25a6b1a6=1",
+      "summary": "Brent crude sinks amid speculation Donald Trump could meet Iran’s president this week",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-21T20:43:41+00:00"
+    },
     {
       "title": "AI and Chip Stocks Race Ahead",
       "link": "https://www.wsj.com/finance/stocks/ai-and-chip-stocks-race-ahead-5cbdea7d?mod=rss_markets_main",
@@ -406,6 +474,14 @@
       "link": "https://toyokeizai.net/articles/-/958531?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "食い倒れの街･大阪に新たな風を吹き込む｢タイムアウトマーケット大阪｣。駅直結の巨大フードホールは､多様な食とお酒を自由なスタイルで楽しめ､合理的な会計も魅力。大阪の伝統的な人間味と､最新施設のスマー…",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-21T20:30:00+00:00"
+    },
+    {
+      "title": "カインズ初のPBビール、累計販売数100万本超に　158円で「まずは1本」試し買い、ケース購入につなげる",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/22/news006.html",
+      "summary": "カインズ初の本格ビール「黄金ラガービール」が、発売から約5カ月で累計販売数100万本を突破した。購入者の動きから見えてきた、ヒットの背景とは？",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-09-21T20:30:00+00:00"
     },
@@ -472,6 +548,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-21T20:12:12+00:00"
+    },
+    {
+      "title": "ＮＹ外為市場＝ドル上昇、対円で157円台半ば 引き続き介入警戒 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EVlFPWTZEdTcxV093SzJfNzJleWs3OTk3djVHc21RVXV4UGtGcTQ0YjdwS2FyekVqTUJoakhod21GcGNZZTBZQXljaFR1U2R5YjRjbUd5RUlRcG5kTWV0Y1BGc0VlcE1zcUlVR3RYbVUwOXk0cVhkNXRHS2w?oc=5",
+      "summary": "ＮＹ外為市場＝ドル上昇、対円で157円台半ば 引き続き介入警戒&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-21T20:07:45+00:00"
     },
     {
       "title": "U.S. Natural Gas Futures Retreat on Cooling Weather",
