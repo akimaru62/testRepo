@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T18:09:36.501442+00:00",
+  "generated_at": "2026-09-21T18:29:59.412020+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -382,9 +382,21 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "Gold Settles Lower After Three Sessions of Gains",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-as-investors-monitor-central-bank-clues-on-rates-77edee32?mod=rss_markets_main",
+      "summary": "Gold futures settled lower, snapping a three-session winning streak amid “several conflicting fundamental factors are shaping the market between support and pressure,” XS.com said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-21T18:17:00+00:00"
+    },
     {
       "title": "ロシア与党が過去最多355議席獲得へ、侵攻後初の下院選 - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUY4RlJqZ29SeWwwTjA2R2l5b0RMaWFGYk1ZbFZ1Z3U5bkNvZnM3ZVJ2OUl3MDVId0pCQzc1V1JyVUR3bzdDYTlKSm5icDdIMWRKVGVPNWEzQnB3aDRtaWM5c2hpdkREMWFybVAzQmwzV1hpSE93Vnd6d1k4ZXJvdWNRZmY?oc=5",
@@ -408,6 +420,22 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-21T17:44:00+00:00"
+    },
+    {
+      "title": "Seattle Bans Rental Junk Fees",
+      "link": "https://www.multifamilydive.com/news/seattle-ban-rental-junk-fees/827816/",
+      "summary": "Article URL: https://www.multifamilydive.com/news/seattle-ban-rental-junk-fees/827816/\nComments URL: https://news.ycombinator.com/item?id=49790501\nPoints: 46\n# Comments: 61",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-21T17:36:48+00:00"
+    },
+    {
+      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+      "link": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+      "summary": "Article URL: https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac\nComments URL: https://news.ycombinator.com/item?id=49790409\nPoints: 16\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-21T17:30:21+00:00"
     },
     {
       "title": "OpenAI joins call for US-led global AI standards",
