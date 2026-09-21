@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T07:54:10.304584+00:00",
+  "generated_at": "2026-09-21T08:12:01.804938+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -382,6 +382,14 @@
   ],
   "items": [
     {
+      "title": "長友佑都が右膝靱帯損傷　Ｊ１・Ｆ東京",
+      "link": "https://www.jiji.com/jc/article?k=2026092100319&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-21T08:11:55.796958+00:00"
+    },
+    {
       "title": "Societe Generale Shares Climb After Bank Raises Profitability Target",
       "link": "https://www.wsj.com/business/earnings/societe-generale-targets-boost-to-profitability-shareholder-payouts-dffabc2b?mod=rss_markets_main",
       "summary": "Shares rose 4%, taking the stock’s year-to-date gain to nearly 10%, after the bank said it is cutting costs and growing revenue to boost profitability through the end of the decade, including widening its use of AI.",
@@ -468,6 +476,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-21T06:30:09+00:00"
+    },
+    {
+      "title": "トランプ氏、ワシントン凱旋門を軍事施設に 無人機・狙撃兵を配備 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYm02bmVYZ1Y1clpfcWcwajh1ZjRCMzlWdC11U0hXM0cydmNPOVQ0MjhicUR3RzR5NFoyMlhReGlXbnNkWkZfLVNDWFhqM2FLWVdIYnN1cF9HXy00Q2lxOUp2MGhjb0pQUzlvOUFXT3Q4UXNWWmhLRGM3VGp2bExKRmJ6SVhnUQ?oc=5",
+      "summary": "トランプ氏、ワシントン凱旋門を軍事施設に 無人機・狙撃兵を配備&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-21T06:27:00+00:00"
     },
     {
       "title": "U.S. Treasury Yields Decline as Oil Prices Ease",
@@ -577,6 +593,14 @@
       "title": "Mini-AGI – dynamic continual learning model trained from scratch on 8GB VRAM",
       "link": "https://github.com/volotat/mini-AGI/",
       "summary": "Article URL: https://github.com/volotat/mini-AGI/\nComments URL: https://news.ycombinator.com/item?id=49783133\nPoints: 13\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-21T04:42:37+00:00"
+    },
+    {
+      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+      "link": "https://github.com/volotat/mini-AGI/",
+      "summary": "Sorry for the pretentious name, I know, I know.. It just contains all the pieces I would like to see a AGI model to have, and I can't stand the temptation. Before throwing rocks at me, please take a glance at the Readme, and I hope it will cover your mood a little bit.So, first of all it does work and you can see the sample from the whole training run here: https://raw.githubusercontent.com/volotat/mini-AGI/refs/head...Here is the scaling law graph I have so far, and it looks very promising:\nhttps://github.com/volotat/mini-AGI/blob/main/assets/scaling...The model was built under my deep dissatisfaction so we cannot really train even moderately big models (1B+ scale) on the consumer's hardware. We can inference and fine-tune them for sure, but I would like to have full control over what the model sees over the training run, so it is fully aligned with my interests, not some corporations.I was thinking about for some time and come up with two interesting ideas I thought worth pursuing: MoE with a lot of experts that gets added and pruned from the model while it trains, where only a small subset of of experts are actually in use at any particular moment + batch 1 training on the single continuous stream of data.First allows us to be bounded only by the disk space in terms of number of parameters and load and unload experts only when they are needed. The second (if figured out and it turns out to be doable) allows us to get aways with small VRAM capacity because we do not need to store big randomized batches and their respective gradients.I started brainstorming with Claude and after some time we found an approach that seems to be promising, and low and behold, a few weeks pass and you can see the results yourself.Obviously, I did use AI in the process of making this project and I am pretty sure it would be completely impossible for me to do something like this without it, so I hope it is more than justified.The model is still running over the first of 7.8B characters corpus I selected for training, so the weights are not out yet, and it's about a couple weeks of waiting until they are cooked at the current reading speed. And yeah, the model just read continuous interleaved passages from the dataset, each by 32K characters long each as a single stream. Just as you or I would do.The set up seems to be really simple so you can git clone the project, run it and observe everything for yourself.Thanks for your attention.\n\nComments URL: https://news.ycombinator.com/item?id=49783133\nPoints: 33\n# Comments: 4",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-21T04:42:37+00:00"
@@ -1044,6 +1068,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-21T00:50:00+00:00"
+    },
+    {
+      "title": "688825.SS - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKb3YtekJRNm5fQUdJbDB5emZPR2lJUFdWUXlObHBhbWFOZXFVS2VsTjdpRzZmQXhyMlpzcXNwODdOWTlQa2x6RTlfQkEzZy1kYU1RRF9ELTM2cWRlMTNzWVZPSGVGLWVScjI4OGhudFpjYUQ1NGRXWjh3?oc=5",
+      "summary": "688825.SS - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-21T00:44:35+00:00"
     },
     {
       "title": "Why back propagation goes backward",
@@ -6828,6 +6860,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-18T16:00:00+00:00"
+    },
+    {
+      "title": "0710.hk - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16Y1R1YzJCSXBNY0lzdHVxbERCVndLSnhpUlVlRFF2dXFOOXB4Y3hyRDd2SW1fZ05VR0QwTzVReG5DLVhGWFlOTm9jSlBGUEJzUmh3NXBRWk1fYkQtak8xUU1vdDBIYXR0aGhKLWF0bl9FOUYyZncw?oc=5",
+      "summary": "0710.hk - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-18T15:55:57+00:00"
     },
     {
       "title": "7487.JSA - | Stock Price & Latest News | Reuters - ロイター",
@@ -19089,6 +19129,14 @@
       "title": "PZP.F - | Stock Price & Latest News - ロイター",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mWGRoX2tnNDJ6ZGtFbzdzLWxsdmk5ZXItak12cHFOcGZEMU53NVY4b3dqS1IxYUdtdW5WZGd3dHhDRVdsOWVWVXI1UnBQYXIzNzNkTzdHOFRZczd1VkhWVFIxV2o3LVRIRjB5ZFNNclFNNEU?oc=5",
       "summary": "PZP.F - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-16T05:24:50+00:00"
+    },
+    {
+      "title": "PZP.F - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mWGRoX2tnNDJ6ZGtFbzdzLWxsdmk5ZXItak12cHFOcGZEMU53NVY4b3dqS1IxYUdtdW5WZGd3dHhDRVdsOWVWVXI1UnBQYXIzNzNkTzdHOFRZczd1VkhWVFIxV2o3LVRIRjB5ZFNNclFNNEU?oc=5",
+      "summary": "PZP.F - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-16T05:24:50+00:00"
