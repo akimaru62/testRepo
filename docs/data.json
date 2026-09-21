@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T17:33:33.895574+00:00",
+  "generated_at": "2026-09-21T17:47:42.597825+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -386,9 +386,41 @@
   ],
   "items": [
     {
+      "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
+      "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
+      "summary": "Muse is gaining popularity and helping convince investors that Meta’s AI bets are paying off.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-21T17:45:00+00:00"
+    },
+    {
+      "title": "Comex Gold Settles 0.91% Lower at $4345.80",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-as-investors-monitor-central-bank-clues-on-rates-77edee32?mod=rss_markets_main",
+      "summary": "Gold settled 0.9% lower and silver fell 1.1%, with both metals snapping a three-session winning streak.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-21T17:44:00+00:00"
+    },
+    {
+      "title": "OpenAI joins call for US-led global AI standards",
+      "link": "https://www.ft.com/content/4e502288-b611-4193-acdb-46ef34b1e3b0?syn-25a6b1a6=1",
+      "summary": "Chief executive Sam Altman will brief the UN Security Council this week following outcry over safety concerns",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-21T17:24:34+00:00"
+    },
+    {
       "title": "Amazon Blocks Meta's New Muse AI Agent from Shopping on Amazon.com",
       "link": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
       "summary": "Article URL: https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/\nComments URL: https://news.ycombinator.com/item?id=49789982\nPoints: 12\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-21T17:00:23+00:00"
+    },
+    {
+      "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+      "link": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
+      "summary": "Article URL: https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/\nComments URL: https://news.ycombinator.com/item?id=49789982\nPoints: 29\n# Comments: 8",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-21T17:00:23+00:00"
@@ -429,6 +461,14 @@
       "title": "Show HN: Foremerge – Catch Intent Conflicts Between Parallel Coding Agents",
       "link": "https://github.com/naw103/foremerge",
       "summary": "At, GPTree, we run several coding agents across our team on one repo using parallel worktrees. Apart from wasted time reviewing and fixing conflicts at PR time, the failures that hurt the most are when multiple plans or tickets cause architecture changes that cannot both be true. Ex. one agent replaces a class while another one is in the process of extending it. Git only notices if the resulting patches happen to touch the same lines and the review only catches it if they are familiar with both tickets.Foremerge is a local \"git like\" coordination layer that sits above git (ie. does not interact with or change the way git and worktrees function), Before editing each agent publishes an intent and the scopes it will change, with the operation it plans to complete on each one.    foremerge intent publish --agent \"$A\" \\\n        --summary \"Replace PaymentService with StripePaymentService\" \\\n        --scope symbol:PaymentService=replace\n    foremerge intent publish --agent \"$B\" \\\n        --summary \"Add PayPal support to PaymentService\" \\\n        --scope symbol:PaymentService=extend\n\nThe publish by the 2nd agent returns a HIGH destructive_vs_additive finding before writing any code. Agents keep their own worktrees and the shared state is one SQLite file in gits common direectory. No hooks, no merge drivers, nothing rewrites your history.It ships as one Rust binary with a CLI and MCP server with 18 tools and `foremerge setup all` wires it into Claude Code, Codex and Cursor. Because the protocol has nothing provider specific, a Claude agent and a Codex agent coordinate through the same store. Before any work is accepted, Foremerge runs a named check that you configured against the exact git state of the change. An agent that says tests pass is recorded but it dosnt satisfy the acceptance gate without running the check itself.Detection is deterministic, no judge model reading your code. HIGH conflicts are only asserted for declared operations, ie. matches inferred from prose cap out below high. Claims are advisory leases, not locks so two agents can still hold the same scope without deadlock. The open source version is single matching and so not a distributed consensus.We have tested this up to 98 parallel agents all working on the same repo with zero conflicts (was supposed to be 100 but 2 agents failed to run due to resource limitations)I replayed 76 intents on my own agents from a build last week in the order they happened. The sample had exactly 1 conflict (which was flagged) and the review found a blind spot where one agent claimed scope by class name and the other claimed it by an internal method. We are working on fixing that for the next release.Setup is a 30s install by pasting the quickstart instructions from the readme.md into your agent or manually: \n`curl -fsSL https://foremerge.com/install.sh | sh` or `cargo install\n--locked foremerge`, then `foremerge init && foremerge setup all` in a repo.\nApache-2.0.The feedback I want most is which conflicts between your agents plans would you actually want flagged and which would you tollerate as noise?Repo here: https://github.com/naw103/foremerge\nWebsite: https://foremerge.comMore information on the problems this solves: https://foremerge.com/blog/\n\nComments URL: https://news.ycombinator.com/item?id=49789356\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-21T16:22:06+00:00"
+    },
+    {
+      "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+      "link": "https://github.com/naw103/foremerge",
+      "summary": "At, GPTree, we run several coding agents across our team on one repo using parallel worktrees. Apart from wasted time reviewing and fixing conflicts at PR time, the failures that hurt the most are when multiple plans or tickets cause architecture changes that cannot both be true. Ex. one agent replaces a class while another one is in the process of extending it. Git only notices if the resulting patches happen to touch the same lines and the review only catches it if they are familiar with both tickets.Foremerge is a local \"git like\" coordination layer that sits above git (ie. does not interact with or change the way git and worktrees function), Before editing each agent publishes an intent and the scopes it will change, with the operation it plans to complete on each one.    foremerge intent publish --agent \"$A\" \\\n        --summary \"Replace PaymentService with StripePaymentService\" \\\n        --scope symbol:PaymentService=replace\n    foremerge intent publish --agent \"$B\" \\\n        --summary \"Add PayPal support to PaymentService\" \\\n        --scope symbol:PaymentService=extend\n\nThe publish by the 2nd agent returns a HIGH destructive_vs_additive finding before writing any code. Agents keep their own worktrees and the shared state is one SQLite file in gits common direectory. No hooks, no merge drivers, nothing rewrites your history.It ships as one Rust binary with a CLI and MCP server with 18 tools and `foremerge setup all` wires it into Claude Code, Codex and Cursor. Because the protocol has nothing provider specific, a Claude agent and a Codex agent coordinate through the same store. Before any work is accepted, Foremerge runs a named check that you configured against the exact git state of the change. An agent that says tests pass is recorded but it dosnt satisfy the acceptance gate without running the check itself.Detection is deterministic, no judge model reading your code. HIGH conflicts are only asserted for declared operations, ie. matches inferred from prose cap out below high. Claims are advisory leases, not locks so two agents can still hold the same scope without deadlock. The open source version is single matching and so not a distributed consensus.We have tested this up to 98 parallel agents all working on the same repo with zero conflicts (was supposed to be 100 but 2 agents failed to run due to resource limitations)I replayed 76 intents on my own agents from a build last week in the order they happened. The sample had exactly 1 conflict (which was flagged) and the review found a blind spot where one agent claimed scope by class name and the other claimed it by an internal method. We are working on fixing that for the next release.Setup is a 30s install by pasting the quickstart instructions from the readme.md into your agent or manually: \n`curl -fsSL https://foremerge.com/install.sh | sh` or `cargo install\n--locked foremerge`, then `foremerge init && foremerge setup all` in a repo.\nApache-2.0.The feedback I want most is which conflicts between your agents plans would you actually want flagged and which would you tollerate as noise?Repo here: https://github.com/naw103/foremerge\nWebsite: https://foremerge.comMore information on the problems this solves: https://foremerge.com/blog/\n\nComments URL: https://news.ycombinator.com/item?id=49789356\nPoints: 16\n# Comments: 0",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-21T16:22:06+00:00"
@@ -482,6 +522,14 @@
       "published": "2026-09-21T16:10:53+00:00"
     },
     {
+      "title": "米国務長官、日韓外相と会談 米中首脳会談控え - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CTjVEeVY1bFRMZ0VsT05ERk5XbXN5UWtFZUY2SDRzMFFZZEh6OWpCQklleDIwVzJpakZZQVo4TDl1d2lwanBuTUVJdXB5aURzQ2ZzQVMycjVTTTBIVzhzRTdFdTJHZnBfSmo4bEE0UGdTaHN1ZW90SEltMkZxUQ?oc=5",
+      "summary": "米国務長官、日韓外相と会談 米中首脳会談控え&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-21T16:10:53+00:00"
+    },
+    {
       "title": "How do Traffic Signals Work (2019)",
       "link": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
       "summary": "Article URL: https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work\nComments URL: https://news.ycombinator.com/item?id=49789081\nPoints: 3\n# Comments: 0",
@@ -517,6 +565,14 @@
       "title": "独インフレ当面高止まり、エネルギー高や医療改革が要因＝連銀月報 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42N3VxT3ZJQjlLZF9Rc0RiRlZQdnFBQm5XNjlON1h4UjdRQ2s2RnFpTEc0RVlBTzZUc0xrZlhTOHJMRFEzeU5rdUxFMkhJejNObjNKOGNBdFE5cHNNVU1XbXpPOHlnLTV2aFVpUGM5QjNxa2tBY1hvVmRWWkQ?oc=5",
       "summary": "独インフレ当面高止まり、エネルギー高や医療改革が要因＝連銀月報&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-21T15:48:45+00:00"
+    },
+    {
+      "title": "独インフレ当面高止まり、エネルギー高や医療改革が要因＝連銀月報 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42N3VxT3ZJQjlLZF9Rc0RiRlZQdnFBQm5XNjlON1h4UjdRQ2s2RnFpTEc0RVlBTzZUc0xrZlhTOHJMRFEzeU5rdUxFMkhJejNObjNKOGNBdFE5cHNNVU1XbXpPOHlnLTV2aFVpUGM5QjNxa2tBY1hvVmRWWkQ?oc=5",
+      "summary": "独インフレ当面高止まり、エネルギー高や医療改革が要因＝連銀月報&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-21T15:48:45+00:00"
