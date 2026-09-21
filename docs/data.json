@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T07:36:40.404037+00:00",
+  "generated_at": "2026-09-21T07:54:10.304584+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -382,6 +382,14 @@
   ],
   "items": [
     {
+      "title": "Societe Generale Shares Climb After Bank Raises Profitability Target",
+      "link": "https://www.wsj.com/business/earnings/societe-generale-targets-boost-to-profitability-shareholder-payouts-dffabc2b?mod=rss_markets_main",
+      "summary": "Shares rose 4%, taking the stock’s year-to-date gain to nearly 10%, after the bank said it is cutting costs and growing revenue to boost profitability through the end of the decade, including widening its use of AI.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-21T07:36:00+00:00"
+    },
+    {
       "title": "European Stocks Open Week Higher as Tech, Banks Gain",
       "link": "https://www.wsj.com/finance/stocks/chip-boom-to-boost-korean-companies-cash-goldman-sachs-says-8862719a?mod=rss_markets_main",
       "summary": "Europe’s indexes all gained at the open, retracing some of Friday’s sharp losses. Banks and technology stocks rose, while energy-sensitive stocks were supported by a fall in oil prices.",
@@ -404,6 +412,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-21T07:14:00+00:00"
+    },
+    {
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "link": "https://github.com/jaredpalmer/kev/tree/main",
+      "summary": "Article URL: https://github.com/jaredpalmer/kev/tree/main\nComments URL: https://news.ycombinator.com/item?id=49783999\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-21T07:11:55+00:00"
     },
     {
       "title": "台風２５号関東接近、大雨暴風警戒　伊豆大島に土砂災害特別警報―気象庁",
@@ -436,6 +452,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-21T06:39:00+00:00"
+    },
+    {
+      "title": "ベトナム株、ＦＴＳＥラッセル新興国指数に組み入れ - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU1N6M3JrMVhUZ1l2Q2k5VndZc1ZlYWF0dmV5cGdiVlV0WEpmM0dvX0RaVVhwdW9hbVFWaDY2SGFaekQwekhoZm8wbWdDellHMlpyc3gyTk1GX3JxZERSTzdaMG9uQ2h2OXVCWFlkeEpQRHZ5ZGVOWDBFbHhGak01S2hLdnQ?oc=5",
+      "summary": "ベトナム株、ＦＴＳＥラッセル新興国指数に組み入れ&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-21T06:32:00+00:00"
     },
     {
       "title": "Trafigura to float supertanker arm in first IPO of a business",
