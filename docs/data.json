@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T14:51:22.124733+00:00",
+  "generated_at": "2026-09-21T15:07:43.068293+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -386,12 +386,44 @@
   ],
   "items": [
     {
+      "title": "AMD hits a major milestone as AI stocks blaze higher",
+      "link": "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories",
+      "summary": "AMD has become the 14th U.S. company to see its market capitalization top $1 trillion.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-21T15:06:00+00:00"
+    },
+    {
+      "title": "AI is a Pandora’s box that some CEOs seem wary of opening — at least with investors",
+      "link": "https://www.marketwatch.com/story/ai-is-a-pandoras-box-that-some-ceos-seem-wary-of-opening-at-least-with-investors-39eff0d2?mod=mw_rss_topstories",
+      "summary": "Corporate America may be broadly using AI, but an analyst noted that some management teams are hesitant to bring it up with investors because it won’t translate to financial results just yet.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-21T14:57:00+00:00"
+    },
+    {
+      "title": "Battered government bonds rebound as oil falls below $100",
+      "link": "https://www.ft.com/content/18f9e0ac-b7d9-4648-803f-3e894990c626?syn-25a6b1a6=1",
+      "summary": "Brent crude sinks amid speculation Donald Trump could meet Iranian president this week, lifting French and Italian debt",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-21T14:48:29+00:00"
+    },
+    {
       "title": "台風２５号関東接近、土砂災害相次ぐ　３人不明、１人重体―伊豆大島に一時特別警報",
       "link": "https://www.jiji.com/jc/article?k=2026092100225&g=soc&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-21T14:42:56.485500+00:00"
+    },
+    {
+      "title": "Germany’s Merz hits out at ‘destructive’ forces as he fights for survival",
+      "link": "https://www.ft.com/content/e40691e8-e96e-444a-baf7-ae3dfef99bce?syn-25a6b1a6=1",
+      "summary": "Chancellor defensive after AfD’s second electoral victory in the east and far left wins in Berlin",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-21T14:41:00+00:00"
     },
     {
       "title": "ＡＭＤ時価総額が初の1兆ドル台、ＡＩ期待で買い - Reuters",
@@ -416,6 +448,22 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-21T14:33:00+00:00"
+    },
+    {
+      "title": "Meta bans ads for Virginia Woolf play in Spain",
+      "link": "https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval\nComments URL: https://news.ycombinator.com/item?id=49787767\nPoints: 9\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-21T14:30:39+00:00"
+    },
+    {
+      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+      "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+      "summary": "“We have no debt and own our primary home, a vacation home, as well as my mother’s home in another state.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-21T14:30:00+00:00"
     },
     {
       "title": "台風２５号関東接近、土砂災害相次ぐ　３人不明、１人重体―伊豆大島に土砂災害特別警報",
@@ -448,6 +496,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-21T14:11:45+00:00"
+    },
+    {
+      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+      "link": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+      "summary": "Article URL: https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/\nComments URL: https://news.ycombinator.com/item?id=49787535\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-21T14:10:49+00:00"
     },
     {
       "title": "Uber arbitration award over Emily Normandin-Parker's death",
@@ -1091,6 +1147,14 @@
     },
     {
       "title": "Stock Market Today: Stock Indexes Tick Up as Oil Falls",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-21-2026?mod=rss_markets_main",
+      "summary": "AI stocks rally on optimism for U.S.-China talks",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-21T08:45:28+00:00"
+    },
+    {
+      "title": "Stock Market Today: Drop in Oil Prices Unlocks Rally in Tech Shares",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-21-2026?mod=rss_markets_main",
       "summary": "AI stocks rally on optimism for U.S.-China talks",
       "source": "WSJ マーケット",
@@ -2149,6 +2213,14 @@
       "title": "ゴルフ＝ビルトモア選手権、金谷43位 ブリッジマンが逆転優勝 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQXVfTzZlZUQzSk52LWQtc2J2eHZ6eUwwcG94RHd5N25kQ3FXSTUxdF9rZ3hhSFFidWZFdGRfMkZxUnhHc3pGRFEweEt2QXVaZ0V0SW5BRkFtcGZtYjctMjRNbTZWZzk5WjltVW1vaXZvOWNVNlMwX25UZEZhMGZLZGxR?oc=5",
       "summary": "ゴルフ＝ビルトモア選手権、金谷43位 ブリッジマンが逆転優勝&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-20T23:52:34+00:00"
+    },
+    {
+      "title": "ゴルフ＝ビルトモア選手権、金谷43位 ブリッジマンが逆転優勝 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQXVfTzZlZUQzSk52LWQtc2J2eHZ6eUwwcG94RHd5N25kQ3FXSTUxdF9rZ3hhSFFidWZFdGRfMkZxUnhHc3pGRFEweEt2QXVaZ0V0SW5BRkFtcGZtYjctMjRNbTZWZzk5WjltVW1vaXZvOWNVNlMwX25UZEZhMGZLZGxR?oc=5",
+      "summary": "ゴルフ＝ビルトモア選手権、金谷43位 ブリッジマンが逆転優勝&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-20T23:52:34+00:00"
@@ -3986,6 +4058,14 @@
       "published": "2026-09-20T02:33:00+00:00"
     },
     {
+      "title": "サッカー＝インテルはローマと引き分け、カリャリ菅原は途中出場 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYnlLT2o5aFhaWDczRk41djFFWTJvcTJieFlQQkNvVWI0QmNJU18yQ251T0U4RzE0ajhHSUMtQ3RhVE5waDh5WDVDSGdLc05ad0dCMGFiX3BWVU1pUTY4UVZhWkhGQThPQ0txR2M1QTlfMWcyaDd5MG1KNVdtUnBjZnFn?oc=5",
+      "summary": "サッカー＝インテルはローマと引き分け、カリャリ菅原は途中出場&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-20T02:31:43+00:00"
+    },
+    {
       "title": "サッカー＝フライブルク鈴木が同点ゴール、ボルシアＭＧ町野も得点 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc09BN0xuTmRjVGlLal8zVDZFZU4zVk01eDdsRno1OXRLbEQzUTRxZzFXVkxvWmQwLVY0Q1k4NVA0cGJ0OHUxMlVWVklBMkNyajV5WThjb0ZzUWtVTE5lX3hRd21wTW44Yzh3alE4SWdxY2NtbTlxVWZCODg0VGdIUzVR?oc=5",
       "summary": "サッカー＝フライブルク鈴木が同点ゴール、ボルシアＭＧ町野も得点&nbsp;&nbsp;Reuters",
@@ -4061,6 +4141,14 @@
       "title": "サッカー＝ＧＫ鈴木フル出場のアストンビラ、今季リーグ戦初勝利 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN1RKa2Zjbk1xbXBWUGJvSzMzSUw4bFdZWGRHc0w3UDFyUFMyVWQyWEh3emNYLUlDYjdqMV80UExaTExLRFpqV1FBR2hzQTRldkoxX01rQnU4Yks1cUx2NWZxT1lCTC1XV1RjZG8wSXhSYWxxbGhQcWlIczdpd0NXLTdn?oc=5",
       "summary": "サッカー＝ＧＫ鈴木フル出場のアストンビラ、今季リーグ戦初勝利&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-20T01:33:43+00:00"
+    },
+    {
+      "title": "サッカー＝ＧＫ鈴木フル出場のアストンビラ、今季リーグ戦初勝利 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN1RKa2Zjbk1xbXBWUGJvSzMzSUw4bFdZWGRHc0w3UDFyUFMyVWQyWEh3emNYLUlDYjdqMV80UExaTExLRFpqV1FBR2hzQTRldkoxX01rQnU4Yks1cUx2NWZxT1lCTC1XV1RjZG8wSXhSYWxxbGhQcWlIczdpd0NXLTdn?oc=5",
+      "summary": "サッカー＝ＧＫ鈴木フル出場のアストンビラ、今季リーグ戦初勝利&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-20T01:33:43+00:00"
