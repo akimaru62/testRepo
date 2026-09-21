@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T03:10:24.791081+00:00",
+  "generated_at": "2026-09-21T03:32:03.409540+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -374,9 +374,29 @@
     {
       "url": "https://cloud.google.com/blog/rss",
       "error": "503 Server Error: Service Unavailable for url: https://cloud.google.com/blog/rss"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f2fdc420ad0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "米、中国にＡＩ通報制度を提案　リスク回避へ、閣僚級協議",
+      "link": "https://www.jiji.com/jc/article?k=2026092100127&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-21T03:31:56.652113+00:00"
+    },
+    {
+      "title": "Chip Boom to Boost Korean Companies’ Cash, Goldman Sachs Says",
+      "link": "https://www.wsj.com/finance/stocks/chip-boom-to-boost-korean-companies-cash-goldman-sachs-says-8862719a?mod=rss_markets_main",
+      "summary": "The chip-industry boom could generate substantial corporate cash in South Korea, with the extent to which companies repatriate overseas earnings likely to be a key determinant of domestic financial-market dynamics, Goldman Sachs said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-21T03:20:00+00:00"
+    },
     {
       "title": "「親中」前政権が招いた中国BYD　ハンガリーの街が抱く期待と不安",
       "link": "https://www.asahi.com/articles/ASV9K0HRZV9KUEFT003M.html?ref=rss",
@@ -570,6 +590,14 @@
       "published": "2026-09-21T01:06:00+00:00"
     },
     {
+      "title": "米インフレ、経済の「あらゆる側面」で高すぎ＝ミネアポリス連銀総裁 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZUtSZ0prcHg5X09BYVRDZzBkN2hBTURGV1JKV3JDXy01d2s2dlVDRDVGdkkxZFNNOW9hc201d3VwNVpBUVp1VHNpc3FkZ0lYVzVCT3QtM0trWXZ6MklKQnJtNHR3a0dkUTYwMzh3bzAwMEJyYk9fZTZIZk1rRGh6VXdwMEE?oc=5",
+      "summary": "米インフレ、経済の「あらゆる側面」で高すぎ＝ミネアポリス連銀総裁&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-21T01:06:00+00:00"
+    },
+    {
       "title": "3列シート7人乗り､フレンチテイストなコンパクトSUV…シトロエン新型｢C3エアロクロス ハイブリッド｣の隠れた美点 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/958079?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "2026年7月､日本市場に投入されたシトロエン｢C3エアクロス ハイブリッド｣は､7人乗りの実用性と独自の快適性､先進的なハイブリッド技術で注目を集めています。しかし､それだけではない魅力がそこには…",
@@ -597,6 +625,14 @@
       "title": "独極右、州議会選で第1党へ メルツ首相の保守は戦後最悪の結果 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tdW5yWWhfMjI3bjdENDJabW5EblpFeEpVc1lZV3pVbTVnY1A5U1ZSX0lqUmZ0ZEFaQl9rOHdKblY4ZnlKXzlSaVJDRXo1Q2gyVUhwMjY3azh6bW9mTHpuM2JDVzF1QUV5ekN1OGdKeVcyUlNLX3IxLU81SnQ?oc=5",
       "summary": "独極右、州議会選で第1党へ メルツ首相の保守は戦後最悪の結果&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-21T00:50:00+00:00"
+    },
+    {
+      "title": "独極右、州議会選で第1党へ メルツ首相の保守は戦後最悪の結果 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tdW5yWWhfMjI3bjdENDJabW5EblpFeEpVc1lZV3pVbTVnY1A5U1ZSX0lqUmZ0ZEFaQl9rOHdKblY4ZnlKXzlSaVJDRXo1Q2gyVUhwMjY3azh6bW9mTHpuM2JDVzF1QUV5ekN1OGdKeVcyUlNLX3IxLU81SnQ?oc=5",
+      "summary": "独極右、州議会選で第1党へ メルツ首相の保守は戦後最悪の結果&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-21T00:50:00+00:00"
@@ -1368,6 +1404,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-20T15:34:45+00:00"
+    },
+    {
+      "title": "ELK.OL - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90RmFnX2xzZXNYMlU0STZiUGM5dGtnV1FpRGFwRDRrUWdHNEk1d2hKcHFSQ25vZ2xxLW1qc0NoWlZybWRucEthTDdoY3lycjBsbmtlakJJSjhtRGRaZXpiQmpJcEROUF8yQUZGT1BibkE5WFVVYkE?oc=5",
+      "summary": "ELK.OL&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-20T15:33:11+00:00"
     },
     {
       "title": "One-Electron Universe",
