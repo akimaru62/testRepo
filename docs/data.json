@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T13:26:28.955123+00:00",
+  "generated_at": "2026-09-21T13:38:50.698032+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -386,6 +386,14 @@
   ],
   "items": [
     {
+      "title": "Euro Could Trade in Record Narrow Range Vs Dollar",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-as-focus-turns-to-trump-xi-meeting-2caa497e?mod=rss_markets_main",
+      "summary": "The euro was steady against the dollar and Deutsche Bank said it could continue to trade between $1.13 and $1.20 during the rest of this year, marking the narrowest range on record.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-21T13:34:00+00:00"
+    },
+    {
       "title": "台風２５号関東接近、土砂災害相次ぐ　２人不明、１人重体―伊豆大島に土砂災害特別警報",
       "link": "https://www.jiji.com/jc/article?k=2026092100225&g=soc&m=rss",
       "summary": "",
@@ -424,6 +432,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-09-21T12:47:53+00:00"
+    },
+    {
+      "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
+      "link": "https://news.ycombinator.com/item?id=49786609",
+      "summary": "I disabled Siri in the Settings app, and then further disabled Siri and its extensions in Settings > Screen Time.Next, I disabled all Siri-related and Apple Intelligence-related services as per https://github.com/OleksandrKrupko/mac-os-debloatBut after restarting, I could still see a \"Siri\" process running in Activity Monitor. Upon further inspection, I found that it is the \"Siri AI.app\".These \"features\", together with Apple's Personal Context sound very similar to Microsoft's Recall.Does anyone have the same experience? Is it really impossible to fully turn off Siri, Siri AI, Apple Intelligence and all related services and features on macOS 27?\n\nComments URL: https://news.ycombinator.com/item?id=49786609\nPoints: 7\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-21T12:47:05+00:00"
     },
     {
       "title": "ＣＮＮなど、記者証没収で米政権提訴へ 「報道の自由守る」 - Reuters",
@@ -885,6 +901,14 @@
       "title": "Stock Market Today: Stock Futures Tick Up as Oil Falls",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-21-2026?mod=rss_markets_main",
       "summary": "AI stocks on rally on optimism for U.S.-China talks",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-21T08:45:28+00:00"
+    },
+    {
+      "title": "Stock Market Today: Stock Indexes Tick Up as Oil Falls",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-21-2026?mod=rss_markets_main",
+      "summary": "AI stocks rally on optimism for U.S.-China talks",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-21T08:45:28+00:00"
