@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T20:08:08.694775+00:00",
+  "generated_at": "2026-09-21T20:24:51.214286+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -390,6 +390,38 @@
   ],
   "items": [
     {
+      "title": "日本の牛肉輸出先「タジキスタンが7位」の怪　香港で誘われた貿易商",
+      "link": "https://www.asahi.com/articles/ASV9G127PV9GPIHB00FM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-21T20:24:44.798429+00:00"
+    },
+    {
+      "title": "Amazon and Shopify make starkly different moves in the brewing battle over AI shopping",
+      "link": "https://www.marketwatch.com/story/amazon-and-shopify-make-starkly-different-moves-in-the-brewing-battle-over-ai-shopping-4e00618b?mod=mw_rss_topstories",
+      "summary": "While Amazon is shutting out Meta’s Muse, Shopify is partnering on payment technology with the buzzy AI assistant.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-21T20:22:00+00:00"
+    },
+    {
+      "title": "U.S. Stocks Rise, Nasdaq Hits Record, as Oil Slides, AI Bets Surge",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-nasdaq-hits-record-as-oil-slides-ai-bets-surge-6f886ab6?mod=rss_markets_main",
+      "summary": "Stocks rose as oil futures tumbled due to hopes of a resumption in U.S.-Iran negotiations, causing a relief rally that pushed high-risk technology stocks to record highs.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-21T20:20:00+00:00"
+    },
+    {
+      "title": "As the S&P 500 nears a new record high, there are cracks below the surface",
+      "link": "https://www.marketwatch.com/story/as-the-s-p-500-nears-a-new-record-high-there-are-cracks-below-the-surface-6df3e90d?mod=mw_rss_topstories",
+      "summary": "About 60% of the stocks in the S&amp;P 500 are down more than 20% from their all-time highs.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-21T20:19:00+00:00"
+    },
+    {
       "title": "U.S. Natural Gas Futures Retreat on Cooling Weather",
       "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-pull-back-on-cooling-weather-5a695bc9?mod=rss_markets_main",
       "summary": "U.S. natural gas futures gave back most of last week’s gains as the heat than has kept up power-sector demand is set to dissipate.",
@@ -412,6 +444,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-21T20:01:00+00:00"
+    },
+    {
+      "title": "Kremlin-backed forgery scheme moved $6.9bn through global banks",
+      "link": "https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1?syn-25a6b1a6=1",
+      "summary": "FT finds thousands of Russian payments handled by Standard Chartered, Citigroup and other international groups in vast leak from inside fintech A7",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-21T20:00:08+00:00"
     },
     {
       "title": "データセンターは敵か？味方か？ 財政苦しい地方都市で深まる｢経済再生への期待｣と｢住民の生活環境維持｣の葛藤 | 政治・経済・投資 | 東洋経済オンライン",
@@ -460,6 +500,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-21T19:46:00+00:00"
+    },
+    {
+      "title": "Transformers Explained Visually",
+      "link": "https://poloclub.github.io/transformer-explainer/",
+      "summary": "Article URL: https://poloclub.github.io/transformer-explainer/\nComments URL: https://news.ycombinator.com/item?id=49792342\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-21T19:43:49+00:00"
     },
     {
       "title": "Moderna will reveal the data for its mRNA cancer vaccine next month. Here’s why it matters.",
@@ -542,6 +590,14 @@
       "published": "2026-09-21T19:04:36+00:00"
     },
     {
+      "title": "RoboHarm: Do Frontier Robot Policies Refuse Unsafe Instructions?",
+      "link": "https://robocurve.org/roboharm/",
+      "summary": "Article URL: https://robocurve.org/roboharm/\nComments URL: https://news.ycombinator.com/item?id=49791720\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-21T18:58:26+00:00"
+    },
+    {
       "title": "Bitcoin Jumps Above $86,000 to 8-Month High",
       "link": "https://www.wsj.com/finance/currencies/bitcoin-jumps-above-85-000-to-8-month-high-050f3578?mod=rss_markets_main",
       "summary": "The flagship cryptocurrency continued its red-hot rebound, and was up over 30% since Aug. 19 and is holding firmly above the $80,000 level that had proved a stubborn cap in recent weeks.",
@@ -593,6 +649,14 @@
       "title": "Why Does an NPM Math Library Need an Encrypted Loader?",
       "link": "https://safedep.io/mathmain-encrypted-loader/",
       "summary": "Article URL: https://safedep.io/mathmain-encrypted-loader/\nComments URL: https://news.ycombinator.com/item?id=49791378\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-21T18:33:44+00:00"
+    },
+    {
+      "title": "Why does mathmain need an encrypted loader?",
+      "link": "https://safedep.io/mathmain-encrypted-loader/",
+      "summary": "Article URL: https://safedep.io/mathmain-encrypted-loader/\nComments URL: https://news.ycombinator.com/item?id=49791378\nPoints: 65\n# Comments: 11",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-21T18:33:44+00:00"
@@ -721,6 +785,14 @@
       "title": "フーシ派、紅海沿岸の遮断へ要衝掌握狙う 米は直前に攻撃中止の報道 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdjFCZXpLNmY1a0pXYWZuMmZtTmg4VDJ3VWMtekRaZkdHYmMyUXBKU2FST3k5S0FWY2xPMEMzdjh4Y1FDNEZYWXZTNzFYcDNkN3hRYkZmM20wLXJ1Z1FlZk1HeVlUNUQ2bGxXX1BWdjRRNjBqaGtXbzB6clU0OWpzb3ZlX3Bxdw?oc=5",
       "summary": "フーシ派、紅海沿岸の遮断へ要衝掌握狙う 米は直前に攻撃中止の報道&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-21T16:57:44+00:00"
+    },
+    {
+      "title": "フーシ派、紅海沿岸の遮断へ要衝掌握狙う 米は直前に攻撃中止の報道 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdjFCZXpLNmY1a0pXYWZuMmZtTmg4VDJ3VWMtekRaZkdHYmMyUXBKU2FST3k5S0FWY2xPMEMzdjh4Y1FDNEZYWXZTNzFYcDNkN3hRYkZmM20wLXJ1Z1FlZk1HeVlUNUQ2bGxXX1BWdjRRNjBqaGtXbzB6clU0OWpzb3ZlX3Bxdw?oc=5",
+      "summary": "フーシ派、紅海沿岸の遮断へ要衝掌握狙う 米は直前に攻撃中止の報道&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-21T16:57:44+00:00"
@@ -1436,6 +1508,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-21T12:47:05+00:00"
+    },
+    {
+      "title": "Gulf states urge reset with Iran as conflict drags on",
+      "link": "https://www.ft.com/content/2a0d724d-b2be-4539-a4ab-30ba919cd253?syn-25a6b1a6=1",
+      "summary": "United Arab Emirates calls for ‘new mindset’ while Qatar advocates for regional ‘security framework’",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-21T12:44:18+00:00"
     },
     {
       "title": "トランプ氏とともにＦＲＢ議長を信頼とベセント長官、金利は紛争後に低下へ - Reuters",
@@ -94797,9 +94877,33 @@
       "published": "2021-11-01T14:52:27+00:00"
     },
     {
+      "title": "fed.bo - | Stock Price & Latest News | Reuters - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jRHRFaEk5VXFrMmkzSk9KVHBwWmdMQ0FWX08zQWRidUpqUklCM2Rzald3RHNWWmwxd2diUXA4WkZwMi1qSHlZeDBfeV9qVlRF?oc=5",
+      "summary": "fed.bo - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2021-11-01T14:52:27+00:00"
+    },
+    {
+      "title": "apa.ax - | Stock Price & Latest News | Reuters - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wREN6WXJSTzQ1bXpKQkVqeWtCNUpISGtMOXFIX1R5Rms1QzczaGlMMlhRRXRneGNtVXQzZnB3R3U2eEhZdEdGMlRkc3pSb1BJ?oc=5",
+      "summary": "apa.ax - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2021-10-24T09:56:14+00:00"
+    },
+    {
       "title": "b3sa3.sa - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43WGJCemktSWpZb1UyNGVlNXJ6TGtfN2xoanpEa1BldHdnd1lZYVA4aUFHNUxMQ05RNjNrU0Jud3d2dC15ajdfc2ZfYWd3dUpXc19R?oc=5",
       "summary": "b3sa3.sa - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2020-11-30T00:51:30+00:00"
+    },
+    {
+      "title": "b3sa3.sa - | Stock Price & Latest News | Reuters - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43WGJCemktSWpZb1UyNGVlNXJ6TGtfN2xoanpEa1BldHdnd1lZYVA4aUFHNUxMQ05RNjNrU0Jud3d2dC15ajdfc2ZfYWd3dUpXc19R?oc=5",
+      "summary": "b3sa3.sa - | Stock Price & Latest News | Reuters&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2020-11-30T00:51:30+00:00"
