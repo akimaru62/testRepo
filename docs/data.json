@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T07:02:03.290629+00:00",
+  "generated_at": "2026-09-21T07:36:40.404037+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -382,12 +382,44 @@
   ],
   "items": [
     {
+      "title": "European Stocks Open Week Higher as Tech, Banks Gain",
+      "link": "https://www.wsj.com/finance/stocks/chip-boom-to-boost-korean-companies-cash-goldman-sachs-says-8862719a?mod=rss_markets_main",
+      "summary": "Europe’s indexes all gained at the open, retracing some of Friday’s sharp losses. Banks and technology stocks rose, while energy-sensitive stocks were supported by a fall in oil prices.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-21T07:30:00+00:00"
+    },
+    {
+      "title": "Gold Falls as Focus Remains on Rate Outlook",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-as-investors-monitor-central-bank-clues-on-rates-77edee32?mod=rss_markets_main",
+      "summary": "Gold slipped as traders weighed inflation risks and the Fed’s monetary policy outlook following last week’s rate hike.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-21T07:17:00+00:00"
+    },
+    {
+      "title": "Eurozone Government Bond Yields Slide in Early Trade",
+      "link": "https://www.wsj.com/finance/citi-raises-10-year-u-s-treasury-yield-forecast-ee0a5651?mod=rss_markets_main",
+      "summary": "Eurozone government bond yields fell—tracking Treasury yields lower—helped by declining oil prices.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-21T07:14:00+00:00"
+    },
+    {
       "title": "台風２５号関東接近、大雨暴風警戒　伊豆大島に土砂災害特別警報―気象庁",
       "link": "https://www.jiji.com/jc/article?k=2026092100225&g=soc&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-21T07:01:58.674409+00:00"
+    },
+    {
+      "title": "中国共産党５中全会、10月26─29日に開催＝新華社 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMHlhcDdSd2JraVhWUWhoN0Q0VV9EZlBKanN0UEhYODU4R2I3WXdnallJTmZsUGtwVHNoQmpSOXl1MDBTNkdlcXRHajE3dVp4Tldlb1JSMTlBWC02QkJHdFBUUVpLWTBHcV9DcWRQNEdWakRkSmZQV01PU1I1T2tTXzZB?oc=5",
+      "summary": "中国共産党５中全会、10月26─29日に開催＝新華社&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-21T06:50:00+00:00"
     },
     {
       "title": "Oil Slides 2% With Focus on Saudi Flows, Diplomatic Efforts",
@@ -510,6 +542,22 @@
       "published": "2026-09-21T05:19:58+00:00"
     },
     {
+      "title": "米中首脳24日会談、主導権は習氏か イラン苦境のトランプ氏は安定模索 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNalR4Uy00VHBvb0xQVkpOQVZDeFpUZDJLRzBzOG41Q2lsR0RseVpVNk9pTjRYTm1KNlZQT0JQemp1WVVSZXVvempkbEpWTGpDajVZdW1GTG5LMFR1VEpsR1dyeEkxSzI3Si1mY3hmRTFsdUkyVjRaSUtpRUtaVlliajdqMA?oc=5",
+      "summary": "米中首脳24日会談、主導権は習氏か イラン苦境のトランプ氏は安定模索&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-21T05:16:00+00:00"
+    },
+    {
+      "title": "Mini-AGI – dynamic continual learning model trained from scratch on 8GB VRAM",
+      "link": "https://github.com/volotat/mini-AGI/",
+      "summary": "Article URL: https://github.com/volotat/mini-AGI/\nComments URL: https://news.ycombinator.com/item?id=49783133\nPoints: 13\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-21T04:42:37+00:00"
+    },
+    {
       "title": "台風２５号、関東に接近へ　伊豆大島に土砂災害特別警報―気象庁",
       "link": "https://www.jiji.com/jc/article?k=2026092100225&g=soc&m=rss",
       "summary": "",
@@ -609,6 +657,14 @@
       "title": "Winning the Visa Lottery",
       "link": "https://www.aeaweb.org/research/immigration-restrictions-firms-workers",
       "summary": "Article URL: https://www.aeaweb.org/research/immigration-restrictions-firms-workers\nComments URL: https://news.ycombinator.com/item?id=49782775\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-21T03:37:02+00:00"
+    },
+    {
+      "title": "Winning the visa lottery",
+      "link": "https://www.aeaweb.org/research/immigration-restrictions-firms-workers",
+      "summary": "Article URL: https://www.aeaweb.org/research/immigration-restrictions-firms-workers\nComments URL: https://news.ycombinator.com/item?id=49782775\nPoints: 65\n# Comments: 38",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-21T03:37:02+00:00"
@@ -969,6 +1025,14 @@
       "title": "Why back propagation goes backward",
       "link": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
       "summary": "Article URL: https://gregorygundersen.com/blog/2018/04/15/backprop/\nComments URL: https://news.ycombinator.com/item?id=49781693\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-21T00:42:14+00:00"
+    },
+    {
+      "title": "Why Backprop Goes Backward (2018)",
+      "link": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
+      "summary": "Article URL: https://gregorygundersen.com/blog/2018/04/15/backprop/\nComments URL: https://news.ycombinator.com/item?id=49781693\nPoints: 33\n# Comments: 4",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-21T00:42:14+00:00"
@@ -1481,6 +1545,14 @@
       "title": "Why MCP Was Always a Bad Idea",
       "link": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
       "summary": "Article URL: https://maharship.com/blog/why-mcp-was-always-a-bad-idea/\nComments URL: https://news.ycombinator.com/item?id=49779329\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-20T19:44:40+00:00"
+    },
+    {
+      "title": "MCP was always a bad idea?",
+      "link": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
+      "summary": "Article URL: https://maharship.com/blog/why-mcp-was-always-a-bad-idea/\nComments URL: https://news.ycombinator.com/item?id=49779329\nPoints: 126\n# Comments: 107",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-20T19:44:40+00:00"
@@ -2580,6 +2652,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-20T05:11:33+00:00"
+    },
+    {
+      "title": "サッカー＝バルセロナ開幕7連勝、ラフィーニャがハットトリック - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZXZZQmpqWFQyZnBQMjRmZURPTkNnVHF5NFdtbVhoZkhldDRXMms5aFN2NFljQWRaSTV1dzdSOWU1U3NXRHVkR0g0UGYyYjlselRXam9MYmtkZEFCY0NVOXpUR09OU0Q1OURISG9oeE9mWVFRRHM4NXdSenVQVWIwZnpB?oc=5",
+      "summary": "サッカー＝バルセロナ開幕7連勝、ラフィーニャがハットトリック&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-20T04:59:00+00:00"
     },
     {
       "title": "BYD Slashes Price of Electric Car and Becomes Cheapest in Australia [video]",
@@ -4892,6 +4972,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-19T01:42:55+00:00"
+    },
+    {
+      "title": "ゴルフ＝ビルトモア選手権、金谷が予選通過 平田らは予選落ち - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbjUzc3VrdzF4Ymtad1ZvUGIxbDJOSTVoU3BkTTNZR0FOSjdjQUd3YllZckhYOXUydUlSZUYzbktCUXZ3eGdGU1ZJdGM0UThaMVZIbW85MkJmaFJRZ0NDRzJURjlWYkNmdEJfd3R5bXZjV0xqT1daRGhMbkUtWXRBaEFR?oc=5",
+      "summary": "ゴルフ＝ビルトモア選手権、金谷が予選通過 平田らは予選落ち&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-19T01:42:00+00:00"
     },
     {
       "title": "eqr - | Stock Price & Latest News - Reuters",
