@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T20:34:44.724552+00:00",
+  "generated_at": "2026-09-21T20:47:55.740374+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -386,9 +386,21 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "502 Server Error: Bad Gateway for url: https://hnrss.org/frontpage"
     }
   ],
   "items": [
+    {
+      "title": "AI and Chip Stocks Race Ahead",
+      "link": "https://www.wsj.com/finance/stocks/ai-and-chip-stocks-race-ahead-5cbdea7d?mod=rss_markets_main",
+      "summary": "Plus, Paramount settles and crude prices drop again",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-21T20:42:00+00:00"
+    },
     {
       "title": "｢すでに廃墟化か｣とも言われたが…大阪の巨大フードコートで見た\"本当の姿\"　合理的な人が好みそうな｢意外な強み｣は | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/958531?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -396,6 +408,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-21T20:30:00+00:00"
+    },
+    {
+      "title": "‘Stop the bleeding’: Republicans tell Trump to ban US diesel exports",
+      "link": "https://www.ft.com/content/319c7b67-b585-407e-a0da-6e23b1612180?syn-25a6b1a6=1",
+      "summary": "Fuel price crisis triggered by president’s Iran war rattles legislators from rural America’s heartlands",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-21T20:29:32+00:00"
     },
     {
       "title": "中国、ボーイング機200機購入に向け進展＝米通商代表 - Reuters",
@@ -590,6 +610,14 @@
       "published": "2026-09-21T19:23:00+00:00"
     },
     {
+      "title": "欧州市場サマリー（21日） - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OdjBSR05XQ3g4TnhhZGxpbFZFNGxYdld5eGJ0LUdRZGlwMzBLY1BaTTVPbWtOLXRBWk1yTnZUU2k0SVZSaVo4YTZmMHlXSlVneTVXTzdOaHJ4YUZSZ01haUtRWjlkRG85dzd0MmZmRUpBNnF3dVdkdjU5RnI?oc=5",
+      "summary": "欧州市場サマリー（21日）&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-21T19:19:44+00:00"
+    },
+    {
       "title": "The Advisory Group on Mathematics and Artificial Intelligence",
       "link": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
       "summary": "Article URL: https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/\nComments URL: https://news.ycombinator.com/item?id=49791997\nPoints: 8\n# Comments: 0",
@@ -617,6 +645,14 @@
       "title": "ＦＲＢ、追加利上げ必要の公算 現行策「緩和領域」＝セントルイス連銀総裁 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONllMR3VEeGZ3TThwcHNVcjY1cnNzelZxRWx1UWhnVFkzc3M0MHl4a0Zvd2NjUlZVQ3cwQ25FVjl5VUFTX1htaHlCbE5rS2lEMU5OVEtSSnFWT2VNZnY3dlpydlByNDBMd0g5M2JSVmpxUVRFeDlWb0JuS05VbktqWVZoNXY?oc=5",
       "summary": "ＦＲＢ、追加利上げ必要の公算 現行策「緩和領域」＝セントルイス連銀総裁&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-21T19:07:46+00:00"
+    },
+    {
+      "title": "ＦＲＢ、追加利上げ必要の公算 現行策「緩和領域」＝セントルイス連銀総裁 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONllMR3VEeGZ3TThwcHNVcjY1cnNzelZxRWx1UWhnVFkzc3M0MHl4a0Zvd2NjUlZVQ3cwQ25FVjl5VUFTX1htaHlCbE5rS2lEMU5OVEtSSnFWT2VNZnY3dlpydlByNDBMd0g5M2JSVmpxUVRFeDlWb0JuS05VbktqWVZoNXY?oc=5",
+      "summary": "ＦＲＢ、追加利上げ必要の公算 現行策「緩和領域」＝セントルイス連銀総裁&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-21T19:07:46+00:00"
