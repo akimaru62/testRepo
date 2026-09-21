@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T14:08:50.194262+00:00",
+  "generated_at": "2026-09-21T14:28:13.661629+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -386,6 +386,38 @@
   ],
   "items": [
     {
+      "title": "台風２５号関東接近、土砂災害相次ぐ　３人不明、１人重体―伊豆大島に土砂災害特別警報",
+      "link": "https://www.jiji.com/jc/article?k=2026092100225&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-21T14:28:03.966216+00:00"
+    },
+    {
+      "title": "ＣＮＮなど３社、トランプ政権提訴　ホワイトハウス取材禁止巡り",
+      "link": "https://www.jiji.com/jc/article?k=2026092100630&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-21T14:28:03.966171+00:00"
+    },
+    {
+      "title": "Treasury Yields Ease, Inflation Concerns Tread Lower",
+      "link": "https://www.wsj.com/finance/citi-raises-10-year-u-s-treasury-yield-forecast-ee0a5651?mod=rss_markets_main",
+      "summary": "U.S. Treasury yields retreated as oil prices fall, easing inflation concerns following the weekend meeting between Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-21T14:16:00+00:00"
+    },
+    {
+      "title": "Uber arbitration award over Emily Normandin-Parker's death",
+      "link": "https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death",
+      "summary": "Article URL: https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death\nComments URL: https://news.ycombinator.com/item?id=49787523\nPoints: 14\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-21T14:09:48+00:00"
+    },
+    {
       "title": "U.S. Stocks Tick Up as Oil Falls",
       "link": "https://www.wsj.com/finance/stocks/global-stocks-rally-yields-lower-as-oil-prices-extend-falls-8b63390a?mod=rss_markets_main",
       "summary": "Stocks kicked off the week on an upbeat note, bolstered by falling oil prices and optimism around this week’s talks between Washington and Beijing.",
@@ -394,12 +426,28 @@
       "published": "2026-09-21T14:06:00+00:00"
     },
     {
+      "title": "What Sun Got Wrong",
+      "link": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/\nComments URL: https://news.ycombinator.com/item?id=49787436\nPoints: 20\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-21T14:03:18+00:00"
+    },
+    {
       "title": "Oil Futures Extend Decline on Easing Supply Concerns",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-declines-as-concerns-over-extended-supply-disruptions-ease-f7ff8ec9?mod=rss_markets_main",
       "summary": "Oil futures extended their slide to a fourth session on easing supply concerns.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-21T14:02:00+00:00"
+    },
+    {
+      "title": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
+      "link": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
+      "summary": "Article URL: https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/\nComments URL: https://news.ycombinator.com/item?id=49787313\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-21T13:53:27+00:00"
     },
     {
       "title": "米中ＡＩ対話枠組み設置とベセント長官、約2カ月後に中国で再会合 - Reuters",
@@ -496,6 +544,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-21T12:28:17+00:00"
+    },
+    {
+      "title": "Show HN: SQLBraid – Write SQL directly in TypeScript without a query-builder DSL",
+      "link": "https://github.com/Clickin/SQLBraid",
+      "summary": "Article URL: https://github.com/Clickin/SQLBraid\nComments URL: https://news.ycombinator.com/item?id=49786401\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-21T12:25:37+00:00"
     },
     {
       "title": "１０月２６日から重要会議　党の統制強化が議題―中国共産党",
@@ -936,6 +992,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-21T08:58:00+00:00"
+    },
+    {
+      "title": "Don't Use AI to Write",
+      "link": "https://paulbakker.io/writing/no-ai-for-writing/",
+      "summary": "Article URL: https://paulbakker.io/writing/no-ai-for-writing/\nComments URL: https://news.ycombinator.com/item?id=49784816\nPoints: 14\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-21T08:54:44+00:00"
     },
     {
       "title": "Stock Market Today: Stock Futures Tick Up as Oil Falls",
