@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T16:27:47.792293+00:00",
+  "generated_at": "2026-09-21T16:42:20.312295+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -410,6 +410,30 @@
       "published": "2026-09-21T16:27:42.724697+00:00"
     },
     {
+      "title": "Show HN: Foremerge – Catch Intent Conflicts Between Parallel Coding Agents",
+      "link": "https://github.com/naw103/foremerge",
+      "summary": "At, GPTree, we run several coding agents across our team on one repo using parallel worktrees. Apart from wasted time reviewing and fixing conflicts at PR time, the failures that hurt the most are when multiple plans or tickets cause architecture changes that cannot both be true. Ex. one agent replaces a class while another one is in the process of extending it. Git only notices if the resulting patches happen to touch the same lines and the review only catches it if they are familiar with both tickets.Foremerge is a local \"git like\" coordination layer that sits above git (ie. does not interact with or change the way git and worktrees function), Before editing each agent publishes an intent and the scopes it will change, with the operation it plans to complete on each one.    foremerge intent publish --agent \"$A\" \\\n        --summary \"Replace PaymentService with StripePaymentService\" \\\n        --scope symbol:PaymentService=replace\n    foremerge intent publish --agent \"$B\" \\\n        --summary \"Add PayPal support to PaymentService\" \\\n        --scope symbol:PaymentService=extend\n\nThe publish by the 2nd agent returns a HIGH destructive_vs_additive finding before writing any code. Agents keep their own worktrees and the shared state is one SQLite file in gits common direectory. No hooks, no merge drivers, nothing rewrites your history.It ships as one Rust binary with a CLI and MCP server with 18 tools and `foremerge setup all` wires it into Claude Code, Codex and Cursor. Because the protocol has nothing provider specific, a Claude agent and a Codex agent coordinate through the same store. Before any work is accepted, Foremerge runs a named check that you configured against the exact git state of the change. An agent that says tests pass is recorded but it dosnt satisfy the acceptance gate without running the check itself.Detection is deterministic, no judge model reading your code. HIGH conflicts are only asserted for declared operations, ie. matches inferred from prose cap out below high. Claims are advisory leases, not locks so two agents can still hold the same scope without deadlock. The open source version is single matching and so not a distributed consensus.We have tested this up to 98 parallel agents all working on the same repo with zero conflicts (was supposed to be 100 but 2 agents failed to run due to resource limitations)I replayed 76 intents on my own agents from a build last week in the order they happened. The sample had exactly 1 conflict (which was flagged) and the review found a blind spot where one agent claimed scope by class name and the other claimed it by an internal method. We are working on fixing that for the next release.Setup is a 30s install by pasting the quickstart instructions from the readme.md into your agent or manually: \n`curl -fsSL https://foremerge.com/install.sh | sh` or `cargo install\n--locked foremerge`, then `foremerge init && foremerge setup all` in a repo.\nApache-2.0.The feedback I want most is which conflicts between your agents plans would you actually want flagged and which would you tollerate as noise?Repo here: https://github.com/naw103/foremerge\nWebsite: https://foremerge.comMore information on the problems this solves: https://foremerge.com/blog/\n\nComments URL: https://news.ycombinator.com/item?id=49789356\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-21T16:22:06+00:00"
+    },
+    {
+      "title": "Paramount reaches settlement to clear path for $110bn Warner Bros deal",
+      "link": "https://www.ft.com/content/0bfc882f-fe1b-40cb-a356-162e833f2008?syn-25a6b1a6=1",
+      "summary": "Studio will not divest assets and will keep operations in California under terms that could be announced today",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-21T16:14:07+00:00"
+    },
+    {
+      "title": "Fable 5 – Median thinking declined in August",
+      "link": "https://twitter.com/Lon/status/2101793422487204027",
+      "summary": "Article URL: https://twitter.com/Lon/status/2101793422487204027\nComments URL: https://news.ycombinator.com/item?id=49789224\nPoints: 13\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-21T16:13:57+00:00"
+    },
+    {
       "title": "Meta’s stock is enjoying its best month in more than two years thanks to the company’s hot new AI assistant",
       "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
       "summary": "Muse is gaining popularity and helping convince investors that Meta’s AI bets are paying off.",
@@ -424,6 +448,14 @@
       "source": "AWS ブログ (AWS)",
       "category": "テクノロジー",
       "published": "2026-09-21T16:11:24+00:00"
+    },
+    {
+      "title": "How do Traffic Signals Work (2019)",
+      "link": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
+      "summary": "Article URL: https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work\nComments URL: https://news.ycombinator.com/item?id=49789081\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-21T16:06:44+00:00"
     },
     {
       "title": "Opinion | The Dangers of Fractional-Reserve Banking",
@@ -594,6 +626,14 @@
       "published": "2026-09-21T14:39:07+00:00"
     },
     {
+      "title": "ＡＭＤ時価総額が初の1兆ドル台、ＡＩ期待で買い - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcmViWkVDeXpJN3RweURqdWhpMTBCWFMxZ0E2Ukx4cFdtVE1RSmhhWXItSlpYbDdRb3ZhRGdrdnVXUGJZR2prY1BsZXJ0dERwTmoyaHNFa04xMm9Wb3NaZkNRYnFWazNvV2wxMVBaejVtQUlITWtibzFja2dfWExsNVBOYlY?oc=5",
+      "summary": "ＡＭＤ時価総額が初の1兆ドル台、ＡＩ期待で買い&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-21T14:39:07+00:00"
+    },
+    {
       "title": "AT&T’s stock looks like the smartest bet in the wireless sector, analyst says",
       "link": "https://www.marketwatch.com/story/at-ts-stock-looks-like-the-smartest-bet-in-the-wireless-sector-analyst-says-6e773d63?mod=mw_rss_topstories",
       "summary": "An analyst at BNP has taken a positive view of AT&amp;T’s stock, writing that investors should have “little to quibble with on the mobile side.”",
@@ -682,6 +722,14 @@
       "published": "2026-09-21T14:15:14+00:00"
     },
     {
+      "title": "ロはディーゼル産業の統制失う、トランプ氏 ウ戦争終結を再要求 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQVpoUFg4SFZFWk5CdktxSkl0em5jZjB1VWZDdkxoQl94RklZNk1MNEJoOGVERGdfZzVlamFwT04tRTVvQkotMnlDTEthaU1lNWd6WjZBMXQzQXA4N0oyMWtwcjdjeExPY2FzSWw0RDVyRUNDQk5tdjV3U2VSWDFmODNvbk8?oc=5",
+      "summary": "ロはディーゼル産業の統制失う、トランプ氏 ウ戦争終結を再要求&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-21T14:15:14+00:00"
+    },
+    {
       "title": "トランプ氏、イエメン大統領と電話会談 対フーシ派の軍事支援確約せず＝関係筋 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOUhuZWpfbmtSaF9LRjd5bnRwdnNPUldJamNGTTBEVkgtWmlTYUE1Tzh2djloWW9RYlVVRDBsMkl3SVN4ZkZGVWNnaTJGLXpzcm5NQlZJWldQdkMwVHkyMHNRNVY2cW01Q1FVMHdPVXpHOVhseU8xd1k3Ql9sZUxtMDNtRWp5Zw?oc=5",
       "summary": "トランプ氏、イエメン大統領と電話会談 対フーシ派の軍事支援確約せず＝関係筋&nbsp;&nbsp;Reuters",
@@ -701,6 +749,14 @@
       "title": "需要要因のインフレなら利上げ加速必要＝シカゴ連銀総裁 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTkNyWFdwU1ZJN1N2SlNSSXMtLTlNWWwyQ19BemdCM2VveEpSWkw0QlZVdnBEZTQyd2NNcHVkWTRJc255WDJKQURLVDJnbVB5YzJMcVRJQVRTbjlVeXE4cE9aMHY5VUtMSEU2UXU0V1dxVTJaR3RpYlZ4UjVZWTJRNWZobFA?oc=5",
       "summary": "需要要因のインフレなら利上げ加速必要＝シカゴ連銀総裁&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-21T14:12:09+00:00"
+    },
+    {
+      "title": "需要要因のインフレなら利上げ加速必要＝シカゴ連銀総裁 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTkNyWFdwU1ZJN1N2SlNSSXMtLTlNWWwyQ19BemdCM2VveEpSWkw0QlZVdnBEZTQyd2NNcHVkWTRJc255WDJKQURLVDJnbVB5YzJMcVRJQVRTbjlVeXE4cE9aMHY5VUtMSEU2UXU0V1dxVTJaR3RpYlZ4UjVZWTJRNWZobFA?oc=5",
+      "summary": "需要要因のインフレなら利上げ加速必要＝シカゴ連銀総裁&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-21T14:12:09+00:00"
@@ -1088,6 +1144,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-21T11:21:56+00:00"
+    },
+    {
+      "title": "MND.AX - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVjVUOWx0MUZhWVpjWDlybVcwcVVPQmY3aXNXTF9PTlNvTjFNMXZjSjlzRFVCa0FGdmdvYXJIc0JmWWdNQjFTMFMwWUdzeDhMRGZpUThCMUYyeU9QUmZoOEs2QVBCb3BNTHI4Q0dpQzRGc09KMlNzTmttSkRJY3hONE5R?oc=5",
+      "summary": "MND.AX&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-21T11:21:29+00:00"
     },
     {
       "title": "002790.ks - | Stock Price & Latest News - ロイター",
@@ -49824,6 +49888,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-11T06:06:36+00:00"
+    },
+    {
+      "title": "ABSI.B - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qN1lCT2dpZExjMXc5aXoyZTFrRXJmcmVoYy1YOUYzOUVDUm1CM0FZa0Q3QXNaQ09wT0xWUDlpZ2dQUEpoQm1YRkxOOG8wekIxd1RJVVJNYlE2YmxEMHRIREhfX2RJWlQzRVU3Tm5renNpX1FwS293VFVmaFdFNm8?oc=5",
+      "summary": "ABSI.B&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-11T06:06:35+00:00"
     },
     {
       "title": "TRYl.TXEA - | Stock Price & Latest News - Reuters",
