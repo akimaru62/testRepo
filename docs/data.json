@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T17:47:38.869123+00:00",
+  "generated_at": "2026-09-22T18:11:16.144680+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -402,6 +402,38 @@
   ],
   "items": [
     {
+      "title": "高市首相は、日米首脳会談について「世界に向けて日米同盟の強さを示すことになる」と述べた",
+      "link": "https://www.jiji.com/jc/article?k=2026092300089&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-22T18:11:10.551599+00:00"
+    },
+    {
+      "title": "GPT-6 Sol and Luna",
+      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/\nComments URL: https://news.ycombinator.com/item?id=49805509\nPoints: 25\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-22T18:00:34+00:00"
+    },
+    {
+      "title": "Defending against dangerous AI should be a national priority — and we need more AI to do it",
+      "link": "https://www.marketwatch.com/story/defending-against-dangerous-ai-should-be-a-national-priority-and-we-need-more-ai-to-do-it-049e1c88?mod=mw_rss_topstories",
+      "summary": "A rogue state or terrorist organization has little reason to observe an AI slowdown.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-22T17:52:00+00:00"
+    },
+    {
+      "title": "Comex Gold Settles 0.16% Lower at $4338.90",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-as-strong-fundamentals-support-9f92da11?mod=rss_markets_main",
+      "summary": "Gold settled 0.2% lower, down for a second-consecutive session, while silver rose 0.2%, up four of the past five sessions.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-22T17:47:00+00:00"
+    },
+    {
       "title": "Quantum stocks are getting hot again after a brutal summer. Can the rally last?",
       "link": "https://www.marketwatch.com/story/quantum-stocks-are-getting-hot-again-after-a-brutal-summer-can-the-rally-last-a8244a66?mod=mw_rss_topstories",
       "summary": "This week’s Quantum World Congress could trigger a ‘sentiment reversal’ for quantum stocks after a rough summer, an analyst said.",
@@ -469,6 +501,14 @@
       "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis",
       "link": "https://artificialanalysis.ai/models/claude-opus-5-5",
       "summary": "Article URL: https://artificialanalysis.ai/models/claude-opus-5-5\nComments URL: https://news.ycombinator.com/item?id=49804316\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-22T16:51:31+00:00"
+    },
+    {
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "link": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "summary": "Article URL: https://artificialanalysis.ai/models/claude-opus-5-5\nComments URL: https://news.ycombinator.com/item?id=49804316\nPoints: 63\n# Comments: 28",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-22T16:51:31+00:00"
@@ -669,6 +709,14 @@
       "title": "グテレス国連事務総長、最後の総会演説 ＡＩ規制と国連改革訴え - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByTjg1VmUwQTRMWGhuRXN6YlFrNGZtcnhGT3Boclo2VElrdG5HZTNIN19xbWtYdFRaVFo0Y1ZpS3VNZzBia3E1U28yMjFoMms1ck5EYXluLWdWMUo2SFVyWVdkT1BzaDc5R2NieV9DWHk2bXpCc2QwNEJQSk5Rdw?oc=5",
       "summary": "グテレス国連事務総長、最後の総会演説 ＡＩ規制と国連改革訴え&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-22T15:49:07+00:00"
+    },
+    {
+      "title": "グテレス国連事務総長、最後の総会演説 ＡＩ規制と国連改革訴え - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByTjg1VmUwQTRMWGhuRXN6YlFrNGZtcnhGT3Boclo2VElrdG5HZTNIN19xbWtYdFRaVFo0Y1ZpS3VNZzBia3E1U28yMjFoMms1ck5EYXluLWdWMUo2SFVyWVdkT1BzaDc5R2NieV9DWHk2bXpCc2QwNEJQSk5Rdw?oc=5",
+      "summary": "グテレス国連事務総長、最後の総会演説 ＡＩ規制と国連改革訴え&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-22T15:49:07+00:00"
@@ -1256,6 +1304,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-22T13:05:48+00:00"
+    },
+    {
+      "title": "Training a model to identify AI-generated web content from structure alone",
+      "link": "https://arxiv.org/abs/2609.15369",
+      "summary": "Hey HN! We’re Vincent and Jochen from Sitefire (https://sitefire.ai). We have been working together for years, with backgrounds in RL/optimization at Stanford and software engineering from Technical University Munich (TUM).With Sitefire (YC W26), we help marketing teams get recommended by AI Search (ChatGPT, Google AI Overviews, AI Mode, Claude, etc.). Our software monitors prompts, sees which web pages get cited, and uses these insights to help marketing teams take action, e.g. create YouTube videos or write the right blog posts.This means we have a commercial stake in AI-generated web content. And for now, high-information, AI-generated content works great to get cited and recommended in AI Search.But after talking to hundreds of marketing teams, it became clear that everyone despises AI-generated content (“AI slop”). And yet, everyone still wants to leverage AI to create content. So we asked ourselves: what characterizes AI slop? Can we train a model to identify it from human-generated web pages?Researchers from the University of Maryland and Google DeepMind already asked this question for fiction. Their paper StoryScope (Russell et al., 2026) showed that you can tell AI-written stories from human ones by their structure alone, without looking at the words.We ported their pipeline to commercial web pages. Using the Wayback Machine, we collected 2,250 blog posts from 268 B2B company websites that were written before ChatGPT existed. For each blog post, five AI models (GPT-5.4, Claude Sonnet 4.6, Gemini 3 Flash, DeepSeek V3.2, Kimi K2.5) wrote their own version.Instead of looking at the words, we looked at how each post is built. We had an AI model answer 214 questions about every post, e.g. how hard it pushes its own product, whether it backs up its claims with sources, or whether it quotes a named expert. Then we trained a classifier on these answers.On blog posts it had never seen before, our classifier told AI-generated and human posts apart with 98% accuracy, getting only 19 of 1,740 wrong.Why does it work so well? Because all five AI models write in a similar shape. Mapping every AI model’s values for these features, we see they cluster together, while the human values sit apart and spread out much more. Of the 1% most unique blog posts in our data set, 149 are human, only 4 are AI.So what characterizes AI slop? It tells you the same thing three times. The title already promises what you'll get (\"How to Cut Onboarding Time in Half\"), the intro lays out what's coming, and the ending says it all again. 77% of the AI posts end by repeating their main point, compared to only 12% of the human posts. We call it the tidy, self-announcing blog post.Still, each AI model has its own accent. We trained a second classifier to tell which of the five AI models wrote a post, or whether a human did. It picks the right author 79% of the time, where random guessing (1 in 6) would get 17%. Almost all of its mistakes are mix-ups between the AI models, not between human and AI.The cool thing about structural features is that you can't simply reword your way out of it. We had each AI model rewrite its own posts until, on average, 73% of their original 13-word sequences were gone, and the AI slop classifier still worked just as well.We're building this into Sitefire: our agents get a structural understanding of text, so the posts they write go deeper and vary the way human writing does.There's a lot we haven't tested yet, like the myriad of humanizer tools, human rewriting, restructuring a post, or prompting an AI model to explicitly avoid these habits. And our human posts are mostly from 2020 to 2022, while the AI posts were generated in August 2026. Structure can't really tell when a human post was written, but it's still not a same-year comparison.We published the study with all the figures on arXiv: https://arxiv.org/abs/2609.15369.\nThe code is on GitHub: https://github.com/pulse-energy-eu/slopshapeWe're pretty sure your own blog isn't AI slop, is it? We built a checker that runs one of your posts through the ten features from the paper, so you can see for yourself (the full report asks for a work email): https://sitefire.ai/slop-checker.Think you can tell AI slop from human writing? We also made a little game to see if you can keep up with our model, which gets all five rounds right: https://sitefire.ai/spot-the-slop.\n\nComments URL: https://news.ycombinator.com/item?id=49800566\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-22T13:00:49+00:00"
     },
     {
       "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
