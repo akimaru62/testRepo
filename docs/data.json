@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T14:41:47.285639+00:00",
+  "generated_at": "2026-09-22T14:51:07.847127+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -410,6 +410,22 @@
       "published": "2026-09-22T14:38:00+00:00"
     },
     {
+      "title": "Oil falls as Saudi Arabia signals East-West pipeline reopening",
+      "link": "https://www.ft.com/content/5b4f8738-3b93-40c8-88d6-08c8ea684e83?syn-25a6b1a6=1",
+      "summary": "Key route for Saudi crude to reach Red Sea has been closed for two weeks following drone strikes",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-22T14:36:04+00:00"
+    },
+    {
+      "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+      "link": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+      "summary": "Article URL: https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy\nComments URL: https://news.ycombinator.com/item?id=49801939\nPoints: 17\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-22T14:30:12+00:00"
+    },
+    {
       "title": "寺山、悔しい３位　アジア大会・フェンシング",
       "link": "https://www.jiji.com/jc/article?k=2026092200680&g=spo&m=rss",
       "summary": "",
@@ -504,6 +520,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-22T13:52:56+00:00"
+    },
+    {
+      "title": "Show HN: Drop – a rootless Linux sandbox with gVisor support",
+      "link": "https://droprun.sh/",
+      "summary": "I created Drop because I always felt uneasy installing and running third-party programs using my main user account. A single compromised dependency means a full compromise of the system. What is even worse, because I ship software from my computer, a single compromised dependency can lead to compromise of all the users of my software.Containers and VMs are one solution, but for local work, they are often detrimental to productivity. It takes effort to configure a machine with all the tools and configs needed for productive work, but a container or a VM will be stripped of all these tools. This is great for production deployments, where the aim is a reproducible system with minimal dependencies, but can get in the way of productive local work.Drop is language independent, but the workflow is inspired by Python's virtualenv. With virtualenv the environment isolation is only a convention that relies on installed dependencies being good citizens. With Drop the isolation is enforced.Each Drop environment gets its own writable and easily disposable home dir, with only selected config files and dirs from the original home mounted, mostly read-only.Drop uses Linux namespaces for isolation (user, mount, network, PID, IPC, cgroup), doesn't require root and, as an option, uses gVisor user-space kernel, which adds protection against exploiting host kernel vulnerabilities to escape the sandbox.I don't want to make the introductory post too lengthy, but I'm here to answer any questions and give any additional technical details.Note: This is my 3rd submission of the project, the first two did not draw attention. Since then I have added support for gVisor and created a project website to better explain the concept and organize documentation.\n\nComments URL: https://news.ycombinator.com/item?id=49801329\nPoints: 19\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-22T13:52:47+00:00"
     },
     {
       "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
@@ -602,6 +626,14 @@
       "published": "2026-09-22T13:05:48+00:00"
     },
     {
+      "title": "Donald Trump addresses world leaders at the UN",
+      "link": "https://www.ft.com/content/16d676c9-94c4-4df1-8fa6-56966b2c9aa7",
+      "summary": "US president to pledge to reshape the world to America’s benefit",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-22T13:05:48+00:00"
+    },
+    {
       "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
       "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
       "summary": "“I draw from my IRA as needed for household repairs, trips and other larger expenses.”",
@@ -637,6 +669,14 @@
       "title": "米ウ首脳会談でエネ施設攻撃停止を協議へ、ルビオ長官が見通し - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVzFuajZEWG9vUEJNV1ZaY2RHWGE3RkphdFRCWTQya0dWdERESThwXzZZZU5lZUUtTUI0Z2I4UVI3MUlUN2VQZDlCSzZ5dWNQMnYzclF1V3RIZjRGYzhQWmxjUllhLUg2Y2N1VzQwNE5KNUNWR3djUl9TTVBEY1ZYTUVGNGc?oc=5",
       "summary": "米ウ首脳会談でエネ施設攻撃停止を協議へ、ルビオ長官が見通し&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-22T12:24:09+00:00"
+    },
+    {
+      "title": "米ウ首脳会談でエネ施設攻撃停止を協議へ、ルビオ長官が見通し - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVzFuajZEWG9vUEJNV1ZaY2RHWGE3RkphdFRCWTQya0dWdERESThwXzZZZU5lZUUtTUI0Z2I4UVI3MUlUN2VQZDlCSzZ5dWNQMnYzclF1V3RIZjRGYzhQWmxjUllhLUg2Y2N1VzQwNE5KNUNWR3djUl9TTVBEY1ZYTUVGNGc?oc=5",
+      "summary": "米ウ首脳会談でエネ施設攻撃停止を協議へ、ルビオ長官が見通し&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-22T12:24:09+00:00"
@@ -1696,6 +1736,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-22T04:28:52.832922+00:00"
+    },
+    {
+      "title": "CYAN.L - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XUE9mMVU5b3Jzc2Vza01QelpFZ0lFNV9zdU9hLUhmRUV2aDF2ekgteGFjZzNNY1p0VDVTZU5ZRDVDNlV5ZTdvbnAyN2JlODlrRUZqZkE2RXhXM0p1TzZRVGlBV2dFM0U2UUdvM3czNnFmVjRIdkE?oc=5",
+      "summary": "CYAN.L - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-22T04:27:13+00:00"
     },
     {
       "title": "Used ThinkPad Buyer's Guide (2019)",
@@ -3341,6 +3389,14 @@
       "title": "7422.t - | Stock Price & Latest News - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yeEsyT0oyMGQ0dEs3NGMzVjVfYi1meUlYWjhNRXdHYWpJbGhUemxCemVvM2VjTENxN1paVlVWZFRueFJwdzJHOHJjN01telRfWmxnQXFfb0YxdkIta2RZcllDQkVRcWg3Mmc?oc=5",
       "summary": "7422.t - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-21T20:38:56+00:00"
+    },
+    {
+      "title": "7422.t - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yeEsyT0oyMGQ0dEs3NGMzVjVfYi1meUlYWjhNRXdHYWpJbGhUemxCemVvM2VjTENxN1paVlVWZFRueFJwdzJHOHJjN01telRfWmxnQXFfb0YxdkIta2RZcllDQkVRcWg3Mmc?oc=5",
+      "summary": "7422.t - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-21T20:38:56+00:00"
