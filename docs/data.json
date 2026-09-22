@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T14:51:07.847127+00:00",
+  "generated_at": "2026-09-22T15:07:51.443952+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -402,6 +402,30 @@
   ],
   "items": [
     {
+      "title": "U.S. Natural Gas Futures Regain Ground",
+      "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-fall-but-mideast-lng-disruptions-limit-downside-74c9d5e5?mod=rss_markets_main",
+      "summary": "U.S. natural gas futures recovered much of Monday’s losses as softening production readings and a pickup in LNG feedgas helped offset declining weather-driven demand.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-22T14:48:00+00:00"
+    },
+    {
+      "title": "OpenAI is about to eat Jev's lunch – Arcturus Labs",
+      "link": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+      "summary": "Article URL: https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/\nComments URL: https://news.ycombinator.com/item?id=49802161\nPoints: 22\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-22T14:42:59+00:00"
+    },
+    {
+      "title": "Jev – a curation of Jev demos on X, tools, skills, and integrations",
+      "link": "https://github.com/Amal-David/awesome-jev",
+      "summary": "Article URL: https://github.com/Amal-David/awesome-jev\nComments URL: https://news.ycombinator.com/item?id=49802160\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-22T14:42:57+00:00"
+    },
+    {
       "title": "European Gas Prices Fall, but Mideast LNG Disruptions Limit Downside",
       "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-fall-but-mideast-lng-disruptions-limit-downside-74c9d5e5?mod=rss_markets_main",
       "summary": "European natural-gas prices fell, but downward pressure is likely to be limited, said Commerzbank.",
@@ -464,6 +488,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-22T14:25:00+00:00"
+    },
+    {
+      "title": "Quantum information spreading via higher-order operator correlators",
+      "link": "https://arxiv.org/abs/2609.05472",
+      "summary": "Article URL: https://arxiv.org/abs/2609.05472\nComments URL: https://news.ycombinator.com/item?id=49801782\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-22T14:22:17+00:00"
     },
     {
       "title": "Brent Remains Below $100 on Improved Supply Prospects",
@@ -536,6 +568,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-22T13:52:15+00:00"
+    },
+    {
+      "title": "Texas police department ordered to close for failing to provide public benefit",
+      "link": "https://www.dallasnews.com/news/texas/article/texas-police-department-ordered-close-state-22434473.php",
+      "summary": "Article URL: https://www.dallasnews.com/news/texas/article/texas-police-department-ordered-close-state-22434473.php\nComments URL: https://news.ycombinator.com/item?id=49801190\nPoints: 31\n# Comments: 11",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-22T13:43:37+00:00"
     },
     {
       "title": "People Training OpenAI's AI Fired for Using AI to Train the AI",
@@ -634,6 +674,14 @@
       "published": "2026-09-22T13:05:48+00:00"
     },
     {
+      "title": "Donald Trump claims to have ‘made peace’ in Middle East in UN address",
+      "link": "https://www.ft.com/content/16d676c9-94c4-4df1-8fa6-56966b2c9aa7",
+      "summary": "US president touted administration’s foreign and domestic achievements",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-22T13:05:48+00:00"
+    },
+    {
       "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
       "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
       "summary": "“I draw from my IRA as needed for household repairs, trips and other larger expenses.”",
@@ -648,6 +696,22 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-22T12:43:00+00:00"
+    },
+    {
+      "title": "Princeton’s 15-year run as the nation’s top college is over. This is the new No. 1 school.",
+      "link": "https://www.marketwatch.com/story/princetons-15-year-run-as-the-nations-top-college-is-over-mit-is-now-no-1-e9f17169?mod=mw_rss_topstories",
+      "summary": "A change in methodology in the U.S. News & World Report rankings helped boost schools whose alumni achieve high earnings.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-22T12:43:00+00:00"
+    },
+    {
+      "title": "What Capital Never Told You About Rent",
+      "link": "https://www.humansontheloop.com/p/rent",
+      "summary": "Article URL: https://www.humansontheloop.com/p/rent\nComments URL: https://news.ycombinator.com/item?id=49800259\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-22T12:38:48+00:00"
     },
     {
       "title": "AI Stock Rally Loses Steam, Oil Prices Fall Below $100",
@@ -2936,6 +3000,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-21T22:50:23+00:00"
+    },
+    {
+      "title": "cx.n - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRmh0dzc0UVAyY1RSWDJ6WUJGdTRQZEV5ZjQ2X2tnLXNOOVBtQU4zcVg4ZFAwR3NQcGN5SXhEUkVnaW5MSGhUNkdSVU53RklXQmh1LThmQWJtaUR4eWdJWkhfd0RVemttSms1WTlNTW9tSnhDN19lZ0tLUkRMQzAxWXZ3?oc=5",
+      "summary": "cx.n - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-21T22:45:54+00:00"
     },
     {
       "title": "コロナ自宅待機1年半で自死 労災",
