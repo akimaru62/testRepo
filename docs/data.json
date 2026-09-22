@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T16:27:44.400329+00:00",
+  "generated_at": "2026-09-22T16:41:16.285087+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -402,6 +402,14 @@
   ],
   "items": [
     {
+      "title": "Anthropic releases cheaper AI model ahead of IPO",
+      "link": "https://www.ft.com/content/0e50a3c6-9731-4b29-a21e-4e0ff89a595e?syn-25a6b1a6=1",
+      "summary": "New Claude model sharpens Anthropic’s pitch to investors ahead of blockbuster listing",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-22T16:31:37+00:00"
+    },
+    {
       "title": "米大統領は中間選挙後にイランと合意すると述べた",
       "link": "https://www.jiji.com/jc/article?k=2026092200768&g=flash&m=rss",
       "summary": "",
@@ -434,6 +442,14 @@
       "published": "2026-09-22T16:27:32.025776+00:00"
     },
     {
+      "title": "Claude Opus 5.5",
+      "link": "https://github.com/anthropics/ClaudeForFoundationModels/commit/5180901338a50bef050d5e9464583753ed3869a3",
+      "summary": "Article URL: https://github.com/anthropics/ClaudeForFoundationModels/commit/5180901338a50bef050d5e9464583753ed3869a3\nComments URL: https://news.ycombinator.com/item?id=49803863\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-22T16:27:30+00:00"
+    },
+    {
       "title": "Could Meta’s viral Muse app be the company’s ChatGPT moment?",
       "link": "https://www.marketwatch.com/story/could-metas-viral-muse-app-be-the-companys-chatgpt-moment-8e7075aa?mod=mw_rss_topstories",
       "summary": "Meta’s new assistant is topping App Store charts and beating ChatGPT’s early download pace, spurring renewed confidence in the company’s AI strategy",
@@ -464,6 +480,22 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-22T16:14:50+00:00"
+    },
+    {
+      "title": "16-bit Intel 8088 chip",
+      "link": "https://allpoetry.com/16-bit-Intel-8088-chip",
+      "summary": "Article URL: https://allpoetry.com/16-bit-Intel-8088-chip\nComments URL: https://news.ycombinator.com/item?id=49803635\nPoints: 19\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-22T16:11:34+00:00"
+    },
+    {
+      "title": "Xbox continues its \"reset\" with dramatic restructuring",
+      "link": "https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/",
+      "summary": "Article URL: https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/\nComments URL: https://news.ycombinator.com/item?id=49803626\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-22T16:10:58+00:00"
     },
     {
       "title": "Sandisk’s stock is rising: Why one analyst says AI could help it reach new heights",
@@ -509,6 +541,14 @@
       "title": "How Meta's Muse works, revealed by the 6.8 GB filesystem it sent me",
       "link": "https://mouse.dev/blog/muse-runtime-export/",
       "summary": "Article URL: https://mouse.dev/blog/muse-runtime-export/\nComments URL: https://news.ycombinator.com/item?id=49802871\nPoints: 18\n# Comments: 9",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-22T15:25:12+00:00"
+    },
+    {
+      "title": "I asked Meta’s Muse for its filesystem and it sent me 6.8GB",
+      "link": "https://mouse.dev/blog/muse-runtime-export/",
+      "summary": "Article URL: https://mouse.dev/blog/muse-runtime-export/\nComments URL: https://news.ycombinator.com/item?id=49802871\nPoints: 125\n# Comments: 65",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-22T15:25:12+00:00"
@@ -586,6 +626,14 @@
       "published": "2026-09-22T14:53:44+00:00"
     },
     {
+      "title": "ＦＲＢの割引窓口、市場の流動性を下支え＝ジェファーソン副議長 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdDMybTZDUFlBM0xWalVjekgtbnFkYVZCclVZRGJCWWRGM2d0Q2ItRWNPTVk0Ui1LMHlVNE1JYTNzalZKVmZibDhYemlXWnZKYXFDWDVFR3dZWDNDWFhTMTNmOGlIUlY3dGNya2Q4dHNNOHJyTmpIYXB0NjV0bUJPRWc2WW4?oc=5",
+      "summary": "ＦＲＢの割引窓口、市場の流動性を下支え＝ジェファーソン副議長&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-22T14:53:44+00:00"
+    },
+    {
       "title": "トランプ氏、国連で米の強さ強調 イラン核保有認めずと再表明 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUkRwelVIMGVGeGx0OXZ4MjZaVmM5d0ZPdUoySmJZellHc2hkYzc1clVkUzdUNGd0NnIyd25DdExJSFZtQ3d6S2h1ZnQ3T1hzaG4xZDN3eTRGNnJrRlRtTl9OSDVzdTJqdjRxZkZscWlobnJibVp6dG0wd211ejFHcThGM2c?oc=5",
       "summary": "トランプ氏、国連で米の強さ強調 イラン核保有認めずと再表明&nbsp;&nbsp;ロイター",
@@ -613,6 +661,14 @@
       "title": "OpenAI is about to eat Jev's lunch – Arcturus Labs",
       "link": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
       "summary": "Article URL: https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/\nComments URL: https://news.ycombinator.com/item?id=49802161\nPoints: 22\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-22T14:42:59+00:00"
+    },
+    {
+      "title": "OpenAI is well positioned to fast-follow Jev",
+      "link": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+      "summary": "Article URL: https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/\nComments URL: https://news.ycombinator.com/item?id=49802161\nPoints: 97\n# Comments: 80",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-22T14:42:59+00:00"
@@ -730,9 +786,25 @@
       "published": "2026-09-22T14:20:10+00:00"
     },
     {
+      "title": "仏、ホルムズ海峡巡り新たな安保理決議案 米と連携し起草着手＝外交筋 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oN05EVlBpeHhfRzBRMlhTVWZWcUpORFJuUV9zVmstT1JQdjF5Umdoc0NJVUZMQ1lIMVd4cDE5WlFPeGNYVmFFQWJLOGJKM05NTGFCSmlIcnNPdlpfN1lfcFIweTNodk55Q3lhOUlpc2pzV09SeDk4c09pMkJRUQ?oc=5",
+      "summary": "仏、ホルムズ海峡巡り新たな安保理決議案 米と連携し起草着手＝外交筋&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-22T14:20:10+00:00"
+    },
+    {
       "title": "米ボストン連銀総裁、先週の利上げ支持 インフレ高止まりリスクを警戒 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc0gzUmdNdGF0cmNNbmdPYjJXdWl0aFRacy1oX2w4VVVpTWFvVWI4NTVfVjZQSUVmQWQ1VGhQYTI5dDh0TkxTOUw5Unl3bnU0VVh1aUVrcHppNkZKUDFtWGVVWklaek1JU1I4VGNHdzFtelNIYWl2VDU3OW84YWIxMUhxcFo?oc=5",
       "summary": "米ボストン連銀総裁、先週の利上げ支持 インフレ高止まりリスクを警戒&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-22T14:12:10+00:00"
+    },
+    {
+      "title": "米ボストン連銀総裁、先週の利上げ支持 インフレ高止まりリスクを警戒 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc0gzUmdNdGF0cmNNbmdPYjJXdWl0aFRacy1oX2w4VVVpTWFvVWI4NTVfVjZQSUVmQWQ1VGhQYTI5dDh0TkxTOUw5Unl3bnU0VVh1aUVrcHppNkZKUDFtWGVVWklaek1JU1I4VGNHdzFtelNIYWl2VDU3OW84YWIxMUhxcFo?oc=5",
+      "summary": "米ボストン連銀総裁、先週の利上げ支持 インフレ高止まりリスクを警戒&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-22T14:12:10+00:00"
