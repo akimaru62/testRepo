@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T17:07:17.021558+00:00",
+  "generated_at": "2026-09-22T17:22:49.326413+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -402,6 +402,38 @@
   ],
   "items": [
     {
+      "title": "米国とデンマーク、グリーンランド自治政府は、グリーンランドの安全保障に関する取り決めに署名した",
+      "link": "https://www.jiji.com/jc/article?k=2026092300039&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-22T17:22:43.696999+00:00"
+    },
+    {
+      "title": "グリーンランド防衛で協定署名　米デンマーク、軍基地増設を容認",
+      "link": "https://www.jiji.com/jc/article?k=2026092300042&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-22T17:22:43.696951+00:00"
+    },
+    {
+      "title": "How to avoid the ‘widow tax’ and other financial headaches if your spouse dies",
+      "link": "https://www.marketwatch.com/story/how-to-avoid-the-widow-tax-and-other-financial-headaches-if-your-spouse-dies-e51f2af6?mod=mw_rss_topstories",
+      "summary": "A surviving spouse is sometimes left with less income and a higher tax bill. These tax-saving strategies can soften the impact.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-22T17:09:00+00:00"
+    },
+    {
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis",
+      "link": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "summary": "Article URL: https://artificialanalysis.ai/models/claude-opus-5-5\nComments URL: https://news.ycombinator.com/item?id=49804316\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-22T16:51:31+00:00"
+    },
+    {
       "title": "Aging may be a program, not a breakdown",
       "link": "https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/",
       "summary": "Article URL: https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/\nComments URL: https://news.ycombinator.com/item?id=49804266\nPoints: 7\n# Comments: 0",
@@ -429,6 +461,14 @@
       "title": "A WordPress vulnerability scored 9.2/10 is present in all versions since 2016",
       "link": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
       "summary": "Article URL: https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp\nComments URL: https://news.ycombinator.com/item?id=49803959\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-22T16:33:45+00:00"
+    },
+    {
+      "title": "WordPress: Unauthenticated path traversal in page-template resolution",
+      "link": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
+      "summary": "Article URL: https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp\nComments URL: https://news.ycombinator.com/item?id=49803959\nPoints: 19\n# Comments: 4",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-22T16:33:45+00:00"
@@ -722,6 +762,14 @@
       "published": "2026-09-22T14:49:45+00:00"
     },
     {
+      "title": "トランプ氏、国連で米の強さ強調 イラン核保有認めずと再表明 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUkRwelVIMGVGeGx0OXZ4MjZaVmM5d0ZPdUoySmJZellHc2hkYzc1clVkUzdUNGd0NnIyd25DdExJSFZtQ3d6S2h1ZnQ3T1hzaG4xZDN3eTRGNnJrRlRtTl9OSDVzdTJqdjRxZkZscWlobnJibVp6dG0wd211ejFHcThGM2c?oc=5",
+      "summary": "トランプ氏、国連で米の強さ強調 イラン核保有認めずと再表明&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-22T14:49:45+00:00"
+    },
+    {
       "title": "U.S. Natural Gas Futures Regain Ground",
       "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-fall-but-mideast-lng-disruptions-limit-downside-74c9d5e5?mod=rss_markets_main",
       "summary": "U.S. natural gas futures recovered much of Monday’s losses as softening production readings and a pickup in LNG feedgas helped offset declining weather-driven demand.",
@@ -733,6 +781,14 @@
       "title": "中国勢の台頭でＥＵ輸出シェア低下、ドイツ製造業に打撃＝ＥＣＢ - ロイター",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObTE3NTR4WTVxeWZEajRFOG5UYkNWUlhoaDk3bm9yZEg4RE1SRG9RUkNvcmtuQ3lqNXdGaEFNX1Y0b2NYTTlPc0dnTC1TbWRubFU5UDYtSzF0Q2VoZmtFaUItbUpNSzc2QWFNdEhtd0JLSFF6MDhfZ2dGeWF2cGt3SlFoRC0?oc=5",
       "summary": "中国勢の台頭でＥＵ輸出シェア低下、ドイツ製造業に打撃＝ＥＣＢ&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-22T14:46:09+00:00"
+    },
+    {
+      "title": "中国勢の台頭でＥＵ輸出シェア低下、ドイツ製造業に打撃＝ＥＣＢ - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObTE3NTR4WTVxeWZEajRFOG5UYkNWUlhoaDk3bm9yZEg4RE1SRG9RUkNvcmtuQ3lqNXdGaEFNX1Y0b2NYTTlPc0dnTC1TbWRubFU5UDYtSzF0Q2VoZmtFaUItbUpNSzc2QWFNdEhtd0JLSFF6MDhfZ2dGeWF2cGt3SlFoRC0?oc=5",
+      "summary": "中国勢の台頭でＥＵ輸出シェア低下、ドイツ製造業に打撃＝ＥＣＢ&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-22T14:46:09+00:00"
@@ -805,6 +861,14 @@
       "title": "ＮＹ連銀総裁、金利誘導の枠組み擁護 市場変化に応じ調整も - ロイター",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1AyUU1aM05Tandhemd3cFhKZEJIWHA0eWxLem10QWZwZklkMHFDYng5U0t6V1QtVUktc3JqUzVMT2RNZGNXX3pRbFVoM0R0SmM1dWFzUl9TSzg2MmZPT1ZqLWV0M0hadjlzMEZVaWVnczZNUHpfbWNuejdaTU9iRG8wcWc?oc=5",
       "summary": "ＮＹ連銀総裁、金利誘導の枠組み擁護 市場変化に応じ調整も&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-22T14:30:26+00:00"
+    },
+    {
+      "title": "ＮＹ連銀総裁、金利誘導の枠組み擁護 市場変化に応じ調整も - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1AyUU1aM05Tandhemd3cFhKZEJIWHA0eWxLem10QWZwZklkMHFDYng5U0t6V1QtVUktc3JqUzVMT2RNZGNXX3pRbFVoM0R0SmM1dWFzUl9TSzg2MmZPT1ZqLWV0M0hadjlzMEZVaWVnczZNUHpfbWNuejdaTU9iRG8wcWc?oc=5",
+      "summary": "ＮＹ連銀総裁、金利誘導の枠組み擁護 市場変化に応じ調整も&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-22T14:30:26+00:00"
@@ -3458,6 +3522,14 @@
       "published": "2026-09-21T22:45:54+00:00"
     },
     {
+      "title": "cx.n - | Stock Price & Latest News - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRmh0dzc0UVAyY1RSWDJ6WUJGdTRQZEV5ZjQ2X2tnLXNOOVBtQU4zcVg4ZFAwR3NQcGN5SXhEUkVnaW5MSGhUNkdSVU53RklXQmh1LThmQWJtaUR4eWdJWkhfd0RVemttSms1WTlNTW9tSnhDN19lZ0tLUkRMQzAxWXZ3?oc=5",
+      "summary": "cx.n - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-21T22:45:54+00:00"
+    },
+    {
       "title": "コロナ自宅待機1年半で自死 労災",
       "link": "https://news.yahoo.co.jp/pickup/6596090?source=rss",
       "summary": "",
@@ -3693,6 +3765,14 @@
       "title": "GRML.O - | Stock Price & Latest News | Reuters - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51ekcwM1BXakZrNzhESVBydHk3X1VCcC1kMTkxVWJKbl9jZDNOVlM1ZnA0a1RxOWtqWjhZbnNJWHhOLXNXcEgtcTdCNWc4dnp2WVZab0o4SVdDQW8?oc=5",
       "summary": "GRML.O - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-21T21:16:12+00:00"
+    },
+    {
+      "title": "GLND.O - | Stock Price & Latest News | Reuters - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzNTdQQV9nZVZTSG5xN1pTTkpaSTFpWTdMbXRvNG1taDh0VC1mVmJDM3R6UVpvU3IxbWVqWjdpeHhHMGlhZzFhdGlBUzRseXdpMTBlMFdFWV9wbmc?oc=5",
+      "summary": "GLND.O - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-21T21:16:12+00:00"
