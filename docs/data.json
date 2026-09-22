@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T16:41:16.285087+00:00",
+  "generated_at": "2026-09-22T16:48:57.953076+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -402,6 +402,22 @@
   ],
   "items": [
     {
+      "title": "Want to retire with more money? Leave the country for work early in your career.",
+      "link": "https://www.marketwatch.com/story/want-to-retire-with-more-money-leave-the-country-for-work-early-in-your-career-7e568d03?mod=mw_rss_topstories",
+      "summary": "Gain experiences, memories and a substantial contribution to your future nest egg.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-22T16:40:00+00:00"
+    },
+    {
+      "title": "Stocks Mixed as Oil Sinks Below $100",
+      "link": "https://www.wsj.com/finance/stocks/ai-stock-rally-loses-steam-oil-prices-turn-negative-e19323a8?mod=rss_markets_main",
+      "summary": "The Nasdaq Composite Index rose modestly as falling oil prices helped U.S. tech stocks stay buoyant.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-22T16:40:00+00:00"
+    },
+    {
       "title": "Anthropic releases cheaper AI model ahead of IPO",
       "link": "https://www.ft.com/content/0e50a3c6-9731-4b29-a21e-4e0ff89a595e?syn-25a6b1a6=1",
       "summary": "New Claude model sharpens Anthropic’s pitch to investors ahead of blockbuster listing",
@@ -472,6 +488,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-22T16:18:13+00:00"
+    },
+    {
+      "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+      "link": "https://ai-rete-rag.com/",
+      "summary": "Hi HN, I built ai·rete·rag because I kept seeing teams put an LLM in charge of decisions that need to be auditable (lending, fraud, clinical triage), then bolt on \"guardrails\" after the fact.It runs the two in series instead:1. A pure-Python Rete engine evaluates YAML rules against your facts. The verdict comes only from here. Same facts, same verdict, every time, with salience-based conflict resolution.\n2. RAG retrieves passages from your own policy documents, and an LLM writes a plain-English explanation of the decision that was already made, citing those passages. It can't change the verdict.A few things that went further than I expected:\n- Rules are a graph, not flat lists: nested all/any/not, and rules can assert facts that other rules consume (forward chaining). The decision trace shows the causal chain.\n- Audit mode records every rule evaluated, including the ones that didn't fire, condition by condition, with a snapshot of the rule set for replay.\n- Rules can steer retrieval (a fired rule narrows which documents get searched), and retrieved text can be turned into facts for the engine.\n- Non-technical authors can build rules in a visual editor, or paste a policy document and get LLM-drafted rules with citations. Drafts are never saved without review. YAML is still there for engineers.The landing page has a live demo with no signup (8 demo domains: loan, fraud, clinical, insurance, legal, ops, e-commerce, blockchain). There's also an MCP server, so Claude and other agents can call /decide as a tool: `uvx ai-rete-rag-mcp`.To be upfront: it's a hosted product with a free tier. The MCP client is open source (MIT, github.com/zaharajabeen13-create/ai-rete-rag-mcp); the engine and platform are not open source right now.I'd especially like to hear from anyone who has had to explain an automated decision to a regulator or an auditor: what did they actually ask for?\n\nComments URL: https://news.ycombinator.com/item?id=49803683\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-22T16:15:06+00:00"
     },
     {
       "title": "Trump threatens to ‘annihilate’ Iran in combative UN speech",
@@ -586,6 +610,14 @@
       "published": "2026-09-22T15:24:42.704847+00:00"
     },
     {
+      "title": "Show HN: InstinctFlash – Run 5B world-action models in real time on Jetson Thor",
+      "link": "https://github.com/General-Instinct/InstinctFlash",
+      "summary": "Hey HN, Guanming here, cofounder of General Instinct. We just released InstinctFlash, a high-performance serving framework for robotics models. It’s licensed under AGPL-3.0.On Jetson Thor, we see speedups about 1.2x to 7.9x from runtime optimizations alone and up to 33.78x for LingBot-VA when we combine those runtime optimizations with a distilled few-step diffusion scheduler, going from the original 25 visual / 50 action steps to 2 / 4 steps. Across 50 Robotwin2.0 tasks, we evaluated 1,153 episodes per configuration, LingBot-VA with InstinctFlash at 2 visual / 4 action steps achieved a 90.5% success rate, compared with 92.1% for the baseline at 25 visual / 50 action steps.Here’s an optimized 5B world action model, running in real time on a Jetson Thor:\nhttps://youtu.be/nku65iyL5FwInstinctFlash currently supports 8 VLA / world-action model families, including pi0.5 and NVIDIA Cosmos Policy, across RTX 4090 / 5090 and Jetson Thor.Just give it your fine-tuned checkpoint and InstinctFlash handles the rest, exposing the accelerated model through a Python runtime or an OpenPI-compatible WebSocket server.We started working on this because we kept running into the same problem while deploying robot policies, the models were getting much better, but inference was often way too slow for the control loop we actually wanted.For pi0.5, mixed-precision GEMMs and CUDA graphs speed up computation and reduce launch overhead. For Cosmos, caching avoids redundant computation across diffusion steps. World-action models’ diffusion denoising step depends on the previous one which motivated our work on few-step distillation.Right now, InstinctFlash contains 6 aspects of optimization.- Graph: CUDA graph capture, memory planning and separating prefill from repeated execution.- Cache: Reusing KV and conditioning state across diffusion steps and prediction calls.- Attention: Specialized attention paths for different model architectures.- Kernels: Fused operations and kernels tailored to specific backends and tensor layouts.- Precision: FP8 and mixed-precision execution.- Model: Few-step distillation for diffusion and action generation.Teams at Samsung, Siemens, and other robotics startups have used InstinctFlash for model acceleration on VLAs, WAMs, and diffusion-based world models. Now we are opening up access to you.Feel free to try it here:\nhttps://github.com/General-Instinct/InstinctFlashMore implementation details and benchmarks:\nhttps://general-instinct.com/blog/instinctflash-edge-inferen...Would love to hear your feedback!\n\nComments URL: https://news.ycombinator.com/item?id=49802789\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-22T15:20:06+00:00"
+    },
+    {
       "title": "EU to lift sanctions on two Russian oligarchs",
       "link": "https://www.ft.com/content/760091dd-20be-4152-aa0d-561475a99ee8?syn-25a6b1a6=1",
       "summary": "Mikhail Fridman and Alisher Usmanov removed from bloc’s list under deal to extend curbs for three years",
@@ -677,6 +709,14 @@
       "title": "Jev – a curation of Jev demos on X, tools, skills, and integrations",
       "link": "https://github.com/Amal-David/awesome-jev",
       "summary": "Article URL: https://github.com/Amal-David/awesome-jev\nComments URL: https://news.ycombinator.com/item?id=49802160\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-22T14:42:57+00:00"
+    },
+    {
+      "title": "Jev – A curation of Jev demos on X, tools, skills, and integrations",
+      "link": "https://github.com/Amal-David/awesome-jev",
+      "summary": "Article URL: https://github.com/Amal-David/awesome-jev\nComments URL: https://news.ycombinator.com/item?id=49802160\nPoints: 75\n# Comments: 21",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-22T14:42:57+00:00"
