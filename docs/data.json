@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T20:48:02.683682+00:00",
+  "generated_at": "2026-09-22T21:06:49.515554+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -402,6 +402,46 @@
   ],
   "items": [
     {
+      "title": "米国株式市場＝ナスダック連日最高値、ＡＩ関連株高で 米中首脳会談に注目 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdlVFQjVnSVZRSjFlcjFqVFpXM2UxdS1SMkZKcXVKVzVtVTAwY0JfOFppSENPMFhQalNZcXJ6VDIyeDhWY0JxR29GS21lMXE4VFhUNnRfbFVWY3BFZjJlbEJqZXBLbFJlWmZqeVBQTHZnV2tkS1VkeW1ZQTFIZ2pEV1NsTEw?oc=5",
+      "summary": "米国株式市場＝ナスダック連日最高値、ＡＩ関連株高で 米中首脳会談に注目&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-22T21:01:50+00:00"
+    },
+    {
+      "title": "Why Apple could soon join Nvidia in the exclusive $5 trillion club",
+      "link": "https://www.marketwatch.com/story/why-apple-could-soon-join-nvidia-in-the-exclusive-5-trillion-club-4e7724e7?mod=mw_rss_topstories",
+      "summary": "A new foldable iPhone and a disciplined AI-spending approach have sent Apple shares to new highs this year",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-22T20:54:00+00:00"
+    },
+    {
+      "title": "ニトリ元社長が助言､年中無休･夜9時まで診療する異色のクリニックが覆す医療の常識 ｢コンビニのように使ってほしい｣ | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958264?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "日本の医療現場が厳しさを増す中､八王子市に365日対応の総合クリニックが誕生します。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-22T20:50:00+00:00"
+    },
+    {
+      "title": "Meta’s Muse Comes for Financial Stocks",
+      "link": "https://www.wsj.com/finance/investing/metas-muse-comes-for-financial-stocks-17bdf11a?mod=rss_markets_main",
+      "summary": "The rapid adoption of the new artificial-intelligence agent threatens to disrupt wealth managers, brokerages and insurers.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-22T20:47:00+00:00"
+    },
+    {
+      "title": "Want to retire with more money? Leave the U.S. early in your career — and then come back.",
+      "link": "https://www.marketwatch.com/story/want-to-retire-with-more-money-leave-the-country-for-work-early-in-your-career-7e568d03?mod=mw_rss_topstories",
+      "summary": "Gain experiences, memories and a substantial contribution to your future nest egg.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-22T20:46:00+00:00"
+    },
+    {
       "title": "『ダ･ヴィンチ』は休刊､『ダイヤモンド』は紙発行終了へ､雑誌市場は約30年で1/4まで衰退…｢底なし不況｣が広げる波紋 | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/958435?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "名門雑誌が次々と休刊へ追い込まれる出版業界。スマホの普及で､情報をネットで即時に取得できるようになったことが響いています。雑誌市場の衰退により､出版社･書店･卸業者の明暗が鮮明に。出口なき出版不況の…",
@@ -459,6 +499,14 @@
     },
     {
       "title": "Nasdaq 100 hits new high as ‘AI Fomo’ returns",
+      "link": "https://www.ft.com/content/2c60812b-77b4-4de5-a276-5e3eb2ceb5c3?syn-25a6b1a6=1",
+      "summary": "Tech-heavy index recovers from summer sell-off",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-22T20:28:13+00:00"
+    },
+    {
+      "title": "Nasdaq 100 rises to new high as ‘AI Fomo’ returns",
       "link": "https://www.ft.com/content/2c60812b-77b4-4de5-a276-5e3eb2ceb5c3?syn-25a6b1a6=1",
       "summary": "Tech-heavy index recovers from summer sell-off",
       "source": "Financial Times",
@@ -1832,6 +1880,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-22T13:05:48+00:00"
+    },
+    {
+      "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+      "link": "https://benchmarkheaven.com/jev-models",
+      "summary": "Hi HN! I built JevBench because Jev kicks ass, and the world deserves to know how the serious open source and fake lookalike projects really perform in comparison.Jev-class models return bounded choices and probabilities instead of text, and are disruptively faster and cheaper than LLMs, while being similarly intelligent on the text input they operate on.JevBench allows looking at accuracy, latency and price all at once, in a weighted way - you can even configure the weighting.A full run asks 534 English decisions. The v1.3 score combines chance-corrected Intelligence, Calibration, Speed and Cost.Leaderboard right now:  #1 - Jev            74.4\n  #2 - SemIf          73.1\n  #3 - djev           73.0\n  #4 - Winnow-12B Q8  71.2\n  #5 reflex 4B        70.3.\n\nMIT harness, public items, frozen artifacts, scoring code and public per-task outcomes:https://github.com/fstandhartinger/jevbenchTwo no-signup demos:https://who-is-right.app.mintapis.comhttps://is-it-ai-slop.app.mintapis.comLimitations: English-only; latency from one German server; local/demo latency gets a disclosed ×2 adjustment (+150 ms on my servers) which is an informed assumption; held-out prompts still reach evaluated services; ~1-point gaps can be noise.Wdyt?\n\nComments URL: https://news.ycombinator.com/item?id=49800574\nPoints: 25\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-22T13:01:03+00:00"
     },
     {
       "title": "Training a model to identify AI-generated web content from structure alone",
