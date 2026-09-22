@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T03:45:38.165144+00:00",
+  "generated_at": "2026-09-22T04:09:22.996470+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -394,9 +394,29 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f8b11768c20>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://www3.nhk.or.jp/rss/news/cat5.xml",
+      "error": "HTTPSConnectionPool(host='www3.nhk.or.jp', port=443): Read timed out. (read timeout=15)"
     }
   ],
   "items": [
+    {
+      "title": "Princeton’s 15-year run as the nation’s top college is over. MIT is now No. 1.",
+      "link": "https://www.marketwatch.com/story/princetons-15-year-run-as-the-nations-top-college-is-over-mit-is-now-no-1-e9f17169?mod=mw_rss_topstories",
+      "summary": "A change in methodology in the U.S. News rankings helped boost schools where students have high earnings",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-22T04:02:00+00:00"
+    },
+    {
+      "title": "落ち込み､イライラ､不安定な感情…40代を苦しめる｢ミッドライフクライシス｣の要因《海馬の萎縮》を止める運動法 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957008?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "脳の記憶や感情を司る｢海馬｣は､加齢とともに萎縮しますが､運動によって成長し続けることが可能です。有酸素運動や団体スポーツは脳を活性化し､自己価値やコントロール力も高めてくれます。あなたも今日から始…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-22T04:00:00+00:00"
+    },
     {
       "title": "２１日の日本選手　米大リーグ",
       "link": "https://www.jiji.com/jc/article?k=2026092200239&g=spo&m=rss",
@@ -417,6 +437,14 @@
       "title": "ＮＢＡ＝18年間プレーのバトゥームが引退、フランス代表では五輪銀 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa0hTLWZySnJrcGU3Nktzd0hGcXE0bnZON3BtQ09DVnlYMjdPUE5NQV8zTnRTZndSZ08wUzVlcHMyM19OdU1nWndhWEFzZG9LMXY4OEhCMVJ5RzNYbUFHeDhheHN0U0hZU3pNb1BKMUJiRVl0bUZvaWNzdlZ6aGwwd3FB?oc=5",
       "summary": "ＮＢＡ＝18年間プレーのバトゥームが引退、フランス代表では五輪銀&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-22T03:27:43+00:00"
+    },
+    {
+      "title": "ＮＢＡ＝18年間プレーのバトゥームが引退、フランス代表では五輪銀 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa0hTLWZySnJrcGU3Nktzd0hGcXE0bnZON3BtQ09DVnlYMjdPUE5NQV8zTnRTZndSZ08wUzVlcHMyM19OdU1nWndhWEFzZG9LMXY4OEhCMVJ5RzNYbUFHeDhheHN0U0hZU3pNb1BKMUJiRVl0bUZvaWNzdlZ6aGwwd3FB?oc=5",
+      "summary": "ＮＢＡ＝18年間プレーのバトゥームが引退、フランス代表では五輪銀&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-22T03:27:43+00:00"
@@ -446,6 +474,14 @@
       "published": "2026-09-22T03:00:00+00:00"
     },
     {
+      "title": "Smart Ring Maker Oura, Backers Seek $2.2B in US IPO",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-21/smart-ring-maker-oura-backers-seek-2-2-billion-in-us-ipo",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-21/smart-ring-maker-oura-backers-seek-2-2-billion-in-us-ipo\nComments URL: https://news.ycombinator.com/item?id=49796292\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-22T02:53:48+00:00"
+    },
+    {
       "title": "修繕費計5億円超 観光施設閉園へ",
       "link": "https://news.yahoo.co.jp/pickup/6596120?source=rss",
       "summary": "",
@@ -473,6 +509,14 @@
       "title": "ロ・ウクライナのエネルギー停戦巡りトランプ氏と協議＝仏大統領 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQXcwQVM0LTNJbWFsWF9XT3BXT05aaHhFeTc3M1prQ1ZxdWxCSWpsN3N5cHNNVjVXNjZrZFViSTU5aUVSamFpUGRVeGc1clRoS0J4REVZeFhkLUh1OGo0dG9hUjRrMWVRNEM1Y0czM2ZwVWdDeDNsNjZ4dHRpTDE4Sl9tZVc?oc=5",
       "summary": "ロ・ウクライナのエネルギー停戦巡りトランプ氏と協議＝仏大統領&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-22T02:26:00+00:00"
+    },
+    {
+      "title": "ロ・ウクライナのエネルギー停戦巡りトランプ氏と協議＝仏大統領 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQXcwQVM0LTNJbWFsWF9XT3BXT05aaHhFeTc3M1prQ1ZxdWxCSWpsN3N5cHNNVjVXNjZrZFViSTU5aUVSamFpUGRVeGc1clRoS0J4REVZeFhkLUh1OGo0dG9hUjRrMWVRNEM1Y0czM2ZwVWdDeDNsNjZ4dHRpTDE4Sl9tZVc?oc=5",
+      "summary": "ロ・ウクライナのエネルギー停戦巡りトランプ氏と協議＝仏大統領&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-22T02:26:00+00:00"
@@ -518,6 +562,14 @@
       "published": "2026-09-22T02:02:00+00:00"
     },
     {
+      "title": "韓国大統領、米に北朝鮮制裁の緩和要請 核開発凍結と引き換え＝米紙 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WLU50RnkzTWRyb09kb0l6TmU0UnFyNmNoVFkyMEZzczhRSHZxTjFmb1dGOXhKZjhvYmRoRkR0MFQ2Zy1oTlRERmwzQWxEVEg0WS0xUFlQVEt1YUI5dDU2bnFWWkU1SjNwSkV5VVBwdFJMSFJpeC14VVVoMm5sQQ?oc=5",
+      "summary": "韓国大統領、米に北朝鮮制裁の緩和要請 核開発凍結と引き換え＝米紙&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-22T02:02:00+00:00"
+    },
+    {
       "title": "｢かわいすぎる台湾チア｣に異変？日本型応援から韓国型エンタメへ､球場を席巻する韓国人チアと若者文化の｢韓流化｣ | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/958271?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "台湾プロ野球の試合を彩るチアリーダーたち。チアリーダー文化は､日本式の応援を基盤に韓国のエンタメ性を融合し､ダンスやSNSで若者の支持を集める新たな象徴へ進化しました。日韓の影響が交錯する舞台裏に､…",
@@ -534,9 +586,25 @@
       "published": "2026-09-22T01:55:00+00:00"
     },
     {
+      "title": "紅海での船舶保護任務、軍艦10隻超必要＝ＥＵ外相 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2pCZURCMTVOWjZyRjVPajBpUnRSVm5hYXVqV2NzY0VfbnJnWjNuUy15MzlBSEY0RXowLVQ2Z3BHWWVwa3c2NmdPM2QzUmNxT3hjc2xja0U4R0FSNGU4WU5EdldHME1meUptazlWekRRNWFLN3RZQXM3UlpCel80N1hPQzd5QQ?oc=5",
+      "summary": "紅海での船舶保護任務、軍艦10隻超必要＝ＥＵ外相&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-22T01:55:00+00:00"
+    },
+    {
       "title": "ＭＬＢ＝崖っぷちのブルージェイズ、ゲレロが腰の張りでスタメン外れる - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdk5YZVJJRVZiemtaZWozM0V1TUs1U2F6NFMtVHJ0c0hyOWh5Mi04M2t2NDZHU3l3bUNYb2FrSmtDN0JiSVg4d09zMVpvSGVKclNKYzVDdDJKbzRTQUkxb3VoTS1iRHdHMFhVbU5ldk1pZnpPZDlfZjQ2V3NLZTE0UmRB?oc=5",
       "summary": "ＭＬＢ＝崖っぷちのブルージェイズ、ゲレロが腰の張りでスタメン外れる&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-22T01:45:00+00:00"
+    },
+    {
+      "title": "ＭＬＢ＝崖っぷちのブルージェイズ、ゲレロが腰の張りでスタメン外れる - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdk5YZVJJRVZiemtaZWozM0V1TUs1U2F6NFMtVHJ0c0hyOWh5Mi04M2t2NDZHU3l3bUNYb2FrSmtDN0JiSVg4d09zMVpvSGVKclNKYzVDdDJKbzRTQUkxb3VoTS1iRHdHMFhVbU5ldk1pZnpPZDlfZjQ2V3NLZTE0UmRB?oc=5",
+      "summary": "ＭＬＢ＝崖っぷちのブルージェイズ、ゲレロが腰の張りでスタメン外れる&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-22T01:45:00+00:00"
@@ -606,6 +674,14 @@
       "published": "2026-09-22T01:18:00+00:00"
     },
     {
+      "title": "米テキサス州、データセンター新規許可を停止 電力網監査完了まで - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsOWdoVkdydktWcEJ6bzQ3cUloekcxWklnX1JxNW9mdWpJc0NLam9fTjRvampteEV6YmM5WHpJZlJmeEtBRlpYMDkxRHhIWlpHZHhFTjE1cWdzWloydzZOUkthSnZMaUtoNTVwUjlCaDRBa1dRQllLUUk2ZFc?oc=5",
+      "summary": "米テキサス州、データセンター新規許可を停止 電力網監査完了まで&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-22T01:18:00+00:00"
+    },
+    {
       "title": "Claude Status – Elevated errors for multiple models",
       "link": "https://status.claude.com/incidents/7g1qpkyz5gxh",
       "summary": "Article URL: https://status.claude.com/incidents/7g1qpkyz5gxh\nComments URL: https://news.ycombinator.com/item?id=49795579\nPoints: 20\n# Comments: 11",
@@ -625,6 +701,14 @@
       "title": "豪中銀、追加利上げ必要も インフレ定着を懸念＝ハンター総裁補 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSWhXdFZBMXJWY3lka25rNnFIYmpXLW1hekRKLVd5SGt0d0I0MmNhWGVfYkJaMkR2cnkxbzdlZzFaMy03ZzNqNUVJNGdib2xPTEpTQzQzVTZmeWVDc0d6M01tV2VhdXYwc1R5YlZGY1hIN3otdWsxTzVobThOVllSSVdRWGs?oc=5",
       "summary": "豪中銀、追加利上げ必要も インフレ定着を懸念＝ハンター総裁補&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-22T01:05:00+00:00"
+    },
+    {
+      "title": "豪中銀、追加利上げ必要も インフレ定着を懸念＝ハンター総裁補 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSWhXdFZBMXJWY3lka25rNnFIYmpXLW1hekRKLVd5SGt0d0I0MmNhWGVfYkJaMkR2cnkxbzdlZzFaMy03ZzNqNUVJNGdib2xPTEpTQzQzVTZmeWVDc0d6M01tV2VhdXYwc1R5YlZGY1hIN3otdWsxTzVobThOVllSSVdRWGs?oc=5",
+      "summary": "豪中銀、追加利上げ必要も インフレ定着を懸念＝ハンター総裁補&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-22T01:05:00+00:00"
@@ -665,6 +749,14 @@
       "title": "サッカー＝エムバペ、仏代表でジダン監督の指揮受けるのは「映画のよう」 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQm9laEV3UjA3UjMxTUZyZ0lhOWs2MjJ4UUEyODdwS1N5ODlkWkNwcmJUY2djMVFKMkxDWW9jRUhHM1pxNENsNlkyQjcyVHFoQmIxYUVuRVREbFFXUllPOHh2VExST0JvbWN5TVVMVHF2cFBERzlvVXZaSDN6VmV6VDZR?oc=5",
       "summary": "サッカー＝エムバペ、仏代表でジダン監督の指揮受けるのは「映画のよう」&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-22T00:44:41+00:00"
+    },
+    {
+      "title": "サッカー＝エムバペ、仏代表でジダン監督の指揮受けるのは「映画のよう」 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQm9laEV3UjA3UjMxTUZyZ0lhOWs2MjJ4UUEyODdwS1N5ODlkWkNwcmJUY2djMVFKMkxDWW9jRUhHM1pxNENsNlkyQjcyVHFoQmIxYUVuRVREbFFXUllPOHh2VExST0JvbWN5TVVMVHF2cFBERzlvVXZaSDN6VmV6VDZR?oc=5",
+      "summary": "サッカー＝エムバペ、仏代表でジダン監督の指揮受けるのは「映画のよう」&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-22T00:44:41+00:00"
@@ -1089,6 +1181,14 @@
       "title": "MPWR.O - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56R2t2dEJTWEl6Nmtkb0hRQzBqQWplZFJSdTg0eGs5emtXaFBqYWlubVI3cHVVcDhoS1JueG9UN2FlN1RVTWNpMTllY2pSZDZCQTFkQWZFdnE3UFIwNTM0bkVaSlhXbkpjTTVBSk5ESFJFUHVu?oc=5",
       "summary": "MPWR.O&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-21T22:50:23+00:00"
+    },
+    {
+      "title": "MPWR.O - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56R2t2dEJTWEl6Nmtkb0hRQzBqQWplZFJSdTg0eGs5emtXaFBqYWlubVI3cHVVcDhoS1JueG9UN2FlN1RVTWNpMTllY2pSZDZCQTFkQWZFdnE3UFIwNTM0bkVaSlhXbkpjTTVBSk5ESFJFUHVu?oc=5",
+      "summary": "MPWR.O&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-21T22:50:23+00:00"
@@ -1577,6 +1677,14 @@
       "title": "Xiaomi MiMo v2.6",
       "link": "https://mimo.xiaomi.com/mimo-v2-6",
       "summary": "Article URL: https://mimo.xiaomi.com/mimo-v2-6\nComments URL: https://news.ycombinator.com/item?id=49792730\nPoints: 54\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-21T20:12:12+00:00"
+    },
+    {
+      "title": "MiMo v2.6",
+      "link": "https://mimo.xiaomi.com/mimo-v2-6",
+      "summary": "Article URL: https://mimo.xiaomi.com/mimo-v2-6\nComments URL: https://news.ycombinator.com/item?id=49792730\nPoints: 634\n# Comments: 316",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-21T20:12:12+00:00"
