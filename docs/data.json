@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T21:33:49.370695+00:00",
+  "generated_at": "2026-09-22T21:48:22.949509+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -398,15 +398,43 @@
     {
       "url": "https://www3.nhk.or.jp/rss/news/cat5.xml",
       "error": "HTTPSConnectionPool(host='www3.nhk.or.jp', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f68ed025010>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "The Nasdaq’s rapid rise to a record is sending a message to investors: Don’t wait for a pullback to buy",
+      "link": "https://www.marketwatch.com/story/the-nasdaqs-rapid-rise-to-a-record-is-sending-a-message-to-investors-dont-wait-for-a-pullback-to-buy-5f533ed8?mod=mw_rss_topstories",
+      "summary": "Some analysts say the upbeat data on the Nasdaq’s outlook is backed up by improving fundamentals.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-22T21:44:00+00:00"
+    },
+    {
+      "title": "Trump Threatens Iran’s ‘Annihilation’ in U.N. Speech",
+      "link": "https://www.wsj.com/politics/policy/trump-threatens-irans-annihilation-in-u-n-speech-08b4921d?mod=rss_markets_main",
+      "summary": "Plus, a GOP senator calls for a Don Jr. probe and higher education looks to adapt.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-22T21:44:00+00:00"
+    },
     {
       "title": "WSJ Dollar Index Rises 0.04% to 96.23",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-on-hopes-for-u-s-iran-negotiations-95e21ec2?mod=rss_markets_main",
       "summary": "The WSJ Dollar Index edged higher — up six of the past seven trading days.",
       "source": "WSJ マーケット",
       "category": "海外金融",
+      "published": "2026-09-22T21:30:00+00:00"
+    },
+    {
+      "title": "映画『八つ墓村』新作公開で再注目…｢田治見家｣｢八つ墓明神｣など横溝ミステリーが《岡山県で撮影され続ける》ワケ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958787?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "昭和の名作『八つ墓村』が映画として新たに甦る今年､物語の舞台･岡山県が再注目されています。なぜ横溝作品は岡山と深い縁があるのか､その魅力の核心に迫ります。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
       "published": "2026-09-22T21:30:00+00:00"
     },
     {
@@ -534,6 +562,22 @@
       "link": "https://toyokeizai.net/articles/-/957805?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "不登校の児童生徒数が毎年過去最多を更新する中､神奈川県葉山町では｢年間30日欠席｣という数字にとらわれず､一人ひとりの実態や｢つながり｣に着目した支援を行っています。",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-22T21:00:00+00:00"
+    },
+    {
+      "title": "国道にも「レア度」がある？　ゼンリンのトレカ、初回限定版は約10分で完売",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/23/news009.html",
+      "summary": "ゼンリンが全国の一般国道をテーマにしたトレーディングカードを発売した。総延長距離でレア度が変わり、海上区間や空港を起点とする路線も収録。初回限定版は約10分で完売した。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-09-22T21:00:00+00:00"
+    },
+    {
+      "title": "「返信忘れてた……」　メールの“うっかり放置”を減らす「Gemini Spark」活用術【実際のプロンプト紹介】",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/23/news002.html",
+      "summary": "メールには目を通したものの、そのまま返信や必要な対応を忘れてしまうことがあります。AIで防止する方法はありますか？",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-09-22T21:00:00+00:00"
     },
