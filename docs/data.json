@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T20:08:24.500742+00:00",
+  "generated_at": "2026-09-23T20:25:54.737809+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -418,6 +418,30 @@
   ],
   "items": [
     {
+      "title": "What’s behind Royal Caribbean’s ‘highly surprising’ push into Sandals vacation resorts",
+      "link": "https://www.marketwatch.com/story/whats-behind-royal-caribbeans-highly-surprising-push-into-sandals-vacation-resorts-4835acc9?mod=mw_rss_topstories",
+      "summary": "Royal Caribbean plans to take a 50% stake in Sandals, a move that gives the cruise line access to wealthier customers.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-23T20:24:00+00:00"
+    },
+    {
+      "title": "Record-breaking diesel prices are poised to hit grocery prices, with fruits, vegetables and meat first on the list",
+      "link": "https://www.marketwatch.com/story/record-breaking-diesel-prices-look-set-to-push-grocery-bills-even-higher-and-thanksgiving-is-getting-closer-178d3959?mod=mw_rss_topstories",
+      "summary": "Rising diesel prices have been a “silent killer” for Americans’ wallets — but they could get louder soon, as prices for the fuel continue to shatter records.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-23T20:22:00+00:00"
+    },
+    {
+      "title": "U.S. Stocks Drop as Treasury Yields Surge",
+      "link": "https://www.wsj.com/finance/investing/u-s-stocks-drop-as-treasury-yields-surge-e5fdcfaf?mod=rss_markets_main",
+      "summary": "Stocks fell as the 10-year Treasury yield jumped back over 5% to the highest level since 2007.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-23T20:18:00+00:00"
+    },
+    {
       "title": "Ten-Year Treasury Yield Reaches 19-Year High Amid Broad Bonds Selloff",
       "link": "https://www.wsj.com/finance/investing/ten-year-treasury-yield-reaches-19-year-high-amid-broad-bonds-selloff-087132fb?mod=rss_markets_main",
       "summary": "The 10-year benchmark, which has a broad impact on borrowing costs across the economy, rose as high as 5.14%, an intraday level last seen in July 2007.",
@@ -426,12 +450,44 @@
       "published": "2026-09-23T20:05:00+00:00"
     },
     {
+      "title": "Rosneft billions fed Kremlin-backed money laundering network",
+      "link": "https://www.ft.com/content/fb42c5dd-1550-402c-8881-49a3902710a0?syn-25a6b1a6=1",
+      "summary": "FT investigation shows the state oil group’s hard currency was at heart of Russia’s efforts to circumvent sanctions",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-23T20:00:08+00:00"
+    },
+    {
+      "title": "文系･理系の学生が選んだ｢就職人気企業ランキング｣……就活生1万3000人が投票した結果 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958883?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "就活生1.3万人のリアルな声をもとに､文系･理系それぞれの人気企業ランキングが明らかに。上位に入った企業とは？",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-23T20:00:00+00:00"
+    },
+    {
       "title": "Oil Futures Pick Up After Losing Streak",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-mideast-developments-remain-in-focus-9a5a30e4?mod=rss_markets_main",
       "summary": "Oil futures settled higher following five sessions of losses, with WTI rising 1.8% to $92.16 a barrel and Brent up 3.9% to $103.08 a barrel.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-23T19:58:00+00:00"
+    },
+    {
+      "title": "Anthropic’s Dario Amodei calls for ‘narrow’ AI safety agreements",
+      "link": "https://www.ft.com/content/31a27312-8032-4957-be69-ba32561e8db3",
+      "summary": "Head of one of US’s top artificial intelligence companies calls for common model testing standards and a notification system for internationally significant AI incidents",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-23T19:57:38+00:00"
+    },
+    {
+      "title": "DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why",
+      "link": "https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/",
+      "summary": "Article URL: https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/\nComments URL: https://news.ycombinator.com/item?id=49821608\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-23T19:55:14+00:00"
     },
     {
       "title": "Record-breaking diesel prices look set to push grocery bills even higher — and Thanksgiving is getting closer",
@@ -520,6 +576,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-23T19:19:00+00:00"
+    },
+    {
+      "title": "Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes",
+      "link": "https://www.forensicdbg.com",
+      "summary": "Hello HN!I've spent years debugging Windows crashes with tools that were either friendly but limited (e.g. Visual Studio) or powerful but archaic (e.g. WinDbg). I developed patterns and methods for understanding what was going on, and decided to build it into a much more effective debugging tool called ForensicDbg.I built a modern interface to minimize the friction when debugging. All of the data shown to you is analyzed, interpreted, and presented to you clearly, so you can focus on what matters. Everything is interlinked so you can quickly and intuitivly navigate through the process space.ForensicDbg comes with an MCP server which allows for agenic debugging. The work done to interpret and interlink your data also benefits AI tools. It removes the risk of hallucinations while building a stable foundation for them to work from without spending tokens.If you want to try it out you can sign up and get a free beta license here: https://www.forensicdbg.com/beta\n\nComments URL: https://news.ycombinator.com/item?id=49821086\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-23T19:15:55+00:00"
     },
     {
       "title": "Israeli election committee bars main Arab parties from next month’s poll",
@@ -720,6 +784,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-23T17:06:16+00:00"
+    },
+    {
+      "title": "Dramatic eviction spotlights Spain's housing crisis - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSDVhTlUxY1ZNT3MtbV9tU1pQbXZYVXVhaW5CSm9HV0lqN29rUC1jV2VJTVJwTmMzVXpqSTZoa21RTWtHaHVjRHdmXzZMR19Bbi1mYl93eDloNWdXV0ozdXhVblFta1JJLURTby1fd0s5NTVNVHMyYzdHTjBDVkNFcXlMNWVmblFYZzNpNlpoWXdER09IY1BVaXBR?oc=5",
+      "summary": "Dramatic eviction spotlights Spain's housing crisis&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-23T17:05:00+00:00"
     },
     {
       "title": "2483.t - | Stock Price & Latest News - ロイター",
