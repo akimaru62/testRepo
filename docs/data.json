@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T04:53:38.750333+00:00",
+  "generated_at": "2026-09-23T05:08:04.048256+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -402,9 +402,37 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f68ed025010>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "米中首脳会談、AI焦点　増す「暴走」懸念、安全確保へ歩み寄れるか",
+      "link": "https://www.asahi.com/articles/ASV9Q2C65V9QUHBI00SM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-23T05:07:51.856425+00:00"
+    },
+    {
+      "title": "子どもの睡眠不足は近視にも影響する？ 目の成長を守るための｢外遊び｣と､親としての正しい対処法 | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/955748?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "子どもの睡眠不足が目の健康や近視にも影響することをご存じでしょうか。外遊びや安定した睡眠が､成長段階の目を守るカギとなります。遺伝だけではない近視の原因や､親ができる具体的な対策について専門家が語り…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-23T05:00:00+00:00"
+    },
+    {
+      "title": "Oil price on track for longest losing streak in more than 12 months",
+      "link": "https://www.ft.com/content/0a5a5b70-adea-40af-9933-1f7679f9f359?syn-25a6b1a6=1",
+      "summary": "Brent crude falls below $99 a barrel in Asian trading amid talks over Middle East conflict",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-23T04:42:39+00:00"
+    },
     {
       "title": "原潜、造船など協力深化　米韓首脳が会談",
       "link": "https://www.jiji.com/jc/article?k=2026092300359&g=int&m=rss",
@@ -441,6 +469,14 @@
       "title": "China reviews dependence on Broadcom switches in data centres",
       "link": "https://www.ft.com/content/b97dde39-7813-4a51-8176-3699e2a468b1?syn-25a6b1a6=1",
       "summary": "Survey comes amid drive to boost domestic players and reduce reliance on foreign AI infrastructure",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-23T04:00:19+00:00"
+    },
+    {
+      "title": "Nvidia-backed Nscale buried ByteDance deal in push to $35bn IPO",
+      "link": "https://www.ft.com/content/d1090476-7be6-4bba-ae2a-f417499e820a?syn-25a6b1a6=1",
+      "summary": "Chinese tech giant was AI cloud provider’s largest customer last year but is not prominently named in pitch to stock market investors",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-23T04:00:19+00:00"
