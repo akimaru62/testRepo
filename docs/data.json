@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T20:36:48.569439+00:00",
+  "generated_at": "2026-09-23T20:47:40.213898+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -418,12 +418,36 @@
   ],
   "items": [
     {
+      "title": "Fewer stocks are carrying the market than at any time since the dot-com peak",
+      "link": "https://www.marketwatch.com/story/fewer-stocks-are-carrying-the-market-than-at-any-time-since-the-dot-com-peak-4033c4bb?mod=mw_rss_topstories",
+      "summary": "The S&amp;P 500’s latest trip back to near-record territory has been powered by a surprisingly small number of stocks.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-23T20:45:00+00:00"
+    },
+    {
       "title": "Treasury Yields Resume Their Rise",
       "link": "https://www.wsj.com/finance/stocks/treasury-yields-resume-their-rise-f1717b38?mod=rss_markets_main",
       "summary": "Plus, oil’s streak ends and McDonald’s outlines a spending plan",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-23T20:33:00+00:00"
+    },
+    {
+      "title": "《ゆっくりコロリ》2000人を看取った在宅緩和ケア医が語る\"理想の最期\"…自宅で穏やかに天寿を全うするための｢3要点｣ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958786?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "がん治療の最前線から在宅緩和ケア医へ転身し､2000人以上の最期に寄り添ってきた萬田緑平氏。｢ピンピンコロリ｣ではなく､痛みを抑え穏やかに寿命を全うする｢ゆっくりコロリ｣こそ理想の死だと提唱します。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-23T20:31:00+00:00"
+    },
+    {
+      "title": "健康で長生きするほど《｢ピンピンコロリ｣は99％失敗する》？　2000人を看取った在宅緩和ケア医が明かす\"死に際の真実\" | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958783?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "死に際は｢ピンピンコロリ｣を理想とする一方､厚生労働省の統計や医師の経験から見えてくる現実は､ほとんどの人が思い描く最期を迎えられないという厳しいものです。理想と現実のギャップ､そして本当の｢穏やか…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-23T20:30:00+00:00"
     },
     {
       "title": "What’s behind Royal Caribbean’s ‘highly surprising’ push into Sandals vacation resorts",
@@ -938,6 +962,14 @@
       "published": "2026-09-23T16:01:58+00:00"
     },
     {
+      "title": "Your architecture diagram is not your resilience",
+      "link": "https://azure.microsoft.com/en-us/blog/your-architecture-diagram-is-not-your-resilience/",
+      "summary": "For years, resilience was something you set up once. That kept the lights on, but it treated resilience as a project with an end date rather than a property you maintain.\nThe post Your architecture diagram is not your resilience appeared first on Microsoft Azure Blog.",
+      "source": "Azure ブログ",
+      "category": "テクノロジー",
+      "published": "2026-09-23T16:00:00+00:00"
+    },
+    {
       "title": "南ア中銀、政策金利7.25％に引き上げ インフレ率3％への抑制目指す - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11TEJPSXA4NlQxT2ZUanZWeDVoblg3cFFpZzY4VThjWDJDZ2Y4UXNQR1loYkZYSTlyTVI4WXBjNHo1NDNwYmhVZmQxTDQ0YkQ0dy0zMGtTVmtmZnNDOE1TN192a2VFOHNNZzZ2dzN0LWxFLUhtc1dCUlZNakg?oc=5",
       "summary": "南ア中銀、政策金利7.25％に引き上げ インフレ率3％への抑制目指す&nbsp;&nbsp;jp.reuters.com",
@@ -1152,6 +1184,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-23T15:04:06+00:00"
+    },
+    {
+      "title": "Designing agent-first platforms: What changes when agents do the work",
+      "link": "https://azure.microsoft.com/en-us/blog/designing-agent-first-platforms-what-changes-when-agents-do-the-work/",
+      "summary": "The organizations pulling ahead are not simply adding AI to what they already have. They are designing for a different kind of software.\nThe post Designing agent-first platforms: What changes when agents do the work appeared first on Microsoft Azure Blog.",
+      "source": "Azure ブログ",
+      "category": "テクノロジー",
+      "published": "2026-09-23T15:00:00+00:00"
     },
     {
       "title": "ANA機が空港に緊急着陸 乗客脱出",
