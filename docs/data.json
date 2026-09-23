@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T13:08:17.775580+00:00",
+  "generated_at": "2026-09-23T13:25:51.419850+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -418,6 +418,22 @@
   ],
   "items": [
     {
+      "title": "Finnish Drone Group Sensofusion Seeks $344 Million in Helsinki IPO",
+      "link": "https://www.wsj.com/business/retail/finnish-drone-group-sensofusion-seeks-344-million-in-helsinki-ipo-6ed784ac?mod=rss_markets_main",
+      "summary": "The Finnish defense tech group said it wanted to seize on investor enthusiasm for drone companies.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-23T13:13:00+00:00"
+    },
+    {
+      "title": "AI覇権争いは米中とも｢開発にブレーキをかける余裕なし｣…米中首脳の利害は一致 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958903?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "米中首脳会談を目前に､AI開発を減速させる余裕は両国になく､競争は一層激化しています。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-23T13:01:00+00:00"
+    },
+    {
       "title": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.",
       "link": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/",
       "summary": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute.\nThe post Developers want more efficient software. Here’s what over 1000 GitHub users told us they need. appeared first on The GitHub Blog.",
@@ -442,6 +458,14 @@
       "published": "2026-09-23T12:57:59+00:00"
     },
     {
+      "title": "What AI-Native Looks Like",
+      "link": "https://fagnerbrack.com/heres-what-ai-native-with-stable-infra-looks-like-9f17cdb61459",
+      "summary": "Article URL: https://fagnerbrack.com/heres-what-ai-native-with-stable-infra-looks-like-9f17cdb61459\nComments URL: https://news.ycombinator.com/item?id=49815344\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-23T12:54:38+00:00"
+    },
+    {
       "title": "Stock Futures Slip as Markets Weigh Middle East Diplomacy",
       "link": "https://www.wsj.com/finance/investing/stock-futures-nudge-higher-as-markets-weigh-middle-east-diplomacy-b297db8c?mod=rss_markets_main",
       "summary": "U.S. stock futures slipped and Treasury yields nudged higher after oil prices rose back above $100 a barrel.",
@@ -464,6 +488,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-23T12:37:34.212022+00:00"
+    },
+    {
+      "title": "Show HN: Ive Sent It – online courier for files, with signed proof of delivery",
+      "link": "https://ivesentit.com",
+      "summary": "Article URL: https://ivesentit.com\nComments URL: https://news.ycombinator.com/item?id=49815168\nPoints: 6\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-23T12:36:01+00:00"
     },
     {
       "title": "HSBC addresses the concerns that are gripping the stock market — and dismisses most of them",
@@ -514,6 +546,14 @@
       "published": "2026-09-23T12:12:06.326540+00:00"
     },
     {
+      "title": "Countries cancel Iran flights after US threatens to ‘shut down’ airlines",
+      "link": "https://www.ft.com/content/7a98e756-92a3-45e4-9630-187d20685e79?syn-25a6b1a6=1",
+      "summary": "Iraq, Oman and Azerbaijan join growing list of nations suspending air travel after Scott Bessent warns of further sanctions",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-23T12:08:38+00:00"
+    },
+    {
       "title": "QuestDB (YC S20) Is Hiring a Sales Engineer",
       "link": "https://questdb.com/careers/pre-sales-engineer-north-america/",
       "summary": "Article URL: https://questdb.com/careers/pre-sales-engineer-north-america/\nComments URL: https://news.ycombinator.com/item?id=49814780\nPoints: 0\n# Comments: 0",
@@ -523,6 +563,14 @@
     },
     {
       "title": "McDonald’s bets on chicken to win back diners as beef prices soar",
+      "link": "https://www.ft.com/content/1d7daa8f-e8bb-436c-ad8b-b6d097e4107f?syn-25a6b1a6=1",
+      "summary": "Fast-food chain aims to grow share in booming chicken market in bid to kick-start sluggish US sales",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-23T12:00:20+00:00"
+    },
+    {
+      "title": "McDonald’s bets on chicken",
       "link": "https://www.ft.com/content/1d7daa8f-e8bb-436c-ad8b-b6d097e4107f?syn-25a6b1a6=1",
       "summary": "Fast-food chain aims to grow share in booming chicken market in bid to kick-start sluggish US sales",
       "source": "Financial Times",
@@ -560,6 +608,14 @@
       "source": "CNBC",
       "category": "海外金融",
       "published": "2026-09-23T11:29:56+00:00"
+    },
+    {
+      "title": "Two Git ignore files nobody told me about",
+      "link": "https://mihai.dinculescu.dev/posts/two-git-ignore-files-nobody-told-me-about/",
+      "summary": "Article URL: https://mihai.dinculescu.dev/posts/two-git-ignore-files-nobody-told-me-about/\nComments URL: https://news.ycombinator.com/item?id=49814432\nPoints: 4\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-23T11:28:47+00:00"
     },
     {
       "title": "西武、後味悪い敗戦　プロ野球",
