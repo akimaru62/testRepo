@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T19:34:06.934898+00:00",
+  "generated_at": "2026-09-23T19:47:56.124593+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -418,12 +418,44 @@
   ],
   "items": [
     {
+      "title": "U.S. Natural Gas Futures Settle Higher",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-hold-steady-in-early-trading-503e8cd3?mod=rss_markets_main",
+      "summary": "Natural gas futures posted back-to-back gains with the October contract settling above $3 per million British thermal units after numerous failed attempts recently.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-23T19:41:00+00:00"
+    },
+    {
+      "title": "Micron’s stock has become a ‘battleground’ as the AI narrative shifts",
+      "link": "https://www.marketwatch.com/story/microns-stock-has-become-a-battleground-as-the-ai-narrative-shifts-d61a3408?mod=mw_rss_topstories",
+      "summary": "Investors have become more focused on the durability of memory-chip demand, but there are reasons to be optimistic on that front, a UBS analyst said.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-23T19:38:00+00:00"
+    },
+    {
+      "title": "The AI ‘scare trade’ is finally hitting banks. Bargain hunters should take note.",
+      "link": "https://www.marketwatch.com/story/the-ai-scare-trade-is-finally-hitting-banks-bargain-hunters-should-take-note-b2fc7410?mod=mw_rss_topstories",
+      "summary": "In an era of higher interest rates, banks have reaped big profits due to consumers’ reluctance to move money out of low-interest checking accounts that offer convenience and ready access to money.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-23T19:35:00+00:00"
+    },
+    {
       "title": "京急最古参､1500形｢真っ赤な電車｣が変えた常識　初採用の仕様あれば最後になった｢伝統｣も | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/957778?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "京急電鉄の最古参｢1500形｣。一見地味な存在ですが､この車両の前後で京急の車両スタイルが大きく変わった｢画期的｣な電車です。関係者以外は立ち入れない車両基地で独占取材した1500形の外観や車内は､…",
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-23T19:30:00+00:00"
+    },
+    {
+      "title": "How we made claude.ai 3x faster in two weeks",
+      "link": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+      "summary": "Article URL: https://claude.dev/blog/how-we-made-claude-ai-faster/\nComments URL: https://news.ycombinator.com/item?id=49821196\nPoints: 15\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-23T19:23:40+00:00"
     },
     {
       "title": "Florida Railroad Brightline Plans Imminent Chapter 11 in New Jersey",
@@ -811,6 +843,14 @@
     },
     {
       "title": "Trump’s diesel ban would hurt America and help China",
+      "link": "https://www.ft.com/content/3e480031-4ee7-4ded-9893-75c060aeef1a?syn-25a6b1a6=1",
+      "summary": "Suspending foreign sales of the vital fuel may look good in the short term but the US would soon suffer",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-23T15:37:23+00:00"
+    },
+    {
+      "title": "How Trump’s diesel export ban will backfire",
       "link": "https://www.ft.com/content/3e480031-4ee7-4ded-9893-75c060aeef1a?syn-25a6b1a6=1",
       "summary": "Suspending foreign sales of the vital fuel may look good in the short term but the US would soon suffer",
       "source": "Financial Times",
@@ -1309,6 +1349,14 @@
       "title": "Iran’s president says Tehran ready for talks but hits back at Trump’s ‘bullying’",
       "link": "https://www.ft.com/content/31a27312-8032-4957-be69-ba32561e8db3",
       "summary": "US delegation walks out as Masoud Pezeshkian delivers speech",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-23T13:13:03+00:00"
+    },
+    {
+      "title": "AI industry is at a ‘crossroads’, OpenAI’s Sam Altman tells the UN",
+      "link": "https://www.ft.com/content/31a27312-8032-4957-be69-ba32561e8db3",
+      "summary": "Head of one of America’s top artificial intelligence companies says governments must play bigger role in regulating technology",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-23T13:13:03+00:00"
