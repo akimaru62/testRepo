@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T22:47:32.934573+00:00",
+  "generated_at": "2026-09-23T23:06:09.394488+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -418,12 +418,44 @@
   ],
   "items": [
     {
+      "title": "AI大手3社幹部､国連安保理で警鐘　｢うまく管理できなければ､AIは人類全体への脅威になる｣ | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958931?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "急速に進化するAI。その脅威と可能性を前に､米中大手企業の経営トップらが国連安保理で警鐘を鳴らしました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-23T23:00:00+00:00"
+    },
+    {
+      "title": "お相手は｢大卒以上｣｢ビジネスの才能があれば話は別｣　\"人を見る目がある\"と自負する人事部･アラフィフ女性の迷走婚活 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958602?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "婚活が長引くほど､人を見る目は肥えていくもの。しかし､それが必ずしもよい結果につながるとは限りません。｢人を見る目に自信がある｣という人事部の40代女性が､いまだ\"ほれた\"と思える相手に出会えていな…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-23T23:00:00+00:00"
+    },
+    {
+      "title": "米、プーチン氏を12月のＧ２０に招待 トランプ氏と首脳会談も - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb3I2Sy04dDB6V3BIVnNJVUlsc2RIS2FDeU9UdHJPYzhmTmlaRGZ1SkNCWVRzY1hxZ1NxTHo3MWtvanVscXZNd3lEbFpmckpZQTd4T3VZRThEWVpDVmMtYTR0UjExTmp2aFcyMUdKU09vUDhMSzIwYm85eGJISVE2UmdNYW8?oc=5",
+      "summary": "米、プーチン氏を12月のＧ２０に招待 トランプ氏と首脳会談も&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-23T22:48:09+00:00"
+    },
+    {
       "title": "エヌビディアＣＥＯ、ＡＩ企業への規制免除に反対 反トラスト法など - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZS3d2WjM0QVhOeHBWUGJXd0hxSFluNUN5VkJEVHpvbHVEWDYxLThuRmFRZm1sTEROQUZfTlc5WFN5ZzRMbjlHaFV0X2p5XzlwaG9JTmV5Ml9lUG5GZ0xSVkF4Y0FEX3R6WTFHZXZBV1VlYmY4aERFd2V1X1E?oc=5",
       "summary": "エヌビディアＣＥＯ、ＡＩ企業への規制免除に反対 反トラスト法など&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-23T22:41:43+00:00"
+    },
+    {
+      "title": "Linux support is coming to Snapdragon X2 Series",
+      "link": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "summary": "Article URL: https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux\nComments URL: https://news.ycombinator.com/item?id=49823582\nPoints: 17\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-23T22:38:16+00:00"
     },
     {
       "title": "台風影響 内房線の復旧に3カ月超",
@@ -458,12 +490,28 @@
       "published": "2026-09-23T22:23:12.887501+00:00"
     },
     {
+      "title": "Mercury 2.5 LLM hits 770 tokens per second",
+      "link": "https://artificialanalysis.ai/models/mercury-2-5",
+      "summary": "Article URL: https://artificialanalysis.ai/models/mercury-2-5\nComments URL: https://news.ycombinator.com/item?id=49823348\nPoints: 4\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-23T22:16:19+00:00"
+    },
+    {
       "title": "OpenAI agent hacked an Australian health service website",
       "link": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1",
       "summary": "Prime Minister Anthony Albanese says breach is ‘obviously unacceptable’",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-23T22:04:25+00:00"
+    },
+    {
+      "title": "We just shipped support for the ugliest part of HTTP: Vary – Cloudflare Blog",
+      "link": "https://blog.cloudflare.com/vary-support/",
+      "summary": "Article URL: https://blog.cloudflare.com/vary-support/\nComments URL: https://news.ycombinator.com/item?id=49823195\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-23T22:03:21+00:00"
     },
     {
       "title": "｢65歳で辞めるなんて言わないで！｣企業の抱える偽らざる本音…会社は社員に何歳まで働いてほしいと思っているのか？ | キャリア・教育 | 東洋経済オンライン",
@@ -629,6 +677,14 @@
       "title": "VSCode's SSH Agent Is Bananas",
       "link": "https://fly.io/blog/vscode-ssh-wtf/",
       "summary": "Article URL: https://fly.io/blog/vscode-ssh-wtf/\nComments URL: https://news.ycombinator.com/item?id=49822555\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-23T21:01:48+00:00"
+    },
+    {
+      "title": "VSCode's SSH Agent Is Bananas (2025)",
+      "link": "https://fly.io/blog/vscode-ssh-wtf/",
+      "summary": "Article URL: https://fly.io/blog/vscode-ssh-wtf/\nComments URL: https://news.ycombinator.com/item?id=49822555\nPoints: 73\n# Comments: 50",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-23T21:01:48+00:00"
