@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T22:07:24.041929+00:00",
+  "generated_at": "2026-09-23T22:23:19.167159+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -418,6 +418,30 @@
   ],
   "items": [
     {
+      "title": "ＮＹ株続落、３５２ドル安　米金利上昇を嫌気",
+      "link": "https://www.jiji.com/jc/article?k=2026092400135&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-23T22:23:13.659568+00:00"
+    },
+    {
+      "title": "AIがAIを狂わせる　サイバー被害責めるほど「攻撃者の思うつぼ」",
+      "link": "https://www.asahi.com/articles/ASV9L33M4V9LULFA02SM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-23T22:23:12.887501+00:00"
+    },
+    {
+      "title": "OpenAI agent hacked an Australian health service website",
+      "link": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1",
+      "summary": "Prime Minister Anthony Albanese says breach is ‘obviously unacceptable’",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-23T22:04:25+00:00"
+    },
+    {
       "title": "｢65歳で辞めるなんて言わないで！｣企業の抱える偽らざる本音…会社は社員に何歳まで働いてほしいと思っているのか？ | キャリア・教育 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/958517?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "｢65歳定年｣が当たり前と思われがちな日本の職場。しかし､深刻な人手不足を背景に､企業が期待する現役年齢の平均は実は｢約68歳｣まで延びているのです。中小企業を中心に､シニア人材の活躍が次第に広がる…",
@@ -456,6 +480,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-23T21:33:00+00:00"
+    },
+    {
+      "title": "Claude's Load-Bearing Seams",
+      "link": "https://madradavid.com/claudes-load-bearing-seams/",
+      "summary": "Article URL: https://madradavid.com/claudes-load-bearing-seams/\nComments URL: https://news.ycombinator.com/item?id=49822864\nPoints: 26\n# Comments: 9",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-23T21:31:04+00:00"
     },
     {
       "title": "｢なぜあの人の頼みは皆引き受けるのか｣　仕事はできるのに｢雑談ゼロ｣｢飲み会不参加｣の彼が社内調整で詰んだ\"致命的な誤算\" | ライフ | 東洋経済オンライン",
@@ -603,6 +635,14 @@
     },
     {
       "title": "Xi Jinping set to arrive for high-stakes summit with Donald Trump",
+      "link": "https://www.ft.com/content/8ff1b8fd-ff58-42a4-8e44-6a31f6db8154?syn-25a6b1a6=1",
+      "summary": "Gathering comes less than two months before expiry of US-China trade truce",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-23T20:51:16+00:00"
+    },
+    {
+      "title": "Xi Jinping arrives for high-stakes summit with Donald Trump",
       "link": "https://www.ft.com/content/8ff1b8fd-ff58-42a4-8e44-6a31f6db8154?syn-25a6b1a6=1",
       "summary": "Gathering comes less than two months before expiry of US-China trade truce",
       "source": "Financial Times",
