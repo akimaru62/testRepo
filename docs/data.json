@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T18:10:33.449246+00:00",
+  "generated_at": "2026-09-23T18:30:50.371862+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -418,6 +418,30 @@
   ],
   "items": [
     {
+      "title": "Rendering huge pull requests in the GitHub Copilot app",
+      "link": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
+      "summary": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments.\nThe post Rendering huge pull requests in the GitHub Copilot app appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "category": "開発者向け",
+      "published": "2026-09-23T18:29:49+00:00"
+    },
+    {
+      "title": "The ingredients for a financial reckoning are all in place",
+      "link": "https://www.marketwatch.com/story/the-ingredients-for-a-financial-reckoning-are-all-in-place-07520a5d?mod=mw_rss_topstories",
+      "summary": "A witch’s brew of rising debt levels, higher costs of capital and contagion risks is bubbling.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-23T18:24:00+00:00"
+    },
+    {
+      "title": "U.S. Stocks Decline as Treasury Selloff Deepens",
+      "link": "https://www.wsj.com/finance/investing/stock-futures-nudge-higher-as-markets-weigh-middle-east-diplomacy-b297db8c?mod=rss_markets_main",
+      "summary": "U.S. stocks dropped, led by the Nasdaq composite, as U.S. bond yields jumped to their highest levels in nearly two decades and the dollar strengthened.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-23T18:19:00+00:00"
+    },
+    {
       "title": "Businesses are growing at the fastest pace in over four years. Why war and inflation aren’t slowing the U.S. economy down.",
       "link": "https://www.marketwatch.com/story/businesses-are-growing-at-the-fastest-pace-in-over-four-years-why-war-and-inflation-isnt-slowing-the-u-s-economy-down-2e39e7c7?mod=mw_rss_topstories",
       "summary": "Expensive gas, higher inflation, a stalemate with Iran and rising interest rates — no matter. The U.S. economy appears to have sped up in the early fall.",
@@ -450,12 +474,28 @@
       "published": "2026-09-23T17:52:00+00:00"
     },
     {
+      "title": "Bond yields surge to 5.12% as Wall Street fears more Fed rate hikes",
+      "link": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
+      "summary": "Stocks fall, with the Nasdaq and S&amp;P 500 retreating from record territory as bond yields suddenly jump.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-23T17:52:00+00:00"
+    },
+    {
       "title": "Fuel prices keep rising — and so do Democrats’ chances of winning both the House and Senate",
       "link": "https://www.marketwatch.com/story/fuel-prices-keep-rising-and-so-do-democrats-chances-for-winning-both-the-house-and-senate-c4541380?mod=mw_rss_topstories",
       "summary": "Losses for President Donald Trump’s Republican Party in the midterms are expected in large part because of voters’ frustrations with the elevated cost of living.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-23T17:49:00+00:00"
+    },
+    {
+      "title": "UK military jamming other nations' satellites to defend itself, BBC told",
+      "link": "https://www.bbc.com/news/articles/c32l8y8kygdvo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c32l8y8kygdvo\nComments URL: https://news.ycombinator.com/item?id=49819814\nPoints: 36\n# Comments: 12",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-23T17:45:30+00:00"
     },
     {
       "title": "Comex Gold Settles 1.33% Lower at $4281.30",
@@ -565,6 +605,14 @@
       "title": "米シカゴ連銀総裁、原油ショックに警戒 持続的なインフレ要因の恐れ - ロイター",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTXlDYkViakFqWnNHMDlIWW1CdV9BNlVxTDNzYVpJLUs4dHd5bU4wU0pNaGl3SUJIcHFka0ZkeTNRX2pxaXM5RGF1bUdGY19vdGZod0R0aUVoU1pYQUpvRHNZLUU1SmtDeGdRLUMwY3RCaDJha29penJ3cGc4NlRzTWxfTWY?oc=5",
       "summary": "米シカゴ連銀総裁、原油ショックに警戒 持続的なインフレ要因の恐れ&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-23T16:31:43+00:00"
+    },
+    {
+      "title": "米シカゴ連銀総裁、原油ショックに警戒 持続的なインフレ要因の恐れ - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTXlDYkViakFqWnNHMDlIWW1CdV9BNlVxTDNzYVpJLUs4dHd5bU4wU0pNaGl3SUJIcHFka0ZkeTNRX2pxaXM5RGF1bUdGY19vdGZod0R0aUVoU1pYQUpvRHNZLUU1SmtDeGdRLUMwY3RCaDJha29penJ3cGc4NlRzTWxfTWY?oc=5",
+      "summary": "米シカゴ連銀総裁、原油ショックに警戒 持続的なインフレ要因の恐れ&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-23T16:31:43+00:00"
