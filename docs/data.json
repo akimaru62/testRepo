@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T12:37:42.683754+00:00",
+  "generated_at": "2026-09-23T12:55:23.494724+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -418,6 +418,22 @@
   ],
   "items": [
     {
+      "title": "Stock Futures Slip as Markets Weigh Middle East Diplomacy",
+      "link": "https://www.wsj.com/finance/investing/stock-futures-nudge-higher-as-markets-weigh-middle-east-diplomacy-b297db8c?mod=rss_markets_main",
+      "summary": "U.S. stock futures slipped and Treasury yields nudged higher after oil prices rose back above $100 a barrel.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-23T12:40:00+00:00"
+    },
+    {
+      "title": "FDA advisers are reviewing a multicancer-detection test. Medicare coverage could follow.",
+      "link": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories",
+      "summary": "Grail’s Galleri test looks for 50 cancers from a blood draw, but a major study failed to prove it could detect later-stage cancers.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-23T12:39:00+00:00"
+    },
+    {
       "title": "JR貨物の職員を収賄の疑いで逮捕　福岡県警、JR会社法違反を適用",
       "link": "https://www.asahi.com/articles/ASV9R41FXV9RTIPE00RM.html?ref=rss",
       "summary": "",
@@ -432,6 +448,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-23T12:32:00+00:00"
+    },
+    {
+      "title": "Show HN: RxFilm Studio–Create and edit your product videos with AI agent",
+      "link": "https://filmstudio.rxlab.app",
+      "summary": "Hi HN,I built RxFilm Studio, a video workspace that lets you create and revise videos with AI agent.The reason I started this project is simple: I’ve noticed that many independent developers and small teams want to create marketing videos for their product, but producing these videos requires a lot of time and effort — from editing and visual effects to voiceovers and subtitles.So I built Rxfilm Studio to simplify the entire video creation process. Start with an idea, a product website, images, or existing footage, and then generate a complete video with:\n- Story and structure\n- Editing and timeline\n- Visual and sound effects\n- Voiceovers, background music\n- Subtitles and translationGithub: https://github.com/rxtech-lab/film-workflowHere's a demo marketing video created using RxFilm Studio:\nhttps://youtu.be/9_M15fRdZQEWelcome to try it out and I would love to hear your feedback!\n\nComments URL: https://news.ycombinator.com/item?id=49815095\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-23T12:28:40+00:00"
     },
     {
       "title": "Claude Code reads AGENTS.md only when telemetry is on",
@@ -568,6 +592,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-23T11:14:00+00:00"
+    },
+    {
+      "title": "米30年物住宅ローン金利7.12％、2年超ぶり高水準＝米抵当銀行協会 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX18xLVJ6cW5LeHp5U2JESktFdUdQZzFqM1JSZlQ5V2NYS3l3dXZxTm15OE5NR09WSUxaZ0pISlNnZ29ZYkFPYmF1bi1lQVVFcThDS3ZqMkNnT0tRdDNCd0hPYXF2b0ZiYUZrbS1EZFlYMGVHaGVyU3hVdlhWQ3J3WHZWclc?oc=5",
+      "summary": "米30年物住宅ローン金利7.12％、2年超ぶり高水準＝米抵当銀行協会&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-23T11:11:43+00:00"
     },
     {
       "title": "社員寮や社宅が増加 企業の期待は",
