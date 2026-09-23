@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T05:25:44.724410+00:00",
+  "generated_at": "2026-09-23T05:38:02.565235+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -406,6 +406,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://azure.microsoft.com/ja-jp/blog/feed/",
+      "error": "HTTPSConnectionPool(host='azure.microsoft.com', port=443): Read timed out. (read timeout=15)"
     }
   ],
   "items": [
@@ -442,6 +446,14 @@
       "published": "2026-09-23T04:42:39+00:00"
     },
     {
+      "title": "中国、フェンタニル関連犯罪の指針公表 米中首脳会談控え - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uYUN4MVFLZE5lRG9GRGZNOE5DdnJZM2VoMV9tb3hjYXJlVUdWazdEcXpscXNrelhOckpKcG5HVjEzbjlRZlhYWVM4bTdqVXMwU0ZGRmUxXzRucTkyNkR3M1hOOHIwZk1BbmpwSGFCTkFDeTRyTVRBN2FCMWtxZw?oc=5",
+      "summary": "中国、フェンタニル関連犯罪の指針公表 米中首脳会談控え&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-23T04:32:00+00:00"
+    },
+    {
       "title": "原潜、造船など協力深化　米韓首脳が会談",
       "link": "https://www.jiji.com/jc/article?k=2026092300359&g=int&m=rss",
       "summary": "",
@@ -461,6 +473,22 @@
       "title": "Oil tanker costs hit record $1.2mn a day as Iran war disrupts shipping",
       "link": "https://www.ft.com/content/f95db340-8c8f-435f-957d-4623255ac29e?syn-25a6b1a6=1",
       "summary": "Shortage of biggest supertankers has more than doubled rates on key Middle East-China routes since late August",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-23T04:00:29+00:00"
+    },
+    {
+      "title": "Diesel surge costs European drivers €203mn per day",
+      "link": "https://www.ft.com/content/76b51a19-0387-4eed-a343-980b1135de2c?syn-25a6b1a6=1",
+      "summary": "Motorists are spending 40% more each time they refill their tank, compared with the start of the year",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-23T04:00:29+00:00"
+    },
+    {
+      "title": "Ozempic-maker Novo open to upgrading US listing",
+      "link": "https://www.ft.com/content/00d53ca3-725f-4fa8-b452-cef562a13514?syn-25a6b1a6=1",
+      "summary": "Boss Mike Doustdar says he sees ‘advantages’ in giving US investors direct access to Danish group’s stock",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-23T04:00:29+00:00"
@@ -589,6 +617,14 @@
       "title": "ホルムズ海峡通過船、22日は3隻＝海運データ - ロイター",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5veXh6aWVvMmdxLXBJUlFMZHR6MWM1M1Eycm1UV01JVDZJV3pHTExwcDQ0NlM1M2xiZG5ScFlkMWw3d3UyWlhzN0dBSk45TS13MTNOaklGU3FpVklRZVJHVzVjemhXM25ya082c19ORGpEaUpvT2hWaVMwLS1VQQ?oc=5",
       "summary": "ホルムズ海峡通過船、22日は3隻＝海運データ&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-23T03:26:00+00:00"
+    },
+    {
+      "title": "ホルムズ海峡通過船、22日は3隻＝海運データ - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5veXh6aWVvMmdxLXBJUlFMZHR6MWM1M1Eycm1UV01JVDZJV3pHTExwcDQ0NlM1M2xiZG5ScFlkMWw3d3UyWlhzN0dBSk45TS13MTNOaklGU3FpVklRZVJHVzVjemhXM25ya082c19ORGpEaUpvT2hWaVMwLS1VQQ?oc=5",
+      "summary": "ホルムズ海峡通過船、22日は3隻＝海運データ&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-23T03:26:00+00:00"
