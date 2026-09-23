@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T17:34:39.635535+00:00",
+  "generated_at": "2026-09-23T17:47:44.349993+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -418,12 +418,60 @@
   ],
   "items": [
     {
+      "title": "Comex Gold Settles 1.33% Lower at $4281.30",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-up-as-markets-weigh-oil-pullback-af01967f?mod=rss_markets_main",
+      "summary": "Gold settled 1.3% lower, down for a third-consecutive session, and silver fell nearly 2.4%, down two of the past three sessions.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-23T17:45:00+00:00"
+    },
+    {
+      "title": "The Global Fuel Crisis Is Driving Up the Costs of Home Heating Oil, Too",
+      "link": "https://www.wsj.com/business/energy-oil/the-global-fuel-crisis-is-driving-up-the-costs-of-home-heating-oil-too-e5026f51?mod=rss_markets_main",
+      "summary": "Homes in the Northeast and Alaska are especially dependent on heating oil in winter.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-23T17:43:00+00:00"
+    },
+    {
+      "title": "Fuel prices keep rising — and so do Democrats’ chances for winning both the House and Senate",
+      "link": "https://www.marketwatch.com/story/fuel-prices-keep-rising-and-so-do-democrats-chances-for-winning-both-the-house-and-senate-c4541380?mod=mw_rss_topstories",
+      "summary": "Losses for President Donald Trump’s Republican Party in the midterms are expected in large part because of voters’ frustrations with the elevated cost of living.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-23T17:41:00+00:00"
+    },
+    {
+      "title": "トランプ氏、ベネズエラ暫定大統領と債務再編を協議＝米国務長官 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVkJuRW9aNWN5ZXM3cHpPNDI1LWdycVF6bDVmWkpIR3lkM1VYRy13NjBaaUNCY3VUV1hLTGpHU0swb1Q4dEJUX185RG5KMWVIS3o2Tjl6aWpCN3BzSHhla1VoWUlhZ2hUSzRkaTVxSUoxRV9xZmNzb0ZyT0l4YUJYV0wyZ1h4QQ?oc=5",
+      "summary": "トランプ氏、ベネズエラ暫定大統領と債務再編を協議＝米国務長官&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-23T17:31:03+00:00"
+    },
+    {
       "title": "体操女子、一丸で銀　アジア大会",
       "link": "https://www.jiji.com/jc/article?k=2026092300856&g=spo&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-23T17:24:09.222718+00:00"
+    },
+    {
+      "title": "US Treasury yields soar most since ‘liberation day’ tariffs shook markets",
+      "link": "https://www.ft.com/content/5b11b598-7c77-4bdf-82bf-a763adf71a72?syn-25a6b1a6=1",
+      "summary": "Traders crank up bets on Federal Reserve rate rises after new data fuel worries economy is overheating",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-23T17:22:46+00:00"
+    },
+    {
+      "title": "Italian parliament votes for return to nuclear energy",
+      "link": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+      "summary": "Article URL: https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567\nComments URL: https://news.ycombinator.com/item?id=49819221\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-23T17:06:16+00:00"
     },
     {
       "title": "Trump’s Oil Allies Fear Losing Battle in Bid to Stop Diesel-Export Limits",
@@ -552,6 +600,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-23T15:33:30+00:00"
+    },
+    {
+      "title": "What to Know About JavaScript in 2026",
+      "link": "https://blog.master.dev/what-to-know-in-javascript-2026-edition/",
+      "summary": "Article URL: https://blog.master.dev/what-to-know-in-javascript-2026-edition/\nComments URL: https://news.ycombinator.com/item?id=49817636\nPoints: 7\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-23T15:30:47+00:00"
     },
     {
       "title": "Gemini 3.8 text-to-speech says hello",
