@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T18:30:50.371862+00:00",
+  "generated_at": "2026-09-23T18:49:16.485394+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -418,6 +418,14 @@
   ],
   "items": [
     {
+      "title": "Palantir’s stock is heading for its highest close of the year, in a dramatic comeback",
+      "link": "https://www.marketwatch.com/story/palantirs-stock-is-heading-for-its-highest-close-of-the-year-in-a-dramatic-comeback-a5fd451d?mod=mw_rss_topstories",
+      "summary": "Palantir’s last earnings report reignited investor enthusiasm, and now the company is basking in the glow of a real-world AI boom.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-23T18:31:00+00:00"
+    },
+    {
       "title": "Rendering huge pull requests in the GitHub Copilot app",
       "link": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
       "summary": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments.\nThe post Rendering huge pull requests in the GitHub Copilot app appeared first on The GitHub Blog.",
@@ -442,6 +450,14 @@
       "published": "2026-09-23T18:19:00+00:00"
     },
     {
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "summary": "Article URL: https://www.anthropic.com/news/claude-discovers-novel-enzyme-system\nComments URL: https://news.ycombinator.com/item?id=49820134\nPoints: 15\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-23T18:06:47+00:00"
+    },
+    {
       "title": "Businesses are growing at the fastest pace in over four years. Why war and inflation aren’t slowing the U.S. economy down.",
       "link": "https://www.marketwatch.com/story/businesses-are-growing-at-the-fastest-pace-in-over-four-years-why-war-and-inflation-isnt-slowing-the-u-s-economy-down-2e39e7c7?mod=mw_rss_topstories",
       "summary": "Expensive gas, higher inflation, a stalemate with Iran and rising interest rates — no matter. The U.S. economy appears to have sped up in the early fall.",
@@ -456,6 +472,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-23T18:04:00+00:00"
+    },
+    {
+      "title": "A brief history of Windows scroll bar shortcuts",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/\nComments URL: https://news.ycombinator.com/item?id=49820065\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-23T18:02:08+00:00"
     },
     {
       "title": "McDonald’s is making a historic bet on chicken — and AI — to bring back customers",
