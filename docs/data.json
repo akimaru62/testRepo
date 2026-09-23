@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T21:33:51.616446+00:00",
+  "generated_at": "2026-09-23T21:47:26.469066+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -418,6 +418,22 @@
   ],
   "items": [
     {
+      "title": "Is gridlock in Washington actually good for stocks? Here’s what historical market data says.",
+      "link": "https://www.marketwatch.com/story/is-gridlock-in-washington-actually-good-for-stocks-heres-what-historical-market-data-says-ea20746d?mod=mw_rss_topstories",
+      "summary": "Contrary to widespread belief, the stock market hasn’t performed better during periods of inter-party gridlock in Washington",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-23T21:44:00+00:00"
+    },
+    {
+      "title": "A Perfect Storm Is Raging in the Bond Market",
+      "link": "https://www.wsj.com/finance/investing/a-perfect-storm-is-raging-in-the-bond-market-43d9b44b?mod=rss_markets_main",
+      "summary": "The benchmark Treasury yield jumps above 5.1%, posting its biggest one-day rise in more than a year.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-23T21:33:00+00:00"
+    },
+    {
       "title": "｢なぜあの人の頼みは皆引き受けるのか｣　仕事はできるのに｢雑談ゼロ｣｢飲み会不参加｣の彼が社内調整で詰んだ\"致命的な誤算\" | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/958612?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "真面目で仕事はできるものの、“何かがどうしようもなくズレている”若手社員、真締真一（まじめ・しんいち）。その教育係に任命された先輩の柔木美和（やわらき・みわ）は、彼に何かと翻弄される毎日を送っていま…",
@@ -485,6 +501,22 @@
       "title": "OpenAI Medicare Data Breach",
       "link": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
       "summary": "Article URL: https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html\nComments URL: https://news.ycombinator.com/item?id=49822556\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-23T21:01:48+00:00"
+    },
+    {
+      "title": "OpenAI breaches Medicare, Albanese reveals",
+      "link": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+      "summary": "Article URL: https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html\nComments URL: https://news.ycombinator.com/item?id=49822556\nPoints: 28\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-23T21:01:48+00:00"
+    },
+    {
+      "title": "VSCode's SSH Agent Is Bananas",
+      "link": "https://fly.io/blog/vscode-ssh-wtf/",
+      "summary": "Article URL: https://fly.io/blog/vscode-ssh-wtf/\nComments URL: https://news.ycombinator.com/item?id=49822555\nPoints: 8\n# Comments: 1",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-23T21:01:48+00:00"
@@ -675,6 +707,14 @@
     },
     {
       "title": "Anthropic’s Dario Amodei calls for ‘narrow’ AI safety agreements",
+      "link": "https://www.ft.com/content/31a27312-8032-4957-be69-ba32561e8db3",
+      "summary": "Head of one of US’s top artificial intelligence companies calls for common model testing standards and a notification system for internationally significant AI incidents",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-23T19:57:38+00:00"
+    },
+    {
+      "title": "UN live: Anthropic’s Dario Amodei calls for ‘narrow’ AI safety agreements",
       "link": "https://www.ft.com/content/31a27312-8032-4957-be69-ba32561e8db3",
       "summary": "Head of one of US’s top artificial intelligence companies calls for common model testing standards and a notification system for internationally significant AI incidents",
       "source": "Financial Times",
@@ -946,6 +986,14 @@
       "published": "2026-09-23T17:52:00+00:00"
     },
     {
+      "title": "Making Tailscale Faster",
+      "link": "https://tailscale.com/blog/making-tailscale-faster",
+      "summary": "Article URL: https://tailscale.com/blog/making-tailscale-faster\nComments URL: https://news.ycombinator.com/item?id=49819880\nPoints: 13\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-23T17:49:07+00:00"
+    },
+    {
       "title": "Fuel prices keep rising — and so do Democrats’ chances of winning both the House and Senate",
       "link": "https://www.marketwatch.com/story/fuel-prices-keep-rising-and-so-do-democrats-chances-for-winning-both-the-house-and-senate-c4541380?mod=mw_rss_topstories",
       "summary": "Losses for President Donald Trump’s Republican Party in the midterms are expected in large part because of voters’ frustrations with the elevated cost of living.",
@@ -1045,6 +1093,14 @@
       "title": "2483.t - | Stock Price & Latest News - ロイター",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tTkJoWV93RmxONG1vc3RwU2FkbmZLcjBYQkZGcHNnbUlmWkFNcmp0VTFLY0tsQ2lnYmRRWkZmaEY5SU56NnNUdjFBelRfZ0VVb1U4RjV3djB3UjFIM0EyUTBzUVVvN2c2cUVJ?oc=5",
       "summary": "2483.t - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-23T17:01:53+00:00"
+    },
+    {
+      "title": "2483.t - | Stock Price & Latest News - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tTkJoWV93RmxONG1vc3RwU2FkbmZLcjBYQkZGcHNnbUlmWkFNcmp0VTFLY0tsQ2lnYmRRWkZmaEY5SU56NnNUdjFBelRfZ0VVb1U4RjV3djB3UjFIM0EyUTBzUVVvN2c2cUVJ?oc=5",
+      "summary": "2483.t - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-23T17:01:53+00:00"
