@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T17:07:37.508787+00:00",
+  "generated_at": "2026-09-24T17:23:43.152632+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -442,12 +442,36 @@
       "published": "2026-09-24T19:00:00+00:00"
     },
     {
+      "title": "中国国営新華社通信によると、米中首脳会談が始まった",
+      "link": "https://www.jiji.com/jc/article?k=2026092500045&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-24T17:23:38.550644+00:00"
+    },
+    {
+      "title": "パンダ、数日中に米到着　中国が貸与、習氏表明",
+      "link": "https://www.jiji.com/jc/article?k=2026092500033&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-24T17:23:38.550580+00:00"
+    },
+    {
       "title": "金融審議会「保険制度ワーキング・グループ」（第１回）の開催について公表しました。",
       "link": "https://www.fsa.go.jp/news/r8/singi/20260924.html",
       "summary": "",
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-24T17:00:00+00:00"
+    },
+    {
+      "title": "White House says it has restored access to banned press outlets",
+      "link": "https://www.ft.com/content/72d1df1f-cc71-4e17-a442-0a4201ba41aa?syn-25a6b1a6=1",
+      "summary": "Journalists at CNN, MS Now and Politico say they were initially turned away",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-24T16:57:43+00:00"
     },
     {
       "title": "Brent Climbs Above $107 After Houthi Attack Against Saudi Arabia Sites",
@@ -512,6 +536,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-24T16:21:13+00:00"
+    },
+    {
+      "title": "Federal judge orders Texas to air condition all prisons by the end of 2029",
+      "link": "https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling/",
+      "summary": "Article URL: https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling/\nComments URL: https://news.ycombinator.com/item?id=49832844\nPoints: 26\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-24T16:15:34+00:00"
     },
     {
       "title": "US mortgage rates breach 7% as affordability pressures mount",
@@ -586,6 +618,22 @@
       "published": "2026-09-24T15:50:26+00:00"
     },
     {
+      "title": "Why is the human body so crap except for the liver?",
+      "link": "https://dynomight.net/liver/",
+      "summary": "Article URL: https://dynomight.net/liver/\nComments URL: https://news.ycombinator.com/item?id=49832317\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-24T15:45:11+00:00"
+    },
+    {
+      "title": "Experiencing writing at our recent Chinese calligraphy workshop",
+      "link": "https://viewsproject.wordpress.com/2026/09/06/chinese-calligraphy-workshop/",
+      "summary": "Article URL: https://viewsproject.wordpress.com/2026/09/06/chinese-calligraphy-workshop/\nComments URL: https://news.ycombinator.com/item?id=49832231\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-24T15:40:03+00:00"
+    },
+    {
       "title": "MUデジタルバンク設立準備株式会社に対する銀行業の免許の付与について公表しました。",
       "link": "https://www.fsa.go.jp/news/r8/ginkou/20260924/20260924.html",
       "summary": "",
@@ -605,6 +653,14 @@
       "title": "F-Droid 2.0: A New Chapter for Android Freedom",
       "link": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
       "summary": "Article URL: https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html\nComments URL: https://news.ycombinator.com/item?id=49831968\nPoints: 11\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-24T15:26:12+00:00"
+    },
+    {
+      "title": "F-Droid 2.0",
+      "link": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "summary": "Article URL: https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html\nComments URL: https://news.ycombinator.com/item?id=49831968\nPoints: 285\n# Comments: 75",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-24T15:26:12+00:00"
@@ -3557,6 +3613,14 @@
       "title": "Linux support is coming to Snapdragon X2 Series",
       "link": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
       "summary": "Article URL: https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux\nComments URL: https://news.ycombinator.com/item?id=49823582\nPoints: 17\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-23T22:38:16+00:00"
+    },
+    {
+      "title": "Linux support is coming to Snapdragon X2 series",
+      "link": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "summary": "Article URL: https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux\nComments URL: https://news.ycombinator.com/item?id=49823582\nPoints: 567\n# Comments: 239",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-23T22:38:16+00:00"
