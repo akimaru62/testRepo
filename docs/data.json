@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T18:09:59.933956+00:00",
+  "generated_at": "2026-09-24T18:30:53.409606+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -442,12 +442,68 @@
       "published": "2026-09-24T19:00:00+00:00"
     },
     {
+      "title": "台湾問題「慎重に処理を」　イランの平和実現要求―中国主席",
+      "link": "https://www.jiji.com/jc/article?k=2026092500106&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-24T18:30:48.027522+00:00"
+    },
+    {
+      "title": "8% mortgage rates are ‘not an impossibility’ as the 30-year fixed rate surges",
+      "link": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
+      "summary": "With the 10-year Treasury up sharply and the outlook for the U.S. economy looking unclear, some say 8% mortgage rates are back on the table.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-24T18:29:00+00:00"
+    },
+    {
+      "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+      "link": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
+      "summary": "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. \nThe post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "category": "開発者向け",
+      "published": "2026-09-24T18:26:12+00:00"
+    },
+    {
+      "title": "It’s no secret that Social Security and Medicare are on the ropes. Here’s what to do instead of panicking.",
+      "link": "https://www.marketwatch.com/story/everyone-knows-social-security-and-medicare-are-on-the-ropes-heres-what-to-do-instead-of-panicking-717ff133?mod=mw_rss_topstories",
+      "summary": "With midterm elections around the corner, voters are voicing concern about the future of these programs as rising costs imperil household finances",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-24T18:24:00+00:00"
+    },
+    {
+      "title": "Gold Futures Settle Lower With As U.S. Yields Rise",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-muted-as-oil-treasury-yields-resume-climb-10080af9?mod=rss_markets_main",
+      "summary": "Gold settled 0.4% lower, down for a fourth-consecutive session, and silver fell 1.4%, down for a second-consecutive session.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-24T18:24:00+00:00"
+    },
+    {
+      "title": "Dollar Hits 8-Week High as Treasury Yields Surge",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-broadly-weaken-as-treasury-yields-surge-d5c5d1cf?mod=rss_markets_main",
+      "summary": "The dollar rose to an eight-week high against a basket of currencies, lifted by expectations that the Federal Reserve will raise interest rates further and as Treasury yields jumped to multiyear highs.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-24T18:21:00+00:00"
+    },
+    {
       "title": "Here are 3 alternatives for investors looking to dodge the bond-market beatdown",
       "link": "https://www.marketwatch.com/story/here-are-3-alternatives-for-investors-looking-to-dodge-the-bond-market-beatdown-ec8fda43?mod=mw_rss_topstories",
       "summary": "U.S. stocks have kept chugging higher this year, but bonds haven’t been able to shake off a five-year slump. That has sent some investors interested in a diversified portfolio searching for alternatives.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-24T18:07:00+00:00"
+    },
+    {
+      "title": "Netanyahu addresses UN summit",
+      "link": "https://www.ft.com/content/979ae3ac-4623-4fe9-a771-43ce451a9e73",
+      "summary": "Israeli leader’s speech comes on high-profile day for international relations as Donald Trump hosts Xi Jinping at the White House",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-24T18:05:39+00:00"
     },
     {
       "title": "Goldman reaped more than $200mn in fees from hedge fund Situational Awareness",
@@ -583,6 +639,14 @@
       "summary": "Shares of data-storage company Everpure were leading S&amp;P 500 gainers on Thursday.",
       "source": "MarketWatch",
       "category": "海外金融",
+      "published": "2026-09-24T16:23:00+00:00"
+    },
+    {
+      "title": "Why is the liver so weirdly regenerative?",
+      "link": "https://dynomight.substack.com/p/liver",
+      "summary": "Article URL: https://dynomight.substack.com/p/liver\nComments URL: https://news.ycombinator.com/item?id=49832938\nPoints: 17\n# Comments: 16",
+      "source": "Hacker News",
+      "category": "テクノロジー",
       "published": "2026-09-24T16:23:00+00:00"
     },
     {
@@ -928,6 +992,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-24T14:27:42.219539+00:00"
+    },
+    {
+      "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
+      "link": "https://eprint.iacr.org/2026/2131.pdf",
+      "summary": "https://arstechnica.com/security/2026/09/theres-a-new-way-to...\n\nComments URL: https://news.ycombinator.com/item?id=49831098\nPoints: 9\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-24T14:26:32+00:00"
     },
     {
       "title": "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
@@ -3666,6 +3738,14 @@
       "published": "2026-09-23T23:00:00+00:00"
     },
     {
+      "title": "Show HN: Make cursed fonts like Times New Bastard",
+      "link": "https://bastardica.mitpit.com",
+      "summary": "A joke tool that abuses OpenType's ligature feature to mix fonts. It works pretty fast on client-side by loading Python in WASM.\n\nComments URL: https://news.ycombinator.com/item?id=49823738\nPoints: 14\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-23T22:53:28+00:00"
+    },
+    {
       "title": "米中、「釜山合意」の延長で合意 1月まで＝米財務長官 - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNks2ZFI3SmMwd1hwcXZZRWtCaFh4SFFKemZ5TENOZUZZdkxabkVzVTlhVjE1QzRwOFVxYTRZbU9sSlhfeUtsMlpzUjFIVzEzWHBESE5TU3YyQnNwUklZeHUybmdlVndyc0ktNG9HMFlDZUdZd1FSTWluU3NlbGFjR3cxUVBvdw?oc=5",
       "summary": "米中、「釜山合意」の延長で合意 1月まで＝米財務長官&nbsp;&nbsp;jp.reuters.com",
@@ -4282,6 +4362,14 @@
       "published": "2026-09-23T20:18:00+00:00"
     },
     {
+      "title": "Geothermal heat map of US hot springs",
+      "link": "https://www.soakingsprings.com/hot-springs/geothermal-map",
+      "summary": "Article URL: https://www.soakingsprings.com/hot-springs/geothermal-map\nComments URL: https://news.ycombinator.com/item?id=49821835\nPoints: 18\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-23T20:12:10+00:00"
+    },
+    {
       "title": "Ten-Year Treasury Yield Reaches 19-Year High Amid Broad Bonds Selloff",
       "link": "https://www.wsj.com/finance/investing/ten-year-treasury-yield-reaches-19-year-high-amid-broad-bonds-selloff-087132fb?mod=rss_markets_main",
       "summary": "The 10-year benchmark, which has a broad impact on borrowing costs across the economy, rose as high as 5.14%, an intraday level last seen in July 2007.",
@@ -4408,6 +4496,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-23T19:43:11+00:00"
+    },
+    {
+      "title": "Show HN: AgentRun: DSL to turn agents into workflows",
+      "link": "https://github.com/Parcha-ai/agentrun",
+      "summary": "Hi HN,I just open sourced the DSL that our harness in grep.ai uses to turn repeatable parts of agent work into workflows. You can combine tool calls, code, Jev-powered system one decisions for things like routing and screening evidence, and agents when a step needs more investigation.Our harness uses the traces and retro notes agents leave behind when doing a job to figure out which parts can become a workflow. The idea is to make the work easier to understand and avoid paying for a full agent loop where one isn’t needed.\nFor example, a research workflow can split a question into subquestions, send agents to research them in parallel, use Jev to screen the evidence, and have another agent write the report. You can inspect the steps, evaluate the evidence screening separately, or change one agent without rebuilding everything.The DSL and examples are in our GitHub. There’s a scripted demo you can run without API keys: https://github.com/Parcha-ai/agentrunYou can also use it as a Pi extension to build, inspect, and run workflows: https://github.com/Parcha-ai/agentrun#use-it-in-piI would love to hear if this is useful to others.More background on how AgentRun works in this video: https://www.youtube.com/watch?v=vOVhtGjtwpg. Or read about our use cases in this article: https://x.com/MiguelriosEN/status/2101029313906987422.\n\nComments URL: https://news.ycombinator.com/item?id=49821438\nPoints: 14\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-23T19:42:58+00:00"
     },
     {
       "title": "U.S. Natural Gas Futures Settle Higher",
@@ -4938,6 +5034,14 @@
       "published": "2026-09-23T16:00:00+00:00"
     },
     {
+      "title": "The science of Monkey Island: can grog dissolve a metal mug that fast?",
+      "link": "https://jgeekstudies.org/2026/09/23/the-science-of-monkey-island-can-grog-actually-dissolve-a-metal-mug-that-fast/",
+      "summary": "Article URL: https://jgeekstudies.org/2026/09/23/the-science-of-monkey-island-can-grog-actually-dissolve-a-metal-mug-that-fast/\nComments URL: https://news.ycombinator.com/item?id=49818031\nPoints: 107\n# Comments: 23",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-23T15:55:57+00:00"
+    },
+    {
       "title": "南ア中銀、政策金利7.25％に引き上げ インフレ率3％への抑制目指す - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11TEJPSXA4NlQxT2ZUanZWeDVoblg3cFFpZzY4VThjWDJDZ2Y4UXNQR1loYkZYSTlyTVI4WXBjNHo1NDNwYmhVZmQxTDQ0YkQ0dy0zMGtTVmtmZnNDOE1TN192a2VFOHNNZzZ2dzN0LWxFLUhtc1dCUlZNakg?oc=5",
       "summary": "南ア中銀、政策金利7.25％に引き上げ インフレ率3％への抑制目指す&nbsp;&nbsp;jp.reuters.com",
@@ -5008,6 +5112,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-23T15:37:23+00:00"
+    },
+    {
+      "title": "Rails World 2026 Opening Keynote [video]",
+      "link": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+      "summary": "Article URL: https://www.youtube.com/watch?v=vDjW_dRyKXY\nComments URL: https://news.ycombinator.com/item?id=49817680\nPoints: 49\n# Comments: 22",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-23T15:33:33+00:00"
     },
     {
       "title": "US Treasury yields soar after strong data fuels bets on further rate rises",
@@ -5608,6 +5720,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-23T12:57:59+00:00"
+    },
+    {
+      "title": "WaveDigger: Dig into wireless signals to discover their physical locations",
+      "link": "https://github.com/christianrowlands/wavedigger",
+      "summary": "Article URL: https://github.com/christianrowlands/wavedigger\nComments URL: https://news.ycombinator.com/item?id=49815370\nPoints: 45\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-23T12:57:07+00:00"
     },
     {
       "title": "What AI-Native Looks Like",
@@ -8146,6 +8266,14 @@
       "published": "2026-09-22T18:19:56+00:00"
     },
     {
+      "title": "Enjoy Every Sandwich",
+      "link": "https://bradmontague.substack.com/p/enjoy-every-sandwich",
+      "summary": "Article URL: https://bradmontague.substack.com/p/enjoy-every-sandwich\nComments URL: https://news.ycombinator.com/item?id=49805806\nPoints: 166\n# Comments: 85",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-22T18:19:25+00:00"
+    },
+    {
       "title": "Gold Futures Slip As U.S. Dollar Gains",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-as-strong-fundamentals-support-9f92da11?mod=rss_markets_main",
       "summary": "Gold futures settled modestly lower as the U.S. dollar firmed and yields edged up, while finding some support in lower oil prices that if sustained could ease inflation pressures.",
@@ -8232,6 +8360,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-22T17:52:00+00:00"
+    },
+    {
+      "title": "My Weird New Hobby: Wandering Around Tokyo on Google Maps",
+      "link": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
+      "summary": "Article URL: https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/\nComments URL: https://news.ycombinator.com/item?id=49805344\nPoints: 16\n# Comments: 8",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-22T17:49:46+00:00"
     },
     {
       "title": "Comex Gold Settles 0.16% Lower at $4338.90",
