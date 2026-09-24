@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T21:23:30.368659+00:00",
+  "generated_at": "2026-09-24T21:33:56.316422+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -430,9 +430,21 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "ＮＹ株３日続落、１６１ドル安　長期金利の上昇嫌気",
+      "link": "https://www.jiji.com/jc/article?k=2026092500174&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-24T21:33:42.185817+00:00"
+    },
     {
       "title": "ＮＹ株３日続落、１６１ドル安",
       "link": "https://www.jiji.com/jc/article?k=2026092500174&g=int&m=rss",
@@ -456,6 +468,22 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-24T21:23:25.435072+00:00"
+    },
+    {
+      "title": "Why investors aren’t buying yet another attempt by the Treasury to calm the rattled bond market",
+      "link": "https://www.marketwatch.com/story/why-investors-arent-buying-yet-another-attempt-by-the-treasury-to-calm-the-rattled-bond-market-b168cac3?mod=mw_rss_topstories",
+      "summary": "Back-to-back weak auctions for Treasury notes show that government repurchases haven’t spurred demand for bonds.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-24T21:23:00+00:00"
+    },
+    {
+      "title": "OpenAI breach of Australian government linked to wider AI hacking campaign",
+      "link": "https://www.ft.com/content/2a77e2f7-3c22-4082-8bb3-492675f46c77?syn-25a6b1a6=1",
+      "summary": "Researchers detail three other attempts by AI agents to break into websites during ‘mundane data retrieval tasks’",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-24T21:06:45+00:00"
     },
     {
       "title": "Vibe Coding Production Kit – a production workflow for AI coding agents",
@@ -6325,6 +6353,14 @@
       "title": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.",
       "link": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/",
       "summary": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute.\nThe post Developers want more efficient software. Here’s what over 1000 GitHub users told us they need. appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "category": "開発者向け",
+      "published": "2026-09-23T13:00:00+00:00"
+    },
+    {
+      "title": "Developers want more efficient software. Here’s what over 1,000 GitHub users told us they need.",
+      "link": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/",
+      "summary": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute.\nThe post Developers want more efficient software. Here’s what over 1,000 GitHub users told us they need. appeared first on The GitHub Blog.",
       "source": "GitHub Blog",
       "category": "開発者向け",
       "published": "2026-09-23T13:00:00+00:00"
