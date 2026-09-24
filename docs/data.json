@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T10:48:20.724999+00:00",
+  "generated_at": "2026-09-24T11:07:33.655263+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -414,6 +414,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f0059c9d6a0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -448,6 +452,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-24T14:30:00+00:00"
+    },
+    {
+      "title": "１７歳大橋信、２００平で世界新　加藤心冨も金、加納虹輝と江村美咲もＶ―愛知・名古屋アジア大会",
+      "link": "https://www.jiji.com/jc/article?k=2026092400899&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-24T11:07:21.761170+00:00"
+    },
+    {
+      "title": "As the Trump-Xi meetings unfold, investors should watch for this hidden AI trade",
+      "link": "https://www.marketwatch.com/story/as-the-trump-xi-meetings-unfold-investors-should-watch-for-this-hidden-ai-trade-7abf11b9?mod=mw_rss_topstories",
+      "summary": "Easing tensions over Taiwan could ripple through the chip stocks powering the AI boom",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-24T11:01:00+00:00"
     },
     {
       "title": "民主改革の会１８人で船出　公明は復党了承、統一会派「中道」結成",
@@ -586,6 +606,14 @@
       "published": "2026-09-24T09:49:33+00:00"
     },
     {
+      "title": "Nokia Design Archive (2025)",
+      "link": "https://nokiadesignarchive.aalto.fi/index.html",
+      "summary": "Article URL: https://nokiadesignarchive.aalto.fi/index.html\nComments URL: https://news.ycombinator.com/item?id=49828385\nPoints: 51\n# Comments: 20",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-24T09:49:33+00:00"
+    },
+    {
       "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
       "link": "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html",
       "summary": "Chinese confirmation of the AI discussions came just hours before President Xi Jinping was scheduled to begin talks with U.S. President Donald Trump.",
@@ -712,6 +740,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-24T09:20:20+00:00"
+    },
+    {
+      "title": "Looks promising for document editing with your agent",
+      "link": "https://www.paperinstruments.com/blog/introducing-paper-office",
+      "summary": "Article URL: https://www.paperinstruments.com/blog/introducing-paper-office\nComments URL: https://news.ycombinator.com/item?id=49828177\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-24T09:19:47+00:00"
     },
     {
       "title": "‘We made a bad, bad decision’: I learned the hard way how to manage my aging father’s money",
@@ -843,6 +879,14 @@
     },
     {
       "title": "The market is pricing in too many Fed hikes, says the former Dallas Fed chief",
+      "link": "https://www.marketwatch.com/story/the-market-is-pricing-in-too-many-fed-hikes-says-the-former-dallas-fed-chief-5de8cc3c?mod=mw_rss_topstories",
+      "summary": "The bond market is getting too aggressive in pricing in Federal Reserve rate hikes, a former central bank official says.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-24T08:42:00+00:00"
+    },
+    {
+      "title": "The market is pricing in too many Fed hikes, says one former Dallas Fed chief",
       "link": "https://www.marketwatch.com/story/the-market-is-pricing-in-too-many-fed-hikes-says-the-former-dallas-fed-chief-5de8cc3c?mod=mw_rss_topstories",
       "summary": "The bond market is getting too aggressive in pricing in Federal Reserve rate hikes, a former central bank official says.",
       "source": "MarketWatch",
