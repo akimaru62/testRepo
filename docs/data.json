@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T04:09:12.047572+00:00",
+  "generated_at": "2026-09-24T04:29:19.683252+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -418,6 +418,54 @@
   ],
   "items": [
     {
+      "title": "質問の回答調査で侵入　豪政府系機関システムに―米オープンＡＩ",
+      "link": "https://www.jiji.com/jc/article?k=2026092400522&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-24T04:29:14.293255+00:00"
+    },
+    {
+      "title": "音声操作の小型ＡＩ端末　個人向けエージェントに指示―米メタ",
+      "link": "https://www.jiji.com/jc/article?k=2026092400460&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-24T04:29:14.293218+00:00"
+    },
+    {
+      "title": "円安進行 レートチェック効果相殺",
+      "link": "https://news.yahoo.co.jp/pickup/6596356?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-24T04:20:49+00:00"
+    },
+    {
+      "title": "Global bond sell-off deepens as oil holds above $100",
+      "link": "https://www.ft.com/content/2d87f8bf-d529-4997-90c5-393ef65d280c?syn-25a6b1a6=1",
+      "summary": "Rising yields strain public finances as expectations of Fed rate rise in October jump to about 70%",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-24T04:03:29+00:00"
+    },
+    {
+      "title": "Emerging markets shrug off Iran war in record foreign borrowing spree",
+      "link": "https://www.ft.com/content/e3c74df4-9131-44cd-bd31-49691112bc85?syn-25a6b1a6=1",
+      "summary": "Fallout from conflict, rising interest rates and a strong dollar have not dented investor appetite for EM bonds",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-24T04:00:12+00:00"
+    },
+    {
+      "title": "Trump’s US no longer a reliable ally, warns Belgium in leaked document",
+      "link": "https://www.ft.com/content/bec22e6b-1267-4d9f-a192-60763a0797c3?syn-25a6b1a6=1",
+      "summary": "Dynamics in Washington ‘are likely to compromise several vital interests’ of Belgium and the EU, says strategy document from foreign ministry",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-24T04:00:11+00:00"
+    },
+    {
       "title": "｢欧州VSプーチン｣ロシアのハイブリッド攻撃頻発でEUが対決姿勢を鮮明に…高市政権の対ロ外交はこのままでいいのか | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/958797?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "ロシアのハイブリッド攻撃が欧州各地で頻発し､プーチン政権と欧州諸国の対立は新たな局面に突入しています。サイバー攻撃や無人機事件が相次ぐ中､欧州は反発を強めつつも対応策に苦慮。日本の対ロ外交にも問われ…",
@@ -458,9 +506,25 @@
       "published": "2026-09-24T03:58:36+00:00"
     },
     {
+      "title": "Show HN: How long do I need to work at my salary before I can coast, or retire?",
+      "link": "https://github.com/karmanyaahm/budget-tools/tree/main/fire",
+      "summary": "I made a financial planning tool in a couple hours that can model various stages of life and potentially guide job searching and work timelines.\n\nComments URL: https://news.ycombinator.com/item?id=49826059\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-24T03:53:54+00:00"
+    },
+    {
       "title": "ＪＰＸ、通期純利益を上方修正 株式売買活況で - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOHlGbXlRSmVjSVh3ejg4RG54NEFVN3BqTWlGTDJlZTRyU0FDSXpEQWZnLXJOS09Pek1Sd2VqcnlKZzd0dW5fdTR5aEdMTlI0RVJDUTczVUdscC04YXBXd0pCVWl1dk9RMGpZWWpVaTJjSnZ1RVVPcXJfWFZvdVN5OTdRZXU?oc=5",
       "summary": "ＪＰＸ、通期純利益を上方修正 株式売買活況で&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-24T03:42:00+00:00"
+    },
+    {
+      "title": "ＪＰＸ、通期純利益を上方修正 株式売買活況で - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOHlGbXlRSmVjSVh3ejg4RG54NEFVN3BqTWlGTDJlZTRyU0FDSXpEQWZnLXJOS09Pek1Sd2VqcnlKZzd0dW5fdTR5aEdMTlI0RVJDUTczVUdscC04YXBXd0pCVWl1dk9RMGpZWWpVaTJjSnZ1RVVPcXJfWFZvdVN5OTdRZXU?oc=5",
+      "summary": "ＪＰＸ、通期純利益を上方修正 株式売買活況で&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-24T03:42:00+00:00"
@@ -538,6 +602,22 @@
       "published": "2026-09-24T02:54:06.275052+00:00"
     },
     {
+      "title": "マクロスコープ：高市首相の指示書が語る新内閣の課題、片山・城内両氏へは注文も - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdzdnNHJ0WW9PVnlOdll6djkwaFIwRDhXN2pGY0VGMFNtM2VMMWV0OEJwRm5jNVFhVjBEWDlmMDNoLVZXVUsybHlMZnZKMUo1R3BqZzd4Y3JxZWR2bHEwOTZPeHd4aTgta3ZqSUZwSVNmS2p0UU5QbUlZNnh1bUtLNUpqU0w?oc=5",
+      "summary": "マクロスコープ：高市首相の指示書が語る新内閣の課題、片山・城内両氏へは注文も&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-24T02:53:00+00:00"
+    },
+    {
+      "title": "Ideas on modernizing the open-source desktop",
+      "link": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1095425/2d9f411252325784/\nComments URL: https://news.ycombinator.com/item?id=49825642\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-24T02:52:09+00:00"
+    },
+    {
       "title": "東京都の中古マンション 価格下落",
       "link": "https://news.yahoo.co.jp/pickup/6596346?source=rss",
       "summary": "",
@@ -610,6 +690,14 @@
       "published": "2026-09-24T02:08:00+00:00"
     },
     {
+      "title": "ロシア、弾道ミサイルでキーウ攻撃 2人死亡・6人負傷 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTEdtYXczRDFiY3FCUDFqczdLNEpwcVA3a2ZOdFFzTjJwSS1BMnhsMThDbnN2cjN3am5ZMnJVNDFtd2V6Nl9ZWnJTeEVIS3BsOFVib0xGSjROV0xtbndURGJvcVo2a3ZqMjZ0M0ZiUS1FUWd5VW50aEVCblhqTnZ0eDVOYmw?oc=5",
+      "summary": "ロシア、弾道ミサイルでキーウ攻撃 2人死亡・6人負傷&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-24T02:08:00+00:00"
+    },
+    {
       "title": "教科書にも載った｢スポーツの美しい瞬間｣の裏で…東京五輪出場の15歳スケートボード選手が過ごした\"空白の4年間\"と今 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/958030?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "世界中が感動したあの場面を､覚えているだろうか。東京オリンピック スケートボード女子パーク決勝､最後の大技で転倒した15歳の金メダル候補を､各国のライバルたちが担ぎ上げて称えた。教科書にも掲載された…",
@@ -645,6 +733,14 @@
       "title": "中国自動車メーカーの欧州投資を支持、商務相「保護主義望まず」 - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSmFGMkVsS2tLOHpaeHhyYzVOQkwwU3J0UWZRNU1ieXdUTEVOcDN0SF9sTDc4N2EwWUdUMmdFM2dKT2hWYUlIbHFuQ292U2pnSXZoamEwY21FRGszZHg0QVNwN2VRTmZVekhsemV2NGRocVhlR3Jjd0RSblNfZUlKYldn?oc=5",
       "summary": "中国自動車メーカーの欧州投資を支持、商務相「保護主義望まず」&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-24T01:35:00+00:00"
+    },
+    {
+      "title": "中国自動車メーカーの欧州投資を支持、商務相「保護主義望まず」 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSmFGMkVsS2tLOHpaeHhyYzVOQkwwU3J0UWZRNU1ieXdUTEVOcDN0SF9sTDc4N2EwWUdUMmdFM2dKT2hWYUlIbHFuQ292U2pnSXZoamEwY21FRGszZHg0QVNwN2VRTmZVekhsemV2NGRocVhlR3Jjd0RSblNfZUlKYldn?oc=5",
+      "summary": "中国自動車メーカーの欧州投資を支持、商務相「保護主義望まず」&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-24T01:35:00+00:00"
@@ -698,6 +794,14 @@
       "published": "2026-09-24T01:32:00+00:00"
     },
     {
+      "title": "製造業ＰＭＩ9月は54.1に小幅低下、生産・新規受注の伸び鈍化＝Ｓ＆Ｐグローバル - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZkhiVG83dEhMVngyYWpXYlVfVTh6MGFtenJMdGlQSXpaeTU4RlVOenlURXJuRk1WLVpaSzV3YXJYSG9nNHNjRU5sSi1hU1JYMWhDUEt5ZnYyREdLaHNVOEJSZTBpOENFdURCOE9TREstcVNGOWZZQXJkOElnMWw4LTJqdE8?oc=5",
+      "summary": "製造業ＰＭＩ9月は54.1に小幅低下、生産・新規受注の伸び鈍化＝Ｓ＆Ｐグローバル&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-24T01:32:00+00:00"
+    },
+    {
       "title": "｢批判は\"統計\"で処理できる！｣—何をやってもうまくいく人が実践する｢最強の思考習慣｣〜Testosterone×中野優作 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/956649?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "アメリカ留学中に40kg減量を達成しSNSで話題のTestosteroneさんと､日本一車を売る男･中野優作さん。圧倒的行動力を持つ2人が､どんな批判にも揺るがず､逆境も｢今でよかった｣と前向きに捉…",
@@ -720,6 +824,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-24T01:24:00+00:00"
+    },
+    {
+      "title": "Liquid Network Security Incident Assessment",
+      "link": "https://blog.blockstream.com/liquid-network-security-incident-assessment/",
+      "summary": "Article URL: https://blog.blockstream.com/liquid-network-security-incident-assessment/\nComments URL: https://news.ycombinator.com/item?id=49824978\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-24T01:18:33+00:00"
     },
     {
       "title": "FLAWED's Flaws and What This Means for Industry Research",
@@ -757,6 +869,14 @@
       "title": "ベライゾン、ＡＩ研修に7000万ドル拠出 求職者や中小企業など対象 - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01dk1WMTRMaElBOXZfckVFdEI1czhESngwTmo1ZEMtM3ltZ2ItOHpMWlI5LWNGWVUtT0YxbjZNaGJ2X2ZHZl9CNk5oUkdMQ0M1WF9heW5ka1JzX0JPNkUxaHFVZHpTRjJkeDFZUVdRYTd4NXlvYVl2N2RJaVU?oc=5",
       "summary": "ベライゾン、ＡＩ研修に7000万ドル拠出 求職者や中小企業など対象&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-24T00:52:00+00:00"
+    },
+    {
+      "title": "ベライゾン、ＡＩ研修に7000万ドル拠出 求職者や中小企業など対象 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01dk1WMTRMaElBOXZfckVFdEI1czhESngwTmo1ZEMtM3ltZ2ItOHpMWlI5LWNGWVUtT0YxbjZNaGJ2X2ZHZl9CNk5oUkdMQ0M1WF9heW5ka1JzX0JPNkUxaHFVZHpTRjJkeDFZUVdRYTd4NXlvYVl2N2RJaVU?oc=5",
+      "summary": "ベライゾン、ＡＩ研修に7000万ドル拠出 求職者や中小企業など対象&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-24T00:52:00+00:00"
@@ -805,6 +925,14 @@
       "title": "中国主席、米中は「パートナー」であるべき 訪米で表明 - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QZE5JTDREUy1kMHlQX1Y2WW1XamR0NFV6WVc2OXBvUTJ2Nml0enhWamNrb2Jaa3BuaHozMEktbnVsSlZ2VkpwbnFaVWdfSzN2SWduUTQ2WWVuQnZDR0VYQ2xlc0Ztcml6U19VQzlKRklKRWplOFJoMFNreHNVdw?oc=5",
       "summary": "中国主席、米中は「パートナー」であるべき 訪米で表明&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-24T00:35:00+00:00"
+    },
+    {
+      "title": "中国主席、米中は「パートナー」であるべき 訪米で表明 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QZE5JTDREUy1kMHlQX1Y2WW1XamR0NFV6WVc2OXBvUTJ2Nml0enhWamNrb2Jaa3BuaHozMEktbnVsSlZ2VkpwbnFaVWdfSzN2SWduUTQ2WWVuQnZDR0VYQ2xlc0Ztcml6U19VQzlKRklKRWplOFJoMFNreHNVdw?oc=5",
+      "summary": "中国主席、米中は「パートナー」であるべき 訪米で表明&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-24T00:35:00+00:00"
@@ -922,6 +1050,14 @@
       "published": "2026-09-24T00:00:00+00:00"
     },
     {
+      "title": "世界の債務残高、過去最高の365兆ドルに 新興国で急増＝ＩＩＦ - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03THFiZjVRWWlaUXRvbzc1ZUNuWHRLYlZpV3psOFduRFRHTDZ6MkhPeVJOQTFfd2dINEJ0WTZjWWZ6S2d4THBwNmNIS2NZempHei1oQ1VkOGcxWllNZGxhODlWQnZJWkRteU5pWFN4RUJyMUFOUUU0elNMNzU?oc=5",
+      "summary": "世界の債務残高、過去最高の365兆ドルに 新興国で急増＝ＩＩＦ&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-24T00:00:00+00:00"
+    },
+    {
       "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
       "link": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
       "summary": "The deal, which was set to expire in November, will now be extended to Jan. 10, Bessent said, noting the need for Beijing to fulfill more deliverables.",
@@ -938,9 +1074,25 @@
       "published": "2026-09-23T23:58:28+00:00"
     },
     {
+      "title": "ウクライナ、北朝鮮兵2人を韓国に引き渡し ゼレンスキー氏国連演説で説明 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMkswakEzMVVCWE9hbjMzZW9NZDdCUVB5MnNxVjJGWnNvcUk2RG1CUXRaVVZNSE8xRFdOcjRGbVhMeFo4MU1tMHVtXzBqSmNWWGFyeDZTMWJCTkFzNVZZWnM3cDIzcHZlM2hZcmVXcU55c0FpQkhHOFZBWlFnc3NhRVpSLUI?oc=5",
+      "summary": "ウクライナ、北朝鮮兵2人を韓国に引き渡し ゼレンスキー氏国連演説で説明&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-23T23:58:28+00:00"
+    },
+    {
       "title": "宇宙関連投資が倍増、1年で230億ドル 実績重視に＝報告書 - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbHdYcXVpbEdJSHI0X25pbDdQOWJqdGlJZndicnJnejlFRTNmcFV2R2pwN0ZEakFQQk5Id3FXX3Q5SU9MSUVPQUJkMDlFeDZoc2dGYnBxM0dIcE5UREM1MTVEVzQydFFFa1JUblltNDRpSUFTTmlLMWQtVFRUNENlZURPc1k?oc=5",
       "summary": "宇宙関連投資が倍増、1年で230億ドル 実績重視に＝報告書&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-23T23:53:43+00:00"
+    },
+    {
+      "title": "宇宙関連投資が倍増、1年で230億ドル 実績重視に＝報告書 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbHdYcXVpbEdJSHI0X25pbDdQOWJqdGlJZndicnJnejlFRTNmcFV2R2pwN0ZEakFQQk5Id3FXX3Q5SU9MSUVPQUJkMDlFeDZoc2dGYnBxM0dIcE5UREM1MTVEVzQydFFFa1JUblltNDRpSUFTTmlLMWQtVFRUNENlZURPc1k?oc=5",
+      "summary": "宇宙関連投資が倍増、1年で230億ドル 実績重視に＝報告書&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-23T23:53:43+00:00"
@@ -1050,6 +1202,14 @@
       "published": "2026-09-23T23:13:44+00:00"
     },
     {
+      "title": "米超党派議員による中国車禁止の恒久化法案、週内の上院通過目指す - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOXzhGSDR2QUZ2b19SbkhvR2NSeGhKd1NPem9TNHlxcXVRcnhfOFo5RWpUbzcwSk1VbzV3NGExXzF6MTh1c1ZySmtRcTFDLTFrOXBJTmZPV3M0MGtFX0RDOXZfOUttcWkzbnliclhKcEZhY2RQaXA0VVptSmFvMWNYMVJmeDltZw?oc=5",
+      "summary": "米超党派議員による中国車禁止の恒久化法案、週内の上院通過目指す&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-23T23:13:44+00:00"
+    },
+    {
       "title": "We've Turned Starlink into a Planetary Barometer",
       "link": "https://www.spaceweather.com/starlink/starlink_drag_explainer.html",
       "summary": "Article URL: https://www.spaceweather.com/starlink/starlink_drag_explainer.html\nComments URL: https://news.ycombinator.com/item?id=49823922\nPoints: 8\n# Comments: 2",
@@ -1061,6 +1221,14 @@
       "title": "トランプ氏、習氏に米国人2人の解放要求へ 他の人権問題提起は不透明 - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BcEFiX2pYLVExNDR2YnRUa19oVHN4dnlvUWtfcU9ieHhfWTh2OFAyR0lvc2VBdS1Fek84OGk4NHV3cnFIZDQ1Y29tUDhQY3Ixenhhd2tmZ19FRTVCcUp4WHRmWFFCc25xdVlfLTZjNTVtRnhOTFJMWWtvSXlOQQ?oc=5",
       "summary": "トランプ氏、習氏に米国人2人の解放要求へ 他の人権問題提起は不透明&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-23T23:09:43+00:00"
+    },
+    {
+      "title": "トランプ氏、習氏に米国人2人の解放要求へ 他の人権問題提起は不透明 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BcEFiX2pYLVExNDR2YnRUa19oVHN4dnlvUWtfcU9ieHhfWTh2OFAyR0lvc2VBdS1Fek84OGk4NHV3cnFIZDQ1Y29tUDhQY3Ixenhhd2tmZ19FRTVCcUp4WHRmWFFCc25xdVlfLTZjNTVtRnhOTFJMWWtvSXlOQQ?oc=5",
+      "summary": "トランプ氏、習氏に米国人2人の解放要求へ 他の人権問題提起は不透明&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-23T23:09:43+00:00"
@@ -1154,9 +1322,25 @@
       "published": "2026-09-23T22:51:44+00:00"
     },
     {
+      "title": "米中、「釜山合意」の延長で合意 1月まで＝米財務長官 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNks2ZFI3SmMwd1hwcXZZRWtCaFh4SFFKemZ5TENOZUZZdkxabkVzVTlhVjE1QzRwOFVxYTRZbU9sSlhfeUtsMlpzUjFIVzEzWHBESE5TU3YyQnNwUklZeHUybmdlVndyc0ktNG9HMFlDZUdZd1FSTWluU3NlbGFjR3cxUVBvdw?oc=5",
+      "summary": "米中、「釜山合意」の延長で合意 1月まで＝米財務長官&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-23T22:51:44+00:00"
+    },
+    {
       "title": "米、プーチン氏を12月のＧ２０に招待 トランプ氏と首脳会談も - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb3I2Sy04dDB6V3BIVnNJVUlsc2RIS2FDeU9UdHJPYzhmTmlaRGZ1SkNCWVRzY1hxZ1NxTHo3MWtvanVscXZNd3lEbFpmckpZQTd4T3VZRThEWVpDVmMtYTR0UjExTmp2aFcyMUdKU09vUDhMSzIwYm85eGJISVE2UmdNYW8?oc=5",
       "summary": "米、プーチン氏を12月のＧ２０に招待 トランプ氏と首脳会談も&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-23T22:48:09+00:00"
+    },
+    {
+      "title": "米、プーチン氏を12月のＧ２０に招待 トランプ氏と首脳会談も - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb3I2Sy04dDB6V3BIVnNJVUlsc2RIS2FDeU9UdHJPYzhmTmlaRGZ1SkNCWVRzY1hxZ1NxTHo3MWtvanVscXZNd3lEbFpmckpZQTd4T3VZRThEWVpDVmMtYTR0UjExTmp2aFcyMUdKU09vUDhMSzIwYm85eGJISVE2UmdNYW8?oc=5",
+      "summary": "米、プーチン氏を12月のＧ２０に招待 トランプ氏と首脳会談も&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-23T22:48:09+00:00"
@@ -1178,6 +1362,14 @@
       "published": "2026-09-23T22:41:43+00:00"
     },
     {
+      "title": "エヌビディアＣＥＯ、ＡＩ企業への規制免除に反対 反トラスト法など - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZS3d2WjM0QVhOeHBWUGJXd0hxSFluNUN5VkJEVHpvbHVEWDYxLThuRmFRZm1sTEROQUZfTlc5WFN5ZzRMbjlHaFV0X2p5XzlwaG9JTmV5Ml9lUG5GZ0xSVkF4Y0FEX3R6WTFHZXZBV1VlYmY4aERFd2V1X1E?oc=5",
+      "summary": "エヌビディアＣＥＯ、ＡＩ企業への規制免除に反対 反トラスト法など&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-23T22:41:43+00:00"
+    },
+    {
       "title": "Linux support is coming to Snapdragon X2 Series",
       "link": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
       "summary": "Article URL: https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux\nComments URL: https://news.ycombinator.com/item?id=49823582\nPoints: 17\n# Comments: 5",
@@ -1189,6 +1381,14 @@
       "title": "オープンＡＩのエージェントが豪政府サイト侵入、6月に発生と首相説明 - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FMFVqZWJJcmZtUF91cHRDcDBJOWUwZVNENWFiQThIczEwZ1RPMUpPQk4yU3FaS20yUTdOZVdLUUF3RHpXSnFhSGhoVVhVWWRJRFVWWUFnaVZrMHRmYjd6RHlvMENuZW5CbHpZakNMRE16N0NIOEo5UkpRU1lEQQ?oc=5",
       "summary": "オープンＡＩのエージェントが豪政府サイト侵入、6月に発生と首相説明&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-23T22:37:53+00:00"
+    },
+    {
+      "title": "オープンＡＩのエージェントが豪政府サイト侵入、6月に発生と首相説明 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FMFVqZWJJcmZtUF91cHRDcDBJOWUwZVNENWFiQThIczEwZ1RPMUpPQk4yU3FaS20yUTdOZVdLUUF3RHpXSnFhSGhoVVhVWWRJRFVWWUFnaVZrMHRmYjd6RHlvMENuZW5CbHpZakNMRE16N0NIOEo5UkpRU1lEQQ?oc=5",
+      "summary": "オープンＡＩのエージェントが豪政府サイト侵入、6月に発生と首相説明&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-23T22:37:53+00:00"
@@ -1405,6 +1605,14 @@
       "title": "ＣＮＮなどのホワイトハウス排除措置、過去の判例に適合せず＝米地裁判事 - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdXBCb1pPdjJkSE50TktSWmVsNHFuTmRpVXVEdkd4Um9acHBWMVhBMlVpMVFGWmNiZllJXzMzaEZWdnlZa25IR2EwN3pzY0R4Nko0Ny1waFNTR2pfSWxDYjhZMl84cUlqUzBWaVRTdG9EM0J1MmxMNUNXYm41M3FmLVpQZm1TQQ?oc=5",
       "summary": "ＣＮＮなどのホワイトハウス排除措置、過去の判例に適合せず＝米地裁判事&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-23T21:16:37+00:00"
+    },
+    {
+      "title": "ＣＮＮなどのホワイトハウス排除措置、過去の判例に適合せず＝米地裁判事 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdXBCb1pPdjJkSE50TktSWmVsNHFuTmRpVXVEdkd4Um9acHBWMVhBMlVpMVFGWmNiZllJXzMzaEZWdnlZa25IR2EwN3pzY0R4Nko0Ny1waFNTR2pfSWxDYjhZMl84cUlqUzBWaVRTdG9EM0J1MmxMNUNXYm41M3FmLVpQZm1TQQ?oc=5",
+      "summary": "ＣＮＮなどのホワイトハウス排除措置、過去の判例に適合せず＝米地裁判事&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-23T21:16:37+00:00"
@@ -1842,9 +2050,25 @@
       "published": "2026-09-23T18:59:35+00:00"
     },
     {
+      "title": "000725.sz - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0TlFWM21zV3gyZ1YyTU5OX3JpQ1hIbmpXVHdNeHE1Z2FqOThoTTRjdHprVHBHcEVaU1Q5cUh1SGt1dW1hSkg0czZ6azNIY1hmS2FfcU9UY3NSeFY0Wk5NMVNXMk9pOEF4dGtxbW9kY2plc0dQaUpZbkRR?oc=5",
+      "summary": "000725.sz - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-23T18:59:35+00:00"
+    },
+    {
       "title": "ARDS.AS - | Stock Price & Latest News | Reuters - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPVFcyQS1XMjlJREswNHJOOFVsYUVMLWdoTmF6bXRfTlFMSmxwZ2l3OEhQSFAtQ0lIeWZkS3RUWnNIWS1VSVVEVk1yMkY3anRwTDR5Rko4WGxueW9V?oc=5",
       "summary": "ARDS.AS - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-23T18:56:18+00:00"
+    },
+    {
+      "title": "ARDS.AS - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPVFcyQS1XMjlJREswNHJOOFVsYUVMLWdoTmF6bXRfTlFMSmxwZ2l3OEhQSFAtQ0lIeWZkS3RUWnNIWS1VSVVEVk1yMkY3anRwTDR5Rko4WGxueW9V?oc=5",
+      "summary": "ARDS.AS - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-23T18:56:18+00:00"
@@ -1888,6 +2112,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-23T18:24:00+00:00"
+    },
+    {
+      "title": "Damage across Kyiv after one of Russia's heaviest drone attacks - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZTcxb0JENEtfY3MyQzV4bWFTM21oNUVfVzhCcG9rT0V4ZEJmTjAtLWtoUHl3LWV0b2owYVlxWnRUYjJuVkdpcE56TVdocnNJTzZlS2dUUEVYVGVwTHFqZjhVSzBOM0pOM0xfLWRYQW41dGV4WE9jSUhnZ0ItYTJQSU1QYnFSVjhiZHQxNDFlbUNiX3lzc19fV2REczlocTFBZ2E1c2Z3?oc=5",
+      "summary": "Damage across Kyiv after one of Russia's heaviest drone attacks&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-23T18:20:00+00:00"
     },
     {
       "title": "U.S. Stocks Decline as Treasury Selloff Deepens",
