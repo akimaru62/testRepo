@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T18:30:53.409606+00:00",
+  "generated_at": "2026-09-24T18:50:00.109783+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -450,6 +450,14 @@
       "published": "2026-09-24T18:30:48.027522+00:00"
     },
     {
+      "title": "Stable (YC W20) Is Hiring Product Engineers",
+      "link": "https://www.usestable.com/careers/product-engineer",
+      "summary": "Article URL: https://www.usestable.com/careers/product-engineer\nComments URL: https://news.ycombinator.com/item?id=49834893\nPoints: 0\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-24T18:29:18+00:00"
+    },
+    {
       "title": "8% mortgage rates are ‘not an impossibility’ as the 30-year fixed rate surges",
       "link": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
       "summary": "With the 10-year Treasury up sharply and the outlook for the U.S. economy looking unclear, some say 8% mortgage rates are back on the table.",
@@ -464,6 +472,14 @@
       "source": "GitHub Blog",
       "category": "開発者向け",
       "published": "2026-09-24T18:26:12+00:00"
+    },
+    {
+      "title": "Creatine uptake enhances antitumor immunity",
+      "link": "https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4",
+      "summary": "Article URL: https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4\nComments URL: https://news.ycombinator.com/item?id=49834825\nPoints: 22\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-24T18:24:52+00:00"
     },
     {
       "title": "It’s no secret that Social Security and Medicare are on the ropes. Here’s what to do instead of panicking.",
@@ -2328,6 +2344,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-24T07:23:07+00:00"
+    },
+    {
+      "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
+      "link": "https://cms-sfx-demo.apeleg.com/",
+      "summary": "Air-gapped file encryption packed into a single, self-decrypting HTML page. Repo: https://github.com/ApelegHQ/ts-cms-ep-sfxI was inspired by self-extracting archives. I wanted to share files with basically no dependencies. The goal was:  1. Something that didn't require any installation (assuming a web browser)\n  2. Have a single file with no network that could self-decrypt\n  3. Be fully auditable\n\nThe second point is done by having (sort of(*)) reproducible builds and embedded OpenPGP signatures.The first point is made by cleverly manipulating the HTML structure so that it can decrypt without breaking the PGP signature. It can even decrypt using bare openssl (which was a design goal too, though getting the exact structure right took some work and bug reports).The third point is accomplished by the first two, and by the source being freely available.(*) Depends on the OS at the moment.\n\nComments URL: https://news.ycombinator.com/item?id=49827375\nPoints: 9\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-24T07:22:17+00:00"
     },
     {
       "title": "Recent Swiss Franc Weakness Might Not Concern SNB",
