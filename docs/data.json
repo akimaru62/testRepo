@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T15:26:17.454847+00:00",
+  "generated_at": "2026-09-24T15:38:24.994421+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -418,6 +418,14 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/aws/feed/",
+      "error": "503 Server Error: Service Temporarily Unavailable for url: https://aws.amazon.com/blogs/aws/feed/"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/architecture/feed/",
+      "error": "503 Server Error: Service Temporarily Unavailable for url: https://aws.amazon.com/blogs/architecture/feed/"
     }
   ],
   "items": [
@@ -443,6 +451,14 @@
       "summary": "",
       "source": "金融庁",
       "category": "公的機関",
+      "published": "2026-09-24T15:30:00+00:00"
+    },
+    {
+      "title": "トランプ氏は､なぜ報道3社のホワイトハウスへの立ち入りを禁じるのか？3社はトランプ氏やホワイトハウス高官らを提訴 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959062?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "トランプ前米大統領がCNNなど主要3報道機関のホワイトハウス立ち入りを禁止したことで､報道の自由と大統領の権限の境界が問われています。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
       "published": "2026-09-24T15:30:00+00:00"
     },
     {
@@ -601,6 +617,14 @@
       "title": "STLAM.PA - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWDFNOXpjRXpDeDFTZnRrYVFMejlTSHNXVHlJRmVXSmJXMzBqQnpSXzJ6aUgtclBzQmdHaVloNHN0cnVtRWV4N3ZCOG9jU0c1cnRKNG9hVXFiOUJoWTRWMGRfbFk2N2FDTWp2U0hXSTltcFFCV1hXT2dtYmY3T0RpenNqRjZkRWp4UXJudg?oc=5",
       "summary": "STLAM.PA - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-24T14:25:05+00:00"
+    },
+    {
+      "title": "STLAM.PA - | Stock Price & Latest News | Reuters - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWDFNOXpjRXpDeDFTZnRrYVFMejlTSHNXVHlJRmVXSmJXMzBqQnpSXzJ6aUgtclBzQmdHaVloNHN0cnVtRWV4N3ZCOG9jU0c1cnRKNG9hVXFiOUJoWTRWMGRfbFk2N2FDTWp2U0hXSTltcFFCV1hXT2dtYmY3T0RpenNqRjZkRWp4UXJudg?oc=5",
+      "summary": "STLAM.PA - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-24T14:25:05+00:00"
