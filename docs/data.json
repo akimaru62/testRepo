@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T15:48:08.899414+00:00",
+  "generated_at": "2026-09-24T16:09:15.594958+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -426,6 +426,10 @@
     {
       "url": "https://aws.amazon.com/blogs/architecture/feed/",
       "error": "503 Server Error: Service Temporarily Unavailable for url: https://aws.amazon.com/blogs/architecture/feed/"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -444,6 +448,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-24T17:00:00+00:00"
+    },
+    {
+      "title": "I spend my time and money caring for my aging mother — yet she gave my brother $100,000. Should I pull back?",
+      "link": "https://www.marketwatch.com/story/i-spend-my-time-and-money-caring-for-my-aging-mother-yet-she-gave-my-brother-100-000-should-i-pull-back-7e4a3185?mod=mw_rss_topstories",
+      "summary": "“My mother started having more trouble getting around. First a knee replacement, then a fall.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-24T16:00:00+00:00"
+    },
+    {
+      "title": "As diesel prices surge, Tesla makes its big play for the trucking market",
+      "link": "https://www.marketwatch.com/story/as-diesel-prices-surge-tesla-makes-its-big-play-for-the-trucking-market-b6e2b6f7?mod=mw_rss_topstories",
+      "summary": "The reintroduction of the heavy-duty, all-electric truck comes at an intriguing time for the industry — but it may not be enough to excite Tesla investors.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-24T15:54:00+00:00"
     },
     {
       "title": "MUデジタルバンク設立準備株式会社に対する銀行業の免許の付与について公表しました。",
@@ -1593,6 +1613,14 @@
       "title": "Stock Market Today: Global Bond Selloff Dings Stocks",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-24-2026?mod=rss_markets_main",
       "summary": "Long-term Treasury yields touch highest level since 2004 as oil prices continue to rise",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-24T08:55:47+00:00"
+    },
+    {
+      "title": "Stock Market Today: Bond Selloff Worsens, Dinging Stocks",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-24-2026?mod=rss_markets_main",
+      "summary": "Treasury yields climb further as oil prices continue to rise",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-24T08:55:47+00:00"
