@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:06:37.174628+00:00",
+  "generated_at": "2026-09-25T17:23:32.267002+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -442,9 +442,37 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7efd6a31a120>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "習氏「今年あと２回会う機会ある」　トランプ氏の訪中歓迎",
+      "link": "https://www.jiji.com/jc/article?k=2026092600020&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-25T17:23:18.034613+00:00"
+    },
+    {
+      "title": "This is why you might see 8% mortgage rates soon",
+      "link": "https://www.marketwatch.com/story/this-is-why-you-might-see-8-mortgage-rates-soon-6a2e24dd?mod=mw_rss_topstories",
+      "summary": "Also in Weekend Reads: The bond market selloff’s consequences for AI, a threat to the buy-and-hold investment style and advice from the Moneyist.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-25T17:20:00+00:00"
+    },
+    {
+      "title": "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
+      "link": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories",
+      "summary": "At a time when many college students say they are rethinking their academic focus because of AI, new findings supply hard data on the potential costs of these decisions.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-25T17:11:00+00:00"
+    },
     {
       "title": "「AI時代を見据えたオンチェーン金融フォーラム」（第１回）の開催について公表しました。",
       "link": "https://www.fsa.go.jp/news/r8/singi/20260925-2.html",
