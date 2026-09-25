@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:36:21.550011+00:00",
+  "generated_at": "2026-09-25T11:47:34.361736+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -498,6 +498,14 @@
       "published": "2026-09-25T17:00:00+00:00"
     },
     {
+      "title": "Stocks making the biggest moves premarket: Akamai, Synopsys, Nike & more",
+      "link": "https://www.cnbc.com/2026/09/25/stocks-making-the-biggest-moves-premarket-akam-snps-nke.html",
+      "summary": "These are the stocks posting the largest moves premarket.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-09-25T11:40:42+00:00"
+    },
+    {
       "title": "無人機開発へ新興企業支援　防衛省、資金配慮の新制度",
       "link": "https://www.jiji.com/jc/article?k=2026092500997&g=pol&m=rss",
       "summary": "",
@@ -640,6 +648,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-25T10:39:12.730565+00:00"
+    },
+    {
+      "title": "Show HN: Agentic CUDA Kernel Optimizer",
+      "link": "https://github.com/bertaye/agentic-cuda-optimizer",
+      "summary": "Hello; I was working on optimizing some CUDA kernels and I thought may be it is a good oppurtunity learn langgraph as well. I created a simple C++ CUDA Test Harness and handed that to AI agents. They can run kernels, get benchmarks, and even can profile via nsight\n\nComments URL: https://news.ycombinator.com/item?id=49842596\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-25T10:32:58+00:00"
     },
     {
       "title": "AI Is Supercharging Stock Scams",
@@ -800,6 +816,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-25T09:50:25+00:00"
+    },
+    {
+      "title": "日米首脳会談、円安で貿易厳しいとトランプ大統領 高市首相明かす - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fN21kUHlvUGsxX0NmelZ0dkw5RGxTcV9OMW9yejJGSFdLcXVSb0VlUzA4NlF4a2xZQzFLRTdTS242NkN4XzdjTEpuQ0Q2T3dIYnF1ZW1KUzFJdmpaN1BneGpNRFYtbDhVUHl6blZEa0xzaUpyNGZ3NFhwdmM?oc=5",
+      "summary": "日米首脳会談、円安で貿易厳しいとトランプ大統領 高市首相明かす&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-25T09:49:30+00:00"
     },
     {
       "title": "European AI-Related Stocks Rally as Confidence Returns",
@@ -3330,6 +3354,14 @@
       "published": "2026-09-24T18:55:09+00:00"
     },
     {
+      "title": "Our best photos from the Asian Games - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE45ZUczQ2lWVEp2Z2tGTDB2blBIWWh0NmNzcF95RjFKRGdXQ1ZCMllzelkwMFdrQmZiTl9ZWFVleURLTzFkS20zNlVGQTVfQzJTUnAzMV9MclZJdlFFUzhXV1lnSUdxY3h6c3NBTWRNal8zVF9QS3g2ZHdBZw?oc=5",
+      "summary": "Our best photos from the Asian Games&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-24T18:40:00+00:00"
+    },
+    {
       "title": "Show HN: Radix – Visual UI for agentic programming",
       "link": "https://radix-os.com",
       "summary": "Hey HN, I'm Jordan from Radix.Radix is a UI tool for programming agents. You prompt your agent to generate a workspace for a task you're working on and get an interactive widget that persists locally on disk.I built Radix because I always needed tools while I was writing code: tools to test little experiments, to play around with UI, to visualise results etc. Sometimes these would end up as python tools that read and plotted data, or separate React apps spun up just to test a single feature. Lately obviously I've been using Claude artifacts but these are quite limited.I wanted a system where it was easy to leave comments or adapt an artifact without having to give vague descriptions back to the agent, and where ideally I could actually shift away from a chat window as the main interface.I've got a pro version of Radix which I will launch soon. This current version is entirely free and is definitely a beta -- there will be rough edges!Note: There's no telemetry or data captured. Your messages run entirely through your own agent. I require a key but that's just to get an idea of how many people are using it. Everything is stored locally (the workspaces are actually just React apps which you can edit \"artisanally\" if you want).If you have any questions please reply here or email me hello@radix-os.comThank you!\n\nComments URL: https://news.ycombinator.com/item?id=49834964\nPoints: 5\n# Comments: 4",
@@ -4349,6 +4381,14 @@
       "title": "ANDMF.PQ - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYTRLYXQ3OVVqWWNNMTFOcnRtbF8xcmJVZElKQ0RtajEzRUItV29nSVpURW1XaTl3Q1dHeWxPSHB4bjI1N25QTXZ1djdJV1lCNkRuRXdGUnNxaWNwbDktdmFaSmQtR0VBcHd2dzhSYnFOVjM3WTdnSTNESlB2NHQ0am1mOA?oc=5",
       "summary": "ANDMF.PQ - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-24T13:37:41+00:00"
+    },
+    {
+      "title": "ANDMF.PQ - | Stock Price & Latest News | Reuters - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYTRLYXQ3OVVqWWNNMTFOcnRtbF8xcmJVZElKQ0RtajEzRUItV29nSVpURW1XaTl3Q1dHeWxPSHB4bjI1N25QTXZ1djdJV1lCNkRuRXdGUnNxaWNwbDktdmFaSmQtR0VBcHd2dzhSYnFOVjM3WTdnSTNESlB2NHQ0am1mOA?oc=5",
+      "summary": "ANDMF.PQ - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-24T13:37:41+00:00"
