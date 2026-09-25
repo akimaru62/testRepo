@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T19:33:30.734305+00:00",
+  "generated_at": "2026-09-25T19:48:23.097260+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -446,9 +446,29 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "Trump’s ban on Canadian alcohol starts Tuesday, but these well-known brands will avoid it",
+      "link": "https://www.marketwatch.com/story/trumps-ban-on-canadian-alcohol-starts-tuesday-but-these-well-known-brands-will-avoid-it-89c2e5c5?mod=mw_rss_topstories",
+      "summary": "Labatt and Molson beers and Fireball shots won’t disappear in the U.S. — here’s why",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-25T19:45:00+00:00"
+    },
+    {
+      "title": "U.S. Natural-Gas Futures Settle Lower",
+      "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-headed-for-5-weekly-loss-but-storage-concerns-remain-in-focus-518cf44c?mod=rss_markets_main",
+      "summary": "U.S. natural-gas futures returned some of the previous session’s gains that were due to the outage on a pipeline in West Virginia operated by a unit of TC Energy.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-25T19:37:00+00:00"
+    },
     {
       "title": "欧州の鉄道､なぜ｢不格好｣な新型車が増えたのか　日本と違う厳しい基準､車両の｢顔｣デザインに制約 | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/957943?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -456,6 +476,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-25T19:30:00+00:00"
+    },
+    {
+      "title": "Supreme Court permits states to use SAVE database for citizenship checks",
+      "link": "https://cyberscoop.com/supreme-court-save-database-voter-citizenship/",
+      "summary": "Article URL: https://cyberscoop.com/supreme-court-save-database-voter-citizenship/\nComments URL: https://news.ycombinator.com/item?id=49848844\nPoints: 11\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-25T19:28:30+00:00"
     },
     {
       "title": "ＮＹ外為市場＝円急伸、日米財務相が円安是正姿勢示す ドル広範に下落 - ロイター",
@@ -530,6 +558,14 @@
       "published": "2026-09-25T18:33:50+00:00"
     },
     {
+      "title": "Astronomer watches Starlink satellites sinking to build a 'planetary barometer'",
+      "link": "https://www.theregister.com/science/2026/09/25/astronomer-watches-starlink-satellites-sinking-to-build-a-planetary-barometer/5299036",
+      "summary": "Article URL: https://www.theregister.com/science/2026/09/25/astronomer-watches-starlink-satellites-sinking-to-build-a-planetary-barometer/5299036\nComments URL: https://news.ycombinator.com/item?id=49848227\nPoints: 11\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-25T18:29:49+00:00"
+    },
+    {
       "title": "Blackstone’s Top Private-Equity Executive Is Preparing to Leave Firm",
       "link": "https://www.wsj.com/finance/investing/blackstones-top-private-equity-executive-is-preparing-to-leave-firm-6d7057db?mod=rss_markets_main",
       "summary": "Joseph Baratta would be the latest of several senior executives to leave private-investment giant.",
@@ -565,6 +601,14 @@
       "title": "Yes, Claude can do Nine Loops",
       "link": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
       "summary": "Article URL: https://www.anthropic.com/research/yes-claude-can-do-nine-loops\nComments URL: https://news.ycombinator.com/item?id=49848033\nPoints: 9\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-25T18:11:48+00:00"
+    },
+    {
+      "title": "Yes, Claude can do nine loops",
+      "link": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+      "summary": "Article URL: https://www.anthropic.com/research/yes-claude-can-do-nine-loops\nComments URL: https://news.ycombinator.com/item?id=49848033\nPoints: 96\n# Comments: 43",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-25T18:11:48+00:00"
@@ -698,6 +742,14 @@
       "published": "2026-09-25T16:51:28+00:00"
     },
     {
+      "title": "Show HN: Doom or Bloom, map your AI worldview",
+      "link": "https://www.doom-or-bloom.com",
+      "summary": "Map your AI worldview by answering a few questions, and see how you compare with others.only takes a few minutes && free & open source && private by default && powered by JevI think this is a really important question for everyone to be asking themselves, and my hope is that this lil project helps to move our conversations around AI futures in a more balanced, productive direction.\n\nComments URL: https://news.ycombinator.com/item?id=49846953\nPoints: 29\n# Comments: 18",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-25T16:51:28+00:00"
+    },
+    {
       "title": "How do I know when to ask someone out? I’m 21 and I don’t want to waste my money or my time.",
       "link": "https://www.marketwatch.com/story/when-is-it-the-right-time-to-ask-someone-out-im-21-and-my-finances-and-identity-still-feel-like-works-in-progress-4bce4fa5?mod=mw_rss_topstories",
       "summary": "“What signs of mutual interest should someone realistically look for?”",
@@ -749,6 +801,14 @@
       "title": "Typst Makes Big Strides",
       "link": "https://lwn.net/Articles/1092993/",
       "summary": "Article URL: https://lwn.net/Articles/1092993/\nComments URL: https://news.ycombinator.com/item?id=49846640\nPoints: 9\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-25T16:25:08+00:00"
+    },
+    {
+      "title": "Typst makes big strides",
+      "link": "https://lwn.net/Articles/1092993/",
+      "summary": "Article URL: https://lwn.net/Articles/1092993/\nComments URL: https://news.ycombinator.com/item?id=49846640\nPoints: 33\n# Comments: 2",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-25T16:25:08+00:00"
