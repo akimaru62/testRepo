@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T20:24:04.718711+00:00",
+  "generated_at": "2026-09-25T20:35:54.578874+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -458,6 +458,30 @@
   ],
   "items": [
     {
+      "title": "Oil Futures End Volatile Week With Mixed Results",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-pulls-back-as-cautious-hopes-compete-with-escalation-d3308b21?mod=rss_markets_main",
+      "summary": "Crude futures settled lower with the market watching for any breakthrough in diplomatic efforts to reopen the Strait of Hormuz.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-25T20:25:00+00:00"
+    },
+    {
+      "title": "US bond sell-off pushes long-term yields to highest since 2004",
+      "link": "https://www.ft.com/content/c5af4151-2c14-481b-8145-f5ec1f43a3f4?syn-25a6b1a6=1",
+      "summary": "Investors ‘don’t want to hold risk going into the weekend’, said one investor, as market heads for worst week since 2024",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-25T20:24:38+00:00"
+    },
+    {
+      "title": "U.S. Stocks Rise To End Volatile Week",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-to-end-volatile-week-c8b2dc82?mod=rss_markets_main",
+      "summary": "U.S. stocks recovered from a couple of down sessions as oil prices fell on hopes for progress toward an agreement between the U.S. and Iran to open the Strait of Hormuz.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-25T20:21:00+00:00"
+    },
+    {
       "title": "These under-the-radar risk factors may explain why some older people are more vulnerable to scams",
       "link": "https://www.marketwatch.com/story/these-under-the-radar-risk-factors-may-explain-why-some-older-people-are-more-vulnerable-to-scams-865182dc?mod=mw_rss_topstories",
       "summary": "Criminals use sophisticated techniques to form deep emotional attachments to their victims",
@@ -512,6 +536,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-25T19:28:30+00:00"
+    },
+    {
+      "title": "Bug: Border radius has infected VSCode editor",
+      "link": "https://github.com/microsoft/vscode/issues/338035",
+      "summary": "Article URL: https://github.com/microsoft/vscode/issues/338035\nComments URL: https://news.ycombinator.com/item?id=49848838\nPoints: 11\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-25T19:27:37+00:00"
     },
     {
       "title": "Letterboxd Is Up for Sale, and A24, Sony and the New York Times Are Bidding",
