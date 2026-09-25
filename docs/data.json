@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T19:48:23.097260+00:00",
+  "generated_at": "2026-09-25T20:07:10.161978+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -450,6 +450,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -484,6 +488,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-25T19:28:30+00:00"
+    },
+    {
+      "title": "Letterboxd Is Up for Sale, and A24, Sony and the New York Times Are Bidding",
+      "link": "https://www.worldofreel.com/blog/2026/9/24/letterboxd-is-up-for-sale-and-a24-sony-and-the-new-york-times-bidding",
+      "summary": "Article URL: https://www.worldofreel.com/blog/2026/9/24/letterboxd-is-up-for-sale-and-a24-sony-and-the-new-york-times-bidding\nComments URL: https://news.ycombinator.com/item?id=49848819\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-25T19:26:10+00:00"
     },
     {
       "title": "ＮＹ外為市場＝円急伸、日米財務相が円安是正姿勢示す ドル広範に下落 - ロイター",
@@ -1044,6 +1056,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-25T14:28:11.864973+00:00"
+    },
+    {
+      "title": "Show HN: Jev Plays Pokémon Red",
+      "link": "https://jev-pokemon.vercel.app/",
+      "summary": "Hey HN! Wanted to share a fun project I've been hacking on. Given Jev can make decisions really fast (but not fast enough to play Doom yet sadly), I wanted to try and push it to play a more complex game than Tetris. So I went with Pokémon.I've spent endless hours playing this game as a child so building this was a ton of fun.I open sourced everything in case you want to hack on it yourself here: https://github.com/christianmat/jev-pokemonThe game is being streamed live including the tokens and cost - hopefully we get all the badges and don't get stuck in a cave :)\n\nComments URL: https://news.ycombinator.com/item?id=49845172\nPoints: 6\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-25T14:28:07+00:00"
     },
     {
       "title": "Factorio that you can touch",
