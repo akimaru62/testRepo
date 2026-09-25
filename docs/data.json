@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:47:36.918566+00:00",
+  "generated_at": "2026-09-25T18:09:33.169187+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -449,6 +449,14 @@
     }
   ],
   "items": [
+    {
+      "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
+      "summary": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done.\nThe post GitHub Copilot app for Beginners: How to build custom workflows with canvases appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "category": "開発者向け",
+      "published": "2026-09-25T18:00:00+00:00"
+    },
     {
       "title": "習氏「今年あと２回会う機会ある」　トランプ氏の訪中歓迎",
       "link": "https://www.jiji.com/jc/article?k=2026092600020&g=int&m=rss",
@@ -3925,6 +3933,14 @@
       "title": "PPLI.O - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mM1A5R0xOOVlQN1FqYVZsc3NlOEhfM0ttVzVoeGJKQlhjOEtWdE5vRzItTndGeldYSmluWVlWV0QwWFQ2bW81OWxwa3dxVGU0VEd4TjFmeWYwODg?oc=5",
       "summary": "PPLI.O - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-24T20:25:49+00:00"
+    },
+    {
+      "title": "PPLI.O - | Stock Price & Latest News | Reuters - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mM1A5R0xOOVlQN1FqYVZsc3NlOEhfM0ttVzVoeGJKQlhjOEtWdE5vRzItTndGeldYSmluWVlWV0QwWFQ2bW81OWxwa3dxVGU0VEd4TjFmeWYwODg?oc=5",
+      "summary": "PPLI.O - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-24T20:25:49+00:00"
