@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T18:29:03.812525+00:00",
+  "generated_at": "2026-09-25T18:45:01.471849+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -474,6 +474,14 @@
       "published": "2026-09-25T18:20:00+00:00"
     },
     {
+      "title": "Yes, Claude can do Nine Loops",
+      "link": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+      "summary": "Article URL: https://www.anthropic.com/research/yes-claude-can-do-nine-loops\nComments URL: https://news.ycombinator.com/item?id=49848033\nPoints: 9\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-25T18:11:48+00:00"
+    },
+    {
       "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
       "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
       "summary": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done.\nThe post GitHub Copilot app for Beginners: How to build custom workflows with canvases appeared first on The GitHub Blog.",
@@ -504,6 +512,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-25T17:11:00+00:00"
+    },
+    {
+      "title": "Bond ructions point to new danger zone in markets",
+      "link": "https://www.ft.com/content/4acbdc1f-d898-4966-b865-924470de0066?syn-25a6b1a6=1",
+      "summary": "Sell-offs of this scale and speed have the potential to light fires in other parts of the financial system",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-25T17:00:09+00:00"
     },
     {
       "title": "「AI時代を見据えたオンチェーン金融フォーラム」（第１回）の開催について公表しました。",
