@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T10:26:37.039476+00:00",
+  "generated_at": "2026-09-25T10:39:18.173769+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -434,6 +434,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f393cd82120>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -500,6 +504,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-25T11:00:00+00:00"
+    },
+    {
+      "title": "JFEスチールの千葉地区、60万トン減産見込み　豪雨被害で",
+      "link": "https://www.asahi.com/articles/ASV9T3D09V9TULFA01YM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-25T10:39:12.730565+00:00"
+    },
+    {
+      "title": "AI Is Supercharging Stock Scams",
+      "link": "https://www.wsj.com/finance/investing/ai-is-supercharging-stock-scams-62fb2811?mod=rss_markets_main",
+      "summary": "Plus, the bond panic subsides.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-25T10:32:00+00:00"
     },
     {
       "title": "情報活動の重点事項決定　政府、国家情報会議を開催",
@@ -596,6 +616,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-25T10:00:00+00:00"
+    },
+    {
+      "title": "US seizes bank accounts of payments group working for Tether’s bank",
+      "link": "https://www.ft.com/content/1477567d-64b0-431a-b707-e2a4f5a9f8dc?syn-25a6b1a6=1",
+      "summary": "Prosecutors allege Capstone illegally moved hundreds of millions of dollars for the crypto companies at the direction of a Caribbean bank",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-25T09:58:58+00:00"
     },
     {
       "title": "Ink and Switch Interactive Homepage",
@@ -702,6 +730,14 @@
       "published": "2026-09-25T09:11:00+00:00"
     },
     {
+      "title": "英利上げ、11月と2月に実施へ＝モルガンＳ - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBadnJqX2N6QkRFUGxNdjA2UmROQ05qU2dsTS1HRGRSYmxYbzUwaTJjQWJwb0JEc25Ib3Fjd1E2QVV6YzdpWjhJU0JHbGxVdzhRSUJJZlE4WFE1eXlyTG5mM1I2Wkk1MGVqOExjNl9DbnNXUEFodUxZTDFGUXA?oc=5",
+      "summary": "英利上げ、11月と2月に実施へ＝モルガンＳ&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-25T09:09:04+00:00"
+    },
+    {
       "title": "ArcelorMittal to shutter Ukraine plant after Russian strikes kill workers",
       "link": "https://www.ft.com/content/218f8e15-8c1e-4ed4-9d51-7879faca8e73?syn-25a6b1a6=1",
       "summary": "Steel giant faces $1bn impairment charge in wake of attack on Kryvyi Rih operations",
@@ -729,6 +765,14 @@
       "title": "ユーロ圏8月銀行融資、企業向けは小幅減速 家計向け横ばい - ロイター",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNlpEMlczLUVVclJFY3F1bFdSME54R3I1d0toZEV1VU1XSzdYNXVPX21fV2U4OGw0YzROWlZUNkF0aGVKOVJYYklKSEEybDNrbVp1ck9TRlpIY0Rxem1rXzdRMF80TjZKMTc1X0hydnNxVF9IUHhySUV2eFBVaWlpcTZlUWQ?oc=5",
       "summary": "ユーロ圏8月銀行融資、企業向けは小幅減速 家計向け横ばい&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-25T08:56:09+00:00"
+    },
+    {
+      "title": "ユーロ圏8月銀行融資、企業向けは小幅減速 家計向け横ばい - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNlpEMlczLUVVclJFY3F1bFdSME54R3I1d0toZEV1VU1XSzdYNXVPX21fV2U4OGw0YzROWlZUNkF0aGVKOVJYYklKSEEybDNrbVp1ck9TRlpIY0Rxem1rXzdRMF80TjZKMTc1X0hydnNxVF9IUHhySUV2eFBVaWlpcTZlUWQ?oc=5",
+      "summary": "ユーロ圏8月銀行融資、企業向けは小幅減速 家計向け横ばい&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-25T08:56:09+00:00"
