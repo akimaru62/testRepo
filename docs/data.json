@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T12:56:11.332913+00:00",
+  "generated_at": "2026-09-25T13:12:21.137313+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -498,12 +498,44 @@
       "published": "2026-09-25T17:00:00+00:00"
     },
     {
+      "title": "ジャングリア 追加融資などを要請",
+      "link": "https://news.yahoo.co.jp/pickup/6596547?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-25T13:02:42+00:00"
+    },
+    {
       "title": "These two market gauges may signal a big risk-off event for the market, says BofA",
       "link": "https://www.marketwatch.com/story/these-two-market-gauges-may-signal-a-big-risk-off-event-for-the-market-says-bofa-0432250a?mod=mw_rss_topstories",
       "summary": "A jump in bond-market anxiety coupled with a selloff in financial stocks may mean a serious shock to markets, according to Bank of America.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-25T12:52:00+00:00"
+    },
+    {
+      "title": "The stock market could be due for a nasty selloff, judging by these two signals",
+      "link": "https://www.marketwatch.com/story/these-two-market-gauges-may-signal-a-big-risk-off-event-for-the-market-says-bofa-0432250a?mod=mw_rss_topstories",
+      "summary": "A jump in bond-market anxiety coupled with a selloff in financial stocks may mean a serious shock to markets, according to Bank of America.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-25T12:52:00+00:00"
+    },
+    {
+      "title": "Show HN: Hamilton – a no-internet Android health dashboard, named after my dog",
+      "link": "https://play.google.com/store/apps/details?id=com.gads.hamilton&hl=en_US",
+      "summary": "I started experimenting with LLMs and decided I wanted to create a fitness app. My first thought was an app that disabled Google Pay every time my phone detected I was within 50m of a McDonald's.However, I quickly pivoted like a true founder to create an app that addressed a personal issue of mine.On Android, if you have a bunch of apps and fitness monitors from different manufacturers, very few of them all talk to each other. Your data is scattered across different apps or double counted. However, most data sources write to Health Connect.Hamilton is a dashboard of your Health Connect data with a homepage that shows your key metrics at a glance. Your choice of data source is flexible to avoid double counting, and you can overlay and offset metrics on charts to view correlations and track progress over time.I named the app after my dog, who occasionally fetches things and is responsible for my daily step count.Below is an FAQ, and to avoid confusion I have helpfully labelled my responses [APP] or [DOG].FAQ1. Is Hamilton any good?[APP] I think so - I use it daily.[DOG] He is the absolute BEST BOY EVER2. How much does Hamilton cost?[APP] £3.59 (or local equivalent). I priced it to be approximately the same as a latte, which is my standard unit of measurement for impulse purchases.[DOG] DO NOT REMIND ME. He was a lockdown puppy and I bought him at the top of the market (He's still worth every penny though)3. Is Hamilton vibe-coded?[APP] 100% yes, but human-designed to fit my needs.[DOG] He wants to create an app called Rate my Vet, with ratings dependent on how they take his temperature.4. Is that unsafe? Will Hamilton delete data on my phone?[APP] Everything is a read-only view on Health Connect, and the app has no internet permission. It can't delete your Health Connect data and it can't transmit data.[DOG] No, but my cat jumped on my keyboard when I was in the middle of typing an insightful LinkedIn post and made me send RUBBISH to my THOUSANDS (20) of followers5. Is Hamilton active in the background?[APP] It fetches your data hourly from Health Connect if granted background access, and it works with Android battery saving rules.[DOG] He's active in the background of my Zoom calls, mostly licking his genitals6. Is Hamilton tested?[APP] I've been using it daily and testing and refining it for months. I realise just typing this sentence means someone will find a critical bug the first time they run it and I will look like a FOOL.[DOG] Only for tapeworm and parvo virus.7. Do you eat your own dog food?[APP] I use it every day to show my steps, body comp, workout sessions etc[DOG] He does, but he would far rather eat whatever it is I have on my plate.8. Does Hamilton show all your data?[APP] 30+ metrics, everything except blood sugar and reproductive health[DOG] The only data he gets is from sniffing lamp posts9. What units does Hamilton use?[APP] Metric, Imperial, and you can also configure per metric group to match the strange mix we have in the UK. No furlongs though.[DOG] Approximately 6 urinations per 20m walked10. Does Hamilton have any recurring costs?[APP] I hate apps with subscriptions, and no internet permission means no backend costs so the app is paid once[DOG] Vets are crooks, is all I will say on this.11. Has Hamilton won any prizes?[APP] Not yet[DOG] Second in the Waggiest Tail Category at the Weald of Kent Ploughing Match. He was ROBBED.12. Are the metrics on the Play Store yours?[APP] Absolutely not. I have 5% body fat, do 20,000 steps a day and have a resting heart rate of 12.[DOG] Yes13. Where can I see Hamilton?[APP] https://play.google.com/store/apps/details?id=com.gads.hamil...[DOG] https://hamiltonapp.github.io/HamiltonApp/dog.html\n\nComments URL: https://news.ycombinator.com/item?id=49843909\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-25T12:49:17+00:00"
+    },
+    {
+      "title": "Houthis promise not to target European ships",
+      "link": "https://www.ft.com/content/a255d9e6-ae6f-4b30-9ca6-b694663f547c?syn-25a6b1a6=1",
+      "summary": "Pledge comes as container shipping through key Bab al-Mandeb Strait reaches highest level in almost three years",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-25T12:47:25+00:00"
     },
     {
       "title": "Eurozone Bond Yields Fall as Oil Prices Decline; U.S. Treasury Yields Stabilize",
@@ -528,6 +560,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-25T12:14:02+00:00"
+    },
+    {
+      "title": "I'm Tired of Being on the Network",
+      "link": "https://matduggan.com/im-tired-of-being-on-the-network/",
+      "summary": "Article URL: https://matduggan.com/im-tired-of-being-on-the-network/\nComments URL: https://news.ycombinator.com/item?id=49843547\nPoints: 16\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-25T12:13:55+00:00"
     },
     {
       "title": "トランプ氏「円安で貿易厳しい」　高市首相は円の過小評価問題視―日米首脳会談",
