@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T14:28:16.109974+00:00",
+  "generated_at": "2026-09-25T14:43:28.254082+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -438,6 +438,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f393cd82120>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7efd6a31a120>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -496,6 +500,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-25T17:00:00+00:00"
+    },
+    {
+      "title": "片山財務相が米財務長官と電話会談　円の過小評価は問題だと確認",
+      "link": "https://www.asahi.com/articles/ASV9T4RHMV9TULFA02XM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-25T14:43:22.763042+00:00"
     },
     {
       "title": "米大統領「生産的な会談」",
@@ -645,6 +657,14 @@
       "title": "NELCol.NS - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVUhzQ1Rld0dIa29mZFRzdk5Ga3F5VFA1VkVwUVREZXh6NEF6SUpKRi1OOEhIZ3ktTnZ1QTdBaGtCWG0xQ0NpTVozb2xXM2ZmUXZ1TnBUcXR3dW9Lb3UxX1Z0M3A2QlhMVkNZbjZaa1ZOaUlmcmNjMXZHWFhiRmRiU0owRFFsVEVC?oc=5",
       "summary": "NELCol.NS - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-25T12:35:39+00:00"
+    },
+    {
+      "title": "NELCol.NS - | Stock Price & Latest News | Reuters - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVUhzQ1Rld0dIa29mZFRzdk5Ga3F5VFA1VkVwUVREZXh6NEF6SUpKRi1OOEhIZ3ktTnZ1QTdBaGtCWG0xQ0NpTVozb2xXM2ZmUXZ1TnBUcXR3dW9Lb3UxX1Z0M3A2QlhMVkNZbjZaa1ZOaUlmcmNjMXZHWFhiRmRiU0owRFFsVEVC?oc=5",
+      "summary": "NELCol.NS - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-25T12:35:39+00:00"
@@ -952,6 +972,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-25T10:32:00+00:00"
+    },
+    {
+      "title": "blmn.o - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObE9hRG9Ld08yYTV0RlB2N0czMklHUHNyRUs2eklyR0xPUXhDLWpmUUc2RVVacGV4WS1IZ0gzWmJoWkFmdm1SRVlTMjZvX3FhZGlBWF90MktfNUtpeUVNX2RRZzBtZFd6S2V4eTR1dElZTGttNUxseDVjNzRNVEx5SQ?oc=5",
+      "summary": "blmn.o&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-25T10:30:37+00:00"
     },
     {
       "title": "NTTドコモが実質値上げ、アハモ40ギガ以下は月3135円に　「大盛り」は廃止",
@@ -8722,6 +8750,14 @@
       "published": "2026-09-23T16:50:00+00:00"
     },
     {
+      "title": "SUBC.OL - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qeHN6QVNFcWc2SlFncERya2tvRGNwTmtSSER2eTBsWms4cV9jOEdid1l2Tm90RlhiUVhkajBPWWJTRHVaMklnR1J4b2pLUHJDbmpHVkE3TUV6dkl4a3M4NEtJa3hUa3hnSFM5bg?oc=5",
+      "summary": "SUBC.OL&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-23T16:44:48+00:00"
+    },
+    {
       "title": "3830.hk - | Stock Price & Latest News - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NTXdIU01oQi1BTnNvNnNudmJTaEpGbVZMYmtWT0VtamwwdEpZSFFFRGRPQXJVS3pfaUdvdTJWWURaZGRRb1ZVSG5Mc0VTVnhjODlWOGRwRUFWWlRHY2VHS2paOWdCXy1qOW4ydQ?oc=5",
       "summary": "3830.hk - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
@@ -9768,6 +9804,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-23T11:54:09+00:00"
+    },
+    {
+      "title": "6840.t - | Stock Price & Latest News - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORDNDN3lHNlJfdGdqMUxhOWFKUlhhWG0ydjJCcTUtaGcyc0dzUjZoaW9TVU1WbDREcXRkN0l4ZDJyV3h2YUZzeWlDSHJObWlHZVZIcnp0Q1hhQWJVbGpaR3c5ZG11T0VrY2JPVnYzV0ZuZ2ZBeDdMR2JXV1JpRzhNVFd3?oc=5",
+      "summary": "6840.t - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-23T11:40:06+00:00"
     },
     {
       "title": "Stocks making the biggest moves premarket: IonQ, Maplebear, Worthington & more",
