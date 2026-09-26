@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T01:32:05.185787+00:00",
+  "generated_at": "2026-09-26T01:55:58.480792+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -454,9 +454,21 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+      "link": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
+      "summary": "Article URL: https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/\nComments URL: https://news.ycombinator.com/item?id=49852302\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-26T01:36:50+00:00"
+    },
     {
       "title": "ＡＩは「人間に奉仕を」　ユネスコで訴え―ローマ教皇",
       "link": "https://www.jiji.com/jc/article?k=2026092600157&g=int&m=rss",
@@ -480,6 +492,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-26T01:00:00+00:00"
+    },
+    {
+      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
+      "link": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+      "summary": "Article URL: https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide\nComments URL: https://news.ycombinator.com/item?id=49852065\nPoints: 10\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-26T00:59:02+00:00"
     },
     {
       "title": "新作｢踊る大捜査線｣が批判続出でも観客を熱狂させる\"必然\"､58歳青島の｢あのセリフ｣が働く人の胸を打つ\"深いワケ\" | ライフ | 東洋経済オンライン",
