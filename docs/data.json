@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T22:33:57.520632+00:00",
+  "generated_at": "2026-09-26T22:47:59.422336+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -474,9 +474,21 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f42eb34aba0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fad76012ba0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "Netflix1位『ダウンタイム』の衝撃…《令和の『仁義なき戦い』》と化した\"美容整形ドラマ\"がいま社会を揺らすワケ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959184?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "Netflixで世界配信されたドラマ『ダウンタイム』が話題を呼んでいます。｢美容整形｣と｢ヤンキーもの｣を融合した本作､単なる\"エゲツない美容整形もの\"ではない理由がありました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-26T22:30:00+00:00"
+    },
     {
       "title": "一方的軍事行動に反対　米名指しはせず―中国副主席",
       "link": "https://www.jiji.com/jc/article?k=2026092700073&g=int&m=rss",
@@ -4414,6 +4426,14 @@
       "published": "2026-09-25T06:08:00+00:00"
     },
     {
+      "title": "タイ輸出、8月は前年比24.3％増に加速 予想は下回る - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYWMyRTcycnFjTXlraHJqT1R4OElPaUNZRXZJMTVCMnB5bFNMNkZmMmJrZE1tLVBpSUVwQ2VYbV9jbktVSGllY3V5OTFvd29VbGszRWcydHNhYkxkNWEtNDAxWjJoZy0xT2tqZnVYcml4TFBiU21ucFJWQVMyb21lc3hmNEk?oc=5",
+      "summary": "タイ輸出、8月は前年比24.3％増に加速 予想は下回る&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-25T06:08:00+00:00"
+    },
+    {
       "title": "【WEST.電撃解散､timelesz猪俣逮捕】相次ぐ災難に悲鳴…カワラボのグループにも異変？｢令和アイドル｣の過酷すぎる現実 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/959134?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "令和のアイドル界に激震が走っています。逮捕や解散､メンバーの突然の脱退など､ファンも業界も混乱は増すばかり。高まる監視社会と過酷な労働環境の裏で､輝きの舞台にはどんな現実が潜んでいるのでしょうか。",
@@ -4465,6 +4485,14 @@
       "title": "特殊要因除くコアＣＰＩ、8月は＋2.6％に加速 値上げ浸透で＝日銀 - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOUtnVEdSN3ZQTjJoaXVDTEhwNlJwRTVZakx5VHh4emxtVE9HNlFudGc2cmdOVWJ3WWVGM0QycWh1S04zU2d0dWRNZ2xlU3dxelllUWZxVWd0TWVmeFBCR1pTZmxrWkhiblpyMkhxSldsV3dSaFdPNVBqN2xDYkpaOFRIMDVOUGRDWGQ4d2hPYw?oc=5",
       "summary": "特殊要因除くコアＣＰＩ、8月は＋2.6％に加速 値上げ浸透で＝日銀&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-25T05:25:00+00:00"
+    },
+    {
+      "title": "特殊要因除くコアＣＰＩ、8月は＋2.6％に加速 値上げ浸透で＝日銀 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOUtnVEdSN3ZQTjJoaXVDTEhwNlJwRTVZakx5VHh4emxtVE9HNlFudGc2cmdOVWJ3WWVGM0QycWh1S04zU2d0dWRNZ2xlU3dxelllUWZxVWd0TWVmeFBCR1pTZmxrWkhiblpyMkhxSldsV3dSaFdPNVBqN2xDYkpaOFRIMDVOUGRDWGQ4d2hPYw?oc=5",
+      "summary": "特殊要因除くコアＣＰＩ、8月は＋2.6％に加速 値上げ浸透で＝日銀&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-25T05:25:00+00:00"
@@ -7484,6 +7512,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-24T13:53:29+00:00"
+    },
+    {
+      "title": "1E30.F - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Sdk50SmNvT0o2ZUd1eXlvQUJLem9BcW9wN1YtLWUzTjN3cThJWHhSZ2JieHhjLW45MlJSX3BBWF9ieHE5Zkd0WWJPSldrbXdNcE1jc3FBYTgyalNZS1dXNUhfelhjODJ6QTU0MA?oc=5",
+      "summary": "1E30.F&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-24T13:50:53+00:00"
     },
     {
       "title": "１７歳大橋信、２００平で世界新　卓球男子は６０年ぶり金―愛知・名古屋アジア大会",
