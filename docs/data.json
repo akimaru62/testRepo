@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T20:07:19.546400+00:00",
+  "generated_at": "2026-09-26T20:23:43.053041+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -508,6 +508,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-26T18:28:10.319020+00:00"
+    },
+    {
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "link": "https://arxiv.org/abs/2609.22978",
+      "summary": "Article URL: https://arxiv.org/abs/2609.22978\nComments URL: https://news.ycombinator.com/item?id=49859112\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-26T18:22:41+00:00"
     },
     {
       "title": "Japan moves to tighten rules for foreigners, throwing futures into doubt",
