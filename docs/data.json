@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T03:09:03.792756+00:00",
+  "generated_at": "2026-09-26T03:28:25.645142+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -458,9 +458,37 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://github.blog/feed/",
+      "error": "HTTPSConnectionPool(host='github.blog', port=443): Read timed out. (read timeout=15)"
     }
   ],
   "items": [
+    {
+      "title": "熊本で震度４",
+      "link": "https://www.jiji.com/jc/article?k=2026092600239&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-26T03:28:20.792358+00:00"
+    },
+    {
+      "title": "マラソン山下一貴が金　女子の矢田みくに、銅―愛知・名古屋アジア大会",
+      "link": "https://www.jiji.com/jc/article?k=2026092600221&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-26T03:28:20.792332+00:00"
+    },
+    {
+      "title": "ＡＩ「暴走」さらに数十件　不正アクセスなど―米オープンＡＩ",
+      "link": "https://www.jiji.com/jc/article?k=2026092600223&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-26T03:28:20.792299+00:00"
+    },
     {
       "title": "｢いつになれば家に帰れるんだ｣　施設の母親から責められ続け…孝行息子の心をむしばむ介護由来\"もらいうつ\"のリアル | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/957034?utm_source=rss&utm_medium=http&utm_campaign=link_back",
