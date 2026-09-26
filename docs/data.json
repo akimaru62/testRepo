@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T00:20:14.637517+00:00",
+  "generated_at": "2026-09-26T01:05:34.669536+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -458,12 +458,36 @@
   ],
   "items": [
     {
+      "title": "｢絶対に秀吉に降伏したくない！｣怒り心頭だった《長宗我部元親》を心変わりさせた｢重臣からの助言｣ | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/956383?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "土佐の長宗我部元親と天下統一を狙う羽柴秀吉。強大な軍を率いる秀吉方に対して､元親の苦しい決断の舞台裏と駆け引きとは？",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-26T01:00:00+00:00"
+    },
+    {
+      "title": "新作｢踊る大捜査線｣が批判続出でも観客を熱狂させる\"必然\"､58歳青島の｢あのセリフ｣が働く人の胸を打つ\"深いワケ\" | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959172?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "好スタートを切った､9月18日公開の『踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！』。評価は賛否両論に割れながらも､多くの人の心を強くひきつけています。平成から令和へ､時代とともに変わった…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-26T00:30:00+00:00"
+    },
+    {
       "title": "ホルムズ開放、米へ条件　イラン外相、「７日間の計画」伝達",
       "link": "https://www.jiji.com/jc/article?k=2026092600193&g=int&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-26T00:20:09.573703+00:00"
+    },
+    {
+      "title": "Show HN: A game about fake news and memes",
+      "link": "https://unspin.app/",
+      "summary": "I made this game to help me with media literacy. View it like Wordle but for fake news.I would appreciate your honest feedback since I'm serious about making it way better.\n\nComments URL: https://news.ycombinator.com/item?id=49851776\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-26T00:11:33+00:00"
     },
     {
       "title": "編集部厳選､注目の経済ニュース！【9月26日】 今週のトピックス＆来週のスケジュール | ビジネス | 東洋経済オンライン",
@@ -478,6 +502,14 @@
       "link": "https://toyokeizai.net/articles/-/958666?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "物価高で節約や我慢が求められる今､たまには非日常体験でリフレッシュしたくなるもの。予算1800円で､5つ星ホテルの特別な空間で味わう贅沢を紹介します。",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-26T00:00:00+00:00"
+    },
+    {
+      "title": "「セクハラを受けた」新卒の53.2％　その後の応募・選考にも影響",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/26/news008.html",
+      "summary": "ベリーベスト法律事務所は、過去3年以内に求職活動を行った男女を対象に、直近の求職活動中のセクハラ被害に関するアンケート調査を実施した。その結果……。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-09-26T00:00:00+00:00"
     },
@@ -776,6 +808,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-25T21:15:00+00:00"
+    },
+    {
+      "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
+      "link": "https://www.gptbeyond.com/try?home=1",
+      "summary": "Hi everyone, I am KD - Back in my college days, I dabbled with coding, learned the basics, HTML, CSS etc. but somehow I ended up in Finance which consumed the next 20 years. Then, during covid I picked up coding again, learned react, typescript, etc - even built a rudimentary site - and then came the chatgpt moment, followed by Claude etc.So, as a side project, considering that I had spent 20 years in finance and M&amp;A I started building Ekselio, loveable for finance workflows.Differently from other vibe coding tools, this is local first - meaning the workflows are orchestrated by the LLM based on the file schema but then the execution happens in the browser - the cool thing is that you can see the canvas, the previews of each node, and the code base (SQl) - see the Canvas tab.That said I did include a home tab, which is more of a visual, mainly because people think it's easier to relate to how folks operate, although I know finance and accounting folks usually like the workflow and full transparency - the other thing is that once you create a workflow you can save it and then next month,you can just click Run and it runs it again with no LLM tokes involved - so the infrastructure is minimal.Everything can be exported in an excel data pack with M code in case someone would want to reproduce - think Audit ready.  And, I also connected to quickbooks on line so someone can directly pull in and manipulate their financials live - I also connected to Fred which carries literally 800k series in terms of macro economic data - i.e. oil prices, inflation, CPI etc and finally to stocks.I am hoping people find holes in the architecture or any ideas to make this flow a little bit better.  It is in progress so if you run into bugs let me know.  Considering that I am using my own API key, I have put a wall in case people overuse it but DM me if you would like to continue using, I can turn off the wall for you - hoping to keep that to a small number of users if I can and will do my best.  Thank you again, appreciate you taking the time.\n\nComments URL: https://news.ycombinator.com/item?id=49849986\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-25T21:09:28+00:00"
     },
     {
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
@@ -1752,6 +1792,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-09-25T13:42:44+00:00"
+    },
+    {
+      "title": "Show HN: Hacker Atlas - A map of what Hacker News talks about",
+      "link": "https://hackeratlas.com/",
+      "summary": "I built a tool to explore HN topics and how they change over time.Currently covers 2024 to today. Is it useful? What's missing?\n\nComments URL: https://news.ycombinator.com/item?id=49844497\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-25T13:37:54+00:00"
     },
     {
       "title": "Don’t Fall for Bond Funds That Say They’re Beating the Market",
