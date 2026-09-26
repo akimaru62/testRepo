@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T12:32:15.980565+00:00",
+  "generated_at": "2026-09-26T12:51:26.113613+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -462,9 +462,29 @@
     {
       "url": "https://github.blog/feed/",
       "error": "HTTPSConnectionPool(host='github.blog', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f84023eaa50>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "Manchester City verdict poses fresh test to UK-UAE relations",
+      "link": "https://www.ft.com/content/36fd2644-9d0e-40b5-8a7a-ef33f302e652?syn-25a6b1a6=1",
+      "summary": "Successive British governments have sought to shore up diplomatic ties with Abu Dhabi in a bid to lure investment",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-26T12:34:15+00:00"
+    },
+    {
+      "title": "China is playing a different game when it comes to AI",
+      "link": "https://www.marketwatch.com/story/china-is-playing-a-different-game-when-it-comes-to-ai-c48791cd?mod=mw_rss_topstories",
+      "summary": "Experts say the U.S. and China aren’t in an AI race because they aren’t targeting the same goals.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-26T12:30:00+00:00"
+    },
     {
       "title": "ＡＩ危機管理へ連絡チャンネル　１１月までに対話実施―年内あと２回会談・米中首脳",
       "link": "https://www.jiji.com/jc/article?k=2026092600124&g=int&m=rss",
