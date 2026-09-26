@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T18:52:12.109600+00:00",
+  "generated_at": "2026-09-26T19:06:28.476236+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -474,6 +474,14 @@
   ],
   "items": [
     {
+      "title": "Trump and Xi to meet twice more after summit fails to resolve tensions",
+      "link": "https://www.ft.com/content/bd99d372-d3d1-4972-a3fe-1bed8f71e14c?syn-25a6b1a6=1",
+      "summary": "Observers say the US and China maintained good communications during state visit but achieved no breakthroughs in trade stand-off",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-26T18:42:28+00:00"
+    },
+    {
       "title": "２７日の予告先発投手　プロ野球セ・リーグ",
       "link": "https://www.jiji.com/jc/article?k=2026092600358&g=spo&m=rss",
       "summary": "",
@@ -496,6 +504,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-26T17:21:37.708637+00:00"
+    },
+    {
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "link": "https://github.com/reladraw/reladraw",
+      "summary": "I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don't let me decide how the diagram looks), or (B) software like Draw.io which are powerful but are very time consuming (and inefficient for agents to manipulate).I wanted to have the benefits of both, where you can define a diagram in a diagram language, but also retain a high degree of control over what the diagram looks like.I also wanted this to work well for humans and agents.On the Github link, there's a playground where you can try it out without installation. There's also instructions for a simple npm install and for installing a skill you can use with Claude or other agents.\n\nComments URL: https://news.ycombinator.com/item?id=49858513\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-26T17:10:40+00:00"
     },
     {
       "title": "Trump rejects Iran’s ceasefire proposal to reopen Strait of Hormuz",
@@ -525,6 +541,14 @@
       "title": "I'm the Mom in That Viral Giants Clip. Let Me Tell You About My Husband",
       "link": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
       "summary": "Article URL: https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip\nComments URL: https://news.ycombinator.com/item?id=49857899\nPoints: 5\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-26T16:12:18+00:00"
+    },
+    {
+      "title": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
+      "link": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
+      "summary": "Article URL: https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip\nComments URL: https://news.ycombinator.com/item?id=49857899\nPoints: 243\n# Comments: 106",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-26T16:12:18+00:00"
