@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T22:06:46.257480+00:00",
+  "generated_at": "2026-09-26T22:22:58.919186+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -477,6 +477,46 @@
     }
   ],
   "items": [
+    {
+      "title": "一方的軍事行動に反対　米名指しはせず―中国副主席",
+      "link": "https://www.jiji.com/jc/article?k=2026092700073&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-26T22:22:54.759055+00:00"
+    },
+    {
+      "title": "教皇、パリで大規模ミサ　信徒ら８０万人集う",
+      "link": "https://www.jiji.com/jc/article?k=2026092700074&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-26T22:22:54.759033+00:00"
+    },
+    {
+      "title": "独ロ外相が会談　ウクライナ侵攻開始後初―米ＮＹ",
+      "link": "https://www.jiji.com/jc/article?k=2026092700078&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-26T22:22:54.758996+00:00"
+    },
+    {
+      "title": "OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
+      "link": "https://news.ycombinator.com/item?id=49861047",
+      "summary": "My OpenAI CODEX account went rogue and from a simple request took the autonomous decision to launch 826 parallel agents / threads without any authorization on my side and without reporting any result of any sort but consuming nearly 2,146 trillions tokens, consuming a total of roughly USD 78,000 and deleting all records of what was done: I have a ticket open with OpenAI since 2 weeks but it is impossible to get an hold of a human operator.On July 10, 2026 I opened a normal Codex task from VS Code.The task was running: GPT-5.5 / Medium reasoningMy prompt was very simple and asked for a UX/UI validation on a specific module within my product.What I found in the next days after hard analysis  was:The task with Root ID 019f4b90-4169-7201-bfdd-732940d8631e with reasoning GPT-5.5 / Medium created 826 children recorded as GPT-5.6 Sol / Ultra (notice the difference in reasoning level and in model selection)This was not 826 messages inside one conversation, they are 826 distinct child task records with their own IDs.A particularly strange group consists of 104 child tasks. They all preserve the same initial message as the original task, are recorded as GPT-5.6 Sol/Ultra, and have no recorded agent_role or agent_path.Those 104 tasks alone account for approximately 147.9 billion local final task-token counters.Their titles show that my request to inspect UI/UX had expanded into work involving backend infrastructure, OAuth, metering, hardening, audits, certification, implementation and release work.To be precise: these local token counters are not the authoritative OpenAI billing ledger, and I am not pretending that 147.9B local counters can simply be multiplied by an API price.That is exactly part of the problem: only OpenAI has the server-side mapping.There is another unusual correlation.Under Codex client build 0.144.0-alpha.4, the task family contains:584 child tasks / ~154.36B local token countersAverage: ~264.3M per taskUnder 0.144.2:242 child tasks / ~7.51BAverage: ~31.0M per taskThat is roughly an 8.5x difference in average local token volume per child.103 of the 104 high-volume tasks described above were created while 0.144.0-alpha.4 was recorded.This leads me to believe that the alpha build contained a severe bug given that the same pattern was noticed across several other tasks.On the financial side my reconstructed OpenAI billing history contains 162 paid invoices for a Total of $79,664.88 divided between Automatic Reload and other “Credits”There was no equivalent real-time control surface giving me a comprehensible picture of the spendings plus most of the logs seem to have been automatically deleted from my server: in the recovered local state, approximately 2,550 non-archived legacy threads still have metadata but no corresponding raw rollout available locally.In other words, evidence that those tasks existed remains, while the detailed execution history needed to reconstruct the instructions that generated many of them is no longer available on my machine.I also personally observed tasks/conversations disappearing from the normal visible history.I contacted OpenAI Support and opened case #15189838.I have supplied technical evidence and repeatedly asked for a server-side reconstruction but OpenAI has responded simply that “credits were consumed” with no details.I’m interested in hearing from other people who used Codex around July/August: have you inspected your local Codex state? Have you seen unexpectedly large subagent trees, model/reasoning escalation, repeated child tasks or unexplained Automatic Reload activity?I am especially interested in anyone who has logs from Codex 0.144.0-alpha.4.If OpenAI engineers are reading this, I would also welcome a technical explanation.\n\nComments URL: https://news.ycombinator.com/item?id=49861047\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-26T22:15:32+00:00"
+    },
+    {
+      "title": "｢1週間の自炊禁止｣｢体重は変化する？｣…35歳58キロ男性が｢中年独身の食生活｣を再現→心身の変化に驚愕したワケ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958933?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "働き盛りの男性の3人に1人が肥満とされる現代､あなたの食生活は大丈夫ですか？　フリーランスの筆者が1週間｢中年独身サラリーマンの中食･外食生活｣を再現し､自炊を禁じてみた体重＆体調の変化を追体験。果…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-26T22:15:00+00:00"
+    },
     {
       "title": "｢『踊る大捜査線』と共に隆盛を極めた｣聖地･お台場の現在…｢廃墟化｣が噂されるも､新作公開で再注目される\"その進化\" | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/959096?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -3438,6 +3478,14 @@
       "published": "2026-09-25T11:04:09+00:00"
     },
     {
+      "title": "ウクライナ財政・国防支援、ＥＵ・ＩＭＦも重要性理解＝大統領 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMnVYMHlNQ01UU19sWXJqRDctUElfMzVxTERFaVRjWDRjMC12bmxPY1NEYi05b3J2S1AxWnRlOUduRktUSXdJVWwtXzN6NHkxeW1NVmoxMy1jWnZyci1qcmk2dkNQMUZUOEd0WHBOb01LOGNmQmI2OUhVN1Rmb1Y3ZzgxTjc?oc=5",
+      "summary": "ウクライナ財政・国防支援、ＥＵ・ＩＭＦも重要性理解＝大統領&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-25T11:04:09+00:00"
+    },
+    {
       "title": "Why the alternative to the ‘clear and present’ danger from bond yields is this AI-fueled market that’s quietly outperformed",
       "link": "https://www.marketwatch.com/story/why-the-alternative-to-the-clear-and-present-danger-from-bond-yields-is-this-ai-fueled-market-thats-quietly-outperformed-cea440af?mod=mw_rss_topstories",
       "summary": "U.S. stocks are facing hurdles and investors may need to consider looking elsewhere. Goldman Sachs’ global head of hedge fund coverage says Japan may be the answer.",
@@ -4356,6 +4404,14 @@
       "source": "CNBC",
       "category": "海外金融",
       "published": "2026-09-25T06:08:20+00:00"
+    },
+    {
+      "title": "タイ輸出、8月は前年比24.3％増に加速 予想は下回る - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYWMyRTcycnFjTXlraHJqT1R4OElPaUNZRXZJMTVCMnB5bFNMNkZmMmJrZE1tLVBpSUVwQ2VYbV9jbktVSGllY3V5OTFvd29VbGszRWcydHNhYkxkNWEtNDAxWjJoZy0xT2tqZnVYcml4TFBiU21ucFJWQVMyb21lc3hmNEk?oc=5",
+      "summary": "タイ輸出、8月は前年比24.3％増に加速 予想は下回る&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-25T06:08:00+00:00"
     },
     {
       "title": "【WEST.電撃解散､timelesz猪俣逮捕】相次ぐ災難に悲鳴…カワラボのグループにも異変？｢令和アイドル｣の過酷すぎる現実 | ライフ | 東洋経済オンライン",
@@ -5604,6 +5660,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-24T23:22:38.065599+00:00"
+    },
+    {
+      "title": "The Murky History of Soviet-Born Tetris",
+      "link": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
+      "summary": "Article URL: https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/\nComments URL: https://news.ycombinator.com/item?id=49838040\nPoints: 99\n# Comments: 29",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-24T23:11:45+00:00"
     },
     {
       "title": "GitLab Outage",
