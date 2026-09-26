@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T16:08:29.313341+00:00",
+  "generated_at": "2026-09-26T16:25:58.774935+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -474,12 +474,44 @@
   ],
   "items": [
     {
+      "title": "群馬女性殺害事件、長女の元夫を公開手配　長男への殺人未遂容疑―群馬県警",
+      "link": "https://www.jiji.com/jc/article?k=2026092600127&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-26T16:25:53.882114+00:00"
+    },
+    {
       "title": "Manchester City rule breaches - potential punishments, appeals and next steps",
       "link": "https://www.ft.com/content/88e06322-9910-4675-8f7c-5e884cc0ad2d?syn-25a6b1a6=1",
       "summary": "The case could run for several years, legal experts warn",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-26T15:45:26+00:00"
+    },
+    {
+      "title": "Some Supabase customers are publicly exposing reams of people's data to the web",
+      "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "summary": "Article URL: https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/\nComments URL: https://news.ycombinator.com/item?id=49857595\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-26T15:42:16+00:00"
+    },
+    {
+      "title": "Automattic has a new board after failed attempt to put CEO on leave",
+      "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+      "summary": "Article URL: https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/\nComments URL: https://news.ycombinator.com/item?id=49857572\nPoints: 9\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-26T15:40:27+00:00"
+    },
+    {
+      "title": "Show HN: A Claude Code skill to analyze your chess games",
+      "link": "https://github.com/brumar/chess-postmortem-skills",
+      "summary": "Hello HN,It started as an experiment: can Claude play chess properly if it uses vision instead of PGN notation? Somehow it can.The next experiment was to see whether Claude + Stockfish could explain a game. Somehow it can too.A few sessions later, I had a system that takes my live audio notes (or text, for that matter) and a vague instruction like \"analyze my last lichess game\", and gives me a commented video of the game. The result is not perfect and it takes time to deliver (an hour or so), but for me it is a much more pleasant and memorable experience than clicking around Stockfish branches. It burns tokens, so make sure you have enough quota. From the session logs, the last analyzed game would have cost around $15 at API prices.The fact that it reflects on my own thinking during the game makes it interesting from a teaching point of view, so I thought it was worth sharing.\n\nComments URL: https://news.ycombinator.com/item?id=49857528\nPoints: 9\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-26T15:34:53+00:00"
     },
     {
       "title": "Plunging test scores are a slow-moving catastrophe",
@@ -3080,6 +3112,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-25T10:59:08+00:00"
+    },
+    {
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "link": "https://github.com/InfinityLoop1308/PipePipe",
+      "summary": "Article URL: https://github.com/InfinityLoop1308/PipePipe\nComments URL: https://news.ycombinator.com/item?id=49842764\nPoints: 20\n# Comments: 16",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-25T10:55:40+00:00"
     },
     {
       "title": "Uproar in France over award-winning author accused of using AI",
