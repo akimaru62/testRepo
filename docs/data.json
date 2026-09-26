@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T13:33:23.311081+00:00",
+  "generated_at": "2026-09-26T13:47:25.692807+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -470,6 +470,22 @@
   ],
   "items": [
     {
+      "title": "高市首相、トランプ氏と連携確認　「米中」受け電話会談",
+      "link": "https://www.jiji.com/jc/article?k=2026092600424&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-26T13:47:21.581364+00:00"
+    },
+    {
+      "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
+      "link": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
+      "summary": "The benchmark yield has climbed to a 19-year high, fueled by sticky inflation, heavy bond issuance and an AI-fueled investment boom.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-09-26T13:30:06+00:00"
+    },
+    {
       "title": "日米首脳が電話会談した",
       "link": "https://www.jiji.com/jc/article?k=2026092600422&g=flash&m=rss",
       "summary": "",
@@ -492,6 +508,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-26T13:21:39.625292+00:00"
+    },
+    {
+      "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+      "link": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+      "summary": "Article URL: https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior\nComments URL: https://news.ycombinator.com/item?id=49856149\nPoints: 14\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-26T13:05:36+00:00"
     },
     {
       "title": "CEO of Mistral: AI is software. It can be controlled",
