@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T17:47:39.244955+00:00",
+  "generated_at": "2026-09-27T18:09:32.389677+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -498,6 +498,22 @@
       "published": "2026-09-27T17:43:00+00:00"
     },
     {
+      "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+      "link": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+      "summary": "Article URL: https://www.youtube.com/watch?v=-Nvne3LzBls\nComments URL: https://news.ycombinator.com/item?id=49868831\nPoints: 37\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-27T17:32:02+00:00"
+    },
+    {
+      "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
+      "link": "https://earnanhonestdollar.com/bench",
+      "summary": "Article URL: https://earnanhonestdollar.com/bench\nComments URL: https://news.ycombinator.com/item?id=49868753\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-27T17:24:17+00:00"
+    },
+    {
       "title": "Corporate America embraces cheaper ‘open’ AI models",
       "link": "https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd?syn-25a6b1a6=1",
       "summary": "US businesses far beyond Silicon Valley are adopting Chinese alternatives to OpenAI and Anthropic’s systems",
@@ -562,6 +578,14 @@
       "published": "2026-09-27T15:31:15+00:00"
     },
     {
+      "title": "PostmarketOS is rebranding as Nura",
+      "link": "https://nura.eco/blog/2026/09/27/nura-rename/",
+      "summary": "Article URL: https://nura.eco/blog/2026/09/27/nura-rename/\nComments URL: https://news.ycombinator.com/item?id=49867553\nPoints: 88\n# Comments: 12",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-27T15:31:15+00:00"
+    },
+    {
       "title": "The Normalization of Inexplicable Failures",
       "link": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
       "summary": "Article URL: https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html\nComments URL: https://news.ycombinator.com/item?id=49867486\nPoints: 16\n# Comments: 1",
@@ -618,9 +642,25 @@
       "published": "2026-09-27T14:41:26+00:00"
     },
     {
+      "title": "Fragment of oldest known peace treaty found in Turkey",
+      "link": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
+      "summary": "Article URL: https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey\nComments URL: https://news.ycombinator.com/item?id=49866988\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-27T14:35:10+00:00"
+    },
+    {
       "title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
       "link": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
       "summary": "Article URL: https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html\nComments URL: https://news.ycombinator.com/item?id=49866951\nPoints: 4\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-27T14:30:55+00:00"
+    },
+    {
+      "title": "In an $80 motel room, a discovery to shed light on the origins of life",
+      "link": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html\nComments URL: https://news.ycombinator.com/item?id=49866951\nPoints: 100\n# Comments: 34",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-27T14:30:55+00:00"
@@ -674,9 +714,25 @@
       "published": "2026-09-27T13:44:45+00:00"
     },
     {
+      "title": "Show HN: Building a Markdown editor for Mac, iOS and web",
+      "link": "https://www.markdown.beauty/",
+      "summary": "I've spent the last 10 months building Beauty: a local, powerful greco-roman Markdown editor where the page looks finished while you type. It runs on the Mac, iPhone and in the browser, and the browser version opens without an account: https://app.markdown.beautyI was frustrated with writing apps, and like most I used Apple Notes. After 2+ years immersed in Cursor, Codex and CC, I wished some interactions existed in a text editor.The Markdown renders in place as you write it, including tables (which you can drag and resize without lining up pipes), KaTeX math and Mermaid diagrams. A lot of thought went into typography and the writing experience.Your notes on the Mac are plain .md files in a folder with images next to them, so they open in anything else too. Each note keeps 200 versions. If you share a note with a link it syncs peer to peer over WebRTC while someone has it open, and the server that connects you only ever sees a random room id.Most of the ~1,000 commits went into the editor itself. It's a contenteditable, and I don't let the browser restructure the document at all, which was a lot more work than I expected. Building this to be performant and cross-platform required some novel approaches, which I'll later open source. The editor is free with no account or ads, and there's an optional subscription for sync through your own iCloud.https://www.markdown.beauty\n\nComments URL: https://news.ycombinator.com/item?id=49866597\nPoints: 20\n# Comments: 8",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-27T13:44:45+00:00"
+    },
+    {
       "title": "Ten Lines of Code That Changed My World",
       "link": "https://pixelambacht.nl/2026/ten-lines-of-code/",
       "summary": "Article URL: https://pixelambacht.nl/2026/ten-lines-of-code/\nComments URL: https://news.ycombinator.com/item?id=49866534\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-27T13:33:03+00:00"
+    },
+    {
+      "title": "Ten lines of code that changed my world",
+      "link": "https://pixelambacht.nl/2026/ten-lines-of-code/",
+      "summary": "Article URL: https://pixelambacht.nl/2026/ten-lines-of-code/\nComments URL: https://news.ycombinator.com/item?id=49866534\nPoints: 80\n# Comments: 20",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-27T13:33:03+00:00"
@@ -1040,6 +1096,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-09-27T07:18:35+00:00"
+    },
+    {
+      "title": "Show HN: Trail – new kind of logic game",
+      "link": "https://trail.franzai.com/",
+      "summary": "Article URL: https://trail.franzai.com/\nComments URL: https://news.ycombinator.com/item?id=49864105\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-27T07:02:20+00:00"
     },
     {
       "title": "突き抜けた人材が集結するトップ大学から大企業にはもう行かない!?　大転換している大学生の就職観 | ビジネス | 東洋経済オンライン",
@@ -1984,6 +2048,22 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-26T20:00:00+00:00"
+    },
+    {
+      "title": "42x faster prompt lookup drafting in llama.cpp",
+      "link": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/",
+      "summary": "Article URL: https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/\nComments URL: https://news.ycombinator.com/item?id=49859982\nPoints: 15\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-26T19:57:24+00:00"
+    },
+    {
+      "title": "Video CDs Break Windows Explorer",
+      "link": "https://clydesnotes.blogspot.com/2026/08/video-cds-break-windows-explorer.html",
+      "summary": "Article URL: https://clydesnotes.blogspot.com/2026/08/video-cds-break-windows-explorer.html\nComments URL: https://news.ycombinator.com/item?id=49859759\nPoints: 21\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-26T19:30:39+00:00"
     },
     {
       "title": "German and Russian foreign ministers meet for first time in over four years",
@@ -3205,6 +3285,14 @@
       "title": "アングル：中国、人型ロボットのＩＰＯブーム抑制 収益の持続性精査 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbzNNSkc3MnVJNkUyQ1ZBbDFXMVpHcVBXVWN4QlMwXzlabmZLTHVzV1ptSkNoTWVBTHhiTnFpeHdvVlotY043ZjR6M2FJSTZsRTBXQ3JnMXVNZ3dUTmpkdkxaNlNKdURoTEd6SndhelBneHdHcTc4TWo5d0VFM291VVRSSjI?oc=5",
       "summary": "アングル：中国、人型ロボットのＩＰＯブーム抑制 収益の持続性精査&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-25T23:01:50+00:00"
+    },
+    {
+      "title": "アングル：中国、人型ロボットのＩＰＯブーム抑制 収益の持続性精査 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbzNNSkc3MnVJNkUyQ1ZBbDFXMVpHcVBXVWN4QlMwXzlabmZLTHVzV1ptSkNoTWVBTHhiTnFpeHdvVlotY043ZjR6M2FJSTZsRTBXQ3JnMXVNZ3dUTmpkdkxaNlNKdURoTEd6SndhelBneHdHcTc4TWo5d0VFM291VVRSSjI?oc=5",
+      "summary": "アングル：中国、人型ロボットのＩＰＯブーム抑制 収益の持続性精査&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-25T23:01:50+00:00"
@@ -4552,6 +4640,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-25T14:52:00+00:00"
+    },
+    {
+      "title": "米中貿易交渉の詳細、28日公表 ＵＳＴＲ代表「進展あった」 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeVdaQUZCaDZmS2JjY2ZBUGtRUFpOUXZ1X2ZGMTEtU0xSNHFqRzVfbU9UQXVfcWhkRXRDSEtYTmZCVmZabHdIeGtOSHAtdjVkUjkwX0JzZDdJVmtzVmtyNGtmUmdGTS1OMzlMRW1WMjJWRTZVUXR0ckFnVG9zZUg3MHpjQQ?oc=5",
+      "summary": "米中貿易交渉の詳細、28日公表 ＵＳＴＲ代表「進展あった」&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-25T14:49:43+00:00"
     },
     {
       "title": "ローマ教皇、国際対話は「茶番」を化す恐れ 国連は実効性の危機に直面と警告 - ロイター",
@@ -6922,6 +7018,14 @@
       "published": "2026-09-25T03:09:00+00:00"
     },
     {
+      "title": "ＮＡＴＯ、ロシアの脅威巡り情報共有を強化＝最高司令官 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZDRFQ3M0SG9Rd29mNVB4N3hGRnVrRnV0VE5pX0JEZFFKVUtNbzhfbXdwblhfT042b09zQldocEpLTDJlQ2VzN25WR01LQ1FQbjZsakZRLUR6d05uS0ZCNGliZXlfLVloNXY2NWNDMXlsRkJSVmdkX01nZ01yaG0tZHNMRkwzdw?oc=5",
+      "summary": "ＮＡＴＯ、ロシアの脅威巡り情報共有を強化＝最高司令官&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-25T03:09:00+00:00"
+    },
+    {
       "title": "ブラジル中銀、インフレ率は28年に目標付近へ 追加利下げ観測強まる - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNDRKRHNiWnJUZFNQQ1RKMDRtODFpbTduOXRaS2wyV2tsTlJHQ1BJeDFaVTNwQVZ0OVhUakNVcUIxMGNnN19maGhlOTJQUFJoTFZBMmRVMXhMUkdlX1k2aDFNLVpGTzNnVXFkTDJmRHVJZHk5S0dMbUtUZWhBUjZUemRCX2E?oc=5",
       "summary": "ブラジル中銀、インフレ率は28年に目標付近へ 追加利下げ観測強まる&nbsp;&nbsp;jp.reuters.com",
@@ -7557,6 +7661,14 @@
       "title": "インタビュー：ラピダス、量産成功なら将来は米生産も＝自民半導体議連会長 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtazFlMThnSUlGaFZtX1VUN2NvWDdzQkY1N19iazc0akFTenVKTk16YXFtRDJkeGJncXE2QnJoLW51SUdCQ1Q1MjFZZWpZbmJVTVJCd25EV25PblY2dDFvVWRQVXc3X21HUjQ3eEE2TXFDYWpIenBkWGI4ajY?oc=5",
       "summary": "インタビュー：ラピダス、量産成功なら将来は米生産も＝自民半導体議連会長&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-25T00:36:00+00:00"
+    },
+    {
+      "title": "インタビュー：ラピダス、量産成功なら将来は米生産も＝自民半導体議連会長 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtazFlMThnSUlGaFZtX1VUN2NvWDdzQkY1N19iazc0akFTenVKTk16YXFtRDJkeGJncXE2QnJoLW51SUdCQ1Q1MjFZZWpZbmJVTVJCd25EV25PblY2dDFvVWRQVXc3X21HUjQ3eEE2TXFDYWpIenBkWGI4ajY?oc=5",
+      "summary": "インタビュー：ラピダス、量産成功なら将来は米生産も＝自民半導体議連会長&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-25T00:36:00+00:00"
@@ -8202,6 +8314,14 @@
       "published": "2026-09-24T21:13:44+00:00"
     },
     {
+      "title": "パレスチナ議長、20年ぶり評議会選実施を再表明 国連総会でビデオ演説 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yNXF1cU93WGNnWl91WjJWWjJlN0pfMGo4b3FMeG9YWTNTcmt6djZMSUFPbVBWZFRyWlA0SlVSa3N6Wk5qcGlpUEFmQ2JGSjQtWjVoNmd5OC1nMUVITzM2YjctdUd4Z0J0QVFGZlB1RUVETmE1d1pkUzN4T2VpQQ?oc=5",
+      "summary": "パレスチナ議長、20年ぶり評議会選実施を再表明 国連総会でビデオ演説&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-24T21:13:44+00:00"
+    },
+    {
       "title": "OpenAI breach of Australian government linked to wider AI hacking campaign",
       "link": "https://www.ft.com/content/2a77e2f7-3c22-4082-8bb3-492675f46c77?syn-25a6b1a6=1",
       "summary": "Researchers detail three other attempts by AI agents to break into websites during ‘mundane data retrieval tasks’",
@@ -8629,6 +8749,14 @@
       "title": "ホルムズ海峡の23日の原油輸送、7月初旬以降で最大 ＝米当局者 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sdUhQLTNmdmhkSWtvVUoyM1BFTFlGRzBhVHlhNkJEMUtfTTZsbzllSEFSZzRYTGRkNTRBR044OWt1NWdvOV9wSDd0WkwwRXhDVkJvVkI2NXNZUmJkaWVTekp6aWRVeEZJSmdOSE96SkZXZnFfZ0ZLVjRsS3dCdw?oc=5",
       "summary": "ホルムズ海峡の23日の原油輸送、7月初旬以降で最大 ＝米当局者&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-24T19:33:44+00:00"
+    },
+    {
+      "title": "ホルムズ海峡の23日の原油輸送、7月初旬以降で最大 ＝米当局者 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sdUhQLTNmdmhkSWtvVUoyM1BFTFlGRzBhVHlhNkJEMUtfTTZsbzllSEFSZzRYTGRkNTRBR044OWt1NWdvOV9wSDd0WkwwRXhDVkJvVkI2NXNZUmJkaWVTekp6aWRVeEZJSmdOSE96SkZXZnFfZ0ZLVjRsS3dCdw?oc=5",
+      "summary": "ホルムズ海峡の23日の原油輸送、7月初旬以降で最大 ＝米当局者&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-24T19:33:44+00:00"
