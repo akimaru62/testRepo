@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T17:06:30.296599+00:00",
+  "generated_at": "2026-09-27T17:21:37.696629+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -648,6 +648,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-27T14:00:00+00:00"
+    },
+    {
+      "title": "Show HN: I spent 10 months building a Markdown editor for Mac, iOS and web",
+      "link": "https://www.markdown.beauty/",
+      "summary": "I've spent the last 10 months building Beauty: a local, powerful greco-roman Markdown editor where the page looks finished while you type. It runs on the Mac, iPhone and in the browser, and the browser version opens without an account: https://app.markdown.beautyI was frustrated with writing apps, and like most I used Apple Notes. After 2+ years immersed in Cursor, Codex and CC, I wished some interactions existed in a text editor.The Markdown renders in place as you write it, including tables (which you can drag and resize without lining up pipes), KaTeX math and Mermaid diagrams. A lot of thought went into typography and the writing experience.Your notes on the Mac are plain .md files in a folder with images next to them, so they open in anything else too. Each note keeps 200 versions. If you share a note with a link it syncs peer to peer over WebRTC while someone has it open, and the server that connects you only ever sees a random room id.Most of the ~1,000 commits went into the editor itself. It's a contenteditable, and I don't let the browser restructure the document at all, which was a lot more work than I expected. Building this to be performant and cross-platform required some novel approaches, which I'll later open source. The editor is free with no account or ads, and there's an optional subscription for sync through your own iCloud.https://www.markdown.beauty\n\nComments URL: https://news.ycombinator.com/item?id=49866597\nPoints: 9\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-27T13:44:45+00:00"
     },
     {
       "title": "Ten Lines of Code That Changed My World",
