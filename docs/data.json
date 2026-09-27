@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T10:35:54.987788+00:00",
+  "generated_at": "2026-09-27T10:47:13.352292+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -490,6 +490,14 @@
   ],
   "items": [
     {
+      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "link": "https://arxiv.org/abs/2609.25021",
+      "summary": "Article URL: https://arxiv.org/abs/2609.25021\nComments URL: https://news.ycombinator.com/item?id=49865343\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-27T10:26:25+00:00"
+    },
+    {
       "title": "最後のマウンド、娘とハグ　バーランダーが引退登板―米大リーグ",
       "link": "https://www.jiji.com/jc/article?k=2026092700246&g=spo&m=rss",
       "summary": "",
@@ -528,6 +536,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-27T10:00:01+00:00"
+    },
+    {
+      "title": "Show HN: LightCloud – A cloud console organised like file system",
+      "link": "https://www.light-cloud.com/",
+      "summary": "Hi HN, Light Cloud is a hosting platform where the unit of organisation is a folder. A folder holds everything project needs: frontend, API, database, env variables, preview per branch.\n\nComments URL: https://news.ycombinator.com/item?id=49865067\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-27T09:45:15+00:00"
     },
     {
       "title": "How to Know When the AI Boom Is About to Go Bust",
