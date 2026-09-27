@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T23:06:57.821525+00:00",
+  "generated_at": "2026-09-27T23:23:04.541263+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -490,6 +490,70 @@
   ],
   "items": [
     {
+      "title": "避難所生活、いまだ１５００人超　仮設入居進むも復興半ば―熊本地震、２８日で２カ月",
+      "link": "https://www.jiji.com/jc/article?k=2026092700138&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-27T23:22:58.854036+00:00"
+    },
+    {
+      "title": "西村優菜が米ツアー初優勝　今季日本勢３人目、完全Ｖで―女子ゴルフ",
+      "link": "https://www.jiji.com/jc/article?k=2026092800085&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-27T23:22:58.854019+00:00"
+    },
+    {
+      "title": "消費減税対案、住民税軸に　国民民主検討、実現は不透明",
+      "link": "https://www.jiji.com/jc/article?k=2026092700143&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-27T23:22:58.854006+00:00"
+    },
+    {
+      "title": "オーストラリアで進む高速鉄道計画　日立と欧州企業、受注競う",
+      "link": "https://www.jiji.com/jc/article?k=2026092700141&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-27T23:22:58.853990+00:00"
+    },
+    {
+      "title": "井戸水異常「いつまで…」　利用多い八代市、住民ら不安―「対応チーム」設置、課題は費用・熊本地震",
+      "link": "https://www.jiji.com/jc/article?k=2026092700139&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-27T23:22:58.853959+00:00"
+    },
+    {
+      "title": "ユニクロ好調も国内の店舗減 なぜ",
+      "link": "https://news.yahoo.co.jp/pickup/6596796?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-27T23:12:07+00:00"
+    },
+    {
+      "title": "Ask HN: Why do we let the AI companies dominate regulation discussion?",
+      "link": "https://news.ycombinator.com/item?id=49871747",
+      "summary": "And I don't mean the doomerism nonsense. From rogue AI, doomerism, AGI.I mean real regulation:1) Fair accounting of input/output tokens. Where is the weights and measures department to enforce  fair counting of usage? If I pay for a gallon of gas, that is what I expect. When I pay for a dollar of LLM compute, is it going to play games with the input (or especially the output) tokens to devalue my dollar?\n2) Quality. When I request a higher effort of a frontier model, and then I get downgraded to a lower tier model or with different effort levels (and I may not even know if I was downgraded!), they are effectively selling you a service you didn't ask for. \"But the terms of service\", great, if they feel it is such a risk to downgrade, and they get it wrong a lot, then they should discount the cost of the downgraded response.\n3) Adulterating outputs. LLMs are now routinely adulterating output for tracking and accountability purposes, but is there anyone to validate these efforts are not lowering the quality of the response? There needs to be more discussion around companies adulterating their product, and holding them to account. I have several times noticed words were swapped: sometimes the word pick made no sense, when it previously didn't do this. And I wasn't looking for it or cherry picking. It stood out that badly.\n4) Furthering point 3, are the responses themselves going to be seeded such that the author of that response can be identified? Has anyone asked themselves if they could deanonymize LLM responses online like yellow printer dots?\n5) Quotas. Related to points 1 and 2, when I am on a metered service, what happens to requests that fail mid-response, or the response is cut midway? Why should I pay for a failed response? Maybe that is fine, but who is validating they aren't doing this at scale to save money?I feel every time we earnestly or \"good faith\" engage in the nonsense regulations that the major LLMaaS (LLMs as a Service) duopolists, we fail to engage in real discussions about regulating the product we are paying for.I don't see why we should believe these companies to operate in good faith post-IPO. Where is the incentive once they shut down all competition to ensure only OpenAI/Anthropic are the LLMs you can purchase from?Look to what Uber/Lyft have become over the years. Massively degrading their service and increasing nickel and dime costs. They skirted regulation then demanded the world bend and write regulations that fit their revenue goals everywhere they could (or threatened to pull out where they couldn't).And if the danger really is as bad as they say, then how can we trust them to \"regulate\" that threat if they would refuse regulations around basic delivery of service?\n\nComments URL: https://news.ycombinator.com/item?id=49871747\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-27T23:10:57+00:00"
+    },
+    {
+      "title": "トヨタ｢高すぎて失注｣の挫折から3年…欧州商用車で《8割の連合》を組み\"最強のハブ\"になれたワケ | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958741?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "トヨタが挑み続けてきた水素モビリティ。かつての失敗と反省を経て､欧州の名門･スカニアらとの提携を実現し､今や巨大連合として市場の8割をカバーするまでに成長した。なぜ各社がトヨタの技術を信頼し結束した…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-27T23:00:00+00:00"
+    },
+    {
       "title": "韓国、ウクライナに謝罪要求 北朝鮮兵捕虜の移送公表巡り - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM2RqN1o4MEZHcUtfOC03Y3I2THduakRhR19GWEV0TnpheURZbHF4RzhFOHhLN2l2WWxNM0FvNDFSUjgxQWlHRm52NVJMdVB4S1RZRHg2M1V3VDd5VXZtclcyb0YySUNCRk13MVRrMXhMRWZSdlZSVEMtcWhxdEpBWnVMN2Q?oc=5",
       "summary": "韓国、ウクライナに謝罪要求 北朝鮮兵捕虜の移送公表巡り&nbsp;&nbsp;jp.reuters.com",
@@ -770,6 +834,14 @@
       "published": "2026-09-27T20:17:19+00:00"
     },
     {
+      "title": "Show HN: Cartopolis, interactive globe-sized 3D world",
+      "link": "https://code.garage44.eu/jeroen/cartopolis",
+      "summary": "Article URL: https://code.garage44.eu/jeroen/cartopolis\nComments URL: https://news.ycombinator.com/item?id=49870394\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-27T20:14:53+00:00"
+    },
+    {
       "title": "When did Google get so f-ing weird?",
       "link": "https://sancho.bearblog.dev/google-weird/",
       "summary": "Article URL: https://sancho.bearblog.dev/google-weird/\nComments URL: https://news.ycombinator.com/item?id=49870367\nPoints: 40\n# Comments: 2",
@@ -784,6 +856,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-27T20:12:54+00:00"
+    },
+    {
+      "title": "Self-Hosting on the Dark Web",
+      "link": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
+      "summary": "Article URL: https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/\nComments URL: https://news.ycombinator.com/item?id=49870295\nPoints: 11\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-27T20:03:36+00:00"
     },
     {
       "title": "トップは1億円を突破…！｢1人当たり純利益｣をガッツリ稼いでいる企業ランキングTOP300 | ライフ | 東洋経済オンライン",
@@ -2002,6 +2082,14 @@
       "published": "2026-09-27T01:08:07+00:00"
     },
     {
+      "title": "ゴルフ＝アーカンソー選手権、西村優菜が単独首位キープ - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRHMtM1dJemtZMW40amlHVGtvMmJZay1iTjMyZEhWRzY0Y2ZNTEhVR2o5YUxSS1dhYURYXzhmTGdXMFc5T0M3Wkp2ZEs1cGl5M0RTTVR2NGV5cXZZRzJGbnZCNURUTVo5NkN5UGhCdkZMTTRIb3ZzMFBiRGZuMzlTaTVn?oc=5",
+      "summary": "ゴルフ＝アーカンソー選手権、西村優菜が単独首位キープ&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-27T01:06:00+00:00"
+    },
+    {
       "title": "Real-time feedback: My closing move in every interview",
       "link": "https://mgrebler.substack.com/p/real-time-feedback-my-closing-move",
       "summary": "Article URL: https://mgrebler.substack.com/p/real-time-feedback-my-closing-move\nComments URL: https://news.ycombinator.com/item?id=49862244\nPoints: 6\n# Comments: 0",
@@ -2117,6 +2205,14 @@
       "title": "トランプ氏、イラン提示のホルムズ海峡開放案拒否 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcnJibkROa2dmeFJkUDRwazh4OXBMY0RwaEw5bkp1Q21lZ0xZSkdGczl5bk96dTVZSmdZM0Y5SlN1X3RWaDBTUzI0YVVlc3p6MnlFYXBOV215Q0RUUmFpblNiMnJRQnR6bGZIZzRDX0NQRFlyOElZTUkxb1liRUhQbkNDVFBBdw?oc=5",
       "summary": "トランプ氏、イラン提示のホルムズ海峡開放案拒否&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-26T23:51:43+00:00"
+    },
+    {
+      "title": "トランプ氏、イラン提示のホルムズ海峡開放案拒否 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcnJibkROa2dmeFJkUDRwazh4OXBMY0RwaEw5bkp1Q21lZ0xZSkdGczl5bk96dTVZSmdZM0Y5SlN1X3RWaDBTUzI0YVVlc3p6MnlFYXBOV215Q0RUUmFpblNiMnJRQnR6bGZIZzRDX0NQRFlyOElZTUkxb1liRUhQbkNDVFBBdw?oc=5",
+      "summary": "トランプ氏、イラン提示のホルムズ海峡開放案拒否&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-26T23:51:43+00:00"
@@ -8138,6 +8234,14 @@
       "published": "2026-09-25T01:13:00+00:00"
     },
     {
+      "title": "スズキ、2030年に向け新型車開発期間を20年度比半減目指す＝社長 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvX080MmJiU0xWRllZckZUVlhjVWttd3NIaUlRcTZVS3RmSVFSNUdubUlHRGRJN1BSdk5wWU9jaUtkaFBXWUgwdEZPUTJGcnMyRTZSeExwNFNiNDdpU25HdHd0ZUR5RW5fZGJJRXlRckN0Z0Q0NS1lVjJGbDc?oc=5",
+      "summary": "スズキ、2030年に向け新型車開発期間を20年度比半減目指す＝社長&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-25T01:13:00+00:00"
+    },
+    {
       "title": "全東信破産で「消えた売上金」、カード会社が53億円を全額支払いへ",
       "link": "https://www.asahi.com/articles/ASV9S3GTMV9SPLFA006M.html?ref=rss",
       "summary": "",
@@ -8480,6 +8584,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-25T00:08:46+00:00"
+    },
+    {
+      "title": "ＭＬＢ＝ＰＣＡが「40本塁打・40盗塁」達成、大谷以来史上7人目 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYWJJYWsxTktsM1UzNm5TM29sM3ctdFB2SVBZMWhpOEZEa3pOZ0Zoa0N0Q2lwZnpuczdlQ2taem42dXRiYUFiOVAzdUlCc0hVS2JYamVQenAwOWJyemxhZFpwNDBuVG5oX2pPOWpHa2lNSUtLdkM2ak1Qa0tSUUlTYlh3?oc=5",
+      "summary": "ＭＬＢ＝ＰＣＡが「40本塁打・40盗塁」達成、大谷以来史上7人目&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-25T00:06:00+00:00"
     },
     {
       "title": "PPL - | Stock Price & Latest News | Reuters - ロイター",
