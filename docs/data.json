@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T06:18:50.577459+00:00",
+  "generated_at": "2026-09-28T07:07:54.064611+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -490,9 +490,101 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "「金融機関における個人情報保護に関するQ&A」の改正について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/sonota/20260928/20260928.html",
+      "summary": "",
+      "source": "金融庁",
+      "category": "公的機関",
+      "published": "2026-09-28T16:00:00+00:00"
+    },
+    {
+      "title": "人事異動（令和８年９月28日付幹部名簿の更新）について公表しました。",
+      "link": "https://www.fsa.go.jp/common/about/jinji/index.html",
+      "summary": "",
+      "source": "金融庁",
+      "category": "公的機関",
+      "published": "2026-09-28T10:30:00+00:00"
+    },
+    {
+      "title": "米中、関税引き下げリスト公表　　互いに４．７兆円、実施は同時",
+      "link": "https://www.jiji.com/jc/article?k=2026092800396&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-28T07:07:40.890047+00:00"
+    },
+    {
+      "title": "所得連動給付の「担当相」新設検討　消費減税と合わせて導入の支援金",
+      "link": "https://www.asahi.com/articles/ASV9X1V2DV9XULFA00BM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-28T07:07:40.612997+00:00"
+    },
+    {
+      "title": "談合はどんなマンションで?　戸数や築年数を分析　多い「中規模」",
+      "link": "https://www.asahi.com/articles/ASV9V7V07V9VUTIL018M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-28T07:07:40.612990+00:00"
+    },
+    {
+      "title": "「工事費つり上げてない」談合業者、マンション住民は資産どう守る",
+      "link": "https://www.asahi.com/articles/ASV9V7HZMV9VUTIL020M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-28T07:07:40.612980+00:00"
+    },
+    {
+      "title": "大規模修繕工事の談合、現場マンション名を公表　38社に排除命令",
+      "link": "https://www.asahi.com/articles/ASV9V77HGV9VUTIL00HM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-28T07:07:40.612948+00:00"
+    },
+    {
+      "title": "異例の事態に発展したトランプ氏とメディアの全面対決…取材禁止に対抗し､メディアが下した｢代表取材拒否｣の衝撃 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959363?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "「こんなクレイジーな現場、見たことない」9月24日木曜日、米中首脳会談が行われる日の朝。ホワイトハウスに詰めかけ取材していたある記者は、現地の凄まじい大混乱の様子を、筆者にこう表現した。米中首脳会談…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-28T07:00:00+00:00"
+    },
+    {
+      "title": "大迷惑な｢クリスマスプレゼント｣…日銀の提案に大蔵省銀行局は激怒した　住専アリ地獄⑥ | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958641?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "1992年秋。日本住宅金融（日住金）の第2次再建案作りが難航する中、大蔵省銀行局は公的資金を選択肢から外し、そのうえで母体行責任でも貸し手責任でもなく、メインバンクの三和銀行の案とも異なる「最終的展…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-28T07:00:00+00:00"
+    },
+    {
+      "title": "Dollar Rises Along With Oil Prices as U.S.-Iran Talks Stall",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-weaken-amid-ongoing-geopolitical-tensions-31226800?mod=rss_markets_main",
+      "summary": "The dollar rose as hopes for U.S.-Iran diplomacy faded, lifting oil prices and driving investors towards safe-haven assets.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-28T06:53:00+00:00"
+    },
+    {
+      "title": "Treasury Yields Rise Amid U.S.-Iran Diplomatic Stalemate",
+      "link": "https://www.wsj.com/finance/treasury-yields-rise-amid-u-s-iran-diplomatic-stalemate-e763fe89?mod=rss_markets_main",
+      "summary": "Treasury yields rose in Asian trade on Monday as yet another setback in efforts to resolve the Middle East conflict pushed oil prices higher.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-28T06:38:00+00:00"
+    },
     {
       "title": "中野の事件前にも腕時計盗んだか　チリ国籍の男２人再逮捕―警視庁",
       "link": "https://www.jiji.com/jc/article?k=2026092800504&g=soc&m=rss",
@@ -510,12 +602,28 @@
       "published": "2026-09-28T06:12:00+00:00"
     },
     {
+      "title": "ファミチキ20周年、なぜ売れ続ける？　「味を変えない」戦略で累計販売数29億食に",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/28/news097.html",
+      "summary": "ファミリーマートの「ファミチキ」が発売20周年を迎える。累計販売数は右肩上がりで推移し、29億食を超えた。長年支持される背景と、今後の狙いを聞いた。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-09-28T06:01:00+00:00"
+    },
+    {
       "title": "ニデック 大規模な減損処理を検討",
       "link": "https://news.yahoo.co.jp/pickup/6596842?source=rss",
       "summary": "",
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-09-28T05:59:33+00:00"
+    },
+    {
+      "title": "‘Xi got face’: China relishes equal treatment from Trump",
+      "link": "https://www.ft.com/content/8ac777fc-882e-4781-826b-272d72d468a0?syn-25a6b1a6=1",
+      "summary": "Chinese state media hail the respect that US president offered their country’s leader",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-28T05:55:08+00:00"
     },
     {
       "title": "日銀、利上げペース加速に前向きな意見相次ぐ　7月会合の議事要旨",
@@ -857,6 +965,14 @@
       "title": "Thinking Fast and Slow in AI: the Role of Metacognition (2021)",
       "link": "https://arxiv.org/abs/2110.01834",
       "summary": "Article URL: https://arxiv.org/abs/2110.01834\nComments URL: https://news.ycombinator.com/item?id=49873241\nPoints: 48\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-28T03:23:53+00:00"
+    },
+    {
+      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+      "link": "https://arxiv.org/abs/2110.01834",
+      "summary": "Article URL: https://arxiv.org/abs/2110.01834\nComments URL: https://news.ycombinator.com/item?id=49873241\nPoints: 63\n# Comments: 9",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-28T03:23:53+00:00"
@@ -1329,6 +1445,14 @@
       "title": "Was Silent Reading Unusual During Augustine's Time?",
       "link": "https://www.historyofinformation.com/detail.php?entryid=4341",
       "summary": "Article URL: https://www.historyofinformation.com/detail.php?entryid=4341\nComments URL: https://news.ycombinator.com/item?id=49872474\nPoints: 9\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-28T01:22:28+00:00"
+    },
+    {
+      "title": "Was silent reading unusual during Augustine's time?",
+      "link": "https://www.historyofinformation.com/detail.php?entryid=4341",
+      "summary": "Article URL: https://www.historyofinformation.com/detail.php?entryid=4341\nComments URL: https://news.ycombinator.com/item?id=49872474\nPoints: 35\n# Comments: 9",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-28T01:22:28+00:00"
