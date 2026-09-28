@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T17:07:40.744329+00:00",
+  "generated_at": "2026-09-28T17:25:17.626534+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -506,6 +506,38 @@
   ],
   "items": [
     {
+      "title": "Highlights from Git 2.56",
+      "link": "https://github.blog/open-source/git/highlights-from-git-2-56/",
+      "summary": "The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time.\nThe post Highlights from Git 2.56 appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "category": "開発者向け",
+      "published": "2026-09-28T17:23:33+00:00"
+    },
+    {
+      "title": "SpaceX sends its Starship rocket to orbit for the first time — but not without some hiccups",
+      "link": "https://www.marketwatch.com/story/spacex-is-moments-away-from-monumental-starship-launch-4f34767b?mod=mw_rss_topstories",
+      "summary": "SpaceX cut the flight short after initially aiming to send it on a nearly 10-hour mission.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-28T17:21:00+00:00"
+    },
+    {
+      "title": "MongoDB’s stock is down nearly 20% as CEO decamps to Meta",
+      "link": "https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
+      "summary": "Meta is creating an enterprise platform business that aims to make it easier for developers to use its products. CJ Desai, formerly of MongoDB, will head up the initiative.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-28T17:10:00+00:00"
+    },
+    {
+      "title": "How Pew Research Center is – and is not – using AI in our work",
+      "link": "https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
+      "summary": "Article URL: https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/\nComments URL: https://news.ycombinator.com/item?id=49881135\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-28T17:08:06+00:00"
+    },
+    {
       "title": "Micron has a chance to set the record straight with its earnings report",
       "link": "https://www.marketwatch.com/story/micron-has-a-chance-to-set-the-record-straight-with-its-earnings-report-a98fb935?mod=mw_rss_topstories",
       "summary": "Micron is no longer the company it was before the AI boom, and one analyst says it’s time that investors fully appreciate that.",
@@ -616,6 +648,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-28T15:29:23+00:00"
+    },
+    {
+      "title": "Cf: The Agentic CLI for the Cloudflare API",
+      "link": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+      "summary": "Article URL: https://blog.cloudflare.com/cloudflare-cf-cli-launch/\nComments URL: https://news.ycombinator.com/item?id=49879577\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-28T15:28:13+00:00"
     },
     {
       "title": "新戦力に厳しい現実　流れ変えたのは常連組―サッカー日本代表",
@@ -1587,6 +1627,14 @@
     },
     {
       "title": "Stock Market Today: Treasury Yields Climb to Fresh Highs; Oil Rises on Rejected Iran Truce",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-28-2026?mod=rss_markets_main",
+      "summary": "Stocks under pressure",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-28T09:09:39+00:00"
+    },
+    {
+      "title": "Stock Market Today: Treasury Yields Climb to Fresh Highs; Oil Pares Gains",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-28-2026?mod=rss_markets_main",
       "summary": "Stocks under pressure",
       "source": "WSJ マーケット",
