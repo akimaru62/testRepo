@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T16:09:33.271912+00:00",
+  "generated_at": "2026-09-28T16:30:56.362444+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -506,6 +506,30 @@
   ],
   "items": [
     {
+      "title": "中井飛馬２連覇、畠山紗英も金　３０００障害は三浦龍司Ｖ―愛知・名古屋アジア大会",
+      "link": "https://www.jiji.com/jc/article?k=2026092800713&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-28T16:30:51.423311+00:00"
+    },
+    {
+      "title": "AWS Weekly Roundup: GPT-6 Sol and Luna, Claude Opus 5.5 on Amazon Bedrock, Strands harness, and more (September 28, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-sol-and-luna-claude-opus-5-5-on-amazon-bedrock-strands-harness-and-more-september-28-2026/",
+      "summary": "If there’s one theme that defined last week, it’s choice. The frontier models keep arriving, and the interesting question is no longer just “how smart is it?” but “which model fits this step, at this cost, at this latency?” That’s exactly what landed on Amazon Bedrock over the past few days: GPT-6 Sol and GPT-6 […]",
+      "source": "AWS ブログ (AWS)",
+      "category": "テクノロジー",
+      "published": "2026-09-28T16:14:54+00:00"
+    },
+    {
+      "title": "The problem is not the AI code, but nobody knows anything anymore",
+      "link": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+      "summary": "Article URL: https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/\nComments URL: https://news.ycombinator.com/item?id=49880312\nPoints: 32\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-28T16:11:42+00:00"
+    },
+    {
       "title": "「金融機関における個人情報保護に関するQ&A」の改正について公表しました。",
       "link": "https://www.fsa.go.jp/news/r8/sonota/20260928/20260928.html",
       "summary": "",
@@ -514,12 +538,52 @@
       "published": "2026-09-28T16:00:00+00:00"
     },
     {
+      "title": "Meta launches enterprise AI business seeking to cash in on vast spending",
+      "link": "https://www.ft.com/content/fbe0a48f-4d33-42eb-8d2c-79f662c88678?syn-25a6b1a6=1",
+      "summary": "Chief executive Mark Zuckerberg opens a new front in his push to turn huge investment in the technology into profits",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-28T15:54:34+00:00"
+    },
+    {
+      "title": "Pirating the Pirates",
+      "link": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+      "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates\nComments URL: https://news.ycombinator.com/item?id=49880036\nPoints: 23\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-28T15:54:15+00:00"
+    },
+    {
+      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+      "link": "https://madrobot.blog/2026/09/28/nvidia-open-agent-safety-platform-openshell-sentry-rogue-ai-agents/",
+      "summary": "Article URL: https://madrobot.blog/2026/09/28/nvidia-open-agent-safety-platform-openshell-sentry-rogue-ai-agents/\nComments URL: https://news.ycombinator.com/item?id=49879883\nPoints: 29\n# Comments: 40",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-28T15:46:36+00:00"
+    },
+    {
+      "title": "Hijacking the PS5's RTMP Stream",
+      "link": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+      "summary": "Article URL: https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/\nComments URL: https://news.ycombinator.com/item?id=49879702\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-28T15:35:23+00:00"
+    },
+    {
       "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
       "link": "https://www.thisamericanlife.org/897/transcript",
       "summary": "Article URL: https://www.thisamericanlife.org/897/transcript\nComments URL: https://news.ycombinator.com/item?id=49879697\nPoints: 16\n# Comments: 1",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-28T15:35:09+00:00"
+    },
+    {
+      "title": "Updated Google Maps shows destruction of the city of Rafah",
+      "link": "https://twitter.com/AliAbunimah/status/2103890594137309425",
+      "summary": "Article URL: https://twitter.com/AliAbunimah/status/2103890594137309425\nComments URL: https://news.ycombinator.com/item?id=49879645\nPoints: 20\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-28T15:32:18+00:00"
     },
     {
       "title": "Five men arrested over alleged RAF Fairford terror plot released on bail",
@@ -568,6 +632,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-28T15:28:09.233193+00:00"
+    },
+    {
+      "title": "スペースＸの「スターシップ」、初の軌道到達 衛星26基展開 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRY0EyTlFJNkc1X2RHcUdJT1I0d3p5Y3N2cmpKS25sNUx1TUxzdkFseGsxaEg3SU03aVJvTDZXYXZxZDVxN0JETmNJZ1g4VzlHbVdFSjczZXNqSWU1bWJEeDlKUnBqQkNFX0xLbTZCRDVYZ1VDUXJELWdhT3RfZw?oc=5",
+      "summary": "スペースＸの「スターシップ」、初の軌道到達 衛星26基展開&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-28T15:01:20+00:00"
     },
     {
       "title": "Jensen Huang says AI distillation is 'competition.'",
