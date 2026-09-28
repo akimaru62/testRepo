@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:07:54.064611+00:00",
+  "generated_at": "2026-09-28T07:43:56.197137+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -494,6 +494,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -512,6 +516,62 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-28T10:30:00+00:00"
+    },
+    {
+      "title": "東京都心の降水、最長記録に並ぶ　８月２７日から３３日連続―気象庁",
+      "link": "https://www.jiji.com/jc/article?k=2026092800525&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-28T07:43:42.212415+00:00"
+    },
+    {
+      "title": "横浜市の山中前市長が出直し選出馬へ　パワハラで辞職、２９日に会見",
+      "link": "https://www.jiji.com/jc/article?k=2026092800393&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-28T07:43:42.212397+00:00"
+    },
+    {
+      "title": "高市首相、女性登用「北欧並み」どこへ　政務三役２減、党四役不在に",
+      "link": "https://www.jiji.com/jc/article?k=2026092800062&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-28T07:43:42.212383+00:00"
+    },
+    {
+      "title": "スマイルアップは、東山紀之社長が任期満了で退任すると発表した",
+      "link": "https://www.jiji.com/jc/article?k=2026092800555&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-28T07:43:42.212366+00:00"
+    },
+    {
+      "title": "スマイルアップ、東山社長が退任　任期満了で、藤島氏は留任―新社長は山田弁護士",
+      "link": "https://www.jiji.com/jc/article?k=2026092800563&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-28T07:43:42.212328+00:00"
+    },
+    {
+      "title": "隠す時代は終わった？　防衛産業の積極発信に動く重工・電機大手",
+      "link": "https://www.asahi.com/articles/ASV9X1SWSV9XULFA02VM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-28T07:43:41.956780+00:00"
+    },
+    {
+      "title": "大規模修繕で談合 38社に排除命令",
+      "link": "https://news.yahoo.co.jp/pickup/6596852?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-09-28T07:29:13+00:00"
     },
     {
       "title": "米中、関税引き下げリスト公表　　互いに４．７兆円、実施は同時",
@@ -1384,6 +1444,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-28T01:35:14+00:00"
+    },
+    {
+      "title": "Packing Binary Is Fun",
+      "link": "https://hereticpleb.vercel.app/blog/packing-binary-is-fun-actually",
+      "summary": "Article URL: https://hereticpleb.vercel.app/blog/packing-binary-is-fun-actually\nComments URL: https://news.ycombinator.com/item?id=49872541\nPoints: 6\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-28T01:33:51+00:00"
     },
     {
       "title": "米メタ、ＡＩエージェント「ミューズ」の安全警告強化 脆弱性を発見 - jp.reuters.com",
