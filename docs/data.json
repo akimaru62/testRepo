@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T21:07:18.391450+00:00",
+  "generated_at": "2026-09-28T21:24:07.216393+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -510,6 +510,70 @@
   ],
   "items": [
     {
+      "title": "中国外務省によると、王毅外相は岩屋前外相に「指導者が台湾問題での誤った発言をなるべく早く是正することが必要だ」と述べた",
+      "link": "https://www.jiji.com/jc/article?k=2026092900121&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-28T21:24:01.675108+00:00"
+    },
+    {
+      "title": "米アンソロ社ＣＥＯ、ＡＩ会合出席へ　トランプ氏と夕食会",
+      "link": "https://www.jiji.com/jc/article?k=2026092900139&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-28T21:24:01.675100+00:00"
+    },
+    {
+      "title": "台湾発言、なるべく早く是正を　中国外相",
+      "link": "https://www.jiji.com/jc/article?k=2026092900133&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-28T21:24:01.675092+00:00"
+    },
+    {
+      "title": "茨城、埼玉両県で震度４の揺れを観測した",
+      "link": "https://www.jiji.com/jc/article?k=2026092900124&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-28T21:24:01.675084+00:00"
+    },
+    {
+      "title": "首相動静（９月２８日）",
+      "link": "https://www.jiji.com/jc/article?k=2026092800119&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-28T21:24:01.675065+00:00"
+    },
+    {
+      "title": "記録的な長雨の中、「電気vsガス」乾燥機バトル　「室内干し」増",
+      "link": "https://www.asahi.com/articles/ASV9T03C1V9TUTIL005M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-28T21:24:01.406173+00:00"
+    },
+    {
+      "title": "WSJ Dollar Index Rises 0.15% to 96.85",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-weaken-amid-ongoing-geopolitical-tensions-31226800?mod=rss_markets_main",
+      "summary": "The WSJ Dollar Index rose 0.2% — up nine of the past 11 trading days.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-28T21:21:00+00:00"
+    },
+    {
+      "title": "This AI startup has only 14 employees — and a fresh $10 billion valuation",
+      "link": "https://www.marketwatch.com/story/this-ai-startup-has-only-14-employees-and-a-fresh-10-billion-valuation-5466e081?mod=mw_rss_topstories",
+      "summary": "Instinct is rapidly amassing investment dollars, illustrating the rush of excitement around personal AI assistants.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-28T21:19:00+00:00"
+    },
+    {
       "title": "Oil Prices and Bond Yields Keep Rising, Putting a Damper on Stocks",
       "link": "https://www.wsj.com/finance/investing/oil-prices-and-bond-yields-keep-rising-putting-a-damper-on-stocks-0dd33e36?mod=rss_markets_main",
       "summary": "Stuck in a ‘one factor world,’ Treasury yields inched closer to a new milestone.",
@@ -590,12 +654,36 @@
       "published": "2026-09-28T21:00:00+00:00"
     },
     {
+      "title": "Erdoğan bids to contain fallout from Turkey’s $18bn stock market scandal",
+      "link": "https://www.ft.com/content/c72a016b-ad45-4cde-8020-dc1da7ab0839?syn-25a6b1a6=1",
+      "summary": "President says those ‘engaged in manipulative schemes’ will be held to account as deputy chair of governing party resigns",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-28T20:57:06+00:00"
+    },
+    {
+      "title": "Palantir founder purchases large swath of forest in Sweden",
+      "link": "https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/",
+      "summary": "Article URL: https://www.arctictoday.com/palantir-founder-purchases-large-swath-of-forest-in-sweden/\nComments URL: https://news.ycombinator.com/item?id=49884169\nPoints: 38\n# Comments: 36",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-28T20:51:47+00:00"
+    },
+    {
       "title": "〈議論白熱〉AIリスクどう向き合う？テック巨人らの主張割れる規制論…セールスフォースが示す｢SaaS企業の生存戦略｣ | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/959310?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "AIシステムに対する制御の喪失、サイバー攻撃やバイオテロへのAIの悪用、そして深刻な経済的混乱――。アンソロピックCEOのダリオ・アモデイ氏は9月12日、ウェブサイトに投稿した論考の中でAIのリスク…",
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-28T20:50:00+00:00"
+    },
+    {
+      "title": "Pacing the Frontier is not the actual goal for AI labs",
+      "link": "https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs",
+      "summary": "Article URL: https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs\nComments URL: https://news.ycombinator.com/item?id=49884119\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-28T20:47:26+00:00"
     },
     {
       "title": "ローマ教皇、ロ・ウに戦争終結の対話呼びかけ 軍拡路線に警鐘 - ロイター",
@@ -660,6 +748,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-28T20:22:00+00:00"
+    },
+    {
+      "title": "Best of British Design",
+      "link": "https://best-of-british-design.vercel.app/",
+      "summary": "Article URL: https://best-of-british-design.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49883817\nPoints: 15\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-28T20:21:22+00:00"
     },
     {
       "title": "Treasury Yields Climb to Fresh Highs While Oil Rises",
@@ -740,6 +836,14 @@
       "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-09-28T20:00:00+00:00"
+    },
+    {
+      "title": "It's Time to Investigate the AI Labs",
+      "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+      "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/\nComments URL: https://news.ycombinator.com/item?id=49883471\nPoints: 42\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-28T19:53:35+00:00"
     },
     {
       "title": "California expanded the right to delete today",
