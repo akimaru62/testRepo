@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T17:25:17.626534+00:00",
+  "generated_at": "2026-09-28T17:37:06.275596+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -538,6 +538,14 @@
       "published": "2026-09-28T17:08:06+00:00"
     },
     {
+      "title": "Driver Ticketed for No Insurance Just Because Flock (YC 2017) Said She Didn't",
+      "link": "https://www.techdirt.com/2026/09/28/driver-ticketed-for-no-insurance-despite-having-insurance-just-because-flock-said-she-didnt/",
+      "summary": "Article URL: https://www.techdirt.com/2026/09/28/driver-ticketed-for-no-insurance-despite-having-insurance-just-because-flock-said-she-didnt/\nComments URL: https://news.ycombinator.com/item?id=49880992\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-28T16:58:25+00:00"
+    },
+    {
       "title": "Micron has a chance to set the record straight with its earnings report",
       "link": "https://www.marketwatch.com/story/micron-has-a-chance-to-set-the-record-straight-with-its-earnings-report-a98fb935?mod=mw_rss_topstories",
       "summary": "Micron is no longer the company it was before the AI boom, and one analyst says it’s time that investors fully appreciate that.",
@@ -578,6 +586,14 @@
       "published": "2026-09-28T16:11:42+00:00"
     },
     {
+      "title": "The problem is not AI code, but not knowing about system architecture or intent",
+      "link": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+      "summary": "Article URL: https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/\nComments URL: https://news.ycombinator.com/item?id=49880312\nPoints: 237\n# Comments: 148",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-28T16:11:42+00:00"
+    },
+    {
       "title": "13 Months Sober (2025)",
       "link": "https://www.bobbytables.io/p/13-months-sober",
       "summary": "Article URL: https://www.bobbytables.io/p/13-months-sober\nComments URL: https://news.ycombinator.com/item?id=49880311\nPoints: 5\n# Comments: 1",
@@ -608,6 +624,22 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-28T15:54:15+00:00"
+    },
+    {
+      "title": "韓国、ウクライナ代理大使に抗議 北朝鮮の捕虜移送公表に - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcGlGTl80LV9tSUx0Q2QxLXdBQThmUVVPdXFWZ3dZakR0WVNSMEdBZ05ORUxDOFE4aVdMYlJDelIwSExNZjNKSGg1V3VvZkx1dlU1QnlacXdZVGZMck44eUNzM0swUk8yamhHSVpfblNHSERfZVdRclJJS2NyTEdPRkUteTk?oc=5",
+      "summary": "韓国、ウクライナ代理大使に抗議 北朝鮮の捕虜移送公表に&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-28T15:53:45+00:00"
+    },
+    {
+      "title": "カタール仲介団、米・イランと個別協議へ 戦争終結目指す - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaFBoQ0tGRmlMd0xCMnBSaXotd0oyeUNhSVpzMnlBNmoyR1N1TlJOaFZtWWlFeC1qQUVlTVBZOVZfa2lBbnVkallsdTdMM2R0bERpRkpDTlRWTkVXdWN5Ukxmd0FOSEhhNC0wVTlRdC1keW4tcFZETHZUcG5DVl9LWXpnLXNQdw?oc=5",
+      "summary": "カタール仲介団、米・イランと個別協議へ 戦争終結目指す&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-28T15:50:10+00:00"
     },
     {
       "title": "Nvidia wants to put a watchdog chip next to every AI agent",
@@ -698,6 +730,14 @@
       "published": "2026-09-28T15:28:09.233193+00:00"
     },
     {
+      "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+      "link": "https://hn.watch/",
+      "summary": "Hi HN, I’m Per, founder of Scrimba (YC S20). We’ve spent the last decade teaching people how to code with an HTML-based video format. We’ve now plugged an LLM into it, so that people can create explainer videos about anything. It’s called “Scrimba Explain”.To demo this technology for Hacker News, we built HN.watch. It’s like HN, but with explainer videos instead of articles. We create them on-the-fly the first time someone clicks on a link.While there are obvious visual drawbacks of using HTML instead of diffusion models, there are three big benefits: - Speed: Much faster to generate than pixel-based videos (just a few seconds from click to playback) - Cost: Our cost per video is ~$0.04. (Excluding image generation, which some videos utilize. Quickly blows up the cost) - Easy editing: the above benefits also make AI-assisted editing cheap & fastOur hypothesis is that if video creation goes from “dollars and minutes” to “cents and seconds”, a bunch of new use cases will be unlocked. Here are some we see already: - A video explanation of every single Pull Request (we do this internally) - Give every page in your internal/extrernal docs a video - Turn a complex article into a video in ~4 seconds (via our Chrome extension) - Course creators can quickly draft lessons before recording the real thing - People also create a lot of personal stuff stories for their kids, wedding invitations, birthdays, etcThe stack is based on an open-source programming language (Imba) created by our CTO, Sindre Aarsæther. It compiles to JavaScript, so it interoperates fully with the npm + node ecosystem. You can learn more here: https://imba.io/We’ve also built our own sync engine (OP), and a context management system for agents (Q). We feared this would make the LLMs struggle when writing code for us, as neither is in their training data (there’s very little Imba in there too). However, we’ve been pleasantly surprised to see that LLMs actually are really good at our stack. This is probably because the stack is extremely dense. Imba is compact, and so is OP, where a single declaration sets storage, sync, permissions, UI, and what the AI sees. This means there’s no translations between frontend, API, db and JSON where the model can get confused and get things wrong.Simply said, instead of using React.js, Express, Supabase, and LangChain, we built it all from scratch. Definitely suffering from the “not invented here” syndrome, lol! As for the models, we use Gemini, GPTs, Inworld, ElevenLabs, and a few others.If you want to try it out, just take your pick: - The Web UI (scrimba.com/explain) - MCP (add it to your coding agent) - ChatGPT Plugin - Chrome ExtensionYou can find a link to all of the above in our docs: https://docs.scrimba.com/explain/introductionAnd finally, a real pixel-based video of the tool: https://www.youtube.com/watch?v=k6rbHmBxSEsWould love to hear your feedback and if anyone has ideas for other use cases.PS: I expect quite a bit of pushback from HN for this launch, given how fan of text the HN crowd is. This kind of tool is not for everyone. But there are a lot of people today who prefer videos over text, especially in the younger generations.\n\nComments URL: https://news.ycombinator.com/item?id=49879401\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-28T15:16:13+00:00"
+    },
+    {
       "title": "What makes Lisp difficult to read?",
       "link": "https://paultm.nl/paren-thesis",
       "summary": "Article URL: https://paultm.nl/paren-thesis\nComments URL: https://news.ycombinator.com/item?id=49879343\nPoints: 8\n# Comments: 6",
@@ -714,6 +754,14 @@
       "published": "2026-09-28T15:01:20+00:00"
     },
     {
+      "title": "スペースＸの「スターシップ」、初の軌道到達 衛星26基展開 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRY0EyTlFJNkc1X2RHcUdJT1I0d3p5Y3N2cmpKS25sNUx1TUxzdkFseGsxaEg3SU03aVJvTDZXYXZxZDVxN0JETmNJZ1g4VzlHbVdFSjczZXNqSWU1bWJEeDlKUnBqQkNFX0xLbTZCRDVYZ1VDUXJELWdhT3RfZw?oc=5",
+      "summary": "スペースＸの「スターシップ」、初の軌道到達 衛星26基展開&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-28T15:01:20+00:00"
+    },
+    {
       "title": "Jensen Huang says AI distillation is 'competition.'",
       "link": "https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html",
       "summary": "Article URL: https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html\nComments URL: https://news.ycombinator.com/item?id=49879032\nPoints: 26\n# Comments: 11",
@@ -725,6 +773,14 @@
       "title": "MongoDB CEO resigns \"effective immediately\" to join Meta, stock drops 20%",
       "link": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/",
       "summary": "Article URL: https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/\nComments URL: https://news.ycombinator.com/item?id=49879000\nPoints: 17\n# Comments: 11",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-28T14:54:21+00:00"
+    },
+    {
+      "title": "MongoDB CEO resigns to join Meta",
+      "link": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/",
+      "summary": "Article URL: https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/\nComments URL: https://news.ycombinator.com/item?id=49879000\nPoints: 119\n# Comments: 118",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-28T14:54:21+00:00"
@@ -810,6 +866,14 @@
       "published": "2026-09-28T14:29:44+00:00"
     },
     {
+      "title": "ＥＣＢの緩やかな利上げ継続適切、インフレの二次的効果見られず＝総裁 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfc1RObGp2YXllckZVRFZQcmYzeXlkOFA4bEZHSkRZMlNUTTBSNjMwLWxsVTk1S0JibFdNTkQ1VVFnQWJIRFo4NEhkYmptN1Z6aGp4c3BybWt6RlBweXI1Mzktd0FLZDc0OTJtN21sdkFCYmhKelBBZ1Fzc2s?oc=5",
+      "summary": "ＥＣＢの緩やかな利上げ継続適切、インフレの二次的効果見られず＝総裁&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-28T14:29:44+00:00"
+    },
+    {
       "title": "Natural Gas Turns Lower to Open Week",
       "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-on-prospects-of-prolonged-lng-disruptions-82000fff?mod=rss_markets_main",
       "summary": "Natural gas extended a pullback it began late last week, with the shockwave from a pipeline malfunction in West Virginia easing.",
@@ -861,6 +925,14 @@
       "title": "エヌビディア、自社株買い枠1500億ドル拡大 ＡＩブーム追い風 - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RdmFzVDMweEFlMnducEhZMERERTFrYXBreHI0RlNrMURubk5GNWlySG5tekN0VFZxUDlFeXF1RUxUR3pIYU5oTHZVLWdBdkV5anozd0NBa183WXpMRTFtQWNwUXA2SGJ6ZVhmVVBCRUJRRDI0VEJEY25ramc?oc=5",
       "summary": "エヌビディア、自社株買い枠1500億ドル拡大 ＡＩブーム追い風&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-28T13:56:37+00:00"
+    },
+    {
+      "title": "エヌビディア、自社株買い枠1500億ドル拡大 ＡＩブーム追い風 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RdmFzVDMweEFlMnducEhZMERERTFrYXBreHI0RlNrMURubk5GNWlySG5tekN0VFZxUDlFeXF1RUxUR3pIYU5oTHZVLWdBdkV5anozd0NBa183WXpMRTFtQWNwUXA2SGJ6ZVhmVVBCRUJRRDI0VEJEY25ramc?oc=5",
+      "summary": "エヌビディア、自社株買い枠1500億ドル拡大 ＡＩブーム追い風&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-28T13:56:37+00:00"
@@ -3853,6 +3925,14 @@
       "title": "8H0G.F - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORFl2RFM0S21YM0xwQjkwQ1Y1OGZveE9YQ3ZQNG1xXzFkai0tV0JjV0M0RHlpbXZZY1JyZlBNYnp3TlB4SERTbF9IS1JOSDJROWZxOVpkMlpQUC1FaDNjbTNaQU1ycDdBYVUzeFRhbjZWUlRuQmE0SGlmZ2VTczBWWU1MY0g?oc=5",
       "summary": "8H0G.F&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-27T23:15:58+00:00"
+    },
+    {
+      "title": "8H0G.F - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORFl2RFM0S21YM0xwQjkwQ1Y1OGZveE9YQ3ZQNG1xXzFkai0tV0JjV0M0RHlpbXZZY1JyZlBNYnp3TlB4SERTbF9IS1JOSDJROWZxOVpkMlpQUC1FaDNjbTNaQU1ycDdBYVUzeFRhbjZWUlRuQmE0SGlmZ2VTczBWWU1MY0g?oc=5",
+      "summary": "8H0G.F&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-27T23:15:58+00:00"
