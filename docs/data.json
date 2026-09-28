@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T10:19:37.312398+00:00",
+  "generated_at": "2026-09-28T10:38:54.835858+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -498,6 +498,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     }
   ],
   "items": [
@@ -516,6 +520,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-28T10:30:00+00:00"
+    },
+    {
+      "title": "Cruise Stocks Have Hit Choppy Waters",
+      "link": "https://www.wsj.com/finance/stocks/cruise-stocks-have-hit-choppy-waters-ee18ece7?mod=rss_markets_main",
+      "summary": "Plus, Iran truce disappointment weighs.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-28T10:24:00+00:00"
     },
     {
       "title": "イリエワニなど無許可飼育容疑　ペットショップ経営者逮捕―大阪府警",
@@ -572,6 +584,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-28T10:19:31.552786+00:00"
+    },
+    {
+      "title": "【日本株“次の狙い目”と“不安要素”】AIで銘柄選びを効率化／初心者必見の活用法「AIブレーキ」／今後「TOPIX」がアツい理由／「手元現金」何割残すのが正解？／売買繰り返す“ポジポジ病”への処方箋 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959420?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "前編https://youtu.be/8iXcaYNg2ac?si=8nrCXfpu0zynw70i元高校球児でフリーアナウンサーの上重聡がお送りする資産運用をテーマにした動画シリーズ。いつか「億…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-28T10:00:00+00:00"
     },
     {
       "title": "Rising Deficits and War Unravel Trump’s Strategy to Lower Interest Rates and Inflation",
@@ -662,6 +682,14 @@
       "published": "2026-09-28T09:20:00+00:00"
     },
     {
+      "title": "SpaceX's Starship launching to orbit for first time ever today",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live",
+      "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live\nComments URL: https://news.ycombinator.com/item?id=49875411\nPoints: 21\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-28T09:15:04+00:00"
+    },
+    {
       "title": "‘I feel like he’s holding me back’: I have $8 million. My husband resents my success. Should I pay for more things?",
       "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
       "summary": "“I’d rather be on a beach in Bali than watching my spouse sit at the computer.”",
@@ -673,6 +701,14 @@
       "title": "Stock Market Today: Rejected Iran Truce Pushes Oil, Yields Higher",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-28-2026?mod=rss_markets_main",
       "summary": "U.S. stocks set to face pressure",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-28T09:09:39+00:00"
+    },
+    {
+      "title": "Stock Market Today: Oil, Yields Rise After Trump Rejects Iran Truce",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-28-2026?mod=rss_markets_main",
+      "summary": "Nasdaq futures slump",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-28T09:09:39+00:00"
@@ -774,9 +810,25 @@
       "published": "2026-09-28T08:42:52.872398+00:00"
     },
     {
+      "title": "Investigators focus on Iran link to arrests near UK air base",
+      "link": "https://www.ft.com/content/571a3103-ec01-464b-ab39-0c0da58d9524?syn-25a6b1a6=1",
+      "summary": "Defence secretary pushes back at witness’s suggestion that police were unaware of suspects near RAF Fairford until her tip-off",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-28T08:42:28+00:00"
+    },
+    {
       "title": "エアバス、「Ａ３２１ｎｅｏ」巡り塗装に不具合 500機に影響 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hUjYydFRScGNSYlJXSGota19scWlWYTJOMi02UFFsU2pTT28taHJJNGxxN1NYUnRUbDhZMVhGNDY1NmRMU0ZMMmRIc21nR2hBd2VLRmllQUNaM25fd0hCaUxlZGFmNVlHcjlJSGV2QmxSVmlraHk0eFBGVmI?oc=5",
       "summary": "エアバス、「Ａ３２１ｎｅｏ」巡り塗装に不具合 500機に影響&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-28T08:39:43+00:00"
+    },
+    {
+      "title": "エアバス、「Ａ３２１ｎｅｏ」巡り塗装に不具合 500機に影響 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hUjYydFRScGNSYlJXSGota19scWlWYTJOMi02UFFsU2pTT28taHJJNGxxN1NYUnRUbDhZMVhGNDY1NmRMU0ZMMmRIc21nR2hBd2VLRmllQUNaM25fd0hCaUxlZGFmNVlHcjlJSGV2QmxSVmlraHk0eFBGVmI?oc=5",
+      "summary": "エアバス、「Ａ３２１ｎｅｏ」巡り塗装に不具合 500機に影響&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-28T08:39:43+00:00"
@@ -828,6 +880,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-28T08:06:00+00:00"
+    },
+    {
+      "title": "インタビュー：為替円安、過小評価は問題とする日米認識「非常にクリア」＝三村財務官 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5dC1ZWmMzQTgtR1FNeWFrZWc3SjdQbWlmZDd0anhxVHlPcG5MZkdqbGhEWldMbkZJanZBX0V5M19VaHdCRUVCaHZQQ2tPSEFUbENOZHRsU1I2UkZKSENBSHc0cExTZHE5Y1p0ZlBSVjB5VmREbGh0SXhUTW8?oc=5",
+      "summary": "インタビュー：為替円安、過小評価は問題とする日米認識「非常にクリア」＝三村財務官&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-28T08:05:46+00:00"
     },
     {
       "title": "｢子持ちの応援は無理｣｢匂わせ女のせいで解散した｣の声まで…電撃解散｢WEST.｣ファンがキレるのも\"無理ない\"ワケ | ライフ | 東洋経済オンライン",
@@ -985,6 +1045,14 @@
       "title": "Breakingviews - COMMENTARY: コラム：米中首脳会談、またも問題先送り 貿易休戦延長以外に成果なし - ロイター",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRkNMdjVWaGZJT0tWWGxwMENQMDE3UHNjQWI3UVJ6d1BZMVc1NGF3aVNIYW9fLVY3ZlNYMEYtQW9KZndrZUhxTzNNM1FPWFBZOXN1Q0tXWWVHSXlfRDVURVY0ODVNTEJJbmdZa2QzV3NncHpOYzFYbEVURkRZSTl3UmNPSXB3RDJudkRnZGxFQQ?oc=5",
       "summary": "Breakingviews - COMMENTARY: コラム：米中首脳会談、またも問題先送り 貿易休戦延長以外に成果なし&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-28T07:37:44+00:00"
+    },
+    {
+      "title": "Breakingviews - COMMENTARY: コラム：米中首脳会談、またも問題先送り 貿易休戦延長以外に成果なし - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRkNMdjVWaGZJT0tWWGxwMENQMDE3UHNjQWI3UVJ6d1BZMVc1NGF3aVNIYW9fLVY3ZlNYMEYtQW9KZndrZUhxTzNNM1FPWFBZOXN1Q0tXWWVHSXlfRDVURVY0ODVNTEJJbmdZa2QzV3NncHpOYzFYbEVURkRZSTl3UmNPSXB3RDJudkRnZGxFQQ?oc=5",
+      "summary": "Breakingviews - COMMENTARY: コラム：米中首脳会談、またも問題先送り 貿易休戦延長以外に成果なし&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-28T07:37:44+00:00"
@@ -1148,6 +1216,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-28T06:12:00+00:00"
+    },
+    {
+      "title": "MOT.AX - | Stock Price & Latest News | Reuters - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10czNmU3A0TU1tZ0xPdGdNaElhbGp2VTQ5QzZoTDJmazVoTGstNHMxMlZ6Rk1TMm05ei1HMjJoeTJRdTBud3I3R0ViSWZmZDJSbGJFck9yYmhPaEU?oc=5",
+      "summary": "MOT.AX - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-28T06:09:25+00:00"
     },
     {
       "title": "豪メトリクス、上場3ファンドの売買停止 監査受け評価額引き下げ - ロイター",
@@ -1425,6 +1501,14 @@
       "title": "EVKn.DE - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tSEMwcGNwcGN1aDdOY2cyeTNUMlhWT0pGY2RkRHZBYVh0SmNYWlNhcE9aVF9OTmJvRk1nWVlVUUFZZS1JQVJhSWtBaVNnZUpYZnJ6bkJLcm5oN21u?oc=5",
       "summary": "EVKn.DE - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-28T04:48:45+00:00"
+    },
+    {
+      "title": "EVKn.DE - | Stock Price & Latest News | Reuters - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tSEMwcGNwcGN1aDdOY2cyeTNUMlhWT0pGY2RkRHZBYVh0SmNYWlNhcE9aVF9OTmJvRk1nWVlVUUFZZS1JQVJhSWtBaVNnZUpYZnJ6bkJLcm5oN21u?oc=5",
+      "summary": "EVKn.DE - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-28T04:48:45+00:00"
@@ -1785,6 +1869,14 @@
       "title": "LAGA.SG - ロイター",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVmd2cXEwdG5aUHVPQmpGNzREbjlVc0R1VW5teHhOZTNyMmU4T1Y5TEM5ZEhJUDBhYktKSmRyUDcxSExSUVVoOGQ5Zy03YVNLLUdMOVcxclVYVFBLbU0zQzhKWE1QSy1HeEV4QjBBM3VaODdLaXBKNmdqcGpzTnpqQUhEWQ?oc=5",
       "summary": "LAGA.SG&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-28T03:12:37+00:00"
+    },
+    {
+      "title": "LAGA.SG - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVmd2cXEwdG5aUHVPQmpGNzREbjlVc0R1VW5teHhOZTNyMmU4T1Y5TEM5ZEhJUDBhYktKSmRyUDcxSExSUVVoOGQ5Zy03YVNLLUdMOVcxclVYVFBLbU0zQzhKWE1QSy1HeEV4QjBBM3VaODdLaXBKNmdqcGpzTnpqQUhEWQ?oc=5",
+      "summary": "LAGA.SG&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-28T03:12:37+00:00"
