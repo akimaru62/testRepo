@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T03:57:04.029213+00:00",
+  "generated_at": "2026-09-28T04:22:17.470664+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -486,9 +486,101 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "大の里に達成感　Ｖから一夜明け―大相撲",
+      "link": "https://www.jiji.com/jc/article?k=2026092800383&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-28T04:22:03.407897+00:00"
+    },
+    {
+      "title": "ロシア外相演説に答弁権行使　日本政府「事実に反する」",
+      "link": "https://www.jiji.com/jc/article?k=2026092800406&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-28T04:22:03.407888+00:00"
+    },
+    {
+      "title": "調剤薬局元社長の審理差し戻し　札幌の病院巡る入札妨害―最高裁",
+      "link": "https://www.jiji.com/jc/article?k=2026092800067&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-28T04:22:03.407875+00:00"
+    },
+    {
+      "title": "横浜市の山中前市長が出馬表明　パワハラで辞職、出直し選",
+      "link": "https://www.jiji.com/jc/article?k=2026092800393&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-28T04:22:03.407834+00:00"
+    },
+    {
+      "title": "US and China agree $60bn low tariff regime spanning foie gras to camels",
+      "link": "https://www.ft.com/content/b1ba7dd2-3e3a-4944-b637-ff7db3b636e1?syn-25a6b1a6=1",
+      "summary": "Agreement will lower levies on non-sensitive goods as superpowers seek to ease tensions",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-28T04:04:40+00:00"
+    },
+    {
+      "title": "EU countries consider Nato-style joint responses to Russian hybrid attacks",
+      "link": "https://www.ft.com/content/5513b441-a575-4c73-8532-cb09216c4406?syn-25a6b1a6=1",
+      "summary": "Campaign this year has included drone attacks, bombs and arson, leading to calls for a stronger response",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-28T04:00:19+00:00"
+    },
+    {
+      "title": "For once, the Fed has put Main Street before Wall Street",
+      "link": "https://www.ft.com/content/4339e9f0-ff48-4873-be6a-36cbac2631c4",
+      "summary": "Rather than criticising the central bank’s rate increase, Republicans should be praising Warsh for putting American families first",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-28T04:00:18+00:00"
+    },
+    {
+      "title": "AI hyperscalers are transforming debt",
+      "link": "https://www.ft.com/content/00f94018-e658-4545-b16e-1bc00e19b754?syn-25a6b1a6=1",
+      "summary": "The sector’s huge capital needs are forcing companies and countries to rethink how they borrow money",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-28T04:00:10+00:00"
+    },
+    {
+      "title": "The post-Enron auditor reforms are being rolled back",
+      "link": "https://www.ft.com/content/2ef0c2fa-9626-4785-94cd-65fbf5be5741?syn-25a6b1a6=1",
+      "summary": "Regulators plan to further limit audit requirement imposed under Sarbanes-Oxley Act",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-28T04:00:10+00:00"
+    },
+    {
+      "title": "Rich turn to borrowing against private equity holdings as payouts slow",
+      "link": "https://www.ft.com/content/4838f5d1-44e4-414e-a092-c738db47d7b9?syn-25a6b1a6=1",
+      "summary": "Wealthy individuals follow pension funds and institutional investors into NAV lending",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-28T04:00:10+00:00"
+    },
+    {
+      "title": "上司からの｢これ､急ぎでお願い｣をソツなくこなして満足している人が､なぜか意外と出世できない残酷なカラクリ | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957741?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢緊急対応｣に追われ､本来の仕事を後回しにしていませんか？　頼まれたタスクを最優先することが評価に直結するとは限りません。急ぎの依頼ばかりこなすことで､気づかずに｢重要な役割｣から遠ざかってしまうリ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-28T04:00:00+00:00"
+    },
     {
       "title": "ボジョレ例年より1カ月早く日本に",
       "link": "https://news.yahoo.co.jp/pickup/6596830?source=rss",
@@ -496,6 +588,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-09-28T03:53:20+00:00"
+    },
+    {
+      "title": "Thinking Fast and Slow in AI: The Role of Metacognition",
+      "link": "https://arxiv.org/abs/2110.01834",
+      "summary": "Article URL: https://arxiv.org/abs/2110.01834\nComments URL: https://news.ycombinator.com/item?id=49873241\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-28T03:23:53+00:00"
     },
     {
       "title": "台風２６号、南大東島北方を東北東へ　１０月１日に伊豆諸島近海か―気象庁",
