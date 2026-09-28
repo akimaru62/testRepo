@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T20:08:23.480665+00:00",
+  "generated_at": "2026-09-28T20:26:11.094175+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -510,6 +510,22 @@
   ],
   "items": [
     {
+      "title": "U.S. Stocks Slide as Treasury Selloff Deepens",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-slide-as-treasury-selloff-deepens-5bfbd7de?mod=rss_markets_main",
+      "summary": "U.S. stocks started the week on a down note following the latest setback for peace talks in the Middle East and a deepening of last week’s selloff in U.S. Treasurys.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-28T20:22:00+00:00"
+    },
+    {
+      "title": "Treasury Yields Climb to Fresh Highs While Oil Rises",
+      "link": "https://www.wsj.com/finance/investing/treasury-yields-climb-to-fresh-highs-while-oil-rises-8749516c?mod=rss_markets_main",
+      "summary": "Stocks face pressure, though Nvidia rises on buyback news.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-28T20:20:00+00:00"
+    },
+    {
       "title": "Before you invest in the Oura IPO, understand what you’re buying",
       "link": "https://www.marketwatch.com/story/before-you-invest-in-the-oura-ipo-understand-what-youre-buying-1d88d868?mod=mw_rss_topstories",
       "summary": "The health-data company could see a pop in its stock price, but there are plenty of warning signs",
@@ -550,6 +566,14 @@
       "published": "2026-09-28T20:00:00+00:00"
     },
     {
+      "title": "California expanded the right to delete today",
+      "link": "https://www.getprivisy.com/blog/sb-923-ccpa-right-to-delete-signed",
+      "summary": "Article URL: https://www.getprivisy.com/blog/sb-923-ccpa-right-to-delete-signed\nComments URL: https://news.ycombinator.com/item?id=49883345\nPoints: 18\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-28T19:44:49+00:00"
+    },
+    {
       "title": "PepsiCo plans to raise prices on sodas, chips and dip — and that has Wall Street worried",
       "link": "https://www.marketwatch.com/story/pepsico-plans-to-raise-prices-on-sodas-chips-and-dip-and-that-has-wall-street-worried-0ec355bf?mod=mw_rss_topstories",
       "summary": "TD Cowen analysts flagged the company’s “shifting narrative on affordability” as a risk.",
@@ -574,6 +598,14 @@
       "published": "2026-09-28T19:30:00+00:00"
     },
     {
+      "title": "First Steps of the PLC Organization – Independent Public Ledger of Credentials",
+      "link": "https://blog.plcred.org/3mwlphq42d227",
+      "summary": "Article URL: https://blog.plcred.org/3mwlphq42d227\nComments URL: https://news.ycombinator.com/item?id=49883159\nPoints: 13\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-28T19:27:45+00:00"
+    },
+    {
       "title": "東広島放火、おいの被告追送検　勤務時２９００万円詐取など疑い―県警",
       "link": "https://www.jiji.com/jc/article?k=2026092800934&g=soc&m=rss",
       "summary": "",
@@ -596,6 +628,22 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-28T19:11:43+00:00"
+    },
+    {
+      "title": "Neal Stephenson responds with wit and humor (2004)",
+      "link": "https://slashdot.org/story/04/10/20/1518217/neal-stephenson-responds-with-wit-and-humor",
+      "summary": "Article URL: https://slashdot.org/story/04/10/20/1518217/neal-stephenson-responds-with-wit-and-humor\nComments URL: https://news.ycombinator.com/item?id=49882894\nPoints: 18\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-28T19:06:16+00:00"
+    },
+    {
+      "title": "トランプ氏とＡＩ業界幹部の会合、ザッカーバーグ氏やアモデイ氏ら出席へ - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NS3pOYUxrcUFOMHU0NHZVT0NZSTRlYWJtSmYyMzFPLU5xU3lfTEE4UUlrMjUtcmNQLVVvQnlZLVlCbGVrcks0RDFka1JUZFdQcW9jajFoZE5EMmlvWk9FMjNmTjkya1QxRmlsUEVQR2s1WkNERWZNWU9mb09odw?oc=5",
+      "summary": "トランプ氏とＡＩ業界幹部の会合、ザッカーバーグ氏やアモデイ氏ら出席へ&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-28T19:05:43+00:00"
     },
     {
       "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
