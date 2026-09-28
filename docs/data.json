@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T17:49:00.101382+00:00",
+  "generated_at": "2026-09-28T18:10:55.711977+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -506,6 +506,30 @@
   ],
   "items": [
     {
+      "title": "Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market",
+      "link": "https://www.cnbc.com/2026/09/28/nearly-half-of-the-stocks-in-the-sp-500-are-working-against-it.html",
+      "summary": "Almost half of the stocks in the S&amp;P 500 have a negative beta, evidence of a chasm between the entire index and its individual components.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-09-28T17:53:31+00:00"
+    },
+    {
+      "title": "I made a visual workspace for AI Automations",
+      "link": "https://www.biom.dev/",
+      "summary": "Article URL: https://www.biom.dev/\nComments URL: https://news.ycombinator.com/item?id=49881777\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-28T17:53:14+00:00"
+    },
+    {
+      "title": "Launch HN: Vespper (YC F24) – SOTA Docx MCP",
+      "link": "https://www.vespper.com/blog/launching-vespper-docx-mcp",
+      "summary": "Hey HN! We're Dudu and Topaz from Vespper (https://vespper.com). Vespper is an MCP that lets AI agents efficiently edit Word documents, powered by our fine-tuned model. It's currently 3× faster, 2× cheaper and more accurate than the closest alternative. Check out an overview of how the product works here: https://youtu.be/odKxsgPjzzwWe came to work on this problem after spending a year building an AI document editor for pharma companies. Before that, Topaz(myself) was a senior SWE at Snyk, working on distributed systems, and Dudu was a deep learning engineer at Viz.ai, building computer vision models for stroke detection.\nOur editor helped pharma companies generate regulatory documents (e.g. CSRs) to speed up their submissions. Initially, the output was Markdown, displayed in a WYSIWYG editor. However, users preferred working with their own Word templates. That's when the problems began.AI agents aren't great at editing Word documents. A Word document is a zip file of verbose XML files following the OOXML spec. Even \"small\" changes require backflips, for example: adding a numbered list requires creating an entry in numbering.xml with a fresh ID and linking it back in document.xml, bolding a sentence requires splitting it into 3+ run elements. The list goes on.This makes editing the zip directly (unzip + grep + sed) a bad idea for agents because they burn a lot of time + tokens on these mechanics.\nIn practice, today's tooling falls into roughly three categories. You can let the agent write code against low-level libraries like python-docx or the Open XML SDK, you can give it an MCP with opinionated editing tools (SuperDoc, Office CLI, Adeu, etc), or you can round-trip the file through Markdown/HTML with something like pandoc/mammoth.js.\nNone of them really work. The first two categories still burn the agent's context on Word mechanics instead of the task at hand (MCPs also introduce a new DSL to learn), and the third is very lossy (pandoc/mammoth.js/etc don't preserve enough fidelity).From firsthand experience, these problems hurt performance in downstream tasks.When we tried having our agent fill large documents, things broke quickly. The context window was already packed with customer data (files, user context, global rules, etc.), and the agent burned tokens + time on exploring the document and debugging failed edits. Filling a single CSR (clinical study report) took ~50 minutes, and the result was bad (missed fields/sections, broken styling, etc.). Harvey.ai's team reached similar conclusions: https://www.harvey.ai/blog/building-an-agent-for-complex-doc...That's when we shifted our focus. We designed an MCP that lets agents edit Word docs as if they were editing HTML. The agent receives HTML, makes find-and-replace edits, and we reconcile those edits back into the original .docx file.\nWe picked HTML over Markdown because it's structurally much closer to OOXML and because CSS associates styles with elements roughly the way OOXML does. We had to write our own DOCX→HTML converter, since pandoc and mammoth.js didn't preserve enough fidelity.\nTo be clear, our DOCX → HTML conversion is lossy too. That's fine though, because we never convert the HTML back to DOCX. The HTML is just a projection for the agent, so it only needs enough fidelity for the agent to understand the structure and styling of what it's editing. The original file stays the source of truth, and we mutate it in place.This also means the agent doesn't need to learn a new DSL. Editing a Word document feels just like editing an HTML file on the file system, something agents are already great at. A lot of DOCX MCPs hand agents dozens or even hundreds of tools to figure out on the fly. Our MCP exposes just three tools (read, search, edit). The Word document is completely abstracted.After an agent sends us an edit request (an \"old_html\" and \"new_html\" pair), we reconcile it to the original .docx file. The reconciliation is powered by our fine-tuned model, a 3-8B base with a LoRA adapter. It takes the HTML diff as input along with the original localized OOXML block and emits the new OOXML. The \"localization\" is done deterministically: we take the anchors the agent specifies and we try to find their XML twins, so the reconciler model has a single responsibility.\nOn this narrow task a small model reaches the level of a frontier, well prompt-tuned model, while being small and fast enough to sit in the hot path.This project turned into months of work, but we're happy to release our v1. Our internal benchmark shows it's more accurate than the DOCX skill and raw python-docx while being ~2x cheaper and ~3x faster, mostly because it takes 3 tool calls (p50) per task whereas the DOCX skill takes 10 and Office CLI takes 13.Things aren't perfect yet. For example, we don't support manipulating images or comments at the moment. That said, we're already seeing people use our MCP in various ways:- Legal tech companies powering their live-editing flow in Office.js.- AI startup optimizing people’s resumes and applying on their behalf.- Govtech who need to draft policy memos.- A life sciences startup using long-running agents to complete regulatory forms.A note on privacy: our MCP runs in the cloud, so users send us their .docx files. We don't train on user data, and teams can opt for ZDR or self-hosting.There's a free tier with 500 edits a month, and we’d love you all to try. We want to bump that later, but we're a small team and running a fine-tuned model isn't cheap :(We'd love to hear your ideas and comments about docx editing in general! We'll be in the comments for the next few hours to respond\n\nComments URL: https://news.ycombinator.com/item?id=49881505\nPoints: 6\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-28T17:34:36+00:00"
+    },
+    {
       "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
       "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
       "summary": "Article URL: https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/\nComments URL: https://news.ycombinator.com/item?id=49881484\nPoints: 5\n# Comments: 0",
@@ -544,6 +568,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-28T17:08:06+00:00"
+    },
+    {
+      "title": "キーウ中心部にロシア攻撃、科学研究機関ドローン直撃 1人死亡 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaGVoU183cDZOZjcyelZleXMzTEk5QlE5UmdBUnkybWVzOExSZFZPUy11R1JBeTRWZUwtSm8ta0JNN09RalRPTWNkYTl3OUFYUV96a0JGYjlEZHFPZzRhcHJwNU9wT2Fwc3pDQmc0aVY5bWg3Z2tSMk9YbHlOU29NTFpScDY?oc=5",
+      "summary": "キーウ中心部にロシア攻撃、科学研究機関ドローン直撃 1人死亡&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-28T17:02:34+00:00"
     },
     {
       "title": "Driver Ticketed for No Insurance Just Because Flock (YC 2017) Said She Didn't",
@@ -768,6 +800,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-28T15:12:30+00:00"
+    },
+    {
+      "title": "Russian drones hit Kyiv science academy and hospital",
+      "link": "https://www.ft.com/content/e423eb7f-ec97-43ed-9b75-cad8e81ac86b?syn-25a6b1a6=1",
+      "summary": "One person killed and six injured in attack on capital, as Volodymyr Zelenskyy urges countries to do more to protect Ukraine",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-28T15:03:53+00:00"
     },
     {
       "title": "スペースＸの「スターシップ」、初の軌道到達 衛星26基展開 - jp.reuters.com",
