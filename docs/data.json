@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T14:28:15.267140+00:00",
+  "generated_at": "2026-09-29T14:44:56.508177+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -546,6 +546,14 @@
       "published": "2026-09-29T16:00:00+00:00"
     },
     {
+      "title": "HANetf Launches First Euro-Hedged Bitcoin Fund",
+      "link": "https://www.wsj.com/finance/currencies/hanetf-launches-first-euro-hedged-bitcoin-fund-0f057d2e?mod=rss_markets_main",
+      "summary": "While Bitcoin is a digital currency, it is typically priced in U.S. dollars, raising risk for investors seeking to diversify away from the greenback.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-29T14:30:00+00:00"
+    },
+    {
       "title": "ＩＣＣは、１１月３０日から開く締約国会議の開催地をニューヨークからオランダに変更すると発表した",
       "link": "https://www.jiji.com/jc/article?k=2026092901180&g=flash&m=rss",
       "summary": "",
@@ -570,12 +578,36 @@
       "published": "2026-09-29T14:28:08.768271+00:00"
     },
     {
+      "title": "Claude partial outage",
+      "link": "https://status.claude.com/incidents/4xvtc2gnq73l",
+      "summary": "Article URL: https://status.claude.com/incidents/4xvtc2gnq73l\nComments URL: https://news.ycombinator.com/item?id=49893876\nPoints: 30\n# Comments: 9",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-29T14:25:41+00:00"
+    },
+    {
+      "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
+      "link": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
+      "summary": "Article URL: https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions\nComments URL: https://news.ycombinator.com/item?id=49893709\nPoints: 17\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-29T14:15:24+00:00"
+    },
+    {
       "title": "The No. 1 mistake beginners make with travel cards, according to The Points Guy",
       "link": "https://www.marketwatch.com/story/the-no-1-mistake-beginners-make-with-travel-cards-according-to-the-points-guy-3502e859?mod=mw_rss_topstories",
       "summary": "The Points Guy’s Brian Kelly gave me a crash course in annual fees and redemptions to offset rising travel costs",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-29T14:13:00+00:00"
+    },
+    {
+      "title": "Google ending ChromeOS support two years early",
+      "link": "https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674",
+      "summary": "Article URL: https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674\nComments URL: https://news.ycombinator.com/item?id=49893653\nPoints: 13\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-29T14:12:15+00:00"
     },
     {
       "title": "SoundThinking to Be Taken Private by Transom Capital Group",
