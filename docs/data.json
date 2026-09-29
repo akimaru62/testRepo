@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T09:20:17.433336+00:00",
+  "generated_at": "2026-09-29T09:40:39.560760+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -506,6 +506,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f686a246ba0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f646abfee40>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -548,6 +552,46 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-29T13:00:00+00:00"
+    },
+    {
+      "title": "国勢調査、富山市が人口２０００人以上を水増しか　総務省が統計法違反で市職員告発",
+      "link": "https://www.jiji.com/jc/article?k=2026092900671&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-29T09:40:34.146211+00:00"
+    },
+    {
+      "title": "「核のごみ」調査、茨城・常陸大宮市長が判断へ　「懸念はほぼ解消」",
+      "link": "https://www.asahi.com/articles/ASV9Y2VLJV9YULFA00XM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-29T09:40:33.783326+00:00"
+    },
+    {
+      "title": "A Simple Way to Take Advantage of Higher Yields",
+      "link": "https://www.wsj.com/finance/investing/a-simple-way-to-take-advantage-of-higher-yields-91ac3a05?mod=rss_markets_main",
+      "summary": "2-year Treasury notes are attractively priced at the moment.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-29T09:30:00+00:00"
+    },
+    {
+      "title": "Four Big IRA Mistakes That You Can’t Undo",
+      "link": "https://www.wsj.com/personal-finance/taxes/four-big-ira-mistakes-c1fb355c?mod=rss_markets_main",
+      "summary": "Rollover situations in particular are rife with land mines that can trigger taxes and penalties",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-29T09:30:00+00:00"
+    },
+    {
+      "title": "Here’s where TSMC is reportedly eyeing a second U.S. site for a chip-making hub",
+      "link": "https://www.marketwatch.com/story/heres-where-tsmc-is-reportedly-eyeing-a-second-u-s-site-for-a-chip-making-hub-828e4488?mod=mw_rss_topstories",
+      "summary": "Taiwan Semiconductor Manufacturing Co., the Taiwanese contract chipmaker that makes semiconductors for Nvidia among others, is reportedly eyeing a second site in the U.S.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-29T09:26:00+00:00"
     },
     {
       "title": "モスクワ北方の花火工場で火災、１４人死亡　ロシア",
@@ -678,6 +722,14 @@
       "published": "2026-09-29T08:26:28+00:00"
     },
     {
+      "title": "「エナジードリンク」表示禁止命令破棄、レッドブル巡り印裁判所 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04OG9ZeWMwd0JTWmV1V1ZDbEtMeEFNbDJJeG95bWNlMVFod0YtTEFDelJwczBFb1VfblRrR3pvNEwtbVhhYkVraW9PODkyc2dIYUNxTHFOMEt5MlFrUl9yLUpZZURRYnhGbkF3MEw3X1R4bmkyNFpTMEFQQWU?oc=5",
+      "summary": "「エナジードリンク」表示禁止命令破棄、レッドブル巡り印裁判所&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-29T08:24:09+00:00"
+    },
+    {
       "title": "Stock Market Today: Oil Price Edges Up, Bond Selloff Pauses",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-29-2026?mod=rss_markets_main",
       "summary": "Stocks set for muted open",
@@ -782,6 +834,14 @@
       "published": "2026-09-29T07:33:43+00:00"
     },
     {
+      "title": "伊藤園、株主優待制度を廃止 配当などで利益還元 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kNXNqZXh2bnpRVUhUUEtPMVIyVHFJdEI0VE85c0oyWkpZOS15MW5Cc3VMSWFuRHlwLTBNRTVJRC1VRWJEejVOSGo5Q1hVZzhob0NmMUsteGkwWVFDY1VZRkhra1YtMm96ZVAwR2xkZXNrRWtrN2xqZzNxbU0?oc=5",
+      "summary": "伊藤園、株主優待制度を廃止 配当などで利益還元&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-29T07:33:43+00:00"
+    },
+    {
       "title": "Oil Rises Despite Saudi Pipeline Repair as U.S.-Iran Talks Stall",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-deadlock-in-u-s-iran-ceasefire-talks-288f189e?mod=rss_markets_main",
       "summary": "Oil prices rose as a lack of progress in U.S.-Iran talks outweighed signs of a recovery in Gulf exports.",
@@ -801,6 +861,14 @@
       "title": "アップルとアマゾンの競争制限巡る訴訟、英審判所が一部続行認める - ロイター",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aRlJLcy1wZ0tyXzJmbU0yYUxnMXN5cHl1Y2hQVFlhYnBsTXVWRGJURERNbW9TZUVYbWdZS3o5cTBBcjNGOGU3ai1ZbHlULTRaN2JhQ1RlRDhRV2J5QVFzOXQtMGNtSGw1NzBud082cFRzaTB4ZUhSYkhvUmc?oc=5",
       "summary": "アップルとアマゾンの競争制限巡る訴訟、英審判所が一部続行認める&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-29T07:22:09+00:00"
+    },
+    {
+      "title": "アップルとアマゾンの競争制限巡る訴訟、英審判所が一部続行認める - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aRlJLcy1wZ0tyXzJmbU0yYUxnMXN5cHl1Y2hQVFlhYnBsTXVWRGJURERNbW9TZUVYbWdZS3o5cTBBcjNGOGU3ai1ZbHlULTRaN2JhQ1RlRDhRV2J5QVFzOXQtMGNtSGw1NzBud082cFRzaTB4ZUhSYkhvUmc?oc=5",
+      "summary": "アップルとアマゾンの競争制限巡る訴訟、英審判所が一部続行認める&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-29T07:22:09+00:00"
