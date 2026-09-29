@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T18:53:53.244807+00:00",
+  "generated_at": "2026-09-29T19:07:01.811144+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -514,6 +514,14 @@
   ],
   "items": [
     {
+      "title": "Oil Prices Fall as Gulf Crude Exports Recover",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-u-s-iran-talks-remain-uncertain-1a33ff00?mod=rss_markets_main",
+      "summary": "Oil output from Saudi Arabia’s East-West pipeline is coming through faster than expected.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-29T18:59:00+00:00"
+    },
+    {
       "title": "Lazy Customers Are Great for Banks. Could AI Change that?",
       "link": "https://www.wsj.com/finance/banking/lazy-customers-are-great-for-banks-could-ai-change-that-220b4dc9?mod=rss_markets_main",
       "summary": "AI agents could move cash to accounts with higher interest rates, potentially threatening banks’ cheap deposits.",
@@ -522,12 +530,28 @@
       "published": "2026-09-29T18:44:00+00:00"
     },
     {
+      "title": "Electrification efficiency: The world will need less energy after the transition",
+      "link": "https://hannahritchie.substack.com/p/electrification-energy-efficiency",
+      "summary": "Article URL: https://hannahritchie.substack.com/p/electrification-energy-efficiency\nComments URL: https://news.ycombinator.com/item?id=49898301\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-29T18:39:23+00:00"
+    },
+    {
       "title": "OpenAI launches a rival to Meta’s Muse, as the battle for AI agents kicks into high gear",
       "link": "https://www.marketwatch.com/story/openai-launches-a-rival-to-metas-muse-as-the-battle-for-ai-agents-kicks-into-high-gear-0f0de9b3?mod=mw_rss_topstories",
       "summary": "Personal AI assistants are shaping up to be the new frontier for tech companies.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-29T18:34:00+00:00"
+    },
+    {
+      "title": "Mediators push to break US-Iran deadlock",
+      "link": "https://www.ft.com/content/2e2c868b-9510-4f0c-bbeb-ca17e7a18cc1?syn-25a6b1a6=1",
+      "summary": "Negotiators have shuttled between the American and Iranian officials in an effort to renew talks to end the seven-month war",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-29T18:30:00+00:00"
     },
     {
       "title": "Good news for OpenAI is great news for Oracle’s stock — here’s why",
@@ -3685,6 +3709,14 @@
       "title": "646A.T - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tN3JHZ1FEUHVrdXc5SGhvX05TTDBQU2tBbGxQdk9xWENBQmxrQmVqTmd2M0k1SzE1RWs0Z3BveHg5QmNncm1oUmNHSzFweGxPWG16OHF0UU95bms?oc=5",
       "summary": "646A.T - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-28T23:30:15+00:00"
+    },
+    {
+      "title": "646A.T - | Stock Price & Latest News | Reuters - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tN3JHZ1FEUHVrdXc5SGhvX05TTDBQU2tBbGxQdk9xWENBQmxrQmVqTmd2M0k1SzE1RWs0Z3BveHg5QmNncm1oUmNHSzFweGxPWG16OHF0UU95bms?oc=5",
+      "summary": "646A.T - | Stock Price & Latest News | Reuters&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-28T23:30:15+00:00"
