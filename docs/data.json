@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T19:36:38.562486+00:00",
+  "generated_at": "2026-09-29T19:48:34.062332+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -514,6 +514,30 @@
   ],
   "items": [
     {
+      "title": "Treasury Yields Push To Fresh Highs",
+      "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-edge-higher-hover-near-recent-highs-375feb34?mod=rss_markets_main",
+      "summary": "Yields have been rising on stronger-than-expected economic indicators released earlier this month, but on Tuesday the upward pressure remained despite lukewarm data.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-29T19:41:00+00:00"
+    },
+    {
+      "title": "Natural Gas Inches Back Toward $3/mmBtu",
+      "link": "https://www.wsj.com/finance/commodities-futures/natural-gas-slides-on-milder-temperature-outlook-b27ac1c4?mod=rss_markets_main",
+      "summary": "Natural gas futures are slowly approaching the $3 per million British thermal units threshold – falling by 3.1% to $3.011 per mmBtu in the first day of the November contract being the front-month contract.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-29T19:40:00+00:00"
+    },
+    {
+      "title": "The real prize in AMD’s $8 billion World Labs acquisition isn’t what you’d think",
+      "link": "https://www.marketwatch.com/story/the-real-prize-in-amds-8-billion-world-labs-acquisition-isnt-what-youd-think-6f609d0f?mod=mw_rss_topstories",
+      "summary": "AMD is getting cutting-edge spatial-intelligence models, but more importantly, a leader who can help recruit top talent and bring real-world AI applications into focus.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-29T19:34:00+00:00"
+    },
+    {
       "title": "消費税・定数削減で攻防へ　臨時国会、来月５日召集",
       "link": "https://www.jiji.com/jc/article?k=2026092900123&g=pol&m=rss",
       "summary": "",
@@ -538,12 +562,28 @@
       "published": "2026-09-29T19:24:44.770352+00:00"
     },
     {
+      "title": "AI needs $6T in annual revenue to justify data centre boom",
+      "link": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
+      "summary": "Article URL: https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/\nComments URL: https://news.ycombinator.com/item?id=49898952\nPoints: 26\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-29T19:21:25+00:00"
+    },
+    {
       "title": "Comex Gold Settles 0.27% Higher at $4147.70",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-prices-remain-under-pressure-69d48e15?mod=rss_markets_main",
       "summary": "The new front-month gold contract edged higher  while silver settled lower.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-29T19:17:00+00:00"
+    },
+    {
+      "title": "Nicholas Polson has authored 258 academic papers in 2026 (so far)",
+      "link": "https://statmodeling.stat.columbia.edu/2026/08/27/258/",
+      "summary": "Article URL: https://statmodeling.stat.columbia.edu/2026/08/27/258/\nComments URL: https://news.ycombinator.com/item?id=49898877\nPoints: 21\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-29T19:15:58+00:00"
     },
     {
       "title": "Prediction market traders think the U.S. added more jobs in September than economists estimate",
@@ -632,6 +672,22 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-29T17:44:22+00:00"
+    },
+    {
+      "title": "アンソロピック、自律型ＡＩ「暴走」の法的リスク指摘＝ＩＰＯ目録見書 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qbVVJWS1qRzhqcTdKalQzY3hrSURPdFlZTEt5WGs0ZW1WM3NvWHpkTVVKUU9qenYtWkRLR0cydFlvcnR1RTNHaUU1SWNfeDNMQTFGWmk2S2xCWFhOa0MwU3FvOFlBYl9HZndhZTZYcktlczM4TjJySnVSZXo?oc=5",
+      "summary": "アンソロピック、自律型ＡＩ「暴走」の法的リスク指摘＝ＩＰＯ目録見書&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-29T17:44:22+00:00"
+    },
+    {
+      "title": "GLM-5.3 and the spread of advanced cyber capabilities",
+      "link": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+      "summary": "Article URL: https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities\nComments URL: https://news.ycombinator.com/item?id=49897075\nPoints: 13\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-29T17:31:26+00:00"
     },
     {
       "title": "ChatGPT Pro 500",
