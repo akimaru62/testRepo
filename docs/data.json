@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T16:09:26.713754+00:00",
+  "generated_at": "2026-09-29T16:30:49.965177+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -538,7 +538,31 @@
       "published": "2026-09-29T17:00:00+00:00"
     },
     {
+      "title": "You might be shocked by how many stocks are in a bear market right now",
+      "link": "https://www.marketwatch.com/story/you-might-be-shocked-by-how-many-stocks-are-in-a-bear-market-right-now-017c9cd8?mod=mw_rss_topstories",
+      "summary": "The S&amp;P 500 was trading within 2 percentage points of its record closing high on Tuesday, but dig a little bit deeper, and things are looking far less rosy.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-29T16:24:00+00:00"
+    },
+    {
+      "title": "U.S. Stocks Decline as Relentless Rise in Treasury Yields Continues",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-drift-as-treasury-selloff-continues-d9bf63c1?mod=rss_markets_main",
+      "summary": "U.S. stocks fell, led by the Dow industrials, as bond yields picked up momentum again.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-29T16:21:00+00:00"
+    },
+    {
       "title": "Treasury Will Auto-Enroll 60 Million in Trump Accounts",
+      "link": "https://www.wsj.com/politics/policy/treasury-will-auto-enroll-60-million-in-trump-accounts-a5f82421?mod=rss_markets_main",
+      "summary": "The auto-enrollment change replaces the previous structure, which required parents or guardians to sign up.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-29T16:06:00+00:00"
+    },
+    {
+      "title": "Treasury Will Auto-Enroll 60 Million Children in Trump Accounts",
       "link": "https://www.wsj.com/politics/policy/treasury-will-auto-enroll-60-million-in-trump-accounts-a5f82421?mod=rss_markets_main",
       "summary": "The auto-enrollment change replaces the previous structure, which required parents or guardians to sign up.",
       "source": "WSJ マーケット",
@@ -672,6 +696,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-29T14:55:00+00:00"
+    },
+    {
+      "title": "Show HN: NSL – WSL for Linux",
+      "link": "https://frostyard.github.io/nsl/",
+      "summary": "One of the things that Windows really got right is WSL2. I drive an atomic Linux distro for daily use, but wanted a way to develop with multiple different distros with that same WSL UX.  NSL is my answer. It is a faithful reproduction of the developer experience, powered by a single VM that hosts one or more systemd-nspawn containers with your development instances. Host file edits and port sharing come along for the ride, just like WSL. Take a look and tell me what you think... It's yet another step in my long journey to keep my host installation free from all the changing and breaking dev dependencies that force a reinstall every few months.\n\nComments URL: https://news.ycombinator.com/item?id=49894351\nPoints: 6\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-29T14:51:36+00:00"
     },
     {
       "title": "macOS Golden Gate Is a Buggy Mess",
@@ -922,6 +954,14 @@
       "published": "2026-09-29T12:43:29+00:00"
     },
     {
+      "title": "How Delhi cut electricity loss from 50 to 5 percent",
+      "link": "https://spectrum.ieee.org/delhi-electricity-loss",
+      "summary": "Article URL: https://spectrum.ieee.org/delhi-electricity-loss\nComments URL: https://news.ycombinator.com/item?id=49892245\nPoints: 260\n# Comments: 153",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-29T12:43:29+00:00"
+    },
+    {
       "title": "TDL新ショー プレビュー公演取材",
       "link": "https://news.yahoo.co.jp/pickup/6596989?source=rss",
       "summary": "",
@@ -1157,6 +1197,14 @@
       "title": "You Are No Longer Invited to Dinner",
       "link": "https://www.derekthompson.org/p/the-death-of-the-american-host",
       "summary": "Article URL: https://www.derekthompson.org/p/the-death-of-the-american-host\nComments URL: https://news.ycombinator.com/item?id=49891295\nPoints: 22\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-29T11:14:45+00:00"
+    },
+    {
+      "title": "You are no longer invited to dinner",
+      "link": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+      "summary": "Article URL: https://www.derekthompson.org/p/the-death-of-the-american-host\nComments URL: https://news.ycombinator.com/item?id=49891295\nPoints: 484\n# Comments: 416",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-29T11:14:45+00:00"
@@ -1565,6 +1613,14 @@
       "title": "AI companies leak data to advertisers [pdf]",
       "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
       "summary": "Article URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf\nComments URL: https://news.ycombinator.com/item?id=49890226\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-29T09:03:41+00:00"
+    },
+    {
+      "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+      "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "summary": "Article URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf\nComments URL: https://news.ycombinator.com/item?id=49890226\nPoints: 356\n# Comments: 115",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-29T09:03:41+00:00"
