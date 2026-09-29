@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T11:49:59.339503+00:00",
+  "generated_at": "2026-09-29T12:12:43.673753+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -554,12 +554,76 @@
       "published": "2026-09-29T13:00:00+00:00"
     },
     {
+      "title": "独政府、中国海運大手の買収阻止検討　中堅港湾物流、重大な安保懸念―報道",
+      "link": "https://www.jiji.com/jc/article?k=2026092901061&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-29T12:12:38.520428+00:00"
+    },
+    {
+      "title": "空港拡張支援で円借款　日モンゴル首脳が会談",
+      "link": "https://www.jiji.com/jc/article?k=2026092900864&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-29T12:12:38.520420+00:00"
+    },
+    {
+      "title": "新華社通信によると、中国副首相は「中日は重要な経済・貿易パートナーだ。一貫して日本企業の中国進出を歓迎している」と述べた",
+      "link": "https://www.jiji.com/jc/article?k=2026092901084&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-29T12:12:38.520408+00:00"
+    },
+    {
+      "title": "中国、高市氏答弁「是正」求める　経済協力に意欲も―副首相らと会談・岩屋前外相",
+      "link": "https://www.jiji.com/jc/article?k=2026092900133&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-29T12:12:38.520379+00:00"
+    },
+    {
+      "title": "U.S., European Government-Bond Yields Fall, Remain Near Recent Highs",
+      "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-edge-higher-hover-near-recent-highs-375feb34?mod=rss_markets_main",
+      "summary": "Treasury and European government bond yields fell in midday European trade as oil prices turned lower.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-29T12:10:00+00:00"
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Fair Isaac, SpaceX, AMD & more",
+      "link": "https://www.cnbc.com/2026/09/29/stocks-making-the-biggest-moves-premarket-fair-isaac-spacex-amd-more.html",
+      "summary": "These are the stocks posting the largest moves premarket.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-09-29T12:03:19+00:00"
+    },
+    {
+      "title": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
+      "link": "https://www.cnbc.com/2026/09/29/polymarket-lisa-mantil-institutional-growth.html",
+      "summary": "Lisa Mantil, after a nearly three-decade run at Goldman, will join the prediction market's team to attract institutional traders.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-09-29T12:00:33+00:00"
+    },
+    {
       "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
       "link": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
       "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive\nComments URL: https://news.ycombinator.com/item?id=49891480\nPoints: 10\n# Comments: 0",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-29T11:35:18+00:00"
+    },
+    {
+      "title": "西武渋谷店、58年の歴史に幕　「小売りの王様」百貨店はなぜ衰退したのか",
+      "link": "https://www.itmedia.co.jp/business/articles/2609/29/news098.html",
+      "summary": "百貨店大手そごう・西武の西武渋谷店は30日に最終営業日を迎え、58年の歴史に幕を下ろす。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-09-29T11:29:00+00:00"
     },
     {
       "title": "中国副首相は岩屋前外相に「日本の一部政治家が台湾問題で中国側のボトムラインに挑もうとしている」と述べた",
@@ -1082,6 +1146,14 @@
       "published": "2026-09-29T08:44:09+00:00"
     },
     {
+      "title": "Evan Doorbell's Phone Tapes – Brought to You by Telephone World",
+      "link": "https://evan-doorbell.com/",
+      "summary": "Article URL: https://evan-doorbell.com/\nComments URL: https://news.ycombinator.com/item?id=49890054\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-29T08:40:53+00:00"
+    },
+    {
       "title": "Using any C++ library in Godot",
       "link": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
       "summary": "Article URL: https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html\nComments URL: https://news.ycombinator.com/item?id=49890051\nPoints: 15\n# Comments: 3",
@@ -1133,6 +1205,14 @@
       "title": "Stock Market Today: Treasury Selloff Pauses, But Yields Remain at Painful Highs",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-29-2026?mod=rss_markets_main",
       "summary": "Stocks set for muted open",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-29T08:19:57+00:00"
+    },
+    {
+      "title": "Stock Market Today: Treasury Selloff Pauses, but Yields Remain at Painful Highs",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-29-2026?mod=rss_markets_main",
+      "summary": "Stocks edge higher",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-29T08:19:57+00:00"
