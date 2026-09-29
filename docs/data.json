@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T04:09:36.207290+00:00",
+  "generated_at": "2026-09-29T04:31:00.638549+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -510,12 +510,60 @@
   ],
   "items": [
     {
+      "title": "ＳＮＳ中傷、慰謝料増へ議論　民法見直し、法務省が研究会",
+      "link": "https://www.jiji.com/jc/article?k=2026092900446&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-29T04:30:55.508575+00:00"
+    },
+    {
       "title": "消費減税や支援金の準備に予備費1118億円を決定　レジ改修など",
       "link": "https://www.asahi.com/articles/ASV9Y14B3V9YULFA004M.html?ref=rss",
       "summary": "",
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-29T04:09:31.154789+00:00"
+    },
+    {
+      "title": "Nvidia turns to insurers to spread the risk of AI build-out",
+      "link": "https://www.ft.com/content/d6a9f5df-08d0-4f80-ad2d-5d8a17e2cc82?syn-25a6b1a6=1",
+      "summary": "World’s largest listed company looks for new ways to draw Wall Street deeper into the financing of the AI boom",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-29T04:04:31+00:00"
+    },
+    {
+      "title": "A meeting a day keeps the robots away",
+      "link": "https://www.ft.com/content/4aad6056-761f-42df-ab65-683a15cf40dc?syn-25a6b1a6=1",
+      "summary": "Predictions that white-collar work will soon be automated reveal an underappreciation of what other people’s jobs entail",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-29T04:00:31+00:00"
+    },
+    {
+      "title": "The booming business of insuring against US gun violence",
+      "link": "https://www.ft.com/content/5ad7c42c-b95d-47b8-8dfd-896c1deda1df?syn-25a6b1a6=1",
+      "summary": "Companies, political campaigns and even schools are taking out policies to shield themselves from litigation that can follow attacks",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-29T04:00:23+00:00"
+    },
+    {
+      "title": "Oil price and US Treasury yields in tightest relationship since 1990",
+      "link": "https://www.ft.com/content/f894f69a-9e2b-4c3f-bf5d-c5c4dc0e6197?syn-25a6b1a6=1",
+      "summary": "Bond investors watch Iran conflict and crude price for signs as to where government borrowing costs will go",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-29T04:00:23+00:00"
+    },
+    {
+      "title": "Can Kering’s ‘car guy’ CEO make luxury move twice as fast?",
+      "link": "https://www.ft.com/content/78bfdad6-cf74-44c0-a3ec-dd2825563b99?syn-25a6b1a6=1",
+      "summary": "Luca de Meo is ruffling feathers by introducing industrial production methods at the owner of Gucci and Saint Laurent",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-29T04:00:12+00:00"
     },
     {
       "title": "坂本龍馬｢豪快な幕末の英雄｣というイメージだが…残された手紙でわかった坂本龍馬の意外すぎる素顔 | ライフ | 東洋経済オンライン",
@@ -612,6 +660,22 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-29T02:59:00+00:00"
+    },
+    {
+      "title": "Profit Margins of the Largest Companies",
+      "link": "https://www.visualcapitalist.com/ranked-how-profitable-are-the-worlds-largest-companies/",
+      "summary": "Article URL: https://www.visualcapitalist.com/ranked-how-profitable-are-the-worlds-largest-companies/\nComments URL: https://news.ycombinator.com/item?id=49887518\nPoints: 13\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-29T02:55:41+00:00"
+    },
+    {
+      "title": "臨時国会は10月5日召集、消費減税や定数削減で論戦へ - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQjdIRXc5M20tV3VKZE1RZ3NoWlJTY3d0Zm5ZNjg1ZWpBck96LXZEY0Ric0FuQzRjemlqX0hZMC1hbkVHb1hGdFJETllIMkxNVC1yeExuWWltVzQxakJ6SC1fc2MzaEJkUUtDOVNCT2RqdDRoZlVUOVFpODlNeUFBQ0ZR?oc=5",
+      "summary": "臨時国会は10月5日召集、消費減税や定数削減で論戦へ&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-29T02:52:00+00:00"
     },
     {
       "title": "Singapore Dollar Edges Lower Amid U.S.-Iran Tensions",
@@ -1316,6 +1380,14 @@
       "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-09-28T23:00:00+00:00"
+    },
+    {
+      "title": "Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?",
+      "link": "https://jonclegg.github.io/pacman-bakeoff/",
+      "summary": "Benchmarks how well Harness+models can create a Pac-Man game from a single prompt:“Create a Pac-Man game in a single HTML page”Each model gets one shot — no follow-up prompts or fixes.\n\nComments URL: https://news.ycombinator.com/item?id=49885493\nPoints: 7\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-28T22:43:12+00:00"
     },
     {
       "title": "Goldman’s Board Has Discussed a Plan to Name John Waldron as Its Next CEO",
@@ -2492,6 +2564,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-09-28T16:30:51.423311+00:00"
+    },
+    {
+      "title": "Phyllotaxis: An audio-reactive LED display",
+      "link": "https://jagi.studio/posts/phyllotaxis/",
+      "summary": "Article URL: https://jagi.studio/posts/phyllotaxis/\nComments URL: https://news.ycombinator.com/item?id=49880411\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-28T16:18:57+00:00"
     },
     {
       "title": "AWS Weekly Roundup: GPT-6 Sol and Luna, Claude Opus 5.5 on Amazon Bedrock, Strands harness, and more (September 28, 2026)",
