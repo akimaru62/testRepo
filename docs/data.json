@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T20:51:56.876511+00:00",
+  "generated_at": "2026-09-29T21:08:02.513318+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -510,9 +510,133 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f646abfee40>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f0294a630e0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "【衝撃】アドバンスクリエイト不正会計問題､保険会社も片棒を担いだ驚きの実態！ | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959401?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "東証プライム上場の保険代理店アドバンスクリエイトで発覚した不正会計問題では､保険会社が隠蔽の手助けをしていたことがわかっています。なぜ口裏合わせに応じたのか。第三者委員会による調査報告書と､28社に…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-29T21:03:00+00:00"
+    },
+    {
+      "title": "AIや半導体関連など6つの業績改善ドライバーで日経平均は8万円台の可能性も､日本企業は27年度にかけて最高益に | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959491?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "日本企業の4〜6月期決算は好調で､業績予想の大幅な増額修正が進んでいます。AIや半導体､金融など6つの成長ドライバーに支えられ､27年度にかけて過去最高益の更新も現実味を帯びてきました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-29T21:00:00+00:00"
+    },
+    {
+      "title": "〈インタビュー〉ローランドはなぜ蘇ったのか…MBOを決断した元社長と再上場後を担う現社長の証言 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959390?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "世界的電子楽器メーカー･ローランドはかつての危機を乗り越え､徹底した構造改革とMBOによって見事に再生しました。顧客との新たなつながりを模索し､AIやデジタルの力で楽器の未来を切り開く挑戦。その舞台…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-29T21:00:00+00:00"
+    },
+    {
+      "title": "【独自】アドバンスクリエイト不正会計問題､保険会社も加担した衝撃の実態！自ら｢口裏合わせ｣を求めたSBI生命 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959345?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "東証プライム上場の保険代理店アドバンスクリエイトで発覚した不正会計問題は､保険会社が隠蔽の手助けをしていたことが判明し業界に動揺が広がっています。なぜ口裏合わせに応じたのか。第三者委員会による調査報…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-29T21:00:00+00:00"
+    },
+    {
+      "title": "｢もう『指導』はやめませんか｣不登校の子どもと夜間中学の大人がともに学ぶ､軽井沢町の\"比較されない\"学校とは | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959186?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2027年春､軽井沢町に不登校の子どもと､多様な背景を持つ大人がともにに学ぶ｢軽井沢オープンドアスクール｣が開校します。その狙いを聞きました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-29T21:00:00+00:00"
+    },
+    {
+      "title": "ノバルティス日本法人社長｢革新的な医薬品､薬価でもっと評価を｣…魅力あふれる日本市場に投資していく | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957772?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "アメリカ･トランプ政権による最恵国待遇（MFN）薬価政策の影響で､日本に新薬が入ってこないかもしれないーー。そう盛んに唱えられる一方､巨大製薬企業の一角であるスイス･ノバルティス社長は日本市場への投…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-29T21:00:00+00:00"
+    },
+    {
+      "title": "東京五輪→デジタル庁のセキュリティトップへ､｢侵入前提として強靱性を追求｣する警察庁出身CISOの手腕 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/954440?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "デジタル庁のCISOとして､国家規模の情報システムを守る坂明氏。AI活用や高度化するサイバー脅威にどう立ち向かうのか。東京五輪の経験や官民混成の防御体制､政府独自AIへの挑戦など､最先端の行政セキュ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-29T21:00:00+00:00"
+    },
+    {
+      "title": "〈10月から酒税一本化〉王者アサヒ｢スーパードライ｣依存の裏側…サイバー被害で奪われた｢小売店の棚｣と一本足の功罪 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959398?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "いよいよ10月1日、2020年から段階的に進められてきたビールと発泡酒（新ジャンル）などの酒税一本化が、ついに最終段階を迎える。減税されるビールは各社が値下げに踏み切り、発泡酒などとの価格差が縮まる…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-29T20:55:00+00:00"
+    },
+    {
+      "title": "映画『踊る大捜査線 N.E.W.』が好スタートも世代の広がりで苦戦か…評価が割れる｢フジテレビ勝負作｣の行方は？ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959395?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢踊る大捜査線｣シリーズ最新作が14年ぶりに登場し､往年のファンはもちろん注目を集めています。映画化で築いた金字塔に再び挑む今作は､懐かしさと新展開が共存。変化する観客層や賛否分かれる評価の中､果た…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-29T20:55:00+00:00"
+    },
+    {
+      "title": "｢復刻版はやらない｣｢衛生上よくない｣…ローランドを蝕んだ大企業病､MBOで｢ヒットを生む力｣をどう取り戻したか | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959053?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "世界の音楽シーンを変えたリズムマシン｢TR-808｣や画期的な電子管楽器エアロフォンを生んだローランド。現場の創造力と経営革新で再成長した今､顧客とのつながりを深める新戦略へ挑戦中です。次なる革新は…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-29T20:55:00+00:00"
+    },
+    {
+      "title": "Nvidia’s historic buyback announcement underscores a sharp divide in Big Tech",
+      "link": "https://www.marketwatch.com/story/nvidias-historic-buyback-announcement-underscores-a-sharp-divide-in-big-tech-ac04a001?mod=mw_rss_topstories",
+      "summary": "Nvidia is expanding its buyback program to $235 billion while Alphabet and Meta halt repurchases and reallocate money to their AI initiatives.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-29T20:52:00+00:00"
+    },
+    {
+      "title": "Goldman Sachs CEO succession planning faces one big problem",
+      "link": "https://www.cnbc.com/2026/09/29/goldman-sachs-ceo-succession-planning.html",
+      "summary": "The Goldman Sachs board has reportedly discussed replacing CEO David Solomon, 64, with president John Waldron, 57, as early as next year.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-09-29T20:50:10+00:00"
+    },
+    {
+      "title": "【夏ドラマまとめ】視聴率が示す『VIVANT』圧勝､この先には不安も　\"視聴率TOP5\"はTBSとテレビ朝日が独占する結果に | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959499?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "7月期夏ドラマは『VIVANT』が圧倒的な人気を誇る一方､他作の話題性は限定的。しかし､昭和回帰の『GTO』や異色のバディミステリー『名探偵のままでいて』､心に響く警察ヒューマンドラマ『さよならノワ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-29T20:50:00+00:00"
+    },
+    {
+      "title": "高校入試《私立の併願確約》が授業料無償化で崩壊寸前？\"グレーな慣行\"任せの行政･･･滑り止めなく窮地の受験生も | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959045?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢内申点問題｣にメスを入れる高校入試改革の動きがある一方で､置き去りにされている｢併願問題｣。グレーな実態と､新たな課題とは？",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-29T20:50:00+00:00"
+    },
+    {
+      "title": "大赤字からMBOで蘇ったローランド…再上場から6年､再建支えたファンドが去った今､問われる｢次なる成長｣ | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959044?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "海外で圧倒的なシェアを誇る電子楽器メーカー･ローランドが､かつて赤字転落や親子上場の歪みなど存続の危機に直面。しかし大胆なMBOや構造改革により再生を果たしました。危機を乗り越えた軌跡と､現在直面す…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-29T20:50:00+00:00"
+    },
     {
       "title": "【独自】第一三共が｢2年連続リストラ｣に踏み切る必然　MRに再び大ナタ､業界では驚きの声も…急ピッチで進む構造改革 | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/959539?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -837,6 +961,14 @@
       "title": "英中銀の利上げ根拠「乏しい」、エネ高のインフレ波及見極めへ＝テイラー委員 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQTFoNTBvdFV2Slc4Wm9qcDFMOUtGTDQyTlNuNDhaVjVjay11NDZnY0xuYXR0QjZVWnB2ZUVfUnZJTHRCOWlyZHNZX0ZVUDF2SnZCTUp3dXQyWXZxMzJpN2cwV2RydFRTN0R3UEd2ZkJfU3JMS3g0WW1mbU1XU2pVV0pzVGg?oc=5",
       "summary": "英中銀の利上げ根拠「乏しい」、エネ高のインフレ波及見極めへ＝テイラー委員&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-29T18:36:16+00:00"
+    },
+    {
+      "title": "英中銀の利上げ根拠「乏しい」、エネ高のインフレ波及見極めへ＝テイラー委員 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQTFoNTBvdFV2Slc4Wm9qcDFMOUtGTDQyTlNuNDhaVjVjay11NDZnY0xuYXR0QjZVWnB2ZUVfUnZJTHRCOWlyZHNZX0ZVUDF2SnZCTUp3dXQyWXZxMzJpN2cwV2RydFRTN0R3UEd2ZkJfU3JMS3g0WW1mbU1XU2pVV0pzVGg?oc=5",
+      "summary": "英中銀の利上げ根拠「乏しい」、エネ高のインフレ波及見極めへ＝テイラー委員&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-29T18:36:16+00:00"
@@ -2712,6 +2844,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-29T06:32:00+00:00"
+    },
+    {
+      "title": "FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents",
+      "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-in-barcelona-building-the-data-foundation-for-microsoft-copilot-and-agents/",
+      "summary": "Microsoft Fabric and SQL innovations announced at FabCon and SQLCon Barcelona 2026 help organizations build trusted data foundations for AI.\nThe post FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and agents appeared first on Microsoft Azure Blog.",
+      "source": "Azure ブログ",
+      "category": "テクノロジー",
+      "published": "2026-09-29T06:30:00+00:00"
     },
     {
       "title": "amx.n - | Stock Price & Latest News - ロイター",
