@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T18:10:44.361666+00:00",
+  "generated_at": "2026-09-29T18:33:03.110385+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -514,6 +514,30 @@
   ],
   "items": [
     {
+      "title": "Good news for OpenAI is great news for Oracle’s stock — here’s why",
+      "link": "https://www.marketwatch.com/story/good-news-for-openai-is-great-news-for-oracles-stock-heres-why-993b6a5f?mod=mw_rss_topstories",
+      "summary": "Wall Street is cheering AI stocks as OpenAI gets closer to a revenue milestone.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-29T18:28:00+00:00"
+    },
+    {
+      "title": "U.S. Stocks Pare Losses After Comments From Fed’s Williams",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-drift-as-treasury-selloff-continues-d9bf63c1?mod=rss_markets_main",
+      "summary": "U.S. stocks pared losses, but remained lower after New York Fed President John Williams said that the central bank need not rush to continue raising interest rates.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-29T18:20:00+00:00"
+    },
+    {
+      "title": "The End of a Fair Price: Dynamic Pricing and the Normalization of Gouging",
+      "link": "https://prospect.org/2026/09/29/oct-2026-battling-an-army-of-price-setters-owens-review/",
+      "summary": "Article URL: https://prospect.org/2026/09/29/oct-2026-battling-an-army-of-price-setters-owens-review/\nComments URL: https://news.ycombinator.com/item?id=49897826\nPoints: 9\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-29T18:09:50+00:00"
+    },
+    {
       "title": "ChatGPT Pro 500",
       "link": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
       "summary": "Article URL: https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers\nComments URL: https://news.ycombinator.com/item?id=49896975\nPoints: 42\n# Comments: 21",
@@ -562,6 +586,14 @@
       "published": "2026-09-29T17:07:57+00:00"
     },
     {
+      "title": "Dots: Always-on agents",
+      "link": "https://openai.com/index/introducing-dots/",
+      "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 267\n# Comments: 157",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-29T17:07:57+00:00"
+    },
+    {
       "title": "DevDay 2026 Recap",
       "link": "https://openai.com/index/devday-2026-recap/",
       "summary": "Article URL: https://openai.com/index/devday-2026-recap/\nComments URL: https://news.ycombinator.com/item?id=49896600\nPoints: 12\n# Comments: 1",
@@ -573,6 +605,14 @@
       "title": "GPT 6.1 Sol",
       "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
       "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 44\n# Comments: 11",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-29T17:06:45+00:00"
+    },
+    {
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 361\n# Comments: 295",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-29T17:06:45+00:00"
