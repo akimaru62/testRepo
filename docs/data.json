@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T17:38:00.913808+00:00",
+  "generated_at": "2026-09-29T17:49:46.544454+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -514,6 +514,14 @@
   ],
   "items": [
     {
+      "title": "ChatGPT Pro 500",
+      "link": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+      "summary": "Article URL: https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers\nComments URL: https://news.ycombinator.com/item?id=49896975\nPoints: 42\n# Comments: 21",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-29T17:26:27+00:00"
+    },
+    {
       "title": "中日の井上監督、今季限りで退任　成績不振の責任取り―プロ野球",
       "link": "https://www.jiji.com/jc/article?k=2026092900962&g=spo&m=rss",
       "summary": "",
@@ -552,6 +560,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-29T17:07:57+00:00"
+    },
+    {
+      "title": "DevDay 2026 Recap",
+      "link": "https://openai.com/index/devday-2026-recap/",
+      "summary": "Article URL: https://openai.com/index/devday-2026-recap/\nComments URL: https://news.ycombinator.com/item?id=49896600\nPoints: 12\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-29T17:07:45+00:00"
     },
     {
       "title": "GPT 6.1 Sol",
