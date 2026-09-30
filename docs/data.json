@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T19:47:33.105947+00:00",
+  "generated_at": "2026-09-30T20:09:25.636267+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -538,6 +538,38 @@
   ],
   "items": [
     {
+      "title": "Amazon S3 Vectors now supports metadata pre-filtering for higher recall on filtered searches",
+      "link": "https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-searches/",
+      "summary": "Amazon S3 Vectors now supports metadata pre filtering, delivering up to 5x higher recall on filtered searches. Filters evaluate before similarity search so scoped queries return more relevant results. Ideal for RAG, agentic apps, and document search.",
+      "source": "AWS ブログ (AWS)",
+      "category": "テクノロジー",
+      "published": "2026-09-30T20:03:34+00:00"
+    },
+    {
+      "title": "2020→2025年｢人口減少数が大きい自治体｣ランキング…5位新潟市､4位神戸市､ではトップ3は？ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959676?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "日本の人口減少が加速しています。2025年国勢調査では､わずか5年で全国人口が317万人以上も減少し､減少率も大きく拡大しました。どの街で深刻なのかランキングを作成しました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-30T20:00:00+00:00"
+    },
+    {
+      "title": "大塚HDのIgA腎症薬が｢超大型化｣の可能性､バイオベンチャー｢青田買い｣でパテントクリフを克服へ | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958954?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "大塚ホールディングスが昨年末に発売した難病･IgA腎症薬｢ボイザクト｣が早くも大型化を期待されています。同社といえば､自社の研究所から長い年月をかけて新薬を開発してきましたが､近年はバイオベンチャー…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-30T20:00:00+00:00"
+    },
+    {
+      "title": "Halfspace experimental IDE for solid modeling with distance fields",
+      "link": "https://www.mattkeeter.com/projects/halfspace/",
+      "summary": "Article URL: https://www.mattkeeter.com/projects/halfspace/\nComments URL: https://news.ycombinator.com/item?id=49913350\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-30T19:44:37+00:00"
+    },
+    {
       "title": "U.S. bond yields head for biggest jump in a generation as global rout rattles investors",
       "link": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
       "summary": "Yields in the global bond market have risen with startling speed over the past few months, and the more than $30 trillion market for U.S. government debt certainly hasn’t been immune.",
@@ -549,6 +581,14 @@
       "title": "Paramount’s mega debt sale reveals how higher bond yields are squeezing corporate America",
       "link": "https://www.marketwatch.com/story/paramounts-mega-debt-sale-reveals-how-higher-bond-yields-are-squeezing-corporate-america-e9694ec3?mod=mw_rss_topstories",
       "summary": "‘Over the near term, we expect supply to fall off, unless someone has to borrow,’ says Invesco’s Matt Brill",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-30T19:42:00+00:00"
+    },
+    {
+      "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
+      "link": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
+      "summary": "Yields in the global bond market have risen with startling speed over the past few months, and the more than $30 trillion market for U.S. government debt certainly hasn’t been immune.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-30T19:42:00+00:00"
@@ -720,6 +760,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-30T17:37:00+00:00"
+    },
+    {
+      "title": "Claude Says",
+      "link": "https://ohhfishal.net/Posts/claude",
+      "summary": "Article URL: https://ohhfishal.net/Posts/claude\nComments URL: https://news.ycombinator.com/item?id=49911928\nPoints: 12\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-30T17:32:06+00:00"
     },
     {
       "title": "Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake",
