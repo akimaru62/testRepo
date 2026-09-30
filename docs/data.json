@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T19:07:28.890434+00:00",
+  "generated_at": "2026-09-30T19:24:26.241427+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -538,6 +538,14 @@
   ],
   "items": [
     {
+      "title": "Billionaires like Ken Griffin are doling out tons of money to prove that a college degree still matters",
+      "link": "https://www.marketwatch.com/story/billionaires-like-ken-griffin-are-doling-out-tons-of-money-to-prove-that-a-college-degree-still-matters-63e50332?mod=mw_rss_topstories",
+      "summary": "Despite questions swirling around colleges and universities, Griffin’s $3 billion donation to Carnegie Mellon University is one of many from billionaires to colleges this year",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-30T19:21:00+00:00"
+    },
+    {
       "title": "Running multi-day AZ evacuation drills with ARC Zonal Shift",
       "link": "https://aws.amazon.com/blogs/architecture/running-multi-day-az-evacuation-drills-with-arc-zonal-shift/",
       "summary": "Prove your multi-AZ architecture can sustain a real impairment. This post shows how to run a multi-day (48-72 hour) Availability Zone evacuation drill with ARC Zonal Shift across Amazon ECS, Amazon EKS, Amazon RDS for PostgreSQL, and Amazon Aurora PostgreSQL, with step-by-step CLI commands, prerequisites, observability metrics, and restore procedures.",
@@ -552,6 +560,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-30T19:00:00+00:00"
+    },
+    {
+      "title": "Boots owner nearing $9bn sale of chemist to Canada’s Weston family",
+      "link": "https://www.ft.com/content/c3a6e3b7-e998-43f0-82b2-f197e5d1730b?syn-25a6b1a6=1",
+      "summary": "Takeover would mark the billionaire family’s return to UK retail four years after its sale of Selfridges",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-30T18:59:53+00:00"
     },
     {
       "title": "Treasury Yields Hit Fresh Highs",
