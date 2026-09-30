@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:10:47.985315+00:00",
+  "generated_at": "2026-09-30T18:31:57.366972+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -530,9 +530,29 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f7d0b1cf380>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fa3e46df620>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "立民、経費削減へ党本部縮小",
+      "link": "https://www.jiji.com/jc/article?k=2026093001045&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-30T18:31:52.861826+00:00"
+    },
+    {
+      "title": "How MHK built a HIPAA-eligible agentic AI solution on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/architecture/how-mhk-built-a-hipaa-eligible-agentic-ai-solution-on-amazon-bedrock/",
+      "summary": "MHK built the SmartProminence AI Orchestrator, a HIPAA-eligible agentic workflow framework on AWS using Amazon Bedrock, Amazon ECS, and event-driven patterns. It reduced manual medical review effort by 90% and cut new AI feature deployment from months to weeks. Learn how MHK architected this reusable, multi-tenant orchestrator for healthcare AI.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-09-30T18:30:24+00:00"
+    },
     {
       "title": "令和８年台風第18号に伴う災害等に対する金融上の措置について公表しました。",
       "link": "https://www.fsa.go.jp/news/r8/ginkou/20260930.html",
@@ -540,6 +560,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-30T18:30:00+00:00"
+    },
+    {
+      "title": "This chart shows that buying and holding stocks beats ‘sell in May and go away’ and other gimmicks",
+      "link": "https://www.marketwatch.com/story/why-the-halloween-indicator-isnt-working-and-what-smart-investors-are-doing-instead-6d758662?mod=mw_rss_topstories",
+      "summary": "Followers of ‘sell in May and go away’ have lost out on a stock rally",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-30T18:20:00+00:00"
     },
     {
       "title": "Mexico Tightens Money-Laundering Rules After U.S. Pressure",
@@ -710,6 +738,14 @@
       "published": "2026-09-30T16:35:43+00:00"
     },
     {
+      "title": "米ＧＤＰ確報値、第2四半期は2.2％増に上方修正 堅調な個人消費寄与 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVjdMZEhvQ0JqWVVpY1VzMDlUMU5YR1lFSVkwNE9fTkZpUnZzWUpLc0YxODZuRTNzbXRobkp3VkYtcU9xcVVOMWYtTjltYWNoNGV2bldaYUFIREpET1U4c0I5WmdRaWlFdlFNQXYwUHRyd09NSE8ycEVzM2xpNUtHeFBTOG0?oc=5",
+      "summary": "米ＧＤＰ確報値、第2四半期は2.2％増に上方修正 堅調な個人消費寄与&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-30T16:35:43+00:00"
+    },
+    {
       "title": "中国激怒、米が平和条約展示中止か　習氏の公文書館見学時",
       "link": "https://www.jiji.com/jc/article?k=2026093001246&g=int&m=rss",
       "summary": "",
@@ -793,6 +829,14 @@
       "title": "米ＦＴＣ、アンソロピックなどＡＩ大手を調査 暴走の危険性巡り - ロイター",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WYXlPb1pkZDZtYkN3VlB1SlRGM1RNTi16dkdaYXFYbDdYbURxdHNHeGN0OFpZbnhRcmFoSmxvTDV4UXFISEJOczZ2djg4aFFQN0N6cDlwdUdrLVpjRHZuWE5aMFNKWHZ5Zkp5UmdfTEZvNEVrZDgxelRUMWQ?oc=5",
       "summary": "米ＦＴＣ、アンソロピックなどＡＩ大手を調査 暴走の危険性巡り&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-30T15:55:44+00:00"
+    },
+    {
+      "title": "米ＦＴＣ、アンソロピックなどＡＩ大手を調査 暴走の危険性巡り - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WYXlPb1pkZDZtYkN3VlB1SlRGM1RNTi16dkdaYXFYbDdYbURxdHNHeGN0OFpZbnhRcmFoSmxvTDV4UXFISEJOczZ2djg4aFFQN0N6cDlwdUdrLVpjRHZuWE5aMFNKWHZ5Zkp5UmdfTEZvNEVrZDgxelRUMWQ?oc=5",
+      "summary": "米ＦＴＣ、アンソロピックなどＡＩ大手を調査 暴走の危険性巡り&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-30T15:55:44+00:00"
