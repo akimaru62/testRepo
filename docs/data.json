@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T03:53:58.154364+00:00",
+  "generated_at": "2026-09-30T04:09:52.176832+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -514,9 +514,37 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f0294a630e0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "Oil Remains Elevated Despite Persian Gulf Exports Recovery",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-mixed-but-production-recovery-may-weigh-c851c0fa?mod=rss_markets_main",
+      "summary": "Increased Strait of Hormuz exports, including via ship-to-ship transfers, have driven this oil exports recovery despite the attack on the Saudi East-West pipeline, Goldman Sachs said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-30T04:01:00+00:00"
+    },
+    {
+      "title": "｢毎回同じ指示を入力していない？｣AIに人間の仕事を覚えさせるスキル機能の活用方法 | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958422?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "AIを活用した業務効率化が広がる中で､繰り返し発生する作業の｢型｣を覚えさせるスキルの重要性が増しています。毎回細かな指示を入力する手間を省き､仕事の進め方や判断基準を一度設定するだけで､安定した成…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-30T04:00:00+00:00"
+    },
+    {
+      "title": "Yen’s Long-Term Trend Has Likely Turned to Appreciation",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-aided-by-reduced-fed-rate-hike-bets-0a3f4e49?mod=rss_markets_main",
+      "summary": "The yen’s long-term trend has likely turned to appreciation as the Bank of Japan raises rates and Japanese interest rates rise, Citi said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-30T03:57:00+00:00"
+    },
     {
       "title": "2年利付国債（第489回）の入札結果（令和8年9月30日入札）",
       "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20260930.htm",
@@ -548,6 +576,14 @@
       "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-09-30T03:22:00+00:00"
+    },
+    {
+      "title": "PSSA: A non-transformer language model written from scratch in Rust",
+      "link": "https://github.com/Sparticle62ops/pssa",
+      "summary": "Article URL: https://github.com/Sparticle62ops/pssa\nComments URL: https://news.ycombinator.com/item?id=49903993\nPoints: 12\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-30T03:19:54+00:00"
     },
     {
       "title": "ポケモン×スタバ商品 希望者殺到",
@@ -1188,6 +1224,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-29T23:13:44+00:00"
+    },
+    {
+      "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
+      "link": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river",
+      "summary": "Article URL: https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river\nComments URL: https://news.ycombinator.com/item?id=49902019\nPoints: 11\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-29T23:03:38+00:00"
     },
     {
       "title": "雨ざらしのマネキンの群衆､癒やされないねこの展示…50代姉妹が迷い込んだ伊豆に実在\"カオスすぎる博物館\"の正体 | ライフ | 東洋経済オンライン",
