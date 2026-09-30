@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:54:26.845136+00:00",
+  "generated_at": "2026-09-30T19:07:28.890434+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -537,6 +537,38 @@
     }
   ],
   "items": [
+    {
+      "title": "Running multi-day AZ evacuation drills with ARC Zonal Shift",
+      "link": "https://aws.amazon.com/blogs/architecture/running-multi-day-az-evacuation-drills-with-arc-zonal-shift/",
+      "summary": "Prove your multi-AZ architecture can sustain a real impairment. This post shows how to run a multi-day (48-72 hour) Availability Zone evacuation drill with ARC Zonal Shift across Amazon ECS, Amazon EKS, Amazon RDS for PostgreSQL, and Amazon Aurora PostgreSQL, with step-by-step CLI commands, prerequisites, observability metrics, and restore procedures.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-09-30T19:01:57+00:00"
+    },
+    {
+      "title": "My friend’s pet-sitting business grosses $300,000 a year, but she pays herself $50,000. Should I start one too?",
+      "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+      "summary": "“She currently has about 15 sitters, all independent contractors.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-30T19:00:00+00:00"
+    },
+    {
+      "title": "Treasury Yields Hit Fresh Highs",
+      "link": "https://www.wsj.com/economy/central-banking/u-s-treasury-yields-fall-on-dovish-leaning-fed-speech-d6451171?mod=rss_markets_main",
+      "summary": "U.S. Treasury yields reversed early declines and the bonds selloff resumed as an uncertain long-term outlook offset temporary inflation relief.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-30T18:55:00+00:00"
+    },
+    {
+      "title": "Adding Lilly’s new drug to Zepbound helped people lose more weight — but there were more side effects",
+      "link": "https://www.marketwatch.com/story/adding-lillys-new-drug-to-zepbound-helped-people-lose-up-to-23-of-their-weight-but-there-were-more-side-effects-b7b7c6c0?mod=mw_rss_topstories",
+      "summary": "The pharma giant is working on an experimental amylin drug to see if it can help people lose weight and manage their diabetes.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-30T18:45:00+00:00"
+    },
     {
       "title": "After I sold TOMS Shoes for $400 million I was misdiagnosed with bipolar disorder — and it almost cost me everything",
       "link": "https://www.marketwatch.com/story/after-i-sold-toms-shoes-for-400-million-i-was-misdiagnosed-with-bipolar-disorder-and-it-almost-cost-me-everything-4409da4c?mod=mw_rss_topstories",
@@ -4888,6 +4920,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-29T16:44:00+00:00"
+    },
+    {
+      "title": "SQL Server on Azure Local is now generally available",
+      "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/",
+      "summary": "With SQL Server on Azure Local, customers can modernize where their data resides while maintaining control over infrastructure, connectivity, and data placement.\nThe post SQL Server on Azure Local is now generally available appeared first on Microsoft Azure Blog.",
+      "source": "Azure ブログ",
+      "category": "テクノロジー",
+      "published": "2026-09-29T16:40:06+00:00"
     },
     {
       "title": "Manchester City artificially boosted finances by more than £900mn, says panel",
