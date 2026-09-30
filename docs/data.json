@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:04:26.711184+00:00",
+  "generated_at": "2026-09-30T13:30:25.764481+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -526,6 +526,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f7d0b1cf380>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -568,6 +572,70 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-30T14:00:00+00:00"
+    },
+    {
+      "title": "学術会議、特殊法人に移行　独立性確保が焦点―菅首相任命拒否が契機",
+      "link": "https://www.jiji.com/jc/article?k=2026093000671&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-30T13:30:19.830532+00:00"
+    },
+    {
+      "title": "能動サイバー防御、１日開始　警察・自衛隊が「無害化」",
+      "link": "https://www.jiji.com/jc/article?k=2026093001094&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-30T13:30:19.830516+00:00"
+    },
+    {
+      "title": "対中改善、慎重に探る　岩屋氏「厚遇」、意図見極め―日本政府",
+      "link": "https://www.jiji.com/jc/article?k=2026093001064&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-30T13:30:19.830479+00:00"
+    },
+    {
+      "title": "ニデック決算、また「落第」　監査法人「虚偽説明の役員関与」と指摘",
+      "link": "https://www.asahi.com/articles/ASV9Z44QQV9ZPLFA00HM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-30T13:30:19.439971+00:00"
+    },
+    {
+      "title": "Americans get back to their spending ways. Economy might be speeding up again.",
+      "link": "https://www.marketwatch.com/story/americans-get-back-to-their-spending-ways-economy-might-be-speeding-up-again-7884c424?mod=mw_rss_topstories",
+      "summary": "Consumer spending snapped back in August after a brief lull, adding to mounting evidence of an acceleration in the U.S. economy despite a series of strains.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-30T13:24:00+00:00"
+    },
+    {
+      "title": "How Amazon’s stock can fight off the AI threat and soar 46%",
+      "link": "https://www.marketwatch.com/story/how-amazons-stock-can-fight-off-the-ai-threat-and-soar-46-5af77a03?mod=mw_rss_topstories",
+      "summary": "Some investors worry that AI agents pose a risk to Amazon, but a Rosenblatt analyst thinks the company “can navigate this period of transition largely unaffected.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-30T13:24:00+00:00"
+    },
+    {
+      "title": "Stock Futures Rise After Inflation Data Eases Rate-Hike Fears",
+      "link": "https://www.wsj.com/finance/investing/stock-futures-rise-as-oil-prices-rate-hike-bets-ease-612e058d?mod=rss_markets_main",
+      "summary": "U.S. stock futures rose  after U.S. inflation data soothed investor concerns that the Federal Reserve would hike rates in October.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-30T13:22:00+00:00"
+    },
+    {
+      "title": "U.S. inflation rises, keeping pressure on Fed",
+      "link": "https://www.marketwatch.com/story/inflation-rises-again-and-keeps-pressure-on-fed-f64d2ced?mod=mw_rss_topstories",
+      "summary": "The main inflation gauge used by the Federal Reserve to set U.S. interest rates rose sharply in August, underscoring why the central bank raised interest rates earlier this month for the first time in three years.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-30T13:11:00+00:00"
     },
     {
       "title": "Here’s the most you should be spending on your car payment, whether you make $60,000 or over $150,000",
@@ -696,6 +764,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-30T11:36:04+00:00"
+    },
+    {
+      "title": "Russia threatens nuclear strikes on Nato countries over Kaliningrad",
+      "link": "https://www.ft.com/content/1bb7ec8d-7252-4fa3-8c4a-81fa5b6906a2?syn-25a6b1a6=1",
+      "summary": "Kremlin accuses western defence alliance of preparing to blockade Russian exclave on Baltic Sea",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-30T11:35:42+00:00"
     },
     {
       "title": "採用,職員を募集しています。（金融モニタリング業務（ITガバナンス・オペレーショナルレジリエンス分野）に従事する専門調査員（非常勤職員））",
