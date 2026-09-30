@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T10:53:48.112747+00:00",
+  "generated_at": "2026-09-30T11:07:28.532769+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -574,12 +574,36 @@
       "published": "2026-09-30T11:30:00+00:00"
     },
     {
+      "title": "24時間365日決済可能「オンチェーン金融」実現、フォーラム発足",
+      "link": "https://www.asahi.com/articles/ASV9Z3H0RV9ZULFA00FM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-30T11:07:23.953854+00:00"
+    },
+    {
+      "title": "Japan Pauses Forex Intervention as Yen Strengthens",
+      "link": "https://www.wsj.com/finance/currencies/japan-pauses-forex-intervention-as-yen-strengthens-42352cc4?mod=rss_markets_main",
+      "summary": "Japan didn’t step into foreign-exchange markets in the past month, as repeated verbal warnings and historic intervention during the summer helped the yen regain some strength.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-30T10:55:00+00:00"
+    },
+    {
       "title": "障害者雇用ビジネス、業界が初の指針　不適切事例踏まえ信頼向上へ",
       "link": "https://www.asahi.com/articles/ASV9Z3DP0V9ZULFA00JM.html?ref=rss",
       "summary": "",
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-09-30T10:53:41.874364+00:00"
+    },
+    {
+      "title": "UAE-Israel flight diverted after distress signal and 20,000ft drop",
+      "link": "https://www.ft.com/content/7ed6ed48-79e4-46c2-968f-f2a69d263d35?syn-25a6b1a6=1",
+      "summary": "Flydubai plane landed in Saudi Arabia after ‘incident’ onboard and Israel scrambled fighter jets",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-30T10:45:48+00:00"
     },
     {
       "title": "三菱化工機と月島HD、経営統合を発表　来年4月に持ち株会社設立",
@@ -708,6 +732,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-09-30T10:00:00+00:00"
+    },
+    {
+      "title": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
+      "link": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence\nComments URL: https://news.ycombinator.com/item?id=49906669\nPoints: 12\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-30T09:59:03+00:00"
     },
     {
       "title": "Chilly Markets and AI Safety Debates Derail Wall Street’s Blockbuster IPO Season",
