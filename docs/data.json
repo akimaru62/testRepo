@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T17:07:32.710093+00:00",
+  "generated_at": "2026-09-30T17:25:46.106260+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -542,12 +542,76 @@
       "published": "2026-09-30T18:30:00+00:00"
     },
     {
+      "title": "Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake",
+      "link": "https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/",
+      "summary": "Amazon Aurora PostgreSQL now lets you directly query Apache Iceberg and Parquet data stored in your data lake alongside live operational data—no ETL pipelines required. Powered by DuckDB embedded within Aurora, this capability enables single queries that join transactional and historical data using familiar PostgreSQL syntax. It supports AWS Glue Data Catalog, S3, and S3 Tables, with optimizations like predicate pushdown and caching for efficient performance.",
+      "source": "AWS ブログ (AWS)",
+      "category": "テクノロジー",
+      "published": "2026-09-30T17:22:31+00:00"
+    },
+    {
+      "title": "Wall Street’s Trading Desks Come Down From a Record High",
+      "link": "https://www.wsj.com/finance/banking/wall-streets-trading-desks-come-down-from-a-record-high-9ab30234?mod=rss_markets_main",
+      "summary": "Bankers expect third-quarter revenue to be better than normal, but not to match the big gains earlier this year",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-30T17:22:00+00:00"
+    },
+    {
+      "title": "Former NFL players are nearly four times as likely to die with brain damage. Is it time to boycott football?",
+      "link": "https://www.marketwatch.com/story/former-nfl-players-are-nearly-four-times-as-likely-to-die-with-brain-damage-is-it-time-to-boycott-football-ba886e44?mod=mw_rss_topstories",
+      "summary": "New research says the problem is worse than we thought.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-30T17:15:00+00:00"
+    },
+    {
+      "title": "US competition watchdog expands investigation of Anthropic and OpenAI",
+      "link": "https://www.ft.com/content/a3075bf9-5b6c-40c8-bb6b-aca4422d1cbb?syn-25a6b1a6=1",
+      "summary": "Federal Trade Commission will demand information and seek testimony from the executives of leading AI companies",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-30T17:07:39+00:00"
+    },
+    {
+      "title": "The U.S. economy is defying gravity. Here’s all the good news.",
+      "link": "https://www.marketwatch.com/story/the-u-s-economy-is-defying-gravity-heres-all-the-good-news-8b58fc7b?mod=mw_rss_topstories",
+      "summary": "Wall Street just got a health check on the U.S. economy — and almost all the news was positive.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-30T17:07:00+00:00"
+    },
+    {
+      "title": "Stocks making the biggest moves midday: Rogers, United Therapeutics, Moderna, FormFactor & more",
+      "link": "https://www.cnbc.com/2026/09/30/stocks-making-the-biggest-moves-midday-rog-uthr-mrna-form.html",
+      "summary": "These are the stocks posting the largest moves midday.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-09-30T17:04:42+00:00"
+    },
+    {
       "title": "Celebrating Our Newest AWS Heroes – September 2026",
       "link": "https://aws.amazon.com/blogs/aws/celebrating-our-newest-aws-heroes-september-2026/",
       "summary": "Today, we’re excited to introduce the newest members of the AWS Heroes program. AWS Heroes are a vibrant, worldwide group of AWS experts who go above and beyond to share knowledge, mentor others, and build thriving communities. These individuals make a real difference in helping developers and organizations succeed with AWS. This month, we welcome […]",
       "source": "AWS ブログ (AWS)",
       "category": "テクノロジー",
       "published": "2026-09-30T17:04:05+00:00"
+    },
+    {
+      "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+      "link": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
+      "summary": "Article URL: https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer\nComments URL: https://news.ycombinator.com/item?id=49911531\nPoints: 0\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-30T17:00:20+00:00"
+    },
+    {
+      "title": "Fed watchdog finds ‘deficiencies’ but no criminal wrongdoing in $2.5bn renovation",
+      "link": "https://www.ft.com/content/78431eef-50ee-4ec9-9ca6-af801da1e617?syn-25a6b1a6=1",
+      "summary": "Inspector general says central bank failed to take ‘numerous actions available to it that could have better controlled costs’",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-30T17:00:09+00:00"
     },
     {
       "title": "「銀行法施行規則等の一部を改正する内閣府令」等について公表しました。",
@@ -660,6 +724,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-30T16:00:00+00:00"
+    },
+    {
+      "title": "米ＦＴＣ、アンソロピックなどＡＩ大手を調査 暴走の危険性巡り - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WYXlPb1pkZDZtYkN3VlB1SlRGM1RNTi16dkdaYXFYbDdYbURxdHNHeGN0OFpZbnhRcmFoSmxvTDV4UXFISEJOczZ2djg4aFFQN0N6cDlwdUdrLVpjRHZuWE5aMFNKWHZ5Zkp5UmdfTEZvNEVrZDgxelRUMWQ?oc=5",
+      "summary": "米ＦＴＣ、アンソロピックなどＡＩ大手を調査 暴走の危険性巡り&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-30T15:55:44+00:00"
     },
     {
       "title": "A tough job market is pushing more young Americans to make a big bet: on themselves",
@@ -1036,6 +1108,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-30T13:06:11+00:00"
+    },
+    {
+      "title": "KKR warns of growing credit market risks from AI borrowing spree",
+      "link": "https://www.ft.com/content/33449ea5-428b-4080-bdf6-ff5843bbd3cd?syn-25a6b1a6=1",
+      "summary": "Investment firm wary of risks of ‘overexposure’ and ‘concentration’ and predicts broader volatility if there is a downturn in booming sector",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-30T13:03:52+00:00"
     },
     {
       "title": "Here’s the most you should be spending on your car payment, whether you make $60,000 or over $150,000",
@@ -3110,6 +3190,14 @@
       "published": "2026-09-30T00:30:00+00:00"
     },
     {
+      "title": "Show HN: I created a BGP-based blackhole system that you can set up in minutes",
+      "link": "https://setecastronomyinc.com/shield",
+      "summary": "Hey friends, I've been working on this idea since 2019, and wanted to share it and see who might be interested.  I built a BGP network full of nodes that collect threat data, put it on a blockchain, and put it into a BGP community that anyone can peer with over GRE.  The external network ASN is AS23026.Basically, you sign up on the website -- you can create an account with your email or with peeringdb or a thoughtwave account, set up a private ASN and it spits out a router config that you can use to start blackholing routes.  I have been using it for months now on my edge router (AS54380) and it has cut SSH attacks down drastically.It doesn't do volumetric protection against DDoS, but it will give you protection against brute force attacks.  It ingest spamhaus, a bunch of other feeds as well as fail2ban from participants and also our own attack intelligence.It's $59/month after the two week trial, and you can cancel at any time.   I have a support ticket system.  Would love to get some feedback.\n\nComments URL: https://news.ycombinator.com/item?id=49902803\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-30T00:28:29+00:00"
+    },
+    {
       "title": "ＧＳのプライベートクレジット・ファンド、解約請求2％に低下 - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSWlVbEFDaTYzVU5MTnVPc1FoY3R2cl9VVEU5NXQ1VWdrcnBieW5TdndmMmJTVnJ2VWowQm5Ramc3SnRJRGN4a0t3Y0FZSDlrbXZtVzc1djRReVNIX3Y2RTZDZmlTM21lWlNCeGdwbUFaM3lNdUZSZW1IWjVSNGVvaEpaX0w?oc=5",
       "summary": "ＧＳのプライベートクレジット・ファンド、解約請求2％に低下&nbsp;&nbsp;jp.reuters.com",
@@ -3244,6 +3332,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-29T23:47:20+00:00"
+    },
+    {
+      "title": "Show HN: Ledge.sh – Runnable Markdown Notes",
+      "link": "https://ledge.sh",
+      "summary": "Hi HN,Ledge is a Markdown notebook that runs shell commands, code, SQL, etc from inside your own notes.I built Ledge because I spend much of my day copy/pasting commands from my notes into the terminal. I was inspired by how much cmux helped me organize my terminals - but there was still a split brain between my notes and frequently run commands. I've been daily-driving it for the past few weeks and use it for deploys, API calls, smoke tests, etc.Ledge runs your real shell just like a terminal app and can be hosted locally or remotely over SSH using ledge-server. I've been building it since July and have recently added support for all the major platforms: Mac (Silicon), Windows (WSL required), Linux, iOS, Android. Mobile devices require SSH access to a ledge-server and Android is still in beta and looking for beta testers (see link on website)!It's built on Bun and Electrobun and is free and open-source. Feel free to review the code and contribute at https://github.com/ledgesh/ledgeFeedback is very much welcome. Any must-have features that are missing?\n\nComments URL: https://news.ycombinator.com/item?id=49902382\nPoints: 20\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-29T23:41:34+00:00"
     },
     {
       "title": "早朝の高速バス乗り場に行列 千葉",
