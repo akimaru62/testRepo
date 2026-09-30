@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T20:09:25.636267+00:00",
+  "generated_at": "2026-09-30T20:28:02.969553+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -538,6 +538,46 @@
   ],
   "items": [
     {
+      "title": "米連邦準備制度理事会（ＦＲＢ）の監察総監室は、費用が膨張したＦＲＢ本部改修工事に関する不正を認める証拠はないと結論付けた",
+      "link": "https://www.jiji.com/jc/article?k=2026100100133&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-30T20:27:58.650816+00:00"
+    },
+    {
+      "title": "ＦＲＢ本部改修「不正なし」　工事費膨張、米政権が問題視―監察報告",
+      "link": "https://www.jiji.com/jc/article?k=2026100100136&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-30T20:27:58.650774+00:00"
+    },
+    {
+      "title": "10-Year Treasury Yield Rises to New 24-Year High",
+      "link": "https://www.wsj.com/finance/investing/10-year-treasury-yield-rises-to-new-24-year-high-641f0790?mod=rss_markets_main",
+      "summary": "Plus, Nasdaq gains after second-quarter GDP growth revised to 2.2%.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-30T20:21:00+00:00"
+    },
+    {
+      "title": "Technology Shares Lift Nasdaq as Broader Market Slips",
+      "link": "https://www.wsj.com/finance/stocks/technology-shares-lift-nasdaq-as-broader-market-slips-65d27445?mod=rss_markets_main",
+      "summary": "U.S. stocks ended modestly lower, while a flurry of economic data eased concerns about imminent rate hikes and sent tech stocks higher.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-30T20:20:00+00:00"
+    },
+    {
+      "title": "Gemini 4 Argon",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/\nComments URL: https://news.ycombinator.com/item?id=49913571\nPoints: 154\n# Comments: 56",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-30T20:04:37+00:00"
+    },
+    {
       "title": "Amazon S3 Vectors now supports metadata pre-filtering for higher recall on filtered searches",
       "link": "https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-searches/",
       "summary": "Amazon S3 Vectors now supports metadata pre filtering, delivering up to 5x higher recall on filtered searches. Filters evaluate before similarity search so scoped queries return more relevant results. Ideal for RAG, agentic apps, and document search.",
@@ -594,6 +634,14 @@
       "published": "2026-09-30T19:42:00+00:00"
     },
     {
+      "title": "America.gov goes crazy on \"play Minecraft\"",
+      "link": "https://america.gov/chat",
+      "summary": "Article URL: https://america.gov/chat\nComments URL: https://news.ycombinator.com/item?id=49913255\nPoints: 27\n# Comments: 10",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-30T19:34:03+00:00"
+    },
+    {
       "title": "相鉄8000系｢都心直通と無縁｣だった時代の独自進化 ｢相鉄線では当たり前｣でも全国的にはレアな特徴 | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/959451?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "現在はヨコハマネイビーブルーの車両で都心に乗り入れる相鉄ですが､かつて自社線内で完結していたころの車両は独自の進化を遂げていました。その伝統を引き継ぐ｢8000系｣を車両センターで独占取材しました。…",
@@ -608,6 +656,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-30T19:26:37+00:00"
+    },
+    {
+      "title": "18,000 feet in 90 seconds: Inside Flydubai’s near-catastrophe",
+      "link": "https://www.ft.com/content/ecc95946-92ed-426c-bcf9-e6575e1cf6c6?syn-25a6b1a6=1",
+      "summary": "Disaster was averted on a flight from Dubai to Tel Aviv after one pilot stabbed another",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-30T19:23:22+00:00"
     },
     {
       "title": "Billionaires like Ken Griffin are doling out tons of money to prove that a college degree still matters",
