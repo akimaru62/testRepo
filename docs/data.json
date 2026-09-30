@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T21:26:32.509971+00:00",
+  "generated_at": "2026-09-30T21:40:22.484851+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -538,6 +538,38 @@
   ],
   "items": [
     {
+      "title": "A Tech-Fueled Stock Market Powers Through, but Limps Into the Fourth Quarter",
+      "link": "https://www.wsj.com/finance/stocks/a-tech-fueled-stock-market-powers-through-but-limps-into-the-fourth-quarter-47eac700?mod=rss_markets_main",
+      "summary": "The Nasdaq composite and the S&amp;P 500 are on pace to finish with double-digit gains for the fourth straight year, a first since the late 1990s. Rising rates might intervene.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-30T21:37:00+00:00"
+    },
+    {
+      "title": "WSJ Dollar Index Falls 0.50% This Quarter to 97.04",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-aided-by-reduced-fed-rate-hike-bets-0a3f4e49?mod=rss_markets_main",
+      "summary": "The WSJ Dollar Index rose 0.1% — up for three consecutive trading days.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-30T21:34:00+00:00"
+    },
+    {
+      "title": "｢入っても､すぐ辞めてしまう｣｢全員同じ味が出せない｣…全国190店舗のジュースチェーンを､危機から立て直した《虎の巻》 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958682?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "生搾りジュース専門店｢果汁工房果琳｣を､全国190店舗展開する青木フルーツ。会長の青木信博さん（78）は､｢果物のおいしさは､鮮度ではなく熟度で決まる｣と言い切る。傷のある果物を生かす用途別栽培､そ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-30T21:30:00+00:00"
+    },
+    {
+      "title": "｢ペットボトルの2.5倍｣するジュースが\"イオンモールの給水所\"として190店まで拡大…78歳会長が語る《出店の条件》とは | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958681?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢なぜイオンモールには果汁工房果琳がこんなに増えたのか？｣炎天下の京都で､娘の喉の渇きをきっかけに立ち寄ったジュース専門店で､ふと感じた疑問。高価な生搾りジュースが､なぜ全国に広がり続けているのか。…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-30T21:30:00+00:00"
+    },
+    {
       "title": "常識破りの１７歳大橋信　王者マルシャンも恐れる存在―アジア大会・競泳",
       "link": "https://www.jiji.com/jc/article?k=2026100100155&g=spo&m=rss",
       "summary": "",
@@ -691,6 +723,14 @@
     },
     {
       "title": "How the ‘AI Put’ has become the only thing that matters for stocks",
+      "link": "https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories",
+      "summary": "While investors worry a spike in global bond yields will trigger a selloff in U.S. equities, strategists at BofA Global Research say the real threat lies elsewhere.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-30T20:59:00+00:00"
+    },
+    {
+      "title": "How the ‘AI put’ has become the only thing that matters for stocks",
       "link": "https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories",
       "summary": "While investors worry a spike in global bond yields will trigger a selloff in U.S. equities, strategists at BofA Global Research say the real threat lies elsewhere.",
       "source": "MarketWatch",
@@ -874,6 +914,14 @@
       "published": "2026-09-30T20:06:39+00:00"
     },
     {
+      "title": "Functional Ultrasound Imaging (fUSI) from scratch",
+      "link": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
+      "summary": "Article URL: https://www.neuroai.science/p/functional-ultrasound-imaging-from\nComments URL: https://news.ycombinator.com/item?id=49913604\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-30T20:06:39+00:00"
+    },
+    {
       "title": "Gemini 4 Argon",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
       "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/\nComments URL: https://news.ycombinator.com/item?id=49913571\nPoints: 154\n# Comments: 56",
@@ -1034,6 +1082,14 @@
       "published": "2026-09-30T18:55:00+00:00"
     },
     {
+      "title": "Before pixels: Modular industrial dashboards",
+      "link": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
+      "summary": "Article URL: https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/\nComments URL: https://news.ycombinator.com/item?id=49912792\nPoints: 11\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-30T18:49:06+00:00"
+    },
+    {
       "title": "Adding Lilly’s new drug to Zepbound helped people lose more weight — but there were more side effects",
       "link": "https://www.marketwatch.com/story/adding-lillys-new-drug-to-zepbound-helped-people-lose-up-to-23-of-their-weight-but-there-were-more-side-effects-b7b7c6c0?mod=mw_rss_topstories",
       "summary": "The pharma giant is working on an experimental amylin drug to see if it can help people lose weight and manage their diabetes.",
@@ -1112,6 +1168,22 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-30T18:00:00+00:00"
+    },
+    {
+      "title": "Recursive `make` and `-j`",
+      "link": "https://quuxplusone.github.io/blog/2026/09/30/recursive-make-j/",
+      "summary": "Article URL: https://quuxplusone.github.io/blog/2026/09/30/recursive-make-j/\nComments URL: https://news.ycombinator.com/item?id=49912094\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-30T17:46:26+00:00"
+    },
+    {
+      "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
+      "link": "https://www.chompiclub.com/opensource",
+      "summary": "Article URL: https://www.chompiclub.com/opensource\nComments URL: https://news.ycombinator.com/item?id=49912048\nPoints: 8\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-30T17:42:13+00:00"
     },
     {
       "title": "Why the ‘Halloween Indicator’ isn’t working — and what smart investors are doing instead",
