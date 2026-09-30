@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T16:50:10.361527+00:00",
+  "generated_at": "2026-09-30T17:07:32.710093+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -542,6 +542,14 @@
       "published": "2026-09-30T18:30:00+00:00"
     },
     {
+      "title": "Celebrating Our Newest AWS Heroes – September 2026",
+      "link": "https://aws.amazon.com/blogs/aws/celebrating-our-newest-aws-heroes-september-2026/",
+      "summary": "Today, we’re excited to introduce the newest members of the AWS Heroes program. AWS Heroes are a vibrant, worldwide group of AWS experts who go above and beyond to share knowledge, mentor others, and build thriving communities. These individuals make a real difference in helping developers and organizations succeed with AWS. This month, we welcome […]",
+      "source": "AWS ブログ (AWS)",
+      "category": "テクノロジー",
+      "published": "2026-09-30T17:04:05+00:00"
+    },
+    {
       "title": "「銀行法施行規則等の一部を改正する内閣府令」等について公表しました。",
       "link": "https://www.fsa.go.jp/news/r8/ginkou/20260930/20260930.html",
       "summary": "",
@@ -556,6 +564,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-30T17:00:00+00:00"
+    },
+    {
+      "title": "Gold is supposed to be a safe haven when inflation surges. So why isn’t it working that way now?",
+      "link": "https://www.marketwatch.com/story/gold-is-supposed-to-be-a-safe-haven-when-inflation-surges-so-why-isnt-it-working-that-way-now-45cbb07b?mod=mw_rss_topstories",
+      "summary": "Every investor knows the drill: When markets buckle, buy gold. But in September, that playbook hasn’t worked as expected.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-30T16:51:00+00:00"
     },
     {
       "title": "米ＧＤＰ確報値、第2四半期は2.2％増に上方修正 堅調な個人消費寄与 - ロイター",
@@ -860,6 +876,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-30T14:00:00+00:00"
+    },
+    {
+      "title": "What TLA+ can and can't check",
+      "link": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+      "summary": "Article URL: https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/\nComments URL: https://news.ycombinator.com/item?id=49909056\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-30T13:57:06+00:00"
     },
     {
       "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
