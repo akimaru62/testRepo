@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T05:08:24.782368+00:00",
+  "generated_at": "2026-09-30T05:28:17.550159+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -518,6 +518,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -536,6 +540,30 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-30T11:30:00+00:00"
+    },
+    {
+      "title": "地雷爆発、韓国軍が謝罪要求　北朝鮮は「自作自演」主張",
+      "link": "https://www.jiji.com/jc/article?k=2026093000181&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-30T05:28:05.713245+00:00"
+    },
+    {
+      "title": "声にも「パブリシティー権」認める　生成ＡＩで声模倣、人気声優訴え―東京地裁",
+      "link": "https://www.jiji.com/jc/article?k=2026093000118&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-30T05:28:05.713192+00:00"
+    },
+    {
+      "title": "日本でも深まる｢リベラル不信｣の正体　 ｢過激なリベラリズム｣が招いたアメリカを蝕む｢冷たい内戦｣ | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958701?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "従来の右派対左派の枠を超え､アメリカ社会に広がる｢エリート対大衆｣という新たな分断。｢共通善｣をキーワードに､社会再生への道を探ります。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-30T05:00:00+00:00"
     },
     {
       "title": "スペイン、住宅危機受け連立与党が対策合意 議会の支持確保は不透明 - jp.reuters.com",
