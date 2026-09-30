@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T17:38:07.205550+00:00",
+  "generated_at": "2026-09-30T17:49:08.719400+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -542,6 +542,38 @@
       "published": "2026-09-30T18:30:00+00:00"
     },
     {
+      "title": "Why the ‘Halloween Indicator’ isn’t working — and what smart investors are doing instead",
+      "link": "https://www.marketwatch.com/story/why-the-halloween-indicator-isnt-working-and-what-smart-investors-are-doing-instead-6d758662?mod=mw_rss_topstories",
+      "summary": "Followers of ‘sell in May and go away’ have lost out on a stock rally",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-30T17:40:00+00:00"
+    },
+    {
+      "title": "These bond strategies can help you get a safe 5% return on your cash",
+      "link": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
+      "summary": "With U.S. Treasury yields on the rise, financial planners say they’re seeing a growing interest in bonds, especially among investors looking to secure fixed income in retirement.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-30T17:38:00+00:00"
+    },
+    {
+      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+      "link": "https://github.com/magnitudedev/magnitude",
+      "summary": "Hey HN, Anders and Tom here. We're building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.cpp.We're both software engineers and previously built an open source browser agent to 4k+ GH stars and 100k+ downloads. We increasingly wanted to run it on local models, but found that no inference engine worked for our use case.Inference engines today all make a performance tradeoff. They are either:- Built for batched inference on datacenter hardware at the cost of single-session performance (vLLM, SGLang)\n- Designed for broad compatibility instead of optimizing for specific hardware (llama.cpp, Ollama)\n- Specialized for specific hardware or models but lacking engine completeness (oMLX, ds4)Plus none of them are designed for running agents locally. Sessions are long, several often run at once, and you still want to use your computer for other things.Magnitude is built for maximum performance on your hardware and running local agents:- On-device compilation and tuning: Kernels are written with flexible parameters that are tuned on your actual device before the model runs. This gives you broad hardware compatibility with the same performance ceiling as hardware-specific kernels.\n- Focus on best architectures: We write our tunable, highly efficient kernels for the most popular open-weights families. This allows us to achieve and surpass the performance of hardware or model specialized engines, without forcing ourselves to over-generalize at the cost of performance.\n- Dynamic memory allocation: Magnitude reserves only enough memory up front to hold model weights. As your agent sessions grow, the memory heap dynamically increases, and frees itself when agents stop. Your hardware can still be used for other stuff while agents run.\n- Hybrid paged attention: We borrow the best ideas from engines like SGLang to allow concurrent sessions to share prefix caches, but optimize placement for memory-adjacency so single-session performance doesn't suffer.Magnitude is fully open source (Apache 2.0). We built it in Rust, including a custom GPU kernel runtime and autotuner. We take inspiration from the best innovations in inference from academics (e.g. FlashAttention, FlashInfer, TurboQuant) as well as other engines (e.g. SGLang radix attention) to reach the performance ceiling.Benchmarked against llama.cpp with Qwen 3.6 35B A3B (4 bit), 64k context, no speculative decoding:Metal (Mac M4 Pro 48 GB)\n- 92% faster decode (30 tok/s → 57 tok/s)\n- 9% faster prefill (466 tok/s → 507 tok/s)\n- 28% less per-agent memory usageCUDA (DGX Spark)\n- 19% faster decode (49 tok/s → 58 tok/s)\n- 23% faster prefill (2,033 tok/s → 2,507 tok/s)\n- 27% less per-agent memory usageMagnitude ships as a desktop app that you can easily connect with whatever agents you already use (Pi, OpenCode, Hermes, Codex, and more). It automatically runs models on demand when these agents actually need them, and shuts them down after inactivity.\nHere's what it looks like: https://www.youtube.com/watch?v=0qE8BWEZu7oWe're excited to push Magnitude further to let you run bigger models on the same hardware while continuing to improve performance. Our plans include:- Expert streaming: store experts on RAM or disk and load them just-in-time. This lets you run models bigger than what otherwise would fit on your GPU.\n- Kernel compiler: our current kernels tune a few parameters to fit your hardware. We can take this further with a fully custom compiler that automatically chooses how to fuse kernels and which implementations to use, to make it fit to your hardware even better.\n- Multi-device utilization: Make the best possible use of all hardware on a system (CPU, GPUs, RAM, disk) by detecting these and automatically solving for the best model layout.We'd love for more people to try it out and give us feedback. Feel free to comment here, we'll be around all day!\n\nComments URL: https://news.ycombinator.com/item?id=49911995\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-30T17:37:40+00:00"
+    },
+    {
+      "title": "Trump touts economic wins in battleground states — like a $54 billion Alaskan pipeline — as the midterms draw closer",
+      "link": "https://www.marketwatch.com/story/trump-touts-economic-wins-in-battleground-states-like-a-54-billion-alaskan-pipeline-as-the-midterms-draw-closer-46db0149?mod=mw_rss_topstories",
+      "summary": "President Donald Trump is spending time this week talking up big job-creating projects in battleground states.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-30T17:37:00+00:00"
+    },
+    {
       "title": "Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake",
       "link": "https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/",
       "summary": "Amazon Aurora PostgreSQL now lets you directly query Apache Iceberg and Parquet data stored in your data lake alongside live operational data—no ETL pipelines required. Powered by DuckDB embedded within Aurora, this capability enables single queries that join transactional and historical data using familiar PostgreSQL syntax. It supports AWS Glue Data Catalog, S3, and S3 Tables, with optimizations like predicate pushdown and caching for efficient performance.",
@@ -564,6 +596,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-30T17:18:18+00:00"
+    },
+    {
+      "title": "Commit Description as a Thinking Tool",
+      "link": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
+      "summary": "Article URL: https://yedhu.me/posts/commit-description-as-a-thinking-tool/\nComments URL: https://news.ycombinator.com/item?id=49911757\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-30T17:18:13+00:00"
     },
     {
       "title": "What we know about the  Flydubai flight to Israel",
@@ -790,6 +830,14 @@
       "published": "2026-09-30T15:46:22.844578+00:00"
     },
     {
+      "title": "Show HN: Parrot – Open-Source Smart Meeting Recorder with Co-Pilot on Mac",
+      "link": "https://openparrot.app",
+      "summary": "Hello Hacker NewsI am Uygar, I am an entrepreneur from London. I run my businesses on calls everyday, customers, partners and suppliers. And i have a horrible memory i forgot things. So months ago with the help of Claude i have built Parrot. I have designed and coded for my work and what i need. An to be honest worked very well and helped me alot.Parrot records what your mac hears and everything stays in your computer if you use local models, no account, no API calls. There is something called copilot which made my life easier, you can upload your files and when parrot hears that question on the screen recommends the answer. Which i believe very handy.If you want to make it smarter and dont mind cloud you can hook up your Claude API and Deepgram account, that gives super powers to Parrot. You still keep it locally but eventually you need to make API calls.So local or cloud totally up to you.Then after months of thinking i have decided share it as open source and this is my first open source project, so please go easy on me :)No account, no membership, open source and free.Code: https://github.com/turantekin/ParrotThis project made me so excited and really would like to share with you guys so i hope can help you too. Again, i am new so go easy on me and if you have any feedback i would like to hear.Thank you\nUygar\n\nComments URL: https://news.ycombinator.com/item?id=49910328\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-30T15:33:12+00:00"
+    },
+    {
       "title": "How will Trump ‘accord’ for AI to ‘self-regulate’ work?",
       "link": "https://www.ft.com/content/f52f7b0e-be7d-414c-b19d-d78a3a5f4882?syn-25a6b1a6=1",
       "summary": "US president touts voluntary commitment which may create unexpected legal liabilities for AI companies",
@@ -889,6 +937,14 @@
       "title": "A Brief History of the Bloomberg Terminal",
       "link": "https://spectrum.ieee.org/bloomberg-terminal",
       "summary": "Article URL: https://spectrum.ieee.org/bloomberg-terminal\nComments URL: https://news.ycombinator.com/item?id=49909583\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-30T14:34:07+00:00"
+    },
+    {
+      "title": "A brief history of the Bloomberg terminal",
+      "link": "https://spectrum.ieee.org/bloomberg-terminal",
+      "summary": "Article URL: https://spectrum.ieee.org/bloomberg-terminal\nComments URL: https://news.ycombinator.com/item?id=49909583\nPoints: 83\n# Comments: 22",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-30T14:34:07+00:00"
