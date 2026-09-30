@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T14:09:21.985909+00:00",
+  "generated_at": "2026-09-30T14:30:32.767675+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -566,6 +566,38 @@
       "published": "2026-09-30T16:00:00+00:00"
     },
     {
+      "title": "８月の米物価、前年比３．４％上昇　原油高騰も予想下回る",
+      "link": "https://www.jiji.com/jc/article?k=2026093001197&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-30T14:30:28.099886+00:00"
+    },
+    {
+      "title": "米ＧＤＰ確定値、２．２％増　景気堅調、大幅上方修正―４～６月期",
+      "link": "https://www.jiji.com/jc/article?k=2026093001203&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-30T14:30:28.099857+00:00"
+    },
+    {
+      "title": "Sydney Sweeney-Backed Novig Quadruples Valuation to $2 Billion",
+      "link": "https://www.wsj.com/finance/sydney-sweeney-backed-novig-quadruples-valuation-to-2-billion-2fb1c936?mod=rss_markets_main",
+      "summary": "Sports-prediction market rises to popularity after racy ads featuring the actress.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-30T14:27:00+00:00"
+    },
+    {
+      "title": "Kalshi, Polymarket trading volumes on some products raises questions amid massive growth",
+      "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
+      "summary": "Unusual trading patterns on Kalshi and Polymarket are drawing scrutiny as experts debate whether reported volumes reflect organic market activity.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-09-30T14:18:47+00:00"
+    },
+    {
       "title": "ニデック決算また「落第」　監査法人が「虚偽説明の役員関与」と指摘",
       "link": "https://www.asahi.com/articles/ASV9Z44QQV9ZPLFA00HM.html?ref=rss",
       "summary": "",
@@ -580,6 +612,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-30T14:00:00+00:00"
+    },
+    {
+      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+      "link": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+      "summary": "Article URL: https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/\nComments URL: https://news.ycombinator.com/item?id=49908962\nPoints: 8\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-30T13:50:50+00:00"
     },
     {
       "title": "Natural Gas Falls Below $3/mmBtu Threshold",
