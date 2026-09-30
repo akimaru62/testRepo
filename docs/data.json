@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:08:12.712565+00:00",
+  "generated_at": "2026-09-30T22:26:57.628787+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -538,6 +538,54 @@
   ],
   "items": [
     {
+      "title": "音楽イベントでの混雑による危険　来場者のチケット交換影響の指摘",
+      "link": "https://www.asahi.com/articles/ASV9Z1HJFV9ZUTFL00ZM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-30T22:26:53.446006+00:00"
+    },
+    {
+      "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data",
+      "link": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
+      "summary": "Kashkari will sit down with CNBC's Steve Liesman for an exclusive conversation Wednesday night.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-09-30T22:21:27+00:00"
+    },
+    {
+      "title": "How Arc’teryx Turned Climbing Gear Into a Luxury Status Symbol",
+      "link": "https://www.wsj.com/business/retail/how-arcteryx-turned-climbing-gear-into-a-luxury-status-symbol-e8bab768?mod=rss_markets_main",
+      "summary": "The upscale mountaineering brand grew from $500 million to $2 billion in revenue by expanding beyond climbers.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-30T22:16:00+00:00"
+    },
+    {
+      "title": "【医師が解説】\"明らかに調子が悪い\"のに病院で｢異常なし｣と言われてしまう真因　検査で現れない｢不調｣の正体は？ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/957498?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "体の不調を感じながらも､検査では｢異常なし｣と言われて戸惑った経験はありませんか？実は､数値や画像に現れない｢機能性障害｣に悩む人は少なくありません。本記事では､その正体や向き合い方を詳しく解説しま…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-09-30T22:15:00+00:00"
+    },
+    {
+      "title": "Amazon S3 Tables now support all Apache Iceberg V3 data types",
+      "link": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types/",
+      "summary": "Amazon S3 Tables now offer complete support for the Apache Iceberg V3 spec. Upgrade existing V2 tables or create new V3 tables with built-in compaction, maintenance, and engine compatibility.",
+      "source": "AWS ブログ (AWS)",
+      "category": "テクノロジー",
+      "published": "2026-09-30T22:10:00+00:00"
+    },
+    {
+      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
+      "link": "https://www.thespacereview.com/article/4951/1",
+      "summary": "Article URL: https://www.thespacereview.com/article/4951/1\nComments URL: https://news.ycombinator.com/item?id=49915082\nPoints: 22\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-30T22:03:04+00:00"
+    },
+    {
       "title": "65歳で｢タイミーさん｣に､ASDの息子を持つ父が\"10以上のスキマバイト\"を経験して受けた｢大きな衝撃｣ | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/959273?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "ASDの息子の気持ちを理解するため､65歳からタイミーを始めた田中さん。10以上の現場を経験して得た気づきとは？",
@@ -563,6 +611,14 @@
     },
     {
       "title": "Paramount stomachs heavy borrowing costs to fund Warner Bros deal",
+      "link": "https://www.ft.com/content/188ab0ab-e39d-4221-9730-0610fbc22ee9?syn-25a6b1a6=1",
+      "summary": "Investors pile into the record-breaking $52bn financing package as yields near 9%",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-30T21:37:36+00:00"
+    },
+    {
+      "title": "Paramount stumps up high borrowing costs to fund Warner Bros deal",
       "link": "https://www.ft.com/content/188ab0ab-e39d-4221-9730-0610fbc22ee9?syn-25a6b1a6=1",
       "summary": "Investors pile into the record-breaking $52bn financing package as yields near 9%",
       "source": "Financial Times",
@@ -1093,6 +1149,14 @@
       "title": "Surprisingly Complex Waves Reveal the Brain's Inner Workings",
       "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
       "summary": "Article URL: https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/\nComments URL: https://news.ycombinator.com/item?id=49912955\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-30T19:04:50+00:00"
+    },
+    {
+      "title": "Surprisingly complex waves reveal the brain's inner workings",
+      "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "summary": "Article URL: https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/\nComments URL: https://news.ycombinator.com/item?id=49912955\nPoints: 86\n# Comments: 22",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-30T19:04:50+00:00"
@@ -1664,6 +1728,22 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-30T14:59:57+00:00"
+    },
+    {
+      "title": "Coltrane's Tone Circle",
+      "link": "https://jtomschroeder.com/blog/tone-circle/",
+      "summary": "Article URL: https://jtomschroeder.com/blog/tone-circle/\nComments URL: https://news.ycombinator.com/item?id=49909908\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-30T14:59:42+00:00"
+    },
+    {
+      "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
+      "link": "https://lathoa.ai/en",
+      "summary": "I made this for kids around 10 to 14. A robot called Errol solves a math problem step by step and one of the steps is wrong. The kid has to find it and say what's wrong with it. Sometimes nothing is wrong, so just saying \"there's a mistake\" every time doesn't work. The user needs to enter an explanation if she finds an error to gain more XP; speed matters also for more points. There is no direct interaction or chatting with an LLM. Lathoa's harness is stable and has many evaluation steps to catch inconsistencies and prompt injections.You can play one on the homepage without signing up.The part that surprised me: it's hard to get an LLM to be wrong on purpose. Half the time it gives you the right answer and calls it wrong, or a \"mistake\" that's actually correct. So every case gets checked before a kid sees it. Where it can, a plain arithmetic check redoes the math exactly. A second model also solves the problem without seeing Errol's work. If anything disagrees, the case is thrown away.The weak spot is that the second model can make the same mistake as the first. The arithmetic check is there for that, but it only works on English cases so far. German and Greek write decimals with a comma and I haven't got the parsing right yet.What I'd really like to know: does finding someone else's mistake teach anything that solving the problem yourself doesn't? I'm not sure, and I'd like to hear from people who teach.\n\nComments URL: https://news.ycombinator.com/item?id=49909648\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-30T14:38:57+00:00"
     },
     {
       "title": "I can't tell who's teaching who anymore",
