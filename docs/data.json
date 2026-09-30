@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T11:07:28.532769+00:00",
+  "generated_at": "2026-09-30T11:24:24.061063+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -522,6 +522,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -572,6 +576,54 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-30T11:30:00+00:00"
+    },
+    {
+      "title": "米、イラクでの任務完了宣言　部隊撤収期限、イラン影響力拡大も",
+      "link": "https://www.jiji.com/jc/article?k=2026093000641&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-30T11:24:11.123942+00:00"
+    },
+    {
+      "title": "妻の遺体切断、医師の男逮捕　死体損壊容疑など―兵庫県警",
+      "link": "https://www.jiji.com/jc/article?k=2026093000967&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-30T11:24:11.123906+00:00"
+    },
+    {
+      "title": "野上士耀選手が死去、１９歳　高卒１年目の捕手―プロ野球オリックス",
+      "link": "https://www.jiji.com/jc/article?k=2026093001018&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-09-30T11:24:11.123853+00:00"
+    },
+    {
+      "title": "‘I’m afraid of human stupidity.’ Why this top economist prefers U.S. tech and gold over bonds.",
+      "link": "https://www.marketwatch.com/story/im-afraid-of-human-stupidity-why-this-top-economist-prefers-u-s-tech-and-gold-over-bonds-30299219?mod=mw_rss_topstories",
+      "summary": "A prominent economist doesn’t fear artificial intelligence, but fully embraces it in portfolios. He feels far differently about government debt.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-30T11:20:00+00:00"
+    },
+    {
+      "title": "Amex Adds AI, Expense Tracking to Corporate Card to Counter Fintech Rivals",
+      "link": "https://www.wsj.com/tech/amex-adds-ai-expense-tracking-to-corporate-card-to-counter-fintech-rivals-1cf54487?mod=rss_markets_main",
+      "summary": "American Express has rolled out an expense-management platform with AI features alongside its new corporate card, as the company’s corporate business faces mounting competition from fintechs.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-30T11:16:00+00:00"
+    },
+    {
+      "title": "Citi tells investors it’s time to sell Moderna after 600%-plus stock gains",
+      "link": "https://www.marketwatch.com/story/citi-tells-investors-its-time-to-sell-moderna-after-600-plus-stock-gains-84cb9b62?mod=mw_rss_topstories",
+      "summary": "Revenue and profit forecasts fail to justify the hype baked into Moderna’s share price, according to Citi’s analysts.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-30T11:12:00+00:00"
     },
     {
       "title": "24時間365日決済可能「オンチェーン金融」実現、フォーラム発足",
@@ -841,6 +893,14 @@
       "title": "There’s a new Wall Street TACO index — and this one is saying it’s time for Trump to strike a deal",
       "link": "https://www.marketwatch.com/story/theres-a-new-wall-street-taco-index-and-this-one-is-saying-its-time-for-trump-to-strike-a-deal-c9ccb3fc?mod=mw_rss_topstories",
       "summary": "JPMorgan has devised a TACO barometer, referring to the expression Trump Always Chickens Out ,as a way to predict the behavior of the mercurial world leader.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-09-30T09:16:00+00:00"
+    },
+    {
+      "title": "There’s a new Wall Street ‘TACO’ index — and this one is saying it’s time for Trump to strike a deal",
+      "link": "https://www.marketwatch.com/story/theres-a-new-wall-street-taco-index-and-this-one-is-saying-its-time-for-trump-to-strike-a-deal-c9ccb3fc?mod=mw_rss_topstories",
+      "summary": "JPMorgan has devised a “TACO” barometer, referring to the expression Trump Always Chickens Out, as a way to predict the behavior of the mercurial world leader.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-30T09:16:00+00:00"
@@ -4788,6 +4848,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-09-29T10:23:33+00:00"
+    },
+    {
+      "title": "NASA asked several former SR-71A staffers to help secret restart",
+      "link": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
+      "summary": "Article URL: https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart\nComments URL: https://news.ycombinator.com/item?id=49890733\nPoints: 186\n# Comments: 179",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-29T10:10:20+00:00"
     },
     {
       "title": "不正会計のニデック、岸田社長が退任　後任に戒田専務執行役員を選定",
