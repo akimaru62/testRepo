@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:45:38.719135+00:00",
+  "generated_at": "2026-09-30T14:09:21.985909+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -566,12 +566,36 @@
       "published": "2026-09-30T16:00:00+00:00"
     },
     {
+      "title": "ニデック決算また「落第」　監査法人が「虚偽説明の役員関与」と指摘",
+      "link": "https://www.asahi.com/articles/ASV9Z44QQV9ZPLFA00HM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-09-30T14:09:16.135350+00:00"
+    },
+    {
       "title": "「AI時代を見据えたオンチェーン金融フォーラム」（第１回）議事次第について公表しました。",
       "link": "https://www.fsa.go.jp/singi/ai_onchain/shiryou/20260930.html",
       "summary": "",
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-09-30T14:00:00+00:00"
+    },
+    {
+      "title": "Natural Gas Falls Below $3/mmBtu Threshold",
+      "link": "https://www.wsj.com/finance/commodities-futures/natural-gas-falls-below-3-mmbtu-threshold-fcb618ce?mod=rss_markets_main",
+      "summary": "Natural gas futures fell below the $3 per million British thermal units threshold.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-30T13:49:00+00:00"
+    },
+    {
+      "title": "Netanyahu says pilot of Israel-bound flight tried to crash the plane",
+      "link": "https://www.ft.com/content/7ed6ed48-79e4-46c2-968f-f2a69d263d35?syn-25a6b1a6=1",
+      "summary": "Plane carrying more than 150 passengers en route to Tel Aviv was diverted to Saudi Arabia after issuing ‘unlawful interference’ code",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-09-30T13:45:19+00:00"
     },
     {
       "title": "Oil Climbs as Middle East Tensions Remain High",
@@ -588,6 +612,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-09-30T13:37:00+00:00"
+    },
+    {
+      "title": "Upgrade your desktop: Ubuntu 26.04.1 LTS is now available",
+      "link": "https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts",
+      "summary": "Article URL: https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts\nComments URL: https://news.ycombinator.com/item?id=49908757\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-30T13:36:37+00:00"
     },
     {
       "title": "学術会議、特殊法人に移行　独立性確保が焦点―菅首相任命拒否が契機",
@@ -1401,6 +1433,14 @@
       "title": "Stock Market Today: Dow Opens Higher After Stronger-Than-Expected GDP Reading",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-30-2026?mod=rss_markets_main",
       "summary": "Fed's preferred inflation gauge held firm in August",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-30T08:25:01+00:00"
+    },
+    {
+      "title": "Stock Market Today: Signs of Strength in U.S. Economy Power Stocks",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-30-2026?mod=rss_markets_main",
+      "summary": "Nasdaq jumps after second-quarter GDP growth revised to 2.2%",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-09-30T08:25:01+00:00"
