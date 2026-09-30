@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T17:49:08.719400+00:00",
+  "generated_at": "2026-09-30T18:10:47.985315+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -542,6 +542,14 @@
       "published": "2026-09-30T18:30:00+00:00"
     },
     {
+      "title": "Mexico Tightens Money-Laundering Rules After U.S. Pressure",
+      "link": "https://www.wsj.com/finance/regulation/mexico-tightens-money-laundering-rules-after-u-s-pressure-6823fdd8?mod=rss_markets_main",
+      "summary": "Experts question whether tougher laws will improve enforcement after a push from the U.S. Treasury and an international body.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-09-30T18:00:00+00:00"
+    },
+    {
       "title": "Why the ‘Halloween Indicator’ isn’t working — and what smart investors are doing instead",
       "link": "https://www.marketwatch.com/story/why-the-halloween-indicator-isnt-working-and-what-smart-investors-are-doing-instead-6d758662?mod=mw_rss_topstories",
       "summary": "Followers of ‘sell in May and go away’ have lost out on a stock rally",
@@ -916,6 +924,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-30T15:10:39+00:00"
+    },
+    {
+      "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
+      "link": "https://strata.do/try/",
+      "summary": "Hello HN, I'm Ajo and I built Strata.I spent 4 years at Netflix solving self service for non-technical business users. I think I cracked it with my unique approach to semantic layer design.  The key challenge is balancing expressiveness with ease of use for our non technical colleagues. It just so happens that focus made it work pretty well with LLMs too.Strata is a full stack solution. It includes a semantic layer, dashboards, subscriptions, and google sheets exports.  All of it can be done view agent conversation or via MCP.Some key concepts and features:\n- Names are strict. Only one thing called Revenue can exist in a project. If revenue is mapped to multiple tables, the query grain plus speed will decide table.\n- Strict naming conventions lends itself to enabling Automatic data blending acrros fact domains.\n- Partition and Aggregate aware semantic routing.  This allows you to load a portion of your data into a faster compute engine like Druid or ClickHose, while keeping full history in trino or something cheaper.  The query engine will choose the faster tier if the query can be resolved there.\n- Complex measures: out of the box support for snapshot, LOD (include/exclude), Compound, and Auto leveling compound measures.\n - On top of the semantic layer users can create custom calculations that span fact domains.\n - Another interesting feature is the ability to create cohorts and apply as filter to an entire query or single measure within a query.We are deliberately not building a semantic layer that your BI tools connect to. I think that is a dead end.  We have apis, and mcp for anything custom you want to build on top.Try it free on docker: https://strata.do/try/\nDocs here to get you going: https://strata.do/docs/This is an early beta version. It is NOT open source. However, the free tier includes up to 25 users.  You should be able to run it entirely on your machine with docker.I would love to hear your feedback. Especially, those working with Looker and Cube.Thanks for reading!\n\nComments URL: https://news.ycombinator.com/item?id=49909913\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-09-30T14:59:57+00:00"
     },
     {
       "title": "I can't tell who's teaching who anymore",
