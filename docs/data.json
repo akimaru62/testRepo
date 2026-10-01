@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T21:07:35.130906+00:00",
+  "generated_at": "2026-10-01T21:25:07.031258+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -542,6 +542,62 @@
   ],
   "items": [
     {
+      "title": "首相動静（１０月１日）",
+      "link": "https://www.jiji.com/jc/article?k=2026100100245&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-01T21:25:01.358912+00:00"
+    },
+    {
+      "title": "AIでよみがえる「まんが日本昔ばなし」　市原悦子さんらの語り再現",
+      "link": "https://www.asahi.com/articles/ASV9X2W0MV9XULFA008M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-01T21:25:01.223124+00:00"
+    },
+    {
+      "title": "WSJ Dollar Index Rises 0.38% to 97.41",
+      "link": "https://www.wsj.com/finance/currencies/yen-consolidates-ahead-of-boj-tankan-bojs-summary-of-opinions-b61eb3ee?mod=rss_markets_main",
+      "summary": "The WSJ Dollar Index rose 0.4% — up for four consecutive trading days.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-01T21:20:00+00:00"
+    },
+    {
+      "title": "現代人を蝕む｢脳疲労｣は実は｢ある部位｣が原因だった！？寝ても疲れている体を90秒でリセットする方法も紹介 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/955597?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "現代人の\"慢性的な疲れ\"の要因は骨盤や肩甲骨ではなく､実は｢あご｣にある——42万件超の症例を持つプロが導いた新常識です。脳と体をリセットするカギは日々のあごケアにあり。無自覚な食いしばり､スマホの…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-01T21:15:00+00:00"
+    },
+    {
+      "title": "Nike to cut jobs as it forecasts revenue decline in the coming year",
+      "link": "https://www.ft.com/content/08eeee4a-903b-4889-92ef-61ebaeea682a?syn-25a6b1a6=1",
+      "summary": "US sneaker and sportswear group to open an India campus under its turnaround plan",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-01T21:11:29+00:00"
+    },
+    {
+      "title": "Nike’s troubles are mounting, and sales could fall further",
+      "link": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
+      "summary": "The company has faced struggles in China and in its sneaker business.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-01T21:09:00+00:00"
+    },
+    {
+      "title": "US deploys thousands of troops to Middle East as Trump weighs strikes on Iran",
+      "link": "https://www.ft.com/content/352e14c5-267d-4c8f-981d-6ae8bea531f9?syn-25a6b1a6=1",
+      "summary": "Aircraft carrier USS Theodore Roosevelt expected to arrive in the region by the end of November, a US official says",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-01T21:05:29+00:00"
+    },
+    {
       "title": "The Global Bond Rout Is Getting Messy",
       "link": "https://www.wsj.com/finance/investing/the-global-bond-rout-is-getting-messy-1c120a5b?mod=rss_markets_main",
       "summary": "Unwinding popular hedge fund trades helped drive U.S. Treasury yields lower, but there is also ‘a faint smell of a crisis in the making.’",
@@ -556,6 +612,46 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-01T21:01:00+00:00"
+    },
+    {
+      "title": "〈日本企業の難題〉AI導入を阻むレガシーとデータ分断の壁どう破る？アクセンチュアとSansanに託された｢日本型変革｣ | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959749?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "SaaS企業の代表格として知られるセールスフォース。その日本法人は売上高3000億円を超え、日系上場企業やスタートアップなどを押さえて国内最大のSaaS企業だ。同社を長年舵取りする小出伸一会長兼社長…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-01T21:00:00+00:00"
+    },
+    {
+      "title": "｢ロシア財政｣原油高の恩恵を得られず､金保有は急減！｢与党大勝｣でも困難極めるプーチン | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959678?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ロシア総選挙で与党･統一ロシアは圧倒的勝利を収めたものの､実態は経済悪化と財政難に直面している現状が浮き彫りに。原油高も追い風とならず､戦費拡大で財政の健全化は遠のくばかりです。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-01T21:00:00+00:00"
+    },
+    {
+      "title": "アサヒGHD社長｢競合はキリンではなく海外巨頭とスマホ｣…スーパードライの｢次なる一手｣は？【インタビュー前編】 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959584?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "――いよいよ10月の酒税一本化を迎えました。「スーパードライ」をリニューアルし、新たなブランド「ビタリスト」や「アサヒゴールド」も相次いで発売しました。ただ、新たなブランドは苦戦しており、「スーパー…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-01T21:00:00+00:00"
+    },
+    {
+      "title": "28年ぶりの円買い協調介入､1998年･2011年との比較で見えるアメリカの姿勢と国際協調の行方 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959505?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "28年ぶりとなった円買い協調介入。過去の事例を振り返ると､アメリカの国際協調への姿勢の変化が浮かび上がります。国益がぶつかり合う中､危機の局面で基軸通貨国は動くのかを考えます。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-01T21:00:00+00:00"
+    },
+    {
+      "title": "｢引き継いだのに…｣　2カ月の男性育休から復帰したらプロジェクトが\"完全放置\"　人事が悩む数カ月育休の難しい舵取り | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959154?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "育休から復帰したとき､待っていたのは先送りされた仕事と夜遅くまでの残業の日々。職場の本質的な課題や､制度だけでは解決しない現実を､あなたはどう考えますか？",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-01T21:00:00+00:00"
     },
     {
       "title": "Here’s how much more groceries, clothing and household appliances could cost as diesel prices keep surging",
@@ -612,6 +708,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-10-01T20:45:00+00:00"
+    },
+    {
+      "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+      "link": "https://github.com/Vibra-Ingenn/Janus",
+      "summary": "Article URL: https://github.com/Vibra-Ingenn/Janus\nComments URL: https://news.ycombinator.com/item?id=49926773\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-01T20:36:47+00:00"
     },
     {
       "title": "Treasurys Selloff Takes a Pause Ahead of Jobs Report",
@@ -780,6 +884,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-01T19:24:08+00:00"
+    },
+    {
+      "title": "プーチン氏、対話によるウクライナ紛争解決望む ウ中立化求める - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPajFnTGsyUlRWUzJsR2ZfOC15U2wwajc4S2hJYnFqdk9uc19ocE9GZ1RHMFlNZk8xb1ozaXFSelpzQ0M1QlJOb21rd3d6YWQ5V3lNSnQ2MW1EZVpLSGdvck8yaEZDQU83ZVhYZ2szWTBjZGtOdWsyR3l5MDZaZlV2SFVPdWs?oc=5",
+      "summary": "プーチン氏、対話によるウクライナ紛争解決望む ウ中立化求める&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-01T19:10:10+00:00"
     },
     {
       "title": "Oxygen-deprived underwater zones may not be \"dead zones\" but clue to early life",
