@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T21:37:48.877327+00:00",
+  "generated_at": "2026-10-01T21:49:40.731626+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -542,6 +542,30 @@
   ],
   "items": [
     {
+      "title": "Opinion | The Other Threat to Fed Independence",
+      "link": "https://www.wsj.com/opinion/the-other-threat-to-fed-independence-10f1adaf?mod=rss_markets_main",
+      "summary": "Democrats are trying to politicize a process that has been apolitical: supervisory oversight of bank holding companies.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-01T21:47:00+00:00"
+    },
+    {
+      "title": "｢49億円かけて建設→人気低迷で大赤字→閉鎖の憂き目に｣…横浜ベイブリッジにぶら下がる｢謎の遊歩道｣が復活するまで | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959520?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "横浜ベイブリッジに併設された遊歩道｢スカイウォーク｣は､開業当初の賑わいから一転､閉鎖と再開を繰り返しながらも､時代の変化とともに新たな役割を担い続けてきました。巨大インフラの裏に隠された物語と今､…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-01T21:45:00+00:00"
+    },
+    {
+      "title": "｢想像を超える激痛｣｢妊娠禁止｣順調な結婚生活を一変させた原因不明の\"異常妊娠\"…35歳女性が｢母になる｣夢を叶えるまで | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959612?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢パパとママになる｣──幸福な期待から一転､Nさんを襲ったのは｢胞状奇胎｣という異常妊娠でした。手術や抗がん剤治療､そして再び訪れる妊娠への不安…夫婦で選んだその先の人生を伺いました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-01T21:30:00+00:00"
+    },
+    {
       "title": "The hidden silver lining of high interest rates: safer, cheaper retirement income",
       "link": "https://www.marketwatch.com/story/the-hidden-silver-lining-of-high-interest-rates-safer-cheaper-retirement-income-36e2e077?mod=mw_rss_topstories",
       "summary": "Annuity payout rates are closely tied to interest rates",
@@ -564,6 +588,22 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-01T21:25:01.223124+00:00"
+    },
+    {
+      "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+      "link": "https://www.cssbed.com",
+      "summary": "Article URL: https://www.cssbed.com\nComments URL: https://news.ycombinator.com/item?id=49927212\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-01T21:21:32+00:00"
+    },
+    {
+      "title": "US sanctions Kremlin-backed fintech A7 for allegedly assisting Iran",
+      "link": "https://www.ft.com/content/29e2d078-4476-41f2-a180-faf0b2001068?syn-25a6b1a6=1",
+      "summary": "Payments group that moved almost $7bn through global banks designated a transnational criminal organisation",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-01T21:20:36+00:00"
     },
     {
       "title": "WSJ Dollar Index Rises 0.38% to 97.41",
@@ -732,6 +772,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-01T20:36:47+00:00"
+    },
+    {
+      "title": "Show HN: Rhun, an open-source code editor written in assembly",
+      "link": "https://rhun.app/",
+      "summary": "I found that I'm not using even 1/3 of vim/vscode features anymore.That's wht I'm building rhun - a small code editor for Linux, Windows and Apple silicon Macs. It obviously has Vim mode, a terminal, Git diffs and a panel for Claude Code or Codex sessions.The editor and pixel renderer share an x86-64 assembly core. For Apple silicon, a build-time translator converts that core to AArch64, with separate platform adapters around it.\nThe latest release can draft commit messages using a local Ollama model or an existing Claude Code or Codex subscription.It's a solo project, MIT licensed and still early.\n\nComments URL: https://news.ycombinator.com/item?id=49926726\nPoints: 7\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-01T20:32:18+00:00"
     },
     {
       "title": "Treasurys Selloff Takes a Pause Ahead of Jobs Report",
@@ -908,6 +956,22 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-01T19:10:10+00:00"
+    },
+    {
+      "title": "プーチン氏、対話によるウクライナ紛争解決望む ウ中立化求める - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPajFnTGsyUlRWUzJsR2ZfOC15U2wwajc4S2hJYnFqdk9uc19ocE9GZ1RHMFlNZk8xb1ozaXFSelpzQ0M1QlJOb21rd3d6YWQ5V3lNSnQ2MW1EZVpLSGdvck8yaEZDQU83ZVhYZ2szWTBjZGtOdWsyR3l5MDZaZlV2SFVPdWs?oc=5",
+      "summary": "プーチン氏、対話によるウクライナ紛争解決望む ウ中立化求める&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-01T19:10:10+00:00"
+    },
+    {
+      "title": "Effect 4.0",
+      "link": "https://effect.website/blog/releases/effect/40",
+      "summary": "Article URL: https://effect.website/blog/releases/effect/40\nComments URL: https://news.ycombinator.com/item?id=49925812\nPoints: 12\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-01T19:10:07+00:00"
     },
     {
       "title": "Oxygen-deprived underwater zones may not be \"dead zones\" but clue to early life",
