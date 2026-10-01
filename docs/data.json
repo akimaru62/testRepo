@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T19:47:48.814986+00:00",
+  "generated_at": "2026-10-01T20:09:08.517092+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -541,6 +541,54 @@
     }
   ],
   "items": [
+    {
+      "title": "Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview)",
+      "link": "https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/",
+      "summary": "Introducing the public preview of AWS Well-Architected Agent, an AI-powered service that analyzes your AWS environment to deliver targeted, contextual recommendations for improving your applications' cost, security, performance, and resilience—with ready-to-implement fixes aligned to your business goals.",
+      "source": "AWS ブログ (AWS)",
+      "category": "テクノロジー",
+      "published": "2026-10-01T20:04:04+00:00"
+    },
+    {
+      "title": "Oil Climbs as U.S. Sends Another Aircraft Carrier to Middle East",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-supply-concerns-persist-despite-middle-east-crude-exports-recovering-to-prewar-levels-067a47d8?mod=rss_markets_main",
+      "summary": "Oil prices extended gains after The Wall Street Journal reported that the Pentagon has deployed a third aircraft carrier to the Middle East, adding as many as 10,000 American troops to the region.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-01T20:02:00+00:00"
+    },
+    {
+      "title": "2020→2025年｢人口増加数が大きい自治体｣ランキング…5位は神奈川県川崎市､4位は茨城県つくば市､ではトップ3は？ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959845?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "人口減少が叫ばれる中､着実に人口を増やしている自治体があります。大阪市や福岡市､首都圏の都市が上位に並ぶ中､特に驚異的な増加率を示した街も。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-01T20:00:00+00:00"
+    },
+    {
+      "title": "Why Are Diesel Prices Soaring and What Would a U.S. Export Ban Do?",
+      "link": "https://www.wsj.com/finance/commodities-futures/why-are-diesel-prices-soaring-and-what-would-a-u-s-export-ban-do-e453fd47?mod=rss_markets_main",
+      "summary": "Wars in the Middle East and Ukraine have blocked shipments from regions that normally supply almost a third of the world’s diesel exports.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-01T19:51:00+00:00"
+    },
+    {
+      "title": "US mortgage rates jump the most in four years in blow to housing market",
+      "link": "https://www.ft.com/content/22779c05-8bda-423e-b5bf-6839d597f499?syn-25a6b1a6=1",
+      "summary": "Homebuilders and prospective buyers continue to face challenging market conditions with midterms looming weeks away",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-01T19:41:01+00:00"
+    },
+    {
+      "title": "Pi 1.0",
+      "link": "https://earendil.com/posts/pi-1-0/",
+      "summary": "Article URL: https://earendil.com/posts/pi-1-0/\nComments URL: https://news.ycombinator.com/item?id=49926069\nPoints: 47\n# Comments: 12",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-01T19:33:05+00:00"
+    },
     {
       "title": "東電福島第１原発、２号機内部調査２日開始　ロボットアーム投入へ",
       "link": "https://www.jiji.com/jc/article?k=2026100101073&g=soc&m=rss",
