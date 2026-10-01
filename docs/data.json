@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T16:28:13.658384+00:00",
+  "generated_at": "2026-10-01T16:43:08.549037+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -574,7 +574,31 @@
       "published": "2026-10-01T16:24:00+00:00"
     },
     {
+      "title": "Clef: our open-source decision models",
+      "link": "https://blog.cloudflare.com/clef-decision-models/",
+      "summary": "Article URL: https://blog.cloudflare.com/clef-decision-models/\nComments URL: https://news.ycombinator.com/item?id=49923692\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-01T16:18:57+00:00"
+    },
+    {
+      "title": "Canada fast-tracks Pacific oil pipeline to reduce US dependence",
+      "link": "https://apnews.com/article/alberta-canada-carney-pipeline-68539133d6e0245fad3622263afd4aeb",
+      "summary": "Article URL: https://apnews.com/article/alberta-canada-carney-pipeline-68539133d6e0245fad3622263afd4aeb\nComments URL: https://news.ycombinator.com/item?id=49923575\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-01T16:10:00+00:00"
+    },
+    {
       "title": "30-year mortgage rate posts biggest jump in four years",
+      "link": "https://www.marketwatch.com/story/30-year-mortgage-rate-posts-biggest-jump-in-four-years-e288f596?mod=mw_rss_topstories",
+      "summary": "Mortgage rates surged to roughly a three-year high, a fresh setback for an already depressed housing market.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-01T16:06:00+00:00"
+    },
+    {
+      "title": "30-year mortgage rate posts biggest jump in four years — to nearly 7.3%",
       "link": "https://www.marketwatch.com/story/30-year-mortgage-rate-posts-biggest-jump-in-four-years-e288f596?mod=mw_rss_topstories",
       "summary": "Mortgage rates surged to roughly a three-year high, a fresh setback for an already depressed housing market.",
       "source": "MarketWatch",
@@ -1028,6 +1052,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-01T12:42:00+00:00"
+    },
+    {
+      "title": "VALU.C - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82RjluQnZTd184a2owdl9LXzF6cVVLaWFia3ZGN2w3UUNUenpxck14c1MzVGo2U04yZEFUMDBMUjdrUTVCNG93c25TVm9vbkVnMmxhbks3d3hsbGJ4c0g3UkwzVkpqU1h2clk4c05lTG1OTF9QYXc?oc=5",
+      "summary": "VALU.C&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-01T12:32:08+00:00"
     },
     {
       "title": "France Is Ground Zero in the Global Bond Rout",
@@ -2268,6 +2300,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-01T04:17:41+00:00"
+    },
+    {
+      "title": "japr.ns - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81b0NMcTdkcW8xQ2FvLVoyLVBFWlhBbmU2ekItM1NiQ0dTcnRoXzNtYXlXNkwzc213aU5rQkY4T2lzSnlzQVh4djU5MWZDOThpU3gzc1JQY0RxX25nNFdWbG1naWhSLTNPM3FPUXN3?oc=5",
+      "summary": "japr.ns&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-01T04:16:35+00:00"
     },
     {
       "title": "Tennessee inmate still alive after being administered two lethal injections",
