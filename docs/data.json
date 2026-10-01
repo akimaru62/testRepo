@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T17:07:37.304727+00:00",
+  "generated_at": "2026-10-01T17:25:09.703291+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -542,6 +542,22 @@
   ],
   "items": [
     {
+      "title": "Trump’s SEC wants to allow fund managers to charge extra fees for better performance. Here’s why it’s a terrible idea.",
+      "link": "https://www.marketwatch.com/story/trumps-sec-wants-to-allow-fund-managers-to-charge-extra-fees-for-better-performance-heres-why-its-a-terrible-idea-61f6e0cc?mod=mw_rss_topstories",
+      "summary": "Think twice before embracing any new fund with high performance-related fees in your 401(k).",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-01T17:16:00+00:00"
+    },
+    {
+      "title": "ParadeDB Search Performance Improvements",
+      "link": "https://www.paradedb.com/blog/opening-a-closed-tin",
+      "summary": "Article URL: https://www.paradedb.com/blog/opening-a-closed-tin\nComments URL: https://news.ycombinator.com/item?id=49924275\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-01T17:05:01+00:00"
+    },
+    {
       "title": "国際関係,バーゼル銀行監督委員会による「バーゼルⅢモニタリングレポート」について公表しました。",
       "link": "https://www.fsa.go.jp/inter/bis/20261001/20261001.html",
       "summary": "",
@@ -556,6 +572,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-01T17:00:00+00:00"
+    },
+    {
+      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+      "link": "https://blog.gitbutler.com/git-3-sha-256",
+      "summary": "Article URL: https://blog.gitbutler.com/git-3-sha-256\nComments URL: https://news.ycombinator.com/item?id=49924179\nPoints: 18\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-01T16:57:03+00:00"
     },
     {
       "title": "This couple took out an adjustable-rate mortgage when rates were over 8%. Here’s how it worked out.",
@@ -628,6 +652,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-01T16:18:57+00:00"
+    },
+    {
+      "title": "Lightweight PDF parser with layout, tables, formulas and bounding boxes",
+      "link": "https://github.com/beatrizalmeidaf/papero-pdf-text-extractor",
+      "summary": "Article URL: https://github.com/beatrizalmeidaf/papero-pdf-text-extractor\nComments URL: https://news.ycombinator.com/item?id=49923638\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-01T16:14:40+00:00"
     },
     {
       "title": "Canada fast-tracks Pacific oil pipeline to reduce US dependence",
@@ -758,6 +790,14 @@
       "published": "2026-10-01T15:11:43+00:00"
     },
     {
+      "title": "米建設支出、8月は前月比0.9％増と予想外の伸び 非住宅がけん引 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZHhKd0haRS03ZFBFLU5hMDc5Q2U0eHUyUWg2aDEzUTZTUXdJaXRaV080UlMzWC15MDdMTWE5akdMb0JTeFFEN0N5UUxMdjZFaFBpOGl2UGZyVUJrTEdpX1QwUHZ2NlVJT0pubG9zYm9PQmtJTFoxUWhFZGk0QnVwNnhaZWE?oc=5",
+      "summary": "米建設支出、8月は前月比0.9％増と予想外の伸び 非住宅がけん引&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-01T15:11:43+00:00"
+    },
+    {
       "title": "OpenID Foundation: Identity Management for Agentic AI [pdf]",
       "link": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
       "summary": "Article URL: https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf\nComments URL: https://news.ycombinator.com/item?id=49922736\nPoints: 3\n# Comments: 1",
@@ -769,6 +809,14 @@
       "title": "OpenID Foundation: Identity Management for Agentic AI [pdf] (2025)",
       "link": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
       "summary": "Article URL: https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf\nComments URL: https://news.ycombinator.com/item?id=49922736\nPoints: 23\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-01T15:11:10+00:00"
+    },
+    {
+      "title": "Identity Management for Agentic AI [pdf] (2025)",
+      "link": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+      "summary": "Article URL: https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf\nComments URL: https://news.ycombinator.com/item?id=49922736\nPoints: 41\n# Comments: 6",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-01T15:11:10+00:00"
@@ -806,12 +854,28 @@
       "published": "2026-10-01T15:02:51+00:00"
     },
     {
+      "title": "Ask HN: Who wants to be hired? (October 2026)",
+      "link": "https://news.ycombinator.com/item?id=49922568",
+      "summary": "Share your information if you are looking for work. Please use this format:  Location:\n  Remote:\n  Willing to relocate:\n  Technologies:\n  Résumé/CV:\n  Email:\n\nPlease only post if you are personally looking for work. Agencies, recruiters, job boards,\nand so on, are off topic here.Readers: please only email these addresses to discuss work opportunities.Searchers: try https://nthesis.ai/public/hn-wants-to-be-hired, https://www.wantstobehired.com.\n\nComments URL: https://news.ycombinator.com/item?id=49922568\nPoints: 20\n# Comments: 97",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-01T15:02:07+00:00"
+    },
+    {
       "title": "RacketCon Is Saturday",
       "link": "https://con.racket-lang.org/",
       "summary": "Article URL: https://con.racket-lang.org/\nComments URL: https://news.ycombinator.com/item?id=49922515\nPoints: 7\n# Comments: 1",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-01T14:58:13+00:00"
+    },
+    {
+      "title": "Context Language Models",
+      "link": "https://arxiv.org/abs/2609.37725",
+      "summary": "Article URL: https://arxiv.org/abs/2609.37725\nComments URL: https://news.ycombinator.com/item?id=49922437\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-01T14:51:33+00:00"
     },
     {
       "title": "September jobs report may show labor market is on the mend — but it’s far from cured",
@@ -1116,6 +1180,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-01T12:42:00+00:00"
+    },
+    {
+      "title": "vct.nz - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9obFVBYVdnOFJHdkVhVzFIYzdxdGJFa05qY29raXJyUEhsMUgzMVMtQ2dOMW9mTlJJM2V5VWZXYkVXT00yd1RZNlpick8yanVkNGZiUlRscDdJOFJsR1BxQmFsb2l5bkNaX2VsQ2ZzbUNNWHdQdlE?oc=5",
+      "summary": "vct.nz&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-01T12:33:36+00:00"
     },
     {
       "title": "VALU.C - jp.reuters.com",
@@ -2382,6 +2454,14 @@
       "published": "2026-10-01T04:16:35+00:00"
     },
     {
+      "title": "japr.ns - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81b0NMcTdkcW8xQ2FvLVoyLVBFWlhBbmU2ekItM1NiQ0dTcnRoXzNtYXlXNkwzc213aU5rQkY4T2lzSnlzQVh4djU5MWZDOThpU3gzc1JQY0RxX25nNFdWbG1naWhSLTNPM3FPUXN3?oc=5",
+      "summary": "japr.ns&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-01T04:16:35+00:00"
+    },
+    {
       "title": "Tennessee inmate still alive after being administered two lethal injections",
       "link": "https://www.nbcnews.com/news/us-news/ahead-rare-execution-lone-woman-tennessee-death-row-says-peace-rcna600279",
       "summary": "Article URL: https://www.nbcnews.com/news/us-news/ahead-rare-execution-lone-woman-tennessee-death-row-says-peace-rcna600279\nComments URL: https://news.ycombinator.com/item?id=49917662\nPoints: 8\n# Comments: 3",
@@ -2910,6 +2990,14 @@
       "published": "2026-10-01T01:20:00+00:00"
     },
     {
+      "title": "MFTIol.NS - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX2NoSTZtb2lmV0JuOW41WkROZGxCQjk5MllpN2JaSHFzUFUtVXh6R2tXVExWSVR3dGlXdjNtR2dvdUg3a1g5dkJCeER6T3d5RWlXV0lSeWl0bzE0bG5tSGRpczQ0N0xWcGRGNWhEeVQxdjdySERfQmFQemtNUlJVNkFHdGdRbGRfTFE?oc=5",
+      "summary": "MFTIol.NS - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-01T01:12:10+00:00"
+    },
+    {
       "title": "韓国輸出、9月は前年比83.5％増で過去最高 半導体がけん引 - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY2tHU2V2b2g3aDhJWXBiYjEycFRUSW93Qjh3cW41LU8wTWE5WjBUZGkzUFc4dTU4X3FLQTNDRjUwTlUydUEwUWtnTkd4Qmo0WnFidW50bm9HN3JTWHZJZDdKY3RkMFlPVFpqVW1qZ0FkZjdVM0RiOWs2dEZhcTZvRE05STk?oc=5",
       "summary": "韓国輸出、9月は前年比83.5％増で過去最高 半導体がけん引&nbsp;&nbsp;jp.reuters.com",
@@ -3393,6 +3481,14 @@
       "title": "0535.HK - | Stock Price & Latest News - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWUN5SlVSekd1aXFma3dRb3NCMGRJTS11LVZUS19ZbWlrRkZyUEZmUjJJVFUtRW5CakFpdjJuV1lyWmMzV19LTlVvRmlOMUZSMzBiNHY0RmF0ZjUtaU9EN0puOGZLci1WYmZITEpuYVpHLUJlTFlZM2t4QTZHZzNfNG02Zw?oc=5",
       "summary": "0535.HK - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-30T21:43:34+00:00"
+    },
+    {
+      "title": "0535.HK - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWUN5SlVSekd1aXFma3dRb3NCMGRJTS11LVZUS19ZbWlrRkZyUEZmUjJJVFUtRW5CakFpdjJuV1lyWmMzV19LTlVvRmlOMUZSMzBiNHY0RmF0ZjUtaU9EN0puOGZLci1WYmZITEpuYVpHLUJlTFlZM2t4QTZHZzNfNG02Zw?oc=5",
+      "summary": "0535.HK - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-09-30T21:43:34+00:00"
