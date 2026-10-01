@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T01:23:15.652341+00:00",
+  "generated_at": "2026-10-01T01:58:59.232710+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -552,6 +552,46 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-01T10:00:00+00:00"
+    },
+    {
+      "title": "イオン系列「まいばす」など一部店舗でクレカやWAON使えず",
+      "link": "https://www.asahi.com/articles/ASVB10DPNVB1ULFA00DM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-01T01:58:52.669863+00:00"
+    },
+    {
+      "title": "【そもそも解説】日銀短観って？市場注目の統計、利上げ判断材料にも",
+      "link": "https://www.asahi.com/articles/ASV6Z7X1WV6ZULFA031M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-01T01:58:52.669827+00:00"
+    },
+    {
+      "title": "米マテルのＣＥＯが退任、パラマウントの共同トップに - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaWFBZ2Z2Zllqc3Ztb0p4NzVWNlFHSjdzNGlCTXZ6alRBZjRrNGlIUVczOXdlSXF0NnBVWVVXZ2pOd2dzb1VGcndQTGlTQkE0VEI5MHV3TDJLUFY4UE5KeENaR3UzZ0ROWjBQVFdKaTA3OW1OZTlxVGstUVNmbEl3enROMTk?oc=5",
+      "summary": "米マテルのＣＥＯが退任、パラマウントの共同トップに&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-01T01:50:00+00:00"
+    },
+    {
+      "title": "｢どこで買える？｣と探す人続出…｢ブラックサンダー｣の有楽製菓が放つ80円の\"プチ贅沢\"｢ミルクマニア｣､静かなる爆売れ | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959198?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢ブラックサンダー｣で知られる有楽製菓から登場した新チョコバー｢ミルクマニア｣が､発売約7カ月で累計1000万本を突破する大ヒットに。濃厚なミルク感が話題を呼ぶ一方､手に入りづらい\"レア感\"も人気の…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-01T01:30:00+00:00"
+    },
+    {
+      "title": "30年利付国債（10月債）の発行予定額等（令和8年10月1日公表）",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20261001.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-01T01:30:00+00:00"
     },
     {
       "title": "無人機対応の統合軍創設　米長官、将官２０％削減も表明",
@@ -2106,6 +2146,14 @@
       "published": "2026-09-30T15:27:00+00:00"
     },
     {
+      "title": "ZIOC.L - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYXYxb01wTVk0ZVpSRmVSbTY3d2hCVDBiTFI4b1Mwdjc3N0VQR3ZuQ1dvXy1yMEh1b3BEd04xd09oYVdFYVYxck9wbk9LTHMtX0ZsSE5GVTNOcjFSdGJxNThCNGZxbTRXSDFfSmhzUTMyZERqYkcwZDVXMGVUQk5mLQ?oc=5",
+      "summary": "ZIOC.L&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-09-30T15:26:03+00:00"
+    },
+    {
       "title": "When the 4% Rule for Spending in Retirement Works—and When It Doesn’t",
       "link": "https://www.wsj.com/finance/investing/retirement-4-percent-rule-dbdc9297?mod=rss_markets_main",
       "summary": "We find an 81.5% success rate when stocks are rising and inflation is modest. The chances of success plunge if inflation is elevated or markets are soft.",
@@ -2120,6 +2168,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-09-30T15:10:39+00:00"
+    },
+    {
+      "title": "Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware",
+      "link": "https://azure.microsoft.com/en-us/blog/responsible-infrastructure-at-hyperscale-managing-the-full-lifecycle-of-azure-hardware/",
+      "summary": "Microsoft is advancing Azure cloud infrastructure with more efficient systems and Circular Centers that extend the useful life of datacenter hardware.\nThe post Responsible infrastructure at hyperscale: Managing the full lifecycle of Azure hardware appeared first on Microsoft Azure Blog.",
+      "source": "Azure ブログ",
+      "category": "テクノロジー",
+      "published": "2026-09-30T15:00:00+00:00"
     },
     {
       "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
