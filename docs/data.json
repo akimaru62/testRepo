@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T15:28:03.332068+00:00",
+  "generated_at": "2026-10-01T15:43:53.409713+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -558,6 +558,14 @@
       "published": "2026-10-01T17:00:00+00:00"
     },
     {
+      "title": "Accelerating airline retailing innovation: how Datalex modernized with AWS Experience-Based Acceleration and agentic AI",
+      "link": "https://aws.amazon.com/blogs/architecture/accelerating-airline-retailing-innovation-how-datalex-modernized-with-aws-experience-based-acceleration-and-agentic-ai/",
+      "summary": "Datalex, a leader in airline ecommerce, partnered with AWS on a three-day Experience-Based Acceleration (EBA) workshop to prove modernization feasibility. Learn how they migrated a core reservation component from EJB/Java 8 to Spring Boot/Java 21, built a secure CI/CD pipeline, added observability, and integrated agentic AI.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-10-01T15:37:06+00:00"
+    },
+    {
       "title": "２日の予告先発投手　プロ野球パ・リーグ",
       "link": "https://www.jiji.com/jc/article?k=2026100100924&g=spo&m=rss",
       "summary": "",
@@ -614,6 +622,14 @@
       "published": "2026-10-01T15:11:10+00:00"
     },
     {
+      "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
+      "link": "https://twitter.com/GayaniFigma/status/2105295629941350454",
+      "summary": "Article URL: https://twitter.com/GayaniFigma/status/2105295629941350454\nComments URL: https://news.ycombinator.com/item?id=49922729\nPoints: 14\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-01T15:10:46+00:00"
+    },
+    {
       "title": "10 technical talks I’m excited about at GitHub Universe 2026",
       "link": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/",
       "summary": "From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around.\nThe post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitHub Blog.",
@@ -628,6 +644,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-01T15:02:51+00:00"
+    },
+    {
+      "title": "RacketCon Is Saturday",
+      "link": "https://con.racket-lang.org/",
+      "summary": "Article URL: https://con.racket-lang.org/\nComments URL: https://news.ycombinator.com/item?id=49922515\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-01T14:58:13+00:00"
     },
     {
       "title": "September jobs report may show labor market is on the mend — but it’s far from cured",
