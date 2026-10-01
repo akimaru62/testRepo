@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T10:08:47.443059+00:00",
+  "generated_at": "2026-10-01T10:28:19.827546+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -534,6 +534,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fa3e46df620>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7ff9322378c0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -552,6 +556,54 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-01T17:00:00+00:00"
+    },
+    {
+      "title": "採算性なければアラスカＬＮＧ投資せず　韓国高官、米に遺憾表明",
+      "link": "https://www.jiji.com/jc/article?k=2026100100964&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-01T10:28:15.145717+00:00"
+    },
+    {
+      "title": "投票機会喪失「数千人規模」　国民民主が代表選検証結果",
+      "link": "https://www.jiji.com/jc/article?k=2026100100936&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-01T10:28:15.145696+00:00"
+    },
+    {
+      "title": "「ＧＰＳジャマー」設置容疑で男摘発　自動車盗で追跡逃れか、全国初―大阪府警",
+      "link": "https://www.jiji.com/jc/article?k=2026100100948&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-01T10:28:15.145650+00:00"
+    },
+    {
+      "title": "Here’s Why the Fed Is on Hold—Maybe for a While",
+      "link": "https://www.wsj.com/finance/investing/heres-why-the-fed-is-on-holdmaybe-for-a-while-97456ce8?mod=rss_markets_main",
+      "summary": "Plus, financial warnings lights flash in France",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-01T10:23:00+00:00"
+    },
+    {
+      "title": "ニデック戒田社長｢｢ものづくり､人づくりそして品質を第一にした会社に戻す｣…監査意見取得へ月内の課題解消目指す | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959885?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "不正会計問題で揺れるニデックが､上場維持の鍵となる監査法人からの適正意見取得に苦戦しています。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-01T10:20:00+00:00"
+    },
+    {
+      "title": "Oracle has reportedly signed a $7 billion deal with Tencent. It could provide relief for the troubled stock.",
+      "link": "https://www.marketwatch.com/story/oracle-has-reportedly-signed-a-7-billion-deal-with-tencent-it-could-provide-relief-for-the-troubled-stock-abd428f5?mod=mw_rss_topstories",
+      "summary": "Tencent signed a five-year deal which allows it to access artificial-intelligence chips not previously available in the country, according to the Financial Times.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-01T10:10:00+00:00"
     },
     {
       "title": "JERA、発電所敷地に国内最大級のDC建設へ　米デルなどと共同で",
@@ -623,6 +675,14 @@
       "summary": "",
       "source": "金融庁",
       "category": "公的機関",
+      "published": "2026-10-01T10:00:00+00:00"
+    },
+    {
+      "title": "【また160円台に接近】為替介入でも利上げでも「円安回帰」の傾向が変わらぬ理由／日銀が「“タカ派”になりきれなかった」影響度／日米「追加利上げ」の焦点／中間選挙後の「トランプ暴走リスク」 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959895?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "9月前半に一時152円台まで円高が進んだドル円相場。ただ、その後はまた円安方向に戻り、9月19日週には159円台をつける場面もあった。為替介入や利上げ観測で一時円高方向に動いても、ほどなく円安方向に…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
       "published": "2026-10-01T10:00:00+00:00"
     },
     {
@@ -1685,6 +1745,14 @@
       "title": "076610.kq - | Stock Price & Latest News - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVEV0eUhFT25MX3FwWG9OWnBwdThjWTlpYjYwbk9tUjRqRjA1aVJzcG9pb2JjWm90YW1uZHFqZ0VyVVhuUXgwZVE3THdnWXl1Qkl5VFlTVXJncUFTSW9ORm9sNGQ5NFFTTjlxOU43RUIwV2RiYXltU3p0bldqYUhVMF9xcFpiTE85?oc=5",
       "summary": "076610.kq - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-01T02:45:52+00:00"
+    },
+    {
+      "title": "076610.kq - | Stock Price & Latest News - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVEV0eUhFT25MX3FwWG9OWnBwdThjWTlpYjYwbk9tUjRqRjA1aVJzcG9pb2JjWm90YW1uZHFqZ0VyVVhuUXgwZVE3THdnWXl1Qkl5VFlTVXJncUFTSW9ORm9sNGQ5NFFTTjlxOU43RUIwV2RiYXltU3p0bldqYUhVMF9xcFpiTE85?oc=5",
+      "summary": "076610.kq - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-01T02:45:52+00:00"
