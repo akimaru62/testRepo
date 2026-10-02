@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T06:47:29.840462+00:00",
+  "generated_at": "2026-10-02T07:14:27.207638+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -542,9 +542,61 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f96ed718050>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "消費減税「反対ありき」否定　国民・榛葉氏、協議前向き",
+      "link": "https://www.jiji.com/jc/article?k=2026100200702&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-02T07:14:14.371308+00:00"
+    },
+    {
+      "title": "「赤い羽根」閣僚ら着用自粛　北海道募金会の横領疑惑受け",
+      "link": "https://www.jiji.com/jc/article?k=2026100200680&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-02T07:14:14.371268+00:00"
+    },
+    {
+      "title": "【更新中】東北の地銀3行、経営統合に向け協議開始　会見で正式表明",
+      "link": "https://www.asahi.com/articles/ASVB202MJVB2ULFA005M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-02T07:14:14.175943+00:00"
+    },
+    {
+      "title": "Dunamu CEO Urges South Korea to Move Quickly on Won-Backed Stablecoins",
+      "link": "https://www.wsj.com/finance/currencies/dunamu-ceo-urges-south-korea-to-move-quickly-on-won-backed-stablecoins-8c59864e?mod=rss_markets_main",
+      "summary": "Dunamu is preparing to provide technology and distribution support for stablecoins once the necessary legal and regulatory framework is in place, CEO Oh Kyoung-suk said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-02T07:07:00+00:00"
+    },
+    {
+      "title": "国民民主･玉木代表はなぜ急に政権と距離を取ったのか？ ｢連立不参加｣｢減税は筋悪｣｢議席削減はゲリマンダー｣発言の真意 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959994?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "次期臨時国会の召集を目前に控える中､国民民主党の玉木雄一郎代表が連立入りを明確に否定。中央政界に波紋が広がっています。党内外の駆け引きが激化する中､玉木氏はなぜ急に高市政権と距離を取り始めたのでしょ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-02T07:00:00+00:00"
+    },
+    {
+      "title": "Dollar Eases Ahead of Key U.S. Payrolls Data",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-higher-oil-prices-d339a0e9?mod=rss_markets_main",
+      "summary": "The dollar eased after reaching a near 18-month high Thursday as markets trimmed lofty expectations for U.S. interest-rate rises.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-02T06:49:00+00:00"
+    },
     {
       "title": "timelesz猪俣周杜の契約解除､広島カープ4選手の戦力外…《疑惑の段階で即切り捨て》が示す､｢見られる職業｣の厳しさ | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/959971?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -861,6 +913,14 @@
       "title": "Quant hedge funds reap big gains from global bond sell-off",
       "link": "https://www.ft.com/content/75b0ab84-a252-4ea1-9058-c9ee7ca07f4f?syn-25a6b1a6=1",
       "summary": "Trend-following portfolios have latched on to sharp rise in yields this year as Iran war and strong US economic data fuel inflation fears",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-02T04:00:23+00:00"
+    },
+    {
+      "title": "French schools burn as student unrest spreads",
+      "link": "https://www.ft.com/content/38176237-e89f-410c-979c-c8c5d68d041a?syn-25a6b1a6=1",
+      "summary": "Prime Minister  Sébastien Lecornu and far-right leader Marine Le Pen blame far-left party for stoking protests",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-02T04:00:23+00:00"
