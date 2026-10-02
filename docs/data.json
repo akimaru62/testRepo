@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T17:07:31.647035+00:00",
+  "generated_at": "2026-10-02T17:25:41.606220+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -546,9 +546,21 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "北海道、愛知、大阪、福岡が該当　「副首都」で指定要件案―政府",
+      "link": "https://www.jiji.com/jc/article?k=2026100300006&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-02T17:25:29.330917+00:00"
+    },
     {
       "title": "This couple took out an adjustable-rate mortgage at 6.8% in 2023. Here’s how it’s worked out.",
       "link": "https://www.marketwatch.com/story/this-couple-took-out-an-adjustable-rate-mortgage-when-rates-were-over-8-heres-how-it-worked-out-d52e592a?mod=mw_rss_topstories",
@@ -566,6 +578,14 @@
       "published": "2026-10-02T17:03:37+00:00"
     },
     {
+      "title": "ICC judge on what U.S. sanctions mean for her and global courts",
+      "link": "https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost",
+      "summary": "Article URL: https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost\nComments URL: https://news.ycombinator.com/item?id=49935867\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-02T17:02:31+00:00"
+    },
+    {
       "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第２回）の開催について公表しました。",
       "link": "https://www.fsa.go.jp/news/r8/singi/20261009.html",
       "summary": "",
@@ -580,6 +600,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-02T17:00:00+00:00"
+    },
+    {
+      "title": "Dutch Computer Museums",
+      "link": "https://aresluna.org/dutch-computer-museums/",
+      "summary": "Article URL: https://aresluna.org/dutch-computer-museums/\nComments URL: https://news.ycombinator.com/item?id=49935751\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-02T16:52:39+00:00"
     },
     {
       "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年９月11日）について掲載しました。",
@@ -827,6 +855,14 @@
       "summary": "A government proposal would help fund managers sell alternative investments to a wider audience.",
       "source": "WSJ マーケット",
       "category": "海外金融",
+      "published": "2026-10-02T15:00:00+00:00"
+    },
+    {
+      "title": "AI is changing developer work. Here are three skills to strengthen.",
+      "link": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
+      "summary": "Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow.\nThe post AI is changing developer work. Here are three skills to strengthen. appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "category": "開発者向け",
       "published": "2026-10-02T15:00:00+00:00"
     },
     {
