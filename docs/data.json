@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T05:08:20.071002+00:00",
+  "generated_at": "2026-10-02T05:28:01.856629+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -546,6 +546,46 @@
   ],
   "items": [
     {
+      "title": "アンドロイド端末にマイナカード機能　２０日から、本人確認可能に―古川デジタル相",
+      "link": "https://www.jiji.com/jc/article?k=2026100200558&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-02T05:27:55.809265+00:00"
+    },
+    {
+      "title": "藤井総務相、衆院選での運動員買収否定　「適切に対応」",
+      "link": "https://www.jiji.com/jc/article?k=2026100200565&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-02T05:27:55.809238+00:00"
+    },
+    {
+      "title": "木原官房長官、ロ大統領発言に反論　将来展望発言には「留意」",
+      "link": "https://www.jiji.com/jc/article?k=2026100200537&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-02T05:27:55.809207+00:00"
+    },
+    {
+      "title": "めぶきFG統合10年、地域経済維持へ腐心　コンサル業や自治体連携",
+      "link": "https://www.asahi.com/articles/ASVB13CY5VB1UJHB009M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-02T05:27:55.248410+00:00"
+    },
+    {
+      "title": "Japan Stocks Look Attractive, Especially When Dollar-Yen Above 152",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-1-0-dragged-by-tech-auto-stocks-f9d6991d?mod=rss_markets_main",
+      "summary": "Japanese stocks looked attractive, especially when the dollar was trading above 152 yen, T. Rowe Price said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-02T05:13:00+00:00"
+    },
+    {
       "title": "ニデック会見 異例の監査法人同席",
       "link": "https://news.yahoo.co.jp/pickup/6597273?source=rss",
       "summary": "",
@@ -554,12 +594,36 @@
       "published": "2026-10-02T05:00:14+00:00"
     },
     {
+      "title": "【独自】金融庁がプルデンシャル生命に業務停止命令で最終調整/営業社員による金銭詐取のほか情報提供義務違反も認定 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959935?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "外資系大手プルデンシャル生命保険が､金融庁から厳しい処分を受ける見通しとなりました。その内容とは？",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-02T05:00:00+00:00"
+    },
+    {
+      "title": "｢意識高い系リベラル｣の罠　｢多様性｣を盾に特権を肯定　庶民を見下し自らを正義と信じる｢新パワーエリート｣の正体 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958703?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "現代社会に君臨する｢新パワーエリート｣は､過去の貴族とは異なる顔を持ちながらも､特権を巧妙に再生産し続けています。アイデンティティ政治や多様性の名の下で覆い隠される新たな支配構造と､その自己欺瞞の本…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-02T05:00:00+00:00"
+    },
+    {
       "title": "ローソン「297円弁当」なぜ安い",
       "link": "https://news.yahoo.co.jp/pickup/6597270?source=rss",
       "summary": "",
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-10-02T04:56:44+00:00"
+    },
+    {
+      "title": "Meta's Muse is fantastic for web scraping",
+      "link": "https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/",
+      "summary": "Article URL: https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/\nComments URL: https://news.ycombinator.com/item?id=49929970\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-02T04:56:02+00:00"
     },
     {
       "title": "簗農水相、会見でも「コメント控える」繰り返す　予算カット発言報道",
@@ -1696,6 +1760,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-01T20:27:00+00:00"
+    },
+    {
+      "title": "米国株式市場＝上昇、米債利回り上昇一服で - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUhMaEozdm5xRGc0T0FCN1N2ci1wYjJRVGROdndrREtjaGlsUlJfRnBBX3VILWM1RnFhU2tCX29jcHpQdFdNTU9EbXlPTHVta0VwdHpMMm9hVkF4NDBPX2xwSHMwcVFEUFdDNk92aGlOUnZHa3hBQ0RFaHU0dDRoV01mdnM?oc=5",
+      "summary": "米国株式市場＝上昇、米債利回り上昇一服で&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-01T20:23:45+00:00"
     },
     {
       "title": "Manyfold's Agents.md Is Based",
@@ -3960,6 +4032,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-01T05:14:00+00:00"
+    },
+    {
+      "title": "ＮＺ議会解散、11月総選挙へ 与党連合と左派勢力の接戦に - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FMXJHS0VFbU1nVXFqVzlHYjE5cTF3bVpGQlBEVU9Ma1pSN2hTVlZ3bW9WaERZMTRhSENLRFRwQTRSU2ExZ2ViOW5sWlFaVTlYT3QtcDNTbjRYMmxIMGM1eTF2cHp2VkZDbVNxb1pRVGlINHQwRDE5SFNBQUc?oc=5",
+      "summary": "ＮＺ議会解散、11月総選挙へ 与党連合と左派勢力の接戦に&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-01T05:11:00+00:00"
     },
     {
       "title": "Indian Flydubai pilot praised after disaster averted",
