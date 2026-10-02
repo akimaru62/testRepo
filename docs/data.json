@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T18:32:26.266807+00:00",
+  "generated_at": "2026-10-02T18:53:05.025784+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -554,6 +554,14 @@
   ],
   "items": [
     {
+      "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
+      "link": "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories",
+      "summary": "Debt among older Americans is rising, both in terms of the number of older households carrying debt and the amount borrowed.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-02T18:50:00+00:00"
+    },
+    {
       "title": "パ・リーグ公示（２日）　プロ野球",
       "link": "https://www.jiji.com/jc/article?k=2026100200954&g=spo&m=rss",
       "summary": "",
@@ -570,12 +578,36 @@
       "published": "2026-10-02T18:32:21.464341+00:00"
     },
     {
+      "title": "Low-profile hedge fund smashes record for New York office rent",
+      "link": "https://www.ft.com/content/17762862-bdb7-44d0-a0d0-d2285bedbd2d?syn-25a6b1a6=1",
+      "summary": "Castle Hook will pay up to $21.2mn a year for 53,000 sq ft of penthouse space at developer Related’s new Madison Avenue tower",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-02T18:31:10+00:00"
+    },
+    {
       "title": "Opinion | A Pro-Growth Lesson From British Columbia",
       "link": "https://www.wsj.com/opinion/a-pro-growth-lesson-from-british-columbia-fe6c5330?mod=rss_markets_main",
       "summary": "It’s right to seek faster growth.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-02T18:22:00+00:00"
+    },
+    {
+      "title": "What if we stopped using GPUs? [video]",
+      "link": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
+      "summary": "Article URL: https://www.youtube.com/watch?v=xc2FTBGRSJo\nComments URL: https://news.ycombinator.com/item?id=49936671\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-02T18:09:38+00:00"
+    },
+    {
+      "title": "Leaderboards and speedrun.com's new terms of service",
+      "link": "https://therun.gg/blog/leaderboards-speedruncom",
+      "summary": "Article URL: https://therun.gg/blog/leaderboards-speedruncom\nComments URL: https://news.ycombinator.com/item?id=49936641\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-02T18:07:05+00:00"
     },
     {
       "title": "Opinion | AI Will Be a Boon for Savers",
@@ -850,6 +882,14 @@
       "published": "2026-10-02T15:30:24+00:00"
     },
     {
+      "title": "One month coding with GLM 5.3 Flash",
+      "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+      "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 7\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-02T15:29:15+00:00"
+    },
+    {
       "title": "セ・リーグ公示（２日）　プロ野球",
       "link": "https://www.jiji.com/jc/article?k=2026100200811&g=spo&m=rss",
       "summary": "",
@@ -1112,6 +1152,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-10-02T14:04:42+00:00"
+    },
+    {
+      "title": "SequenceHash: Multihashing for the rest of us",
+      "link": "https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/",
+      "summary": "Article URL: https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/\nComments URL: https://news.ycombinator.com/item?id=49933587\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-02T13:56:55+00:00"
     },
     {
       "title": "Don't be fooled–LLMs don't reason",
@@ -2738,6 +2786,14 @@
       "published": "2026-10-02T02:51:27+00:00"
     },
     {
+      "title": "Show HN: Use all Codex Plugins inside Pi",
+      "link": "https://github.com/wileai/pi-codex-connectors",
+      "summary": "I just realized that codex now exposes local server endpoints for all plugins without extra auth. So you can just use them from any model or harness.Im soooo excited!!! One auth for everything!For Pi:\npi install npm:@wileai/pi-codex-connectorFor any harness: \nnpx -y @wileai/codex-connectors-mcp@latest\n\nComments URL: https://news.ycombinator.com/item?id=49929381\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-02T02:49:37+00:00"
+    },
+    {
       "title": "フーシ派が聖地メディナの変電所攻撃、サウジ主導連合軍発表 - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80SWNrbW9hLVlfVWN6NXpKdktjWVgtT0xUcTF6U0dsMWUwakhQYzdVSTN6elVCSTkyU0FrSWFpOE41VG1rLUhUWnZZX09JTFNrR29WYlVDNy1mQWRBR3lmMURsQjFfRFFUZTBMUWJmYmhYYzZEVmZTbDJoYjA?oc=5",
       "summary": "フーシ派が聖地メディナの変電所攻撃、サウジ主導連合軍発表&nbsp;&nbsp;jp.reuters.com",
@@ -3208,6 +3264,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-10-01T23:30:00+00:00"
+    },
+    {
+      "title": "Show HN: Pyxel – A Python retro game engine with built-in art and sound editors",
+      "link": "https://github.com/kitao/pyxel",
+      "summary": "Hi HN, I'm the creator of Pyxel, a free, MIT-licensed retro game engine for Python. I've been developing it since 2018, and it recently passed 18,000 stars on GitHub.Pyxel includes pixel art, tilemap, sound, and music editors, so you can create a game's visuals and audio as well as write its code in Python. The engine itself is implemented in Rust.Games run on Windows, macOS, Linux, and the web, as well as supported Linux-based retro handhelds.You can share a URL to launch a Pyxel game hosted on GitHub directly in a browser. You can also create games entirely in your browser with Pyxel Code Maker, or write chiptunes in Pyxel MML Studio.See what people have made with Pyxel:\nhttps://kitao.github.io/pyxel-user-examples/Try Code Maker:\nhttps://kitao.github.io/pyxel/web/code-maker/I'm happy to answer questions about the engine and its implementation.\n\nComments URL: https://news.ycombinator.com/item?id=49928215\nPoints: 10\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-01T23:26:35+00:00"
     },
     {
       "title": "Tiny Brutalism",
