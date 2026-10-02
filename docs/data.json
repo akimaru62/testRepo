@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T17:48:28.819220+00:00",
+  "generated_at": "2026-10-02T18:10:39.095520+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -554,9 +554,57 @@
   ],
   "items": [
     {
+      "title": "Opinion | AI Will Be a Boon for Savers",
+      "link": "https://www.wsj.com/opinion/ai-will-be-a-boon-for-savers-abb4d884?mod=rss_markets_main",
+      "summary": "Agents will sweep idle money into top-paying accounts. That will strain banks’ liquidity.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-02T17:58:00+00:00"
+    },
+    {
+      "title": "Deploy Oracle Database step by step on Amazon EVS with FSx for ONTAP",
+      "link": "https://aws.amazon.com/blogs/architecture/deploy-oracle-database-step-by-step-on-amazon-evs-with-fsx-for-ontap/",
+      "summary": "This post provides step-by-step procedures to deploy Oracle Database on Amazon Elastic VMware Service (Amazon EVS) with Amazon FSx for NetApp ONTAP as NFS datastore storage. You provision storage volumes, mount NFS datastores, install Oracle, and configure SnapMirror replication for cross-region disaster recovery.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-10-02T17:57:15+00:00"
+    },
+    {
+      "title": "Architect highly available Oracle Database on Amazon EVS and FSx for ONTAP",
+      "link": "https://aws.amazon.com/blogs/architecture/architect-highly-available-oracle-database-on-amazon-evs-and-fsx-for-ontap/",
+      "summary": "Learn how to architect a highly available Oracle Database environment on Amazon Elastic VMware Service (Amazon EVS) with Amazon FSx for NetApp ONTAP. This post covers EC2 bare metal instance selection, vSAN and FSx storage tiering, NSX networking, and SnapMirror cross-region disaster recovery for enterprises preserving their VMware operational tooling.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-10-02T17:57:01+00:00"
+    },
+    {
+      "title": "Deploy open source Regional availability tools in your VPC",
+      "link": "https://aws.amazon.com/blogs/architecture/deploy-open-source-regional-availability-tools-in-your-vpc/",
+      "summary": "Deploy AWS Regional availability data as infrastructure you own. Capability Insights for AWS runs a self-hosted dashboard in your VPC that auto-refreshes daily, and Workload Analysis narrows the catalog to the services your account actually runs, so your Regional expansion gap analysis focuses only on what you deploy.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-10-02T17:50:56+00:00"
+    },
+    {
+      "title": "How much higher can bond yields rise — and what does it mean for stocks?",
+      "link": "https://www.marketwatch.com/story/how-much-higher-can-bond-yields-rise-and-what-does-it-mean-for-stocks-12883d6c?mod=mw_rss_topstories",
+      "summary": "Also in Weekend Reads: Adjustable-rate mortgage loans, Gen Z entrepreneurs and advice from the Moneyist.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-02T17:48:00+00:00"
+    },
+    {
       "title": "Why bond investors quickly lost their enthusiasm for weak labor figures",
       "link": "https://www.marketwatch.com/story/why-bond-investors-quickly-lost-their-enthusiasm-for-weak-labor-figures-7a9727da?mod=mw_rss_topstories",
       "summary": "A weak U.S. jobs report did what bad news hadn’t done in a while: It made U.S. debt look like a safe haven again — albeit briefly.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-02T17:38:00+00:00"
+    },
+    {
+      "title": "Why bond investors quickly lost their enthusiasm for weak jobs figures",
+      "link": "https://www.marketwatch.com/story/why-bond-investors-quickly-lost-their-enthusiasm-for-weak-labor-figures-7a9727da?mod=mw_rss_topstories",
+      "summary": "A weak U.S. labor report did what bad news hadn’t done in a while: It made U.S. debt look like a safe haven again — albeit briefly.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-02T17:38:00+00:00"
@@ -616,6 +664,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-02T17:00:00+00:00"
+    },
+    {
+      "title": "STS-51-F Abort-to-Orbit (1985)",
+      "link": "https://en.wikipedia.org/wiki/STS-51-F",
+      "summary": "Today I learned that one Space Shuttle flight (in 1985) successfully used the Abort-to-Orbit recovery plan (changing its flight path in real time in response to an engine failure during ascent). The overall mission continued, accomplished its other objectives, and was considered a success despite the engine failure.Some 2015 coverage of this mission:https://www.americaspace.com/2015/07/25/going-to-spain-30-ye...https://www.americaspace.com/2015/07/26/cola-and-solar-wars-...\n\nComments URL: https://news.ycombinator.com/item?id=49935797\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-02T16:56:47+00:00"
     },
     {
       "title": "Dutch Computer Museums",
@@ -962,6 +1018,14 @@
       "published": "2026-10-02T14:21:43+00:00"
     },
     {
+      "title": "トランプ氏、ＡＩ責任者にクレイトン国家情報長官起用か＝報道 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93aWxvVjd1TWJ5MHNyRm9ZSVZLNk9YREFSczZUSlNucEVpN2c2YlFvT044UHNIdUh4S2s0SGxTWEVPa2p3T3U1d21DYXE2Zy1iWE5PajBDelBTdTh0djhFZGkySHNKWUhvNmx0UFNPMlZXd1NzVlI0QmR6ejY?oc=5",
+      "summary": "トランプ氏、ＡＩ責任者にクレイトン国家情報長官起用か＝報道&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-02T14:21:43+00:00"
+    },
+    {
       "title": "We're Missing a Key Reason Why Americans Hate AI",
       "link": "https://www.derekthompson.org/p/were-missing-a-key-reason-why-americans",
       "summary": "Article URL: https://www.derekthompson.org/p/were-missing-a-key-reason-why-americans\nComments URL: https://news.ycombinator.com/item?id=49933819\nPoints: 11\n# Comments: 11",
@@ -1013,6 +1077,14 @@
       "title": "米10月利上げ観測後退、雇用統計軟調で＝金利先物市場 - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSWtnSm5iV1ltNmp1YUxOOXJxY0ZrQVNfVXEtdWtTQTVwWVhuZTl6VUFxUGpsdGg1Sm82cXVhalR2RTE3U0JlUURTX0ZRZ1ZKcmxHZi0weUJVNXB3NDFXTkNSUDhlQUtMcVpNc2pEbmEyVHdsbXBWM0xVTDdmcGdjODdfWnU?oc=5",
       "summary": "米10月利上げ観測後退、雇用統計軟調で＝金利先物市場&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-02T13:41:33+00:00"
+    },
+    {
+      "title": "米10月利上げ観測後退、雇用統計軟調で＝金利先物市場 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSWtnSm5iV1ltNmp1YUxOOXJxY0ZrQVNfVXEtdWtTQTVwWVhuZTl6VUFxUGpsdGg1Sm82cXVhalR2RTE3U0JlUURTX0ZRZ1ZKcmxHZi0weUJVNXB3NDFXTkNSUDhlQUtMcVpNc2pEbmEyVHdsbXBWM0xVTDdmcGdjODdfWnU?oc=5",
+      "summary": "米10月利上げ観測後退、雇用統計軟調で＝金利先物市場&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-02T13:41:33+00:00"
@@ -5704,6 +5776,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-01T07:16:28.078516+00:00"
+    },
+    {
+      "title": "ＪＥＲＡ、米デル・英企業とＡＩインフラで協業 1号案件に2兆円投資 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xdG5jSEwycHRWcHRDWWhDUTVEQjlOdmtOT1Z2d2hIcFJGeldLbkxfMGpXSUhoMVBrSHl1NFRPX0lXLWo4b2hQcWJ3V3FkaW5mT2ZTMDVQWTRtQ2lYSWJ4SVFlSmdXXzkwdmVwR01LN0RsM3Bsb25pNm81R0g?oc=5",
+      "summary": "ＪＥＲＡ、米デル・英企業とＡＩインフラで協業 1号案件に2兆円投資&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-01T07:11:12+00:00"
     },
     {
       "title": "(.XU030) | Stock Price & Latest News | Reuters - jp.reuters.com",
