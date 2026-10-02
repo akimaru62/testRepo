@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T19:06:52.785014+00:00",
+  "generated_at": "2026-10-02T19:23:58.470347+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -554,6 +554,14 @@
   ],
   "items": [
     {
+      "title": "Apple Pass Designer",
+      "link": "https://developer.apple.com/pass-designer/",
+      "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-02T19:06:56+00:00"
+    },
+    {
       "title": "Comex Gold Ends the Week 3.59% Lower at $4133.70",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-u-s-dollar-yields-key-obstacles-for-price-gain-a4f001e3?mod=rss_markets_main",
       "summary": "Comex gold fell 0.9% to $4133.70 a troy ounce, snapping a three-session winning streak.",
@@ -1010,6 +1018,14 @@
       "published": "2026-10-02T15:18:00+00:00"
     },
     {
+      "title": "How accurately calibrated is Jev?",
+      "link": "https://maximumeffort.substack.com/p/jev-is-poorly-calibrated",
+      "summary": "Article URL: https://maximumeffort.substack.com/p/jev-is-poorly-calibrated\nComments URL: https://news.ycombinator.com/item?id=49934399\nPoints: 6\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-02T15:12:41+00:00"
+    },
+    {
       "title": "U.S. Bond Yields Ease as Job Creation Slows",
       "link": "https://www.wsj.com/finance/u-s-treasury-yields-steady-as-buyers-resurface-4c139277?mod=rss_markets_main",
       "summary": "Treasury yields fell as a slower-than-expected pace of job creation in the U.S. helped ease fears of inflation and imminent interest-rate increases.",
@@ -1192,6 +1208,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-02T13:56:55+00:00"
+    },
+    {
+      "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
+      "link": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
+      "summary": "Article URL: https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails\nComments URL: https://news.ycombinator.com/item?id=49933476\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-02T13:47:41+00:00"
     },
     {
       "title": "Don't be fooled–LLMs don't reason",
@@ -1482,6 +1506,14 @@
       "published": "2026-10-02T12:03:43+00:00"
     },
     {
+      "title": "On building a worm detector",
+      "link": "https://bencology.bearblog.dev/mapping-individual-and-collective-worm-movements/",
+      "summary": "Article URL: https://bencology.bearblog.dev/mapping-individual-and-collective-worm-movements/\nComments URL: https://news.ycombinator.com/item?id=49932509\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-02T12:00:06+00:00"
+    },
+    {
       "title": "Memory executives expect RAM shortage to continue through 2028",
       "link": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
       "summary": "Article URL: https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/\nComments URL: https://news.ycombinator.com/item?id=49932499\nPoints: 10\n# Comments: 2",
@@ -1498,6 +1530,14 @@
       "published": "2026-10-02T11:46:40+00:00"
     },
     {
+      "title": "On Social Reality in China",
+      "link": "https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china",
+      "summary": "Article URL: https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china\nComments URL: https://news.ycombinator.com/item?id=49932402\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-02T11:42:26+00:00"
+    },
+    {
       "title": "European payments groups join forces to challenge US dominance",
       "link": "https://www.rte.ie/news/business/2026/1001/1593639-european-payments-group/",
       "summary": "Article URL: https://www.rte.ie/news/business/2026/1001/1593639-european-payments-group/\nComments URL: https://news.ycombinator.com/item?id=49932383\nPoints: 18\n# Comments: 6",
@@ -1512,6 +1552,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-02T11:35:40+00:00"
+    },
+    {
+      "title": "Blogging with Gleam, Org-Mode and Pandoc",
+      "link": "https://byzantine-systems.github.io/blogging-with-gleam-org-mode-and-pandoc/",
+      "summary": "Article URL: https://byzantine-systems.github.io/blogging-with-gleam-org-mode-and-pandoc/\nComments URL: https://news.ycombinator.com/item?id=49932340\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-02T11:34:28+00:00"
     },
     {
       "title": "I’m in my 20s and keep getting laid off. Should I invest in my employer’s 401(k) or look into other options?",
@@ -1656,6 +1704,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-02T10:48:00+00:00"
+    },
+    {
+      "title": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux",
+      "link": "https://againstallodds.games/",
+      "summary": "We're a tiny indie studio, all with a background in the demoscene and for about 3 years now we're developing a space planet terraforming game called SEEDS - Echoes Beneath the Sands.Our protagonist Naxiah is stranded on a small, desolated planet. You're working for an intergalactic distributor of seeds and terraforming equipment, to kickstart new planets in far away galaxies. You must deliver seeds and utilities to an unchartered region, but on your way, you crash on a small planet. Luckily, you have some equipment with you in the ship, so you're able to spawn a base and survive. But for how long? And is the planet really deserted..? :) Well, of course not, there are aliens and other space creatures. And of course, there's ROBO RB-23, which accompanies your adventure.The game is written in Object Pascal and uses our own game engine PasVulkan, our own physics engine, as well as our own RISC-V 64-bit emulator PasRISCV. We love to build stuff, a lot of these things are FOSS.The emulator is quite complete (even with RVV, but that's way too slow emulated to be useful) and runs a stock kernel (6.18.3 as of today). We're using Alpine Linux for our base distribution. All our in-game programs to interact with the planet are native RISC-V Linux programs.We also have our own (free and open source) scripting language POCA (class and prototyped based, JS/Lua inspired, which makes it quite easy for us to script things like HUD, animal behaviour, our story flow graph, etc.We have most of the wiring ready for players to be able to program and reshape and populate the whole planet in automation, although it's not our primary concept for the game (building stuff by hand, making the planet beautiful is also fun). As it's a normal Linux system, you'll be able to use Ruby, Python, or even Rust, C, C++, and Go to change and automate your world.We're also thinking of making a bunch of small games which you can play inside the game, in the base on a computer, on an arcade machine, or in the spaceship. And of course, it also runs DOOM. We already prototyped a small 2D space shooter and a small arcade game, both playable within the game. We also feature a table with hologram games to be played, e.g. chess and a certain block game. We also plan to make this hologram game engine available from the computer, which means, you'll even be able to program own hologram style games.We generally want to make the in-game computer more hackable in future, so that people can create and share their own little games.Currently, it's only a sandbox game (with beginnings of automation), to build stuff with our pre-made items. You can also assemble these to other, ready-made and shareable bigger items. This is the foundation for us to further develop survival and complete our story mode.Our game is still under active development, and we finally got our Steam page ready. We have tons of other things planned, but right now, it's more about polishing and quality for the Early Access.You can watch some videos and screenshots on our website. And we'd love to read your thoughts about his. It has been quite a ride, so far..\n\nComments URL: https://news.ycombinator.com/item?id=49931993\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-02T10:40:31+00:00"
     },
     {
       "title": "The Amazing Stat That’s a Red Flag for Investors",
@@ -2626,6 +2682,14 @@
       "published": "2026-10-02T04:30:49.811859+00:00"
     },
     {
+      "title": "詳細を見るChow Sang Sang Holdings International Ltd (0116.HK) - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NVlFjUmo2TWIzRHNCNTNfamVqSjNQYnRNTm56czU5U2JrVWtTYVAzN05QcV9kaFNtZm1SS1B2c0lyVGlPSGRzczYxWXBsM1R4RlRSOExkVEhFdU1JX29pRW5XQlpJTEU?oc=5",
+      "summary": "詳細を見るChow Sang Sang Holdings International Ltd (0116.HK)&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-02T04:10:00+00:00"
+    },
+    {
       "title": "インフラ老朽化、さびにくいステンレス材で長寿命化後押し　愛知製鋼",
       "link": "https://www.asahi.com/articles/ASV9Y7HQHV9YULFA02MM.html?ref=rss",
       "summary": "",
@@ -3333,6 +3397,14 @@
       "title": "017550.ks - | Stock Price & Latest News - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Pdy0wNE1ZQWlFZzJSX2lMbjJiZktWRUl5cVVLOVREWjZiNms5MWwyX19VVWRHOXUwZmlDeFdTV2JJZHl6QTBDenRqTkVLQUFnZ0ZWV2U0SmdSRjdHLUZBVjNvd2pZbFRUaGd5bGNn?oc=5",
       "summary": "017550.ks - | Stock Price & Latest News&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-01T23:34:17+00:00"
+    },
+    {
+      "title": "017550.ks - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Pdy0wNE1ZQWlFZzJSX2lMbjJiZktWRUl5cVVLOVREWjZiNms5MWwyX19VVWRHOXUwZmlDeFdTV2JJZHl6QTBDenRqTkVLQUFnZ0ZWV2U0SmdSRjdHLUZBVjNvd2pZbFRUaGd5bGNn?oc=5",
+      "summary": "017550.ks - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-01T23:34:17+00:00"
