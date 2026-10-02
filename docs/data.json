@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T18:53:05.025784+00:00",
+  "generated_at": "2026-10-02T19:06:52.785014+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -554,6 +554,14 @@
   ],
   "items": [
     {
+      "title": "Comex Gold Ends the Week 3.59% Lower at $4133.70",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-u-s-dollar-yields-key-obstacles-for-price-gain-a4f001e3?mod=rss_markets_main",
+      "summary": "Comex gold fell 0.9% to $4133.70 a troy ounce, snapping a three-session winning streak.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-02T18:54:00+00:00"
+    },
+    {
       "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
       "link": "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories",
       "summary": "Debt among older Americans is rising, both in terms of the number of older households carrying debt and the amount borrowed.",
@@ -608,6 +616,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-02T18:07:05+00:00"
+    },
+    {
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "link": "https://dwarfstar.sh/",
+      "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-02T18:01:16+00:00"
     },
     {
       "title": "Opinion | AI Will Be a Boon for Savers",
@@ -696,6 +712,14 @@
       "source": "CNBC",
       "category": "海外金融",
       "published": "2026-10-02T17:03:37+00:00"
+    },
+    {
+      "title": "Mystery Function",
+      "link": "https://codeset.ai/function",
+      "summary": "Article URL: https://codeset.ai/function\nComments URL: https://news.ycombinator.com/item?id=49935872\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-02T17:03:08+00:00"
     },
     {
       "title": "ICC judge on what U.S. sanctions mean for her and global courts",
@@ -1138,6 +1162,14 @@
       "published": "2026-10-02T14:11:24+00:00"
     },
     {
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "summary": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312\n\nComments URL: https://news.ycombinator.com/item?id=49933740\nPoints: 28\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-02T14:11:24+00:00"
+    },
+    {
       "title": "Natural Gas Moves Lower as EIA Reports Record-High Production",
       "link": "https://www.wsj.com/finance/commodities-futures/natural-gas-moves-lower-as-eia-reports-record-high-production-5779641b?mod=rss_markets_main",
       "summary": "Natural gas retreated below the $3 mark after government data showed record-high U.S. natural-gas production in July.",
@@ -1306,6 +1338,14 @@
       "published": "2026-10-02T13:18:32+00:00"
     },
     {
+      "title": "Venice’s failed war against Constantinople led to the first bond market",
+      "link": "https://bigthink.com/books/a-fabulous-debt/",
+      "summary": "Article URL: https://bigthink.com/books/a-fabulous-debt/\nComments URL: https://news.ycombinator.com/item?id=49933230\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-02T13:17:47+00:00"
+    },
+    {
       "title": "DXY Dollar Index Falls to Intraday Low of 101.714 After Weak U.S. Jobs Data",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-higher-oil-prices-d339a0e9?mod=rss_markets_main",
       "summary": "The dollar fell to intraday lows after weak U.S. jobs data. Meanwhile, the euro was under pressure from the widening gap in yields between Treasurys and European government bonds.",
@@ -1392,6 +1432,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-02T12:24:00+00:00"
+    },
+    {
+      "title": "100 years of student radio history in the DLARC college radio collections",
+      "link": "https://blog.archive.org/2026/10/02/100-years-of-student-radio-history-in-the-dlarc-college-radio-collections/",
+      "summary": "Article URL: https://blog.archive.org/2026/10/02/100-years-of-student-radio-history-in-the-dlarc-college-radio-collections/\nComments URL: https://news.ycombinator.com/item?id=49932694\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-02T12:23:08+00:00"
     },
     {
       "title": "Redditor buys used CPU, turns out it was banned on Valorant and they are SoL",
@@ -1506,6 +1554,14 @@
       "published": "2026-10-02T11:16:00+00:00"
     },
     {
+      "title": "Our Project Suncatcher prototype satellite is in orbit",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/\nComments URL: https://news.ycombinator.com/item?id=49932191\nPoints: 10\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-02T11:13:02+00:00"
+    },
+    {
       "title": "スガキヤが「ドムドム」子会社化",
       "link": "https://news.yahoo.co.jp/pickup/6597315?source=rss",
       "summary": "",
@@ -1530,6 +1586,14 @@
       "published": "2026-10-02T11:07:25.061902+00:00"
     },
     {
+      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+      "link": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+      "summary": "Article URL: https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f\nComments URL: https://news.ycombinator.com/item?id=49932147\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-02T11:07:17+00:00"
+    },
+    {
       "title": "'The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents",
       "link": "https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html",
       "summary": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
@@ -1552,6 +1616,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-02T10:59:36+00:00"
+    },
+    {
+      "title": "F.02 Decommission",
+      "link": "https://www.figure.ai/news/f-02-decommission",
+      "summary": "https://www.youtube.com/watch?v=pfAh5oQDPDM\n\nComments URL: https://news.ycombinator.com/item?id=49932079\nPoints: 8\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-02T10:57:27+00:00"
     },
     {
       "title": "東北3地銀「越境」統合の成否は　高い難易度、カギは「陣取り」回避",
@@ -1728,6 +1800,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-02T09:59:00+00:00"
+    },
+    {
+      "title": "Scientists invent underwater umbrellas to protect coral reefs",
+      "link": "https://gizmodo.com/scientists-invent-underwater-umbrellas-to-protect-coral-reefs-and-it-appears-to-be-working-2000819444",
+      "summary": "https://www.frontiersin.org/journals/marine-science/articles...\n\nComments URL: https://news.ycombinator.com/item?id=49931725\nPoints: 5\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-02T09:57:02+00:00"
     },
     {
       "title": "Breakingviews - COMMENTARY: コラム：ニデック危機に「日本株式会社」巡る既視感、海外勢の動向焦点に - jp.reuters.com",
