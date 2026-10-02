@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T01:12:15.553626+00:00",
+  "generated_at": "2026-10-02T01:42:52.058975+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -538,9 +538,37 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7ff9322378c0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f96ed718050>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "都区部消費者物価2.7%上昇　9月中旬、水道無償化の終了など影響",
+      "link": "https://www.asahi.com/articles/ASVB20BFVVB2ULFA008M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-02T01:42:46.459744+00:00"
+    },
+    {
+      "title": "国庫短期証券（第1412回）の発行予定額等",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20261002.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-02T01:20:00+00:00"
+    },
+    {
+      "title": "国庫短期証券（第1410回）の入札発行",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20261002.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-02T01:20:00+00:00"
+    },
     {
       "title": "強制労働、過剰生産で合意せず　Ｇ２０貿易相会合、中国反発か",
       "link": "https://www.jiji.com/jc/article?k=2026100200284&g=int&m=rss",
@@ -636,6 +664,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-10-02T00:21:05+00:00"
+    },
+    {
+      "title": "日経平均は反落で寄り付く、利益確定売り先行 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT2QxRzFIU29NQ0djbl81X2tRTHlLcE9fRGVLYnBnYy1Uc3BGVmNRQTJqdHlJdzZFRmo0SjZIdDcyb2V5Q0lCelh1WFpfX0xQUy1KRThGUE5TUEd1dEFoMjNzOVZLS3ZEb0RrS3R3aWFKcnpCdzFlTEhReG5jQXE2NFVLR2s?oc=5",
+      "summary": "日経平均は反落で寄り付く、利益確定売り先行&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-02T00:16:00+00:00"
     },
     {
       "title": "Oil Edges Higher Amid Rising Mideast Tensions",
@@ -3518,6 +3554,14 @@
       "published": "2026-10-01T05:14:00+00:00"
     },
     {
+      "title": "中国テンセント、オラクルとＡＩチップ10万個のリース契約＝ＦＴ - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XNjczWlNIYXE1VHlaZ3FFWUtEbXF6bFozaVNadDNHX1hBY1ZQbUNJa09zZjlOT1hqUTVMSWRYTktzM3pCRFRENUNPTDNxSW5LWGI5VW92d3VpN3N6TDZfeE9ZRnRlVTYxUF9VNUQ3RDBmMTJ0RVJxcGwwMzM?oc=5",
+      "summary": "中国テンセント、オラクルとＡＩチップ10万個のリース契約＝ＦＴ&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-01T05:14:00+00:00"
+    },
+    {
       "title": "Indian Flydubai pilot praised after disaster averted",
       "link": "https://www.ft.com/content/1e6d2a9b-dc37-4b19-91e3-0a76fd01b673?syn-25a6b1a6=1",
       "summary": "Captain Smit Machchhar fought off attack by co-pilot with help from crew and passengers",
@@ -4241,6 +4285,14 @@
       "title": "米ＳＥＣ、成功報酬規制を緩和へ 未公開資産への個人投資拡大 - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRHVwVV9TbU5RQ0g0Y1k2ZjBST1pNMWtQMVZEZFQ4dFRIeEVOZV93MHVQMTVHNFJOVFJ5VVV2QUlvbnFMM0pXQ2VtaWxBcDlSR1d4TVk0ak54VjdxRFVHallsZ243NU5WdUFYSWpucVpobzBGYmVpTXJHYktWNEE2UTVSU18?oc=5",
       "summary": "米ＳＥＣ、成功報酬規制を緩和へ 未公開資産への個人投資拡大&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-01T01:05:00+00:00"
+    },
+    {
+      "title": "米ＳＥＣ、成功報酬規制を緩和へ 未公開資産への個人投資拡大 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRHVwVV9TbU5RQ0g0Y1k2ZjBST1pNMWtQMVZEZFQ4dFRIeEVOZV93MHVQMTVHNFJOVFJ5VVV2QUlvbnFMM0pXQ2VtaWxBcDlSR1d4TVk0ak54VjdxRFVHallsZ243NU5WdUFYSWpucVpobzBGYmVpTXJHYktWNEE2UTVSU18?oc=5",
+      "summary": "米ＳＥＣ、成功報酬規制を緩和へ 未公開資産への個人投資拡大&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-01T01:05:00+00:00"
