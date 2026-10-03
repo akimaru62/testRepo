@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T10:39:13.429612+00:00",
+  "generated_at": "2026-10-03T11:04:07.571698+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -550,9 +550,37 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "日本勢、金メダルも史上最多　ソフトボール日本は７連覇―愛知・名古屋アジア大会",
+      "link": "https://www.jiji.com/jc/article?k=2026100300307&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-03T11:03:55.908122+00:00"
+    },
+    {
+      "title": "These companies look set to face high-profile hearings and other scrutiny if Democrats win the House",
+      "link": "https://www.marketwatch.com/story/these-companies-look-set-to-face-high-profile-hearings-and-other-scrutiny-if-democrats-win-the-house-513fe8e7?mod=mw_rss_topstories",
+      "summary": "Law and lobbying firms in Washington, D.C., are telling companies to prepare for a new level of scrutiny, since most modern midterm elections result in some loss of congressional control for the party that holds the White House.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-03T11:00:00+00:00"
+    },
+    {
+      "title": "ハラル対応食品 商機見いだす企業",
+      "link": "https://news.yahoo.co.jp/pickup/6597429?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-03T10:57:54+00:00"
+    },
     {
       "title": "４日の予告先発投手　プロ野球パ・リーグ",
       "link": "https://www.jiji.com/jc/article?k=2026100300328&g=spo&m=rss",
@@ -576,6 +604,22 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-03T10:23:54.258413+00:00"
+    },
+    {
+      "title": "An AI agent emailed researchers for help. It told us why",
+      "link": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
+      "summary": "Article URL: https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why\nComments URL: https://news.ycombinator.com/item?id=49942865\nPoints: 17\n# Comments: 27",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-03T10:07:08+00:00"
+    },
+    {
+      "title": "GitHub's new dashboard experience now the default",
+      "link": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
+      "summary": "Article URL: https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/\nComments URL: https://news.ycombinator.com/item?id=49942818\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-03T09:59:01+00:00"
     },
     {
       "title": "Luxury Stocks Are Selling at Fast-Fashion Prices",
@@ -616,6 +660,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-03T09:26:03.445480+00:00"
+    },
+    {
+      "title": "Gemini ending free use of Flash and Pro models",
+      "link": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/",
+      "summary": "Article URL: https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/\nComments URL: https://news.ycombinator.com/item?id=49942592\nPoints: 16\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-03T09:13:19+00:00"
     },
     {
       "title": "食品消費税1%に賛否 減税効果は",
