@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T18:11:19.636739+00:00",
+  "generated_at": "2026-10-03T18:59:18.963947+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -557,6 +557,38 @@
     }
   ],
   "items": [
+    {
+      "title": "ADHD, autism or complex trauma? [pdf]",
+      "link": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf",
+      "summary": "Article URL: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf\nComments URL: https://news.ycombinator.com/item?id=49946403\nPoints: 63\n# Comments: 8",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-03T18:08:28+00:00"
+    },
+    {
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "link": "https://notoriousbfg.com/hole-punch/",
+      "summary": "Article URL: https://notoriousbfg.com/hole-punch/\nComments URL: https://news.ycombinator.com/item?id=49946393\nPoints: 15\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-03T18:06:45+00:00"
+    },
+    {
+      "title": "Pop!_OS bans AI-generated code from much of its codebase",
+      "link": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+      "summary": "Article URL: https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/\nComments URL: https://news.ycombinator.com/item?id=49946321\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-03T17:57:03+00:00"
+    },
+    {
+      "title": "Kolibri – Tech Report [pdf]",
+      "link": "https://aleph-alpha.com/downloads/tech-report.pdf",
+      "summary": "Article URL: https://aleph-alpha.com/downloads/tech-report.pdf\nComments URL: https://news.ycombinator.com/item?id=49946069\nPoints: 25\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-03T17:22:48+00:00"
+    },
     {
       "title": "RetailReady (YC W24) Is Hiring",
       "link": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
@@ -1188,6 +1220,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-03T06:31:28+00:00"
+    },
+    {
+      "title": "The characters of plastics (2024)",
+      "link": "https://yarchive.net/blog/plastics/",
+      "summary": "Article URL: https://yarchive.net/blog/plastics/\nComments URL: https://news.ycombinator.com/item?id=49941764\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-03T06:14:16+00:00"
     },
     {
       "title": "トランプ氏、公的医療保険加入者に90ドル給付表明 2000万人超 - jp.reuters.com",
@@ -2420,6 +2460,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-02T19:18:12+00:00"
+    },
+    {
+      "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+      "link": "https://pipod.dev/",
+      "summary": "pi pod runs sessions of the pi coding agent (https://github.com/earendil-works/pi) in isolated sandboxes (\"pods\") on a server you run, so an agent can work on a repo without touching your machine.\n\nComments URL: https://news.ycombinator.com/item?id=49937304\nPoints: 10\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-02T19:10:38+00:00"
     },
     {
       "title": "Apple Pass Designer",
