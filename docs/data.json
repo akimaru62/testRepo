@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T11:26:31.820652+00:00",
+  "generated_at": "2026-10-05T11:40:31.512789+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -586,6 +586,14 @@
       "published": "2026-10-05T15:00:00+00:00"
     },
     {
+      "title": "Musk hints TSMC may join his mega chip venture, and Intel’s stock is taking a hit",
+      "link": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
+      "summary": "Intel shares are taking a hit on Monday after a report that TSMC may help with Elon Musk’s Terafab factory.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-05T11:27:00+00:00"
+    },
+    {
       "title": "スペイン、１１月に総選挙　住宅対策の否決で―サンチェス首相表明",
       "link": "https://www.jiji.com/jc/article?k=2026100500693&g=int&m=rss",
       "summary": "",
@@ -682,6 +690,22 @@
       "published": "2026-10-05T11:19:00+00:00"
     },
     {
+      "title": "An AI ‘reality check’ may take the S&P 500 to 5,000. Here are the trades to make, this strategist says.",
+      "link": "https://www.marketwatch.com/story/an-ai-reality-check-may-take-the-s-p-500-to-5-000-heres-the-trades-to-make-this-strategist-says-263cf0e9?mod=mw_rss_topstories",
+      "summary": "Keep an eye on artificial-intelligence spending in the upcoming earnings season, Panmure Liberum’s Joachim Klement said.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-05T11:19:00+00:00"
+    },
+    {
+      "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+      "link": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
+      "summary": "Article URL: https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/\nComments URL: https://news.ycombinator.com/item?id=49963366\nPoints: 8\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-05T11:13:51+00:00"
+    },
+    {
       "title": "French, Spanish Bond Yields Rise on Fiscal, Political Uncertainty; Treasury Yields Steady",
       "link": "https://www.wsj.com/finance/investing/french-bond-yields-stay-elevated-treasury-yields-ease-13103f54?mod=rss_markets_main",
       "summary": "French government bond yields rose, staying at elevated levels amid building concerns over the country’s indebtness.",
@@ -704,6 +728,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-05T10:53:43+00:00"
+    },
+    {
+      "title": "Web Search API",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "summary": "Article URL: https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/\nComments URL: https://news.ycombinator.com/item?id=49963171\nPoints: 18\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-05T10:47:06+00:00"
     },
     {
       "title": "Bitcoin’s big bounce has graduated to a longer-term uptrend. Is it too late to buy?",
@@ -5376,6 +5408,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-03T12:00:00+00:00"
+    },
+    {
+      "title": "Type Safe Generic Data Structures in C",
+      "link": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
+      "summary": "Article URL: https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/\nComments URL: https://news.ycombinator.com/item?id=49943479\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-03T11:57:20+00:00"
     },
     {
       "title": "The Escalation of War in Ethiopia",
