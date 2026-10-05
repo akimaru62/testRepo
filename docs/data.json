@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T20:34:35.367419+00:00",
+  "generated_at": "2026-10-05T20:56:36.782486+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -570,6 +570,78 @@
   ],
   "items": [
     {
+      "title": "Stocks Up, Yields Up",
+      "link": "https://www.wsj.com/finance/stocks/stocks-up-yields-up-26f7463d?mod=rss_markets_main",
+      "summary": "Plus, Brent crude nears $100 and a deal shakes up logistics",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-05T20:56:00+00:00"
+    },
+    {
+      "title": "【現地ルポ】保守の牙城を揺らす民主党の新星｢アブドゥル･エルサイード｣とは何者か…トランプ支持候補と一騎打ち | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960014?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "全米注目のミシガン州上院選。医師であり｢国民皆健康保険｣を掲げるエルサイード氏と､トランプ大統領の全面支援を受けるロジャース氏の対決が､現地住民の生活費や医療不安とも結び付き熱を帯びる。\"変化\"を求…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-05T20:45:00+00:00"
+    },
+    {
+      "title": "ドイツ極右AfDが躍進した裏に｢チャイナショック｣…中国の産業競争力は世界中に｢トランプ現象｣を輸出している | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959782?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "9月6日､ドイツのザクセン･アンハルト州議会選挙で極右勢力AfDが圧倒的な躍進を遂げた背景には､深刻な経済危機があります。中国との競争激化と産業衰退が国内の分断と過激政党の台頭に拍車をかけています。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-05T20:45:00+00:00"
+    },
+    {
+      "title": "｢最高値の買収提案を選べばいい｣わけではない！M&Aをめぐる大きな3つの誤解に回答した経産省のメッセージ徹底解説 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959693?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "今年8月、ある投資ファンドのトップは、苦虫をかみつぶしたような表情を浮かべながら次のように吐き捨てた。「どうせ経済団体や、すねに傷を抱えた企業などからの陳情を受けて打ち出したのだろう。経済産業省は完…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-05T20:45:00+00:00"
+    },
+    {
+      "title": "Trump is promising $90 Medicare rebate checks ahead of the midterms. Here’s the hidden cost.",
+      "link": "https://www.marketwatch.com/story/trump-is-promising-90-medicare-rebate-checks-ahead-of-the-midterms-heres-the-hidden-cost-14b7e2ce?mod=mw_rss_topstories",
+      "summary": "The president is betting that he can make seniors forget rising healthcare costs",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-05T20:39:00+00:00"
+    },
+    {
+      "title": "House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty",
+      "link": "https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
+      "summary": "The bill bans federal candidates from trading prediction market contracts related to their own elections and would result in a fine if violated.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-10-05T20:31:19+00:00"
+    },
+    {
+      "title": "【大混乱】ニデック･岸田氏辞任でガバナンス構築はむしろ後退…｢永守チルドレン｣新社長は上場廃止を回避できるか | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960155?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "「この1年間、何をやっていたのか、信じられない思いだ」。会計不正からの立て直しを図るニデック。終わらない経営の混乱に元幹部はため息をついた。9月28日には再生を主導してきた岸田光哉氏の社長解任が報じ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-05T20:30:00+00:00"
+    },
+    {
+      "title": "動き出したトヨタ中国合弁の再編　広州汽車が一汽トヨタの中国側持ち分をすべて取得､南北一体化へ | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960081?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "中国自動車市場で注目を集めるトヨタ合弁企業の再編が動き出しました。広汽集団が一汽トヨタの株式50％を取得することで､南北トヨタの一体運営やモデル競合の整理が加速。はたしてこの再編が業界にどんな波紋を…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-05T20:30:00+00:00"
+    },
+    {
+      "title": "月8000個売れることも…\"喫煙者のオアシス\"銀座ルノアール､｢ザッハトルテ｣のヒットでつかんだ女性と若者という新鉱脈 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958506?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "業績不振やコロナ禍､禁煙条例など数々の逆風に苦しみ抜いた｢喫茶室ルノアール｣。厳しい時代を乗り越え､V字回復を遂げた今､老舗はどう新しい顧客層と向き合い､変革を進めているでしょうか。その舞台裏に迫り…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-05T20:30:00+00:00"
+    },
+    {
       "title": "McKesson and CD&R near $5bn-plus deal to buy infusion services provider",
       "link": "https://www.ft.com/content/0bc54eaf-d545-4591-bb7c-ec3cbc1cb89a?syn-25a6b1a6=1",
       "summary": "Acquisition of Option Care Health would be the latest buyout of an undervalued healthcare services company",
@@ -602,6 +674,14 @@
       "published": "2026-10-05T20:09:12+00:00"
     },
     {
+      "title": "The mental health of young men is declining. Experts warn it could get worse",
+      "link": "https://www.cbc.ca/news/health/the-mental-health-of-young-men-is-declining-experts-warn-it-could-get-worse-9.7361010",
+      "summary": "Article URL: https://www.cbc.ca/news/health/the-mental-health-of-young-men-is-declining-experts-warn-it-could-get-worse-9.7361010\nComments URL: https://news.ycombinator.com/item?id=49969933\nPoints: 14\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-05T20:07:25+00:00"
+    },
+    {
       "title": "Natural Gas Settles Higher on Storage Build Projections",
       "link": "https://www.wsj.com/finance/commodities-futures/natural-gas-inches-higher-even-with-mild-weather-outlook-f8fbb5a4?mod=rss_markets_main",
       "summary": "Natural gas futures settled up 1% to $3.066 per mmBtu for the day, with analysts anticipating that this week’s EIA storage report will show smaller-than-usual builds in natural gas storage.",
@@ -621,6 +701,14 @@
       "title": "原油先物約2ドル安、中東の輸出増とＧ７備蓄放出で - ロイター",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNSGh2eVp6eXQwOF9ZbS1JZnh1VVAtNHV5ZDlxOVlfWlZKSWZtS0RlR3RiMU9SNVNSX0ROb2UzNEEyUVFnU25adDZsLTdORHUzcDljLXI3RjRkV2ZRMW8tYVJBMXlKcy1YdVBJdEJKX0dyVHd4OFBjOHZoLUk5Zw?oc=5",
       "summary": "原油先物約2ドル安、中東の輸出増とＧ７備蓄放出で&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-05T19:59:49+00:00"
+    },
+    {
+      "title": "原油先物約2ドル安、中東の輸出増とＧ７備蓄放出で - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNSGh2eVp6eXQwOF9ZbS1JZnh1VVAtNHV5ZDlxOVlfWlZKSWZtS0RlR3RiMU9SNVNSX0ROb2UzNEEyUVFnU25adDZsLTdORHUzcDljLXI3RjRkV2ZRMW8tYVJBMXlKcy1YdVBJdEJKX0dyVHd4OFBjOHZoLUk5Zw?oc=5",
+      "summary": "原油先物約2ドル安、中東の輸出増とＧ７備蓄放出で&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-05T19:59:49+00:00"
@@ -650,12 +738,28 @@
       "published": "2026-10-05T19:33:00+00:00"
     },
     {
+      "title": "After bankruptcy, he was banned from sports betting sites. Then he found Kalshi",
+      "link": "https://www.npr.org/2026/10/02/nx-s1-5981420/kalshi-betting-prediction-markets-gambling-addiction",
+      "summary": "Article URL: https://www.npr.org/2026/10/02/nx-s1-5981420/kalshi-betting-prediction-markets-gambling-addiction\nComments URL: https://news.ycombinator.com/item?id=49969375\nPoints: 17\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-05T19:30:21+00:00"
+    },
+    {
       "title": "｢におい気にせず飲食できる｣観光列車旅の優越感　新幹線のような気遣い不要｢食事とお酒付き｣ | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/958170?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "18年前に寝台列車の魅力に目覚めた筆者が､今では\"食\"と\"景色\"を楽しむ観光列車の虜に。筆者の新刊『ひとりで楽しむ鉄道旅 おいしい！観光列車篇』（玄光社）に収まりきらなかったエピソードを交えながら､…",
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-10-05T19:30:00+00:00"
+    },
+    {
+      "title": "The Future of Mathematics",
+      "link": "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/\nComments URL: https://news.ycombinator.com/item?id=49969256\nPoints: 9\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-05T19:22:40+00:00"
     },
     {
       "title": "パキスタン・トルコ、サウジに部隊迅速展開へ 3カ国共同防衛義務履行 - jp.reuters.com",
