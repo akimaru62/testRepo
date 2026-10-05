@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T08:19:12.813222+00:00",
+  "generated_at": "2026-10-05T08:55:21.211771+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -554,6 +554,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -588,6 +592,46 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-05T10:00:00+00:00"
+    },
+    {
+      "title": "簗農水相「予算カット」発言撤回　高市首相、職責全うを指示",
+      "link": "https://www.jiji.com/jc/article?k=2026100500659&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-05T08:55:08.722957+00:00"
+    },
+    {
+      "title": "走るEVに路面からワイヤレス充電　ホンダなど、27年度以降に実証",
+      "link": "https://www.asahi.com/articles/ASVB52GJ6VB5ULFA001M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-05T08:55:08.353111+00:00"
+    },
+    {
+      "title": "トヨタが燃料電池バス「SORA」の新型を発売　いすゞと共同開発",
+      "link": "https://www.asahi.com/articles/ASVB52G35VB5ULFA00PM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-05T08:55:08.353077+00:00"
+    },
+    {
+      "title": "U.S. Stock Futures Steady as French Fiscal Pressure Raises Contagion Risk",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-steady-as-french-fiscal-pressure-raises-contagion-risk-468c102a?mod=rss_markets_main",
+      "summary": "U.S. stock indexes were little moved after rising sharply Friday, when weak jobs data dimmed expectations for Fed rate hikes and supported risk assets.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-05T08:50:00+00:00"
+    },
+    {
+      "title": "French Bond Yields Stay Elevated, Treasury Yields Ease",
+      "link": "https://www.wsj.com/finance/investing/french-bond-yields-stay-elevated-treasury-yields-ease-13103f54?mod=rss_markets_main",
+      "summary": "French government bond yields rose, staying at elevated levels amid building concerns over the country’s indebtness.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-05T08:27:00+00:00"
     },
     {
       "title": "簗（やな）氏は高市首相から職務を全うするよう指示されたと明らかにした",
@@ -708,6 +752,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-05T07:52:00.351451+00:00"
+    },
+    {
+      "title": "Sales of sub-€25,000 electric car models set to rise sevenfold",
+      "link": "https://www.transportenvironment.org/articles/wave-of-affordable-electric-cars-is-boosting-consumers-choice-sales-of-sub-eur25-000-models-set-to-rise-sevenfold",
+      "summary": "Article URL: https://www.transportenvironment.org/articles/wave-of-affordable-electric-cars-is-boosting-consumers-choice-sales-of-sub-eur25-000-models-set-to-rise-sevenfold\nComments URL: https://news.ycombinator.com/item?id=49961890\nPoints: 19\n# Comments: 8",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-05T07:51:14+00:00"
     },
     {
       "title": "スペイン、議会解散し11月29日に総選挙 首相表明 - ロイター",
