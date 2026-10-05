@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T14:53:55.558285+00:00",
+  "generated_at": "2026-10-05T15:09:04.612749+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -558,6 +558,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7ffa14e3d160>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -584,6 +588,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-05T15:00:00+00:00"
+    },
+    {
+      "title": "リフレ政策、終焉迎えているのは当然＝諮問会議で若田部前日銀副総裁 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVkZyZWNxTVE3SEpKMXlVaWFSNUpFMDlITnVRS1Bya3ZuYzZZV05iSVk3LTBiUno1dHdsZEZaVy0zZjFkdnhpVHFMNWVSbktxdXVLeFlvaUF4T0ZEN3Q3SVVxZ0kwUjZVMlgxbXJ5XzlmYjJGcFFoaTQ1Y1d4SUpTd045SU1nS3dWUmNGTzNhYw?oc=5",
+      "summary": "リフレ政策、終焉迎えているのは当然＝諮問会議で若田部前日銀副総裁&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-05T14:53:44+00:00"
+    },
+    {
+      "title": "I bought a $126 concert ticket for my sister and now she can’t go. What’s the latest I can resell my ticket to break even?",
+      "link": "https://www.marketwatch.com/story/i-bought-a-126-concert-ticket-for-my-sister-and-now-she-cant-go-will-i-be-able-to-make-a-profit-selling-the-ticket-1dd5cbe9?mod=mw_rss_topstories",
+      "summary": "“I’m having trouble accepting that I’ll probably lose some money.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-05T14:38:00+00:00"
     },
     {
       "title": "I got a $499 body scan to see if I have cancer. Here’s what I learned.",
@@ -637,6 +657,14 @@
       "title": "米サービス部門ＰＭＩ、9月は54.9に低下 物価上昇圧力増す - ロイター",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVZqeTFmLWxsQVJGXy0yMWhjZU1ROHcwLXNqZGpfQ1EyX2RLZjZyaUdKMEFZZkIzWDdiR3Q1OTBzaUNwbzN6emhWNHdjeHFQSTZDbFFGVnlneEc3bEUwS0xKcVIweXc5cXp1SFBjNzU4cy05WWJDYndYYUJXc2VFaGVTRlE?oc=5",
       "summary": "米サービス部門ＰＭＩ、9月は54.9に低下 物価上昇圧力増す&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-05T14:03:43+00:00"
+    },
+    {
+      "title": "米サービス部門ＰＭＩ、9月は54.9に低下 物価上昇圧力増す - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVZqeTFmLWxsQVJGXy0yMWhjZU1ROHcwLXNqZGpfQ1EyX2RLZjZyaUdKMEFZZkIzWDdiR3Q1OTBzaUNwbzN6emhWNHdjeHFQSTZDbFFGVnlneEc3bEUwS0xKcVIweXc5cXp1SFBjNzU4cy05WWJDYndYYUJXc2VFaGVTRlE?oc=5",
+      "summary": "米サービス部門ＰＭＩ、9月は54.9に低下 物価上昇圧力増す&nbsp;&nbsp;jp.reuters.com",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-05T14:03:43+00:00"
@@ -1333,6 +1361,14 @@
       "title": "Stock Market Today: Dollar Strengthens as Investors Look for Safety",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-05-2026?mod=rss_markets_main",
       "summary": "Euro dragged by France's fiscal woes",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-05T09:11:59+00:00"
+    },
+    {
+      "title": "Stock Market Today: 10-Year Yield Rises; Nasdaq Poised to Hit New High",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-05-2026?mod=rss_markets_main",
+      "summary": "Dollar strengthens against euro, while Brazilian real rallies after election",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-05T09:11:59+00:00"
