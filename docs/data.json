@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T18:10:51.046300+00:00",
+  "generated_at": "2026-10-05T18:34:24.746803+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -570,12 +570,52 @@
   ],
   "items": [
     {
+      "title": "６日の予告先発投手　プロ野球パ・リーグ",
+      "link": "https://www.jiji.com/jc/article?k=2026100500767&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-05T18:34:19.111620+00:00"
+    },
+    {
+      "title": "Nasdaq Poised to Hit New High as Treasury Yields Climb",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-steady-as-french-fiscal-pressure-raises-contagion-risk-468c102a?mod=rss_markets_main",
+      "summary": "The Nasdaq composite meanwhile is leading stock indexes higher, poised to close at a record.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-05T18:29:00+00:00"
+    },
+    {
+      "title": "Cocoa prices are climbing again. Here’s why this time is different",
+      "link": "https://www.cnbc.com/2026/10/05/cocoa-prices-are-climbing-again-heres-why-this-time-is-different.html",
+      "summary": "Cocoa prices are rising again as El Niño threatens West African supplies. Chocolate makers have few easy fixes to absorb higher costs.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-10-05T18:02:53+00:00"
+    },
+    {
       "title": "Announcing the AWS Digital Sovereignty Well-Architected Lens",
       "link": "https://aws.amazon.com/blogs/architecture/announcing-the-aws-digital-sovereignty-well-architected-lens/",
       "summary": "October 2026: This post was reviewed and updated for accuracy. Today we’re launching the AWS Digital Sovereignty Lens, a new Well-Architected lens providing customers with extended guidance for designing, building, and operating sovereign workloads on AWS. Customers tell us that digital sovereignty brings a unique set of challenges that existing architecture guidance doesn’t fully address. […]",
       "source": "AWS ブログ (アーキテクチャ)",
       "category": "開発者向け",
       "published": "2026-10-05T17:54:56+00:00"
+    },
+    {
+      "title": "Announcing the AWS Digital Sovereignty Lens for the Well-Architected Framework",
+      "link": "https://aws.amazon.com/blogs/architecture/announcing-the-aws-digital-sovereignty-well-architected-lens/",
+      "summary": "October 2026: This post was reviewed and updated for accuracy. Today we’re launching the AWS Digital Sovereignty Lens, a new Well-Architected lens providing customers with extended guidance for designing, building, and operating sovereign workloads on AWS. Customers tell us that digital sovereignty brings a unique set of challenges that existing architecture guidance doesn’t fully address. […]",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-10-05T17:54:56+00:00"
+    },
+    {
+      "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+      "link": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
+      "summary": "Article URL: https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/\nComments URL: https://news.ycombinator.com/item?id=49968105\nPoints: 29\n# Comments: 15",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-05T17:53:35+00:00"
     },
     {
       "title": "AI chatbots recommend shopping at Walmart over just about anywhere else, analysts find",
@@ -597,6 +637,14 @@
       "title": "ガソリン高騰、民主党とウクライナの製油所攻撃に責任＝トランプ氏 - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWFZNTDZKV0dKUTlfQXJDRmV5TThsdlA1QWt5UGJKZTQ5TmlENC04bmhoa2FmOGRmR2oxTG4xaTVzZjRWNVc3RXliR1gtNEkxSnpqOUxwS2cybmVyTDRPcEphWlAwTHI1WDdWRTYyU0xDVklLZ3ZnV0ZmelFtMGpyMkdqMXM?oc=5",
       "summary": "ガソリン高騰、民主党とウクライナの製油所攻撃に責任＝トランプ氏&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-05T17:39:43+00:00"
+    },
+    {
+      "title": "ガソリン高騰、民主党とウクライナの製油所攻撃に責任＝トランプ氏 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWFZNTDZKV0dKUTlfQXJDRmV5TThsdlA1QWt5UGJKZTQ5TmlENC04bmhoa2FmOGRmR2oxTG4xaTVzZjRWNVc3RXliR1gtNEkxSnpqOUxwS2cybmVyTDRPcEphWlAwTHI1WDdWRTYyU0xDVklLZ3ZnV0ZmelFtMGpyMkdqMXM?oc=5",
+      "summary": "ガソリン高騰、民主党とウクライナの製油所攻撃に責任＝トランプ氏&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-05T17:39:43+00:00"
@@ -1701,6 +1749,14 @@
       "title": "FOUR.L - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DSUVWODNqQ3RUeTN1eDJwVUZIUEZ3b0o4VmVuUU1MOWkzandHSHJOczJ3VnhoajRiaEQzYVcwVDU0UmdScGhnYTN4amJnMGpQeEVPRHdLWksxVDJtNHk5UnNqblJVMzF4Z3Jn?oc=5",
       "summary": "FOUR.L&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-05T10:14:06+00:00"
+    },
+    {
+      "title": "FOUR.L - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DSUVWODNqQ3RUeTN1eDJwVUZIUEZ3b0o4VmVuUU1MOWkzandHSHJOczJ3VnhoajRiaEQzYVcwVDU0UmdScGhnYTN4amJnMGpQeEVPRHdLWksxVDJtNHk5UnNqblJVMzF4Z3Jn?oc=5",
+      "summary": "FOUR.L&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-05T10:14:06+00:00"
