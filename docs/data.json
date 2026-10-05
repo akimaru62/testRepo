@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T18:34:24.746803+00:00",
+  "generated_at": "2026-10-05T18:57:18.213676+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -570,12 +570,28 @@
   ],
   "items": [
     {
+      "title": "仏トタルＣＥＯ「平和より混乱の世界好む」、より多くの機会創出 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GYVBxZVp4Q0ZSd0FpdGNzcGdwVjNKczJzM3BCSDhVQnJZUUFvbXFNeV9JdW5wS0NkRWp0R3k0cDhQMDF2Z0JsMjMzVEk2SzBsb1BCNlR6SHhmRktSSWtMaG56VGdodlp0RC1TajBWLUg1SzdseUVYa01lMWs?oc=5",
+      "summary": "仏トタルＣＥＯ「平和より混乱の世界好む」、より多くの機会創出&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-05T18:43:43+00:00"
+    },
+    {
       "title": "６日の予告先発投手　プロ野球パ・リーグ",
       "link": "https://www.jiji.com/jc/article?k=2026100500767&g=spo&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-05T18:34:19.111620+00:00"
+    },
+    {
+      "title": "Trump Accounts’ Extraordinary Expansion Puts Individual Stocks Into Kids’ Holdings",
+      "link": "https://www.wsj.com/politics/policy/trump-accounts-extraordinary-expansion-puts-individual-stocks-into-kids-holdings-6c8b8811?mod=rss_markets_main",
+      "summary": "The latest shift in the program ties children’s wealth building directly to the fate of particular companies.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-05T18:34:00+00:00"
     },
     {
       "title": "Nasdaq Poised to Hit New High as Treasury Yields Climb",
@@ -4888,6 +4904,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-04T09:41:00.207893+00:00"
+    },
+    {
+      "title": "Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear",
+      "link": "https://github.com/rsutcliffe/nightwatch",
+      "summary": "Here in the north of England clear nights are at a premium, and it's never guaranteed that you'll be able to see anything but cloud. That's why I developed Nightwatch, so that I could be notified when one of those precious few nights where I could see into the heavens was available. Finding out whether tonight was worth setting up meant reading forecast charts every evening, usually to learn that it was not. Nightwatch does that reading for me.It sits in the Mac's menu bar and refreshes the forecast every 30 minutes. An hour before sunset it sends one notification, and only if there is an unbroken run of clear sky in astronomical darkness long enough to image in. Otherwise it says nothing: no news means \"clouds\".I hope this is useful for other hobbyist stargazers too!When I was a child I wanted desperately to be an astronaut or a dinosaur. I'm now old enough to be the latter and was born in a country where the former was never an option. I've had a fascination with the stars since a a friend of my father gifted me a telescope, and have faded memories of sharing time with my father staring at the stars. My father passed away a few years back and the memory of those nights came back, along with the want to share the same experience with my kids and grandchild.The app uses two forecasts: Apple's WeatherKit is the main source and Open-Meteo is a second opinion. When they disagree, the alert says so instead of averaging them.Thin high cloud counts for half. Stacking many short frames works through a veil of cirrus, so treating it as full cloud threw away usable nights.It works on your own horizon: hills come from terrain data, and you set the houses and trees in each direction, so they are accounted for when it says what is up.It works out, a year ahead, when the Moon will pass in front of a planet, a bright star or the Pleiades as seen from your site.You don't need an account. What leaves the Mac is the coordinates of the place being forecast, sent to the forecast and sky-survey services listed in PRIVACY.md.Limits: Mac only, and the aurora alerts are UK only. The worldwide light-pollution data is new this week. I have checked it against Britain's finer grid and a handful of cities, so I would especially like to hear from people elsewhere whether the darkness it suggests for your site looks right.\n\nComments URL: https://news.ycombinator.com/item?id=49952148\nPoints: 16\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-04T09:31:01+00:00"
     },
     {
       "title": "Paramount’s $52 Billion Debt Sale Shows How Higher Rates Are Biting Corporate America",
