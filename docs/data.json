@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T13:35:52.101753+00:00",
+  "generated_at": "2026-10-05T13:55:49.453022+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -586,12 +586,44 @@
       "published": "2026-10-05T15:00:00+00:00"
     },
     {
+      "title": "ロシアのハイブリッド攻撃急増、欧州全域で人命脅かす＝ＥＵ外相 - jp.reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQVZONGZNeTNIRWZyRk5rVjNkTmVEcmlNcmdlMzJSU2NtQ0NpVEFKc3FFQ3JoM3RFSVNuT0FxNEc4NEZMbkRYcy1kRGZ4bW13NTktLUlONEMzZEotOWwtZjRpS25RTUtGZi1BN3RPMTZiQ3BFSEtHSzBHNUN2Rno0NkxyQ0g?oc=5",
+      "summary": "ロシアのハイブリッド攻撃急増、欧州全域で人命脅かす＝ＥＵ外相&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-05T13:44:42+00:00"
+    },
+    {
+      "title": "US ‘monitoring’ situation around suspected case of plague in Russia",
+      "link": "https://www.ft.com/content/0a45595f-4889-4436-847f-1bddce813009?syn-25a6b1a6=1",
+      "summary": "Moscow has imposed sweeping quarantine measures in Siberia after death of plague research institute worker",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-05T13:37:31+00:00"
+    },
+    {
       "title": "Brazil’s markets rally as investors bet on Bolsonaro win",
       "link": "https://www.ft.com/content/47965ed4-5c40-4c91-ab1e-418aa75bb42a?syn-25a6b1a6=1",
       "summary": "Rightwinger seen as more likely than current president Lula to enact quick spending cuts",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-05T13:20:36+00:00"
+    },
+    {
+      "title": "Brazil’s markets jump as investors bet on Bolsonaro win",
+      "link": "https://www.ft.com/content/47965ed4-5c40-4c91-ab1e-418aa75bb42a?syn-25a6b1a6=1",
+      "summary": "Rightwinger seen as more likely than current president Lula to enact quick spending cuts",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-05T13:20:36+00:00"
+    },
+    {
+      "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
+      "link": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
+      "summary": "Article URL: https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped\nComments URL: https://news.ycombinator.com/item?id=49964303\nPoints: 46\n# Comments: 26",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-05T13:02:25+00:00"
     },
     {
       "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
@@ -602,12 +634,28 @@
       "published": "2026-10-05T13:00:00+00:00"
     },
     {
+      "title": "Gitframes",
+      "link": "https://github.com/gatewai-dev/gitframes",
+      "summary": "Article URL: https://github.com/gatewai-dev/gitframes\nComments URL: https://news.ycombinator.com/item?id=49964265\nPoints: 16\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-05T12:59:14+00:00"
+    },
+    {
       "title": "回転ずしの大起水産、17万人分の個人情報が流出か　不正アクセスで",
       "link": "https://www.asahi.com/articles/ASVB53VGWVB5PLFA00KM.html?ref=rss",
       "summary": "",
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-05T12:44:24.563302+00:00"
+    },
+    {
+      "title": "Tell HN: Uceprotect is extorting website owners",
+      "link": "https://news.ycombinator.com/item?id=49964045",
+      "summary": "I recently discovered by accident that our website was being blocked by Orange's security filters.After a quick check, I found that our IP address is listed on UCEPROTECT Level 3. The listing is based on the reputation of the entire ASN 14061 (DigitalOcean, US) [1]. In other words, even if your IP did nothing wrong, it will still be listed because of its ASN.If your site is innocent and listed only because it's hosted on DigitalOcean, UCEPROTECT offers to whitelist it for about $30/month or $108/year [2].I checked the ASNs of several other popular hosting providers, and they're all listed too. So if your site is hosted on DigitalOcean or any other major provider, it's probably blacklisted as well. That can cut you off from customers on mobile networks like Orange, whose \"cybersecurity protection\" uses blacklists like UCEPROTECT to filter traffic.Honestly, in my 20-year career, this is the first time I've seen a blacklist misbehave this badly and ask for money when there's clearly been no wrongdoing.[1] http://www.uceprotect.net/en/rblcheck.php?asn=14061[2] https://www.whitelisted.org/\n\nComments URL: https://news.ycombinator.com/item?id=49964045\nPoints: 12\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-05T12:35:55+00:00"
     },
     {
       "title": "The Era of Software Quality, or the Era of Ostriches?",
