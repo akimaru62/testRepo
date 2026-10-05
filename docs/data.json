@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:09:04.612749+00:00",
+  "generated_at": "2026-10-05T15:29:35.423727+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -562,6 +562,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7ffa14e3d160>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -572,6 +576,78 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-05T17:00:00+00:00"
+    },
+    {
+      "title": "仏高校デモ受け最大５００校が休校に、抗議活動開始後の逮捕者は５０００人以上",
+      "link": "https://www.jiji.com/jc/article?k=20261005049424a&g=afp&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-05T15:29:21.357306+00:00"
+    },
+    {
+      "title": "日本、高さ封じ握った主導権　躍動感あふれた攻撃―キリン杯サッカー",
+      "link": "https://www.jiji.com/jc/article?k=2026100501000&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-05T15:29:21.357294+00:00"
+    },
+    {
+      "title": "中野、サイドバックで存在感　キリン杯サッカー",
+      "link": "https://www.jiji.com/jc/article?k=2026100501058&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-05T15:29:21.357281+00:00"
+    },
+    {
+      "title": "イスラエル選手、ハマス襲撃犠牲者を追悼する腕章着けプレー アイルランド選手も抗議の腕章",
+      "link": "https://www.jiji.com/jc/article?k=20261005049425a&g=afp&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-05T15:29:21.357268+00:00"
+    },
+    {
+      "title": "キリン杯サッカー・談話",
+      "link": "https://www.jiji.com/jc/article?k=2026100501002&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-05T15:29:21.357254+00:00"
+    },
+    {
+      "title": "岡村、デビュー戦で初安打―プロ野球・ロッテ",
+      "link": "https://www.jiji.com/jc/article?k=2026100501030&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-05T15:29:21.357240+00:00"
+    },
+    {
+      "title": "西武、本拠地ＣＳ手中に　高橋光「素直にうれしい」―プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026100501027&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-05T15:29:21.357223+00:00"
+    },
+    {
+      "title": "久保、トップ下で貢献　キリン杯サッカー",
+      "link": "https://www.jiji.com/jc/article?k=2026100501052&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-05T15:29:21.357184+00:00"
+    },
+    {
+      "title": "Parents upset after CA high school cuts honors classes for 'equity' reasons",
+      "link": "https://thenationaldesk.com/news/americas-news-now/parents-upset-after-california-high-school-cuts-honors-classes-for-equity-reasons-san-diego-advanced-patrick-henry-gpa-college-admissions-kids-students-grades",
+      "summary": "Article URL: https://thenationaldesk.com/news/americas-news-now/parents-upset-after-california-high-school-cuts-honors-classes-for-equity-reasons-san-diego-advanced-patrick-henry-gpa-college-admissions-kids-students-grades\nComments URL: https://news.ycombinator.com/item?id=49965856\nPoints: 8\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-05T15:08:20+00:00"
     },
     {
       "title": "「金融業界横断的なサイバーセキュリティ演習 （Delta Wall 2026）」の実施について公表しました。",
@@ -620,6 +696,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-10-05T14:24:10+00:00"
+    },
+    {
+      "title": "Making a GTK application in Haskell, part 1",
+      "link": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+      "summary": "Article URL: https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/\nComments URL: https://news.ycombinator.com/item?id=49965308\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-05T14:23:47+00:00"
     },
     {
       "title": "Natural Gas Inches Higher Even With Mild Weather Outlook",
@@ -996,6 +1080,22 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-05T11:19:00+00:00"
+    },
+    {
+      "title": "Show HN: Minigraf – An embedded, bi-temporal graph database in Rust",
+      "link": "https://github.com/project-minigraf/minigraf",
+      "summary": "A successor project to my previous attempt at building a temporal graph database (https://news.ycombinator.com/item?id=23455516). This one builds on its predecessor's concept, but drops the dependency on another database to provide the storage, transaction and query engines. Minigraf is self-contained, packaged as a library crate, embeds into your application, and supports full bi-temporality.\n\nComments URL: https://news.ycombinator.com/item?id=49963394\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-05T11:18:18+00:00"
+    },
+    {
+      "title": "Mold Linker Version 3.0.0 Release – Rewritten in Rust",
+      "link": "https://github.com/rui314/mold/releases/tag/v3.0.0",
+      "summary": "Article URL: https://github.com/rui314/mold/releases/tag/v3.0.0\nComments URL: https://news.ycombinator.com/item?id=49963385\nPoints: 23\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-05T11:17:18+00:00"
     },
     {
       "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
@@ -3804,6 +3904,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-04T18:49:17+00:00"
+    },
+    {
+      "title": "Mosquitoes Are a Choice",
+      "link": "https://worksinprogress.co/issue/mosquitoes-are-a-choice/",
+      "summary": "Article URL: https://worksinprogress.co/issue/mosquitoes-are-a-choice/\nComments URL: https://news.ycombinator.com/item?id=49956290\nPoints: 37\n# Comments: 29",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-04T18:06:04+00:00"
     },
     {
       "title": "イエメン、大規模軍事作戦を宣言　フーシ派から領土奪還狙う",
