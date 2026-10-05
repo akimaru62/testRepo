@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T19:43:19.466118+00:00",
+  "generated_at": "2026-10-05T20:34:35.367419+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -570,6 +570,78 @@
   ],
   "items": [
     {
+      "title": "McKesson and CD&R near $5bn-plus deal to buy infusion services provider",
+      "link": "https://www.ft.com/content/0bc54eaf-d545-4591-bb7c-ec3cbc1cb89a?syn-25a6b1a6=1",
+      "summary": "Acquisition of Option Care Health would be the latest buyout of an undervalued healthcare services company",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-05T20:23:36+00:00"
+    },
+    {
+      "title": "U.S. Stocks Rise as AI Bets Offset Bond Yield Fears",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-ai-bets-offset-bond-yield-fears-9dd6ce7f?mod=rss_markets_main",
+      "summary": "U.S. stocks rose as optimism about the artificial-intelligence boom offset a rise in bond yields around the world.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-05T20:22:00+00:00"
+    },
+    {
+      "title": "Investors see big opportunity in ferocious 2026 bond-market rout",
+      "link": "https://www.marketwatch.com/story/investors-see-big-opportunity-in-ferocious-2026-bond-market-rout-e5cc94f3?mod=mw_rss_topstories",
+      "summary": "The bond market rout of 2026 may be jolting markets, but it’s also gaining a important following among savers and the risk averse.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-05T20:14:00+00:00"
+    },
+    {
+      "title": "GitHub Actions Has Problems",
+      "link": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
+      "summary": "Article URL: https://www.githubstatus.com/incidents/3q1yb5m7ltvb\nComments URL: https://news.ycombinator.com/item?id=49969961\nPoints: 14\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-05T20:09:12+00:00"
+    },
+    {
+      "title": "Natural Gas Settles Higher on Storage Build Projections",
+      "link": "https://www.wsj.com/finance/commodities-futures/natural-gas-inches-higher-even-with-mild-weather-outlook-f8fbb5a4?mod=rss_markets_main",
+      "summary": "Natural gas futures settled up 1% to $3.066 per mmBtu for the day, with analysts anticipating that this week’s EIA storage report will show smaller-than-usual builds in natural gas storage.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-05T20:01:00+00:00"
+    },
+    {
+      "title": "｢刺されている！｣イスラエル行き航空機の副操縦士が機長を襲い急降下､乗客が阻止した｢9.11型テロ｣未遂の一部始終 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960102?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "イスラエルとUAEを結ぶ直行便で発生した前代未聞のハイジャック未遂事件。副操縦士自らが機体を墜落させようとする中､勇気ある乗客と機長の決死の抵抗によって惨事は回避されました。なぜ防げなかったのか､そ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-05T20:00:00+00:00"
+    },
+    {
+      "title": "原油先物約2ドル安、中東の輸出増とＧ７備蓄放出で - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNSGh2eVp6eXQwOF9ZbS1JZnh1VVAtNHV5ZDlxOVlfWlZKSWZtS0RlR3RiMU9SNVNSX0ROb2UzNEEyUVFnU25adDZsLTdORHUzcDljLXI3RjRkV2ZRMW8tYVJBMXlKcy1YdVBJdEJKX0dyVHd4OFBjOHZoLUk5Zw?oc=5",
+      "summary": "原油先物約2ドル安、中東の輸出増とＧ７備蓄放出で&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-05T19:59:49+00:00"
+    },
+    {
+      "title": "Opinion | Covid, Climate and the ‘Consensus Trap’",
+      "link": "https://www.wsj.com/opinion/covid-climate-and-the-consensus-trap-2c91d57f?mod=rss_markets_main",
+      "summary": "Scientists are as prone as anyone else to groupthink, and stifling dissent often produces disaster.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-05T19:57:00+00:00"
+    },
+    {
+      "title": "Opinion | When Can You Sue if Your 401(k) Underperforms?",
+      "link": "https://www.wsj.com/opinion/when-can-you-sue-if-your-401-k-underperforms-5fe689d7?mod=rss_markets_main",
+      "summary": "Investors sought to hedge risk and got lower returns. Now the Supreme Court will hear their case.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-05T19:55:00+00:00"
+    },
+    {
       "title": "Gold Slips Again",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-as-softer-than-expected-inflation-data-tempers-rate-hike-bets-adcd6783?mod=rss_markets_main",
       "summary": "Gold prices slipped amid strength in the dollar.",
@@ -589,6 +661,14 @@
       "title": "パキスタン・トルコ、サウジに部隊迅速展開へ 3カ国共同防衛義務履行 - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWGp1d2gtMDFVVzB4NHBkak1XM3lGUm9wbE9PWU9GOGJRVG43R21LTm5RUUgwRkxBN1JfQWU3LWFaMmNZdFFvMzExeDlUX2F5WVlmS1BlMGNUa0FoSDRyZzR0OHpCcXVKelJlSkJxNmgwaFJ2Y0dZTmM1Y0JTT01LbGd5VnpWdw?oc=5",
       "summary": "パキスタン・トルコ、サウジに部隊迅速展開へ 3カ国共同防衛義務履行&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-05T19:20:06+00:00"
+    },
+    {
+      "title": "パキスタン・トルコ、サウジに部隊迅速展開へ 3カ国共同防衛義務履行 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWGp1d2gtMDFVVzB4NHBkak1XM3lGUm9wbE9PWU9GOGJRVG43R21LTm5RUUgwRkxBN1JfQWU3LWFaMmNZdFFvMzExeDlUX2F5WVlmS1BlMGNUa0FoSDRyZzR0OHpCcXVKelJlSkJxNmgwaFJ2Y0dZTmM1Y0JTT01LbGd5VnpWdw?oc=5",
+      "summary": "パキスタン・トルコ、サウジに部隊迅速展開へ 3カ国共同防衛義務履行&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-05T19:20:06+00:00"
@@ -618,6 +698,14 @@
       "published": "2026-10-05T18:59:28+00:00"
     },
     {
+      "title": "Why Plain Text Is Still One of the Best Technologies We Have",
+      "link": "https://deadparrotbbs.com/why-plain-text-is-still-one-of-the-best-technologies-we-have/",
+      "summary": "Article URL: https://deadparrotbbs.com/why-plain-text-is-still-one-of-the-best-technologies-we-have/\nComments URL: https://news.ycombinator.com/item?id=49968906\nPoints: 90\n# Comments: 35",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-05T18:54:00+00:00"
+    },
+    {
       "title": "ProPublica Reporters Became Private School Owners in 24 Hours",
       "link": "https://www.propublica.org/article/propublica-reporters-private-school-owners",
       "summary": "Article URL: https://www.propublica.org/article/propublica-reporters-private-school-owners\nComments URL: https://news.ycombinator.com/item?id=49968819\nPoints: 6\n# Comments: 0",
@@ -629,6 +717,14 @@
       "title": "仏トタルＣＥＯ「平和より混乱の世界好む」、より多くの機会創出 - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GYVBxZVp4Q0ZSd0FpdGNzcGdwVjNKczJzM3BCSDhVQnJZUUFvbXFNeV9JdW5wS0NkRWp0R3k0cDhQMDF2Z0JsMjMzVEk2SzBsb1BCNlR6SHhmRktSSWtMaG56VGdodlp0RC1TajBWLUg1SzdseUVYa01lMWs?oc=5",
       "summary": "仏トタルＣＥＯ「平和より混乱の世界好む」、より多くの機会創出&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-05T18:43:43+00:00"
+    },
+    {
+      "title": "仏トタルＣＥＯ「平和より混乱の世界好む」、より多くの機会創出 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GYVBxZVp4Q0ZSd0FpdGNzcGdwVjNKczJzM3BCSDhVQnJZUUFvbXFNeV9JdW5wS0NkRWp0R3k0cDhQMDF2Z0JsMjMzVEk2SzBsb1BCNlR6SHhmRktSSWtMaG56VGdodlp0RC1TajBWLUg1SzdseUVYa01lMWs?oc=5",
+      "summary": "仏トタルＣＥＯ「平和より混乱の世界好む」、より多くの機会創出&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-05T18:43:43+00:00"
@@ -2053,6 +2149,14 @@
       "title": "Stock Market Today: 10-Year Yield Rises; Nasdaq Poised to Hit New High",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-05-2026?mod=rss_markets_main",
       "summary": "Dollar strengthens against euro, while Brazilian real rallies after election",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-05T09:11:59+00:00"
+    },
+    {
+      "title": "Stock Market Today: 10-Year Yield Rises; Nasdaq Jumps to New High",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-05-2026?mod=rss_markets_main",
+      "summary": "Dollar strengthens, while Brazilian assets rally after election",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-05T09:11:59+00:00"
