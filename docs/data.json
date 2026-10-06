@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T20:53:26.298818+00:00",
+  "generated_at": "2026-10-06T21:07:22.555056+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -578,6 +578,14 @@
   ],
   "items": [
     {
+      "title": "Building Git infrastructure for agent-scale development",
+      "link": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+      "summary": "Writes are accelerating, and this growth can add stress to systems all repos depend on. Here's our approach to building architecture that can scale.\nThe post Building Git infrastructure for agent-scale development appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "category": "開発者向け",
+      "published": "2026-10-06T20:57:56+00:00"
+    },
+    {
       "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
       "link": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
       "summary": "The S&amp;P 500 returned to an intraday record Tuesday as tech gains, easing oil prices and Treasury yields helped stocks overcome months of market shocks.",
@@ -608,6 +616,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-06T20:42:00+00:00"
+    },
+    {
+      "title": "OpenSSH 10.6 Released",
+      "link": "https://www.openssh.org/releasenotes.html#10.6",
+      "summary": "Article URL: https://www.openssh.org/releasenotes.html#10.6\nComments URL: https://news.ycombinator.com/item?id=49983791\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-06T20:41:39+00:00"
     },
     {
       "title": "Opinion | Washington Needs the Tax-Reform Spirit of ’86",
@@ -658,6 +674,22 @@
       "published": "2026-10-06T20:30:00+00:00"
     },
     {
+      "title": "System-level ad-blocking in Android",
+      "link": "https://kevinboone.me/adblock.html",
+      "summary": "Article URL: https://kevinboone.me/adblock.html\nComments URL: https://news.ycombinator.com/item?id=49983647\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-06T20:29:10+00:00"
+    },
+    {
+      "title": "Meta's Muse AI agent is building a dossier on you",
+      "link": "https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/",
+      "summary": "Article URL: https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/\nComments URL: https://news.ycombinator.com/item?id=49983579\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-06T20:24:45+00:00"
+    },
+    {
       "title": "U.S. Stocks Rise as AI Momentum Builds",
       "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-ai-momentum-builds-6f054e9f?mod=rss_markets_main",
       "summary": "U.S. stocks rose and the broad S&amp;P 500 hit a record high as artificial-intelligence bets regained upward momentum.",
@@ -680,6 +712,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-06T20:15:00+00:00"
+    },
+    {
+      "title": "原油先物ほぼ横ばい、中東供給増とフーシ派攻撃巡る懸念見極め - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PS29tQWRDYTZKb2I2T2JTZlV1WUtiYWpIVzhYcmdXWGNHX0d3SDVPa1ZxX25IZm1fZ1N6NDN0S2sxaFVic3FESXRIMHQxcDBQQWxIenRTVS1lUGx0N1V3b3pLOWVyYXBfOGVDemtnLWFmRFQ0ZlpvVXJzUlI?oc=5",
+      "summary": "原油先物ほぼ横ばい、中東供給増とフーシ派攻撃巡る懸念見極め&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-06T20:11:43+00:00"
     },
     {
       "title": "Ships’ captains paid $100,000 a month to transit Strait of Hormuz",
@@ -784,6 +824,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-06T18:54:00+00:00"
+    },
+    {
+      "title": "Toronto-Based VPN Provider Plans to Quit Canada over Lawful-Access Bill",
+      "link": "https://citizenlab.ca/toronto-based-vpn-provider-plans-to-quit-canada-over-lawful-access-bill/",
+      "summary": "Article URL: https://citizenlab.ca/toronto-based-vpn-provider-plans-to-quit-canada-over-lawful-access-bill/\nComments URL: https://news.ycombinator.com/item?id=49982471\nPoints: 17\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-06T18:52:18+00:00"
     },
     {
       "title": "Global Bond Yields Turn Lower",
