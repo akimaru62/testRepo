@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T18:10:26.410607+00:00",
+  "generated_at": "2026-10-06T18:32:10.527074+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -578,6 +578,30 @@
   ],
   "items": [
     {
+      "title": "Marvell just impressed Wall Street with ‘good numbers plus a better story’",
+      "link": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
+      "summary": "Marvell’s stock is popping after the company not only delivered with its financial forecasts but also demonstrated its diversified mix of customers and products.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-06T18:25:00+00:00"
+    },
+    {
+      "title": "How event contract bundles are boosting volume on prediction markets",
+      "link": "https://www.cnbc.com/2026/10/06/prediction-market-combo-contract-volume.html",
+      "summary": "Combo contracts are driving volume growth even as they make up a small, albeit consistent, share of transactions.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-10-06T18:20:31+00:00"
+    },
+    {
+      "title": "How Meta’s stock can surge to $1,000, according to the biggest bull on Wall Street",
+      "link": "https://www.marketwatch.com/story/how-metas-stock-can-surge-to-1-000-according-to-the-biggest-bull-on-wall-street-a91afff3?mod=mw_rss_topstories",
+      "summary": "A Wells Fargo analyst warns of a near-term profit hit from AI infrastructure spending and legal costs — but thinks that will set up massive gains by 2028.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-06T18:20:00+00:00"
+    },
+    {
       "title": "Comex Gold Settles 0.75% Higher at $4159.20",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-muted-as-traders-weigh-yields-against-concerns-driving-them-a60d8709?mod=rss_markets_main",
       "summary": "Gold settled 0.7% higher, snapping a two-session losing streak, and silver rose 0.5%, up for a second-consecutive session.",
@@ -586,9 +610,25 @@
       "published": "2026-10-06T17:53:00+00:00"
     },
     {
+      "title": "Ask a model if code is malicious and it reaches for its morals",
+      "link": "https://www.manifold.security/blog/do-models-consider-morality-malware",
+      "summary": "Article URL: https://www.manifold.security/blog/do-models-consider-morality-malware\nComments URL: https://news.ycombinator.com/item?id=49981455\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-06T17:20:26+00:00"
+    },
+    {
       "title": "Adobe Creative Suite Cleanroom Ported to Rust",
       "link": "https://github.com/storytold/photocraft",
       "summary": "Article URL: https://github.com/storytold/photocraft\nComments URL: https://news.ycombinator.com/item?id=49981449\nPoints: 30\n# Comments: 9",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-06T17:20:00+00:00"
+    },
+    {
+      "title": "Adobe Creative Suite Cleanroom Port to Rust",
+      "link": "https://github.com/storytold/photocraft",
+      "summary": "Article URL: https://github.com/storytold/photocraft\nComments URL: https://news.ycombinator.com/item?id=49981449\nPoints: 68\n# Comments: 25",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-06T17:20:00+00:00"
@@ -616,6 +656,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-06T17:01:52+00:00"
+    },
+    {
+      "title": "California Closed the Montana License Plate Loophole",
+      "link": "https://www.thedrive.com/news/heres-how-california-closed-the-montana-license-plate-loophole",
+      "summary": "Article URL: https://www.thedrive.com/news/heres-how-california-closed-the-montana-license-plate-loophole\nComments URL: https://news.ycombinator.com/item?id=49981186\nPoints: 10\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-06T17:00:59+00:00"
     },
     {
       "title": "国際関係,バーゼル銀行監督委員会による議事要旨について公表しました。",
