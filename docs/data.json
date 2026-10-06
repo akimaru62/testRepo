@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T14:28:27.247651+00:00",
+  "generated_at": "2026-10-06T14:44:58.978422+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -566,6 +566,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f28ac455a90>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -576,6 +580,30 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-06T17:00:00+00:00"
+    },
+    {
+      "title": "S&P 500 Hits New Record High",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-nudge-higher-as-oil-falls-below-100-0c7a5b1a?mod=rss_markets_main",
+      "summary": "U.S. stocks were rising, with the S&amp;P 500 hitting a new record high.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-06T14:40:00+00:00"
+    },
+    {
+      "title": "As a mortgage loan officer, I rejected wealthy couples. Here’s what can get your application declined.",
+      "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+      "summary": "“People in the U.S. need to wake up.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-06T14:30:00+00:00"
+    },
+    {
+      "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
+      "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
+      "summary": "Parental controls aren’t just for kids anymore.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-06T14:29:00+00:00"
     },
     {
       "title": "栗原、本塁打と打点の２冠　最優秀防御率は平良―プロ野球パ・リーグ",
