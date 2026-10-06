@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T21:48:19.851275+00:00",
+  "generated_at": "2026-10-06T22:08:17.887436+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -578,9 +578,45 @@
     {
       "url": "https://www.jiji.com/rss/ranking.rdf",
       "error": "HTTPSConnectionPool(host='www.jiji.com', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "「金融緩和の度合い、急激に変わらぬ利上げを」日銀・佐藤審議委員",
+      "link": "https://www.asahi.com/articles/ASVB64GHQVB6ULFA00NM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-06T22:08:03.910653+00:00"
+    },
+    {
+      "title": "｢早く逮捕されろって思ってた｣超有名YouTuber･ヴァンビ…\"異常なほどの上昇志向\"の源泉に｢バンドで売れなかった経験｣ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960334?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "人気YouTuberヴァンビこと白井竜樹容疑者が六本木のクラブで現行犯逮捕されました。酒席での危うい振る舞いへの証言も相次いでいます。視聴回数至上主義のYouTube業界が生み出す過激化と自己顕示欲…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-06T22:00:00+00:00"
+    },
+    {
+      "title": "｢日本の住宅は高性能｣は間違い？　敏腕不動産営業が指摘する\"先進国で最弱の機能\"　漫画｢正直不動産｣（第22集 第175話） | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/958699?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "不動産会社・登坂不動産のエース営業である永瀬財地（ながせ・さいち）、35歳。「売るためだけ」の情報を顧客に伝え、時には嘘も厭わない口八丁ぶりで、圧倒的な売り上げをたたき出してきた。だが、ある地鎮祭で…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-06T22:00:00+00:00"
+    },
+    {
+      "title": "空き家を放置し続けると｢行政代執行｣で大出費？ 知っておきたい｢実家じまい｣4つの選択肢《｢負動産｣にしないために》 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959352?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "高齢化社会の進展により､空き家となった実家を持て余す人が急増しています。放置すれば｢負動産｣となり､多額の費用やトラブルに発展するリスクも。実家じまいをスムーズに進めるための知識や対策､あなたは万全…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-06T21:45:00+00:00"
+    },
     {
       "title": "Ask HN: Why is Ask HN only showing me 14 posts?",
       "link": "https://news.ycombinator.com/item?id=49984484",
@@ -1049,6 +1085,14 @@
       "title": "The smartest Claude Code feature is not for its users",
       "link": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
       "summary": "Article URL: https://www.zohaib.cc/blog/smartest-claude-code-feature\nComments URL: https://news.ycombinator.com/item?id=49981905\nPoints: 10\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-06T18:00:34+00:00"
+    },
+    {
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "link": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "summary": "Article URL: https://www.zohaib.cc/blog/smartest-claude-code-feature\nComments URL: https://news.ycombinator.com/item?id=49981905\nPoints: 23\n# Comments: 6",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-06T18:00:34+00:00"
