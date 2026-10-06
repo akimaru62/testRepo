@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T16:10:06.227127+00:00",
+  "generated_at": "2026-10-06T16:31:28.999679+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -570,6 +570,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f28ac455a90>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f53487c9a90>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -580,6 +584,38 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-06T17:00:00+00:00"
+    },
+    {
+      "title": "独立運動指導者、恩赦へ　逮捕状取り下げ、帰国可能に―スペイン",
+      "link": "https://www.jiji.com/jc/article?k=2026100601056&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-06T16:31:22.963153+00:00"
+    },
+    {
+      "title": "ワーナー買収を完了　１７兆円規模―米パラマウント",
+      "link": "https://www.jiji.com/jc/article?k=2026100601196&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-06T16:31:22.963137+00:00"
+    },
+    {
+      "title": "猫２７００匹さらい密売　レストランにキロ最低４３０円―ベトナム",
+      "link": "https://www.jiji.com/jc/article?k=2026100601064&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-06T16:31:22.963098+00:00"
+    },
+    {
+      "title": "パラマウント、ワーナー17兆円で買収完了　利用者は2億人超に",
+      "link": "https://www.asahi.com/articles/ASVB654CMVB6SFVU2CYM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-06T16:31:22.709260+00:00"
     },
     {
       "title": "All the numbers: Amazon Prime Day 2026 powered by AWS",
@@ -734,6 +770,14 @@
       "published": "2026-10-06T14:21:19+00:00"
     },
     {
+      "title": "ＩＭＦ、ヘッジファンドの存在感拡大 監視強化を要請 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTUt6TW5qYTF1R2FJRHc4bFVOWGw5T1BIQkFBYjJ6bHBXeEgtMVVfZHlyS2JPa2pVRXF6Ni1uclJBcFJVV04wMWk4c3BFV3FfVWtjQTV1SXFYSm1LaGl4Ymd3aDA0b2V0QnppWWh5U01uMW13WmlVRGNxaDhVVlhkaEZ5Vzk?oc=5",
+      "summary": "ＩＭＦ、ヘッジファンドの存在感拡大 監視強化を要請&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-06T14:21:19+00:00"
+    },
+    {
       "title": "日販 米AI企業への書籍販売認める",
       "link": "https://news.yahoo.co.jp/pickup/6597802?source=rss",
       "summary": "",
@@ -766,9 +810,25 @@
       "published": "2026-10-06T13:59:45+00:00"
     },
     {
+      "title": "Ｇ７の石油備蓄放出、詳細を14─15日のＩＥＡ理事会で決定へ＝関係筋 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OWXRjUlNjV2VVbkNQZ042ZlFVN1VEb3dNQ3RiMnRoXzRzbkRIc2M0bDV5dmZtOS1KX0prMUl3LTBCZngtN25YSEFaaVRlNDJHUE04T0RGUDN3cjZOaEZKVlhWQlRwRmd1V2xKN1hvZnFERXo3TkhLcGpFemlVQQ?oc=5",
+      "summary": "Ｇ７の石油備蓄放出、詳細を14─15日のＩＥＡ理事会で決定へ＝関係筋&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-06T13:59:45+00:00"
+    },
+    {
       "title": "米国株式市場・序盤＝Ｓ＆Ｐ５００一時最高値、エヌビディアも高値更新 - jp.reuters.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ2N0ZmIxRlFtaEtxNXdJVDNaeUdQMmtDR0JZc3pJMGh5UWcxWkpkNGlhMTBJSGhDLWVKMk16SE5ONGhrVk1uMEFuVmpJNndHM1lHaUozMVZCanNyVGF3blR2LWZrZ3ZPc3pwMmgzcUsyYS1ZVFZULW5OakFfeGpaMC0wUkE?oc=5",
       "summary": "米国株式市場・序盤＝Ｓ＆Ｐ５００一時最高値、エヌビディアも高値更新&nbsp;&nbsp;jp.reuters.com",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-06T13:58:21+00:00"
+    },
+    {
+      "title": "米国株式市場・序盤＝Ｓ＆Ｐ５００一時最高値、エヌビディアも高値更新 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ2N0ZmIxRlFtaEtxNXdJVDNaeUdQMmtDR0JZc3pJMGh5UWcxWkpkNGlhMTBJSGhDLWVKMk16SE5ONGhrVk1uMEFuVmpJNndHM1lHaUozMVZCanNyVGF3blR2LWZrZ3ZPc3pwMmgzcUsyYS1ZVFZULW5OakFfeGpaMC0wUkE?oc=5",
+      "summary": "米国株式市場・序盤＝Ｓ＆Ｐ５００一時最高値、エヌビディアも高値更新&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-06T13:58:21+00:00"
