@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T21:36:51.986599+00:00",
+  "generated_at": "2026-10-06T21:48:19.851275+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -574,9 +574,21 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f53487c9a90>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://www.jiji.com/rss/ranking.rdf",
+      "error": "HTTPSConnectionPool(host='www.jiji.com', port=443): Read timed out. (read timeout=15)"
     }
   ],
   "items": [
+    {
+      "title": "Ask HN: Why is Ask HN only showing me 14 posts?",
+      "link": "https://news.ycombinator.com/item?id=49984484",
+      "summary": "I'd have swear before there were more and even a more button at the bottom\n\nComments URL: https://news.ycombinator.com/item?id=49984484\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-06T21:37:01+00:00"
+    },
     {
       "title": "The S&P 500 Hits a New Record High, Powered by Tech—and Not Much Else",
       "link": "https://www.wsj.com/finance/stocks/the-s-p-500-hits-a-new-record-high-powered-by-techand-not-much-else-66e01705?mod=rss_markets_main",
@@ -586,12 +598,36 @@
       "published": "2026-10-06T21:33:00+00:00"
     },
     {
+      "title": "そりゃユニクロと違うわけだ…イオンの｢1000円フリース｣を買ってわかった\"本当の価値\" | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960022?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "イオンの｢1000円フリース｣が話題を呼んでいます。普段着として本当に\"買い\"なのか､その本音に迫ります。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-06T21:30:00+00:00"
+    },
+    {
+      "title": "Jim Clyburn urges Black voters not to be ‘fooled’ by Trump",
+      "link": "https://www.ft.com/content/793d9121-1dae-498b-bae1-db8c69e67e2d?syn-25a6b1a6=1",
+      "summary": "Civil rights veteran says Republicans will ‘reap the reaction’ for redistricting moves ahead of midterm elections",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-06T21:29:02+00:00"
+    },
+    {
       "title": "仲良かった母と息子なぜ法廷対決　後見人、相続より「本人の利益」",
       "link": "https://www.asahi.com/articles/ASVB42F92VB4ULFA011M.html?ref=rss",
       "summary": "",
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-06T21:25:13.114247+00:00"
+    },
+    {
+      "title": "Google EmbeddingGemma 2",
+      "link": "https://twitter.com/googlegemma/status/2107502533992464482",
+      "summary": "Article URL: https://twitter.com/googlegemma/status/2107502533992464482\nComments URL: https://news.ycombinator.com/item?id=49984322\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-06T21:20:45+00:00"
     },
     {
       "title": "WSJ Dollar Index Falls 0.16% to 97.15",
@@ -608,6 +644,22 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-10-06T21:15:00+00:00"
+    },
+    {
+      "title": "Trump says he is considering suspending federal petrol tax",
+      "link": "https://www.ft.com/content/3fd43fc5-4973-4a26-9d9c-47b6361e6217?syn-25a6b1a6=1",
+      "summary": "Surging fuel prices are heaping pressure on the president and his Republican Party four weeks ahead of midterm elections",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-06T21:09:16+00:00"
+    },
+    {
+      "title": "‘Most dangerous product in crypto’ vexes Singapore",
+      "link": "https://www.ft.com/content/cd851d45-596b-4745-8c28-ce7ace1d3e43?syn-25a6b1a6=1",
+      "summary": "City-state averse to risk and scandal tries to distance itself from homegrown Hyperliquid Labs and its popular ‘perps’",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-06T21:00:09+00:00"
     },
     {
       "title": "｢強くて安いドル｣を目指し｢弱くて高いドル｣を招いたトランプ政権…中間選挙後には｢弱くて安いドル｣の悪夢も | 政治・経済・投資 | 東洋経済オンライン",
@@ -733,6 +785,14 @@
       "title": "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth",
       "link": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
       "summary": "Article URL: https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/\nComments URL: https://news.ycombinator.com/item?id=49983703\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-06T20:33:47+00:00"
+    },
+    {
+      "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
+      "link": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/\nComments URL: https://news.ycombinator.com/item?id=49983703\nPoints: 73\n# Comments: 69",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-06T20:33:47+00:00"
@@ -986,6 +1046,14 @@
       "published": "2026-10-06T18:20:00+00:00"
     },
     {
+      "title": "The smartest Claude Code feature is not for its users",
+      "link": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "summary": "Article URL: https://www.zohaib.cc/blog/smartest-claude-code-feature\nComments URL: https://news.ycombinator.com/item?id=49981905\nPoints: 10\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-06T18:00:34+00:00"
+    },
+    {
       "title": "Comex Gold Settles 0.75% Higher at $4159.20",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-muted-as-traders-weigh-yields-against-concerns-driving-them-a60d8709?mod=rss_markets_main",
       "summary": "Gold settled 0.7% higher, snapping a two-session losing streak, and silver rose 0.5%, up for a second-consecutive session.",
@@ -1109,6 +1177,14 @@
       "title": "AI is now capable of developing its own inference hardware",
       "link": "https://github.com/FeSens/openTPU",
       "summary": "Article URL: https://github.com/FeSens/openTPU\nComments URL: https://news.ycombinator.com/item?id=49980715\nPoints: 11\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-06T16:23:25+00:00"
+    },
+    {
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "link": "https://github.com/FeSens/openTPU",
+      "summary": "Article URL: https://github.com/FeSens/openTPU\nComments URL: https://news.ycombinator.com/item?id=49980715\nPoints: 170\n# Comments: 229",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-06T16:23:25+00:00"
