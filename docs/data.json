@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T16:31:28.999679+00:00",
+  "generated_at": "2026-10-06T16:52:18.337917+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -618,6 +618,22 @@
       "published": "2026-10-06T16:31:22.709260+00:00"
     },
     {
+      "title": "AI is now capable of developing its own inference hardware",
+      "link": "https://github.com/FeSens/openTPU",
+      "summary": "Article URL: https://github.com/FeSens/openTPU\nComments URL: https://news.ycombinator.com/item?id=49980715\nPoints: 11\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-06T16:23:25+00:00"
+    },
+    {
+      "title": "Anduril plans shipyard to manufacture parts for US Navy’s top submarines",
+      "link": "https://www.ft.com/content/a6339e0c-4114-413a-a23c-916ed4392ce0?syn-25a6b1a6=1",
+      "summary": "Palmer Luckey’s defence tech start-up to invest $3.7bn as Trump attempts to reduce dependence on leading ‘prime’ contractors",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-06T16:21:48+00:00"
+    },
+    {
       "title": "All the numbers: Amazon Prime Day 2026 powered by AWS",
       "link": "https://aws.amazon.com/blogs/aws/all-the-numbers-amazon-prime-day-2026-powered-by-aws/",
       "summary": "Amazon Prime Day 2026 was exclusively for Prime members and ran June 23–26, 2026 with millions of deals across more than 35 categories. As part of our annual tradition of sharing how AWS powered Prime Day (2016, 2017, 2019, 2020, 2021, 2022, 2023, 2024, and 2025), I want to share the services and chart-topping metrics […]",
@@ -682,9 +698,25 @@
       "published": "2026-10-06T15:26:01.497052+00:00"
     },
     {
+      "title": "Separatist victory in Quebec tests Canada’s united front against US",
+      "link": "https://www.ft.com/content/c9aa72e9-9c96-4330-9372-1f00925b9f66?syn-25a6b1a6=1",
+      "summary": "Prime Minister Mark Carney faces another sovereignty challenge from western province of Alberta",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-06T15:24:54+00:00"
+    },
+    {
       "title": "The Early History of Smalltalk",
       "link": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
       "summary": "Article URL: https://worrydream.com/EarlyHistoryOfSmalltalk/\nComments URL: https://news.ycombinator.com/item?id=49979845\nPoints: 23\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-06T15:19:57+00:00"
+    },
+    {
+      "title": "The Early History of Smalltalk (1993)",
+      "link": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
+      "summary": "Article URL: https://worrydream.com/EarlyHistoryOfSmalltalk/\nComments URL: https://news.ycombinator.com/item?id=49979845\nPoints: 33\n# Comments: 6",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-06T15:19:57+00:00"
@@ -832,6 +864,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-06T13:58:21+00:00"
+    },
+    {
+      "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+      "link": "https://peterszentkiralyi.eu/darkplug/",
+      "summary": "I am a film photographer and do some darkroom printing and always wanted one of the proper, advanced f-stop timers, but never really wanted to spend a couple hundred dollars on one. Eventually I figured my phone was already perfectly capable of doing the timing, it just needed a way to switch the enlarger.So I built Darkplug around a cheap smart plug. The app controls the enlarger over the local network and does regular timing, f-stop timing, test strips, has an intuitive dodge/burn workflow, split grade (2 timing channels) and paper development timing.I’ve been using it for a few months in my improvised bathroom darkroom.Fair warning: the app was blindly vibe coded using Codex and Xcode.\n\nComments URL: https://news.ycombinator.com/item?id=49978595\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-06T13:58:07+00:00"
     },
     {
       "title": "Prediction markets are coming for pop culture",
