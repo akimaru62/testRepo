@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T22:26:59.424602+00:00",
+  "generated_at": "2026-10-06T22:39:55.522465+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -586,6 +586,22 @@
   ],
   "items": [
     {
+      "title": "\"キレイ\"な提案書を出した会社が落とされ\"フツー\"の提案をしたライバルが勝った深いワケ　｢AI営業の痛恨のしくじり｣ | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959149?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "AIが生み出した完璧な提案書。しかし現場を見てこそ伝わる\"本物のコミュニケーション\"が欠けていたせいで､クライアントに一蹴される──。AIと人間､どこまで頼るべきか。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-06T22:30:00+00:00"
+    },
+    {
+      "title": "Sharing AI Progress in Mathematics",
+      "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "summary": "Article URL: https://openai.com/index/sharing-ai-progress-in-mathematics/\nComments URL: https://news.ycombinator.com/item?id=49984923\nPoints: 24\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-06T22:17:21+00:00"
+    },
+    {
       "title": "Netflix『ダウンタイム』が示した《脳の盛りグセ》というカラクリ…人が\"自分の顔\"に満足できなくなるバグの正体 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/960379?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "美容整形がテーマのNetflixドラマ『ダウンタイム』が話題沸騰中です。なぜ人は｢変わりたい｣と思うのか。私たちが自認する\"自分の顔\"と､他人が見る顔とのギャップ､その心理メカニズムを科学的に解き明…",
@@ -630,6 +646,22 @@
       "link": "https://toyokeizai.net/articles/-/958699?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "不動産会社・登坂不動産のエース営業である永瀬財地（ながせ・さいち）、35歳。「売るためだけ」の情報を顧客に伝え、時には嘘も厭わない口八丁ぶりで、圧倒的な売り上げをたたき出してきた。だが、ある地鎮祭で…",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-06T22:00:00+00:00"
+    },
+    {
+      "title": "「AIの多少の悪影響は許容すべき」　OpenAIアルトマン氏、“AIが暴走”してなおAnthropicと主張がズレる訳",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/07/news042.html",
+      "summary": "AIの恩恵を受けるために「多少の悪いことも受け入れて」――AIによるハッキング攻撃が相次ぐ中、OpenAIのサム・アルトマンCEOがこう主張する理由とは。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-10-06T22:00:00+00:00"
+    },
+    {
+      "title": "職人がスマホで“サクッと”動画撮影→技を共有　「金箔ソフト」で知られる老舗企業が挑む「技術継承」",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/07/news012.html",
+      "summary": "ベテランの技術をマニュアル化するだけでは、動きや話し方の細かな違いまで伝えるのは難しい。金箔を使った工芸品などを手掛ける箔一では、動画を使った技術継承やスタッフ育成を進めている。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-10-06T22:00:00+00:00"
     },
@@ -773,6 +805,14 @@
       "title": "Decisions API",
       "link": "https://developers.openai.com/api/docs/guides/decisions",
       "summary": "Article URL: https://developers.openai.com/api/docs/guides/decisions\nComments URL: https://news.ycombinator.com/item?id=49984025\nPoints: 17\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-06T20:57:25+00:00"
+    },
+    {
+      "title": "Decisions API is in public beta",
+      "link": "https://developers.openai.com/api/docs/guides/decisions",
+      "summary": "Article URL: https://developers.openai.com/api/docs/guides/decisions\nComments URL: https://news.ycombinator.com/item?id=49984025\nPoints: 34\n# Comments: 11",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-06T20:57:25+00:00"
