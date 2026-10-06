@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T23:07:55.407444+00:00",
+  "generated_at": "2026-10-06T23:26:06.194468+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -582,9 +582,21 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://www.jiji.com/rss/ranking.rdf",
+      "error": "HTTPSConnectionPool(host='www.jiji.com', port=443): Read timed out. (read timeout=15)"
     }
   ],
   "items": [
+    {
+      "title": "｢やっと乾いた！｣→まさかの\"臭い復活\"…部屋干し迷走で悟った｢雨の日の洗濯｣の\"最適解\"　ドライヤー乾燥も失敗し… | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959843?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "仕事や家事に毎日追われ、生活がどんどん雑になっていく――。「丁寧な生活」が美しいとされる風潮もある中、自らの「丁寧とは言えない暮らし」に、なんだか後ろめたいような、モヤモヤした思いを持つ人も少なくな…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-06T23:15:00+00:00"
+    },
     {
       "title": "イラン、戦争終結にはウラン濃縮能力の削減必要＝米副大統領 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zUHVNTVRXMGVQbU1obzQ4MDhiQ3VZWWcxQmxNdU4zVjczVFVGSVVVc1ZnQkZjRDhGaTM5UmZlWEhOdkhQNjhXRWlxbm5tXzdtNGNMUzFObnZFYzRTM1dZVzhITkdDMUpPYlFjNjJHUEtpbjk4MFpETE5qRGZpQQ?oc=5",
@@ -674,6 +686,14 @@
       "published": "2026-10-06T22:15:00+00:00"
     },
     {
+      "title": "世界の石油在庫、供給混乱への備えほぼ枯渇＝業界幹部 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbHlwUU5KMFRBWEtYWmdHSUEwaGU3T0YxVmxRaVh5M2tpQ1ZFcGdpNm5UVWkxX0MwdnpwMmFDQzJkS0pnQXNfWDVVVTNVTGZzNnQ5ZVhSRzRqVmRHNXBCR3l0LWVlX2V1UUJfYnkyTlhOcVFqMWJGMzkwZGpUR2FnS2pxSFM?oc=5",
+      "summary": "世界の石油在庫、供給混乱への備えほぼ枯渇＝業界幹部&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-06T22:14:09+00:00"
+    },
+    {
       "title": "The Query Transformation Pipeline",
       "link": "https://readyset.io/blog/how-readyset-rewrites-your-sql-inside-the-query-transformation-pipeline",
       "summary": "Article URL: https://readyset.io/blog/how-readyset-rewrites-your-sql-inside-the-query-transformation-pipeline\nComments URL: https://news.ycombinator.com/item?id=49984834\nPoints: 3\n# Comments: 0",
@@ -736,6 +756,14 @@
       "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-10-06T22:00:00+00:00"
+    },
+    {
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "link": "https://penguin-mail.com/",
+      "summary": "Article URL: https://penguin-mail.com/\nComments URL: https://news.ycombinator.com/item?id=49984716\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-06T21:59:43+00:00"
     },
     {
       "title": "空き家を放置し続けると｢行政代執行｣で大出費？ 知っておきたい｢実家じまい｣4つの選択肢《｢負動産｣にしないために》 | ライフ | 東洋経済オンライン",
@@ -970,6 +998,14 @@
       "published": "2026-10-06T20:41:00+00:00"
     },
     {
+      "title": "Vibecoding Photoshop: Time and pressure",
+      "link": "https://andreklein.net/vibecoding-photoshop-time-and-pressure/",
+      "summary": "Article URL: https://andreklein.net/vibecoding-photoshop-time-and-pressure/\nComments URL: https://news.ycombinator.com/item?id=49983780\nPoints: 9\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-06T20:40:48+00:00"
+    },
+    {
       "title": "Oct. 9 has loomed large in stock-market history. Why investors still shouldn’t buy into an October jinx.",
       "link": "https://www.marketwatch.com/story/oct-9-has-loomed-large-in-stock-market-history-why-investors-still-shouldnt-buy-into-an-october-jinx-81d7149b?mod=mw_rss_topstories",
       "summary": "Not just one, but two, major market turning points since 2000 have occurred on that day.",
@@ -1064,6 +1100,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-06T20:15:00+00:00"
+    },
+    {
+      "title": "When random is not actually random enough",
+      "link": "https://ersc.io/blog/when-random-isnt-random-enough",
+      "summary": "Article URL: https://ersc.io/blog/when-random-isnt-random-enough\nComments URL: https://news.ycombinator.com/item?id=49983404\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-06T20:12:05+00:00"
     },
     {
       "title": "原油先物ほぼ横ばい、中東供給増とフーシ派攻撃巡る懸念見極め - ロイター",
