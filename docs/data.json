@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T13:22:50.558189+00:00",
+  "generated_at": "2026-10-06T13:39:22.307742+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -578,12 +578,28 @@
       "published": "2026-10-06T17:00:00+00:00"
     },
     {
+      "title": "Fed minutes coming tomorrow could give markets important clues about future rate hikes",
+      "link": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
+      "summary": "Minutes from the September meeting may provide extra context, as the real fed-funds rate is now surprisingly low.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-06T13:27:00+00:00"
+    },
+    {
       "title": "千葉大教授ら「大変うれしい」　アイスキューブ参加―ノーベル賞",
       "link": "https://www.jiji.com/jc/article?k=2026100601124&g=soc&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-06T13:22:44.815689+00:00"
+    },
+    {
+      "title": "Mistral Large 4",
+      "link": "https://docs.mistral.ai/models/mistral-large-4-0",
+      "summary": "Article URL: https://docs.mistral.ai/models/mistral-large-4-0\nComments URL: https://news.ycombinator.com/item?id=49977979\nPoints: 134\n# Comments: 26",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-06T13:15:49+00:00"
     },
     {
       "title": "CD&R, McKesson to Acquire At-Home Infusion Therapy Provider for $5.8 Billion",
@@ -594,12 +610,44 @@
       "published": "2026-10-06T13:10:00+00:00"
     },
     {
+      "title": "Mathematics of Geothermal Energy",
+      "link": "https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/",
+      "summary": "Article URL: https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/\nComments URL: https://news.ycombinator.com/item?id=49977819\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-06T13:05:26+00:00"
+    },
+    {
+      "title": "Remote Live vs. Pre-Recorded Exercise Training for Chronic Low Back Pain (RCT)",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13619851/",
+      "summary": "Article URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC13619851/\nComments URL: https://news.ycombinator.com/item?id=49977813\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-06T13:05:03+00:00"
+    },
+    {
+      "title": "Any AI chat can join a machine network anonymously – no keys, no signup",
+      "link": "https://github.com/TheRealDalaiLama/glyphdna-mcp",
+      "summary": "Article URL: https://github.com/TheRealDalaiLama/glyphdna-mcp\nComments URL: https://news.ycombinator.com/item?id=49977806\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-06T13:04:37+00:00"
+    },
+    {
       "title": "Debt in the spotlight as Paramount closes $111bn deal for Warner Bros",
       "link": "https://www.ft.com/content/93756433-eb78-422d-8ac3-30e8cc243a00?syn-25a6b1a6=1",
       "summary": "Heavy cuts expected as boss David Ellison seeks to deliver $6bn of cost savings at combined group to be known as Skydance",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-06T12:52:57+00:00"
+    },
+    {
+      "title": "Meta's Muse Is an Adorable Privacy and Security Dumpster Fire",
+      "link": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
+      "summary": "Article URL: https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/\nComments URL: https://news.ycombinator.com/item?id=49977588\nPoints: 22\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-06T12:45:49+00:00"
     },
     {
       "title": "America’s renters are emerging as a political movement",
@@ -1269,6 +1317,14 @@
       "title": "Stock Market Today: S&P Futures Rise, Putting New Record In Sight",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-06-2026?mod=rss_markets_main",
       "summary": "U.S. 10-year bond yield eases; oil slips",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-06T08:45:19+00:00"
+    },
+    {
+      "title": "Stock Market Today: S&P 500 Opens Higher, On Course for New Record",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-06-2026?mod=rss_markets_main",
+      "summary": "U.S. 10-year bond yield eases; oil falls",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-06T08:45:19+00:00"
