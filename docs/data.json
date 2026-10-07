@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T17:34:09.402291+00:00",
+  "generated_at": "2026-10-07T17:51:02.002561+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -598,12 +598,60 @@
   ],
   "items": [
     {
+      "title": "Comex Gold Settles 1.09% Lower at $4113.80",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-ticks-lower-as-investors-await-fed-meeting-minutes-1e95b0b1?mod=rss_markets_main",
+      "summary": "Gold settled 1.1% lower, down three of the past four sessions, and silver fell 2.1%, snapping a two-session winning streak.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-07T17:49:00+00:00"
+    },
+    {
+      "title": "Secret protection must scale with software",
+      "link": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
+      "summary": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it.\nThe post Secret protection must scale with software appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "category": "開発者向け",
+      "published": "2026-10-07T17:45:34+00:00"
+    },
+    {
+      "title": "Washington and Wall Street chose to delay paying their bills — and to put them on your tab",
+      "link": "https://www.marketwatch.com/story/washington-and-wall-street-chose-to-delay-paying-their-bills-and-to-put-them-on-your-tab-2eba83aa?mod=mw_rss_topstories",
+      "summary": "The polite word for what the government and Wall Street are doing is deferring payment, like opening a tab at a bar that somebody else will pay later.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-07T17:36:00+00:00"
+    },
+    {
+      "title": "The ‘Magnificent Seven’ are now big enough to move the economy. Why that could be a problem.",
+      "link": "https://www.marketwatch.com/story/the-magnificent-seven-are-now-big-enough-to-move-the-economy-why-that-could-be-a-problem-56d174db?mod=mw_rss_topstories",
+      "summary": "Imagine a small group of companies whose value is greater than the entire economy of almost every single country in the world. By market value, that’s roughly where the “Magnificent Seven” group of tech companies now stands.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-07T17:32:00+00:00"
+    },
+    {
+      "title": "Kirkland & Ellis to stop disclosing financial performance",
+      "link": "https://www.ft.com/content/7380c978-9b65-4a07-8ce3-bdf88f2484d1?syn-25a6b1a6=1",
+      "summary": "World’s highest-grossing law firm with $10.6bn in 2025 revenue volunteered data for leading industry profit ranking",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-07T17:30:02+00:00"
+    },
+    {
       "title": "U.S. Crude Futures Turn Lower Despite Inventory Draw",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-ongoing-mideast-tensions-2c446a1e?mod=rss_markets_main",
       "summary": "U.S. benchmark crude slipped after the EIA reported a withdrawal in commercial crude oil stocks for last week, despite expectations for a third consecutive weekly build.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-07T17:22:00+00:00"
+    },
+    {
+      "title": "EmDash uses Clef to moderate the plugin registry",
+      "link": "https://emdashcms.com/blog/how-emdash-uses-clef-to-moderate-the-plugin-registry",
+      "summary": "Article URL: https://emdashcms.com/blog/how-emdash-uses-clef-to-moderate-the-plugin-registry\nComments URL: https://news.ycombinator.com/item?id=49995740\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-07T17:12:28+00:00"
     },
     {
       "title": "SEC warns asset managers against collaborating on activist campaigns",
