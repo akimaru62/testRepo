@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T17:15:06.358214+00:00",
+  "generated_at": "2026-10-07T17:34:09.402291+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -598,12 +598,36 @@
   ],
   "items": [
     {
+      "title": "U.S. Crude Futures Turn Lower Despite Inventory Draw",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-ongoing-mideast-tensions-2c446a1e?mod=rss_markets_main",
+      "summary": "U.S. benchmark crude slipped after the EIA reported a withdrawal in commercial crude oil stocks for last week, despite expectations for a third consecutive weekly build.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-07T17:22:00+00:00"
+    },
+    {
+      "title": "SEC warns asset managers against collaborating on activist campaigns",
+      "link": "https://www.ft.com/content/20557850-9cd1-4685-8238-f292023afc1f?syn-25a6b1a6=1",
+      "summary": "US regulator says fund groups risk stricter rules after a probe into the ousting of ExxonMobil board members",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-07T17:07:33+00:00"
+    },
+    {
       "title": "無登録で暗号資産交換業を行う者の名称等について公表しました。",
       "link": "https://www.fsa.go.jp/ordinary/chuui/angoushisan_mutouroku.html",
       "summary": "",
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-07T17:00:00+00:00"
+    },
+    {
+      "title": "China slaps down EU request for voluntary curbs on hybrid car exports",
+      "link": "https://www.ft.com/content/32e1c801-fe7d-4389-b3fc-ab687cbb087b?syn-25a6b1a6=1",
+      "summary": "European Commission now considering temporary limits to control surging shipments that could trigger serious trade conflict",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-07T16:56:00+00:00"
     },
     {
       "title": "Merz’s conservatives in new crisis over alleged support for AfD",
@@ -700,6 +724,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-07T15:44:30+00:00"
+    },
+    {
+      "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+      "link": "https://bigwords.page/",
+      "summary": "Article URL: https://bigwords.page/\nComments URL: https://news.ycombinator.com/item?id=49994443\nPoints: 21\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-07T15:44:21+00:00"
     },
     {
       "title": "Wells Fargo Faces Regulator Probe Over Efforts to Boost Black Homeownership",
