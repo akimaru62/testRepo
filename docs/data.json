@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T23:36:50.583890+00:00",
+  "generated_at": "2026-10-07T23:49:13.745065+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -594,9 +594,29 @@
     {
       "url": "https://www.mof.go.jp/news.rss",
       "error": "404 Client Error: Not Found for url: https://www.mof.go.jp/news.rss"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f4a1662dd30>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "オアシス、ニデックに非公開化の初期的検討を要請 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLU5QdGZ6WjRaQnJLR0w4YVdIMGxtdW9XUTNBQV9UQ2EyQWJ1UTVzVEh0RGN6S3YzUEc4NWJ0SFVLQUZ1QW9qQ0g0U3lKb3RrdnlLd05XQlhCamdxNWI0Ukpza00ydFNvbnB2YXdueFFiTlhhQ19pM3ZDU01rVzlwZy1TYnU?oc=5",
+      "summary": "オアシス、ニデックに非公開化の初期的検討を要請&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-07T23:41:44+00:00"
+    },
+    {
+      "title": "Samsung quarterly profit surges to $80bn on AI chip demand",
+      "link": "https://www.ft.com/content/8943785b-0919-4a49-8ab5-48e4a35a6e00?syn-25a6b1a6=1",
+      "summary": "World’s largest memory-chip maker posts record earnings for the three months to September",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-07T23:30:24+00:00"
+    },
     {
       "title": "初対面で｢何人の男性に会いました？｣10分間､自分語りをした後の一言にドン引き…婚活現場の\"残念すぎる男たち\" | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/960231?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -852,6 +872,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-07T21:07:23.765122+00:00"
+    },
+    {
+      "title": "AI upends Singapore’s ‘quant Olympics’",
+      "link": "https://www.ft.com/content/ec8b74b6-0cf7-4ded-abd4-85bde8a80df4?syn-25a6b1a6=1",
+      "summary": "Nigerian student Victor Ayebameru takes first place in competition that identifies future hedge fund stars",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-07T21:00:03+00:00"
     },
     {
       "title": "ニデック不正会計､｢意見不表明｣のPwC､監査責任者から旧京都出身者が一掃､旧あらた勢との微妙な関係性にじむ | ビジネス | 東洋経済オンライン",
