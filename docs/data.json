@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T02:24:33.604268+00:00",
+  "generated_at": "2026-10-07T02:52:54.099495+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -586,6 +586,10 @@
     {
       "url": "https://www.jiji.com/rss/ranking.rdf",
       "error": "HTTPSConnectionPool(host='www.jiji.com', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://www.mof.go.jp/news.rss",
+      "error": "404 Client Error: Not Found for url: https://www.mof.go.jp/news.rss"
     }
   ],
   "items": [
@@ -620,6 +624,38 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-07T11:00:00+00:00"
+    },
+    {
+      "title": "日本取引所グループが過去最高益を見込む\"株高だけではない\"背景 純利益予想を1050億円に上方修正 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960131?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "歴史的な高値を演じる日本株。投資家はもちろん､胴元である証券取引所もまた､その恩恵に与っています。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-07T02:30:00+00:00"
+    },
+    {
+      "title": "なぜ2027年度の陸自｢戦車購入｣が突然ゼロになったのか､10式戦車の火災事故が揺さぶる国産戦車と陸自14万人の存在意義 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960103?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2026年4月､大分県で発生した陸上自衛隊10式戦車の火災事故は､3名の命を奪い､戦車の存在意義や防衛政策全体に波紋を広げています。戦車砲の設計不良の可能性も指摘され､戦車廃止論や陸自縮小論に発展し…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-07T02:30:00+00:00"
+    },
+    {
+      "title": "｢企業買収における行動指針｣の生みの親を直撃！なぜ価格だけで買収提案を決めてはいけないのですか？ | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959965?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "──そもそも「企業買収における行動指針」を策定しようとしたきっかけは何だったのでしょうか。実は企業買収をめぐる指針は2005年、07年、19年と作られてきたが、いずれも理屈や考え方を重視したものだっ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-07T02:30:00+00:00"
+    },
+    {
+      "title": "The taxman comes for China’s offshore riches",
+      "link": "https://www.ft.com/content/f31baf40-a753-4cca-86e1-1373f08d99e2?syn-25a6b1a6=1",
+      "summary": "The crackdown has rattled the country’s wealthiest people and the businesses in Hong Kong, Singapore and Tokyo that manage their money",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-07T02:27:55+00:00"
     },
     {
       "title": "エバ・マリー・セイントさん死去　米俳優、１０２歳",
@@ -686,6 +722,14 @@
       "published": "2026-10-07T02:24:25.415332+00:00"
     },
     {
+      "title": "Strands Decider 2B: a small, open-source, decision model",
+      "link": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "summary": "Article URL: https://strandsagents.com/blog/introducing-strands-decider/\nComments URL: https://news.ycombinator.com/item?id=49987076\nPoints: 20\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-07T02:02:11+00:00"
+    },
+    {
       "title": "エリソンCEOが率いる巨大メディア｢スカイダンス｣誕生､CNNとCBSは独立した編集体制を維持する見通し | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/960418?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "パラマウントとワーナー･ブラザース･ディスカバリーが1100億ドル規模で統合し､新生｢スカイダンス｣が誕生しました。トランプ米大統領は､記者団から買収完了について質問され､｢素晴らしい企業になるだろ…",
@@ -734,6 +778,14 @@
       "published": "2026-10-07T01:42:24+00:00"
     },
     {
+      "title": "ESP32-C3 Adblock",
+      "link": "https://github.com/M-Abozaid/esp32-c3-adblock",
+      "summary": "Article URL: https://github.com/M-Abozaid/esp32-c3-adblock\nComments URL: https://news.ycombinator.com/item?id=49986862\nPoints: 7\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-07T01:39:21+00:00"
+    },
+    {
       "title": "授業で習っている歴史は｢報告書｣？　｢アテネ｣と｢スパルタ｣ばかり扱う歴史の裏に隠された\"教科書のリアル\" | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/959343?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "世界史の教科書はなぜアテネとスパルタばかりを強調するのでしょうか。背景には史料の偏りや､比較しやすい構造､歴史の｢見え方｣の差が隠れています。私たちが知る歴史は確かなものなのか――答えを探す旅が今､…",
@@ -748,6 +800,14 @@
       "source": "財務省",
       "category": "公的機関",
       "published": "2026-10-07T01:30:00+00:00"
+    },
+    {
+      "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
+      "link": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
+      "summary": "Article URL: https://www.sregym.com/blog/jev-driven-sre-diagnosis\nComments URL: https://news.ycombinator.com/item?id=49986765\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-07T01:27:49+00:00"
     },
     {
       "title": "中小の「賃上げ倒産」増加 背景は",
@@ -870,6 +930,14 @@
       "published": "2026-10-07T00:35:00+00:00"
     },
     {
+      "title": "ウーバー、米ケータリング企業を23億ドルで買収 ドアダッシュ追撃 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SRGVMc2J1NGh5ZjhhejFIcjVrVEFWYXRMOFRua25oZ3BCYTVFY1VoUEJYTWxFRGp3MVlQaUlxSTljSEdyU2V0UTVZSjV0aDcxUmY5TEY4RWpQeXNXTVFNOHlNZWJTMGswLVJuaWlJYUp6amd3NG00SGlRLVU?oc=5",
+      "summary": "ウーバー、米ケータリング企業を23億ドルで買収 ドアダッシュ追撃&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-07T00:32:00+00:00"
+    },
+    {
       "title": "7兆円の機会損失も…日本で進む｢交通空白｣の深刻さ　奪われる\"子どもの未来と保護者のキャリア\"　解決に必要なことは？ | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/959413?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "共働き家庭や地方在住の親が抱える｢子どもの送迎負担｣。その裏には､労働機会や教育機会の喪失､そして巨額の経済損失が隠れています。移動の不自由さが家族の働き方や子どもの未来に与える影響とは？交通格差の…",
@@ -883,6 +951,14 @@
       "summary": "",
       "source": "財務省",
       "category": "公的機関",
+      "published": "2026-10-07T00:30:00+00:00"
+    },
+    {
+      "title": "中東の石油出荷、日量1400万バレル＝ビトルＣＥＯ - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmbTI4TThRMW9UZkcybi16VVBsYUdmMEpsb3NwcTZmSFBXYTMyb056azIxdG1POGdjakxSQ19oeVdNQkROQXRnazJEV0oxYlhWZWZYM2MxSG5xLW4tamhVYUNPV1VrYk5jcHlsVnpWSk52MWIzRTVXSHljc1Y?oc=5",
+      "summary": "中東の石油出荷、日量1400万バレル＝ビトルＣＥＯ&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
       "published": "2026-10-07T00:30:00+00:00"
     },
     {
@@ -908,6 +984,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-07T00:20:00+00:00"
+    },
+    {
+      "title": "インド野党議員が警察に一時拘束、有権者名簿改訂巡る抗議で座り込み - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UeWotdVFQYjBXSzJRQVY0SEVBbkVoM1Bzcm9INHhieHY2c1dqU1FMNElsSEJycm1kTk5Yd1NmeElPbXRCX0Rpa3c0bWRweElRYzF3c0xnQnNoTkVWRFRITXpCV3lJODdXeHc1YkdsWjRmWDVwTlQwckk0ZWE?oc=5",
+      "summary": "インド野党議員が警察に一時拘束、有権者名簿改訂巡る抗議で座り込み&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-07T00:18:00+00:00"
     },
     {
       "title": "《新生児手術は年9例》間近に迫る地方小児医療崩壊の足音…｢少子化｣と将来の｢小児外科医不足｣が患者家族に強いる負担 | ライフ | 東洋経済オンライン",
@@ -1483,6 +1567,14 @@
       "summary": "標高1400m､群馬県片品村にそびえる｢巨大な建造物｣──90年以上も当初の姿を保ち続けるその背景には､意外な歴史と技術の工夫がありました。",
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
+      "published": "2026-10-06T21:00:00+00:00"
+    },
+    {
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms",
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-global-industrial-aiot-platforms/",
+      "summary": "We’re proud to share that Microsoft has been named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms.\nThe post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms appeared first on Microsoft Azure Blog.",
+      "source": "Azure ブログ",
+      "category": "テクノロジー",
       "published": "2026-10-06T21:00:00+00:00"
     },
     {
