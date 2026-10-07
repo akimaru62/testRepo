@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T17:51:02.002561+00:00",
+  "generated_at": "2026-10-07T18:10:33.083860+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -598,6 +598,30 @@
   ],
   "items": [
     {
+      "title": "Fed minutes show no appetite for a series of interest-rate hikes",
+      "link": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
+      "summary": "Last month’s rate hike was viewed by many officials as needed just in case inflation remains sticky.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-07T18:07:00+00:00"
+    },
+    {
+      "title": "Gold Futures Fall on Stronger Dollar, High Yields",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-ticks-lower-as-investors-await-fed-meeting-minutes-1e95b0b1?mod=rss_markets_main",
+      "summary": "Gold futures posted their third decline in four sessions as the U.S. dollar gained and buoyant U.S. yields kept a lid on demand for the metal.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-07T18:05:00+00:00"
+    },
+    {
+      "title": "Claude Haiku 5.5",
+      "link": "https://www.anthropic.com/claude-haiku-5-5",
+      "summary": "Article URL: https://www.anthropic.com/claude-haiku-5-5\nComments URL: https://news.ycombinator.com/item?id=49996437\nPoints: 14\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-07T18:01:32+00:00"
+    },
+    {
       "title": "Comex Gold Settles 1.09% Lower at $4113.80",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-ticks-lower-as-investors-await-fed-meeting-minutes-1e95b0b1?mod=rss_markets_main",
       "summary": "Gold settled 1.1% lower, down three of the past four sessions, and silver fell 2.1%, snapping a two-session winning streak.",
@@ -644,6 +668,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-07T17:22:00+00:00"
+    },
+    {
+      "title": "Show HN: Pinrail – A desktop inbox where coding agents wait for your review",
+      "link": "https://github.com/forgeplane/pinrail",
+      "summary": "Article URL: https://github.com/forgeplane/pinrail\nComments URL: https://news.ycombinator.com/item?id=49995778\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-07T17:15:03+00:00"
     },
     {
       "title": "EmDash uses Clef to moderate the plugin registry",
@@ -942,6 +974,14 @@
       "published": "2026-10-07T15:09:33+00:00"
     },
     {
+      "title": "How to Assemble Science",
+      "link": "https://aeon.co/essays/the-life-saving-scientific-knowledge-hiding-in-plain-sight",
+      "summary": "Article URL: https://aeon.co/essays/the-life-saving-scientific-knowledge-hiding-in-plain-sight\nComments URL: https://news.ycombinator.com/item?id=49993878\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-07T15:07:14+00:00"
+    },
+    {
       "title": "Animated ASCII Art for Web Pages",
       "link": "https://ascii.rest/",
       "summary": "Article URL: https://ascii.rest/\nComments URL: https://news.ycombinator.com/item?id=49993857\nPoints: 5\n# Comments: 0",
@@ -1172,6 +1212,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-07T13:05:00+00:00"
+    },
+    {
+      "title": "Ex-Barclays traders’ rate-rigging convictions quashed",
+      "link": "https://www.ft.com/content/9c61d1a4-c982-41d5-a96e-f06df406c7e9?syn-25a6b1a6=1",
+      "summary": "Court of Appeal ruling comes after Tom Hayes’s guilty verdict was overturned last year",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-07T13:03:54+00:00"
     },
     {
       "title": "We need a US debt conversation — will the Republicans have one?",
@@ -2015,6 +2063,14 @@
     },
     {
       "title": "Stock Market Today: Treasury Yields Fall After Strong Auction, Dow Slips",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-07-2026?mod=rss_markets_main",
+      "summary": "Oil prices edge higher",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-07T08:34:56+00:00"
+    },
+    {
+      "title": "Stock Market Today: Treasury Yields Retreat After Strong Auction, Dow Slips",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-07-2026?mod=rss_markets_main",
       "summary": "Oil prices edge higher",
       "source": "WSJ マーケット",
