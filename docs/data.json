@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T19:28:00.063573+00:00",
+  "generated_at": "2026-10-07T19:41:19.265374+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -598,6 +598,22 @@
   ],
   "items": [
     {
+      "title": "U.S. Natural Gas Futures Gain Ahead of Storage Data",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-extends-gains-with-eyes-on-storm-a8a32ad9?mod=rss_markets_main",
+      "summary": "U.S. natural gas futures settled higher for a fourth straight session as cooler weather forecasts favored early-season heating demand, which could limit storage builds for the remainder of the injection season.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-07T19:35:00+00:00"
+    },
+    {
+      "title": "神戸三宮｢複雑過ぎるバス停｣再開発でどう変わるか　実は高速バスの一大拠点､新宿に続く｢バスタ｣整備 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960145?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "神戸の玄関口､三宮に建設中の新バスターミナルは完成すれば西日本の高速バスの一大拠点となりそうです。現在のバス停の位置がいかに\"初見殺し\"かわかる地図や､完成が近い新バスターミナルの超高層ビルの様子は…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-07T19:30:00+00:00"
+    },
+    {
       "title": "超長寿、ミトコンドリア機能が基盤　細胞のエネルギー生産―１９４歳ゾウガメを解析・国際チーム",
       "link": "https://www.jiji.com/jc/article?k=2026100800082&g=int&m=rss",
       "summary": "",
@@ -724,6 +740,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-07T18:05:37+00:00"
+    },
+    {
+      "title": "Show HN: Pointless but mostly-exact clone of Hacker News",
+      "link": "https://news.ycombinator.lol",
+      "summary": "Source code: http://github.com/shawwn/sharcI had more things I wanted to do with this, but I should probably admit to myself I probably won't be.The original idea was for https://news.ycombinator.lol to be \"Hacker News, but all the comments are AI.\" Right now it's \"Hacker News, but all the comments are the same as the real HN.\" Hence, it's completely pointless.Special thanks to dang for collaborating -- he even suggested the name for the codebase, \"sharc\".Development time was about four months of near daily work: https://github.com/shawwn/sharc/tree/main/docs/agents/handof... Some days I'd spend a solid 16 hours on this.What's the point? None, really. Just to test the limits of my abilities and prove to myself that I could do what pg did.It's an extremely efficient port of HN to Common Lisp. One of the project's goals was to be high performance. According to benchmarks, it can generate pages very slightly slower than real HN. (dang shared some timings on a particularly busy page, along with how many views it got over a certain time period, for benchmarking throughput. I never got around to verifying whether I can handle 24 million views a day, though, so I'd imagine something might break if you scale this up. On the other hand, I think it'll hold up.)If you're particularly offended that this is copying your comments, claim your account by going to your profile (for example, I would go to https://news.ycombinator.lol/user?id=sillysaurusx) and then click \"claim\" at the bottom. It'll ask you to put a 6 digit code into your real HN profile, at which point you'll be able to reset your cloned profile's password. Log in, go to your profile page, and set \"redact\" to \"yes\", the same way you'd set \"showdead\" to \"yes\" on HN.So, why make this? Eh, call it an art project. That's code for \"It would've been a lot funnier with AI generated comments, but I seem to have stopped working on this for now.\" I'll post an update someday, if I can figure out how to do it without paying hundreds of dollars of API token prices./ask and /show are missing. Those were the only two features left to clone. But pretty much everything else is there. It's been running for a couple months now, so I suppose it's stable enough for a public showing.Not that there's any reason to look. Shoo! Go find a more worthy project to devote your attention to. :)Kind of melancholy admitting that I spent four months with only something pointless to show for it.But then again, here's the punchline: go to any random comment on HN, then in the url change .com to .lol and you'll see an almost pixel perfect recreation. For example, https://news.ycombinator.lol/item?id=49995615Sadly you can't form a loop, because if you edit your original comment with a link to itself, you'd only be able to go from HN to .lol to HN. But you could list both and switch between them as much as you want.For example:https://news.ycombinator.lol/item?id=49996495https://news.ycombinator.com/item?id=49996495This project was one of the most technically demanding things I've ever done. People look at HN and go oh, that? That looks easy. If you think so, I invite you to write it yourself -- it's an exercise that'll certainly make you a better programmer, and gain appreciation for how many subtle features we enjoy here on HN.Ha, and I just discovered a new one. I mixed up the \"title\" and \"url\" boxes just now. HN popped up a nice looking overlay that said \"please enter a URL\", pointing to the actual url box. https://i.imgur.com/agFas7x.png The HN team is always adding something or another, even if it's not always visible. Normally I'd dive into this and find out how it works and clone it, but ... eh, I'll settle for a 95% exact clone.\n\nComments URL: https://news.ycombinator.com/item?id=49996495\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-07T18:05:35+00:00"
     },
     {
       "title": "Gold Futures Fall on Stronger Dollar, High Yields",
