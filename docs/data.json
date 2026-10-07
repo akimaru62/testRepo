@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T03:13:11.630927+00:00",
+  "generated_at": "2026-10-07T03:56:28.459383+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -590,6 +590,10 @@
     {
       "url": "https://www.mof.go.jp/news.rss",
       "error": "404 Client Error: Not Found for url: https://www.mof.go.jp/news.rss"
+    },
+    {
+      "url": "https://www.mof.go.jp/news.rss",
+      "error": "404 Client Error: Not Found for url: https://www.mof.go.jp/news.rss"
     }
   ],
   "items": [
@@ -624,6 +628,46 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-07T11:00:00+00:00"
+    },
+    {
+      "title": "ビール大手４社が価格調整の疑い、公取委が家宅捜索　値上げを協議か",
+      "link": "https://www.asahi.com/articles/ASVB64JYCVB6UTIL024M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-07T03:56:19.667435+00:00"
+    },
+    {
+      "title": "Chinese Yuan May Be Undervalued",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-aided-by-appetite-for-risk-assets-ee0a9ce8?mod=rss_markets_main",
+      "summary": "The Chinese yuan is undervalued by as much as 25%, Capital Economics said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-07T03:34:00+00:00"
+    },
+    {
+      "title": "リバティ･メディアによる買収でF1のようなムーブメントを作れるか…2輪レース最高峰｢MotoGP｣副CEOが語る成長戦略 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960106?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "モーターサイクルレース最高峰｢MotoGP｣はF1のように興行的成功を収められるのか､その戦略について副CEOエスペレータに聞いた。日本人ライダーとして22年ぶりに最高峰クラス優勝を果たした小椋藍選…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-07T03:30:00+00:00"
+    },
+    {
+      "title": "公取委 なぜビール4社に強制調査",
+      "link": "https://news.yahoo.co.jp/pickup/6597856?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-07T03:19:38+00:00"
+    },
+    {
+      "title": "La Cueva BBS in Mexico in 1993 (session replay)",
+      "link": "https://nanochess.org/la_cueva_bbs.html",
+      "summary": "Article URL: https://nanochess.org/la_cueva_bbs.html\nComments URL: https://news.ycombinator.com/item?id=49987675\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-07T03:16:45+00:00"
     },
     {
       "title": "Ｎ党立花氏襲撃、男に懲役１２年求刑　党首切り付け、判決は９日―東京地裁",
@@ -1040,6 +1084,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-07T00:30:00+00:00"
+    },
+    {
+      "title": "Account bans on Reddit",
+      "link": "https://orchidfiles.com/account-bans-on-reddit/",
+      "summary": "Article URL: https://orchidfiles.com/account-bans-on-reddit/\nComments URL: https://news.ycombinator.com/item?id=49986223\nPoints: 24\n# Comments: 18",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-07T00:28:29+00:00"
     },
     {
       "title": "Oil Rises Amid Ongoing Mideast Tensions",
