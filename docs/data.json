@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T19:13:16.612607+00:00",
+  "generated_at": "2026-10-07T19:28:00.063573+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -606,12 +606,44 @@
       "published": "2026-10-07T19:13:11.070868+00:00"
     },
     {
+      "title": "Microsoft and Nvidia are teaming up on a supercharged AI laptop",
+      "link": "https://www.marketwatch.com/story/microsoft-and-nvidia-are-teaming-up-on-a-supercharged-ai-laptop-f58b28d8?mod=mw_rss_topstories",
+      "summary": "Powered by Nvidia’s RTX Spark chip, the latest Windows laptop is designed to run AI models and workloads directly on the device.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-07T19:12:00+00:00"
+    },
+    {
+      "title": "ICANN Reveals 2026 Round Applications for New Generic Top-Level Domains",
+      "link": "https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en",
+      "summary": "Article URL: https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en\nComments URL: https://news.ycombinator.com/item?id=49997301\nPoints: 5\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-07T19:01:45+00:00"
+    },
+    {
       "title": "Five Things to Know About Tokenized Stocks",
       "link": "https://www.wsj.com/finance/stocks/five-things-to-know-about-tokenized-stocks-1cc02741?mod=rss_markets_main",
       "summary": "A recent SEC order sets in motion plans to bring stock tokens to the U.S.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-07T18:53:00+00:00"
+    },
+    {
+      "title": "Meta and Microsoft Limit Employee Use of Claude AI Tools",
+      "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+      "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/\nComments URL: https://news.ycombinator.com/item?id=49997161\nPoints: 22\n# Comments: 12",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-07T18:49:40+00:00"
+    },
+    {
+      "title": "Push Ifs Up and Fors Down: The Idiom, Its Algebra, and Its Limits",
+      "link": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
+      "summary": "Article URL: https://debasishg.github.io/blog/push-ifs-up-fors-down/\nComments URL: https://news.ycombinator.com/item?id=49997073\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-07T18:43:18+00:00"
     },
     {
       "title": "Stocks are increasingly their own best hedge. This chart shows why.",
