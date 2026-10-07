@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T18:10:33.083860+00:00",
+  "generated_at": "2026-10-07T18:33:54.226636+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -598,12 +598,60 @@
   ],
   "items": [
     {
+      "title": "Stocks are increasingly their own best hedge. This chart shows why.",
+      "link": "https://www.marketwatch.com/story/stocks-are-increasingly-their-own-best-hedge-this-chart-shows-why-19a79b68?mod=mw_rss_topstories",
+      "summary": "For decades, investors concerned about stocks sought succor in the bond market. But these days, the best shield against an outbreak of volatility might just be owning other stocks.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-07T18:31:00+00:00"
+    },
+    {
+      "title": "Fed’s minutes show no appetite for a series of interest-rate hikes",
+      "link": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
+      "summary": "September’s rate hike was viewed by many officials as needed just in case inflation remains sticky.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-07T18:28:00+00:00"
+    },
+    {
+      "title": "SpaceX may chase ‘stunning’ AI returns by taking on a lot of debt to buy Nvidia chips",
+      "link": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
+      "summary": "A report says SpaceX is considering raising $40 billion to finance the purchase of advanced graphic processing units and related systems.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-07T18:22:00+00:00"
+    },
+    {
+      "title": "U.S. Stocks Slip as Treasurys Retreat From Recent Highs",
+      "link": "https://www.wsj.com/finance/stocks/stocks-futures-steady-as-bond-selloff-extends-oil-prices-rise-ddd8a40e?mod=rss_markets_main",
+      "summary": "U.S. stocks declined as Treasury yields retreated from fresh multidecade highs.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-07T18:18:00+00:00"
+    },
+    {
+      "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
+      "link": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html",
+      "summary": "The Federal Reserve on Wednesday released minutes from its Sept. 15-16 policy meeting.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-10-07T18:07:09+00:00"
+    },
+    {
       "title": "Fed minutes show no appetite for a series of interest-rate hikes",
       "link": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
       "summary": "Last month’s rate hike was viewed by many officials as needed just in case inflation remains sticky.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-07T18:07:00+00:00"
+    },
+    {
+      "title": "SpaceX credit risk jumps on worries over its borrowing spree",
+      "link": "https://www.ft.com/content/4f2417d3-3de6-4f62-bd3a-8c8f740a4b29?syn-25a6b1a6=1",
+      "summary": "Leap in credit default swaps tracking Elon Musk’s aerospace group follows an FT report that it is seeking to raise $40bn to buy Nvidia chips",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-07T18:05:37+00:00"
     },
     {
       "title": "Gold Futures Fall on Stronger Dollar, High Yields",
@@ -620,6 +668,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-07T18:01:32+00:00"
+    },
+    {
+      "title": "GPT‑6 and Intelligent UI for everyone",
+      "link": "https://openai.com/index/gpt-6-for-everyone/",
+      "summary": "Article URL: https://openai.com/index/gpt-6-for-everyone/\nComments URL: https://news.ycombinator.com/item?id=49996425\nPoints: 41\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-07T18:00:58+00:00"
     },
     {
       "title": "Comex Gold Settles 1.09% Lower at $4113.80",
