@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T15:37:14.124553+00:00",
+  "generated_at": "2026-10-07T15:56:08.435234+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -606,6 +606,14 @@
       "published": "2026-10-07T17:00:00+00:00"
     },
     {
+      "title": "Wells Fargo Faces Regulator Probe Over Efforts to Boost Black Homeownership",
+      "link": "https://www.wsj.com/finance/banking/wells-fargo-faces-regulator-probe-over-efforts-to-boost-black-homeownership-a337b46e?mod=rss_markets_main",
+      "summary": "Trump’s Housing and Urban Development is seeking to crack down on race-based lending, calling it a potential  violation of the Fair Housing Act.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-07T15:40:00+00:00"
+    },
+    {
       "title": "梅野がサヨナラ打　プロ野球・阪神２―１広島",
       "link": "https://www.jiji.com/jc/article?k=2026100701172&g=spo&m=rss",
       "summary": "",
@@ -662,6 +670,22 @@
       "published": "2026-10-07T15:35:00+00:00"
     },
     {
+      "title": "AI firm HUMXN offers free plumbing and HVAC service in Minnesota to train robots",
+      "link": "https://humxn.io/humxn-launches-free-home-service-program",
+      "summary": "Article URL: https://humxn.io/humxn-launches-free-home-service-program\nComments URL: https://news.ycombinator.com/item?id=49994206\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-07T15:28:49+00:00"
+    },
+    {
+      "title": "Across the Globe, People Increasingly Say Social Media Is Harming Democracy",
+      "link": "https://www.pewresearch.org/global/2026/10/01/across-the-globe-people-increasingly-say-social-media-is-harming-democracy/",
+      "summary": "Article URL: https://www.pewresearch.org/global/2026/10/01/across-the-globe-people-increasingly-say-social-media-is-harming-democracy/\nComments URL: https://news.ycombinator.com/item?id=49994122\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-07T15:23:29+00:00"
+    },
+    {
       "title": "U.S. Crude Oil Stockpiles Post Weekly Drop",
       "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-post-weekly-drop-948f4817?mod=rss_markets_main",
       "summary": "Commercial crude oil inventories fell by 3.2 million barrels to 424.1 million barrels in the week ended Oct. 2. Crude inventories were expected to have increased by 1.7 million barrels, according to a Wall Street Journal survey of analysts.",
@@ -694,6 +718,14 @@
       "published": "2026-10-07T15:09:33+00:00"
     },
     {
+      "title": "Animated ASCII Art for Web Pages",
+      "link": "https://ascii.rest/",
+      "summary": "Article URL: https://ascii.rest/\nComments URL: https://news.ycombinator.com/item?id=49993857\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-07T15:05:37+00:00"
+    },
+    {
       "title": "We Built an Alternative to Vector RAG for AI Agent Memory",
       "link": "https://www.claix.dev/blog/rag-for-ai-agents-agentic-retrieval",
       "summary": "Article URL: https://www.claix.dev/blog/rag-for-ai-agents-agentic-retrieval\nComments URL: https://news.ycombinator.com/item?id=49993820\nPoints: 3\n# Comments: 4",
@@ -708,6 +740,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-07T15:00:05+00:00"
+    },
+    {
+      "title": "イエメン避難民20万人超、フーシ派と政府軍の戦闘激化で＝ＩＯＭ - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBuMURvNE82OS1VdzIzbEtwWUROclJ5U2VOcUF0VkhUU3hkRzl2OHFSdzRsZmJrN1hlX0hFUldoSFpoQVgydDIyWjJIdFBqUW8zNmt6YUxzRFc5R3B1ZjY2cTl1RW9iUF9FTHcweEZueEo4TDZNQ0cxYkp5bXk?oc=5",
+      "summary": "イエメン避難民20万人超、フーシ派と政府軍の戦闘激化で＝ＩＯＭ&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-07T14:49:57+00:00"
     },
     {
       "title": "Oil Futures Rise on Middle East Tensions, U.S. Gulf Storm",
@@ -756,6 +796,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-07T14:28:49.558671+00:00"
+    },
+    {
+      "title": "米政府とグーグル、メタＣＥＯのバイオハブに参画 生物学ＡＩに18億ドル投資へ - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1MjFTYmloU2xOVGZLcnJEc014V0pZSW1hcnAwc0hkcGpRb0FfU1kzb0ZmSmtMLTFNSTRKWVhKaUt6Q2h4RFR1X1JzY2NjUldVR19vR0xWM3g2X1JDZkdFYlIyLWkyRVdsSDNoTGZmVEJrZTRVQzRielNjQk8?oc=5",
+      "summary": "米政府とグーグル、メタＣＥＯのバイオハブに参画 生物学ＡＩに18億ドル投資へ&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-07T14:27:44+00:00"
     },
     {
       "title": "Device detection and occupancy monitoring for Airbnb hosts",
@@ -884,6 +932,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-07T13:31:45.824019+00:00"
+    },
+    {
+      "title": "Anti-Patterns in Software Blogging",
+      "link": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
+      "summary": "Article URL: https://refactoringenglish.com/blog/anti-patterns-software-blogging/\nComments URL: https://news.ycombinator.com/item?id=49992257\nPoints: 15\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-07T13:08:26+00:00"
     },
     {
       "title": "Kalshi is coming for ‘Dancing with the Stars’ fans",
