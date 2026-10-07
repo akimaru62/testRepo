@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T16:13:00.277044+00:00",
+  "generated_at": "2026-10-07T16:33:41.357437+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -606,12 +606,52 @@
       "published": "2026-10-07T17:00:00+00:00"
     },
     {
+      "title": "Stocks making the biggest moves midday: Goldman Sachs, Webull, Worthington Steel, Micron & more",
+      "link": "https://www.cnbc.com/2026/10/07/stocks-making-the-biggest-moves-midday-gs-bull-ws-mu.html",
+      "summary": "These are the stocks posting the largest moves midday.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-10-07T16:24:25+00:00"
+    },
+    {
+      "title": "U.S. Stocks Fall as Treasury Yields Climb",
+      "link": "https://www.wsj.com/finance/stocks/stocks-futures-steady-as-bond-selloff-extends-oil-prices-rise-ddd8a40e?mod=rss_markets_main",
+      "summary": "U.S. stocks fell as Treasury yields hovered near fresh multidecade highs.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-07T16:19:00+00:00"
+    },
+    {
+      "title": "Gold Futures Lose Ground Awaiting Fed Minutes",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-ticks-lower-as-investors-await-fed-meeting-minutes-1e95b0b1?mod=rss_markets_main",
+      "summary": "Gold futures declined as the U.S. dollar gained and the market looked to minutes of the Fed’s latest meeting to gauge prospects for interest rates.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-07T16:15:00+00:00"
+    },
+    {
       "title": "ノーベル賞「大変うれしい」　そあい名誉教授が会見―東京",
       "link": "https://www.jiji.com/jc/article?k=2026100701201&g=soc&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-07T16:12:54.915804+00:00"
+    },
+    {
+      "title": "Paramount, Warner Bros Formally Merge, Form Giant Mountain of Disastrous Debt",
+      "link": "https://www.techdirt.com/2026/10/07/paramount-warner-bros-formally-merge-form-giant-mountain-of-disastrous-debt/",
+      "summary": "Article URL: https://www.techdirt.com/2026/10/07/paramount-warner-bros-formally-merge-form-giant-mountain-of-disastrous-debt/\nComments URL: https://news.ycombinator.com/item?id=49994797\nPoints: 12\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-07T16:11:10+00:00"
+    },
+    {
+      "title": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
+      "summary": "Article URL: https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth\nComments URL: https://news.ycombinator.com/item?id=49994746\nPoints: 18\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-07T16:07:08+00:00"
     },
     {
       "title": "英30年債利回り、一時6.036％と28年ぶり高水準 世界的な債券売り - ロイター",
@@ -686,12 +726,28 @@
       "published": "2026-10-07T15:35:00+00:00"
     },
     {
+      "title": "米1年先インフレ期待3.9％、23年5月以来の高水準＝ＮＹ連銀9月調査 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcXVRbVh6WmczdDN2UVhDLXlnc2ZkXzU5ZlhtbXNWdDNTZ2NUcHM3S0ZLcHFEVlQ1ZVRFcnR5TllhVXE5V3VmMzI4MUlaMnlMNHR2NVcxVWExZWJPb0NrSUpFUHowV3gxaENlWTVoMFZHalAyRzRDMFE4S0NfZVlLR2hvaHc?oc=5",
+      "summary": "米1年先インフレ期待3.9％、23年5月以来の高水準＝ＮＹ連銀9月調査&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-07T15:29:43+00:00"
+    },
+    {
       "title": "AI firm HUMXN offers free plumbing and HVAC service in Minnesota to train robots",
       "link": "https://humxn.io/humxn-launches-free-home-service-program",
       "summary": "Article URL: https://humxn.io/humxn-launches-free-home-service-program\nComments URL: https://news.ycombinator.com/item?id=49994206\nPoints: 10\n# Comments: 0",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-07T15:28:49+00:00"
+    },
+    {
+      "title": "Navier–Stokes Lost in Translation",
+      "link": "https://arxiv.org/abs/2610.08144",
+      "summary": "Article URL: https://arxiv.org/abs/2610.08144\nComments URL: https://news.ycombinator.com/item?id=49994145\nPoints: 29\n# Comments: 11",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-07T15:24:38+00:00"
     },
     {
       "title": "Across the Globe, People Increasingly Say Social Media Is Harming Democracy",
@@ -710,6 +766,14 @@
       "published": "2026-10-07T15:21:00+00:00"
     },
     {
+      "title": "Reverse Engineering of the M-VAVE FM-1 Pocket Synthesizer Firmware",
+      "link": "https://github.com/AL-255/FM-1-RE",
+      "summary": "Article URL: https://github.com/AL-255/FM-1-RE\nComments URL: https://news.ycombinator.com/item?id=49994065\nPoints: 13\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-07T15:19:50+00:00"
+    },
+    {
       "title": "GitHub Incident with Git Operations, Pull Requests and Actions",
       "link": "https://www.githubstatus.com/incidents/djlmxz2zd0j7",
       "summary": "Article URL: https://www.githubstatus.com/incidents/djlmxz2zd0j7\nComments URL: https://news.ycombinator.com/item?id=49994027\nPoints: 37\n# Comments: 16",
@@ -718,12 +782,28 @@
       "published": "2026-10-07T15:17:23+00:00"
     },
     {
+      "title": "ShinyHunters Extorted Boeing Spin-Off Prior to Arrests",
+      "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/\nComments URL: https://news.ycombinator.com/item?id=49993997\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-07T15:15:36+00:00"
+    },
+    {
       "title": "France Considers Issuing More Shorter-Term Debt After Bond-Market Turmoil",
       "link": "https://www.wsj.com/world/europe/france-considers-issuing-more-shorter-term-debt-amid-bond-market-turmoil-db2966fd?mod=rss_markets_main",
       "summary": "French Finance Minister Roland Lescure said in an interview that the country would be “strategic” in issuing new debt.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-07T15:13:00+00:00"
+    },
+    {
+      "title": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees",
+      "link": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
+      "summary": "Article URL: https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees\nComments URL: https://news.ycombinator.com/item?id=49993914\nPoints: 13\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-07T15:09:59+00:00"
     },
     {
       "title": "Why Were Victorian Elites So Effective?",
