@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T18:33:54.226636+00:00",
+  "generated_at": "2026-10-07T18:56:43.811460+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -598,12 +598,28 @@
   ],
   "items": [
     {
+      "title": "Five Things to Know About Tokenized Stocks",
+      "link": "https://www.wsj.com/finance/stocks/five-things-to-know-about-tokenized-stocks-1cc02741?mod=rss_markets_main",
+      "summary": "A recent SEC order sets in motion plans to bring stock tokens to the U.S.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-07T18:53:00+00:00"
+    },
+    {
       "title": "Stocks are increasingly their own best hedge. This chart shows why.",
       "link": "https://www.marketwatch.com/story/stocks-are-increasingly-their-own-best-hedge-this-chart-shows-why-19a79b68?mod=mw_rss_topstories",
       "summary": "For decades, investors concerned about stocks sought succor in the bond market. But these days, the best shield against an outbreak of volatility might just be owning other stocks.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-07T18:31:00+00:00"
+    },
+    {
+      "title": "US government bonds steady after strong 10-year Treasury auction",
+      "link": "https://www.ft.com/content/33c67aa0-bfdb-457b-84bb-960b4fed94b6?syn-25a6b1a6=1",
+      "summary": "French, Italian and UK government bonds under pressure in volatile trading",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-07T18:28:10+00:00"
     },
     {
       "title": "Fed’s minutes show no appetite for a series of interest-rate hikes",
@@ -628,6 +644,22 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-07T18:18:00+00:00"
+    },
+    {
+      "title": "When the machine boots but the reply disappears",
+      "link": "https://mainbrella.com/blog/inside-our-brella/",
+      "summary": "Article URL: https://mainbrella.com/blog/inside-our-brella/\nComments URL: https://news.ycombinator.com/item?id=49996574\nPoints: 4\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-07T18:10:27+00:00"
+    },
+    {
+      "title": "AI Model Groupthink",
+      "link": "https://magicnumbers.io/2026/10/06/ai-model-groupthink/",
+      "summary": "Article URL: https://magicnumbers.io/2026/10/06/ai-model-groupthink/\nComments URL: https://news.ycombinator.com/item?id=49996542\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-07T18:08:38+00:00"
     },
     {
       "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
@@ -684,6 +716,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-07T17:49:00+00:00"
+    },
+    {
+      "title": "Docker Agent : AI Agent Builder and Runtime by Docker",
+      "link": "https://github.com/docker/docker-agent",
+      "summary": "Article URL: https://github.com/docker/docker-agent\nComments URL: https://news.ycombinator.com/item?id=49996259\nPoints: 26\n# Comments: 12",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-07T17:48:38+00:00"
     },
     {
       "title": "Secret protection must scale with software",
