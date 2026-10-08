@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T22:07:59.153768+00:00",
+  "generated_at": "2026-10-08T22:27:02.847829+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -618,9 +618,53 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f7b44cdde80>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f8e20fb1fd0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "フィリピンのドゥテルテ前大統領に裁判能力　１１月末に公判開始へ―ＩＣＣ",
+      "link": "https://www.jiji.com/jc/article?k=2026100900188&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-08T22:26:58.480865+00:00"
+    },
+    {
+      "title": "ＮＹ株反発、５１ドル高　米イラン協議期待と金利低下で",
+      "link": "https://www.jiji.com/jc/article?k=2026100900166&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-08T22:26:58.480823+00:00"
+    },
+    {
+      "title": "通知もSNSも気にせず｢9時間｣没入…マンガを読むためだけに名古屋の《マンガ特化型ホテル》に泊まってハッとしたこと | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960470?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "名古屋に誕生した｢MANGA ART HOTEL, NAGOYA MARUNOUCHI｣は､2万冊のマンガに没頭できる特別な宿泊体験を提供。現代人が忘れがちな｢一つのことに集中する贅沢｣をライターの…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-08T22:15:00+00:00"
+    },
+    {
+      "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI’s revenue causes ‘undue concern’",
+      "link": "https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories",
+      "summary": "OpenAI’s annualized revenue reportedly fell short of expectations — but analysts say that reflects differences in how the figure is reported, not weakness in AI demand.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-08T22:08:00+00:00"
+    },
+    {
+      "title": "Amex fined $350mn for failing to flag suspected money laundering",
+      "link": "https://www.ft.com/content/6777c34c-876f-4f72-9eec-d3cddb2f1f45?syn-25a6b1a6=1",
+      "summary": "US regulator finds ‘systemic’ failures that left $13bn in suspicious transactions unreported",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-08T22:03:23+00:00"
+    },
     {
       "title": "食堂で働く\"86歳認知症の母\"､とんかつを作り続けた母に息子が声を荒げた過去も…親子が見つけた《最高の居場所》 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/959452?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -1031,6 +1075,14 @@
     },
     {
       "title": "The Credit-Card Bill That Banks Fear Most Has Gained Trump as an Ally",
+      "link": "https://www.wsj.com/finance/regulation/the-credit-card-bill-that-banks-fear-most-has-gained-trump-as-an-ally-013551b3?mod=rss_markets_main",
+      "summary": "The bill could upend the system that moves billions of dollars in fees that merchants hate and banks use to power rewards.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-08T19:00:00+00:00"
+    },
+    {
+      "title": "Trump Throws His Weight Behind Credit-Card Legislation Most Feared by Banks",
       "link": "https://www.wsj.com/finance/regulation/the-credit-card-bill-that-banks-fear-most-has-gained-trump-as-an-ally-013551b3?mod=rss_markets_main",
       "summary": "The bill could upend the system that moves billions of dollars in fees that merchants hate and banks use to power rewards.",
       "source": "WSJ マーケット",
