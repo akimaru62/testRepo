@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T18:33:13.584155+00:00",
+  "generated_at": "2026-10-08T18:56:00.224108+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -622,12 +622,28 @@
   ],
   "items": [
     {
+      "title": "The options market is reminding investors there’s a cure for rising bond yields — higher yields",
+      "link": "https://www.marketwatch.com/story/the-options-market-is-reminding-investors-theres-a-cure-for-rising-bond-yields-higher-yields-2dcac640?mod=mw_rss_topstories",
+      "summary": "The MOVE Index — the Treasury market’s “fear gauge” — has reached heights that in the past suggested yields may have peaked, at least for now.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-08T18:51:00+00:00"
+    },
+    {
       "title": "高市首相、ウクライナ訪問は重要　「現時点で計画なし」",
       "link": "https://www.jiji.com/jc/article?k=2026100800920&g=pol&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-08T18:33:08.206630+00:00"
+    },
+    {
+      "title": "Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)",
+      "link": "https://github.com/p10node/k10s",
+      "summary": "Article URL: https://github.com/p10node/k10s\nComments URL: https://news.ycombinator.com/item?id=50009904\nPoints: 12\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-08T18:29:06+00:00"
     },
     {
       "title": "Bond yields fell, as the Treasury market passed a crucial test of investor confidence",
