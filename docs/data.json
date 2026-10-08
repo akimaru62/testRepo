@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T13:03:32.816525+00:00",
+  "generated_at": "2026-10-08T13:32:57.624825+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -610,6 +610,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f9516d7de80>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -628,6 +632,78 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-08T16:00:00+00:00"
+    },
+    {
+      "title": "阪神の佐藤輝明内野手が三冠王に輝いた。プロ野球史上９人目",
+      "link": "https://www.jiji.com/jc/article?k=2026100801139&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-08T13:32:41.958851+00:00"
+    },
+    {
+      "title": "中日監督に工藤公康氏就任へ　「勝ち方知る」手腕期待―プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026100800236&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-08T13:32:41.958839+00:00"
+    },
+    {
+      "title": "中国、人民元安誘導を否定　貿易黒字批判に反論―人民銀",
+      "link": "https://www.jiji.com/jc/article?k=2026100801141&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-08T13:32:41.958824+00:00"
+    },
+    {
+      "title": "路線バス攻撃で３３人死亡　公共交通機関の運行停止―ウクライナ東部",
+      "link": "https://www.jiji.com/jc/article?k=2026100801123&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-08T13:32:41.958801+00:00"
+    },
+    {
+      "title": "阪神の佐藤輝明、史上９人目の三冠王　村上宗隆以来４年ぶり―プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026100801143&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-08T13:32:41.958767+00:00"
+    },
+    {
+      "title": "【随時更新】漏洩の恐れがあった企業一覧　個人情報の流出が相次ぐ",
+      "link": "https://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-08T13:32:41.804324+00:00"
+    },
+    {
+      "title": "岩手銀や四国銀、損保ジャパンでも情報漏洩か　関係先に不正アクセス",
+      "link": "https://www.asahi.com/articles/ASVB83W4HVB8ULFA02VM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-08T13:32:41.804287+00:00"
+    },
+    {
+      "title": "Oil Is Back In, Climate Is Out at a Marquee Energy Conference",
+      "link": "https://www.wsj.com/business/energy-oil/oil-is-back-in-climate-is-out-at-a-marquee-energy-conference-a6bcad5a?mod=rss_markets_main",
+      "summary": "Plus: Africa’s richest man plans a refinery on a pristine coastline, Middle East oil exports are returning to normal and the Supreme Court is pondering climate lawsuits.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-08T13:25:00+00:00"
+    },
+    {
+      "title": "個人情報流出が相次ぐ中でサイバーセキュリティー8社がストップ高…HISからパスポート情報流出も | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960621?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "個人情報流出が相次ぐ中､サイバーセキュリティ関連企業の株価が急騰し､東京市場で関連8社がストップ高となりました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-08T13:07:00+00:00"
     },
     {
       "title": "団結の象徴「ガンバロー」やめてみた　連合、止まるか「組合離れ」",
@@ -724,6 +800,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-08T12:12:59.866991+00:00"
+    },
+    {
+      "title": "ローソン、215万件超の個人情報漏えいで謝罪　「ローソンID」などから　止まらぬ情報漏えいラッシュ",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/08/news104.html",
+      "summary": "ローソンは10月8日、不正アクセスにより215万件を超える顧客の個人情報が漏えいしたと発表した。この情報漏えいは、「ローソンID」「ローソンアプリ予約」に不正アクセスを受けたことによって起きた。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-10-08T12:10:00+00:00"
     },
     {
       "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
