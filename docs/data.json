@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T19:39:16.930880+00:00",
+  "generated_at": "2026-10-08T19:51:08.095879+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -622,6 +622,38 @@
   ],
   "items": [
     {
+      "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
+      "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+      "summary": "Seven tips for painlessly moving in retirement.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-08T19:47:00+00:00"
+    },
+    {
+      "title": "US bans Microsoft from sponsoring foreign workers for US residency",
+      "link": "https://www.ft.com/content/5cfecbba-69ed-42d0-98fd-3ae019144692?syn-25a6b1a6=1",
+      "summary": "Announcement impacting several tech groups marks White House’s latest attempt to limit immigration",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-08T19:45:47+00:00"
+    },
+    {
+      "title": "Florida is voting on whether to slash property taxes. Here’s who it would benefit — and hurt.",
+      "link": "https://www.marketwatch.com/story/florida-is-voting-on-whether-to-slash-property-taxes-heres-who-it-would-benefit-and-hurt-6c34b470?mod=mw_rss_topstories",
+      "summary": "Amendment 3’s passage could add momentum to other states’ efforts to slash property taxes",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-08T19:41:00+00:00"
+    },
+    {
+      "title": "Comex Gold Settles 0.44% Higher at $4131.80",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-higher-yields-stronger-dollar-weigh-0759a7e8?mod=rss_markets_main",
+      "summary": "Comex gold rose 0.4% to $4131.80 a troy ounce — up two of the past three sessions.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-08T19:40:00+00:00"
+    },
+    {
       "title": "London’s Private Markets Exchange Completes Another Auction",
       "link": "https://www.wsj.com/pro/private-equity/londons-private-markets-exchange-completes-another-auction-4bb71cfb?mod=rss_markets_main",
       "summary": "But exchange’s managers say it’s too soon to talk about expansion.",
@@ -652,6 +684,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-08T19:04:56+00:00"
+    },
+    {
+      "title": "US adds torture charges to case against former Venezuelan president",
+      "link": "https://www.ft.com/content/19a73ec7-a014-4776-bef7-4aa34e5b543a?syn-25a6b1a6=1",
+      "summary": "New York federal prosecutors allege Nicolás Maduro and his wife Cilia Flores conspired to commit torture of American citizens",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-08T19:03:46+00:00"
     },
     {
       "title": "The Credit-Card Bill That Banks Fear Most Has Gained Trump as an Ally",
@@ -1102,6 +1142,14 @@
       "published": "2026-10-08T14:30:00+00:00"
     },
     {
+      "title": "Show HN: I Put an AI Agent on a Nokia 110",
+      "link": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
+      "summary": "I was using this mobile to reduce my screentime. Recently got the idea to put ai agent in it. Started with installing android, but failed as it has only 48MB RAM. Then reverse-engineered for few days and finally able use AI Agent in this and automated few actions.Thanks\n\nComments URL: https://news.ycombinator.com/item?id=50006114\nPoints: 8\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-08T14:18:51+00:00"
+    },
+    {
       "title": "Why the AI future will be awesome",
       "link": "https://nullpaste.org/raw/t-0Um6AUv_CJ",
       "summary": "Article URL: https://nullpaste.org/raw/t-0Um6AUv_CJ\nComments URL: https://news.ycombinator.com/item?id=50006087\nPoints: 5\n# Comments: 3",
@@ -1180,6 +1228,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-08T13:57:00+00:00"
+    },
+    {
+      "title": "Calling a function in C without naming it",
+      "link": "https://wiro.world/posts/calling-c-func-without-naming-it/",
+      "summary": "Article URL: https://wiro.world/posts/calling-c-func-without-naming-it/\nComments URL: https://news.ycombinator.com/item?id=50005719\nPoints: 12\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-08T13:42:16+00:00"
     },
     {
       "title": "米新規失業保険申請件数は2000件減の19.7万件、労働市場の安定続く - ロイター",
@@ -1318,6 +1374,14 @@
       "published": "2026-10-08T13:22:01+00:00"
     },
     {
+      "title": "New CRAM method offers giant boost to compressed memory reads",
+      "link": "https://www.tomshardware.com/software/linux/new-linux-tech-compresses-memory-in-ram-as-ram-for-452x-speedup-new-cram-method-offers-giant-boost-to-compressed-memory-reads",
+      "summary": "https://lpc.events/event/20/contributions/2424/https://www.phoronix.com/news/Linux-CRAM-Compressed-RAM\n\nComments URL: https://news.ycombinator.com/item?id=50005424\nPoints: 30\n# Comments: 12",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-08T13:11:41+00:00"
+    },
+    {
       "title": "個人情報流出が相次ぐ中でサイバーセキュリティー8社がストップ高…HISからパスポート情報流出も | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/960621?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "個人情報流出が相次ぐ中､サイバーセキュリティ関連企業の株価が急騰し､東京市場で関連8社がストップ高となりました。",
@@ -1332,6 +1396,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-08T13:03:27.758137+00:00"
+    },
+    {
+      "title": "Show HN: Wordminos – Crosswords Meet Dominos",
+      "link": "https://wordminos.com/play-en.html",
+      "summary": "I built a daily word game in 12 days.The base mechanic only took an hour. \nGetting it to the finish line took the rest.The work was in iteration: design, polish, juice, character. Taste, for now, is still relevant.Enjoy!\n\nComments URL: https://news.ycombinator.com/item?id=50005276\nPoints: 8\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-08T12:56:46+00:00"
     },
     {
       "title": "Who will benefit more from AI agents when it comes to spending – companies or you?",
@@ -1660,6 +1732,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-08T10:30:00+00:00"
+    },
+    {
+      "title": "スイス中銀、金融政策の調整不要 インフレ率は目標範囲内＝副総裁 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkT1ozbmpfTHJJTkJLQlhPUE00R2VWWlNwUG1QMENDbGo2VEpGVVRaZ0pGX2FCSGNmN2VCOWxDd1lfTXB0RXZaU1FrR0lKQmFZTUM5THBlMHZiN1ZTVDhkeWplLUd0b29ZMjY4Z3otSFQwMXVKV2FEXzNyUmM?oc=5",
+      "summary": "スイス中銀、金融政策の調整不要 インフレ率は目標範囲内＝副総裁&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-08T10:19:43+00:00"
     },
     {
       "title": "外部登用で変革なるか　工藤氏に再建の期待―プロ野球・中日新監督",
