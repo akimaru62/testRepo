@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T17:07:33.126874+00:00",
+  "generated_at": "2026-10-08T17:25:32.842733+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -622,6 +622,22 @@
   ],
   "items": [
     {
+      "title": "Crude Oil Pares Gains After Trump Post That U.S. Will Not Attack Iran Before Midterms",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-rising-mideast-tensions-3cd98941?mod=rss_markets_main",
+      "summary": "Crude oil futures backed off from daily highs after President Trump posted on Truth Social that the U.S. would not attack Iran before the midterm elections are held on Nov. 3.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-08T17:20:00+00:00"
+    },
+    {
+      "title": "Anthropic bans 'abusive or cruel behavior' towards Claude",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude\nComments URL: https://news.ycombinator.com/item?id=50008565\nPoints: 15\n# Comments: 10",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-08T17:08:02+00:00"
+    },
+    {
       "title": "How one bug bounty researcher chooses the features they investigate",
       "link": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
       "summary": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub.\nThe post How one bug bounty researcher chooses the features they investigate appeared first on The GitHub Blog.",
@@ -636,6 +652,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-08T17:00:00+00:00"
+    },
+    {
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "link": "https://cactuscompute.com/blog/whistle",
+      "summary": "Article URL: https://cactuscompute.com/blog/whistle\nComments URL: https://news.ycombinator.com/item?id=50008427\nPoints: 30\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-08T16:59:39+00:00"
     },
     {
       "title": "How to provide guaranteed retirement income while paying no commissions",
@@ -801,6 +825,14 @@
       "title": "US Suspends Visa Program for Tech Firms Including Microsoft",
       "link": "https://www.bloomberg.com/news/articles/2026-10-08/us-suspends-visa-program-for-tech-firms-including-microsoft",
       "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-08/us-suspends-visa-program-for-tech-firms-including-microsoft\nComments URL: https://news.ycombinator.com/item?id=50006832\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-08T15:15:00+00:00"
+    },
+    {
+      "title": "Trump administration is suspending Microsoft from a green card program",
+      "link": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+      "summary": "Article URL: https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea\nComments URL: https://news.ycombinator.com/item?id=50006832\nPoints: 349\n# Comments: 485",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-08T15:15:00+00:00"
