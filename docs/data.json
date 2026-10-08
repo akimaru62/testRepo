@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T06:14:46.054738+00:00",
+  "generated_at": "2026-10-08T06:51:06.471625+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -605,6 +605,22 @@
     }
   ],
   "items": [
+    {
+      "title": "プルデンシャル問題、社長ら報酬30%の3カ月返納　64人を解雇",
+      "link": "https://www.asahi.com/articles/ASVB724LMVB7ULFA039M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-08T06:51:01.406688+00:00"
+    },
+    {
+      "title": "30年利付国債（第92回）の第II非価格競争入札結果（令和8年10月8日入札）",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261008a.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-08T06:15:00+00:00"
+    },
     {
       "title": "栃木・那須町長選を巡る訴訟で、東京高裁は当選無効の裁決を取り消した",
       "link": "https://www.jiji.com/jc/article?k=2026100800576&g=flash&m=rss",
@@ -5900,6 +5916,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-06T16:21:48+00:00"
+    },
+    {
+      "title": "How machines learned precision",
+      "link": "https://glinscott.github.io/how-machines-learned-precision/",
+      "summary": "Article URL: https://glinscott.github.io/how-machines-learned-precision/\nComments URL: https://news.ycombinator.com/item?id=49980626\nPoints: 140\n# Comments: 60",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-06T16:14:42+00:00"
     },
     {
       "title": "All the numbers: Amazon Prime Day 2026 powered by AWS",
