@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T19:51:08.095879+00:00",
+  "generated_at": "2026-10-08T20:08:45.000227+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -622,6 +622,22 @@
   ],
   "items": [
     {
+      "title": "ライバル｢アルファード｣に対する優位点は走る楽しさと快適性能…日産の新型｢エルグランド｣に感じたGT-Rの面影 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959733?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2026年7月16日に発売された日産の新型｢エルグランド｣。第3世代e-POWERと先進のe-4ORCEによる圧倒的な静粛性と滑らかな乗り心地は､ライバルとなる｢アルファード｣を凌駕するのか？",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-08T20:00:00+00:00"
+    },
+    {
+      "title": "Oil Finishes Higher Despite Trump Truth Social Post",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-rising-mideast-tensions-3cd98941?mod=rss_markets_main",
+      "summary": "Crude oil futures settled higher as Hurricane Isaias heads for the U.S. Gulf coast, shutting in production.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-08T19:57:00+00:00"
+    },
+    {
       "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
       "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
       "summary": "Seven tips for painlessly moving in retirement.",
@@ -636,6 +652,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-08T19:45:47+00:00"
+    },
+    {
+      "title": "License update: AI derivation prohibited on all my art, lore, stories, comics",
+      "link": "https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics",
+      "summary": "Article URL: https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics\nComments URL: https://news.ycombinator.com/item?id=50011028\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-08T19:43:59+00:00"
     },
     {
       "title": "Florida is voting on whether to slash property taxes. Here’s who it would benefit — and hurt.",
@@ -668,6 +692,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-08T19:25:30.397873+00:00"
+    },
+    {
+      "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
+      "link": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
+      "summary": "Article URL: https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months\nComments URL: https://news.ycombinator.com/item?id=50010656\nPoints: 14\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-08T19:17:51+00:00"
     },
     {
       "title": "Natural Gas Settles Lower After EIA Report",
@@ -774,6 +806,14 @@
       "published": "2026-10-08T18:12:49+00:00"
     },
     {
+      "title": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
+      "link": "https://pocketty.app/",
+      "summary": "Hello~! pocketty is an SSH terminal for iPhone and iPad, made for herdr. herdr keeps your agent panes alive on your computer and knows the state of each one: working, needs you, or done.I made this in anger/desperation for the latter half of my recent paternity leave. Nap traps are sweet, but there's only so much doom-scrolling and movie-watching I can handle... In any event, I've been using it for the last couple months and no longer have to be my desk anymore to be productive. Now the nap-traps are still productive (when i want them to be) !How it works:- The app talks to your computer directly over plain SSH. Tailscale is the easy way to reach it from anywhere but any SSH host you can reach works.- A small Rust daemon on the host watches herdr. When a pane needs you, it seals the alert to your phone's key with HPKE (X25519, ChaCha20-Poly1305). A stateless relay (pocketty's) on Cloudflare Workers passes the sealed bytes to APNs (Apple Push Notification servers), and a notification extension opens them on the phone. The relay can't read them and keeps nothing.- Your SSH key is made in the Secure Enclave and can't be exported.- The terminal uses libghostty-vt for state and draws with wgpu on Metal, so full-screen TUIs look like they do on your desk, albeit narrower.- Diffs for each agent turn, a file browser, and previews of `localhost` dev servers your agent starts, all through the same SSH connection. No port forwarding to set up.herdr and the daemon are optional. Without them, it's a normal SSH client.There's no account to set up and no analytics or tracking in the app. \nThe app runs a 14-day free trial, with full feature access. Then, if you're as happy as I am with it, then it can be yours forever with a one-time purchase: $99 for the first two weeks (launch promo) then $129 after that.Happy to answer anything about the sealed push setup or running libghostty on iOS.\n\nComments URL: https://news.ycombinator.com/item?id=50009634\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-08T18:11:52+00:00"
+    },
+    {
       "title": "Show HN: Artvinto – Vintage posters and fine art prints",
       "link": "https://www.artvinto.com",
       "summary": "Article URL: https://www.artvinto.com\nComments URL: https://news.ycombinator.com/item?id=50009580\nPoints: 5\n# Comments: 0",
@@ -788,6 +828,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-08T18:08:00+00:00"
+    },
+    {
+      "title": "Theranos.World",
+      "link": "https://www.theranos.world/",
+      "summary": "Article URL: https://www.theranos.world/\nComments URL: https://news.ycombinator.com/item?id=50009295\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-08T17:51:49+00:00"
     },
     {
       "title": "Trump bans Microsoft from sponsoring foreign workers for US residency",
@@ -908,6 +956,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-08T16:42:34+00:00"
+    },
+    {
+      "title": "Making a flexible \"neon\" t-shirt with LED filaments",
+      "link": "http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html",
+      "summary": "Article URL: http://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html\nComments URL: https://news.ycombinator.com/item?id=50008047\nPoints: 12\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-08T16:37:24+00:00"
     },
     {
       "title": "Why a longtime skeptic of Palantir’s stock is finally saying it’s time to buy",
@@ -1564,6 +1620,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-08T11:32:00+00:00"
+    },
+    {
+      "title": "Vanillin provides a sweet solution for chronic wound healing",
+      "link": "https://news.flinders.edu.au/blog/2026/10/06/vanillin-provides-a-sweet-solution-for-chronic-wound-healing/",
+      "summary": "Article URL: https://news.flinders.edu.au/blog/2026/10/06/vanillin-provides-a-sweet-solution-for-chronic-wound-healing/\nComments URL: https://news.ycombinator.com/item?id=50004542\nPoints: 12\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-08T11:30:08+00:00"
     },
     {
       "title": "Q&A: Bitcoin Funds Are Expanding. HANetf’s Co-CEO Explains Why",
