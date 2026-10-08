@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T11:52:43.610940+00:00",
+  "generated_at": "2026-10-08T12:13:05.674377+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -606,6 +606,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f6b93081e80>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f9516d7de80>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -624,6 +628,46 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-08T16:00:00+00:00"
+    },
+    {
+      "title": "韓国、ウクライナ大使を本国召還へ　北朝鮮捕虜の移送公開で反発",
+      "link": "https://www.jiji.com/jc/article?k=2026100801075&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-08T12:13:00.234115+00:00"
+    },
+    {
+      "title": "今年のノーベル文学賞はカナダ人作家のアン・カーソンさんに授与されると決まった",
+      "link": "https://www.jiji.com/jc/article?k=2026100801083&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-08T12:13:00.234101+00:00"
+    },
+    {
+      "title": "カナダの詩人にノーベル文学賞　アン・カーソンさん",
+      "link": "https://www.jiji.com/jc/article?k=2026100801095&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-08T12:13:00.234082+00:00"
+    },
+    {
+      "title": "外務省前でロ大使館車が衝突　乗用車と、４人軽傷―東京",
+      "link": "https://www.jiji.com/jc/article?k=2026100801040&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-08T12:13:00.234043+00:00"
+    },
+    {
+      "title": "中小農家らに売上高5%程度の給付金　政府調整、消費減税めぐり支援",
+      "link": "https://www.asahi.com/articles/ASVB83JPYVB8ULFA02CM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-08T12:12:59.866991+00:00"
     },
     {
       "title": "中部電の安井新社長「まずは信頼回復」　不正防止へ会長に外部登用も",
@@ -736,6 +780,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-08T11:04:00+00:00"
+    },
+    {
+      "title": "フランスで高校生らのデモ続く、閉鎖校は前日から30％減少 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GZ0RuM0hSQm1ZdWp4Q3QzUTJqV3N3bkt3cDFweDBxOXA0SGpYNU5FODBTVVFaaDRsbEd2S29SRFFGRllHZ01YRGoxbk5rdUFpU0RVNFFKeFBCNUlJY1NfWkk3RmxGenZabHFHeWJnVUFRMTJBZzBsUnZ1Tks?oc=5",
+      "summary": "フランスで高校生らのデモ続く、閉鎖校は前日から30％減少&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-08T10:56:09+00:00"
     },
     {
       "title": "Gridlock Is Good for Stocks. Certainty Is Better.",
