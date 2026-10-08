@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T19:10:16.572064+00:00",
+  "generated_at": "2026-10-08T19:25:35.450776+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -622,12 +622,36 @@
   ],
   "items": [
     {
+      "title": "石油備蓄強化へ作業計画　ＡＺＥＣ閣僚会合で合意―フィリピン",
+      "link": "https://www.jiji.com/jc/article?k=2026100800962&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-08T19:25:30.397873+00:00"
+    },
+    {
+      "title": "Natural Gas Settles Lower After EIA Report",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-gain-ahead-of-inventory-data-9a9d067d?mod=rss_markets_main",
+      "summary": "Natural gas futures settled lower, down 1.1% to $3.168 per mmBtu.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-08T19:08:00+00:00"
+    },
+    {
       "title": "The Credit-Card Bill That Banks Fear Most Has Gained Trump as an Ally",
       "link": "https://www.wsj.com/finance/regulation/the-credit-card-bill-that-banks-fear-most-has-gained-trump-as-an-ally-013551b3?mod=rss_markets_main",
       "summary": "The bill could upend the system that moves billions of dollars in fees that merchants hate and banks use to power rewards.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-08T19:00:00+00:00"
+    },
+    {
+      "title": "LGTM (Looks Good to Me) – Claude Opus 5.5 Music Video",
+      "link": "https://www.youtube.com/watch?v=3TNpOD6bov8",
+      "summary": "Article URL: https://www.youtube.com/watch?v=3TNpOD6bov8\nComments URL: https://news.ycombinator.com/item?id=50010330\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-08T18:55:18+00:00"
     },
     {
       "title": "The options market is reminding investors there’s a cure for rising bond yields — higher yields",
@@ -638,12 +662,28 @@
       "published": "2026-10-08T18:51:00+00:00"
     },
     {
+      "title": "What ArtCraft's Vibe-Coded Apps Say About Adobe",
+      "link": "https://tedium.co/2026/10/08/artcraft-vibe-coding-creative-cloud-remake/",
+      "summary": "Article URL: https://tedium.co/2026/10/08/artcraft-vibe-coding-creative-cloud-remake/\nComments URL: https://news.ycombinator.com/item?id=50010170\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-08T18:44:29+00:00"
+    },
+    {
       "title": "高市首相、ウクライナ訪問は重要　「現時点で計画なし」",
       "link": "https://www.jiji.com/jc/article?k=2026100800920&g=pol&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-08T18:33:08.206630+00:00"
+    },
+    {
+      "title": "Cloudflare Keeps 1.1.1.1 Out of Piracy Blocking, Escapes Penalties in France",
+      "link": "https://torrentfreak.com/cloudflare-keeps-1-1-1-1-out-of-piracy-blocking-escapes-penalties-in-france/",
+      "summary": "Article URL: https://torrentfreak.com/cloudflare-keeps-1-1-1-1-out-of-piracy-blocking-escapes-penalties-in-france/\nComments URL: https://news.ycombinator.com/item?id=50009965\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-08T18:32:52+00:00"
     },
     {
       "title": "Show HN: K10s – A Clickable Kubernetes TUI (Go, Bubble Tea)",
@@ -660,6 +700,22 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-08T18:19:00+00:00"
+    },
+    {
+      "title": "Bond yields fall as the Treasury market passes a crucial test of investor confidence",
+      "link": "https://www.marketwatch.com/story/the-treasury-market-is-facing-a-crucial-vote-of-investor-confidence-31fa8d41?mod=mw_rss_topstories",
+      "summary": "The 30-year Treasury bond still matters, as it can be a measure of trust in the U.S. government.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-08T18:19:00+00:00"
+    },
+    {
+      "title": "Serverless Horrors $10,811.41",
+      "link": "https://serverlesshorrors.com/all/cloudflare-108k/",
+      "summary": "Article URL: https://serverlesshorrors.com/all/cloudflare-108k/\nComments URL: https://news.ycombinator.com/item?id=50009654\nPoints: 21\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-08T18:12:49+00:00"
     },
     {
       "title": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
