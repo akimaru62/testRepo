@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T03:12:47.652793+00:00",
+  "generated_at": "2026-10-08T03:38:24.322993+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -598,9 +598,45 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f4a1662dd30>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "「日間賀島のフグ」盛り上げ30年、名鉄と地元　魚醬焼きを新名物に",
+      "link": "https://www.asahi.com/articles/ASVB52JTSVB5ULFA011M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-08T03:38:09.895692+00:00"
+    },
+    {
+      "title": "30年利付国債（第92回）の入札結果（令和8年10月8日入札）",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261008.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-08T03:35:00+00:00"
+    },
+    {
+      "title": "国庫短期証券（第1411回）の入札結果",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20261008.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-08T03:30:00+00:00"
+    },
+    {
+      "title": "新聞印刷工場で栽培 キクラゲ人気",
+      "link": "https://news.yahoo.co.jp/pickup/6597980?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-08T03:24:25+00:00"
+    },
     {
       "title": "消費減税財源、特例公債に頼らず　高市首相、歳出・歳入改革に意欲―代表質問",
       "link": "https://www.jiji.com/jc/article?k=2026100800364&g=pol&m=rss",
@@ -646,6 +682,14 @@
       "link": "https://toyokeizai.net/articles/-/959991?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "昭和の時代に一世を風靡したテレビアニメ｢巨人の星｣。作中では星飛雄馬と一徹の子と父の関係が描かれていますが､今の時代の視点でみると､違和感を感じる描写も多く存在します。",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-08T03:00:00+00:00"
+    },
+    {
+      "title": "東証改革でIPOが「過去最少」に　「上場ブランド」の終焉と、問われる「上場後の成長力」",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/08/news065.html",
+      "summary": "東京証券取引所では上場企業に価値向上の取り組みを促す制度改革が進み、東証株価指数（TOPIX）の採用銘柄の入れ替えだけでなく、2030年3月には、新興企業向けのグロース市場で上場維持基準の厳格化も控える。これを見据え、上場を急がず成長戦略を練り直す企業が増え始めた。一連の改革で投資マネー流入が拡大する契機となるか注目される。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-10-08T03:00:00+00:00"
     },
