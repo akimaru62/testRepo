@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T18:09:59.946698+00:00",
+  "generated_at": "2026-10-08T18:33:13.584155+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -622,6 +622,30 @@
   ],
   "items": [
     {
+      "title": "高市首相、ウクライナ訪問は重要　「現時点で計画なし」",
+      "link": "https://www.jiji.com/jc/article?k=2026100800920&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-08T18:33:08.206630+00:00"
+    },
+    {
+      "title": "Bond yields fell, as the Treasury market passed a crucial test of investor confidence",
+      "link": "https://www.marketwatch.com/story/the-treasury-market-is-facing-a-crucial-vote-of-investor-confidence-31fa8d41?mod=mw_rss_topstories",
+      "summary": "Higher bond yields aren’t only about inflation and the Iran war. But it means a higher cost of capital.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-08T18:19:00+00:00"
+    },
+    {
+      "title": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
+      "link": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
+      "summary": "It doesn’t matter if you are a Republican or Democrat. Math is math.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-08T18:08:00+00:00"
+    },
+    {
       "title": "Rising interest rates: The good, the bad and the ugly for retirees",
       "link": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
       "summary": "Unlike higher gas prices, which hurt almost everyone, higher borrowing costs have an uneven impact.",
@@ -644,6 +668,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-08T17:15:57+00:00"
+    },
+    {
+      "title": "Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes",
+      "link": "https://github.com/edgedelta/project-arena",
+      "summary": "Article URL: https://github.com/edgedelta/project-arena\nComments URL: https://news.ycombinator.com/item?id=50008642\nPoints: 5\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-08T17:13:08+00:00"
     },
     {
       "title": "Anthropic bans 'abusive or cruel behavior' towards Claude",
