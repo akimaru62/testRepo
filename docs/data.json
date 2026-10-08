@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T06:51:06.471625+00:00",
+  "generated_at": "2026-10-08T07:18:10.715772+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -606,12 +606,76 @@
   ],
   "items": [
     {
+      "title": "令和８年３月期における金融再生法開示債権の状況等（ポイント）を公表しました。",
+      "link": "https://www.fsa.go.jp/status/npl/20261008.html",
+      "summary": "",
+      "source": "金融庁",
+      "category": "公的機関",
+      "published": "2026-10-08T16:00:00+00:00"
+    },
+    {
+      "title": "民主改革と連携「理念見極める」　連合会長が言及",
+      "link": "https://www.jiji.com/jc/article?k=2026100800655&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-08T07:18:05.486416+00:00"
+    },
+    {
+      "title": "バットの色、来季から自由に　「個性出せる」と選手歓迎―プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026100800160&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-08T07:18:05.486397+00:00"
+    },
+    {
+      "title": "女子高生の裸撮影容疑　トー横で「うに」と呼ばれる男逮捕―警視庁",
+      "link": "https://www.jiji.com/jc/article?k=2026100800663&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-08T07:18:05.486370+00:00"
+    },
+    {
+      "title": "「ユニクロ」がH＆M抜き、アパレル世界2位へ　海外に旗艦店を進出",
+      "link": "https://www.asahi.com/articles/ASVB825JYVB8ULFA00ZM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-08T07:18:05.393356+00:00"
+    },
+    {
+      "title": "プルデンシャル「人脈に過度に依存のビジネスが暴走」社外調査委指摘",
+      "link": "https://www.asahi.com/articles/ASVB825L2VB8ULFA00MM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-08T07:18:05.393323+00:00"
+    },
+    {
+      "title": "Dollar Stays Elevated as Treasury Yields, Oil Prices Rise",
+      "link": "https://www.wsj.com/finance/commodities-futures/dollar-stays-elevated-as-treasury-yields-oil-prices-rise-274a97c5?mod=rss_markets_main",
+      "summary": "The dollar remained firm as Treasury yields and oil prices rose amid continued tensions in the Middle East while the Fed’s latest meeting minutes pointed to further rate increases.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-08T06:55:00+00:00"
+    },
+    {
       "title": "プルデンシャル問題、社長ら報酬30%の3カ月返納　64人を解雇",
       "link": "https://www.asahi.com/articles/ASVB724LMVB7ULFA039M.html?ref=rss",
       "summary": "",
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-08T06:51:01.406688+00:00"
+    },
+    {
+      "title": "People Holding Up the Internet",
+      "link": "https://sheets.works/data-viz/holding-up-the-internet",
+      "summary": "Article URL: https://sheets.works/data-viz/holding-up-the-internet\nComments URL: https://news.ycombinator.com/item?id=50002494\nPoints: 18\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-08T06:41:35+00:00"
     },
     {
       "title": "30年利付国債（第92回）の第II非価格競争入札結果（令和8年10月8日入札）",
@@ -705,6 +769,14 @@
       "title": "Terence Tao Responds to the OpenAI Math Drop",
       "link": "https://mathstodon.xyz/@tao/117395269325940185",
       "summary": "Article URL: https://mathstodon.xyz/@tao/117395269325940185\nComments URL: https://news.ycombinator.com/item?id=50002008\nPoints: 19\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-08T05:14:14+00:00"
+    },
+    {
+      "title": "“Math 2.0” will need to value mathematical progress more holistically",
+      "link": "https://mathstodon.xyz/@tao/117395269325940185",
+      "summary": "Article URL: https://mathstodon.xyz/@tao/117395269325940185\nComments URL: https://news.ycombinator.com/item?id=50002008\nPoints: 181\n# Comments: 108",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-08T05:14:14+00:00"
