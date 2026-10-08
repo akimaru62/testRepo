@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T13:52:42.355458+00:00",
+  "generated_at": "2026-10-08T14:09:29.677312+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -614,6 +614,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f7b44cdde80>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -632,6 +636,38 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-08T16:00:00+00:00"
+    },
+    {
+      "title": "【随時更新】個人情報の漏洩の恐れ、公表した主な企業一覧",
+      "link": "https://www.asahi.com/articles/ASVB83VWFVB8UEFT00JM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-08T14:09:23.446249+00:00"
+    },
+    {
+      "title": "This chart shows the No. 1 reason why the cost of raising kids jumped 60% in eight years",
+      "link": "https://www.marketwatch.com/story/this-chart-shows-the-no-1-reason-why-the-cost-of-raising-kids-jumped-60-in-eight-years-175a2309?mod=mw_rss_topstories",
+      "summary": "“The birth-rate crisis is really an affordability crisis.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-08T14:00:00+00:00"
+    },
+    {
+      "title": "Stocks Slip and Oil Jumps on Fresh Tanker Attack",
+      "link": "https://www.wsj.com/finance/commodities-futures/global-stocks-fall-on-higher-oil-prices-ai-pullback-05f7b87e?mod=rss_markets_main",
+      "summary": "Rising energy prices weighed U.S. stocks, which fell for a second day after the S&amp;P 500 and Nasdaq hit records on Tuesday.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-08T13:58:00+00:00"
+    },
+    {
+      "title": "Crude Rises on Fears of Middle East Escalation, U.S. Gulf Storm",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-rising-mideast-tensions-3cd98941?mod=rss_markets_main",
+      "summary": "Oil futures rose sharply on concerns the U.S. might renew strikes on Iran and as Hurricane Isaias headed for the U.S. Gulf coast, shutting in production.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-08T13:57:00+00:00"
     },
     {
       "title": "Oil prices jump on tanker attacks and slowing flows through Strait of Hormuz",
