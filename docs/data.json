@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T07:18:00.948876+00:00",
+  "generated_at": "2026-10-09T07:47:51.210061+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -686,6 +686,54 @@
       "published": "2026-10-09T10:00:00+00:00"
     },
     {
+      "title": "高市首相、簗氏続投を改めて表明　野党、問責決議検討",
+      "link": "https://www.jiji.com/jc/article?k=2026100900660&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-09T07:47:46.352206+00:00"
+    },
+    {
+      "title": "Gold Rises on Softer U.S. Dollar, Lower Oil Prices",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-supported-by-potential-china-demand-08b60462?mod=rss_markets_main",
+      "summary": "Gold gained more than 1% as a softer dollar and lower oil prices supported the metal, while market participants reassess the inflation and interest-rate outlook.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-09T07:43:00+00:00"
+    },
+    {
+      "title": "Oil Falls After Trump Says No Iran Attacks Before Midterms",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-prices-likely-to-remain-high-in-short-term-c7024a73?mod=rss_markets_main",
+      "summary": "Oil prices fell after Trump said the U.S. wouldn’t attack Iran before the midterms, citing productive talks with Tehran.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-09T07:43:00+00:00"
+    },
+    {
+      "title": "Dollar Likely to Stay in 155-160 Yen Range",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-mostly-consolidate-focus-on-u-s-data-fe613e38?mod=rss_markets_main",
+      "summary": "The dollar was stronger against the yen, and LGT Private Banking Asia said it was likely to remain rangebound in the near term, largely trading within the 155-160 yen range.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-09T07:32:00+00:00"
+    },
+    {
+      "title": "European Indexes Rise Sharply as Banks, Software Gain",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-1-1-dragged-by-chip-metals-stocks-c8be4ccd?mod=rss_markets_main",
+      "summary": "European stock indexes rose at open, buoyed by a pullback in bond yields and an easing in oil prices.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-09T07:25:00+00:00"
+    },
+    {
+      "title": "Scrapped IPO of Nvidia-Backed Company Points to Limits of AI Boom",
+      "link": "https://www.wsj.com/finance/stocks/scrapped-ipo-of-nvidia-backed-company-points-to-limits-of-ai-boom-a8d57067?mod=rss_markets_main",
+      "summary": "Australian cloud-computing firm Firmus Grid had sought a $30 billion valuation despite having only two operational data centers.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-09T07:18:00+00:00"
+    },
+    {
       "title": "元阪神のバースさん「テル、おめでとう」　「後輩」三冠王、佐藤輝明を祝福―プロ野球",
       "link": "https://www.jiji.com/jc/article?k=2026100900677&g=spo&m=rss",
       "summary": "",
@@ -734,6 +782,14 @@
       "published": "2026-10-09T07:00:00+00:00"
     },
     {
+      "title": "OTel-Native by Design – Building Products That Export to Any Observability Stack",
+      "link": "https://opentelemetry.io/blog/2026/otel-native-by-design/",
+      "summary": "Article URL: https://opentelemetry.io/blog/2026/otel-native-by-design/\nComments URL: https://news.ycombinator.com/item?id=50016974\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-09T06:54:45+00:00"
+    },
+    {
       "title": "金融庁、プルデンシャル生命に業務停止命令、新規契約など約3カ月間",
       "link": "https://www.asahi.com/articles/ASVB91R7SVB9ULFA00VM.html?ref=rss",
       "summary": "",
@@ -748,6 +804,22 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-09T06:41:00+00:00"
+    },
+    {
+      "title": "Show HN: OldRoll, a free vintage photo editor for the browser",
+      "link": "https://www.oldroll.io/",
+      "summary": "OldRoll Web brings vintage camera effects and film-inspired filters to your browser. Give everyday photos a nostalgic look without installing an app, with all creative assets free to use.\n\nComments URL: https://news.ycombinator.com/item?id=50016840\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-09T06:40:14+00:00"
+    },
+    {
+      "title": "東京外為市場・15時＝ドル158円前半、連休・米指標前に手控えムード 値幅は50銭未満 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mbjMtNFR1QktseFlORFNIREtMWVR5OERrLUlxLVZaZ0U1UzF0Ty1kN1N3TDllcXRnM1llYUNwVkZBNEM4WnJvUGxPSE5LVk1RcXIzdnVDeDc1MTB4bEJITXlpcjhkUkVQaGx4S284bUNnTW53LTBReXc2TVc?oc=5",
+      "summary": "東京外為市場・15時＝ドル158円前半、連休・米指標前に手控えムード 値幅は50銭未満&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-09T06:39:00+00:00"
     },
     {
       "title": "プルデンシャル 一部業務停止命令",
@@ -780,6 +852,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-09T05:53:08.744808+00:00"
+    },
+    {
+      "title": "MXC - a sandboxed code execution system",
+      "link": "https://github.com/microsoft/mxc",
+      "summary": "Article URL: https://github.com/microsoft/mxc\nComments URL: https://news.ycombinator.com/item?id=50016489\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-09T05:51:29+00:00"
     },
     {
       "title": "顧客情報5万件超、漏えいか　業務用冷食の通販サイトに不正アクセス",
