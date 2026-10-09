@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T04:34:47.691681+00:00",
+  "generated_at": "2026-10-09T04:55:52.221771+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -654,12 +654,28 @@
       "published": "2026-10-09T10:00:00+00:00"
     },
     {
+      "title": "サイバー攻撃で画像流出「ICチップで本人確認を」金融庁が要請",
+      "link": "https://www.asahi.com/articles/ASVB91DFSVB9ULFA00LM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-09T04:55:47.234377+00:00"
+    },
+    {
       "title": "航空券予約「スカイチケット」に不正アクセス、1464万件情報漏洩",
       "link": "https://www.asahi.com/articles/ASVB91DLRVB9ULFA00WM.html?ref=rss",
       "summary": "",
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-09T04:34:42.617619+00:00"
+    },
+    {
+      "title": "SoftBank seeks $100bn from Gulf investors to expand AI bet",
+      "link": "https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd?syn-25a6b1a6=1",
+      "summary": "Founder and chief executive Masayoshi Son has held talks with senior figures in the UAE in recent weeks",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-09T04:30:01+00:00"
     },
     {
       "title": "米兵事件で抗議決議　組織の責任明示要求―沖縄県議会",
@@ -764,6 +780,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-09T03:59:00+00:00"
+    },
+    {
+      "title": "「順調です」って、それ本当？　プロジェクトのリスクをAIが検知、状況確認の工数を約60％削減するツールとは",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/09/news039.html",
+      "summary": "NTTテクノクロスが、プロジェクトの進捗報告書や議事録などをAIが分析し、遅延や品質低下につながるリスクの兆候を可視化するSaaS「PromanAIde」の提供を開始した。AIを「セカンドオピニオン」のように活用し、管理者の状況確認や意思決定を支援する。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-10-09T03:58:00+00:00"
     },
     {
       "title": "高市首相「簗氏が説明を」　予算カット発言―消費減税、地方減収は全額補填・参院代表質問",
@@ -892,6 +916,14 @@
       "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-10-09T02:50:00+00:00"
+    },
+    {
+      "title": "米アメックスに制裁金3.5億ドル、資金洗浄対策に不備 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fbU9zUmtwdE1HV0lORUYyczQ4YWhCZ1J0YXRZWER2aWUxRV9LY3dtVmZlVTlmNVdLcEw2ajMxVF9tSEZjTURnOG9xSnNFNmZidXdUd3RjV0hMa29BeWlxT2tMbFNRTXJoaldzeGtaOG9HS1RINXliS2h2Tm8?oc=5",
+      "summary": "米アメックスに制裁金3.5億ドル、資金洗浄対策に不備&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-09T02:41:00+00:00"
     },
     {
       "title": "国家公務員の給与 5年連続増",
@@ -1385,6 +1417,14 @@
       "title": "US to publicly execute former soldier by firing squad",
       "link": "https://www.ft.com/content/0c390d03-427f-40a8-b5cb-d12c8d925d9d?syn-25a6b1a6=1",
       "summary": "American military has not used this method of capital punishment since aftermath of second world war",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-08T22:28:10+00:00"
+    },
+    {
+      "title": "Pentagon to livestream execution of former soldier by firing squad",
+      "link": "https://www.ft.com/content/0c390d03-427f-40a8-b5cb-d12c8d925d9d?syn-25a6b1a6=1",
+      "summary": "American military will live-stream the execution of an extremist who killed 13 people at Fort Hood in Texas in 2009",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-08T22:28:10+00:00"
