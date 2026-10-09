@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T23:50:04.606805+00:00",
+  "generated_at": "2026-10-09T00:23:30.160364+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -622,9 +622,61 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f8e20fb1fd0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     }
   ],
   "items": [
+    {
+      "title": "空港で航空機炎上　フーシ派がミサイル攻撃―サウジ首都",
+      "link": "https://www.jiji.com/jc/article?k=2026100900232&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-09T00:23:25.430291+00:00"
+    },
+    {
+      "title": "留学生就労に手数料１１００万円　「労働者保護」へ負担増―トランプ米政権",
+      "link": "https://www.jiji.com/jc/article?k=2026100900235&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-09T00:23:25.430250+00:00"
+    },
+    {
+      "title": "政府、消費減税・支援金法案を閣議決定　財源・給付対象は未定のまま",
+      "link": "https://www.asahi.com/articles/ASVB87X35VB8ULFA035M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-09T00:23:25.101184+00:00"
+    },
+    {
+      "title": "プルデンシャル 背景に独特の文化",
+      "link": "https://news.yahoo.co.jp/pickup/6598084?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-09T00:19:47+00:00"
+    },
+    {
+      "title": "100kgの軽量化を実現!? ｢5年先のスズキ車｣の姿が開発中の技術から見えてきた《技術戦略説明会2026》 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960061?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "スズキによる｢技術戦略説明会2026｣が9月25日に実施された。2030年に向けた技術戦略が明らかにされ､｢5年先｣のスズキ車の姿が浮かび上がった説明会となった。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-09T00:00:00+00:00"
+    },
+    {
+      "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
+      "link": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
+      "summary": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-10-08T23:57:23+00:00"
+    },
     {
       "title": "日本人が｢身内には過剰で他人に冷淡｣な根本原因　生きづらさと｢低い幸福度｣の裏に潜む知られざる呪縛 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/958371?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -3672,6 +3724,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-08T02:27:07.553104+00:00"
+    },
+    {
+      "title": "COMMENTARY: コラム：米株高・金利上昇は併存可能、タームプレミアムの行方に不安も - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oeXFTWldpdWlSMV9ycWhkRzdIS1RGTGI1eVNKVUFGemZLTjJpRFktRWk4Y19CNlRYUEk3OVNOdk9PN2s0bVRxR3FTX2dXemE2N3JJeDdoNVFoODNTeGRSTjlwTDg5c3dhbEpTNV91QTJiUUY5dGxIcEtOVVQ?oc=5",
+      "summary": "COMMENTARY: コラム：米株高・金利上昇は併存可能、タームプレミアムの行方に不安も&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-08T02:22:00+00:00"
     },
     {
       "title": "ビール4社 価格一覧表を共有か",
