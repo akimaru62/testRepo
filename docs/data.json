@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T22:51:08.572804+00:00",
+  "generated_at": "2026-10-09T23:07:36.498835+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -638,9 +638,29 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f153aab23c0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "｢絨毯の上を走ってる…｣《初代セルシオ》欧米メーカーがわざわざ購入して研究｢240km/hでも普通に会話できる｣衝撃の乗り心地 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960720?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "中古車販売店に勤める新人・槇島ユズ。名車を愛でるだけのつもりが、熱烈なオタクトークで図らずも成約を連発！「売りたくない」と願うユズの悲鳴とは裏腹に、今日もまた一台、愛する名車が店を去っていく——。セ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-09T23:00:00+00:00"
+    },
+    {
+      "title": "グレーゾーンのカスハラ どう対応",
+      "link": "https://news.yahoo.co.jp/pickup/6598205?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-09T22:49:25+00:00"
+    },
     {
       "title": "マスク氏が体現する危うい時代精神　民主主義はサイボーグに敗れるか",
       "link": "https://www.asahi.com/articles/ASVB80HDXVB8UHBI02BM.html?ref=rss",
