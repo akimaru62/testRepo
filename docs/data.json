@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T09:24:27.772333+00:00",
+  "generated_at": "2026-10-09T09:42:27.859136+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -626,6 +626,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -694,6 +698,30 @@
       "published": "2026-10-09T10:00:00+00:00"
     },
     {
+      "title": "消費減税で「客減る」6割、外食企業は悪影響を懸念　業界団体が調査",
+      "link": "https://www.asahi.com/articles/ASVB92QBDVB9ULFA010M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-09T09:42:11.984569+00:00"
+    },
+    {
+      "title": "Nvidia’s Subtle Change to How It Counts Cash Flow Has Big Implications for Buybacks",
+      "link": "https://www.wsj.com/finance/investing/nvidias-subtle-change-to-how-it-counts-cash-flow-has-big-implications-for-buybacks-8fb1fc0e?mod=rss_markets_main",
+      "summary": "The chip maker quietly signaled a new way of thinking about the competing demands of capital returns and building its AI ecosystem.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-09T09:30:00+00:00"
+    },
+    {
+      "title": "Dollar Falls Could Prove Limited",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-mostly-consolidate-focus-on-u-s-data-fe613e38?mod=rss_markets_main",
+      "summary": "The dollar has limited scope to fall as bond markets and risk sentiment remain fragile while the Fed  is expected to raise interest rates again in December, ING said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-09T09:29:00+00:00"
+    },
+    {
       "title": "華子さま、都赤十字大会に　式典であいさつ",
       "link": "https://www.jiji.com/jc/article?k=2026100900828&g=soc&m=rss",
       "summary": "",
@@ -734,6 +762,14 @@
       "published": "2026-10-09T09:24:22.448681+00:00"
     },
     {
+      "title": "Nobel Peace Prize awarded to human rights ‘pioneer’ Navi Pillay",
+      "link": "https://www.ft.com/content/3ae8dc9c-ee3a-4fe5-9749-b88390b5930b?syn-25a6b1a6=1",
+      "summary": "Prize given to South African human rights lawyer for her efforts to promote peace and international law",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-09T09:22:18+00:00"
+    },
+    {
       "title": "U.S. Treasury Yields Edge Higher, Eurozone Bond Yields Decline",
       "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-edge-higher-eurozone-bond-yields-decline-62cfd8c8?mod=rss_markets_main",
       "summary": "Treasury yields reversed course and turned slightly higher on Friday, although long-dated yields remained comfortably below the 24-year highs reached earlier in the week, helped by falling oil prices.",
@@ -753,6 +789,14 @@
       "title": "Why the price of this one exchange-traded fund has suddenly gone exponential",
       "link": "https://www.marketwatch.com/story/why-the-price-of-this-one-exchange-traded-fund-has-suddenly-gone-exponential-7ef3d93d?mod=mw_rss_topstories",
       "summary": "An ETF tied to freight futures is surging.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-09T09:12:00+00:00"
+    },
+    {
+      "title": "Why the price of this one ETF has gone exponential",
+      "link": "https://www.marketwatch.com/story/why-the-price-of-this-one-exchange-traded-fund-has-suddenly-gone-exponential-7ef3d93d?mod=mw_rss_topstories",
+      "summary": "An exchange-traded fund tied to freight futures is surging.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-09T09:12:00+00:00"
