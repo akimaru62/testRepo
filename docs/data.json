@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T21:38:22.101668+00:00",
+  "generated_at": "2026-10-09T21:50:33.801106+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -630,9 +630,37 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://www.mof.go.jp/news.rss",
+      "error": "HTTPSConnectionPool(host='www.mof.go.jp', port=443): Read timed out. (read timeout=15)"
     }
   ],
   "items": [
+    {
+      "title": "Kalshi Probes Bets on Trump’s Pick for New White House Press Secretary",
+      "link": "https://www.wsj.com/finance/regulation/kalshi-probes-bets-on-trumps-pick-for-new-white-house-press-secretary-8b73a546?mod=rss_markets_main",
+      "summary": "The prediction market is examining a series of trades that correctly predicted the appointment of Katie Zacharia, who wasn’t previously seen as a front-runner.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-09T21:47:00+00:00"
+    },
+    {
+      "title": "As Yields Surged, Small-Cap Stocks Were Hit Hard",
+      "link": "https://www.wsj.com/finance/stocks/as-yields-surged-small-cap-stocks-were-hit-hard-7470f7e4?mod=rss_markets_main",
+      "summary": "The Russell 2000, which tracks the shares of small companies, closed Friday on a five-week losing streak.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-09T21:45:00+00:00"
+    },
+    {
+      "title": "Dollar Finishes Fourth Straight Week of Gains",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-mostly-consolidate-focus-on-u-s-data-fe613e38?mod=rss_markets_main",
+      "summary": "The dollar finished its fourth straight week of gains on investors’ expectations that the Federal Reserve will continue to raise interest rates to rein in inflation.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-09T21:45:00+00:00"
+    },
     {
       "title": "2026年アメリカ中間選挙は､｢ラストベルト｣｢サンベルト｣に次ぐ第3の主戦場｢センターライン｣に注目せよ | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/960707?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -696,6 +724,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-09T21:20:00+00:00"
+    },
+    {
+      "title": "JD Vance says he will not watch Pentagon’s livestreamed execution",
+      "link": "https://www.ft.com/content/c3d9f370-153e-4846-aded-fbb7d200b365?syn-25a6b1a6=1",
+      "summary": "Split reveals an emerging schism in the Republican Party over a plan to broadcast the killing of the Fort Hood shooter",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-09T21:17:49+00:00"
     },
     {
       "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
