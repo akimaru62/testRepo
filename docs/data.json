@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T02:59:48.022944+00:00",
+  "generated_at": "2026-10-09T03:28:34.858347+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -654,6 +654,86 @@
       "published": "2026-10-09T10:00:00+00:00"
     },
     {
+      "title": "刑務所で乱闘、１０人死亡　メキシコ",
+      "link": "https://www.jiji.com/jc/article?k=2026100900395&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-09T03:28:29.517789+00:00"
+    },
+    {
+      "title": "最多勢力にボーナス議席　来年総選挙から復活―イタリア",
+      "link": "https://www.jiji.com/jc/article?k=2026100900208&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-09T03:28:29.517781+00:00"
+    },
+    {
+      "title": "永住権取得制度を停止　マイクロソフトやアドビなど一部企業に―米政権",
+      "link": "https://www.jiji.com/jc/article?k=2026100900384&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-09T03:28:29.517775+00:00"
+    },
+    {
+      "title": "高市首相「簗氏が説明を」　予算カット発言―参院代表質問",
+      "link": "https://www.jiji.com/jc/article?k=2026100900377&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-09T03:28:29.517765+00:00"
+    },
+    {
+      "title": "国家公務員給与、５年連続増　人事院勧告の実施決定―政府",
+      "link": "https://www.jiji.com/jc/article?k=2026100900366&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-09T03:28:29.517757+00:00"
+    },
+    {
+      "title": "簗農水相「説明に努めてきた」　バス送迎、事実関係を確認へ―予算カット発言",
+      "link": "https://www.jiji.com/jc/article?k=2026100900393&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-09T03:28:29.517738+00:00"
+    },
+    {
+      "title": "ミツカン、27年からユズを自社栽培　原料の安定調達と産地を下支え",
+      "link": "https://www.asahi.com/articles/ASVB72695VB7ULFA00FM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-09T03:28:29.192416+00:00"
+    },
+    {
+      "title": "Australian data centre operator pulls $5bn IPO",
+      "link": "https://www.ft.com/content/205ef7a5-321f-46e3-8097-d055bf1f6b3b?syn-25a6b1a6=1",
+      "summary": "Nvidia-backed Firmus abandons plan to list in Sydney, blaming ‘recent market volatility and prevailing market conditions’",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-09T03:11:08+00:00"
+    },
+    {
+      "title": "Keyboard differences between Windows and Macs",
+      "link": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+      "summary": "Article URL: https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/\nComments URL: https://news.ycombinator.com/item?id=50015515\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-09T03:08:05+00:00"
+    },
+    {
+      "title": "｢俺､家賃と水道光熱費払ってるじゃん｣育休中の35歳妻だけが\"どんどん貧しくなった\"夫の｢無自覚な不公平｣の正体 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960047?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "共働き夫婦の家計分担は一見合理的でも､子どもの誕生や収入変化でどちらかへ負担が知らぬ間に偏ることも。固定費と変動費､見えない出費の存在に気づけていますか？｢バラバラ財布型｣脱却のヒントについて考えま…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-09T03:00:00+00:00"
+    },
+    {
       "title": "相次ぐ不正アクセス「サイバー空間の非常事態」　自民党が対策議論",
       "link": "https://www.asahi.com/articles/ASVB90RRWVB9ULFA00BM.html?ref=rss",
       "summary": "",
@@ -755,6 +835,14 @@
       "summary": "Most Asian currencies consolidated against the greenback in the morning session ahead of U.S. data.",
       "source": "WSJ マーケット",
       "category": "海外金融",
+      "published": "2026-10-09T02:17:00+00:00"
+    },
+    {
+      "title": "金利・為替は多様な要因で決まる、様々な影響注視し財政運営＝高市首相 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54bHZ1UXAzeERZakdoVDA2Mk9FS2hocldfUUMtMktqN1d6OGx4VlBNeEY1VXJCSm9ZTkFXNDFHRFJyZXpkZHprUWJfX05VaURpM2tEcUZudTIyN2o1bUNLUDk5RjhSY0Ewb29jdGxjZU5CTGR4dXNNTUtoVU0?oc=5",
+      "summary": "金利・為替は多様な要因で決まる、様々な影響注視し財政運営＝高市首相&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
       "published": "2026-10-09T02:17:00+00:00"
     },
     {
@@ -1932,6 +2020,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-08T16:45:58+00:00"
+    },
+    {
+      "title": "Big Tech sets out its pitches on AI agents",
+      "link": "https://www.ft.com/content/9884d785-8ddc-43a6-ac8d-b9c7f9a99df3?syn-25a6b1a6=1",
+      "summary": "Race to develop new services has moved into high gear with a series of launches",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-08T16:44:08+00:00"
     },
     {
       "title": "OpenAI annualised revenues $20bn less than previously signalled",
