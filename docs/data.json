@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T21:50:33.801106+00:00",
+  "generated_at": "2026-10-09T22:08:05.110163+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -634,9 +634,53 @@
     {
       "url": "https://www.mof.go.jp/news.rss",
       "error": "HTTPSConnectionPool(host='www.mof.go.jp', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "〈スタートアップの給料のリアル②〉職種､年代別相場　経営･財務に精通人材を厚遇､60代が｢最高額｣のカテゴリーも | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960080?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "スタートアップの給料相場は年々上昇し､職種や年代によって大きく異なります。経営や財務などの専門職は高水準､若手が多い職種は中央値が低めですが可能性も大。20代から50代で年収差は顕著に。スタートアッ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-09T22:01:00+00:00"
+    },
+    {
+      "title": "頭脳の無駄遣い！京大生が編み出した｢授業に出ず単位を取得する裏ワザ｣　漫画｢ヨシダ檸檬ドロップス｣（第7集 第58話） | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960345?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "『結婚するって、本当ですか 365 Days To The Wedding』『神のみぞ知るセカイ』作者・若木民喜最新作!!天才・奇才が全国から集まる異能の巣窟――京都大学。1浪の末に京大生となった山…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-09T22:00:00+00:00"
+    },
+    {
+      "title": "上司ガチャ大外れ…？｢優秀すぎる上司｣を持った限界社員の\"悲惨な現実\"　漫画｢富士山大噴火｣（第1集 第1話 前編）　 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960344?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ニッポン震撼‼ ハイテンション・ディザスターコミック‼「世の中、ひっくり返っちゃえばいいのに」サラリーマンのモチザネはただただ真面目に仕事に取り組むも、別部署の後輩から侮られ終わらない仕事をこなすだ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-09T22:00:00+00:00"
+    },
+    {
+      "title": "〈スタートアップの給料のリアル①〉年収相場は上場企業しのぐアップ率､｢人材への勝負投資｣が急増中 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959714?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "スタートアップの待遇は二の次というイメージが強いがそれは本当なのか？　データを基に給与水準のリアルに迫ります。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-09T22:00:00+00:00"
+    },
+    {
+      "title": "Why OpenAI’s revenue numbers really matter",
+      "link": "https://www.ft.com/content/58e684a0-b8ed-4d7a-a2d6-6bf739cb2fa2?syn-25a6b1a6=1",
+      "summary": "Vague figures may lay the groundwork for inflated valuations when much-hyped companies finally go public",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-09T21:48:14+00:00"
+    },
     {
       "title": "Kalshi Probes Bets on Trump’s Pick for New White House Press Secretary",
       "link": "https://www.wsj.com/finance/regulation/kalshi-probes-bets-on-trumps-pick-for-new-white-house-press-secretary-8b73a546?mod=rss_markets_main",
