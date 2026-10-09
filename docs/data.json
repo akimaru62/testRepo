@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T20:08:14.002687+00:00",
+  "generated_at": "2026-10-09T20:27:05.054136+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -633,6 +633,14 @@
     }
   ],
   "items": [
+    {
+      "title": "No Man Is an Island",
+      "link": "https://borretti.me/article/no-man-is-an-island",
+      "summary": "Article URL: https://borretti.me/article/no-man-is-an-island\nComments URL: https://news.ycombinator.com/item?id=50025935\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-09T20:04:00+00:00"
+    },
     {
       "title": "Here’s how Treasury yields could rise to 6% — even without market upheaval",
       "link": "https://www.marketwatch.com/story/heres-how-treasury-yields-could-rise-to-6-even-without-market-upheaval-7d9fac9c?mod=mw_rss_topstories",
@@ -2467,6 +2475,14 @@
     },
     {
       "title": "Stock Market Today: Stocks Advance as Tech Shakes Off Thursday Selloff",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-09-2026?mod=rss_markets_main",
+      "summary": "Dollar set for fourth straight week of gains on higher Fed rate expectations",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-09T08:23:12+00:00"
+    },
+    {
+      "title": "Stock Market Today: Stocks Rise as Tech Shakes Off Thursday Selloff",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-09-2026?mod=rss_markets_main",
       "summary": "Dollar set for fourth straight week of gains on higher Fed rate expectations",
       "source": "WSJ マーケット",
