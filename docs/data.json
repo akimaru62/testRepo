@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T19:06:14.585723+00:00",
+  "generated_at": "2026-10-10T19:22:01.305493+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -646,6 +646,22 @@
   ],
   "items": [
     {
+      "title": "Takeshi's Castle",
+      "link": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Takeshi%27s_Castle\nComments URL: https://news.ycombinator.com/item?id=50036119\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-10T19:12:55+00:00"
+    },
+    {
+      "title": "Cbirds: A flock of birds in your terminal",
+      "link": "https://github.com/clainstone/cbirds",
+      "summary": "Article URL: https://github.com/clainstone/cbirds\nComments URL: https://news.ycombinator.com/item?id=50036023\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-10T19:02:35+00:00"
+    },
+    {
       "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
       "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
       "summary": "Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a\nComments URL: https://news.ycombinator.com/item?id=50035886\nPoints: 5\n# Comments: 0",
@@ -692,6 +708,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-10T18:10:54+00:00"
+    },
+    {
+      "title": "Why DuckDB 2.0 is faster",
+      "link": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+      "summary": "Article URL: https://motherduck.com/blog/why-duckdb-20-is-faster/\nComments URL: https://news.ycombinator.com/item?id=50035530\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-10T18:08:49+00:00"
     },
     {
       "title": "AI Is Throwing a Roadside Picnic",
@@ -1044,6 +1068,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-10-10T11:14:39+00:00"
+    },
+    {
+      "title": "219A.JNF - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU1JlYk9jZXFqYmtILVItamlIZkp5MTUwazlEOTBCRDRJTExvNmtJcUlXRDNhYnQ0bGhLOUs3dVhMc3ZxeGdsZmU5OVByZW5heEtxY2ZobXpiZjJULVg0X0NiTWhkcjNLWHVDWXVVdmhKQ0FIb1dSbGE5eERYeHNBZ1BuVDlkYXRWS3otSw?oc=5",
+      "summary": "219A.JNF - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-10T11:14:13+00:00"
     },
     {
       "title": "AI borrowing slows as investors grow wary of debt binge",
