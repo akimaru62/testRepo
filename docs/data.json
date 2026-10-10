@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T18:30:51.747968+00:00",
+  "generated_at": "2026-10-10T18:52:35.617745+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -646,12 +646,36 @@
   ],
   "items": [
     {
+      "title": "Riyadh airport suspends operations after missile strike injures dozens",
+      "link": "https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1",
+      "summary": "Fresh attack launched on Saudi Arabia as kingdom prepares to host investment summits",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-10T18:28:09+00:00"
+    },
+    {
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "link": "https://jobs.ashbyhq.com/workweave",
+      "summary": "Article URL: https://jobs.ashbyhq.com/workweave\nComments URL: https://news.ycombinator.com/item?id=50035602\nPoints: 0\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-10T18:16:19+00:00"
+    },
+    {
       "title": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
       "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
       "summary": "Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-10T18:14:28+00:00"
+    },
+    {
+      "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
+      "link": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
+      "summary": "Article URL: https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/\nComments URL: https://news.ycombinator.com/item?id=50035550\nPoints: 18\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-10T18:10:54+00:00"
     },
     {
       "title": "AI Is Throwing a Roadside Picnic",
