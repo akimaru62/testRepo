@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T00:23:10.391215+00:00",
+  "generated_at": "2026-10-10T01:15:15.761026+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -646,6 +646,54 @@
   ],
   "items": [
     {
+      "title": "パナマでＭ７．７の地震　建物損壊、津波警報は解除",
+      "link": "https://www.jiji.com/jc/article?k=2026101000182&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-10T01:15:10.734891+00:00"
+    },
+    {
+      "title": "ワイン３万本が盗難　名門メーカー、被害９億円―イタリア",
+      "link": "https://www.jiji.com/jc/article?k=2026101000284&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-10T01:15:10.734856+00:00"
+    },
+    {
+      "title": "なぜモンゴル帝国はあれほど強かったのか？何頭もの馬を乗り換える遊牧社会が最強の軍隊を生み出した組織構造 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959344?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "巨大なユーラシア大陸を制したモンゴル帝国。その圧倒的な強さの秘密は､単なる騎馬戦術に留まりませんでした。\"馬\"を軸とした独自の軍事･社会構造や遊牧民ならではの生活習慣が､なぜ未曾有の征服力へと結びつ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-10T01:00:00+00:00"
+    },
+    {
+      "title": "物価高倒産が過去最多ペース なぜ",
+      "link": "https://news.yahoo.co.jp/pickup/6598219?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-10T00:49:04+00:00"
+    },
+    {
+      "title": "Show HN: Yeah Nah – a BS score for Australian job ads",
+      "link": "https://yeahnah.lol/",
+      "summary": "Article URL: https://yeahnah.lol/\nComments URL: https://news.ycombinator.com/item?id=50028283\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-10T00:38:18+00:00"
+    },
+    {
+      "title": "REA Reverse – Engineer Anything",
+      "link": "https://rea.tools/",
+      "summary": "Article URL: https://rea.tools/\nComments URL: https://news.ycombinator.com/item?id=50028275\nPoints: 15\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-10T00:37:07+00:00"
+    },
+    {
       "title": "なでしこ、ハイチに快勝　５得点で圧倒―サッカー女子親善試合",
       "link": "https://www.jiji.com/jc/article?k=2026101000267&g=spo&m=rss",
       "summary": "",
@@ -686,6 +734,14 @@
       "published": "2026-10-10T00:00:00+00:00"
     },
     {
+      "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
+      "link": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
+      "summary": "Article URL: https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/\nComments URL: https://news.ycombinator.com/item?id=50028059\nPoints: 15\n# Comments: 8",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-09T23:56:55+00:00"
+    },
+    {
       "title": "ＩＣＣ制裁に強く反対　日本など８カ国「国際秩序守る」",
       "link": "https://www.jiji.com/jc/article?k=2026101000217&g=int&m=rss",
       "summary": "",
@@ -708,6 +764,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-10-09T23:35:50+00:00"
+    },
+    {
+      "title": "Compiling Rust to readable C with Eurydice",
+      "link": "https://lwn.net/Articles/1055211/",
+      "summary": "Article URL: https://lwn.net/Articles/1055211/\nComments URL: https://news.ycombinator.com/item?id=50027853\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-09T23:28:36+00:00"
     },
     {
       "title": "「ガザは人間が生きる場所でない」　停戦発効１年、復興進まず―ＵＮＲＷＡ清田局長インタビュー",
@@ -782,12 +846,36 @@
       "published": "2026-10-09T23:25:11.756678+00:00"
     },
     {
+      "title": "Rewriting Prime Agent in Rust",
+      "link": "https://www.primeintellect.ai/blog/prime-agent-rust",
+      "summary": "Article URL: https://www.primeintellect.ai/blog/prime-agent-rust\nComments URL: https://news.ycombinator.com/item?id=50027694\nPoints: 15\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-09T23:06:25+00:00"
+    },
+    {
       "title": "｢絨毯の上を走ってる…｣《初代セルシオ》欧米メーカーがわざわざ購入して研究｢240km/hでも普通に会話できる｣衝撃の乗り心地 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/960720?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "中古車販売店に勤める新人・槇島ユズ。名車を愛でるだけのつもりが、熱烈なオタクトークで図らずも成約を連発！「売りたくない」と願うユズの悲鳴とは裏腹に、今日もまた一台、愛する名車が店を去っていく——。セ…",
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-10-09T23:00:00+00:00"
+    },
+    {
+      "title": "アングル：巨額損失に悩むボーイング防衛部門に光明、次世代戦闘機の連続受注で「向こう半世紀の覇権」へ - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zVWV1R3NsOGVqZ094c1JIU0dMWTExWHhsUUdDN01oN1B5VlFHNWphNUFJUVcyNFNIMFpKUjd5YTc0NEV1YjlMQi1tZ3U2SFJGbm44ekN3c3B5bEFsMFNHZnYzOXZEV2J5R2dwX2FNb1daWUh2RmltbzB5NkI?oc=5",
+      "summary": "アングル：巨額損失に悩むボーイング防衛部門に光明、次世代戦闘機の連続受注で「向こう半世紀の覇権」へ&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-09T22:54:37+00:00"
+    },
+    {
+      "title": "Atari Falcon",
+      "link": "https://atarimuseum.nl/atari-falcon/",
+      "summary": "Article URL: https://atarimuseum.nl/atari-falcon/\nComments URL: https://news.ycombinator.com/item?id=50027590\nPoints: 9\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-09T22:54:13+00:00"
     },
     {
       "title": "グレーゾーンのカスハラ どう対応",
@@ -862,6 +950,14 @@
       "published": "2026-10-09T22:15:00+00:00"
     },
     {
+      "title": "Can AI automate AI R&D yet?",
+      "link": "https://epoch.ai/publications/innovationeval",
+      "summary": "Article URL: https://epoch.ai/publications/innovationeval\nComments URL: https://news.ycombinator.com/item?id=50027257\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-09T22:14:40+00:00"
+    },
+    {
       "title": "Japan's Most Famous Tuna Buyer Says He Turned Somali Pirates into Fishermen",
       "link": "https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344",
       "summary": "Article URL: https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344\nComments URL: https://news.ycombinator.com/item?id=50027167\nPoints: 12\n# Comments: 3",
@@ -876,6 +972,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-10-09T22:01:00+00:00"
+    },
+    {
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+      "link": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+      "summary": "Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/\nComments URL: https://news.ycombinator.com/item?id=50027118\nPoints: 21\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-09T22:00:35+00:00"
     },
     {
       "title": "頭脳の無駄遣い！京大生が編み出した｢授業に出ず単位を取得する裏ワザ｣　漫画｢ヨシダ檸檬ドロップス｣（第7集 第58話） | ライフ | 東洋経済オンライン",
