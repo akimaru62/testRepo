@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T09:27:31.298460+00:00",
+  "generated_at": "2026-10-11T09:44:04.659324+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -658,9 +658,29 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f2ab2e3e660>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "Home Sellers Are Starting to Blink on Prices. That’s Bad for Builders.",
+      "link": "https://www.wsj.com/economy/housing/homhome-prices-sellers-mortgage-ratese-sellers-are-starting-to-blink-on-prices-thats-bad-for-builders-9512512f?mod=rss_markets_main",
+      "summary": "Competition for buyers is heating up, which will force companies like Lennar and KB home to beef up incentives.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-11T09:30:00+00:00"
+    },
+    {
+      "title": "Why Economists Think Higher Bond Yields Are Here to Stay",
+      "link": "https://www.wsj.com/finance/investing/economists-bond-yields-forecast-aaa2ff5c?mod=rss_markets_main",
+      "summary": "The WSJ quarterly survey reveals that forecasters think inflation, Federal Reserve rate increases and debt will keep borrowing costs higher for longer.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-11T09:30:00+00:00"
+    },
     {
       "title": "両陛下、国スポ卓球競技を観戦　「ねぶたの家」訪問も―青森",
       "link": "https://www.jiji.com/jc/article?k=2026101100266&g=soc&m=rss",
