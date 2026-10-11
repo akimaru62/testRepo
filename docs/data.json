@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T04:10:45.602572+00:00",
+  "generated_at": "2026-10-11T04:32:45.316459+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -654,12 +654,60 @@
   ],
   "items": [
     {
+      "title": "大谷翔平、フリー打撃で快音　剛腕想定した練習も―ＭＬＢ・ドジャース",
+      "link": "https://www.jiji.com/jc/article?k=2026101100192&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-11T04:32:39.915865+00:00"
+    },
+    {
+      "title": "首長に「ヒトラー・ムソリーニ」氏　思想的つながりなし―ペルー",
+      "link": "https://www.jiji.com/jc/article?k=2026101000509&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-11T04:32:39.915841+00:00"
+    },
+    {
+      "title": "ホワイトソックス、地区シリーズ敗退　村上宗隆は４打席連続三振―ＭＬＢ",
+      "link": "https://www.jiji.com/jc/article?k=2026101100169&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-11T04:32:39.915807+00:00"
+    },
+    {
       "title": "｢日本版エヌビディア｣は探す必要ナシ…《フィジカルAI》で覚醒する\"五感･筋肉･関節･神経\"を担える日本企業の強み | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/960381?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "AIの進化は､デジタル領域を超え現実世界へと広がっています。工場や自動運転､ロボットなど｢フィジカルAI｣が産業の主役となる時代､日本企業は独自の強みを発揮しつつ､投資機会も増大中。果たして主導権は…",
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-10-11T04:00:00+00:00"
+    },
+    {
+      "title": "Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list",
+      "link": "https://github.com/vscarpenter/gsd-task-manager",
+      "summary": "Article URL: https://github.com/vscarpenter/gsd-task-manager\nComments URL: https://news.ycombinator.com/item?id=50039633\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-11T03:42:56+00:00"
+    },
+    {
+      "title": "Satya Nadella says we should assume all AI models are 'compromised'",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised\nComments URL: https://news.ycombinator.com/item?id=50039627\nPoints: 14\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-11T03:41:53+00:00"
+    },
+    {
+      "title": "CIA World Facebook Is Dead – Here Is an Attempt at Recreation",
+      "link": "https://worldfacts.app",
+      "summary": "Article URL: https://worldfacts.app\nComments URL: https://news.ycombinator.com/item?id=50039504\nPoints: 14\n# Comments: 8",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-11T03:13:46+00:00"
     },
     {
       "title": "《豊臣兄弟！》秀吉の子ではない…｢淀殿の妊娠｣をあざ笑う声に大激怒､\"多くの人々を死刑に\"秀吉の恐ろしすぎる処罰 | キャリア・教育 | 東洋経済オンライン",
@@ -676,6 +724,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-11T02:45:26+00:00"
+    },
+    {
+      "title": "Terrence Tao does not understand cancer medicine",
+      "link": "https://www.drvinayprasad.com/p/terrence-tao-does-not-understand",
+      "summary": "Article URL: https://www.drvinayprasad.com/p/terrence-tao-does-not-understand\nComments URL: https://news.ycombinator.com/item?id=50039331\nPoints: 17\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-11T02:42:42+00:00"
     },
     {
       "title": "トランプ氏が投稿した習氏出迎え写真、ＡＩで加工か ネタにされた「しかめっ面」消去",
@@ -726,12 +782,28 @@
       "published": "2026-10-11T02:02:38+00:00"
     },
     {
+      "title": "A plastic once thought harmless may be fueling fatty liver disease",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008102718.htm",
+      "summary": "Article URL: https://www.sciencedaily.com/releases/2026/10/261008102718.htm\nComments URL: https://news.ycombinator.com/item?id=50039062\nPoints: 21\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-11T01:56:04+00:00"
+    },
+    {
       "title": "就活セクハラ被害 求められる対策",
       "link": "https://news.yahoo.co.jp/pickup/6598344?source=rss",
       "summary": "",
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-10-11T01:48:27+00:00"
+    },
+    {
+      "title": "TEYd.BS - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNemp1eDRQX2wwT3paZGxtdzZESEpIRW5KYzBvazhHZTdVS1FaQUpXSUJpM0dUZUtUUVdTZ0VKdzFES0FzMTkzZFZNOVdQZmxYMDFITEJpay1yeHQyaTVTUXZDUGV1RzZEQ1JPSG1uSDFRYkFKX3c0a2pEZEtqTlF4LVdCMA?oc=5",
+      "summary": "TEYd.BS&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-11T01:23:17+00:00"
     },
     {
       "title": "米のＩＣＣ制裁、即時撤回を　日本含む２１カ国の議長団",
@@ -1148,6 +1220,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-10T21:07:07+00:00"
+    },
+    {
+      "title": "SIGL.PK%5ED13 - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVDJUSGF4TDgzN0wyMGpfMnBORTg5YldzUFlhQ1NOSTVmb2I4OUFGczRUdWJFZVVFNEIxbkJ2WXhZQjFIZTlmOXNEQVd5VHlPMG5YYkVWeUx1eHRQRXJ4N2h2TGNJTTdVejdwOXpYZjFKZGFRNUhVUVlRZ2hBR3Fsa3hhSmxhOWFqVGg1UmtjQVgwV0U?oc=5",
+      "summary": "SIGL.PK%5ED13 - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-10T21:04:37+00:00"
     },
     {
       "title": "AI投資に選別の波､オーストラリアのデータセンター運営会社の新星が大型IPO断念…48時間の舞台裏 | 政治・経済・投資 | 東洋経済オンライン",
