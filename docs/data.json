@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T04:32:45.316459+00:00",
+  "generated_at": "2026-10-11T04:55:04.555890+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -650,6 +650,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7ff719706660>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -678,6 +682,70 @@
       "published": "2026-10-11T04:32:39.915807+00:00"
     },
     {
+      "title": "US justice department probes TV networks over Trump pool coverage",
+      "link": "https://www.ft.com/content/3004a030-d64e-4ff7-a70d-ea379b4784af?syn-25a6b1a6=1",
+      "summary": "ABC News, CBS News, CNN, Fox News and NBC News refused to cover the president’s activities after last month’s White House ban",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-11T04:28:25+00:00"
+    },
+    {
+      "title": "Vegetables half as nutritious as they were in the 1960s",
+      "link": "https://www.telegraph.co.uk/business/2026/10/07/vegetable-nutrition-halved-since-60s/",
+      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/10/07/vegetable-nutrition-halved-since-60s/\nComments URL: https://news.ycombinator.com/item?id=50039715\nPoints: 6\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-11T04:07:32+00:00"
+    },
+    {
+      "title": "The problem with your AI therapist",
+      "link": "https://www.ft.com/content/ab9e2f3e-1586-4c63-b423-6a179437fc13?syn-25a6b1a6=1",
+      "summary": "Millions are turning to chatbots for help with mental health but a technology that can’t go beyond words won’t heal them",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-11T04:00:16+00:00"
+    },
+    {
+      "title": "The fall of Germany’s ex-spymaster",
+      "link": "https://www.ft.com/content/cdf8f2d0-dcde-42ab-9ec3-fc840b2b5c55?syn-25a6b1a6=1",
+      "summary": "August Hanning is accused of having illegally purchased state secrets for over a decade",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-11T04:00:15+00:00"
+    },
+    {
+      "title": "Why are our children not flourishing at school?",
+      "link": "https://www.ft.com/content/1ef0813e-843a-477b-bca8-457afba61ed4",
+      "summary": "AI is detonating the tired system of factory education that has predominated since the last century",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-11T04:00:06+00:00"
+    },
+    {
+      "title": "Russia steps up bid to kill European defence chiefs, spy agencies warn",
+      "link": "https://www.ft.com/content/5da2dd05-9583-4a75-b018-2c5024383ec4?syn-25a6b1a6=1",
+      "summary": "Companies increase personal security for top executives as Kremlin orders expansion of sabotage and ‘hybrid’ operations",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-11T04:00:06+00:00"
+    },
+    {
+      "title": "Trump is failing to arrest decline in popularity, FT poll shows",
+      "link": "https://www.ft.com/content/f6d29414-412d-4422-a5f4-cb3338f73d3a",
+      "summary": "Voters increasingly doubt the president’s ability to steer the economy with weeks to go until elections",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-11T04:00:06+00:00"
+    },
+    {
+      "title": "China’s growing debt burden limits space for economic stimulus",
+      "link": "https://www.ft.com/content/a0ffc43a-231a-40aa-b5f9-521757830087?syn-25a6b1a6=1",
+      "summary": "Mounting interest payments restrict headroom to revive domestic demand, say experts",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-11T04:00:06+00:00"
+    },
+    {
       "title": "｢日本版エヌビディア｣は探す必要ナシ…《フィジカルAI》で覚醒する\"五感･筋肉･関節･神経\"を担える日本企業の強み | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/960381?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "AIの進化は､デジタル領域を超え現実世界へと広がっています。工場や自動運転､ロボットなど｢フィジカルAI｣が産業の主役となる時代､日本企業は独自の強みを発揮しつつ､投資機会も増大中。果たして主導権は…",
@@ -700,6 +768,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-11T03:41:53+00:00"
+    },
+    {
+      "title": "GameBoy on E-Paper ESP32 at 30FPS [video]",
+      "link": "https://www.youtube.com/watch?v=XiZmM6hwwAU",
+      "summary": "Article URL: https://www.youtube.com/watch?v=XiZmM6hwwAU\nComments URL: https://news.ycombinator.com/item?id=50039536\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-11T03:21:07+00:00"
     },
     {
       "title": "CIA World Facebook Is Dead – Here Is an Attempt at Recreation",
