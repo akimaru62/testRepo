@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T17:48:37.506456+00:00",
+  "generated_at": "2026-10-11T18:09:57.715848+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -674,9 +674,21 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f945f24a660>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "YouTuber builds 'Flock-like' camera to track police vehicles, gets police visit",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns\nComments URL: https://news.ycombinator.com/item?id=50045735\nPoints: 8\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-11T17:40:42+00:00"
+    },
     {
       "title": "US threatens to block arms for Ukraine over attacks on Russian refineries",
       "link": "https://www.ft.com/content/68fd8c4f-6f34-4f6e-a52c-76f635164031?syn-25a6b1a6=1",
@@ -692,6 +704,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-11T17:18:21+00:00"
+    },
+    {
+      "title": "Can Russia meet Trump’s diesel demands?",
+      "link": "https://www.ft.com/content/445b2856-a276-4d4c-bdea-44799d771c21?syn-25a6b1a6=1",
+      "summary": "Ukrainian strikes have triggered the worst petrol shortages since the collapse of the Soviet Union but diesel is not in short supply",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-11T17:13:56+00:00"
     },
     {
       "title": "Why hasn't SpaceX, worth $2T, paid this Bay Area chef the $70K it owes him?",
@@ -1681,6 +1701,14 @@
       "title": "The Sleepy Insurance Product That Came to Power Private Credit’s Ascent",
       "link": "https://www.wsj.com/finance/the-sleepy-insurance-product-that-came-to-power-private-credits-ascent-e9586fa3?mod=rss_markets_main",
       "summary": "Indexed annuities guarantee no market losses, but insurers can periodically adjust the formula for returns.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-11T01:00:00+00:00"
+    },
+    {
+      "title": "How to Give Your Kids Money for a House Without Things Getting Weird",
+      "link": "https://www.wsj.com/personal-finance/how-to-give-your-kids-money-for-a-house-without-things-getting-weird-47a48714?mod=rss_markets_main",
+      "summary": "There are many potential pitfalls that a good plan can circumvent.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-11T01:00:00+00:00"
