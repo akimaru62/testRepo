@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T08:33:33.889068+00:00",
+  "generated_at": "2026-10-11T08:54:15.051949+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -654,9 +654,21 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f2ab2e3e660>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "ＤｅＮＡが連勝でファイナルへ　パは１勝１敗、第３戦に―プロ野球ＣＳ",
+      "link": "https://www.jiji.com/jc/article?k=2026101100228&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-11T08:54:11.006137+00:00"
+    },
     {
       "title": "物流業界 外国人運転手の採用拡大",
       "link": "https://news.yahoo.co.jp/pickup/6598392?source=rss",
@@ -4098,6 +4110,14 @@
       "published": "2026-10-09T14:52:00+00:00"
     },
     {
+      "title": "米財務長官、中国担当顧問にシェルトン氏起用 元ＦＲＢ理事候補 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYlVsY0kzYUZsUlVqMU9hYWJkSmRXTWlLelZCd084bkp6Vi1BNU0wWVVyMmpKNklzcFh3QWJxa0Z1QXN1cTd5WkxHTjZNZi1FZkZMc3V3VVI2LXQ1SGM4OW54TFpMZEl6T2RmenI3alk3UDVGd3dZaE1PVVJOOXJ5RDhLRGc?oc=5",
+      "summary": "米財務長官、中国担当顧問にシェルトン氏起用 元ＦＲＢ理事候補&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-09T14:51:44+00:00"
+    },
+    {
       "title": "Tokenized Stocks Bring ‘Radical Change’ to Markets, Cuomo Says",
       "link": "https://www.wsj.com/finance/investing/tokenized-stocks-bring-radical-change-to-markets-cuomo-says-fe1962b6?mod=rss_markets_main",
       "summary": "The former New York governor signed on as co-chairman of OKXICE, a joint venture between U.S. exchange powerhouse ICE and OKX that plans to tokenize stocks.",
@@ -5264,6 +5284,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-10-09T08:38:00+00:00"
+    },
+    {
+      "title": "オープンＡＩ、研究者3人解雇と発表 「機密情報ポリシー違反」 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Tb3B6MnZGNWJDWU9Ec3hXMUJHdTdzSXNxN3RtT0VFQlFLSWZSUnZfNTJxNk1tel9SMVJhNjhPNXRVaHl3eHVqMTZNN1BqTkhmTV9OamhfaGc2TEs0dGppXzQ0Z19ReDYtMGlwM2NRbHVZczFsd3ZrQzlwbEI?oc=5",
+      "summary": "オープンＡＩ、研究者3人解雇と発表 「機密情報ポリシー違反」&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-09T08:33:30+00:00"
     },
     {
       "title": "European Chip Stocks Mixed After Turbulent Week For Tech",
