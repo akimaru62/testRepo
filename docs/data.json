@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T17:36:46.491890+00:00",
+  "generated_at": "2026-10-11T17:48:37.506456+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -686,12 +686,28 @@
       "published": "2026-10-11T17:19:36+00:00"
     },
     {
+      "title": "Why we're watching these climate tech companies",
+      "link": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
+      "summary": "Article URL: https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/\nComments URL: https://news.ycombinator.com/item?id=50045480\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-11T17:18:21+00:00"
+    },
+    {
       "title": "Why hasn't SpaceX, worth $2T, paid this Bay Area chef the $70K it owes him?",
       "link": "https://www.sfchronicle.com/food/restaurants/article/spacex-stateline-napa-late-payment-22463945.php",
       "summary": "Article URL: https://www.sfchronicle.com/food/restaurants/article/spacex-stateline-napa-late-payment-22463945.php\nComments URL: https://news.ycombinator.com/item?id=50045288\nPoints: 14\n# Comments: 6",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-11T16:59:24+00:00"
+    },
+    {
+      "title": "apsw: Another Python SQLite Wrapper",
+      "link": "https://github.com/rogerbinns/apsw",
+      "summary": "Article URL: https://github.com/rogerbinns/apsw\nComments URL: https://news.ycombinator.com/item?id=50045273\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-11T16:58:22+00:00"
     },
     {
       "title": "日本、ロシアと決勝　世界柔道混合団体",
@@ -2940,6 +2956,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-10T07:25:23+00:00"
+    },
+    {
+      "title": "インド、若者デモ指導者らを拘束 選管トップへの抗議封じ込め - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1kblJidkMzRXpoUVBod3o0VHVwX3NIWlJMakllbVVPUGQxTTlpaHBVcTFjc3NKWE5xaXc2Q3V2YzBxSFZjcVZNekdHNXliRHFlWTVsNlNJMXl1THgwcFNWX2VqVXZtYkFvMjZBRnM3THpZcngxSERIaUxB?oc=5",
+      "summary": "インド、若者デモ指導者らを拘束 選管トップへの抗議封じ込め&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-10T07:21:44+00:00"
     },
     {
       "title": "Rat's Register Allocator",
