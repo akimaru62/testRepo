@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T10:50:07.592810+00:00",
+  "generated_at": "2026-10-11T11:07:04.478369+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -666,6 +666,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "502 Server Error: Bad Gateway for url: https://hnrss.org/frontpage"
     }
   ],
   "items": [
@@ -3964,6 +3968,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-09T16:28:46.250694+00:00"
+    },
+    {
+      "title": "米家計の所得・資産増加、債務ストレス拡大も＝22─25年のＦＲＢ調査 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNUZpWUxRSlFnbmZwbC1Tc01QTnV3eDRjS2JiX0VQZmk1WVlCdHByZllUNU8xSXQ5M1Z1TjQ4VHFicmxOZThobkpGa2pqNm9pU2ZCUk1HSHVvd0RId1dRNGcxeVh1bC1SaTcyaDR0NUo1UnZ1RjJqczlwTzh0MndLZEhTRm8?oc=5",
+      "summary": "米家計の所得・資産増加、債務ストレス拡大も＝22─25年のＦＲＢ調査&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-09T16:27:43+00:00"
     },
     {
       "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most.",
