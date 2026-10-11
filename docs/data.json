@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T02:37:00.638776+00:00",
+  "generated_at": "2026-10-11T03:00:34.450864+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -646,9 +646,21 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fa97f55a660>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7ff719706660>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "US hits commercial tanker in Gulf of Oman as tensions flare",
+      "link": "https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1",
+      "summary": "The ship tried to break through America’s naval blockade of Iranian ports, Central Command says of its first attack in a month",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-11T02:45:26+00:00"
+    },
     {
       "title": "トランプ氏が投稿した習氏出迎え写真、ＡＩで加工か ネタにされた「しかめっ面」消去",
       "link": "https://www.jiji.com/jc/article?k=20260928049391a&g=afp&m=rss",
@@ -680,6 +692,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-11T02:36:54.383317+00:00"
+    },
+    {
+      "title": "半導体メモリー大手マイクロン決算が映す｢終わりの見えないメモリー不足｣ AIサーバーは仕様を落として出荷… | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960184?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "生成AIの進化と共に､AIサーバー向けメモリー不足が深刻化しています。半導体メモリー大手マイクロンの決算説明会では､何が語られたのでしょうか。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-11T02:30:00+00:00"
     },
     {
       "title": "就活セクハラ被害 求められる対策",
@@ -5264,6 +5284,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-09T06:16:00+00:00"
+    },
+    {
+      "title": "パリモーターショー、中国勢の出展過去最多 欧州メーカーに重圧 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HWnpOeWdLOTN1bEZUMjJQTXI2SGtMQVZfbEhub3ZpWUV6WFotN19YWS1wN2pxSXhJSElZWkhPdTRmakY0a0oxRDU0MTFodXpUakZFa3NVdnNaMWhkdmJTVkM2akxRWFNWY08xeng3ZWpQYWtaQUxtLXhhR2w?oc=5",
+      "summary": "パリモーターショー、中国勢の出展過去最多 欧州メーカーに重圧&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-09T06:09:00+00:00"
     },
     {
       "title": "日本銀行に関する学生向けの説明会、職員との座談会、オープン・カンパニーへの参加募集について",
