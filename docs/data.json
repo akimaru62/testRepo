@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T13:49:13.180778+00:00",
+  "generated_at": "2026-10-11T14:07:54.599741+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -670,9 +670,29 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "502 Server Error: Bad Gateway for url: https://hnrss.org/frontpage"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f945f24a660>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "We’re about to get a huge read on whether earnings can keep propping up the stock market",
+      "link": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories",
+      "summary": "High hopes for third-quarter earnings are outweighing concerns around interest rates and oil prices — but one expert warns markets have gotten “extremely complacent.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-11T14:00:00+00:00"
+    },
+    {
+      "title": "When Companies Stop Driving a Hard Bargain, This Fed Official Starts Worrying",
+      "link": "https://www.wsj.com/finance/investing/beth-hammack-cleveland-fed-inflation-7751c731?mod=rss_markets_main",
+      "summary": "Beth Hammack says businesses’ pricing power and a sturdy economy show interest rates aren’t yet high enough to tame inflation.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-11T14:00:00+00:00"
+    },
     {
       "title": "停車前にTXドア開く 客が操作か",
       "link": "https://news.yahoo.co.jp/pickup/6598435?source=rss",
