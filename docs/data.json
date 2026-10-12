@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T08:05:18.248715+00:00",
+  "generated_at": "2026-10-12T08:50:06.239154+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -686,6 +686,62 @@
   ],
   "items": [
     {
+      "title": "移民船転覆、死者１３９人に　紛争続くエチオピアから退避か―ジブチ沖",
+      "link": "https://www.jiji.com/jc/article?k=2026101200282&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-12T08:50:00.921320+00:00"
+    },
+    {
+      "title": "大谷翔平、不振脱却の糸口見えず　異例の調整に必死さ垣間見える　ＭＬＢ",
+      "link": "https://www.jiji.com/jc/article?k=2026101200300&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-12T08:50:00.921308+00:00"
+    },
+    {
+      "title": "日本ハム、３年連続ファイナルへ　西武破り２勝１敗―プロ野球ＣＳ",
+      "link": "https://www.jiji.com/jc/article?k=2026101200277&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-12T08:50:00.921292+00:00"
+    },
+    {
+      "title": "「財源食べつくし思いつかぬ」　自民「ラスボス」が減税反対の理由",
+      "link": "https://www.asahi.com/articles/ASVB946XVVB9ULFA01JM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-12T08:50:00.638773+00:00"
+    },
+    {
+      "title": "Stocks Rise as Oil Eases After Russian Diesel Deal Despite Middle East Tension",
+      "link": "https://www.wsj.com/finance/investing/stocks-rise-as-oil-eases-after-russian-diesel-deal-despite-middle-east-tension-29ae28a5?mod=rss_markets_main",
+      "summary": "U.S. stock futures rose as oil prices eased despite fresh attacks on Saudi Arabia, after Trump announced an energy ceasefire between Russia and Ukraine.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-12T08:41:00+00:00"
+    },
+    {
+      "title": "Copper Rises on China Stimulus Hopes, Mining Supply Risks",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-as-markets-weigh-oil-pullback-2c0301c2?mod=rss_markets_main",
+      "summary": "Copper prices rose on the London Metal Exchange, extending monthly gains on hopes of stronger Chinese demand and concerns over supply disruptions.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-12T08:37:00+00:00"
+    },
+    {
+      "title": "European Chip Stocks Mixed After Korean Tech Selloff",
+      "link": "https://www.wsj.com/finance/stocks/china-plays-critical-role-in-global-ai-supply-chain-domestic-ai-ecosystem-9de8dab7?mod=rss_markets_main",
+      "summary": "European semiconductor companies started the week mixed following a selloff in South Korean stocks exposed to artificial intelligence.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-12T08:21:00+00:00"
+    },
+    {
       "title": "Oil Prices Fall as Traders Weigh Russian Diesel Deal, Middle East Supply Risks",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-russian-diesel-deal-middle-east-supply-risks-bc9fabcf?mod=rss_markets_main",
       "summary": "Oil fell as traders weighed prospects for increased Russian diesel supplies and a potential Russia-Ukraine energy ceasefire against persistent Middle East supply risks.",
@@ -694,12 +750,36 @@
       "published": "2026-10-12T07:58:00+00:00"
     },
     {
+      "title": "Burnham to tell MPs that refusing closer EU ties a ‘dereliction of duty’",
+      "link": "https://www.ft.com/content/011a7926-402e-4baa-90ba-bab4a44a74de?syn-25a6b1a6=1",
+      "summary": "Prime minister to address Commons on Monday as he seeks to reopen debate on Brexit",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-12T07:52:21+00:00"
+    },
+    {
+      "title": "Zod 4.6.6 compromised by malware?",
+      "link": "https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467",
+      "summary": "Article URL: https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467\nComments URL: https://news.ycombinator.com/item?id=50052814\nPoints: 87\n# Comments: 20",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-12T07:47:29+00:00"
+    },
+    {
       "title": "渋谷駅で事故 山手線一時見合わせ",
       "link": "https://news.yahoo.co.jp/pickup/6598520?source=rss",
       "summary": "",
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-10-12T07:42:52+00:00"
+    },
+    {
+      "title": "9003.J1 - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQTVDNG15U3Y0aVB5T3VzUFozR25sNUZJdHpYanEteFJCd0N6Ql95bmtHMUxsdnhiYl9ibWtLSHZ5Z1M4MTdEdTNKNzlNX0VRTHlBVTBJaXBnOUZETTNHekg0eHBDY1pIa21oT29Band0N0E1NENOV01HMVJLb0t5RXktX240QQ?oc=5",
+      "summary": "9003.J1 - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-12T07:34:39+00:00"
     },
     {
       "title": "Gold Inches Lower Ahead of U.S. Inflation Data This Week",
@@ -732,6 +812,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-12T07:23:00+00:00"
+    },
+    {
+      "title": "Diesel prices slip after Trump claims ‘energy ceasefire’ in Ukraine war",
+      "link": "https://www.ft.com/content/a663781e-2709-41f2-99df-4fb5a6162e6b?syn-25a6b1a6=1",
+      "summary": "Announcement follows diesel deal with Putin as US president tries to contain impact of higher fuel costs ahead of midterm elections",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-12T07:22:42+00:00"
     },
     {
       "title": "Rupee Jumps After India Central Bank Unveils Currency-Defense Measures",
@@ -1910,6 +1998,14 @@
       "published": "2026-10-11T22:18:26+00:00"
     },
     {
+      "title": "Y7O.MU - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MSHVpQVFLZEhJdTZpSURzUmdJSzIzdGxqVWRSN085elRENDN2YU1FOXl6VldDNEtEd2I0QXZ1aDFSTHA0Z2JsZmI0QS1ILXhhaEJQQWw1ek13SWJDWnQzWDk4RC1YVG5Wb3BoaEx3QnlxVzVhVHpObEdQbmdQSjA?oc=5",
+      "summary": "Y7O.MU&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-11T22:14:35+00:00"
+    },
+    {
       "title": "300年の沈黙を破り富士山が大噴火…世界が\"地獄に変わる\"までの一部始終　漫画｢富士山大噴火｣（第1集 第2話 前編） | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/960342?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "ニッポン震撼‼ ハイテンション・ディザスターコミック‼「世の中、ひっくり返っちゃえばいいのに」サラリーマンのモチザネはただただ真面目に仕事に取り組むも、別部署の後輩から侮られ終わらない仕事をこなすだ…",
@@ -2257,6 +2353,14 @@
       "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
       "link": "https://theonion.com/archivehunt/",
       "summary": "Article URL: https://theonion.com/archivehunt/\nComments URL: https://news.ycombinator.com/item?id=50047055\nPoints: 192\n# Comments: 20",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-11T19:43:32+00:00"
+    },
+    {
+      "title": "So, you’d like to sell your print issues of The Onion?",
+      "link": "https://theonion.com/archivehunt/",
+      "summary": "Article URL: https://theonion.com/archivehunt/\nComments URL: https://news.ycombinator.com/item?id=50047055\nPoints: 318\n# Comments: 48",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-11T19:43:32+00:00"
