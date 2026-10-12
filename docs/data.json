@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T21:07:02.761745+00:00",
+  "generated_at": "2026-10-12T21:23:48.483006+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -686,12 +686,108 @@
   ],
   "items": [
     {
+      "title": "首相動静（１０月１２日）",
+      "link": "https://www.jiji.com/jc/article?k=2026101200192&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-12T21:23:42.973995+00:00"
+    },
+    {
+      "title": "「奪い合い」の自動車エンジニア　活路を求めて各社がインドへ",
+      "link": "https://www.asahi.com/articles/ASVB72H4QVB7ULFA03KM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-12T21:23:42.619242+00:00"
+    },
+    {
+      "title": "フォルクスワーゲンに迫る中国　日本にも「対岸の火事」でない理由",
+      "link": "https://www.asahi.com/articles/ASVB52VRYVB5UHBI026M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-12T21:23:42.619210+00:00"
+    },
+    {
+      "title": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
+      "link": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories",
+      "summary": "The chip makers introduced hardware and software designs for future AI data centers, but the revenue potential is still far out, an analyst says.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-12T21:19:00+00:00"
+    },
+    {
+      "title": "九州新幹線 全線で運転見合わせ",
+      "link": "https://news.yahoo.co.jp/pickup/6598565?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-12T21:09:16+00:00"
+    },
+    {
       "title": "Why Trump’s Diesel-Supply Deal With Russia Won’t Ease Fuel Prices Much",
       "link": "https://www.wsj.com/business/energy-oil/why-trumps-diesel-supply-deal-with-russia-wont-ease-fuel-prices-much-a8b0b3f5?mod=rss_markets_main",
       "summary": "Lawmakers on both sides of the aisle are questioning the agreement’s legality.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-12T21:03:00+00:00"
+    },
+    {
+      "title": "【潜入】NTTがAIブーム震源地に打ち立てた｢開発拠点｣の全貌…\"GAFAM出身エリート\"が結集したチームに秘めた野望 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960685?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "世界最先端のAI技術を有した人材が集結するシリコンバレーに､NTTグループが独自のAI開発拠点｢NTT DATA AIVista｣を設立しました。GAFAM出身エンジニアが集う異色チームを発足させた…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-12T21:00:00+00:00"
+    },
+    {
+      "title": "｢iPhone Duo｣登場で注目の折りたたみスマホ､Android勢が先行7年で実現したアップルにない機能 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960597?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "アップル初の折りたたみ型スマホ｢iPhone Duo｣の登場が話題を呼ぶ中､Android陣営はすでに多機能な折りたたみスマホを多数展開している。多彩なマルチウィンドウ操作やタッチパッドモード､豊富…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-12T21:00:00+00:00"
+    },
+    {
+      "title": "【直撃】｢リフレ政策の時代は終わった｣ 高市政権のキーマン･城内経済財政担当相が語るサナエノミクスの核心（前編） | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960585?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "――第2次改造内閣でも経済財政担当相に留任しました。高市首相からは何を求められたのでしょうか。7月に取りまとめた「骨太の方針2026」と「日本成長戦略」については、1年近くかけて原案の段階から携わっ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-12T21:00:00+00:00"
+    },
+    {
+      "title": "イタリアの名門｢マセラティ｣に中国のスマートカー技術注入か　ファーウェイ連合がステランティスと提携協議 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960394?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "名門マセラティが経営難に陥る中､中国のファーウェイや江淮汽車との提携による再建が現実味を帯びています。イタリアの伝統と中国の先端技術が交差する新戦略の行方は？国際的な政治リスクを乗り越え､ブランドの…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-12T21:00:00+00:00"
+    },
+    {
+      "title": "〈現地ルポ〉NTTがAIブーム震源地に新設した｢AI開発拠点｣の正体…\"GAFAM出身エリートたちの異色集団\"の全貌 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960194?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "オープンAI、アンソロピック、グーグル、エヌビディア――。米西海岸の大都市サンフランシスコから南方に延びる一帯にかけて、世界のAIブームの中心にいるビッグ・テックの本社やAIスタートアップが集積する…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-12T21:00:00+00:00"
+    },
+    {
+      "title": "〈忖度文化との決別〉荏原流｢社長の選び方｣は実績より\"これから\"､経営チームを丸ごと育成する独自プログラムの果実 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960079?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "不祥事が続いた荏原が､なぜ成長路線に復帰できたのか。そのカギは伝統的なトップ人事を見直し､社外取締役を中心としたコーポレートガバナンス改革を実行したことにあった。次の経営チームの育成プログラムや人材…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-12T21:00:00+00:00"
+    },
+    {
+      "title": "〈あの時アサヒに何が〉400億円サイバー被害の教訓｢攻撃者と接触せず｣｢現場にノイズは入れない｣【インタビュー後編】 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959916?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "――サイバー攻撃によるシステム障害の発生から1年が経ちました。決算開示が5カ月遅延するなどもあり、業績に与える影響がもっと大きくなるのではと感じていました。正直なところ、影響としては一定の範囲に抑え…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-12T21:00:00+00:00"
     },
     {
       "title": "Why Ciena, Lumentum and other optical stocks were among the market’s biggest losers on Monday",
@@ -926,6 +1022,14 @@
       "published": "2026-10-12T17:57:00+00:00"
     },
     {
+      "title": "O3541O.T - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdGtRNUV5ZWs4a2lhN2xtVEdqZ0FyWHhhYnc5MmZjSjJ5ZS05TlI1RUFoR3RBd3IyZS1FM3Zqa1daUHBWdWZIZ3d1VVMwSUd4V0lzZ2xHc0c3RFEwOWRmSWJYSU80WXNGUW9LcGhSSFJyMGxJaGprUEJjaDhCaTl1Ty1lNVRCajRiUThvTQ?oc=5",
+      "summary": "O3541O.T - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-12T17:52:44+00:00"
+    },
+    {
       "title": "MLMT.DE - ロイター",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wWFFESTQ1Y1YxekFUY1BCelRtSXk3TUJLb3Y1SGVoWjgxMnVvNlVhdW92aVQxbVlvOFpLZjRzZVNGQmpBUGpPVzI0R2ZQaG04cDZlWk15VXhSdnY3dFFqN0d1TjhwakZqTVBxNTE2Qll1dVpELTcw?oc=5",
       "summary": "MLMT.DE&nbsp;&nbsp;ロイター",
@@ -940,6 +1044,14 @@
       "source": "GitHub Blog",
       "category": "開発者向け",
       "published": "2026-10-12T17:43:59+00:00"
+    },
+    {
+      "title": "KS.TG - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd3RoYlBGdWg5OWhJNXNldkZVeHpFV3cxVEQ5RjRKeFRsc2E5UGk0RWU3TTg4YWE1OVBKQWpuVGJRRmkxdjdPQ3E0Unp1WjFIb3hoZmNIUEhKd0pnSWljQWdzUWZEazQ1VVNQWjl3QkJWb1NSVDFZVHN5STE4ZndacS12bTFWUWtz?oc=5",
+      "summary": "KS.TG - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-12T17:26:07+00:00"
     },
     {
       "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
@@ -1276,6 +1388,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-12T15:23:03.470432+00:00"
+    },
+    {
+      "title": "P4L.D - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSXBkVnFRd3dHVEpHZHNTa3ZMeXZQTUZ2bzZzMnNobnNpR1hHLXFXUS1UZDhJemtoc0c1T2tSQ1hwT3RVYWFDM2ZOaE03V0VIV2FmaHcwV2JwSnE2cnZXcWstOURXR2ZWT2NrdktwaU9PYThHN1REQzR1NFhCQkNRSTA2UEdzTGNf?oc=5",
+      "summary": "P4L.D - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-12T15:17:20+00:00"
     },
     {
       "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
@@ -1700,6 +1820,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-12T12:00:00+00:00"
+    },
+    {
+      "title": "GODRt0.NSf - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMzFnWjMyVHRIVjFYcmFoeXJvSThIUzlIdjlhSDNjcS1wLWM5VDFvbmdJNjRNeVEwWVlJbXdNNjdxNWlvbmFraVV4M3lIaFdlRlRfcG9UZ3o5bklBVUJ4bVRLdDFjUmFSRG1wd1o1RDdKODdwd0tramU1a3lNeXQ3ZkVnRzliQQ?oc=5",
+      "summary": "GODRt0.NSf - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-12T11:53:16+00:00"
     },
     {
       "title": "9258.ODX - | Stock Price & Latest News | Reuters - ロイター",
@@ -2486,6 +2614,14 @@
       "published": "2026-10-12T06:36:53+00:00"
     },
     {
+      "title": "4720.CJS - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcWpLTmVCMnIxSU1Kc1ZzRUdlSzN5cEFlbE5leTRNaWNFcHNBelR0ZHNVbDlUYzk1OUNfMFpzbFNQWk5mTW1obUt6VDdUREpaM2tuVUJkVHU3M0QxTWIxQnhIbXY5eGdmR1dURVcyQkhGekx5YzlRN2s4UVNsQXR1dXFkTUtpWk0?oc=5",
+      "summary": "4720.CJS - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-12T06:35:58+00:00"
+    },
+    {
       "title": "KIR0mu.TRE - | Stock Price & Latest News | Reuters - ロイター",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObkhsVkhQczM0N0pmeURmMlVCYXEyTFhsUkpCVjBPcEFkbDJoMUMtalg0U0VFYmVjU2htSHBTUzRZbTVyVmRjNVdNbDQwb3o5ZTJ6YmdzME1Xcm1JZXMzSzFlTDBtVUZheDN6Wk5PNmthWFRPT043enVFNlktQ3g3THNyVFZxOU1rS0E?oc=5",
       "summary": "KIR0mu.TRE - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
@@ -2828,6 +2964,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-12T04:19:00+00:00"
+    },
+    {
+      "title": "HDP1.DE - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUHRTZS1lZ2ZqNmhGME44Wm5xaTdVOHU1ZW9YbE1MS1U1V05jSTNGSkZYZnhsRGg1b0YxX0o5VUdwT0FnVzBWU2ZGZWhpMmRPa0VlYk9DVDZJMHRxS2ZaRGNRLWdZdUZiZmJtOWtpd1REdVlzOW1CTlBFMy1PU01FWkVHdw?oc=5",
+      "summary": "HDP1.DE&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-12T04:17:42+00:00"
     },
     {
       "title": "1JWA.SG - | Stock Price & Latest News | Reuters - ロイター",
