@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T17:27:17.786222+00:00",
+  "generated_at": "2026-10-12T17:43:06.614472+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -710,6 +710,14 @@
       "published": "2026-10-12T17:00:02+00:00"
     },
     {
+      "title": "Thinking Will Become a Hobby",
+      "link": "https://www.spinellis.gr/blog/20261008/?li261008",
+      "summary": "Article URL: https://www.spinellis.gr/blog/20261008/?li261008\nComments URL: https://news.ycombinator.com/item?id=50059204\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-12T16:54:08+00:00"
+    },
+    {
       "title": "Muse Wonder",
       "link": "https://research.meta.ai/blog/muse-wonder",
       "summary": "Article URL: https://research.meta.ai/blog/muse-wonder\nComments URL: https://news.ycombinator.com/item?id=50059115\nPoints: 13\n# Comments: 0",
@@ -732,6 +740,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-12T16:46:34+00:00"
+    },
+    {
+      "title": "Two economists who transformed crisis management win Nobel Prize",
+      "link": "https://www.ft.com/content/1d3b1c4f-823d-49eb-aaf5-b662a6281ac7?syn-25a6b1a6=1",
+      "summary": "Robert E Hall and Michael Woodford helped central banks respond to 2008 financial turmoil",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-12T16:40:03+00:00"
     },
     {
       "title": "Reverse engineer anything with agents, from app behavior down to native binaries",
@@ -801,6 +817,14 @@
       "title": "GLM-Legal: Advancing Agentic Legal Intelligence",
       "link": "https://z.ai/blog/glm-legal",
       "summary": "Article URL: https://z.ai/blog/glm-legal\nComments URL: https://news.ycombinator.com/item?id=50058507\nPoints: 9\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-12T16:11:45+00:00"
+    },
+    {
+      "title": "GLM-Legal",
+      "link": "https://z.ai/blog/glm-legal",
+      "summary": "Article URL: https://z.ai/blog/glm-legal\nComments URL: https://news.ycombinator.com/item?id=50058507\nPoints: 133\n# Comments: 85",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-12T16:11:45+00:00"
@@ -1148,6 +1172,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-12T12:41:58+00:00"
+    },
+    {
+      "title": "(Post-Quantum) Cryptographic Right Answers",
+      "link": "https://words.filippo.io/right-answers/",
+      "summary": "Article URL: https://words.filippo.io/right-answers/\nComments URL: https://news.ycombinator.com/item?id=50055409\nPoints: 27\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-12T12:26:32+00:00"
     },
     {
       "title": "Incident with Actions, Pull Requests and Issues",
