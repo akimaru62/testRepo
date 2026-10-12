@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T20:47:18.827695+00:00",
+  "generated_at": "2026-10-12T21:07:02.761745+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -686,12 +686,36 @@
   ],
   "items": [
     {
+      "title": "Why Trump’s Diesel-Supply Deal With Russia Won’t Ease Fuel Prices Much",
+      "link": "https://www.wsj.com/business/energy-oil/why-trumps-diesel-supply-deal-with-russia-wont-ease-fuel-prices-much-a8b0b3f5?mod=rss_markets_main",
+      "summary": "Lawmakers on both sides of the aisle are questioning the agreement’s legality.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-12T21:03:00+00:00"
+    },
+    {
+      "title": "Why Ciena, Lumentum and other optical stocks were among the market’s biggest losers on Monday",
+      "link": "https://www.marketwatch.com/story/why-ciena-lumentum-and-other-optical-stocks-were-among-the-markets-biggest-losers-on-monday-b3e53f6a?mod=mw_rss_topstories",
+      "summary": "The sharp moves could partly be a reaction to recent cautious commentary on AI spending.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-12T20:46:00+00:00"
+    },
+    {
       "title": "Retirement Savers Sue Dodgers Owner Mark Walter Saying His Insurers Misled Them",
       "link": "https://www.wsj.com/finance/retirement-savers-sue-dodgers-owner-mark-walter-saying-his-insurers-misled-them-f987d06a?mod=rss_markets_main",
       "summary": "People who bought annuities from Walter’s insurers are filing lawsuits over his insurers’ failure to disclose use of money.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-12T20:39:00+00:00"
+    },
+    {
+      "title": "「管理職になんてなりたくない！」って本当？　そのワケと「なりたくなる組織」の作り方",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/13/news015.html",
+      "summary": "管理職の約6割が「仕事を続けたい」と回答する一方、心身の疲弊を感じる管理職も少なくない。管理職を孤立させず、持続可能なマネジメントを実現するために、人事やメンバーは何ができるのか。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-10-12T20:30:00+00:00"
     },
     {
       "title": "Energy Stocks Rise as Global Conflicts Push Up Oil Prices",
@@ -708,6 +732,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-12T20:15:00+00:00"
+    },
+    {
+      "title": "Epic Games tells employees to use AI to get Disney game done",
+      "link": "https://www.avclub.com/epic-games-disney-ai-delay",
+      "summary": "Article URL: https://www.avclub.com/epic-games-disney-ai-delay\nComments URL: https://news.ycombinator.com/item?id=50062237\nPoints: 13\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-12T20:07:42+00:00"
     },
     {
       "title": "Muse DAU dropped and Meta insiders decided to sell",
@@ -894,6 +926,14 @@
       "published": "2026-10-12T17:57:00+00:00"
     },
     {
+      "title": "MLMT.DE - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wWFFESTQ1Y1YxekFUY1BCelRtSXk3TUJLb3Y1SGVoWjgxMnVvNlVhdW92aVQxbVlvOFpLZjRzZVNGQmpBUGpPVzI0R2ZQaG04cDZlWk15VXhSdnY3dFFqN0d1TjhwakZqTVBxNTE2Qll1dVpELTcw?oc=5",
+      "summary": "MLMT.DE&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-12T17:49:00+00:00"
+    },
+    {
       "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
       "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
       "summary": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright.\nThe post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The GitHub Blog.",
@@ -929,6 +969,14 @@
       "title": "Feds Got Warrants to Use Fake Cell Towers to Hunt Down Don Lemon's Producer",
       "link": "https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/",
       "summary": "Article URL: https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/\nComments URL: https://news.ycombinator.com/item?id=50059446\nPoints: 33\n# Comments: 15",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-12T17:08:16+00:00"
+    },
+    {
+      "title": "Feds got warrants to use fake cell towers to hunt down Don Lemon's producer",
+      "link": "https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/",
+      "summary": "Article URL: https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/\nComments URL: https://news.ycombinator.com/item?id=50059446\nPoints: 112\n# Comments: 65",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-12T17:08:16+00:00"
@@ -1609,6 +1657,14 @@
       "title": "Hackers activate automatic defrosting accross European supermarket fridges",
       "link": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
       "summary": "Article URL: https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident\nComments URL: https://news.ycombinator.com/item?id=50055304\nPoints: 49\n# Comments: 23",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-12T12:16:42+00:00"
+    },
+    {
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "link": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "summary": "https://www.reuters.com/business/retail-consumer/french-supe...https://www.bbc.com/news/articles/crq5nzxv9q4yohttps://www.lemonde.fr/en/france/article/2026/10/12/french-s...\n\nComments URL: https://news.ycombinator.com/item?id=50055304\nPoints: 259\n# Comments: 500",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-12T12:16:42+00:00"
@@ -2446,12 +2502,28 @@
       "published": "2026-10-12T06:35:05+00:00"
     },
     {
+      "title": "9225.ODX - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaDRybFd0R2VBUTBIYWUwZ2VQYThQaW9hb3hfLTcxb1c5WFNuR2dRRUZqX0UyYXNvRnJMTHhfX202Ui02U1Jxd2VPYko5MVctSmtwZUp6WnhrcURuaDVuYlF4TW1Ob0tVVXlTcHBNZ0VfQmJyN0ZINnVLa19tb2dLWDN2UQ?oc=5",
+      "summary": "9225.ODX - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-12T06:34:13+00:00"
+    },
+    {
       "title": "印デリーで地下鉄駅閉鎖、選管トップ辞任要求で新たなデモ計画 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TWmRndXBUWm1LYXZUNWFhMjh5aDUtZTNaeDQzRm1UcTJxTHlQVlBoZUwtbEhkRVMzM1hYZG5zU1Z4QTZoVHFYMy1vR29pdHFhVXpoQjNYLS1MOGZReEFzMXUzaU9YLXJLZEY3UWxvMzdjdnpNS215bnE0RFc?oc=5",
       "summary": "印デリーで地下鉄駅閉鎖、選管トップ辞任要求で新たなデモ計画&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-12T06:33:00+00:00"
+    },
+    {
+      "title": "BLFS.ZY - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbnB3SF9CczlwMTdLazRDSi0yM1ZpQjE5RG1ia2xvMlF3MWlBOFdxVmdXM05OdjZ3RUY4Z3I1UWpoZjUwSkljc2JuTHVCb3MwM0I4MlM3bEtiVE81ZGY2THpfbHFkQ1NjcEZJelBPVU0xdnpXcmppQ3lBLWNQT3JyUm9uaVlVLWVvRTJN?oc=5",
+      "summary": "BLFS.ZY - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-12T06:30:31+00:00"
     },
     {
       "title": "LIV.DE - ロイター",
