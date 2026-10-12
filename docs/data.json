@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T14:59:49.122796+00:00",
+  "generated_at": "2026-10-12T15:23:08.226701+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -686,12 +686,68 @@
   ],
   "items": [
     {
+      "title": "日本ハム、揺さぶって追加点　プロ野球ＣＳ",
+      "link": "https://www.jiji.com/jc/article?k=2026101200586&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-12T15:23:03.470506+00:00"
+    },
+    {
+      "title": "西武、若さ通じず敗退　プロ野球ＣＳ",
+      "link": "https://www.jiji.com/jc/article?k=2026101200585&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-12T15:23:03.470490+00:00"
+    },
+    {
+      "title": "コミッショナー公示（１２日）　プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026101200309&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-12T15:23:03.470468+00:00"
+    },
+    {
+      "title": "平良海馬と「話し合いをする」　米大リーグ移籍を希望―西武球団社長",
+      "link": "https://www.jiji.com/jc/article?k=2026101200655&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-12T15:23:03.470432+00:00"
+    },
+    {
+      "title": "Micron makes a statement with the latest clue about its cash windfall",
+      "link": "https://www.marketwatch.com/story/micron-makes-a-statement-with-the-latest-clue-about-its-cash-windfall-c9e33f7d?mod=mw_rss_topstories",
+      "summary": "A new disclosure about Micron’s buyback plans appears meant to show shareholders that Micron is more generous with cash than one of its key rivals, an analyst said.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-12T15:06:00+00:00"
+    },
+    {
+      "title": "Why aren't AI companies being charged for hacking?",
+      "link": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
+      "summary": "Article URL: https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/\nComments URL: https://news.ycombinator.com/item?id=50057278\nPoints: 123\n# Comments: 73",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-12T14:52:37+00:00"
+    },
+    {
       "title": "Agentic antimicrobial resistance surveillance with AWS HealthOmics and Amazon Bedrock AgentCore",
       "link": "https://aws.amazon.com/blogs/architecture/agentic-antimicrobial-resistance-surveillance-with-aws-healthomics-and-amazon-bedrock-agentcore/",
       "summary": "This post presents a reference architecture that turns public sequencing data into plain-language answers about antimicrobial resistance (AMR) genes. It pairs AWS HealthOmics for managed genomics processing with a grounded Amazon Bedrock AgentCore agent, so researchers can ask questions without writing bioinformatics code or SQL.",
       "source": "AWS ブログ (アーキテクチャ)",
       "category": "開発者向け",
       "published": "2026-10-12T14:34:57+00:00"
+    },
+    {
+      "title": "An Unmade Film Shaped Hayao Miyazaki",
+      "link": "https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki",
+      "summary": "Article URL: https://animationobsessive.substack.com/p/an-unmade-film-shaped-hayao-miyazaki\nComments URL: https://news.ycombinator.com/item?id=50057030\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-12T14:34:25+00:00"
     },
     {
       "title": "U.K. Assets Could Underperform in Lead-Up to Budget",
@@ -705,6 +761,14 @@
       "title": "Solar Panels That Plug into Your Wall Are About to Be Everywhere",
       "link": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
       "summary": "Article URL: https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy\nComments URL: https://news.ycombinator.com/item?id=50056822\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-12T14:19:04+00:00"
+    },
+    {
+      "title": "Solar Panels That Plug into Your Wall",
+      "link": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
+      "summary": "Article URL: https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy\nComments URL: https://news.ycombinator.com/item?id=50056822\nPoints: 34\n# Comments: 21",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-12T14:19:04+00:00"
@@ -980,6 +1044,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-12T10:57:00+00:00"
+    },
+    {
+      "title": "Living in the Weimar Era of Ruby",
+      "link": "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
+      "summary": "Article URL: https://blog.julik.nl/2026/10/the-weimar-of-ruby\nComments URL: https://news.ycombinator.com/item?id=50054474\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-12T10:53:41+00:00"
     },
     {
       "title": "This five-star money manager shares three stock picks, including one betting on dying American malls",
@@ -1468,6 +1540,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-12T07:34:00+00:00"
+    },
+    {
+      "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
+      "link": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+      "summary": "Article URL: https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce\nComments URL: https://news.ycombinator.com/item?id=50052638\nPoints: 19\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-12T07:28:53+00:00"
     },
     {
       "title": "Euro at Risk of Renewed Losses on French Debt Risks",
