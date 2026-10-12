@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T14:14:30.801481+00:00",
+  "generated_at": "2026-10-12T14:41:47.077764+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -686,6 +686,38 @@
   ],
   "items": [
     {
+      "title": "Agentic antimicrobial resistance surveillance with AWS HealthOmics and Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/architecture/agentic-antimicrobial-resistance-surveillance-with-aws-healthomics-and-amazon-bedrock-agentcore/",
+      "summary": "This post presents a reference architecture that turns public sequencing data into plain-language answers about antimicrobial resistance (AMR) genes. It pairs AWS HealthOmics for managed genomics processing with a grounded Amazon Bedrock AgentCore agent, so researchers can ask questions without writing bioinformatics code or SQL.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-10-12T14:34:57+00:00"
+    },
+    {
+      "title": "U.K. Assets Could Underperform in Lead-Up to Budget",
+      "link": "https://www.wsj.com/finance/ecb-unlikely-to-intervene-in-french-bond-selloff-ab7ca520?mod=rss_markets_main",
+      "summary": "Gilt yields fell. Ebury said U.K. assets could underperform ahead of the Oct. 28  budget due to concerns about public finances. Meanwhile, U.S. and Japanese bond markets were closed for holidays.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-12T14:28:00+00:00"
+    },
+    {
+      "title": "Microsoft hits a big milestone that solidifies its revival",
+      "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+      "summary": "Microsoft has reclaimed a $4 trillion market cap in intraday action Monday — and fresh records are in sight.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-12T14:18:00+00:00"
+    },
+    {
+      "title": "Japanese Yen Could Trade Sideways Vs Dollar in Near-Term",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-mideast-tensions-could-weigh-9ec0bb96?mod=rss_markets_main",
+      "summary": "The dollar strengthened, including against the Japanese yen. The yen could remain near current levels versus the dollar in coming months, ING analysts said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-12T14:15:00+00:00"
+    },
+    {
       "title": "ＥＵ、１６００のロシア企業・個人に制裁　過去最大規模、軍需産業に重点",
       "link": "https://www.jiji.com/jc/article?k=2026101200630&g=int&m=rss",
       "summary": "",
@@ -740,6 +772,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-12T13:34:54+00:00"
+    },
+    {
+      "title": "\"Just Ask Claude\" Is a Rare and Valuable Skill",
+      "link": "https://justismills.substack.com/p/just-ask-claude-is-a-rare-and-valuable",
+      "summary": "Article URL: https://justismills.substack.com/p/just-ask-claude-is-a-rare-and-valuable\nComments URL: https://news.ycombinator.com/item?id=50056063\nPoints: 3\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-12T13:20:04+00:00"
     },
     {
       "title": "Steris to Acquire Xodus Medical for $2.1 Billion",
@@ -948,6 +988,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-12T10:51:43+00:00"
+    },
+    {
+      "title": "PTTG.SG - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWjR0cXE2elJoUVlocmhBeVphTzFtUS1teHlXTGc3ME9CQzdOdVZtWVR4dlVsTXU3WkNWTi1PbEY2Y2J5ZUM3SGV5aU5HVFQwdVltMUNLSjVqU1pGcUNTaDhLUkNrcjRHYlpnQmN3bVhvMXJHMUs1VWNRd0ZxdGJDdDBOSTVsdw?oc=5",
+      "summary": "PTTG.SG - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-12T10:51:14+00:00"
     },
     {
       "title": "ROYUY.PK - ロイター",
