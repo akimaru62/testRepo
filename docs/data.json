@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T11:39:52.386490+00:00",
+  "generated_at": "2026-10-12T11:52:43.034915+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -686,12 +686,36 @@
   ],
   "items": [
     {
+      "title": "旅行は夏→秋へシフト? 動き加速",
+      "link": "https://news.yahoo.co.jp/pickup/6598543?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-12T11:41:14+00:00"
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Salesforce, First Solar, Biogen & more",
+      "link": "https://www.cnbc.com/2026/10/12/stocks-making-the-biggest-moves-premarket-crm-fslr-biib.html",
+      "summary": "These are the stocks posting the largest moves in early trading.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-10-12T11:38:20+00:00"
+    },
+    {
       "title": "Mired in their worst losing streak in years, small caps could be the best way for investors to play crucial CPI data",
       "link": "https://www.marketwatch.com/story/mired-in-their-worst-losing-streak-in-years-small-caps-could-be-the-best-way-for-investors-to-play-crucial-cpi-data-40e2f716?mod=mw_rss_topstories",
       "summary": "Stuart Kaiser, of Citigroup, recommends buying iShares Russell 2000 exchange-traded fund call options before the consumer-price index for September is released on Wednesday.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-12T11:30:00+00:00"
+    },
+    {
+      "title": "QGIS bans AI assisted contributions",
+      "link": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "summary": "Article URL: https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387\nComments URL: https://news.ycombinator.com/item?id=50054751\nPoints: 25\n# Comments: 16",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-12T11:22:24+00:00"
     },
     {
       "title": "共産、「軍国主義復活」に懸念　労働短縮で社会発展―綱領改定案提示",
@@ -977,6 +1001,14 @@
       "title": "Stock Market Today: Diesel Prices Slip on Trump Push for Russia-Ukraine Truce",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-12-2026?mod=rss_markets_main",
       "summary": "Stock futures point to small gains",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-12T09:01:16+00:00"
+    },
+    {
+      "title": "Stock Market Today: Oil Gains on Fresh Energy Strikes in Ukraine",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-12-2026?mod=rss_markets_main",
+      "summary": "Diesel prices dip on Russia supply deal",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-12T09:01:16+00:00"
