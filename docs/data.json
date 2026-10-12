@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T17:43:06.614472+00:00",
+  "generated_at": "2026-10-12T17:52:52.359722+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -686,6 +686,14 @@
   ],
   "items": [
     {
+      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
+      "summary": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright.\nThe post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "category": "開発者向け",
+      "published": "2026-10-12T17:43:59+00:00"
+    },
+    {
       "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
       "link": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
       "summary": "The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.",
@@ -700,6 +708,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-12T17:14:19+00:00"
+    },
+    {
+      "title": "AI coding agents generate more code, but not more software",
+      "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/\nComments URL: https://news.ycombinator.com/item?id=50059523\nPoints: 24\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-12T17:14:01+00:00"
     },
     {
       "title": "Zuckerberg says Meta has reached AI ‘frontier’ and rejects calls for slowdown",
@@ -932,6 +948,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-12T15:16:45+00:00"
+    },
+    {
+      "title": "300015.sz - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOEZmUlpFUE5yeGsyeGQtWHQ3VlozaUhIYkhjWk1UZVlnTFVZdVAwc0RGUTlKbThTckdxS0tFRnB2ZGtfR3RHaV9WV0gtMEpFa3JaVm5OMm5MSDFuY3hTR2VWNzNESGo0WlVER3FhSGlpb3pFaHp4aG5Cem9RU25kRzJJR19EZw?oc=5",
+      "summary": "300015.sz - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-12T15:15:19+00:00"
     },
     {
       "title": "Fridges in French supermarkets hit by cyber attack",
@@ -2230,12 +2254,28 @@
       "published": "2026-10-12T04:49:34+00:00"
     },
     {
+      "title": "GLA1Vhe.TRE - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY181SHFwQk1ESEZ1YTBTYWtFQV9IZGZlVTJFeUhZdGxpSElyaHNWc0x4QnlFUEM4U3M0aDdjRVlJZlp5UTltWFk5bTV4bGNkRkRhcllZdklibkEyOFdhYXMwSGFWQ3FldVBvYzBJUUZiQ0VzRWtmOE82RF9jYkxFZ1JOVUFOQ0k?oc=5",
+      "summary": "GLA1Vhe.TRE - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-12T04:49:30+00:00"
+    },
+    {
       "title": "ＩＥＡ、軽油追加放出の必要性検討を加盟国に要請 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BVXRBUlpGNElFYkJYUHBCWWtpQktRUzZIWE9NZ01LOGtwUllqX0tVZmtnNU94Zkx0Ymx1ejc4SVFVZ25Ld1pGTVRfcnJVSjFSTFE4TDR0aGtSbUMyN3hhZ2M4bnByZkcyMUo1LTFQUmF4akxfdlJsdGhEekM?oc=5",
       "summary": "ＩＥＡ、軽油追加放出の必要性検討を加盟国に要請&nbsp;&nbsp;ロイター",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-12T04:49:00+00:00"
+    },
+    {
+      "title": "3PY3.F - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU0UxMUR2U3pSaFJLLWZVTFBaQXI1VFVPMkJ3MlBDX21XcXJiYXNtWmNETUc4bUVoeVBiQnhZaUhoNTRmVGVoLVZQSnJwRTdiOW93dnROeU9ZTW1XX2Yzb3dFM1g3djN3eFdpUHpQMkxiNWU2ZlQ3QmZfS1hyV2pzeXZmQjltR3NwMHc?oc=5",
+      "summary": "3PY3.F - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-12T04:47:40+00:00"
     },
     {
       "title": "TROAXs.TQ - ロイター",
