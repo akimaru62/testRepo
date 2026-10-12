@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T21:37:31.973461+00:00",
+  "generated_at": "2026-10-12T21:49:35.754407+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -942,6 +942,14 @@
       "published": "2026-10-12T19:38:00+00:00"
     },
     {
+      "title": "Making big downloads resumable in Firefox",
+      "link": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+      "summary": "Article URL: https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html\nComments URL: https://news.ycombinator.com/item?id=50061791\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-12T19:36:02+00:00"
+    },
+    {
       "title": "花咲線と釧網本線を廃止できない｢北の最果て｣の現実　ロシア国境最前線の街､鉄道を維持すべき理由 | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/960091?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "北海道の鉄道路線廃止が加速する中､最果ての根室本線や釧網本線が直面する現状を現地取材から描きます。国境の町･根室ではロシアとの緊張が日常化し､交通と地域コミュニティの維持が安全保障にも直結します。存…",
@@ -969,6 +977,14 @@
       "title": "Introducing OpenFatigue",
       "link": "https://openfatigue.ai/",
       "summary": "Article URL: https://openfatigue.ai/\nComments URL: https://news.ycombinator.com/item?id=50061278\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-12T19:08:21+00:00"
+    },
+    {
+      "title": "OpenFatigue™ – Open is the new closed",
+      "link": "https://openfatigue.ai/",
+      "summary": "Article URL: https://openfatigue.ai/\nComments URL: https://news.ycombinator.com/item?id=50061278\nPoints: 160\n# Comments: 30",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-12T19:08:21+00:00"
@@ -2540,6 +2556,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-12T07:34:00+00:00"
+    },
+    {
+      "title": "EGCO.BK - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9EalB4b243OVJRZU11ZjVaMW92RHpIcF9aLThwRTZnR3JCa2pWdzh3NVJfMW5yUkxob2NMbTNrcUpCSHF5dDdUcVRVdlZucVplemRJbFBuZFI3OGhmdk9ra0RERDBZR09selhzYnU0MnJSMnBlRjVwNm13?oc=5",
+      "summary": "EGCO.BK&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-12T07:32:41+00:00"
     },
     {
       "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
