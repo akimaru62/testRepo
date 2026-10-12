@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T23:39:56.714829+00:00",
+  "generated_at": "2026-10-12T23:50:23.132540+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -686,6 +686,22 @@
   ],
   "items": [
     {
+      "title": "貸出・預金動向（9月）",
+      "link": "http://www.boj.or.jp/statistics/dl/depo/kashi/kasi2609.pdf",
+      "summary": "",
+      "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-10-12T23:50:00+00:00"
+    },
+    {
+      "title": "企業物価指数（9月）",
+      "link": "http://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2609.pdf",
+      "summary": "",
+      "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-10-12T23:50:00+00:00"
+    },
+    {
       "title": "新たな空港攻撃で１人死亡　フーシ派、米国けん制―サウジ",
       "link": "https://www.jiji.com/jc/article?k=2026101300165&g=int&m=rss",
       "summary": "",
@@ -870,12 +886,28 @@
       "published": "2026-10-12T21:40:18+00:00"
     },
     {
+      "title": "AI is a tool and using it well takes skill",
+      "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/\nComments URL: https://news.ycombinator.com/item?id=50063427\nPoints: 169\n# Comments: 155",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-12T21:40:18+00:00"
+    },
+    {
       "title": "Phreak.ing – Internet Phone Switch",
       "link": "https://phreak.ing/",
       "summary": "Article URL: https://phreak.ing/\nComments URL: https://news.ycombinator.com/item?id=50063417\nPoints: 7\n# Comments: 0",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-12T21:39:32+00:00"
+    },
+    {
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "link": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "summary": "Article URL: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html\nComments URL: https://news.ycombinator.com/item?id=50063365\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-12T21:35:35+00:00"
     },
     {
       "title": "Individual Investors Are Trading at Meme-Stock Levels",
