@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T18:33:34.281143+00:00",
+  "generated_at": "2026-10-12T18:56:50.934650+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -686,6 +686,46 @@
   ],
   "items": [
     {
+      "title": "S&P 500, Nasdaq Slip as Oil Rises on Russia Strikes in Ukraine",
+      "link": "https://www.wsj.com/finance/investing/stocks-rise-as-oil-eases-after-russian-diesel-deal-despite-middle-east-tension-29ae28a5?mod=rss_markets_main",
+      "summary": "U.S. stocks were trading mixed, with the Dow industrials rising and the Nasdaq composite declining.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-12T18:43:00+00:00"
+    },
+    {
+      "title": "Trump’s ‘energy ceasefire’ collides with real-world problems of dwindling fuel supplies",
+      "link": "https://www.marketwatch.com/story/trumps-energy-ceasefire-collides-with-real-world-problems-of-dwindling-fuel-supplies-8ba3993b?mod=mw_rss_topstories",
+      "summary": "Oil markets were struggling on Monday to gauge how President Donald Trump’s new declaration of an “energy ceasefire” between Russia and Ukraine might help mitigate a deepening global oil crisis as the Middle East conflict drags on.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-12T18:36:00+00:00"
+    },
+    {
+      "title": "Houthi assault on Saudi airports strikes at MBS’s economic vision",
+      "link": "https://www.ft.com/content/bc7302fa-f8e4-43da-aad5-0abbfefca4f8?syn-25a6b1a6=1",
+      "summary": "Deadly bombardment of Riyadh’s international airport threatens crown prince’s plans to turn kingdom into finance and events hub",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-12T18:32:01+00:00"
+    },
+    {
+      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "link": "https://github.com/openai/codex/issues/48195",
+      "summary": "Article URL: https://github.com/openai/codex/issues/48195\nComments URL: https://news.ycombinator.com/item?id=50060694\nPoints: 35\n# Comments: 10",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-12T18:29:04+00:00"
+    },
+    {
+      "title": "Publishers Killed the Paperback, Then Blamed Readers",
+      "link": "https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback",
+      "summary": "Article URL: https://jacobin.com/2026/10/books-publishing-reading-mass-market-paperback\nComments URL: https://news.ycombinator.com/item?id=50060674\nPoints: 9\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-12T18:27:26+00:00"
+    },
+    {
       "title": "Gold Futures Settle Lower on Rising Dollar, Oil",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-as-markets-weigh-oil-pullback-2c0301c2?mod=rss_markets_main",
       "summary": "Gold futures settled lower amid U.S. dollar gains and a rise in oil futures as Middle East tensions persist.",
@@ -700,6 +740,14 @@
       "source": "CNBC",
       "category": "海外金融",
       "published": "2026-10-12T18:18:39+00:00"
+    },
+    {
+      "title": "Just say no to OpenAI and Anthropic",
+      "link": "https://micahflee.com/just-say-no-to-openai-and-anthropic/",
+      "summary": "Article URL: https://micahflee.com/just-say-no-to-openai-and-anthropic/\nComments URL: https://news.ycombinator.com/item?id=50060500\nPoints: 61\n# Comments: 27",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-12T18:17:29+00:00"
     },
     {
       "title": "My Reddit AMA on the Law of Web Scraping",
@@ -756,6 +804,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-12T17:14:01+00:00"
+    },
+    {
+      "title": "Feds Got Warrants to Use Fake Cell Towers to Hunt Down Don Lemon's Producer",
+      "link": "https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/",
+      "summary": "Article URL: https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/\nComments URL: https://news.ycombinator.com/item?id=50059446\nPoints: 33\n# Comments: 15",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-12T17:08:16+00:00"
     },
     {
       "title": "Zuckerberg says Meta has reached AI ‘frontier’ and rejects calls for slowdown",
@@ -860,6 +916,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-12T16:23:01+00:00"
+    },
+    {
+      "title": "JSWwrt.CHI - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRzNhQTRTVncxeFVJYXZ3S2cxZWtXZWk1dkRGUEltMlFNaFZZYm13LTl1NzY5cktSYlZDWGNIdm1fU0xhTXlKNWtjX0w3cHRkX2VpVGNaT0ZoSWNqOVUzNjU0b3QwZVd0blB0eHpyMzZMT0dmRnF3UFJoNzdpUC1OMlo5WGo1Tkk?oc=5",
+      "summary": "JSWwrt.CHI&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-12T16:22:37+00:00"
     },
     {
       "title": "French supermarkets suffer refrigerator shutdown after unprecedented cyberattack",
@@ -1028,6 +1092,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-12T14:59:08+00:00"
+    },
+    {
+      "title": "RC.TH - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jMUdfcGh3Wk5xMUQybHZvRzJ3OFdVTENTLUxlb1Z1SlhLVm9uNDA3S3dkMWpnLU1NVE5JdkpGQ2VGVDdEeHdGQ1NjVXdkM1Rrajh1dVFLc1lvODdlSGdxY3JvNVI3X2tvRGktWlZxNURKNkZFM0o0?oc=5",
+      "summary": "RC.TH - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-12T14:53:17+00:00"
     },
     {
       "title": "Why aren't AI companies being charged for hacking?",
@@ -1204,6 +1276,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-12T13:20:04+00:00"
+    },
+    {
+      "title": "6237.CJS - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVF9NSW9UNGl3dUNMU1ZzUGJtQVdvX3dpaW5mRktGaFBwWVJKZXZoYWlmXzZDYU9KN2dUNEJsOW51a1ZQUnliemdtVkhMX29oa2ZYWHlDNUdWalFleXE3R2xmUFdPUmVVU3N0NWFQUGlsOTJLN05BYUhlMXFtVktCdFRQSQ?oc=5",
+      "summary": "6237.CJS - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-12T13:19:21+00:00"
     },
     {
       "title": "Steris to Acquire Xodus Medical for $2.1 Billion",
