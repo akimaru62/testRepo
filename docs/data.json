@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T02:49:47.637473+00:00",
+  "generated_at": "2026-10-12T03:20:20.448040+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -678,9 +678,53 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "サウジアラビアの安全保障、脆弱さ浮き彫り　国防「主軸」の米国、支援応じず",
+      "link": "https://www.jiji.com/jc/article?k=2026101100418&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-12T03:20:09.558113+00:00"
+    },
+    {
+      "title": "札幌市が直面する財政危機　再開発で膨らむ借金、「破綻」シナリオも",
+      "link": "https://www.asahi.com/articles/ASVBC35ZJVBCIIPE009M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-12T03:20:09.376140+00:00"
+    },
+    {
+      "title": "South Korean Won’s Gains Underpinned by Robust Exports, Current Account Surplus",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-mideast-tensions-could-weigh-9ec0bb96?mod=rss_markets_main",
+      "summary": "The won’s recent sharp gains against the dollar are underpinned by South Korea’s robust exports and widening current account surplus, KB Kookmin Bank said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-12T03:11:00+00:00"
+    },
+    {
+      "title": "東大生のノートは｢PC｣より｢紙派｣が過半数？　｢デジタルをあきらめて紙に戻った｣人が多い理由を考察してみた | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960233?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "デジタル全盛の現代､東大生の過半数があえて｢紙のノート｣を選ぶ理由とは何なのでしょうか。あらゆる便利さを持つデジタルを経て紙に回帰する背景には､思考や記憶との独特な関係性が隠れています。その魅力に迫…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-12T03:00:00+00:00"
+    },
+    {
+      "title": "Sorry we made you grind LeetCode",
+      "link": "https://www.hackerrank.com/writing/why-were-sorry",
+      "summary": "Article URL: https://www.hackerrank.com/writing/why-were-sorry\nComments URL: https://news.ycombinator.com/item?id=50050762\nPoints: 5\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-12T02:52:10+00:00"
+    },
     {
       "title": "北朝鮮が弾道ミサイル数発　日本海に９００キロ以上―韓国軍",
       "link": "https://www.jiji.com/jc/article?k=2026101200185&g=int&m=rss",
