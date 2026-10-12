@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T22:26:38.255170+00:00",
+  "generated_at": "2026-10-12T22:41:22.512701+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -686,6 +686,30 @@
   ],
   "items": [
     {
+      "title": "Announcing AWS Lambda Web Functions",
+      "link": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
+      "summary": "AWS Lambda Web Functions is a serverless compute primitive that runs your HTTP framework natively, delivering fast, consistent responses through multi-concurrent execution and automated global distribution.",
+      "source": "AWS ブログ (AWS)",
+      "category": "テクノロジー",
+      "published": "2026-10-12T22:34:47+00:00"
+    },
+    {
+      "title": "｢人生を丸ごと抱きしめ､とことん面白がって生きた｣宇野千代の言葉が､令和を生きる私たちの心に刺さるワケ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960573?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "NHK連続テレビ小説『ブラッサム』の主人公のモデル･宇野千代。幾度もの逆境をしなやかに乗り越え､言葉と行動で新たな道を切り開いたその軌跡は､現代にも深い感動と勇気を与えてくれます。彼女の幸福語録が導…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-12T22:30:00+00:00"
+    },
+    {
+      "title": "Investors worry the bull market is getting old. But history shows it can continue to age gracefully.",
+      "link": "https://www.marketwatch.com/story/investors-worry-the-bull-market-is-getting-old-but-history-shows-it-can-continue-to-age-gracefully-0402e69c?mod=mw_rss_topstories",
+      "summary": "Contrary to a widespread current worry among some on Wall Street, bull markets do not die of old age,",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-12T22:27:00+00:00"
+    },
+    {
       "title": "ＮＹ株３日続伸、１９５ドル高　企業決算に期待",
       "link": "https://www.jiji.com/jc/article?k=2026101300124&g=int&m=rss",
       "summary": "",
@@ -732,6 +756,30 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-12T22:00:00+00:00"
+    },
+    {
+      "title": "旭化成が経費精算で「年間6.5万時間」を削減できたワケ　“勘に頼らない”DXの実践",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/13/news026.html",
+      "summary": "多角的な事業を展開する中で、ツールの現場定着とデータ活用に挑む旭化成。徹底した可視化と適切なハンドリングでバックオフィス業務の効率化を実現した「勘に頼らないDX」の取り組みに迫る。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-10-12T22:00:00+00:00"
+    },
+    {
+      "title": "旭化成・元社員「情報漏えい」で逮捕　「PC返却」で安心する企業が陥る“時間差流出”の罠",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/13/news016.html",
+      "summary": "旭化成の元社員が営業秘密を漏えいしたとして、不正競争防止法違反の疑いで愛知県警に逮捕された事件。会社は「辞める人」の何を確認すべきなのか。そして、機密漏えいが起きてしまったとき、会社は何を語るべきなのか。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-10-12T22:00:00+00:00"
+    },
+    {
+      "title": "1897.T - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMF9MVTlzWFgtQmtob0d0NlpzYnJsS3pOdlJYYk1LWTU1Z3JseGptUGo3VnRCcDVGSDdwVzNnLXloRi1tM1RPX0stMnJmVzhDeHpmTnMydDZkcEYya3hzTzA5TlNmU3drNmpnQ013ZGMwT2l4eWZaVVpYVzNkbkFGZFlKdVM?oc=5",
+      "summary": "1897.T - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-12T21:46:18+00:00"
     },
     {
       "title": "AI Is a Tool. Using It Well Takes Skill.",
