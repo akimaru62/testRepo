@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T22:35:26.148398+00:00",
+  "generated_at": "2026-10-13T22:47:23.429014+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -690,6 +690,14 @@
   ],
   "items": [
     {
+      "title": "Running Qwen3.8 at 255 tok/s on a single 5090",
+      "link": "https://meshapplied.com",
+      "summary": "Article URL: https://meshapplied.com\nComments URL: https://news.ycombinator.com/item?id=50079842\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-13T22:31:48+00:00"
+    },
+    {
       "title": "御年95歳の看板娘！チャーミングな笑顔の裏に隠された\"逆風の日々\"　｢別府ブルーバード劇場｣館長の\"現在の夢\"とは？ | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/960375?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "別府の老舗映画館･ブルーバード劇場を95歳で切り盛りする岡村照さん。インド映画を愛し､華やかな姿で客を迎える裏に､激動の時代を女手一つで乗り越えた芯の強さがありました。老舗を支える館長の映画人生､そ…",
@@ -734,6 +742,22 @@
       "link": "https://toyokeizai.net/articles/-/960436?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "ここ最近人気が続く｢マーラータン｣。そのマーラータンの次にはやるといわれているのが｢回転火鍋｣です。すでに日本人客が殺到するお店も。いったいどんな業態の店なのでしょうか。",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-13T22:00:00+00:00"
+    },
+    {
+      "title": "「稼ぐやつが偉い」　プルデンシャル61億円超の不正の根底にある、“制度に書かれていない”空気の支配",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/14/news013.html",
+      "summary": "「再発防止策を実行しただけでは、会社は変われない」――プルデンシャル生命を揺るがした営業社員らによる顧客からの不適切な金銭受領問題。改革が求められる中、問われているのは、制度の拡充ではなく長年現場を支配してきた「空気」の刷新だ。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-10-13T22:00:00+00:00"
+    },
+    {
+      "title": "「AI投資の4割が頓挫する」現実　ツールを増やすほど顧客が逃げる“体験破壊”はなぜ起きる？",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/14/news022.html",
+      "summary": "米Gartnerは「2027年末までにAIエージェント導入の40％超がコスト高騰や成果不透明で頓挫する」と予測する。ツールを後付けするほど情報が寸断され、顧客体験を自ら壊す「AIパラドックス」が頻発しているためだ。米Genesysのトニー・ベイツCEOは、失敗の本質を「人間を前提とした旧来型KPIの限界」だと指摘。AIを利益に変える組織運営やガバナンス設計など、経営の処方箋をラスベガス現地から解説する。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-10-13T22:00:00+00:00"
     },
