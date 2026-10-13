@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T17:51:49.800578+00:00",
+  "generated_at": "2026-10-13T18:11:25.998222+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -690,6 +690,38 @@
   ],
   "items": [
     {
+      "title": "Municipal Bond Investors Face Elevated Risks From Rising Costs of Natural Disasters",
+      "link": "https://www.wsj.com/finance/investing/municipal-bond-investors-face-elevated-risks-from-rising-costs-of-natural-disasters-66404839?mod=rss_markets_main",
+      "summary": "Increased costs are forcing investors, already battered by the recent turbulence in global bond markets, to be more careful with one of the safest asset classes available.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-13T17:58:00+00:00"
+    },
+    {
+      "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+      "link": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+      "summary": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%.\nThe post GitHub’s model for secret detection: Finding more secrets with less noise appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "category": "開発者向け",
+      "published": "2026-10-13T17:56:33+00:00"
+    },
+    {
+      "title": "New SEC rules would fleece everyday investors to enrich Wall Street",
+      "link": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
+      "summary": "New proposals from the Securities and Exchange Commission will tilt the scales in favor of Wall Street and against a huge group of retail investors.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-13T17:54:00+00:00"
+    },
+    {
+      "title": "Rising Interest Rates Threaten to Spoil the Party for Big Banks",
+      "link": "https://www.wsj.com/finance/banking/rising-interest-rates-threaten-to-spoil-the-party-for-big-banks-0ef3e7c0?mod=rss_markets_main",
+      "summary": "Goldman Sachs and JPMorgan post higher profit, but the mood on Wall Street is becoming more cautious.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-13T17:51:00+00:00"
+    },
+    {
       "title": "Comex Gold Settles 0.31% Lower at $4152.90",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-markets-focus-on-u-s-data-bb4eb024?mod=rss_markets_main",
       "summary": "Gold settled 0.3% lower and silver fell 1.6%, with both metals down for a second-consecutive session.",
@@ -848,6 +880,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-13T16:10:48+00:00"
+    },
+    {
+      "title": "Scientists wonder: Is my AI stealing my ideas?",
+      "link": "https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/",
+      "summary": "Article URL: https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/\nComments URL: https://news.ycombinator.com/item?id=50073926\nPoints: 16\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-13T16:05:51+00:00"
     },
     {
       "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
