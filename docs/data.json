@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T16:09:27.548517+00:00",
+  "generated_at": "2026-10-13T16:31:24.653416+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -682,6 +682,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -716,6 +720,38 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-13T17:00:00+00:00"
+    },
+    {
+      "title": "高市首相はＩＣＣについて「今後も支持する」と述べた",
+      "link": "https://www.jiji.com/jc/article?k=2026101300327&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-13T16:31:08.951677+00:00"
+    },
+    {
+      "title": "道新特派員をスパイ容疑で拘束　ロシア極東サハリン州",
+      "link": "https://www.jiji.com/jc/article?k=2026101400001&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-13T16:31:08.951659+00:00"
+    },
+    {
+      "title": "タス通信によると、北海道新聞特派員の日本人男性がロシア・サハリン州でスパイ容疑で拘束された",
+      "link": "https://www.jiji.com/jc/article?k=2026101301165&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-13T16:31:08.951624+00:00"
+    },
+    {
+      "title": "‘Superintelligence’ may never arrive, Deutsche Bank says. What that could mean for the U.S. economy.",
+      "link": "https://www.marketwatch.com/story/superintelligence-may-never-arrive-deutsche-bank-says-what-that-could-mean-for-the-u-s-economy-765b89a8?mod=mw_rss_topstories",
+      "summary": "Deutsche Bank’s Jim Reid said he sees productivity gains from artificial-intelligence adoption as having the potential to create new jobs.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-13T16:21:00+00:00"
     },
     {
       "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
@@ -764,6 +800,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-13T15:17:00+00:00"
+    },
+    {
+      "title": "The United Kingdom Generates Less Electricity per Person Than in the 1970s",
+      "link": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+      "summary": "Article URL: https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak\nComments URL: https://news.ycombinator.com/item?id=50072994\nPoints: 18\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-13T15:12:57+00:00"
     },
     {
       "title": "【シンガポール】ＵＯＢ、米ＡＷＳとＡＩ活用で戦略提携　東南アジア５市場向けクラウド基盤",
