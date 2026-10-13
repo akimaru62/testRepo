@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T15:47:19.022021+00:00",
+  "generated_at": "2026-10-13T16:09:27.548517+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -718,6 +718,38 @@
       "published": "2026-10-13T17:00:00+00:00"
     },
     {
+      "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/",
+      "summary": "Some numbers are hard to picture until you sit with them for a moment. Last week we published the Prime Day 2026 metrics, and the one that stuck with me is 2.3 quadrillion: the daily requests Amazon ElastiCache peaked at during the event. Prime Day ran back in June, so this post always lands as […]",
+      "source": "AWS ブログ (AWS)",
+      "category": "テクノロジー",
+      "published": "2026-10-13T15:59:06+00:00"
+    },
+    {
+      "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
+      "link": "https://news.ycombinator.com/item?id=50073471",
+      "summary": "Hey Hacker News! I'm Eric, the founder of Consus. We route all AI requests to ITAR restricted and controlled unclassified information (CUI) compliant infrastructure.\nConsus itself satisfies ITAR restrictions, and we recently completed our FedRAMP equivalency audit against the 410 FedRAMP High controls. FedRAMP High is the U.S. government’s strictest security baseline for cloud services handling sensitive unclassified data. A breach of this data could cause severe or catastrophic harm. Achieving FedRAMP equivalency, or authorization, is required before processing CUI information.Demo: https://youtu.be/6MYxJe6P4oYAerospace and defense is experiencing rapid growth. Unfortunately, most companies are struggling to use AI because of necessary data protections & compliance risk. These companies can move even faster if they could use the AI tools that most other industries take for granted.I spent most of my career prior to Consus in aerospace & defense. I launched national security payloads at SpaceX, and was an early employee at Castelion. I’ve watched first hand how compliance red-tape makes it difficult for companies to adopt new technologies and trust vendors that touch their sensitive data. For example, I worked with a satellite manufacturer that doesn’t allow any AI tools, even for non-sensitive work.Even as AI has become extremely useful over the past 9-12 months, I was surprised by how many aerospace & defense companies refused to touch it. They could see how it could be helpful, but they were scared about model providers training on their data, violating an ITAR rule, or risk losing new business because of a failed cyber assessment. These are all rational fears.There were a lot of ways to solve some/all of these problems, but we focused on building a compliant AI inference layer that can \"plug\" into any AI tool or workflow. Just as OpenRouter integrates with most tools, Consus can connect to tools like ChatGPT or Claude, open source tools including the Pi coding agent or Open WebUI, or integrate with applications built and maintained by individual organizations.Almost no aerospace & defense company lives in all three major GovClouds (AWS, Azure, Google). When I mapped where frontier models can legally run for ITAR and CUI work, each provider had some subset of models, and each model achieved varying levels of compliance. Our customers don’t think in terms of cloud providers. They think about the data controls they require, and the model they want to use.\nThat is why we built the compliance suffix. Under the hood, every request hits a single OpenAI-compatible endpoint, where keys are verified and policy is enforced before anything touches inference. Every model name must carry a compliance suffix, such as gpt-5.6-sol:fedramp-high or claude-opus-5-5:itar, and any bare model name is rejected. We never proxy to the standard commercial endpoints.Our customers are also able to build an allowlist of models, and assign spend & model restrictions to individual users in the organization. This is all handled through our Consus Portal where teams can manage spend, keys, and policies.A typical question we hear is why not just use Bedrock in AWS GovCloud or Azure Government directly. For small teams, just getting access to these platforms is difficult. For larger organizations, GovCloud lets you inherit some but not all of the controls needed to handle sensitive data. Also, models are split across providers: GPT-5.6 Sol is only available in Azure Government, while Claude Opus 5.5 is served through Bedrock in AWS GovCloud. If you want both, you are standing up and securing two separate government cloud environments. We run all of them behind one endpoint so customers don’t have to pick a cloud, and we handle the compliance work for each one.Given the data sensitivities, Consus does not store any customer data at rest. All prompts and completions stay in memory only for the length of the request and are never logged or written to disk. Zero data retention is strictly enforced both on ourselves and the infrastructure/model providers. We do keep metadata on each request and response for billing and audit purposes.Consus is not self-serve by design. ITAR requires us to know exactly who is on the other end of every key, so we verify every organization and put a contract in place before issuing API keys. We charge our customers a compliance fee starting at $40/mo/seat plus AI tokens at cost.We are actively serving customers, and would love any feedback from security experts, or developers/engineers working in highly regulated industries!References:\nAPI Documentation: https://gateway.consus.io/overview\nSecurity & Architecture: https://gateway.consus.io/security\nCompliance Details: https://consus.io/compliance\n\nComments URL: https://news.ycombinator.com/item?id=50073471\nPoints: 5\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-13T15:41:00+00:00"
+    },
+    {
+      "title": "Now That Information Is Free, What's a College Campus For?",
+      "link": "https://commonedge.org/now-that-information-is-free-whats-a-college-campus-for/",
+      "summary": "Article URL: https://commonedge.org/now-that-information-is-free-whats-a-college-campus-for/\nComments URL: https://news.ycombinator.com/item?id=50073455\nPoints: 19\n# Comments: 35",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-13T15:40:03+00:00"
+    },
+    {
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+      "summary": "Article URL: https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic\nComments URL: https://news.ycombinator.com/item?id=50073221\nPoints: 27\n# Comments: 11",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-13T15:25:50+00:00"
+    },
+    {
       "title": "Raising taxes on investments, estates and benefits could keep Social Security from running out of money. Here’s who could pay the most.",
       "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
       "summary": "Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes.",
@@ -764,6 +796,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-13T15:10:44.837675+00:00"
+    },
+    {
+      "title": "Thunderbird for iOS",
+      "link": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+      "summary": "Article URL: https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/\nComments URL: https://news.ycombinator.com/item?id=50072913\nPoints: 33\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-13T15:07:37+00:00"
     },
     {
       "title": "Nearly all 19 car brands send driver data to third parties (Northeastern/CR)",
@@ -892,6 +932,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-13T14:14:57+00:00"
+    },
+    {
+      "title": "How to engineer an AI harness for game development",
+      "link": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+      "summary": "Article URL: https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code\nComments URL: https://news.ycombinator.com/item?id=50072120\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-13T14:14:23+00:00"
     },
     {
       "title": "Why one hedge-fund billionaire believes stocks are heading for a ‘really challenging’ 2027",
@@ -1052,6 +1100,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-13T12:26:36+00:00"
+    },
+    {
+      "title": "Worlds More Habitable Than Earth? They're Out There",
+      "link": "https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html\nComments URL: https://news.ycombinator.com/item?id=50070554\nPoints: 7\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-13T12:23:34+00:00"
     },
     {
       "title": "Bulgaria suggests Russia behind ship attack that left 11 sailors missing",
