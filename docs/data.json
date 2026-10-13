@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T07:38:48.953325+00:00",
+  "generated_at": "2026-10-13T07:59:37.534838+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -686,6 +686,22 @@
   ],
   "items": [
     {
+      "title": "原油調達「脱ホルムズ」へ　政府が3法案、迂回ルートに交付金",
+      "link": "https://www.asahi.com/articles/ASVBF2FRPVBFULFA00DM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-13T07:59:31.869246+00:00"
+    },
+    {
+      "title": "European Gas Prices at Highest Since Late 2022 on Winter Supply Concerns",
+      "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-at-highest-since-late-2022-on-winter-supply-concerns-08c3ad4d?mod=rss_markets_main",
+      "summary": "European natural-gas prices climbed to their highest level since December 2022.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-13T07:41:00+00:00"
+    },
+    {
       "title": "福岡県議会、金銭授受疑惑の百条委議案を提出",
       "link": "https://www.jiji.com/jc/article?k=2026101300656&g=pol&m=rss",
       "summary": "",
@@ -1110,6 +1126,14 @@
       "published": "2026-10-13T02:46:43+00:00"
     },
     {
+      "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
+      "link": "https://www.argmin.net/p/faster-fourier-transforms",
+      "summary": "Article URL: https://www.argmin.net/p/faster-fourier-transforms\nComments URL: https://news.ycombinator.com/item?id=50065932\nPoints: 112\n# Comments: 73",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-13T02:46:43+00:00"
+    },
+    {
       "title": "簗和生農林水産相「予算カット」発言で陳謝",
       "link": "https://www.jiji.com/jc/article?k=2026101300221&g=pol&m=rss",
       "summary": "",
@@ -1233,6 +1257,14 @@
       "title": "AI Models Can Provably Hide Arbitrary Capabilities",
       "link": "https://arxiv.org/abs/2610.13928",
       "summary": "Article URL: https://arxiv.org/abs/2610.13928\nComments URL: https://news.ycombinator.com/item?id=50065692\nPoints: 15\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-13T02:07:08+00:00"
+    },
+    {
+      "title": "AI models can provably hide arbitrary capabilities",
+      "link": "https://arxiv.org/abs/2610.13928",
+      "summary": "Article URL: https://arxiv.org/abs/2610.13928\nComments URL: https://news.ycombinator.com/item?id=50065692\nPoints: 182\n# Comments: 97",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-13T02:07:08+00:00"
@@ -2828,6 +2860,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-12T14:28:00+00:00"
+    },
+    {
+      "title": "ctsh.o - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKVFNLRm5fb29MQnB3SE52dEZMcjFXZWw0MU9pQ2V6aHNkaWpSREJxMjI1aE8xU3NEbGpMNkRWai1ya2psV1Rvdnd3OXRTdnhUQklnWU9YMzMtckRNSDVKNjN2VF9xak9HUmphdElUM1dLY1BYdENxb1hFeTJPWkk?oc=5",
+      "summary": "ctsh.o&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-12T14:22:16+00:00"
     },
     {
       "title": "Solar Panels That Plug into Your Wall Are About to Be Everywhere",
