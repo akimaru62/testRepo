@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T21:06:57.363486+00:00",
+  "generated_at": "2026-10-13T21:21:55.436865+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -690,6 +690,46 @@
   ],
   "items": [
     {
+      "title": "村上「挑戦者のつもりで」　プロ野球ＣＳ・阪神",
+      "link": "https://www.jiji.com/jc/article?k=2026101400141&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-13T21:21:49.407913+00:00"
+    },
+    {
+      "title": "ロシア当局は、道新記者がウクライナ侵攻の動員兵の情報を集めていたと主張した",
+      "link": "https://www.jiji.com/jc/article?k=2026101400142&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-13T21:21:49.407897+00:00"
+    },
+    {
+      "title": "ロシア、道新記者を「スパイ容疑」で拘束　動員兵の情報収集と主張―「日本が記者利用」と遺憾表明",
+      "link": "https://www.jiji.com/jc/article?k=2026101400156&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-13T21:21:49.407868+00:00"
+    },
+    {
+      "title": "首相動静（１０月１３日）",
+      "link": "https://www.jiji.com/jc/article?k=2026101300188&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-13T21:21:49.407829+00:00"
+    },
+    {
+      "title": "U.S. Stocks Tick Down as Bank Earnings Don’t Excite",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-tick-down-as-bank-earnings-dont-excite-40b1934e?mod=rss_markets_main",
+      "summary": "It was a sluggish day for U.S. stock movements, as early bank earnings failed to quash broader concerns about inflation and Fed rate hikes.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-13T21:07:00+00:00"
+    },
+    {
       "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
       "link": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
       "summary": "Anticipation is building for Anthropic’s investor day, as Wall Street grows less patient with heavy AI spending.",
@@ -768,6 +808,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-10-13T21:00:00+00:00"
+    },
+    {
+      "title": "US indicts Saudi employee of OpenAI for allegedly bugging its offices",
+      "link": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1",
+      "summary": "AI lab discovered recording device and reported it to the FBI",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-13T20:54:58+00:00"
     },
     {
       "title": "Bank of America to Pay $1.21 Billion to Settle Violations of Money Laundering, Sanctions laws",
