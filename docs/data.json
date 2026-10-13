@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T23:34:05.229038+00:00",
+  "generated_at": "2026-10-13T23:47:49.223729+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -698,6 +698,22 @@
       "published": "2026-10-13T23:34:00.802761+00:00"
     },
     {
+      "title": "アップルが新型スマートホームデバイス｢HomeView｣を発表…価格は299ドル（約4万7000円）で11月13日に発売 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961079?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "アップルが新たに発表した｢HomeView｣は､AI音声アシスタントや顔認識機能を備えたスマートホームの中核デバイスです。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-13T23:31:00+00:00"
+    },
+    {
+      "title": "｢激ムズ漢字もスラスラ読む｣外国人夫が\"いつも間違えてしまう\"意外な日本語…漫画『ダーリンは外国人2 リマスター版』 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960108?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "同居人が一番身近な異文化でした――。シリーズ300万部の大ヒット作品、『ダーリンは外国人』が24年の時を経て、デジタル改稿＆オールカラーになって帰ってきた！ 「国際結婚はロマンティックでアモーレな世…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-13T23:30:00+00:00"
+    },
+    {
       "title": "米ＦＲＢ、１０月利上げ後退　議長に代わり高官発信強める",
       "link": "https://www.jiji.com/jc/article?k=2026101300647&g=int&m=rss",
       "summary": "",
@@ -738,6 +754,14 @@
       "published": "2026-10-13T23:21:22.692835+00:00"
     },
     {
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "link": "https://pulseos.finance",
+      "summary": "Hi HN, I'm Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledger and your questions stay on the machine, and the app sends no analytics or crash logs.I felt there are not enough consumer apps that run locally with no calls to the outside world that help us manage sensitive corners of our lives. This app in its local variant only downloads a couple of models and occasional updates, it does not send any analytics nor data.Features-wise, Pulse local is a complete budgeting app that offers an assistant built on top of a fine-tuned model and thousands of rules embedded in the code itself. I'm sharing it for free with options to help me continue experimenting with fine-tuning and expanding along this direction.How it works: you import a CSV from any bank, in any currency. When you ask a question, a tuned Qwen3 0.6B model reads it into a structured query, and code, not the model, does the money math against the ledger. A 4B checker model double-checks each money answer; when the two readings disagree, the app says it is not sure instead of guessing. That change took wrong answers from about one in five to 5 in 494 questions across our last three tests. The write-up covers how we test, the designs that failed, and the limits of the claim: https://pulseos.finance/pulse-local/writing/agree-or-not-sur...The tuned weights are on Hugging Face (PulseOS/pulse-local-qwen3-0.6b).Limitations: the first start downloads about 2.9 GB of models. With the checker on, a money answer takes 12 to 14 seconds (you can turn the checker off). Small models can still misread an open-ended question. The app answers in English. Mac only for now; Windows is next.The app is free. An optional Connected mode (Sync Pass, $29/year) syncs US banks through Plaid; transactions pass through our server's memory and are not stored.Feedback welcome, especially on wrong answers and on questions it should handle but does not.\n\nComments URL: https://news.ycombinator.com/item?id=50080275\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-13T23:13:23+00:00"
+    },
+    {
       "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
       "link": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
       "summary": "Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries.",
@@ -750,6 +774,14 @@
       "link": "https://toyokeizai.net/articles/-/959844?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "仕事や家事に毎日追われ、生活がどんどん雑になっていく――。「丁寧な生活」が美しいとされる風潮もある中、自らの「丁寧とは言えない暮らし」に、なんだか後ろめたいような、モヤモヤした思いを持つ人も少なくな…",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-13T23:00:00+00:00"
+    },
+    {
+      "title": "なぜ、Webシステムからの情報漏えいが多発？　マクニカの解説ブログが話題　“今できる3つの防衛策”とは",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/14/news035.html",
+      "summary": "国内でWebシステムを狙ったサイバー攻撃による情報漏えいが急増している。被害が相次ぐ背景と攻撃手法、企業が押さえたい対策を解説する。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-10-13T23:00:00+00:00"
     },
@@ -1712,6 +1744,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-13T14:44:00+00:00"
+    },
+    {
+      "title": "600985.SS - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTm8xTmRfR244ZDluaWJ2cDhYWWdIZW0yeHR2Uk5MMGZLRXdyWDdia0ZvcWtCZDZBVUtKRFlDbzVXQjlJdlYzV2JzRDBFWVVZRThNaEFRRE04UUFvbmoxNDBFYlNFVEhqeVhpZ3RDZ2xjS3VVaWZVQ3o1ZnA5SGtqNTZIdU1wNHc5d0VSbmx3?oc=5",
+      "summary": "600985.SS - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-13T14:35:11+00:00"
     },
     {
       "title": "Stopping business email compromise with AI-driven email security: How VIPRE protects modern enterprises on AWS",
@@ -2941,6 +2981,14 @@
       "title": "Stock Market Today: Stocks Slip Despite Solid Wall Street Results",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026?mod=rss_markets_main",
       "summary": "AI jitters hit chip stocks",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-13T08:14:38+00:00"
+    },
+    {
+      "title": "Stock Market News, Oct. 13, 2026: Stocks Slip Despite Solid Wall Street Results",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026?mod=rss_markets_main",
+      "summary": "AI jitters hit chip shares, with Micron falling 3.6%",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-13T08:14:38+00:00"
