@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T03:04:33.696748+00:00",
+  "generated_at": "2026-10-13T03:37:03.076914+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -686,12 +686,100 @@
   ],
   "items": [
     {
+      "title": "簗和生農林水産相「非常に負担かけ申し訳ない」　国会対応の職員に対し―予算カット問題で",
+      "link": "https://www.jiji.com/jc/article?k=2026101300292&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-13T03:36:58.525240+00:00"
+    },
+    {
+      "title": "今年の世界成長、３．１％　ＡＩ投資ブームで引き上げ",
+      "link": "https://www.jiji.com/jc/article?k=2026101300382&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-13T03:36:58.525233+00:00"
+    },
+    {
+      "title": "ノーベル平和賞ピレイ氏、ＩＣＣ訪問　米制裁下で激励、赤根氏は祝福",
+      "link": "https://www.jiji.com/jc/article?k=2026101300396&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-13T03:36:58.525225+00:00"
+    },
+    {
+      "title": "高市首相、ＩＣＣ「今後も支持」",
+      "link": "https://www.jiji.com/jc/article?k=2026101300331&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-13T03:36:58.525216+00:00"
+    },
+    {
+      "title": "関芳弘・文科相、議員会館でパーティー開催　「今後ないよう猛省」",
+      "link": "https://www.jiji.com/jc/article?k=2026101300311&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-13T03:36:58.525185+00:00"
+    },
+    {
+      "title": "Asian Stocks Battered as Geopolitical Tensions Sap Risk Appetite",
+      "link": "https://www.wsj.com/finance/stocks/asian-stocks-battered-as-geopolitical-tensions-sap-risk-appetite-5b3ebd81?mod=rss_markets_main",
+      "summary": "Asian stocks dropped, tracking the weakness in U.S. technology stocks, as simmering geopolitical tensions continued to weigh on appetite for risky assets.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-13T03:04:00+00:00"
+    },
+    {
+      "title": "オムロン 米のPCメーカー買収",
+      "link": "https://news.yahoo.co.jp/pickup/6598600?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-13T03:03:46+00:00"
+    },
+    {
+      "title": "4000万円超でもエントリーモデルという位置づけ…フェラーリ｢アマルフィ スパイダー｣が示すオープンスポーツカー像 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960191?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "昨年登場したフェラーリ｢アマルフィ｣に続き､注目の｢アマルフィ スパイダー｣がデビュー。高額なプライスタグながら\"エントリーモデル\"と呼ばれるその真意とは？",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-13T03:00:00+00:00"
+    },
+    {
+      "title": "Chip stocks slide as fears mount over scale of AI investment",
+      "link": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
+      "summary": "‘Casino’ comments by Broadcom boss help push Samsung and SK Hynix down sharply in Seoul",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-13T02:58:54+00:00"
+    },
+    {
       "title": "Offshore Yuan Steady Vs. Dollar Ahead of Major Chinese Economic Data",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-safe-haven-demand-for-greenback-c51874b4?mod=rss_markets_main",
       "summary": "The offshore yuan was steady against the dollar ahead of major Chinese economic data due Wednesday.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-13T02:57:00+00:00"
+    },
+    {
+      "title": "NAZA: Netanyahu orders identification and prosecution of film's interviewees",
+      "link": "https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film",
+      "summary": "Article URL: https://www.theguardian.com/film/2026/oct/12/naza-netanyahu-orders-identification-prosecution-interviewees-documentary-film\nComments URL: https://news.ycombinator.com/item?id=50065972\nPoints: 20\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-13T02:51:50+00:00"
+    },
+    {
+      "title": "OpenAI algorithm for the FFT is less a breakthrough and more a malicious exploit",
+      "link": "https://www.argmin.net/p/faster-fourier-transforms",
+      "summary": "Article URL: https://www.argmin.net/p/faster-fourier-transforms\nComments URL: https://news.ycombinator.com/item?id=50065932\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-13T02:46:43+00:00"
     },
     {
       "title": "簗和生農林水産相「予算カット」発言で陳謝",
@@ -886,6 +974,14 @@
       "published": "2026-10-13T00:47:00+00:00"
     },
     {
+      "title": "CABL.KW - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcldOeEN0OTE4SkdaQkpYWUZ5M2FtZVVLWlphRi1pZVB1QjFHbnJNcEhjdXJ5RlExSHVsdWJrY3FORHpPVkdFLTAwRHpwQnpEVXRCUl9WNDYyZ1J1dkw4bFpXdEZ4dHJVeUlZTFd4NzZCcUh6QlZrYTV4WjMzVE9IZFZR?oc=5",
+      "summary": "CABL.KW - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-13T00:34:44+00:00"
+    },
+    {
       "title": "ノーベル経済学賞､米大教授2人に　授賞理由は｢マクロ経済の安定化に関するミクロ経済学的基盤｣ | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/960943?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "2026年ノーベル経済学賞が与えられるスタンフォード大のホール教授とコロンビア大のウッドフォード教授は､ミクロの視点から経済政策モデルを革新しました。",
@@ -937,6 +1033,14 @@
       "title": "China faces uphill battle to wean tech firms off Nvidia chips",
       "link": "https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098?syn-25a6b1a6=1",
       "summary": "The country’s tech giants are snapping up products never designed to power advanced AI to satisfy soaring computing demands",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-13T00:15:06+00:00"
+    },
+    {
+      "title": "China resorts to Nvidia gaming chips in search for AI firepower",
+      "link": "https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098?syn-25a6b1a6=1",
+      "summary": "The country’s tech giants are snapping up products never designed for advanced AI to satisfy soaring computing demands",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-13T00:15:06+00:00"
@@ -2836,6 +2940,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-12T10:05:20+00:00"
+    },
+    {
+      "title": "snoa.o - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONElKTUR5Um9oU3haUmpHOWw4UVpYVEFrWXFmNGxXYTc1RlpsZzdRVWdfU2FFTlRQQ1J3QUE1QnVwa2FNMF9jMEhaNUU5UTNaMTFSQXV3LXdydDFlaGFzZmtmejhyeUdtNzdqTFpqZDRrRmxnZjh1WlZjeDE1WlkxaWxYMC14aUlhMHN3LQ?oc=5",
+      "summary": "snoa.o&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-12T10:04:49+00:00"
     },
     {
       "title": "145210F.KS - | Stock Price & Latest News | Reuters - ロイター",
