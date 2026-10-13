@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T04:02:32.136144+00:00",
+  "generated_at": "2026-10-13T04:36:51.394841+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -686,6 +686,86 @@
   ],
   "items": [
     {
+      "title": "革命防衛隊指示「ほぼ確実」　基地テロ準備、３０カ国超がイラン非難―英首相",
+      "link": "https://www.jiji.com/jc/article?k=2026101300417&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-13T04:36:45.578062+00:00"
+    },
+    {
+      "title": "玉木氏、旧民主再結集「考えず」",
+      "link": "https://www.jiji.com/jc/article?k=2026101300473&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-13T04:36:45.578046+00:00"
+    },
+    {
+      "title": "米国務省、中国の威圧に反対",
+      "link": "https://www.jiji.com/jc/article?k=2026101300461&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-13T04:36:45.578015+00:00"
+    },
+    {
+      "title": "オムロン、米国PCメーカーを1千億円で買収へ　フィジカルAI強化",
+      "link": "https://www.asahi.com/articles/ASVBF13CDVBFPLFA002M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-13T04:36:45.451271+00:00"
+    },
+    {
+      "title": "「生活意識に関するアンケート調査」（第107回）の結果",
+      "link": "http://www.boj.or.jp/research/o_survey/ishiki2610.htm",
+      "summary": "",
+      "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-10-13T04:30:00+00:00"
+    },
+    {
+      "title": "Investors brave US Treasury rout to lock in highest yields in decades",
+      "link": "https://www.ft.com/content/6fa735a2-a590-4461-b092-920ba489e7a8?syn-25a6b1a6=1",
+      "summary": "Government bond funds are attracting record inflows as borrowing costs hit their highest level in decades",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-13T04:00:28+00:00"
+    },
+    {
+      "title": "EU hybrid curbs to offer only ‘temporary’ respite against Chinese carmakers",
+      "link": "https://www.ft.com/content/c913d391-f4e2-439c-82d6-8f6205b31b0f?syn-25a6b1a6=1",
+      "summary": "Some western executives warn that the measures will only briefly protect European companies",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-13T04:00:28+00:00"
+    },
+    {
+      "title": "The election supercycle set to drag Europe right",
+      "link": "https://www.ft.com/content/ec433e1f-bdb4-4a1c-868e-e1c7c4121f45?syn-25a6b1a6=1",
+      "summary": "In the space of 12 months, four of the five biggest EU member states will go to the ballot box. The bloc may never be the same",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-13T04:00:19+00:00"
+    },
+    {
+      "title": "Why Trump is going for Zelenskyy’s jugular",
+      "link": "https://www.ft.com/content/1724a30e-cf50-4a4e-ade8-bca72ea4b9a1?syn-25a6b1a6=1",
+      "summary": "No matter how much America’s allies urge the president to back Ukraine, he cannot forgive its leader for showing up his dealmaking impotence",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-13T04:00:19+00:00"
+    },
+    {
+      "title": "Who’s really hiring you — HR or cyber security?",
+      "link": "https://www.ft.com/content/16e1d29b-3680-4712-b8e7-ed4a4125041a?syn-25a6b1a6=1",
+      "summary": "Fraudulent use of AI in the jobs process is forcing the warm and fuzzy realms of the former to work with the suspicious minds of the latter",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-13T04:00:19+00:00"
+    },
+    {
       "title": "Chip stocks slide in wake of ‘casino’ comment by Broadcom boss",
       "link": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
       "summary": "Declines for Samsung and SK Hynix drag Kospi sharply lower as investors fret over scale of AI investment",
@@ -732,6 +812,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-13T03:36:58.525185+00:00"
+    },
+    {
+      "title": "Asia warned over zombie companies",
+      "link": "https://www.ft.com/content/ee4105fc-aa85-47ef-aa64-1fc3f344d740?syn-25a6b1a6=1",
+      "summary": "Share of groups unable to service debt in region has doubled since 2008, IMF says",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-13T03:19:11+00:00"
     },
     {
       "title": "Asian Stocks Battered as Geopolitical Tensions Sap Risk Appetite",
@@ -785,6 +873,14 @@
       "title": "OpenAI algorithm for the FFT is less a breakthrough and more a malicious exploit",
       "link": "https://www.argmin.net/p/faster-fourier-transforms",
       "summary": "Article URL: https://www.argmin.net/p/faster-fourier-transforms\nComments URL: https://news.ycombinator.com/item?id=50065932\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-13T02:46:43+00:00"
+    },
+    {
+      "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
+      "link": "https://www.argmin.net/p/faster-fourier-transforms",
+      "summary": "Article URL: https://www.argmin.net/p/faster-fourier-transforms\nComments URL: https://news.ycombinator.com/item?id=50065932\nPoints: 53\n# Comments: 34",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-13T02:46:43+00:00"
@@ -854,6 +950,14 @@
       "published": "2026-10-13T02:39:35+00:00"
     },
     {
+      "title": "vnet.oq - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRjhfVHpBdzQydEZCbjlUMkhPWTJkdGd1cnYwRTNHWEY1d2Z0NGdHcWl5WmlYT0t6UVhNa0dRVWh6RnZyNnRIZVNHYkZmaHRwakRkWWJuaE9GMjhVaXFqYzRmT1ZURTZwLTRiM282S21EOExQd2hTc1kwUzA4Sl85UkhR?oc=5",
+      "summary": "vnet.oq - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-13T02:31:58+00:00"
+    },
+    {
       "title": "数日かかる他社調査を無料AIで30分に短縮し有報を読み比べ会議資料まで作成､サステナビリティ担当者のAI活用術② | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/959271?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "｢他社はどこまで開示しているのか｣──役員会前日に担当取締役から急に聞かれても慌てない。無料AIで有報を集めて読み比べ､根拠を1次情報で確かめ､会議資料にまとめるまでを30分弱でこなす手順を､加美山…",
@@ -876,6 +980,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-10-13T02:19:22+00:00"
+    },
+    {
+      "title": "The Dock on Mac, from OS 10 to macOS 27",
+      "link": "https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/",
+      "summary": "Article URL: https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/\nComments URL: https://news.ycombinator.com/item?id=50065713\nPoints: 14\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-13T02:09:19+00:00"
     },
     {
       "title": "AI Models Can Provably Hide Arbitrary Capabilities",
@@ -1556,6 +1668,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-12T20:39:00+00:00"
+    },
+    {
+      "title": "Franco-German deal on EU car policy is ‘imminent’, says Macron",
+      "link": "https://www.ft.com/content/af0a5da6-abc7-41ab-85cf-da806fc7a6e5?syn-25a6b1a6=1",
+      "summary": "Agreement would push back Europe’s phaseout of combustion engines and boost car production on the continent to combat Chinese competition",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-12T20:38:08+00:00"
     },
     {
       "title": "「管理職になんてなりたくない！」って本当？　そのワケと「なりたくなる組織」の作り方",
@@ -2684,6 +2804,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-12T11:53:16+00:00"
+    },
+    {
+      "title": "jpfa.jk - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMjJmdXY0bTV0YS1JeDNuY3FTTkE5cmVmQmxUQWw4TFcxTmJCN0lMLXQ2OVdNUXhJYTctNDRuQnVvRmxIckdTc082a21CZmU5Q210bXFZRjFCeTZxUlU1LWpiMDI1WG1qX2dxLWo5c2d6Wkk0QldiTC1hNDRkWGlhbW8xcEI4UQ?oc=5",
+      "summary": "jpfa.jk&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-12T11:52:27+00:00"
     },
     {
       "title": "9258.ODX - | Stock Price & Latest News | Reuters - ロイター",
@@ -5268,6 +5396,14 @@
       "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-10-11T20:30:00+00:00"
+    },
+    {
+      "title": "Amazon in Talks to Buy AI Startup Decart for Around $7 Billion",
+      "link": "https://www.wsj.com/business/deals/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-9433abad?mod=rss_markets_main",
+      "summary": "The San Francisco company’s software makes it easier for developers to switch between different AI chips.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-11T20:26:00+00:00"
     },
     {
       "title": "GLA1Vhrt.CHI - | Stock Price & Latest News | Reuters - ロイター",
