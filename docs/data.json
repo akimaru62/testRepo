@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T08:33:45.340937+00:00",
+  "generated_at": "2026-10-13T08:59:48.820244+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -718,6 +718,38 @@
       "published": "2026-10-13T17:00:00+00:00"
     },
     {
+      "title": "EU、中国製ハイブリッド車を緊急輸入制限　年80万台→35万台",
+      "link": "https://www.asahi.com/articles/ASVBF2CCQVBFUHBI00QM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-13T08:59:42.986716+00:00"
+    },
+    {
+      "title": "収入「増えた」「減った」の差が過去最少　生活意識に関する9月調査",
+      "link": "https://www.asahi.com/articles/ASVBF2PKZVBFULFA012M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-13T08:59:42.986685+00:00"
+    },
+    {
+      "title": "Nasdaq Futures Fall as Global AI Selloff Intensifies",
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-global-ai-selloff-intensifies-fe149717?mod=rss_markets_main",
+      "summary": "Nasdaq futures fell sharply as a selloff in AI stocks intensified amid heightened fears of Chinese competition, while a fall in oil prices and safe-haven demand provided some relief for Treasury yields.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-13T08:42:00+00:00"
+    },
+    {
+      "title": "Where is all the new, good software?",
+      "link": "https://www.natemeyvis.com/where-is-all-the-new-good-software/",
+      "summary": "Article URL: https://www.natemeyvis.com/where-is-all-the-new-good-software/\nComments URL: https://news.ycombinator.com/item?id=50068510\nPoints: 7\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-13T08:34:35+00:00"
+    },
+    {
       "title": "１４日の予告先発投手　プロ野球セ・リーグＣＳ",
       "link": "https://www.jiji.com/jc/article?k=2026101300724&g=spo&m=rss",
       "summary": "",
@@ -742,12 +774,28 @@
       "published": "2026-10-13T08:33:40.663700+00:00"
     },
     {
+      "title": "Cyber attack on French supermarket fridges raises alarm over food security",
+      "link": "https://www.ft.com/content/6908a0ce-ffdd-4ea9-b376-d35d362639f3?syn-25a6b1a6=1",
+      "summary": "Hackers disrupt refrigeration systems and spoil food at several hundred stores",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-13T08:29:31+00:00"
+    },
+    {
       "title": "Was Broadcom CEO bullish or bearish on AI? ‘Gamblers’ comment creates storm",
       "link": "https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories",
       "summary": "The comments made by Broadcom’s CEO at a conference in Singapore have been cited as a reason for microchip stocks’ slumps on both Monday and Tuesday.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-13T08:29:00+00:00"
+    },
+    {
+      "title": "Document Review with Unsiloed and TypeSafe Jev",
+      "link": "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev",
+      "summary": "Article URL: https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev\nComments URL: https://news.ycombinator.com/item?id=50068443\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-13T08:24:51+00:00"
     },
     {
       "title": "Euro Undervalued Vs Dollar, at Risk of Further Losses",
@@ -2742,6 +2790,22 @@
       "published": "2026-10-12T15:56:19+00:00"
     },
     {
+      "title": "MBHB.BU - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONmU1aER0alpvMHhpQVI2cXZRUUFZc0k0TWxndGdBdUxsU3FaYWU3NDhELU9DQms1c1FfMm9UeXdXRndqbzdOSVBvUl9XTXJPVlBZTENaQ2txSXRmNUNuMzBtZEhKT29sVHBkTnduU0VrMmtndTVoeDYwejAzUlNRaUcwRQ?oc=5",
+      "summary": "MBHB.BU&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-12T15:50:38+00:00"
+    },
+    {
+      "title": "pso.n - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fWmsyQWloaU9sYXRQWU1UYlJMbWpTbzFsa0Q2LTh4TG9aMjVuM28wb2Y2djljUHBnS0VXWjhrNGl2VVRvNlVyeGZOZ1FfR2pJdFFvanhqM19RelozWkRWSG92VFhESkp6LWE2b1VoQVNfUEJiTXNj?oc=5",
+      "summary": "pso.n - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-12T15:48:37+00:00"
+    },
+    {
       "title": "Here’s how much extra money could be in your monthly Social Security check next year",
       "link": "https://www.marketwatch.com/story/heres-how-much-extra-money-could-be-in-your-monthly-social-security-check-next-year-2e0c4eb8?mod=mw_rss_topstories",
       "summary": "Social Security’s cost-of-living adjustment will boost retirees’ monthly budgets. But will it be enough?",
@@ -2828,6 +2892,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-12T15:23:03.470432+00:00"
+    },
+    {
+      "title": "2425stat.HK - | Stock Price & Latest News - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPajhVdkN3NEtwWWh5cVRORWxHcW0yUGdvOHN6aHFDNzFmSkFESUNFbzFmNEx3Q2o0WUFJeFJwdVh2VFBGU2dOY0UxdVlOdjZpSzVXQWMxa1dMMzdNUm9rSmFJdWpiY3dhcDBOcURRdWg1WF9Od2FTaFA0dXZUeW9vMjQ0cjBJTkUx?oc=5",
+      "summary": "2425stat.HK - | Stock Price & Latest News&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-12T15:18:29+00:00"
     },
     {
       "title": "P4L.D - | Stock Price & Latest News | Reuters - ロイター",
