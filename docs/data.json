@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T22:47:23.429014+00:00",
+  "generated_at": "2026-10-13T23:06:23.890548+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -690,6 +690,22 @@
   ],
   "items": [
     {
+      "title": "｢五度寝したらもう夜…｣休日の\"ガンガン頭痛\"に悩む人が行き着いた｢最高の三度寝･五度寝｣を迎える悪あがきルーティン | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959844?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "仕事や家事に毎日追われ、生活がどんどん雑になっていく――。「丁寧な生活」が美しいとされる風潮もある中、自らの「丁寧とは言えない暮らし」に、なんだか後ろめたいような、モヤモヤした思いを持つ人も少なくな…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-13T23:00:00+00:00"
+    },
+    {
+      "title": "朝ドラ《ブラッサム》でも話題になった\"青鞜\"…創刊した｢平塚らいてう｣の女性たちの背中を押す生き方 | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960569?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "朝ドラ｢ブラッサム｣でも登場した､平塚らいてうの｢青鞜｣。らいてうはどんな人生を送ったのでしょうか。ドラマをより楽しめる､歴史的背景を紹介します。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-13T22:45:00+00:00"
+    },
+    {
       "title": "Running Qwen3.8 at 255 tok/s on a single 5090",
       "link": "https://meshapplied.com",
       "summary": "Article URL: https://meshapplied.com\nComments URL: https://news.ycombinator.com/item?id=50079842\nPoints: 5\n# Comments: 0",
@@ -760,6 +776,22 @@
       "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-10-13T22:00:00+00:00"
+    },
+    {
+      "title": "AlphaNIST",
+      "link": "https://alpha-nist.github.io/",
+      "summary": "Article URL: https://alpha-nist.github.io/\nComments URL: https://news.ycombinator.com/item?id=50079464\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-13T21:57:29+00:00"
+    },
+    {
+      "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
+      "link": "https://www.pi.website/blog/api-beta",
+      "summary": "Article URL: https://www.pi.website/blog/api-beta\nComments URL: https://news.ycombinator.com/item?id=50079437\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-13T21:55:25+00:00"
     },
     {
       "title": "ロシアFSBが北海道新聞の日本人記者をスパイ容疑で拘束…同国の防衛能力に関する情報を収集･保存していたと主張 | 政治・経済・投資 | 東洋経済オンライン",
@@ -933,6 +965,14 @@
       "title": "US indicts Saudi employee of OpenAI for allegedly bugging its offices",
       "link": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1",
       "summary": "AI lab discovered recording device and reported it to the FBI",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-13T20:54:58+00:00"
+    },
+    {
+      "title": "US arrests Saudi employee of OpenAI for allegedly bugging its offices",
+      "link": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1",
+      "summary": "AI lab discovered a recording device concealed behind a television in a conference room",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-13T20:54:58+00:00"
