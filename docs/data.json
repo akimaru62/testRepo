@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T17:07:49.642445+00:00",
+  "generated_at": "2026-10-13T17:26:28.083617+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -690,6 +690,38 @@
   ],
   "items": [
     {
+      "title": "How to read your body’s warning signs years before you get sick",
+      "link": "https://www.marketwatch.com/story/how-to-read-your-bodys-warning-signs-years-before-you-get-sick-3fb8c82d?mod=mw_rss_topstories",
+      "summary": "Most of us don’t just want to live longer lives. We want to live longer and healthier lives.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-13T17:22:00+00:00"
+    },
+    {
+      "title": "AST SpaceMobile’s stock is feeling the heat from SpaceX’s wireless plans",
+      "link": "https://www.marketwatch.com/story/ast-spacemobiles-stock-is-feeling-the-heat-from-spacexs-wireless-plans-7e2fafb4?mod=mw_rss_topstories",
+      "summary": "AST’s commercial rollout could face delays due to satellite-launch challenges and SpaceX’s growing ambitions, an analyst warns.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-13T17:18:00+00:00"
+    },
+    {
+      "title": "Who should pay for my birthday dinner — me, or my guests?",
+      "link": "https://www.marketwatch.com/story/who-should-pay-for-a-birthday-dinner-i-always-treat-my-guests-5bbd1880?mod=mw_rss_topstories",
+      "summary": "“I just end up paying for other people’s birthday dinners a lot, as well as my own, which is an imbalance.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-13T17:14:00+00:00"
+    },
+    {
+      "title": "Coris (YC S22) Is Hiring Back End Engineer",
+      "link": "https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations",
+      "summary": "Article URL: https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations\nComments URL: https://news.ycombinator.com/item?id=50074969\nPoints: 0\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-13T17:00:39+00:00"
+    },
+    {
       "title": "「預貯金者の意思に基づく個人番号の利用による預貯金口座の管理等に関する法律第十七条の規定に基づき金融機関を定める件」の一部改正について公表しました。",
       "link": "https://www.fsa.go.jp/news/r8/sonota/20261013/20261013.html",
       "summary": "",
@@ -722,12 +754,36 @@
       "published": "2026-10-13T17:00:00+00:00"
     },
     {
+      "title": "Gemini 4 Argon for Robotics",
+      "link": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+      "summary": "Article URL: https://developers.googleblog.com/gemini-4-argon-for-robotics/\nComments URL: https://news.ycombinator.com/item?id=50074869\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-13T16:55:47+00:00"
+    },
+    {
       "title": "AI fatigue is gripping the market and driving chip stocks toward their worst stretch in 16 months",
       "link": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
       "summary": "Anticipation is building for Anthropic’s investor day as Wall Street grows less patient with heavy AI spending.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-13T16:52:00+00:00"
+    },
+    {
+      "title": "Will bank earnings growth become a thing of the past?",
+      "link": "https://www.ft.com/content/9f6ec5b2-4f0b-4ed3-9541-588d49e3ad7e?syn-25a6b1a6=1",
+      "summary": "It would be foolish to think the Wall Street giants can’t outrun the threat of AI",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-13T16:49:43+00:00"
+    },
+    {
+      "title": "Americans Trust in Federal Government Sinks to New Depths",
+      "link": "https://news.gallup.com/poll/715361/trust-federal-government-sinks-new-depths.aspx",
+      "summary": "Article URL: https://news.gallup.com/poll/715361/trust-federal-government-sinks-new-depths.aspx\nComments URL: https://news.ycombinator.com/item?id=50074739\nPoints: 18\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-13T16:48:18+00:00"
     },
     {
       "title": "高市首相はＩＣＣについて「今後も支持する」と述べた",
@@ -784,6 +840,14 @@
       "source": "AWS ブログ (AWS)",
       "category": "テクノロジー",
       "published": "2026-10-13T15:59:06+00:00"
+    },
+    {
+      "title": "Redesigning Source Control at Anthropic",
+      "link": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "summary": "Article URL: https://www.anthropic.com/engineering/redesigning-source-control\nComments URL: https://news.ycombinator.com/item?id=50073633\nPoints: 40\n# Comments: 10",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-13T15:49:56+00:00"
     },
     {
       "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
