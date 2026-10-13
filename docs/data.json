@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T21:21:55.436865+00:00",
+  "generated_at": "2026-10-13T21:34:21.606455+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -690,6 +690,30 @@
   ],
   "items": [
     {
+      "title": "九州新幹線 全線で運転再開",
+      "link": "https://news.yahoo.co.jp/pickup/6598672?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-13T21:30:25+00:00"
+    },
+    {
+      "title": "Scope workloads and share resilience policies with AWS Resilience Hub",
+      "link": "https://aws.amazon.com/blogs/architecture/scope-workloads-and-share-resilience-policies-with-aws-resilience-hub/",
+      "summary": "The next generation of AWS Resilience Hub adds three capabilities to keep workload scope and resilience requirements aligned with your running environment: Amazon EKS label support for service input sources, generative AI-powered Dependency Insights, and resilience policy sharing through AWS Organizations.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-10-13T21:30:10+00:00"
+    },
+    {
+      "title": "弁当のペラペラ化に｢日本は貧しくなった｣と嘆き…その中でも奮闘？≪イオン格安弁当≫3日連続で食べた\"正直な感想\" | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960977?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "物価高騰の中､SNSで話題の｢ペラペラ鮭弁当｣が象徴するように､格安弁当の\"薄さ\"に驚く声が広がっています。しかし限られたコストの中で､企業はどこまで努力しているのか。イオンの398円弁当を3日間食…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-13T21:30:00+00:00"
+    },
+    {
       "title": "村上「挑戦者のつもりで」　プロ野球ＣＳ・阪神",
       "link": "https://www.jiji.com/jc/article?k=2026101400141&g=spo&m=rss",
       "summary": "",
@@ -1120,6 +1144,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-13T17:43:05+00:00"
+    },
+    {
+      "title": "HELE.O - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaERlMWJCRi1rTUlERlViLVlYMjdKRFBTR0FhTmd2SGhtMGRfbWQ5Rld2UzNkcldOeDBsRG9tTDlWdDlzMEpvNlZyN3NkdEpNc0RWZGF2SjB2ZVBiOUdNcGI5OXEwMXQzR0xiazNXTlRqZkhSSzJPdG1abmJzMV9BYkV2eGU0UUt5eHc?oc=5",
+      "summary": "HELE.O - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-13T17:33:49+00:00"
     },
     {
       "title": "How to read your body’s warning signs years before you get sick",
