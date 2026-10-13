@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T14:10:18.775121+00:00",
+  "generated_at": "2026-10-13T14:32:07.360225+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -716,6 +716,78 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-13T17:00:00+00:00"
+    },
+    {
+      "title": "わたなべまさこさん死去　漫画家",
+      "link": "https://www.jiji.com/jc/article?k=2026101300919&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-13T14:32:02.897635+00:00"
+    },
+    {
+      "title": "京都が初白星　Ｇ大阪と鹿島は２連勝―ＡＣＬサッカー",
+      "link": "https://www.jiji.com/jc/article?k=2026101300953&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-13T14:32:02.897598+00:00"
+    },
+    {
+      "title": "日本のGDP 来年世界6位の見込み",
+      "link": "https://news.yahoo.co.jp/pickup/6598666?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-13T14:25:23+00:00"
+    },
+    {
+      "title": "Bulk Executor for Amazon DynamoDB, Part 2: Lessons we learned the hard way",
+      "link": "https://aws.amazon.com/blogs/architecture/bulk-executor-for-amazon-dynamodb-part-2-lessons-we-learned-the-hard-way/",
+      "summary": "In Part 2 of our Bulk Executor for Amazon DynamoDB series, we share how we built the tool: the design tradeoffs, surprises, and workarounds we hit while working with DynamoDB and AWS Glue. Consider it a travel guide for anyone building their own bulk tooling on AWS Glue.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-10-13T14:23:33+00:00"
+    },
+    {
+      "title": "Who should pay for a birthday dinner? I always treat my guests.",
+      "link": "https://www.marketwatch.com/story/who-should-pay-for-a-birthday-dinner-i-always-treat-my-guests-5bbd1880?mod=mw_rss_topstories",
+      "summary": "“I feel like I just end up paying for other people’s birthday dinners a lot, as well as my own, which is an imbalance.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-13T14:17:00+00:00"
+    },
+    {
+      "title": "Dollar Pulls Back as Global Bond Pressure Eases",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-safe-haven-demand-for-greenback-c51874b4?mod=rss_markets_main",
+      "summary": "The U.S. dollar eased as pressure faded across global bond markets and Treasury yields receded, Infinox said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-13T14:15:00+00:00"
+    },
+    {
+      "title": "White House asks US envoy to Greece Kimberly Guilfoyle to resign",
+      "link": "https://www.ft.com/content/87a1a5a1-4942-47dd-856a-d9a694f7d2fd?syn-25a6b1a6=1",
+      "summary": "Donald Trump had said he was considering firing the ambassador after reports claiming she accepted improper gifts",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-13T14:14:57+00:00"
+    },
+    {
+      "title": "Why one hedge-fund billionaire believes stocks are heading for a ‘really challenging’ 2027",
+      "link": "https://www.marketwatch.com/story/why-one-hedge-fund-billionaire-believes-stocks-are-heading-for-a-really-challenging-2027-bb68f19e?mod=mw_rss_topstories",
+      "summary": "U.S. stocks could face a serious test in 2027 as a tsunami of new equity issuance threatens to upend the artificial-intelligence-driven bull market, according to hedge-fund billionaire Paul Tudor Jones.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-13T14:10:00+00:00"
+    },
+    {
+      "title": "Six Flags’ stock slumps toward 16-year low after fatal incident",
+      "link": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
+      "summary": "A fatal accident on a Six Flags Entertainment roller coaster sent shares of the amusement-park operator near the lowest level of the year.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-13T14:09:00+00:00"
     },
     {
       "title": "防衛力強化の対象に鉄道 実現性は",
