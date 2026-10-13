@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T18:11:25.998222+00:00",
+  "generated_at": "2026-10-13T18:35:32.663200+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -690,6 +690,22 @@
   ],
   "items": [
     {
+      "title": "Gold Futures Slip Ahead of U.S. CPI Data",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-markets-focus-on-u-s-data-bb4eb024?mod=rss_markets_main",
+      "summary": "Gold futures slipped in rangebound trade as the market awaits Wednesday’s U.S. consumer price inflation data and its implications for Fed interest-rate policy.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-13T18:18:00+00:00"
+    },
+    {
+      "title": "Gen Z renters are the only group more likely to feel successful by investing than buying a house",
+      "link": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories",
+      "summary": "“Instead of focusing on homeownership, many are prioritizing financial freedom and debt-free living.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-13T18:11:00+00:00"
+    },
+    {
       "title": "Municipal Bond Investors Face Elevated Risks From Rising Costs of Natural Disasters",
       "link": "https://www.wsj.com/finance/investing/municipal-bond-investors-face-elevated-risks-from-rising-costs-of-natural-disasters-66404839?mod=rss_markets_main",
       "summary": "Increased costs are forcing investors, already battered by the recent turbulence in global bond markets, to be more careful with one of the safest asset classes available.",
@@ -728,6 +744,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-13T17:44:00+00:00"
+    },
+    {
+      "title": "Show HN: XY Music Notation",
+      "link": "https://music.xy.dev/",
+      "summary": "I've been playing around with a new kind of isomorphic music keyboard that uses a base-12 notation, and wanted some sheet music to learn some new music for it.The idea is to represent each note in 12-TET as a number, so  N ∈ (0,1,2,3,4,5,6,7,8,9,X,Y).I used codex to build a music score rendering backend based on MuseScore with custom note heads that display the pitch class of each note.I've found it pretty helpful for learning how to play my own instrument, so wanted to share in case anyone else was interested.\n\nComments URL: https://news.ycombinator.com/item?id=50075665\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-13T17:43:05+00:00"
     },
     {
       "title": "How to read your body’s warning signs years before you get sick",
@@ -901,6 +925,14 @@
       "title": "Redesigning Source Control at Anthropic",
       "link": "https://www.anthropic.com/engineering/redesigning-source-control",
       "summary": "Article URL: https://www.anthropic.com/engineering/redesigning-source-control\nComments URL: https://news.ycombinator.com/item?id=50073633\nPoints: 40\n# Comments: 10",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-13T15:49:56+00:00"
+    },
+    {
+      "title": "Redesigning source control at Anthropic",
+      "link": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "summary": "Article URL: https://www.anthropic.com/engineering/redesigning-source-control\nComments URL: https://news.ycombinator.com/item?id=50073633\nPoints: 126\n# Comments: 96",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-13T15:49:56+00:00"
@@ -1309,6 +1341,14 @@
       "title": "Worlds More Habitable Than Earth? They're Out There",
       "link": "https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html",
       "summary": "Article URL: https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html\nComments URL: https://news.ycombinator.com/item?id=50070554\nPoints: 7\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-13T12:23:34+00:00"
+    },
+    {
+      "title": "Worlds more habitable than Earth?",
+      "link": "https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html",
+      "summary": "https://archive.is/yIYpb\n\nComments URL: https://news.ycombinator.com/item?id=50070554\nPoints: 38\n# Comments: 58",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-13T12:23:34+00:00"
@@ -3456,6 +3496,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-12T21:46:18+00:00"
+    },
+    {
+      "title": "0Q3W.L - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0M1JuWHJxYWdLZmNhTkI1NjRtRTUxbU1ZdW9OWG0tQmxxblY1N0N1bXFscV9mLVROaHo2NnN1dGdrTExRNG5xSFlyUG8wVFAwTVdoRnp2WGdpdEZ1aUpQeGNoUU84bmVNWGI5ckFMZHAzZGlfNXJJYXB0dDRleUE?oc=5",
+      "summary": "0Q3W.L&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-12T21:45:18+00:00"
     },
     {
       "title": "AI Is a Tool. Using It Well Takes Skill.",
