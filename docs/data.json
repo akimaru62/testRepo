@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T10:10:08.830414+00:00",
+  "generated_at": "2026-10-13T10:31:00.132103+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -718,6 +718,54 @@
       "published": "2026-10-13T17:00:00+00:00"
     },
     {
+      "title": "北極海航路を初往復　韓国コンテナ船、欧州間で",
+      "link": "https://www.jiji.com/jc/article?k=2026101300902&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-13T10:30:55.954615+00:00"
+    },
+    {
+      "title": "モイネロ、村上ら先発　１４日からファイナルステージ―プロ野球ＣＳ",
+      "link": "https://www.jiji.com/jc/article?k=2026101300889&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-13T10:30:55.954600+00:00"
+    },
+    {
+      "title": "中国代表団、北方領土の択捉島を訪問　観光・養殖事業に関心―極東サハリン州",
+      "link": "https://www.jiji.com/jc/article?k=2026101300843&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-13T10:30:55.954562+00:00"
+    },
+    {
+      "title": "電機と自動車、垣根越えAI時代の勝ち筋見えるか　幕張で展示会",
+      "link": "https://www.asahi.com/articles/ASVBF2V26VBFULFA007M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-13T10:30:55.729339+00:00"
+    },
+    {
+      "title": "NHK前会長稲葉延雄さん死去　「筋を通すことにこだわる人」悼む声",
+      "link": "https://www.asahi.com/articles/ASVBF3668VBFUCVL035M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-13T10:30:55.729306+00:00"
+    },
+    {
+      "title": "Dollar Still Considered Overvalued in Latest BofA Survey",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-safe-haven-demand-for-greenback-c51874b4?mod=rss_markets_main",
+      "summary": "The dollar continued to be viewed as overvalued in October’s Bank of America global fund manager survey.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-13T10:25:00+00:00"
+    },
+    {
       "title": "高市首相、簗氏進退に言及　「違法性あれば即断」―野党、自発的辞任要求",
       "link": "https://www.jiji.com/jc/article?k=2026101300638&g=pol&m=rss",
       "summary": "",
@@ -726,12 +774,36 @@
       "published": "2026-10-13T10:10:03.802088+00:00"
     },
     {
+      "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+      "link": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
+      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran\nComments URL: https://news.ycombinator.com/item?id=50069329\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-13T10:08:00+00:00"
+    },
+    {
+      "title": "AWS Lambda Web Functions",
+      "link": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
+      "summary": "Article URL: https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/\nComments URL: https://news.ycombinator.com/item?id=50069318\nPoints: 4\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-13T10:07:03+00:00"
+    },
+    {
       "title": "UnitedHealth keeps medical costs under control — and raises its outlook again",
       "link": "https://www.marketwatch.com/story/unitedhealth-keeps-medical-costs-under-control-and-raises-its-outlook-again-71abc99c?mod=mw_rss_topstories",
       "summary": "The health-insurance giant said its medical-cost ratio was 88.4% in the third quarter of this year as the company tries to rein in spending on medical care.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-13T10:03:00+00:00"
+    },
+    {
+      "title": "【後輩との上手な付き合い方】人材育成のプロ・坂井風太が指南！なぜ人は後輩に苦手意識を持ちやすいのか？／きしたかのの実体験をもとにビジネスパーソン共通の悩みを解決！ | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961062?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "きしたかのさんが持ってきた相談は「後輩との上手な付き合い方がわからない」。ビジネスパーソン共通とも言えるこの悩みを、元DeNA人材育成責任者の坂井風太さんが解決！体育会系だという高野さんは「たまに…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-13T10:00:00+00:00"
     },
     {
       "title": "CSG Sets Sights on Space With Around $434 Million Stake in Canada’s MDA Space",
@@ -1049,6 +1121,14 @@
       "title": "Stock Market Today: Bank Earnings Kick Off Earnings Season",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026?mod=rss_markets_main",
       "summary": "Asia rout puts tech stocks under pressure",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-13T08:14:38+00:00"
+    },
+    {
+      "title": "Stock Market Today: Bank Earnings Roll In",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-10-13-2026?mod=rss_markets_main",
+      "summary": "Chip stocks under pressure on fresh fears of Chinese competition",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-13T08:14:38+00:00"
