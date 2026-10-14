@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T15:28:07.253804+00:00",
+  "generated_at": "2026-10-14T15:45:59.054564+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -694,6 +694,14 @@
   ],
   "items": [
     {
+      "title": "Your Social Security check will rise 3.6% next year, but will it be able to keep up with inflation?",
+      "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+      "summary": "The COLA is aimed at helping about 68 million beneficiaries keep pace with inflation.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-14T15:33:00+00:00"
+    },
+    {
       "title": "Ａ東京が初戦白星　バスケ東アジアＳリーグ",
       "link": "https://www.jiji.com/jc/article?k=2026101401278&g=spo&m=rss",
       "summary": "",
@@ -766,6 +774,14 @@
       "published": "2026-10-14T15:24:00+00:00"
     },
     {
+      "title": "Why are all these data companies buying internal data?",
+      "link": "https://apnews.com/press-release/newsfile/press-release-2dc1342f34a40e5953ab80c2f4bd4fdd",
+      "summary": "Article URL: https://apnews.com/press-release/newsfile/press-release-2dc1342f34a40e5953ab80c2f4bd4fdd\nComments URL: https://news.ycombinator.com/item?id=50089052\nPoints: 15\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T15:23:31+00:00"
+    },
+    {
       "title": "万博未払い アンゴラ異例対応の訳",
       "link": "https://news.yahoo.co.jp/pickup/6598795?source=rss",
       "summary": "",
@@ -782,12 +798,28 @@
       "published": "2026-10-14T15:18:00+00:00"
     },
     {
+      "title": "Passkeys Are Not a Trap",
+      "link": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+      "summary": "Article URL: https://scotthelme.co.uk/passkeys-are-not-a-trap/\nComments URL: https://news.ycombinator.com/item?id=50088935\nPoints: 109\n# Comments: 92",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T15:15:45+00:00"
+    },
+    {
       "title": "Micron wins praise from Elon Musk for not being too greedy",
       "link": "https://www.marketwatch.com/story/micron-wins-praise-from-elon-musk-for-not-being-too-greedy-616fa15f?mod=mw_rss_topstories",
       "summary": "Top memory-chip providers have ample room to raise prices further, but Musk thinks Micron isn’t squeezing its customers to an excessive degree.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-14T15:07:00+00:00"
+    },
+    {
+      "title": "Running Windows desktop tests from Linux with disposable VMs",
+      "link": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
+      "summary": "Article URL: https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation\nComments URL: https://news.ycombinator.com/item?id=50088643\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T14:55:19+00:00"
     },
     {
       "title": "GlobalFoundries to Build Two Chip Plants With Up to $21 Billion Funding",
@@ -868,6 +900,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-14T14:17:00+00:00"
+    },
+    {
+      "title": "US grocery prices poised to climb as soaring fuel costs drive inflation",
+      "link": "https://www.ft.com/content/13929c26-1c01-41b2-b81a-d337fa5c9d27?syn-25a6b1a6=1",
+      "summary": "Food manufacturers warn of impact on consumers ahead of midterm elections",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-14T14:14:28+00:00"
     },
     {
       "title": "Netflix to cut 1,000 jobs as growth concerns mount",
@@ -2385,6 +2425,14 @@
       "title": "How Ukraine’s data centre strikes have thrown Russia into turmoil",
       "link": "https://www.ft.com/content/dc21da0b-25b7-402e-8dbe-e7d9f7431b93?syn-25a6b1a6=1",
       "summary": "Kyiv’s attacks expose vulnerabilities of Kremlin effort to centralise internet services under one company",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-14T04:00:21+00:00"
+    },
+    {
+      "title": "UK’s Schillings sets up private investigations business with US law firm Clare Locke",
+      "link": "https://www.ft.com/content/42209791-2167-4c4e-81a0-f610a981b745?syn-25a6b1a6=1",
+      "summary": "Groups known for battling the press set up US intelligence company co-led by a former senior CIA official",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-14T04:00:21+00:00"
