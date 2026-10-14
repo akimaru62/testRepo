@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T18:09:50.184997+00:00",
+  "generated_at": "2026-10-14T18:32:03.203449+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -694,6 +694,22 @@
   ],
   "items": [
     {
+      "title": "Stocks Turn Lower as AI, Tech Shares Slump",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-tick-higher-treasurys-strengthen-ahead-of-inflation-data-3fd584f5?mod=rss_markets_main",
+      "summary": "U.S. stocks were lower, with the Nasdaq bearing the brunt of the declines, as a hotter-than-expected September inflation report put a dampener on the mood in markets .",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-14T18:19:00+00:00"
+    },
+    {
+      "title": "Precious Metals Sink As U.S. CPI Numbers Give Dollar A Lift",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-steady-ahead-of-u-s-inflation-data-5b71987b?mod=rss_markets_main",
+      "summary": "Gold and silver futures settled lower after U.S. consumer price inflation for September landed above estimates, increasing market expectations for a Fed interest-rate rise this month and pushing the U.S. dollar higher.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-14T18:11:00+00:00"
+    },
+    {
       "title": "These unpopular solutions could rescue Social Security’s finances. Here’s who could pay the most.",
       "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
       "summary": "Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes.",
@@ -742,6 +758,22 @@
       "published": "2026-10-14T17:45:23+00:00"
     },
     {
+      "title": "OpenAI claims employee sent secret device information to Apple",
+      "link": "https://www.ft.com/content/18b65495-9e2a-45d6-be85-7641442ab61a",
+      "summary": "Article URL: https://www.ft.com/content/18b65495-9e2a-45d6-be85-7641442ab61a\nComments URL: https://news.ycombinator.com/item?id=50091684\nPoints: 12\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T17:39:37+00:00"
+    },
+    {
+      "title": "Sally Rooney can no longer sell books in UK due to Palestine Action support",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/14/sally-rooney-says-she-can-no-longer-sell-books-in-the-uk-because-of-palestine-action-support",
+      "summary": "Article URL: https://www.theguardian.com/uk-news/2026/oct/14/sally-rooney-says-she-can-no-longer-sell-books-in-the-uk-because-of-palestine-action-support\nComments URL: https://news.ycombinator.com/item?id=50091647\nPoints: 25\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T17:37:23+00:00"
+    },
+    {
       "title": "US report details extent of 'devastating' dating-app scams",
       "link": "https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress",
       "summary": "Article URL: https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress\nComments URL: https://news.ycombinator.com/item?id=50091519\nPoints: 10\n# Comments: 1",
@@ -772,6 +804,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-14T17:05:00+00:00"
+    },
+    {
+      "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
+      "link": "https://clova.email/",
+      "summary": "Infinite inboxes, including prefixes where you don't have to create inboxes before you use them -- they self create when you add a suffix.Three types of inboxes:\n- One sender. Locks to the first domain to send email (except gmail, outlook, etc where it locks to an email account for obivous reasons. It bounces everyone else.\n- Temporary. Lasts for a while (24h, 7days, etc) then bounces. Received messages stay or go as per your choice.\n- Prefix. The most powerful. Declare a prefix like \"service\" and then invent any suffix, like \"service-netflix\" or \"service$bank\" and it creates a new one-sender inbox locked to whoever wrote first.Bring you own domain. Bring your own AI (MCP server ready). Forwarding.Please help me test it.\n\nComments URL: https://news.ycombinator.com/item?id=50090932\nPoints: 8\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T17:00:59+00:00"
     },
     {
       "title": "Linus Torvalds's first LLM-assisted patch series",
