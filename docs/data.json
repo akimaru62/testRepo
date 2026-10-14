@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T06:43:06.100676+00:00",
+  "generated_at": "2026-10-14T07:03:37.777192+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -694,12 +694,28 @@
   ],
   "items": [
     {
+      "title": "９月の中国輸出、過去最大　米欧と摩擦も、ＡＩ好調",
+      "link": "https://www.jiji.com/jc/article?k=2026101400528&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-14T07:03:31.725604+00:00"
+    },
+    {
       "title": "U.S. Dollar Index’s Upward Momentum Starting to Slow, Daily Chart Shows",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-u-s-cpi-data-993f6e8d?mod=rss_markets_main",
       "summary": "The dollar index’s upward momentum is starting to slow, suggesting that potential for further upside may be limited, UOB said, adding that any weakness of the index could test the 21-day exponential moving average at 101.50.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-14T06:29:00+00:00"
+    },
+    {
+      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+      "link": "https://github.com/android/ndk/issues/2260",
+      "summary": "Article URL: https://github.com/android/ndk/issues/2260\nComments URL: https://news.ycombinator.com/item?id=50083130\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T06:18:01+00:00"
     },
     {
       "title": "5年利付国債（第188回）の第II非価格競争入札結果（令和8年10月14日入札）",
@@ -1452,6 +1468,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-10-13T22:30:00+00:00"
+    },
+    {
+      "title": "sspg.l - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5peEM2TF9BbWNPTTAxNGQ1bDgzZlQ2SEdrYzc0T3lYa0ZqanozcUZGWnNmbHF5T1J6cENZRURPSG1zcF9udW81YnZtWmo2LVVwelBzVFFMUGtlRnN0TDJmd282dEM2UWlvbDlXSnNfOXlibW9nUWc?oc=5",
+      "summary": "sspg.l&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-13T22:24:11+00:00"
     },
     {
       "title": "道頓堀グリコサイン 来春7代目に",
