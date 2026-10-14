@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T17:50:07.282099+00:00",
+  "generated_at": "2026-10-14T18:09:50.184997+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -694,12 +694,52 @@
   ],
   "items": [
     {
+      "title": "These unpopular solutions could rescue Social Security’s finances. Here’s who could pay the most.",
+      "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
+      "summary": "Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-14T18:06:00+00:00"
+    },
+    {
+      "title": "Will mortgage rates stay above 7% in 2027?",
+      "link": "https://www.marketwatch.com/story/will-mortgage-rates-stay-above-7-in-2027-437873bd?mod=mw_rss_topstories",
+      "summary": "Two new forecasts spell bad news for home buyers and sellers",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-14T18:01:00+00:00"
+    },
+    {
+      "title": "Investing, not homeownership, is the No. 1 milestone that makes Gen Z renters feel successful",
+      "link": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories",
+      "summary": "“Instead of focusing on homeownership, many are prioritizing financial freedom and debt-free living.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-14T17:54:00+00:00"
+    },
+    {
       "title": "Comex Gold Settles 1.64% Lower at $4084.80",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-steady-ahead-of-u-s-inflation-data-5b71987b?mod=rss_markets_main",
       "summary": "Gold settled 1.6% lower and silver dropped 6.1%, with both metals down for a third-consecutive session.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-14T17:46:00+00:00"
+    },
+    {
+      "title": "Neckbeard – a DevOps/platform/SRE plugin for your agent",
+      "link": "https://github.com/bealesh/neckbeard",
+      "summary": "Article URL: https://github.com/bealesh/neckbeard\nComments URL: https://news.ycombinator.com/item?id=50091794\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T17:45:34+00:00"
+    },
+    {
+      "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+      "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html\nComments URL: https://news.ycombinator.com/item?id=50091788\nPoints: 15\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T17:45:23+00:00"
     },
     {
       "title": "US report details extent of 'devastating' dating-app scams",
@@ -756,6 +796,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-14T16:50:00+00:00"
+    },
+    {
+      "title": "Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges",
+      "link": "https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges",
+      "summary": "Article URL: https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges\nComments URL: https://news.ycombinator.com/item?id=50090662\nPoints: 20\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T16:45:19+00:00"
     },
     {
       "title": "Opinion | Modernize and Reform the Recycling System",
@@ -2239,6 +2287,14 @@
     },
     {
       "title": "Stock Market Today: Stocks Turn Lower, as AI, Tech Shares Slump",
+      "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026?mod=rss_markets_main",
+      "summary": "Traders ramp up bets on Fed rate hike this month",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-14T09:00:38+00:00"
+    },
+    {
+      "title": "Stock Market Today: Stocks Turn Lower as AI, Tech Shares Slump",
       "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026?mod=rss_markets_main",
       "summary": "Traders ramp up bets on Fed rate hike this month",
       "source": "WSJ マーケット",
