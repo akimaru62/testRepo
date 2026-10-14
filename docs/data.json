@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T19:06:47.077128+00:00",
+  "generated_at": "2026-10-14T19:23:10.537877+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -693,6 +693,30 @@
     }
   ],
   "items": [
+    {
+      "title": "ポルトガル航空株、独ルフトハンザに売却決定　２８年の完全民営化目指す",
+      "link": "https://www.jiji.com/jc/article?k=2026101500075&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-14T19:23:04.480401+00:00"
+    },
+    {
+      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "summary": "”I earn $110,000 a year.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-14T19:15:00+00:00"
+    },
+    {
+      "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
+      "link": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
+      "summary": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made.\nThe post From 2,500 requests to 24: Rebuilding star history without the stargazers appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "category": "開発者向け",
+      "published": "2026-10-14T19:11:33+00:00"
+    },
     {
       "title": "What to expect at the next Fed meeting now that rate-hike odds are rising",
       "link": "https://www.marketwatch.com/story/heres-what-the-fed-might-do-at-this-months-meeting-after-todays-hot-inflation-reading-087511b6?mod=mw_rss_topstories",
@@ -3972,6 +3996,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-13T19:55:31+00:00"
+    },
+    {
+      "title": "LBL.F - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTkZWbjA5UUpDdWFxWTY0blhLLUFwM18wRkxOcEZLR1MydWwxekdjc3FlTUs3T1hHckI2OWp0Y0VPQ3VoUlUxX3RGSE12QXVBOXNfNmZ5QTN0TlpPMGhJMS1yMk1GVElidnZHS1RyZW5LOTU1eFFMdkozeWlibVBDZl9Pbw?oc=5",
+      "summary": "LBL.F - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-13T19:51:00+00:00"
     },
     {
       "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
