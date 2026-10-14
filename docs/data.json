@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T09:09:35.994484+00:00",
+  "generated_at": "2026-10-14T09:28:39.078898+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -694,6 +694,70 @@
   ],
   "items": [
     {
+      "title": "増田陸、初防衛へ堤聖也と再戦　１１月にトリプル世界戦―ボクシング",
+      "link": "https://www.jiji.com/jc/article?k=2026101400911&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-14T09:28:34.523476+00:00"
+    },
+    {
+      "title": "自治体などの公園用地、６割が２０年以上「未整備」　大半で見直しの検討もなし―会計検査院",
+      "link": "https://www.jiji.com/jc/article?k=2026101400780&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-14T09:28:34.523464+00:00"
+    },
+    {
+      "title": "外務省、ロシア大使に申し入れ　邦人記者拘束で",
+      "link": "https://www.jiji.com/jc/article?k=2026101400906&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-14T09:28:34.523451+00:00"
+    },
+    {
+      "title": "防災情報、伝達手段確保を要請　不正アクセス受け自治体に―総務省消防庁",
+      "link": "https://www.jiji.com/jc/article?k=2026101400901&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-14T09:28:34.523437+00:00"
+    },
+    {
+      "title": "ロシア邦人記者拘束に日本政府衝撃　「寝耳に水」情報収集急ぐ",
+      "link": "https://www.jiji.com/jc/article?k=2026101400918&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-14T09:28:34.523421+00:00"
+    },
+    {
+      "title": "販売ペットに無資格注射か　チワワなど７匹死ぬ、４人逮捕―大阪府警",
+      "link": "https://www.jiji.com/jc/article?k=2026101400885&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-14T09:28:34.523384+00:00"
+    },
+    {
+      "title": "Third-Quarter Earnings Season Faces Challenge of Sky-High Expectations",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-3-on-possible-position-adjustments-before-u-s-cpi-data-8a549b1f?mod=rss_markets_main",
+      "summary": "Positive earnings momentum will continue in the third quarter but companies faced the challenge of beating sky-high investor expectations, UniCredit said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-14T09:25:00+00:00"
+    },
+    {
+      "title": "‘I earn $110,000 a year’: I lost my home in the Great Recession. I’m renting in my 50s. Why is that judged as failure?",
+      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "summary": "“I lost my job and eventually my home — and it’s still hard.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-14T09:15:00+00:00"
+    },
+    {
       "title": "アンソロピック、日本での取引数が10倍超　開発と安全バランス強調",
       "link": "https://www.asahi.com/articles/ASVBG1VH5VBGULFA013M.html?ref=rss",
       "summary": "",
@@ -710,12 +774,28 @@
       "published": "2026-10-14T09:09:30.413051+00:00"
     },
     {
+      "title": "Morgan Stanley Raises Dated Brent Forecast on High Shipping Costs",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-ongoing-middle-east-tensions-6e2a3ee0?mod=rss_markets_main",
+      "summary": "Oil prices were higher. MS now projects Dated Brent at $105 in the fourth quarter and at $100 in the first quarter of 2027, citing tanker freight costs.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-14T09:08:00+00:00"
+    },
+    {
       "title": "Oil Mixed After Houthi Attack on Saudi Aramco Headquarters",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-ongoing-middle-east-tensions-6e2a3ee0?mod=rss_markets_main",
       "summary": "Oil prices were mixed after Yemen’s Houthi militants struck an Aramco building, while attacks against shipping in the  Hormuz Strait of continued to keep the geopolitical risk premium high.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-14T09:04:00+00:00"
+    },
+    {
+      "title": "Houthis strike Saudi Aramco headquarters",
+      "link": "https://www.ft.com/content/a25417b3-d4e4-4b89-b14d-6370a85ce3c4?syn-25a6b1a6=1",
+      "summary": "Iran-backed militants retaliate after Riyadh-led coalition targets sites in Yemen’s capital",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-14T09:03:41+00:00"
     },
     {
       "title": "‘Sopranos’ star Steven Van Zandt is selling his Greenwich Village penthouse for $19 million",
@@ -836,6 +916,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-10-14T08:33:40+00:00"
+    },
+    {
+      "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+      "link": "https://typeof.net/Iosevka/",
+      "summary": "Article URL: https://typeof.net/Iosevka/\nComments URL: https://news.ycombinator.com/item?id=50084240\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T08:27:59+00:00"
     },
     {
       "title": "Earnings Momentum Likely to Support U.S. Equities Despite High Bond Yields",
@@ -1300,6 +1388,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-14T03:29:15.469034+00:00"
+    },
+    {
+      "title": "Strafe: A new open-source, E2E Encrypted, and federated alternative to Discord",
+      "link": "https://strafe.chat/",
+      "summary": "Article URL: https://strafe.chat/\nComments URL: https://news.ycombinator.com/item?id=50082021\nPoints: 15\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T03:28:00+00:00"
     },
     {
       "title": "8766.t - | Stock Price & Latest News - Reuters",
