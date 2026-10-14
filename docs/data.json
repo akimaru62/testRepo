@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T19:23:10.537877+00:00",
+  "generated_at": "2026-10-14T19:36:07.084438+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -693,6 +693,14 @@
     }
   ],
   "items": [
+    {
+      "title": "Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel",
+      "link": "https://aws.amazon.com/blogs/aws/amazon-s3-vercel-marketplace-v0/",
+      "summary": "You can now migrate existing Apache Hive datasets in Amazon S3 to fully managed Apache Iceberg tables in Amazon S3 Tables, with no pipelines to build or compute to provision, while production workloads keep running.",
+      "source": "AWS ブログ (AWS)",
+      "category": "テクノロジー",
+      "published": "2026-10-14T19:30:48+00:00"
+    },
     {
       "title": "ポルトガル航空株、独ルフトハンザに売却決定　２８年の完全民営化目指す",
       "link": "https://www.jiji.com/jc/article?k=2026101500075&g=int&m=rss",
