@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T16:08:57.099472+00:00",
+  "generated_at": "2026-10-14T16:28:33.702499+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -694,12 +694,84 @@
   ],
   "items": [
     {
+      "title": "宮部みゆきさんら１７００人招待　２９日に秋の園遊会―宮内庁",
+      "link": "https://www.jiji.com/jc/article?k=2026101500004&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-14T16:28:28.795219+00:00"
+    },
+    {
+      "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
+      "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+      "summary": "The 3.6% COLA for 2027 is aimed at helping more than 68 million beneficiaries keep pace with the cost of living",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-14T16:20:00+00:00"
+    },
+    {
+      "title": "The AI Boom Is Supercharging Wall Street’s Profits",
+      "link": "https://www.wsj.com/finance/banking/the-ai-boom-is-supercharging-wall-streets-profits-2a2d9747?mod=rss_markets_main",
+      "summary": "Investment banking revenues are up, and wealth-management divisions are winning new AI millionaires as clients.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-14T16:14:00+00:00"
+    },
+    {
+      "title": "Rising diesel prices have helped fuel inflation — and we’re about to see how much worse it could get",
+      "link": "https://www.marketwatch.com/story/rising-diesel-prices-have-helped-fuel-inflation-and-were-about-to-see-how-much-worse-it-could-get-430f36d1?mod=mw_rss_topstories",
+      "summary": "Consumer inflation just came in hot. Thursday will provide more clues on the impact of record diesel prices ahead of the midterm elections.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-14T16:07:00+00:00"
+    },
+    {
+      "title": "Dollar Strengthens on Hot Inflation Data, Higher Treasury Yields",
+      "link": "https://www.wsj.com/finance/currencies/dollar-strengthens-on-hot-inflation-data-higher-treasury-yields-63c3afae?mod=rss_markets_main",
+      "summary": "The U.S. dollar strengthened as higher-than-expected September inflation sent bond yields up amid expectations of an increase in interest rates.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-14T16:06:00+00:00"
+    },
+    {
+      "title": "Shit Flow Diagram",
+      "link": "https://en.wikipedia.org/wiki/Shit_flow_diagram",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Shit_flow_diagram\nComments URL: https://news.ycombinator.com/item?id=50089624\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T15:51:40+00:00"
+    },
+    {
+      "title": "Freshfields partners explore carve-out of AI unit worth ‘billions’, leaked emails reveal",
+      "link": "https://www.ft.com/content/64f058ff-c8c2-4e63-bf7f-57c08ce685cb?syn-25a6b1a6=1",
+      "summary": "Exchange discussed putting legal tech unit into separate entity before valuations fall",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-14T15:48:09+00:00"
+    },
+    {
+      "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+      "link": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
+      "summary": "Article URL: https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/\nComments URL: https://news.ycombinator.com/item?id=50089395\nPoints: 14\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T15:39:45+00:00"
+    },
+    {
       "title": "Your Social Security check will rise 3.6% next year, but will it be able to keep up with inflation?",
       "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
       "summary": "The COLA is aimed at helping about 68 million beneficiaries keep pace with inflation.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-14T15:33:00+00:00"
+    },
+    {
+      "title": "Submarine Cable Resilience",
+      "link": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+      "summary": "Article URL: https://blog.apnic.net/2026/10/14/submarine-cable-resilience/\nComments URL: https://news.ycombinator.com/item?id=50089229\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T15:31:15+00:00"
     },
     {
       "title": "Ａ東京が初戦白星　バスケ東アジアＳリーグ",
@@ -814,6 +886,14 @@
       "published": "2026-10-14T15:07:00+00:00"
     },
     {
+      "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
+      "link": "https://github.com/graphicle-ai/graphicle",
+      "summary": "Article URL: https://github.com/graphicle-ai/graphicle\nComments URL: https://news.ycombinator.com/item?id=50088713\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T15:00:41+00:00"
+    },
+    {
       "title": "Running Windows desktop tests from Linux with disposable VMs",
       "link": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
       "summary": "Article URL: https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation\nComments URL: https://news.ycombinator.com/item?id=50088643\nPoints: 8\n# Comments: 0",
@@ -836,6 +916,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-14T14:47:44+00:00"
+    },
+    {
+      "title": "Strands Decider: Why Not an Encoder?",
+      "link": "https://brooker.co.za:443/blog/2026/10/04/encoders.html",
+      "summary": "Article URL: https://brooker.co.za:443/blog/2026/10/04/encoders.html\nComments URL: https://news.ycombinator.com/item?id=50088447\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T14:40:03+00:00"
     },
     {
       "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
@@ -1268,6 +1356,14 @@
       "source": "CNBC",
       "category": "海外金融",
       "published": "2026-10-14T12:09:50+00:00"
+    },
+    {
+      "title": "Nvidia's first GPU: GeForce 256",
+      "link": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/",
+      "summary": "Article URL: https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/\nComments URL: https://news.ycombinator.com/item?id=50086363\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T12:05:44+00:00"
     },
     {
       "title": "Smart people don't think others are stupid",
@@ -1945,6 +2041,14 @@
       "title": "Stock Market Today: Yields Jump, Stocks Turn Lower After Hot Inflation Reading",
       "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026?mod=rss_markets_main",
       "summary": "September price-index figure rises 3.7%; traders ramp up bets on Fed rate hike this month",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-14T09:00:38+00:00"
+    },
+    {
+      "title": "Stock Market Today: Stocks Turn Lower, Yields Rise After Hot Inflation Reading",
+      "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026?mod=rss_markets_main",
+      "summary": "Traders ramp up bets on Fed rate hike this month",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-14T09:00:38+00:00"
