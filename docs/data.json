@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T12:37:41.510901+00:00",
+  "generated_at": "2026-10-14T12:55:36.820630+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -694,6 +694,30 @@
   ],
   "items": [
     {
+      "title": "Bank of America shares drop 7% after third-quarter revenue miss and regulatory penalty",
+      "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+      "summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-10-14T12:54:01+00:00"
+    },
+    {
+      "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+      "link": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+      "summary": "Morgan Stanley is expected to benefit from robust investment banking and equities trading revenue.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-10-14T12:49:45+00:00"
+    },
+    {
+      "title": "US inflation jumps to 3.7% as Iran war drives up prices",
+      "link": "https://www.ft.com/content/c1e4c8b1-8fe0-414d-b52f-c74a6d927b3d?syn-25a6b1a6=1",
+      "summary": "Rebound in fuel costs has piled pressure on voters ahead of midterm elections",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-14T12:42:07+00:00"
+    },
+    {
       "title": "ワールドとTSIが経営統合へ　アパレル国内3位に、コスト抑制狙う",
       "link": "https://www.asahi.com/articles/ASVBG3VHBVBGULFA01KM.html?ref=rss",
       "summary": "",
@@ -716,6 +740,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-14T12:19:00+00:00"
+    },
+    {
+      "title": "The Aaronson Oracle",
+      "link": "https://aaronsonoracle.com/",
+      "summary": "Article URL: https://aaronsonoracle.com/\nComments URL: https://news.ycombinator.com/item?id=50086484\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T12:16:35+00:00"
     },
     {
       "title": "なぜ｢治療費は全額自腹にすべき｣の声が噴出するのか…2名が死亡《大阪･だんじり祭り》に自己責任論が巻き起こる\"真因\" | ライフ | 東洋経済オンライン",
@@ -790,7 +822,23 @@
       "published": "2026-10-14T12:09:50+00:00"
     },
     {
+      "title": "Smart people don't think others are stupid",
+      "link": "https://sive.rs/ss",
+      "summary": "Article URL: https://sive.rs/ss\nComments URL: https://news.ycombinator.com/item?id=50086313\nPoints: 36\n# Comments: 11",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T12:01:16+00:00"
+    },
+    {
       "title": "Why are European defence stocks not doing better?",
+      "link": "https://www.ft.com/content/c5fb2ea9-9a41-416a-90b8-337936ec4971?syn-25a6b1a6=1",
+      "summary": "Even when governments do sign big cheques, it takes a while for defence contractors to ramp up production",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-14T11:59:38+00:00"
+    },
+    {
+      "title": "Europe’s defence stocks send a geopolitical distress signal",
       "link": "https://www.ft.com/content/c5fb2ea9-9a41-416a-90b8-337936ec4971?syn-25a6b1a6=1",
       "summary": "Even when governments do sign big cheques, it takes a while for defence contractors to ramp up production",
       "source": "Financial Times",
@@ -1417,6 +1465,14 @@
       "title": "CPI Report Today: September Inflation Figure Comes In at 3.7%",
       "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026?mod=rss_markets_main",
       "summary": "Treasury yields rise; Hotter than expected price data could shake up Fed rate path",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-14T09:00:38+00:00"
+    },
+    {
+      "title": "CPI Report Today: Yields Jump, Stocks Drop After Hot Inflation Reading",
+      "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026?mod=rss_markets_main",
+      "summary": "September price-index figure rises 3.7%; data could shake up Fed rate path",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-14T09:00:38+00:00"
