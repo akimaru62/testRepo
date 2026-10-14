@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T10:40:23.945642+00:00",
+  "generated_at": "2026-10-14T10:49:43.197397+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -694,12 +694,44 @@
   ],
   "items": [
     {
+      "title": "Bank of America earnings are out – Here are the numbers",
+      "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+      "summary": "The U.S. Treasury Department announced a $1.2 billion penalty against Bank of America on Tuesday.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-10-14T10:48:59+00:00"
+    },
+    {
+      "title": "BlackRock now has assets equal to half the size of the U.S. economy after 15% growth",
+      "link": "https://www.marketwatch.com/story/blackrock-now-has-assets-equal-to-half-the-size-of-the-u-s-economy-after-15-growth-c382b289?mod=mw_rss_topstories",
+      "summary": "Fund-management giant BlackRock on Wednesday said assets under management are nearly $15.5 trillion after growth of 15%.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-14T10:41:00+00:00"
+    },
+    {
       "title": "ロシア、道新記者を「スパイ容疑」で拘束　動員兵の情報収集と主張―日本政府は抗議",
       "link": "https://www.jiji.com/jc/article?k=2026101400156&g=int&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-14T10:40:18.211941+00:00"
+    },
+    {
+      "title": "Storm May Not Provide Relief for Insurance Market",
+      "link": "https://www.wsj.com/finance/investing/storm-may-not-provide-relief-for-insurance-market-7e629b29?mod=rss_markets_main",
+      "summary": "Some of the best analysis and insight on investing, the wealth-management business and more.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-14T10:40:00+00:00"
+    },
+    {
+      "title": "Fund Managers Are Bullish—Watch Out",
+      "link": "https://www.wsj.com/finance/investing/fund-managers-are-bullishwatch-out-0597c06b?mod=rss_markets_main",
+      "summary": "Plus, investors await inflation data",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-14T10:39:00+00:00"
     },
     {
       "title": "Show HN: Building an LLM from Scratch in TypeScript",
