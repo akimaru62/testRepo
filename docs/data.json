@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T11:48:55.511842+00:00",
+  "generated_at": "2026-10-14T12:11:54.929985+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -694,12 +694,108 @@
   ],
   "items": [
     {
+      "title": "「姑息な発言」「辞めて当然」　地元有権者ら怒りと不信―簗農水相辞任・栃木",
+      "link": "https://www.jiji.com/jc/article?k=2026101401158&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-14T12:11:50.257906+00:00"
+    },
+    {
+      "title": "野党「首相の責任」一斉批判　簗氏辞任受け、関文科相にも照準",
+      "link": "https://www.jiji.com/jc/article?k=2026101401151&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-14T12:11:50.257893+00:00"
+    },
+    {
+      "title": "トランプ氏、米中間選挙での多数派維持「どちらも同じくらい難しい」",
+      "link": "https://www.jiji.com/jc/article?k=20261014049456a&g=afp&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-14T12:11:50.257880+00:00"
+    },
+    {
+      "title": "「辞めて済む話ではない」　高市首相の任命責任問う声も―簗農水相辞任で有識者",
+      "link": "https://www.jiji.com/jc/article?k=2026101401145&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-14T12:11:50.257863+00:00"
+    },
+    {
+      "title": "高市首相「任命責任重く受け止め」",
+      "link": "https://www.jiji.com/jc/article?k=2026101401108&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-14T12:11:50.257847+00:00"
+    },
+    {
+      "title": "高市首相、簗農水相を更迭　就任後初、政権に打撃―公選法違反疑惑受け",
+      "link": "https://www.jiji.com/jc/article?k=2026101400736&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-14T12:11:50.257804+00:00"
+    },
+    {
+      "title": "勤務間インターバル、つながらない権利･･･働く人の休息どう確保？",
+      "link": "https://www.asahi.com/articles/ASVBG3H19VBGULFA01CM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-14T12:11:50.042253+00:00"
+    },
+    {
+      "title": "Bank of America shares drop more than 4% after third-quarter revenue miss and regulatory penalty",
+      "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+      "summary": "The U.S. Treasury Department announced a $1.2 billion penalty against Bank of America on Tuesday.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-10-14T12:09:50+00:00"
+    },
+    {
+      "title": "Why are European defence stocks not doing better?",
+      "link": "https://www.ft.com/content/c5fb2ea9-9a41-416a-90b8-337936ec4971?syn-25a6b1a6=1",
+      "summary": "Even when governments do sign big cheques, it takes a while for defence contractors to ramp up production",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-14T11:59:38+00:00"
+    },
+    {
+      "title": "Bank of America Settlement Charge Hits Profit, Morgan Stanley Profit Climbs",
+      "link": "https://www.wsj.com/business/earnings/bank-of-america-settlement-charge-hits-profit-morgan-stanley-profit-climbs-d9cde716?mod=rss_markets_main",
+      "summary": "Bank of America reported a lower third-quarter profit, mostly tied to a regulatory settlement charge, while Morgan Stanley’s overall profit and revenue climbed",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-14T11:58:00+00:00"
+    },
+    {
+      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+      "link": "https://github.com/timescale/pg_vectorsearch",
+      "summary": "Article URL: https://github.com/timescale/pg_vectorsearch\nComments URL: https://news.ycombinator.com/item?id=50086165\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T11:47:53+00:00"
+    },
+    {
       "title": "The Morning Risk Report: Bank of America to Pay $1.2 Billion to Settle Violations of Money Laundering, Sanctions Laws",
       "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-bank-of-america-to-pay-1-2-billion-to-settle-violations-of-money-laundering-sanctions-laws-56d72ccf?mod=rss_markets_main",
       "summary": "Plus: CVS health unit resolves illegal opioid prescription claims and drones struck two commercial ships sailing near NATO waters",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-14T11:45:00+00:00"
+    },
+    {
+      "title": "BlackRock pulls in $205bn to take assets to record high",
+      "link": "https://www.ft.com/content/63e3c39b-357f-4a87-adf0-090c60c929a7?syn-25a6b1a6=1",
+      "summary": "World’s largest asset manager has become an increasingly powerful force in private capital after acquisitions of HPS and Global Infrastructure Partners",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-14T11:39:33+00:00"
     },
     {
       "title": "Morgan Stanley tops estimates as equities trading revenue exceeds expectations by $909 million",
@@ -740,6 +836,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-14T11:28:00+00:00"
+    },
+    {
+      "title": "BofA profits drop 17% after $1.2bn money laundering fine",
+      "link": "https://www.ft.com/content/a82b4275-6519-4142-b1df-e74c66ead877?syn-25a6b1a6=1",
+      "summary": "Second-largest US bank also delivers disappointing performance in trading and investment banking",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-14T11:25:43+00:00"
     },
     {
       "title": "邦人拘束でロシアに抗議　日本政府",
@@ -908,6 +1012,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-14T10:29:56+00:00"
+    },
+    {
+      "title": "TV4 postpones show after AI agent erases edited material",
+      "link": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+      "summary": "Article URL: https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage\nComments URL: https://news.ycombinator.com/item?id=50085323\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T10:28:26+00:00"
     },
     {
       "title": "Euro Struggles to Regain Momentum, Falls to 16-Month Low Vs Sterling",
