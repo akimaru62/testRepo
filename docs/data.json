@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T17:38:08.272463+00:00",
+  "generated_at": "2026-10-14T17:50:07.282099+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -694,12 +694,36 @@
   ],
   "items": [
     {
+      "title": "Comex Gold Settles 1.64% Lower at $4084.80",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-steady-ahead-of-u-s-inflation-data-5b71987b?mod=rss_markets_main",
+      "summary": "Gold settled 1.6% lower and silver dropped 6.1%, with both metals down for a third-consecutive session.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-14T17:46:00+00:00"
+    },
+    {
+      "title": "US report details extent of 'devastating' dating-app scams",
+      "link": "https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress\nComments URL: https://news.ycombinator.com/item?id=50091519\nPoints: 10\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T17:31:24+00:00"
+    },
+    {
       "title": "中国空母、戦闘機発着艦　沖縄通過後、石垣島南方で―防衛省",
       "link": "https://www.jiji.com/jc/article?k=2026101401193&g=soc&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-14T17:24:01.486577+00:00"
+    },
+    {
+      "title": "Burnham wants to ‘repair bridges’ between Trump and Zelenskyy",
+      "link": "https://www.ft.com/content/16ceb1fb-662c-4379-8187-0a51a7f4106f?syn-25a6b1a6=1",
+      "summary": "UK prime minister holds talks with Ukraine’s president in Downing Street following US diesel deal with Russia",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-14T17:23:04+00:00"
     },
     {
       "title": "Wall Street Worries Bank of America’s Problems Will Linger",
@@ -742,9 +766,25 @@
       "published": "2026-10-14T16:35:00+00:00"
     },
     {
+      "title": "I Deleted 168,000 Lines of Comments. My AI Agent Didn't Notice",
+      "link": "https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/",
+      "summary": "Article URL: https://openstation.blog/2026/10/13/i-deleted-168000-lines-of-comments-my-ai-agent-didnt-notice/\nComments URL: https://news.ycombinator.com/item?id=50090484\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T16:34:53+00:00"
+    },
+    {
       "title": "The Emperor Pelican Has No Clothes",
       "link": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
       "summary": "Article URL: https://arcfu.com/post/the-emperor-pelican-has-no-clothes/\nComments URL: https://news.ycombinator.com/item?id=50090443\nPoints: 38\n# Comments: 19",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T16:33:34+00:00"
+    },
+    {
+      "title": "Why do LLM pelicans look like this?",
+      "link": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
+      "summary": "Article URL: https://arcfu.com/post/the-emperor-pelican-has-no-clothes/\nComments URL: https://news.ycombinator.com/item?id=50090443\nPoints: 112\n# Comments: 89",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-14T16:33:34+00:00"
@@ -2191,6 +2231,14 @@
     },
     {
       "title": "Stock Market Today: Stocks Turn Lower, Yields Rise After Hot Inflation Reading",
+      "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026?mod=rss_markets_main",
+      "summary": "Traders ramp up bets on Fed rate hike this month",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-14T09:00:38+00:00"
+    },
+    {
+      "title": "Stock Market Today: Stocks Turn Lower, as AI, Tech Shares Slump",
       "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026?mod=rss_markets_main",
       "summary": "Traders ramp up bets on Fed rate hike this month",
       "source": "WSJ マーケット",
