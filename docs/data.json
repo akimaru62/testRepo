@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T08:10:21.888302+00:00",
+  "generated_at": "2026-10-14T08:33:45.254337+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -694,6 +694,62 @@
   ],
   "items": [
     {
+      "title": "亜大が９季ぶりＶ　開幕から８連勝―東都大学野球",
+      "link": "https://www.jiji.com/jc/article?k=2026101400843&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-14T08:33:40.747292+00:00"
+    },
+    {
+      "title": "受刑者の選挙権制限、憲法判断へ　公選法規定巡る訴訟結審―最高裁",
+      "link": "https://www.jiji.com/jc/article?k=2026101400827&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-14T08:33:40.747281+00:00"
+    },
+    {
+      "title": "化粧など「男性より時間かかる」　高市首相、国会審議巡り吐露",
+      "link": "https://www.jiji.com/jc/article?k=2026101400855&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-14T08:33:40.747271+00:00"
+    },
+    {
+      "title": "簗氏辞任しなければ問責提出　野党",
+      "link": "https://www.jiji.com/jc/article?k=2026101400854&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-14T08:33:40.747259+00:00"
+    },
+    {
+      "title": "支援金対象、２０００万人を例示　高市首相「所得上限は今後検討」―衆院予算委",
+      "link": "https://www.jiji.com/jc/article?k=2026101400773&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-14T08:33:40.747230+00:00"
+    },
+    {
+      "title": "格安小売り「アエナ」に不正アクセス、最大81万7千人の情報流出か",
+      "link": "https://www.asahi.com/articles/ASVBG2JDYVBGULFA019M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-14T08:33:40.455990+00:00"
+    },
+    {
+      "title": "Earnings Momentum Likely to Support U.S. Equities Despite High Bond Yields",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-3-on-possible-position-adjustments-before-u-s-cpi-data-8a549b1f?mod=rss_markets_main",
+      "summary": "DWS remained positive on U.S. equities, based on widespread expectations for continued strength in corporate earnings and robust economic growth despite high bond yields.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-14T08:25:00+00:00"
+    },
+    {
       "title": "「ゆめタウン」のイズミ、最大40万件の個人情報が流出の可能性",
       "link": "https://www.asahi.com/articles/ASVBG2F8QVBGPLFA00FM.html?ref=rss",
       "summary": "",
@@ -708,6 +764,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-14T08:10:17.561272+00:00"
+    },
+    {
+      "title": "Ukraine blindsided by Starlink restrictions and intelligence gaps during Russian attack",
+      "link": "https://www.ft.com/content/37085602-726a-44dc-a859-51caab38eb75?syn-25a6b1a6=1",
+      "summary": "Moscow ignores Donald Trump’s ‘energy ceasefire’ while Kyiv’s forces experience connectivity problems on Elon Musk’s satellite network",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-14T08:03:21+00:00"
     },
     {
       "title": "サイゼ メニューを平均6%値上げへ",
@@ -1022,12 +1086,44 @@
       "published": "2026-10-14T04:00:21+00:00"
     },
     {
+      "title": "Marine Le Pen vows ‘trial of strength’ with EU",
+      "link": "https://www.ft.com/content/60d09841-052a-44f3-a8ae-52c38fdbb5ab?syn-25a6b1a6=1",
+      "summary": "Far-right leader aims for radical change in bloc’s powers and budget even as she tries to reassure voters over her pragmatism",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-14T04:00:21+00:00"
+    },
+    {
+      "title": "The art of living dangerously",
+      "link": "https://www.ft.com/content/5e6d1d30-0934-4fda-b2c0-27b0d96aeba3?syn-25a6b1a6=1",
+      "summary": "It would be nice to think that the world will become less shock-prone, but it probably won’t",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-14T04:00:21+00:00"
+    },
+    {
+      "title": "How Ukraine’s data centre strikes threw Russia into turmoil",
+      "link": "https://www.ft.com/content/dc21da0b-25b7-402e-8dbe-e7d9f7431b93?syn-25a6b1a6=1",
+      "summary": "Kyiv’s attacks exposed vulnerabilities of Kremlin effort to centralise internet services under one company",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-14T04:00:21+00:00"
+    },
+    {
       "title": "Military briefing: Houthis expose limits of Saudi Arabia’s vast arsenal",
       "link": "https://www.ft.com/content/afa0a322-ad2a-4d49-aa0e-81f15a01c3a7?syn-25a6b1a6=1",
       "summary": "The kingdom is one of the world’s top arms buyers but has struggled to keep pace with the Iranian-backed rebels’ tactics",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-14T04:00:12+00:00"
+    },
+    {
+      "title": "CoreWeave targets ‘unlimited’ insurance money to fund AI build-out",
+      "link": "https://www.ft.com/content/4ffa1853-0e2c-424f-b941-88c6bcac5765?syn-25a6b1a6=1",
+      "summary": "Co-founder eyes insurers’ vast capital for loans as the Nvidia-backed cloud provider seeks to fund the data centre build-out",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-14T04:00:04+00:00"
     },
     {
       "title": "How I used AI to become a chess grandmaster at 16",
@@ -4172,6 +4268,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-13T05:22:28+00:00"
+    },
+    {
+      "title": "618A.J2 - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DcjRGeWVQRU13aE5fVXB4bnZyZExKTTg3RVcxSW16XzM0UDNHMlZYTXFiRktOYVZSRTNlOUFYTzBpLXFUdlBIUUJPTGd5WUhyZ0dnQTU3ODNKaklmT0E?oc=5",
+      "summary": "618A.J2 - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-13T04:53:02+00:00"
     },
     {
       "title": "九州新幹線 新たに部品の損傷",
