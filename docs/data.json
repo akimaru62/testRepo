@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T17:06:51.492414+00:00",
+  "generated_at": "2026-10-14T17:24:06.315325+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -694,6 +694,30 @@
   ],
   "items": [
     {
+      "title": "中国空母、戦闘機発着艦　沖縄通過後、石垣島南方で―防衛省",
+      "link": "https://www.jiji.com/jc/article?k=2026101401193&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-14T17:24:01.486577+00:00"
+    },
+    {
+      "title": "Wall Street Worries Bank of America’s Problems Will Linger",
+      "link": "https://www.wsj.com/finance/banking/wall-street-worries-bank-of-americas-problems-will-linger-a564492f?mod=rss_markets_main",
+      "summary": "Weak earnings coupled with a fine has analysts pressing executives about whether there is more pain to come.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-14T17:05:00+00:00"
+    },
+    {
+      "title": "Has AI Tells",
+      "link": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+      "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1\nComments URL: https://news.ycombinator.com/item?id=50090799\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T16:52:42+00:00"
+    },
+    {
       "title": "3 things that are driving inflation higher",
       "link": "https://www.marketwatch.com/story/3-things-that-are-driving-inflation-higher-26bda9a9?mod=mw_rss_topstories",
       "summary": "Struggling with elevated prices? You don’t have to look much further than your local gas station.",
@@ -710,6 +734,30 @@
       "published": "2026-10-14T16:35:00+00:00"
     },
     {
+      "title": "The Emperor Pelican Has No Clothes",
+      "link": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
+      "summary": "Article URL: https://arcfu.com/post/the-emperor-pelican-has-no-clothes/\nComments URL: https://news.ycombinator.com/item?id=50090443\nPoints: 38\n# Comments: 19",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T16:33:34+00:00"
+    },
+    {
+      "title": "Better HTTP/1 connection reuse in Go 1.27",
+      "link": "https://go.dev/blog/http-connection-reuse",
+      "summary": "Article URL: https://go.dev/blog/http-connection-reuse\nComments URL: https://news.ycombinator.com/item?id=50090369\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T16:29:33+00:00"
+    },
+    {
+      "title": "Google is silently linking your phone number across all signed-in accounts",
+      "link": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
+      "summary": "Article URL: https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/\nComments URL: https://news.ycombinator.com/item?id=50090349\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T16:28:51+00:00"
+    },
+    {
       "title": "宮部みゆきさんら１７００人招待　２９日に秋の園遊会―宮内庁",
       "link": "https://www.jiji.com/jc/article?k=2026101500004&g=soc&m=rss",
       "summary": "",
@@ -724,6 +772,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-14T16:27:00+00:00"
+    },
+    {
+      "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
+      "link": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
+      "summary": "Article URL: https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/\nComments URL: https://news.ycombinator.com/item?id=50090246\nPoints: 16\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T16:24:11+00:00"
     },
     {
       "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
@@ -748,6 +804,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-14T16:14:00+00:00"
+    },
+    {
+      "title": "Americans' Social Activity Has Steeply Declined in the Past 30 Years",
+      "link": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+      "summary": "Article URL: https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years\nComments URL: https://news.ycombinator.com/item?id=50089921\nPoints: 23\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T16:09:00+00:00"
     },
     {
       "title": "Rising diesel prices have helped fuel inflation — and we’re about to see how much worse it could get",
