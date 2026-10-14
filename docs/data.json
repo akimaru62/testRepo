@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T21:35:27.332124+00:00",
+  "generated_at": "2026-10-14T21:47:24.296759+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -698,12 +698,28 @@
   ],
   "items": [
     {
+      "title": "星野源＆新垣結衣に第1子誕生→性別や誕生日は明かさず…｢私生活を売り物にしない｣距離感で愛されるワケ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961176?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "歌手で俳優の星野源さんと新垣結衣さんが第1子誕生を報告し､多くの祝福が寄せられています。私生活を必要以上に語らず､慎重に情報を発信してきた2人。なぜ彼らの\"距離感\"が人々に愛され､信頼され続けるので…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-14T21:45:00+00:00"
+    },
+    {
       "title": "U.S. Stocks Fall on Hot Inflation Report, AI Sell-Off",
       "link": "https://www.wsj.com/finance/stocks/u-s-stocks-fall-on-hot-inflation-report-ai-sell-off-6c98113d?mod=rss_markets_main",
       "summary": "U.S. stocks slid as rising inflation bolstered the case for another rate increase this year.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-14T21:32:00+00:00"
+    },
+    {
+      "title": "｢スケル豚の次はこれか｣と騒然…配膳ロボットから《高級肉横取り》で物議｢しゃぶ葉｣炎上後に訪れて感じた\"本質的課題\" | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961030?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "薄切り肉が話題となったしゃぶ葉で､今度は配膳ロボットからの\"肉の横取り\"問題がSNSで拡散。客同士のトラブルや店舗側の対応､そして実際の現場の様子はどう変わったのか。そして感じた本質的な課題とは？",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-14T21:30:00+00:00"
     },
     {
       "title": "首相動静（１０月１４日）",
@@ -749,6 +765,14 @@
       "title": "Jev 1.14: For the Builders and Dreamers",
       "link": "https://typesafe.ai/blog/jev-1-14",
       "summary": "Article URL: https://typesafe.ai/blog/jev-1-14\nComments URL: https://news.ycombinator.com/item?id=50095353\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T21:11:03+00:00"
+    },
+    {
+      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+      "link": "https://typesafe.ai/blog/jev-1-14",
+      "summary": "Article URL: https://typesafe.ai/blog/jev-1-14\nComments URL: https://news.ycombinator.com/item?id=50095353\nPoints: 29\n# Comments: 11",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-14T21:11:03+00:00"
@@ -1178,6 +1202,14 @@
       "published": "2026-10-14T18:23:14+00:00"
     },
     {
+      "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
+      "link": "https://oxide.computer/blog/voxel-labs",
+      "summary": "Article URL: https://oxide.computer/blog/voxel-labs\nComments URL: https://news.ycombinator.com/item?id=50092423\nPoints: 17\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T18:21:14+00:00"
+    },
+    {
       "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
       "link": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
       "summary": "Article URL: https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html\nComments URL: https://news.ycombinator.com/item?id=50092415\nPoints: 11\n# Comments: 0",
@@ -1269,6 +1301,14 @@
       "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
       "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
       "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html\nComments URL: https://news.ycombinator.com/item?id=50091788\nPoints: 15\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T17:45:23+00:00"
+    },
+    {
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "summary": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html\nComments URL: https://news.ycombinator.com/item?id=50091788\nPoints: 774\n# Comments: 365",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-14T17:45:23+00:00"
