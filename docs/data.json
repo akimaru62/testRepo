@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T07:03:37.777192+00:00",
+  "generated_at": "2026-10-14T07:31:27.166225+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -694,12 +694,60 @@
   ],
   "items": [
     {
+      "title": "「困難な世界」に国際協調を　中東混乱のコスト警告―ノルウェー開発相",
+      "link": "https://www.jiji.com/jc/article?k=2026101400732&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-14T07:31:22.658405+00:00"
+    },
+    {
+      "title": "実行役２人、起訴内容認める　首都圏連続闇バイト強盗―千葉地裁",
+      "link": "https://www.jiji.com/jc/article?k=2026101400725&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-14T07:31:22.658376+00:00"
+    },
+    {
+      "title": "サイゼリヤ、平均6%値上げへ　ミラノ風ドリアは320円に",
+      "link": "https://www.asahi.com/articles/ASVBG26CQVBGULFA005M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-14T07:31:22.411023+00:00"
+    },
+    {
+      "title": "ワールドとTSI 経営統合で合意",
+      "link": "https://news.yahoo.co.jp/pickup/6598738?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-14T07:15:24+00:00"
+    },
+    {
+      "title": "U.S. Dollar Edges Lower as Treasury Yields Ease",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-u-s-cpi-data-993f6e8d?mod=rss_markets_main",
+      "summary": "The dollar fell slightly against a basket of currencies, tracking a decline in Treasury yields ahead of the release of September consumer-price inflation data at 1230 GMT.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-14T07:07:00+00:00"
+    },
+    {
       "title": "９月の中国輸出、過去最大　米欧と摩擦も、ＡＩ好調",
       "link": "https://www.jiji.com/jc/article?k=2026101400528&g=int&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-14T07:03:31.725604+00:00"
+    },
+    {
+      "title": "AI demand to exceed supply for 2 more years, says ASML",
+      "link": "https://www.ft.com/content/2fc239ae-b0d4-41e8-81d0-cc2c0b3aba01?syn-25a6b1a6=1",
+      "summary": "Europe’s most valuable company said its clients that include TSMC and Intel were experiencing ‘very, very strong demand’",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-14T06:50:27+00:00"
     },
     {
       "title": "U.S. Dollar Index’s Upward Momentum Starting to Slow, Daily Chart Shows",
@@ -812,6 +860,22 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-14T05:25:31.625268+00:00"
+    },
+    {
+      "title": "FOXF.O - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVzlSZ2VYNWFrMm05bTJ4UGtZQ0ZpdGdRTEhTLTNjenNNNmNyeURoajBaY09zZC1HUGFlRTRrR0NnVW5Ed0dHY0M5M0h5V2M1d2g4WEtVSGY1aUVJLUNFWjQtTnNCS0pweVBZOTJFd3BfYVpsZUhtdDJYSWdwSG80WTZVODFjYk9fb1E?oc=5",
+      "summary": "FOXF.O&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-14T05:07:05+00:00"
+    },
+    {
+      "title": "3842.t - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NQjJLSzc5bkc2ZjcyMDBzV0FQbi11amNvVTIzREk0Tl96ZDlzQ085b0h0bjRRc205LVJoWG9EOHlwZDRPN3dBWkdQbzRyd2UzZEI5ZHQ5VkVGek9iSnNfT3VaMzhKc0RBeEJKUVVTVU5XQUF4MElEMQ?oc=5",
+      "summary": "3842.t - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-14T05:06:58+00:00"
     },
     {
       "title": "相次ぐ情報漏洩、原因の一つを特定　「アプリ解析しサーバー攻撃」",
