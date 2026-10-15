@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T16:27:53.855542+00:00",
+  "generated_at": "2026-10-15T16:44:16.208577+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -726,6 +726,14 @@
       "published": "2026-10-15T17:00:00+00:00"
     },
     {
+      "title": "Worries About AI Borrowing Push Investors Toward Dow Industrials, Treasurys",
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-global-ai-selloff-gathers-pace-da79ad4d?mod=rss_markets_main",
+      "summary": "Fears around the AI trade caused the Nasdaq to slump for its fourth-straight day as investors turned away from tech and toward government bonds for safety.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-15T16:38:00+00:00"
+    },
+    {
       "title": "「うるう秒」実質廃止決定　国際度量衡総会",
       "link": "https://www.jiji.com/jc/article?k=2026101501270&g=soc&m=rss",
       "summary": "",
@@ -740,6 +748,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-15T16:20:00+00:00"
+    },
+    {
+      "title": "The technical actions needed to ensure the continuity of UTC",
+      "link": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+      "summary": "Article URL: https://www.bipm.org/en/cgpm-2026/resolution-5\nComments URL: https://news.ycombinator.com/item?id=50105777\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-15T16:11:36+00:00"
     },
     {
       "title": "Gold Futures Extend Gains As U.S. Yields, Dollar Decline",
@@ -766,6 +782,22 @@
       "published": "2026-10-15T16:08:00+00:00"
     },
     {
+      "title": "Krea 3 – Frontier Image Model 4× faster than Nano Banana Pro",
+      "link": "https://www.krea.ai/krea-3",
+      "summary": "Article URL: https://www.krea.ai/krea-3\nComments URL: https://news.ycombinator.com/item?id=50105648\nPoints: 8\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-15T16:04:05+00:00"
+    },
+    {
+      "title": "Neural Networks Are Already Clean",
+      "link": "https://already-clean.goodfire.com/",
+      "summary": "Article URL: https://already-clean.goodfire.com/\nComments URL: https://news.ycombinator.com/item?id=50105647\nPoints: 16\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-15T16:04:01+00:00"
+    },
+    {
       "title": "Steam Client Is Now Faster Than Epic's New Vibe Coded Launcher",
       "link": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
       "summary": "Article URL: https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/\nComments URL: https://news.ycombinator.com/item?id=50105635\nPoints: 50\n# Comments: 50",
@@ -780,6 +812,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-15T16:02:00+00:00"
+    },
+    {
+      "title": "Show HN: Proa – a Rust web framework with fast SSR and multi-target rendering",
+      "link": "https://proa.so/",
+      "summary": "Video: https://youtu.be/-CfCyvIKYyo?si=hCLuStkXxanCUJD1Video on multi-target rendering: https://youtu.be/pJx84jdBDKU?si=HRRd6dgUWXiqeWhqBenchmarks: https://github.com/Proa-Labs/proa-benchmarks\n\nComments URL: https://news.ycombinator.com/item?id=50105467\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-15T15:52:08+00:00"
     },
     {
       "title": "How Dynata scaled AI across the development lifecycle with AI-DLC and Kiro IDE",
@@ -1196,6 +1236,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-15T11:59:09+00:00"
+    },
+    {
+      "title": "strs.ta - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcjRYQVA1dnktU1VYXzdQWVFqamh5d00zYmY0NS1vWTBSZ2Zoa3NVTm1YdVJqQzhSNXBQdjctckI5emVTVzFuTkszaGFsVDd4RDNfQzRERUgzXzFUdWt3Q2VsSFVFZzlzclJLU2hNWldPLTUxc0NYOGk0LU0xOTZBNXZR?oc=5",
+      "summary": "strs.ta&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-15T11:56:59+00:00"
     },
     {
       "title": "0521.hk - | Stock Price & Latest News - Reuters",
