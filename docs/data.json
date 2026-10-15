@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T18:15:22.048291+00:00",
+  "generated_at": "2026-10-15T18:29:57.940677+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -710,12 +710,36 @@
   ],
   "items": [
     {
+      "title": "Big pharma stocks near all-time highs as tech selloff pushes investors toward safer bets",
+      "link": "https://www.marketwatch.com/story/big-pharma-stocks-near-all-time-highs-as-tech-selloff-pushes-investors-toward-safer-bets-0a5d5d07?mod=mw_rss_topstories",
+      "summary": "Shares of AbbVie, Eli Lilly and Gilead Sciences are trading at or near record highs.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-15T18:25:00+00:00"
+    },
+    {
+      "title": "Dow Industrials, Treasurys Rise as Investors Rotate Out of Tech",
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-global-ai-selloff-gathers-pace-da79ad4d?mod=rss_markets_main",
+      "summary": "Fears around the AI trade are sending the Nasdaq slumping for its fourth-straight day, with investors turning away from tech and toward government bonds for safety. The Dow industrials are in the green.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-15T18:17:00+00:00"
+    },
+    {
       "title": "長引く森林火災、影響深刻化　インドネシア、エルニーニョ現象が拍車",
       "link": "https://www.jiji.com/jc/article?k=2026101500850&g=int&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-15T18:15:16.718358+00:00"
+    },
+    {
+      "title": "Harvard endowment returns surge on back of AI and SpaceX investments",
+      "link": "https://www.ft.com/content/50c694da-c485-4176-853b-daf643eabb5c?syn-25a6b1a6=1",
+      "summary": "Ivy League university’s $68bn fund gained 27.1% in its second-best annual performance on record as private capital holdings rebound",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-15T18:08:24+00:00"
     },
     {
       "title": "Comex Gold Settles 1.54% Higher at $4147.70",
@@ -745,6 +769,14 @@
       "title": "Anthropic Update on Independent Evaluators",
       "link": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
       "summary": "Article URL: https://www.anthropic.com/news/an-update-on-independent-evaluators\nComments URL: https://news.ycombinator.com/item?id=50107114\nPoints: 11\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-15T17:30:10+00:00"
+    },
+    {
+      "title": "An update on independent evaluators",
+      "link": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "summary": "Article URL: https://www.anthropic.com/news/an-update-on-independent-evaluators\nComments URL: https://news.ycombinator.com/item?id=50107114\nPoints: 15\n# Comments: 5",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-15T17:30:10+00:00"
@@ -969,6 +1001,14 @@
       "title": "Steam Client Is Now Faster Than Epic's New Vibe Coded Launcher",
       "link": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
       "summary": "Article URL: https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/\nComments URL: https://news.ycombinator.com/item?id=50105635\nPoints: 50\n# Comments: 50",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-15T16:03:19+00:00"
+    },
+    {
+      "title": "Steam Client is now faster than Epic's new vibe coded launcher",
+      "link": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
+      "summary": "Article URL: https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/\nComments URL: https://news.ycombinator.com/item?id=50105635\nPoints: 158\n# Comments: 192",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-15T16:03:19+00:00"
