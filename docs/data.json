@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T14:50:37.125842+00:00",
+  "generated_at": "2026-10-15T15:08:03.506498+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -722,9 +722,25 @@
       "published": "2026-10-15T17:00:00+00:00"
     },
     {
+      "title": "Siri is so bad at everything",
+      "link": "https://www.reddit.com/r/apple/comments/1x6gz83/siri_is_so_bad_at_everything/",
+      "summary": "Article URL: https://www.reddit.com/r/apple/comments/1x6gz83/siri_is_so_bad_at_everything/\nComments URL: https://news.ycombinator.com/item?id=50104465\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-15T14:47:39+00:00"
+    },
+    {
       "title": "Donald Trump rules out live-streamed execution",
       "link": "https://www.ft.com/content/064f7a19-c495-4ba0-a5e5-a6c4bb764ddb?syn-25a6b1a6=1",
       "summary": "US president overrules defence secretary Pete Hegseth after widespread backlash",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-15T14:37:04+00:00"
+    },
+    {
+      "title": "Trump cancels Hegseth’s plan to livestream execution after backlash",
+      "link": "https://www.ft.com/content/064f7a19-c495-4ba0-a5e5-a6c4bb764ddb?syn-25a6b1a6=1",
+      "summary": "US president overrules decision to broadcast execution of former soldier who carried out Texas mass shooting in 2009",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-15T14:37:04+00:00"
