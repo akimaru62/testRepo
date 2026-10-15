@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T14:26:52.690553+00:00",
+  "generated_at": "2026-10-15T14:40:49.742006+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -730,6 +730,30 @@
       "published": "2026-10-15T14:26:47.326230+00:00"
     },
     {
+      "title": "片山大臣と韓国のイ・ヒョンイル副総理兼財政経済部長官との面会（令和8年10月15日（木））",
+      "link": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20261013104336.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-15T14:25:00+00:00"
+    },
+    {
+      "title": "片山大臣とタイのエクニティ副首相兼財務大臣との面会（令和8年10月15日（木））",
+      "link": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20261014103034.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-15T14:25:00+00:00"
+    },
+    {
+      "title": "片山大臣とインドのシタラマン財務大臣兼企業大臣との面会（令和8年10月15日（木））",
+      "link": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20261013112134.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-15T14:25:00+00:00"
+    },
+    {
       "title": "Investors Turn to Safety of Treasurys as Tech Stocks Extend Selloff",
       "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-global-ai-selloff-gathers-pace-da79ad4d?mod=rss_markets_main",
       "summary": "Fears around the AI trade sent tech stocks slumping for a second day and investors turned to government bonds for safety.",
@@ -776,6 +800,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-15T13:26:08+00:00"
+    },
+    {
+      "title": "Wayland desktop for Linux with skeuomorphic design",
+      "link": "https://github.com/fyzugx/DEsk",
+      "summary": "Article URL: https://github.com/fyzugx/DEsk\nComments URL: https://news.ycombinator.com/item?id=50103338\nPoints: 11\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-15T13:23:44+00:00"
     },
     {
       "title": "ロシア製油所、無人機で火災　ウクライナが攻撃再開か",
@@ -1072,6 +1104,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-15T11:00:00+00:00"
+    },
+    {
+      "title": "9450.t - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fVGdHYkRGQ1lGVlRtQmF2dGptYVAzZkg2UlAzaGFxS25PVGNmVk01X3VRbUdVUVNCazBsTjRyMGtBa0NkYU9SVDFBa21ZX013UHlZVmE3b2RPdXp5eTJGQllpTExLUnR2elE?oc=5",
+      "summary": "9450.t - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-15T10:57:45+00:00"
     },
     {
       "title": "西武池袋、日常使いの7～8階が11月から開業　全面開業は来春以降",
@@ -1517,6 +1557,14 @@
       "title": "Stock Market Today: Investors Turn to Safety of Treasurys as Tech Stocks Extend Selloff",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-15-2026?mod=rss_markets_main",
       "summary": "CoreWeave stock and bonds slump as worries around heavy AI borrowing spread",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-15T08:17:42+00:00"
+    },
+    {
+      "title": "Stock Market Today: Investors Turn to Safety of Treasurys as Tech Selloff Extends",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-15-2026?mod=rss_markets_main",
+      "summary": "CoreWeave stock and bonds slump as worries around heavy AI borrowing spread; Nasdaq slides",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-15T08:17:42+00:00"
