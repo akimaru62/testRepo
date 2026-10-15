@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T01:55:14.346945+00:00",
+  "generated_at": "2026-10-15T02:11:09.710793+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -694,9 +694,93 @@
     {
       "url": "https://azure.microsoft.com/ja-jp/blog/feed/",
       "error": "HTTPSConnectionPool(host='azure.microsoft.com', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f30fc223a10>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "悪質ストーカーにＧＰＳ装着検討　カウンセリングや治療、受診義務化も―警察庁が有識者会議設置",
+      "link": "https://www.jiji.com/jc/article?k=2026101500334&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-15T02:11:03.563418+00:00"
+    },
+    {
+      "title": "「米大統領が最終決定」　ウクライナのスターリンク利用で―マスク氏",
+      "link": "https://www.jiji.com/jc/article?k=2026101500329&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-15T02:11:03.563404+00:00"
+    },
+    {
+      "title": "重要航空遺産に練習機「立飛Ｒ―５３」など　戦後もう一度大空への夢実現、「情熱の結晶」",
+      "link": "https://www.jiji.com/jc/article?k=2026101401283&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-15T02:11:03.563383+00:00"
+    },
+    {
+      "title": "米ネトフリ、１０００人削減へ　２２年以来最大、全従業員の６％―報道",
+      "link": "https://www.jiji.com/jc/article?k=2026101500278&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-15T02:11:03.563319+00:00"
+    },
+    {
+      "title": "日経平均、一時3100円超安　米国のインフレ懸念で利上げ観測再燃",
+      "link": "https://www.asahi.com/articles/ASVBH0F3XVBHULFA002M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-15T02:11:03.331173+00:00"
+    },
+    {
+      "title": "これが新世界遺産｢飛鳥･藤原｣観光の最前線だ！クルマで巡る見どころと現地でわかった最新の駐車場事情 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960907?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2026年7月に日本で27件目の世界遺産に登録された奈良県の｢飛鳥･藤原の宮都｣。観光客でにぎわう注目エリアで推奨されているレンタサイクルではなく､レンタカーで巡ってそのアクセス性を確かめた。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-15T02:00:00+00:00"
+    },
+    {
+      "title": "内需が大きく落ち込む中国経済で起きている｢3つの二極化｣…事態は深刻化するのに政府が景気テコ入れに慎重な理由 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/959502?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2026年の中国経済が成長減速に直面しつつも､政府は大規模な景気刺激策に慎重な姿勢を取っています。ハイテク輸出の飛躍と内需低迷､政策の狭間で中国はどんな道を選択するのでしょうか。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-15T02:00:00+00:00"
+    },
+    {
+      "title": "A Swiss Banking Giant Thinks the Unthinkable: Moving Out of Switzerland",
+      "link": "https://www.wsj.com/finance/banking/a-swiss-banking-giant-thinks-the-unthinkable-moving-out-of-switzerland-ecc82d50?mod=rss_markets_main",
+      "summary": "The bank has received approaches from potential U.S. deal partners as it publicly spars with Swiss politicians over substantially higher capital requirements.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-15T02:00:00+00:00"
+    },
+    {
+      "title": "日経平均 一時3000円以上値下がり",
+      "link": "https://news.yahoo.co.jp/pickup/6598832?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-15T01:57:34+00:00"
+    },
+    {
+      "title": "Asian Currencies Mixed, But May be Weighed by Higher Prospects of Fed Rate Hikes",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-but-may-be-weighed-by-higher-prospects-of-fed-rate-hikes-31f584a1?mod=rss_markets_main",
+      "summary": "Asian currencies were mixed against the dollar, but may be weighed by higher prospects of Fed rate hikes.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-15T01:56:00+00:00"
+    },
     {
       "title": "日経平均、一時2900円超安　米国のインフレ懸念で利上げ観測再燃",
       "link": "https://www.asahi.com/articles/ASVBH0F3XVBHULFA002M.html?ref=rss",
@@ -712,6 +796,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-10-15T01:46:35+00:00"
+    },
+    {
+      "title": "Global tech sell-off deepens as Asian markets tumble",
+      "link": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
+      "summary": "AI-related stocks in South Korea and Japan suffer after Wall Street falls on hot US inflation",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-15T01:44:46+00:00"
     },
     {
       "title": "Gold Rises on Possible Technical Correction",
