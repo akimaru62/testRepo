@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T04:09:13.818252+00:00",
+  "generated_at": "2026-10-15T04:28:12.892263+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -702,6 +702,70 @@
   ],
   "items": [
     {
+      "title": "須藤晃さん死去　音楽プロデューサー",
+      "link": "https://www.jiji.com/jc/article?k=2026101500456&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-15T04:28:07.893394+00:00"
+    },
+    {
+      "title": "中朝結ぶ新大橋が開通　貿易・往来拡大、関係改善進む",
+      "link": "https://www.jiji.com/jc/article?k=2026101500144&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-15T04:28:07.893356+00:00"
+    },
+    {
+      "title": "Won-Yen Divergence May Likely Be Due to Chip Demand Boom",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-but-may-be-weighed-by-higher-prospects-of-fed-rate-hikes-31f584a1?mod=rss_markets_main",
+      "summary": "The won’s divergence from the yen may be more due to the AI boom than rate differentials, according to the IMF.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-15T04:16:00+00:00"
+    },
+    {
+      "title": "Global AI sell-off deepens as Asian markets tumble",
+      "link": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
+      "summary": "Sharp falls trigger trading halt on South Korea’s Kospi and Japan’s Nikkei 225 sinks 5%, following Wall Street lower",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-15T04:04:16+00:00"
+    },
+    {
+      "title": "Ukraine to resume strikes on Russian refineries, Zelenskyy says",
+      "link": "https://www.ft.com/content/4d79b52f-1f0d-4739-82ab-7ecfb4251326?syn-25a6b1a6=1",
+      "summary": "Ukrainian president expresses anger in FT interview at ‘dangerous’ withdrawal of US intelligence sharing and weakening of Starlink satellite internet service",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-15T04:00:39+00:00"
+    },
+    {
+      "title": "The man who would lead McKinsey",
+      "link": "https://www.ft.com/content/ff917929-c68e-4bf6-b77f-ee1f7d675934?syn-25a6b1a6=1",
+      "summary": "North America boss Eric Kutcher is the candidate to beat in the consultancy’s byzantine election",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-15T04:00:29+00:00"
+    },
+    {
+      "title": "Is the K-shaped economy really more of an E?",
+      "link": "https://www.ft.com/content/2feb3013-c01a-4fa6-aa11-67354fb71cc8?syn-25a6b1a6=1",
+      "summary": "America remains a very unequal place, but on many metrics inequality is not increasing",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-15T04:00:29+00:00"
+    },
+    {
+      "title": "Private credit funds target English football clubs with player-backed loans",
+      "link": "https://www.ft.com/content/122eb13c-54a6-4fb5-8bb1-b0755a053502?syn-25a6b1a6=1",
+      "summary": "Lenders plan to take security over receivables from future player sales in novel ‘squad-value financing’ deals",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-15T04:00:19+00:00"
+    },
+    {
       "title": "｢成長は大きな変化じゃなければ｣と思い込む人が読んでおきたいこと　実は｢小さな成長｣が後押しする僕らの伸び代 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/960995?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "｢成長｣とは特別な出来事だけを指すものではなく､日常の中で繰り返し訪れる小さな変化かもしれません。荒木博行氏の著書『成長の地図』をもとに､仕事や子育ての中で感じる\"ささやかな成長\"の意味と､その本質…",
@@ -820,6 +884,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-10-15T02:50:00+00:00"
+    },
+    {
+      "title": "Show HN: My Terminal Themes Web App",
+      "link": "https://news.ycombinator.com/item?id=50098454",
+      "summary": "Well, after 15 years of saying \"Someday I'll turn this into a web app,\" I finally did it!I've been maintaining a popular repo of terminal themes at https://github.com/mbadolato/iTerm2-Color-Schemes, and it was finally time to build the app with all the features I wanted!So, the next-gen version is live at https://terminalthemes.com! It currently has over 800 themes, and provides downloads for close to 40 different formats (iTerm, Ghostty, Windows, and many more)It's free for everyone. An account is not needed to browse and download, but registering for an account (free) allows you to vote, bookmark, submit themes, etc.I focused on a11y features for those who need it, in addition to adding Find My Theme and other tools to make it easy to find something you like!Live terminal and code previews help show a more realistic view of the terminal, as opposed to the ANSI screenshots used at the GitHub repository. Those are still there, for those who like them.I would love for you guys to check it out and provide feedback, feature suggestions, whatever!And a huge thanks to the community of people that have contributed themes, ports to other terminals, and tools to provide conversions between formats over the years.Oh! And if you've ever contributed themes to the GitHub repo, please register for an account, find your theme(s), and hit the Claim Authorship button!\n\nComments URL: https://news.ycombinator.com/item?id=50098454\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-15T02:33:42+00:00"
     },
     {
       "title": "Singapore Dollar Strengthens Amid Falling U.S. Treasury Yields",
