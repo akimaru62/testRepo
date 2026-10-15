@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T15:52:11.859085+00:00",
+  "generated_at": "2026-10-15T16:08:49.036896+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -702,6 +702,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f2295617cb0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fd13a01fe00>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -720,6 +724,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-15T17:00:00+00:00"
+    },
+    {
+      "title": "パジェロ復活、背景に「ブランド埋没への危機感」　三菱自動車社長",
+      "link": "https://www.asahi.com/articles/ASVBH2CWYVBHULFA00FM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-15T16:08:41.474084+00:00"
+    },
+    {
+      "title": "Treasury, Eurozone Bond Yields Fall as Risk Aversion Beats Inflation Fears",
+      "link": "https://www.wsj.com/finance/investing/treasury-eurozone-bond-yields-fall-to-multiweek-lows-as-u-s-inflation-shock-fades-29c7b1c1?mod=rss_markets_main",
+      "summary": "U.S. Treasury and German Bund yields slid to multiweek lows as investors’ focus seemed to shift away from inflation to concerns over the impact of high-borrowing costs on the economic outlook.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-15T16:02:00+00:00"
     },
     {
       "title": "How Dynata scaled AI across the development lifecycle with AI-DLC and Kiro IDE",
@@ -832,6 +852,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-15T14:58:48+00:00"
+    },
+    {
+      "title": "Treasuries rally as investors seek shelter from AI turbulence",
+      "link": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
+      "summary": "Global chip stocks hit with two-day sell-off amid fears over sustainability of AI boom",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-15T14:56:35+00:00"
     },
     {
       "title": "Siri is so bad at everything",
