@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T17:23:00.881755+00:00",
+  "generated_at": "2026-10-15T17:35:46.688980+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -734,6 +734,14 @@
       "published": "2026-10-15T17:10:00+00:00"
     },
     {
+      "title": "More on Anthropic's Scion ripping off Mononoke",
+      "link": "https://sunshowers.io/posts/anthropic-mononoke-2/",
+      "summary": "Article URL: https://sunshowers.io/posts/anthropic-mononoke-2/\nComments URL: https://news.ycombinator.com/item?id=50106738\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-15T17:05:19+00:00"
+    },
+    {
       "title": "国際関係,金融安定理事会による「G20金融規制改革の実施モニタリングレビュー：2026年報告書」について公表しました。",
       "link": "https://www.fsa.go.jp/inter/fsf/20261015_1/20261015_1.html",
       "summary": "",
@@ -796,6 +804,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-15T16:27:49.429933+00:00"
+    },
+    {
+      "title": "Show HN: BlastLoop, a structure-first coding method for AI agents",
+      "link": "https://github.com/rlshaw-ml/BlastLoop",
+      "summary": "Article URL: https://github.com/rlshaw-ml/BlastLoop\nComments URL: https://news.ycombinator.com/item?id=50106062\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-15T16:26:39+00:00"
     },
     {
       "title": "Show HN: Sygal – Convert PDFs, scans and web pages to Markdown, locally",
