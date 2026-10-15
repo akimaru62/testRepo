@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T08:10:17.702969+00:00",
+  "generated_at": "2026-10-15T08:33:51.859773+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -718,6 +718,54 @@
       "published": "2026-10-15T17:00:00+00:00"
     },
     {
+      "title": "高市首相「スパイ行為の事実ない」　ロシア記者拘束、自民解放要求促す",
+      "link": "https://www.jiji.com/jc/article?k=2026101500520&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-15T08:33:46.834178+00:00"
+    },
+    {
+      "title": "武部農水相が就任へ　簗氏後任、高市首相「即戦力」",
+      "link": "https://www.jiji.com/jc/article?k=2026101500717&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-15T08:33:46.834162+00:00"
+    },
+    {
+      "title": "パナソニックは日本と台湾でドラム式洗濯乾燥機計６４万台をリコールする",
+      "link": "https://www.jiji.com/jc/article?k=2026101500803&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-15T08:33:46.834114+00:00"
+    },
+    {
+      "title": "年金は月10万円 新聞配達する71歳",
+      "link": "https://news.yahoo.co.jp/pickup/6598886?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-15T08:27:48+00:00"
+    },
+    {
+      "title": "Stock Market Today: Tech Selloff to Extend Into Second Day",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-15-2026?mod=rss_markets_main",
+      "summary": "Asian stocks slump and Nasdaq futures slide",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-15T08:17:42+00:00"
+    },
+    {
+      "title": "Chipmaker TSMC profits surge amid relentless AI demand",
+      "link": "https://www.ft.com/content/bf6808c6-ce2d-444f-86c9-a9b557b36a47?syn-25a6b1a6=1",
+      "summary": "Taiwanese manufacturer beats estimates in third quarter with earnings of $23.6bn",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-15T08:11:55+00:00"
+    },
+    {
       "title": "ドラム式洗濯乾燥機64万台に発火のおそれ　パナソニックがリコール",
       "link": "https://www.asahi.com/articles/ASVBH2H12VBHPLFA006M.html?ref=rss",
       "summary": "",
@@ -852,6 +900,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-10-15T07:22:04+00:00"
+    },
+    {
+      "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+      "link": "https://github.com/awslabs/aidlc-workflows",
+      "summary": "Article URL: https://github.com/awslabs/aidlc-workflows\nComments URL: https://news.ycombinator.com/item?id=50100387\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-15T07:20:39+00:00"
     },
     {
       "title": "Sterling Little Moved After U.K. GDP Data",
@@ -5204,6 +5260,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-14T00:55:00+00:00"
+    },
+    {
+      "title": "Creating a Garmin \"MCP\"",
+      "link": "https://jackantico.io/garmin-mcp",
+      "summary": "Article URL: https://jackantico.io/garmin-mcp\nComments URL: https://news.ycombinator.com/item?id=50081045\nPoints: 18\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-14T00:52:25+00:00"
     },
     {
       "title": "Nikkei Rises 0.3% on Possible Position Adjustments Before U.S. CPI Data",
