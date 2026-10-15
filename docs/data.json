@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T05:50:25.560677+00:00",
+  "generated_at": "2026-10-15T06:13:27.078417+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -702,6 +702,38 @@
   ],
   "items": [
     {
+      "title": "元ＣＩＡの北朝鮮専門家、「起訴猶予」へ　韓国政府のため活動、見返り受け取った疑い",
+      "link": "https://www.jiji.com/jc/article?k=2026101500655&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-15T06:13:22.235520+00:00"
+    },
+    {
+      "title": "第13回株式会社産業革新投資機構社債に対する政府保証の付与",
+      "link": "https://www.mof.go.jp/jgbs/topics/gov_guaranteed_bonds/hu2030.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-15T06:00:00+00:00"
+    },
+    {
+      "title": "Copper Prices Fall Amid Stronger Dollar",
+      "link": "https://www.wsj.com/opinion/gold-rises-on-possible-technical-correction-28090dcd?mod=rss_markets_main",
+      "summary": "Copper prices were lower as hotter-than-expected U.S. inflation data bolstered the dollar and Treasury yields, weighing on risk appetite",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-15T05:57:00+00:00"
+    },
+    {
+      "title": "Earnings Support Risk Assets, but Limits to Fed Rate Cut Weigh",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-9-tracking-wall-streets-losses-c1844121?mod=rss_markets_main",
+      "summary": "​As long as economic growth outweighs the impact of higher interest rates, corporate earnings can provide support for risk assets​, Eyb & Wallwitz said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-15T05:53:00+00:00"
+    },
+    {
       "title": "子の習い事 社会性やタイパ重視",
       "link": "https://news.yahoo.co.jp/pickup/6598870?source=rss",
       "summary": "",
@@ -788,6 +820,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-15T04:28:07.893356+00:00"
+    },
+    {
+      "title": "Show HN: Flipflop, iroh-powered persistent tunnels for filesharing",
+      "link": "https://github.com/andunieee/flipflop",
+      "summary": "This is a project that spun from my frustrations of using LocalSend and DashBeam to transfer stuff between devices, and with the extra goal of being fast, trying out the Slint framework and, most importantly, establishing a communication channel with trusted external people that can be left always on.\n\nComments URL: https://news.ycombinator.com/item?id=50099136\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-15T04:25:28+00:00"
     },
     {
       "title": "An Apology",
@@ -2748,6 +2788,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-14T14:54:00+00:00"
+    },
+    {
+      "title": "yal.ax - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb2VNTVc5b0JhdWFaMjd3RUtUb3c4ZFFuWE4tTmdUTkFSalNqdHZtb2FjUmxsamltdGxtd05pNjZiWlp1Q1dHTGM5TVBuZzExU0VEUlV0Uzc5blVuZnFwMWZraHNGNmI3OVJhZEtCbmt2VDZtN25lUEFobUhYMzk0aQ?oc=5",
+      "summary": "yal.ax&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-14T14:52:03+00:00"
     },
     {
       "title": "AI is mass decompiling games. That's both awesome and scary",
