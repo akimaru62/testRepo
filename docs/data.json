@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T17:47:56.106758+00:00",
+  "generated_at": "2026-10-15T18:15:22.048291+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -710,6 +710,46 @@
   ],
   "items": [
     {
+      "title": "長引く森林火災、影響深刻化　インドネシア、エルニーニョ現象が拍車",
+      "link": "https://www.jiji.com/jc/article?k=2026101500850&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-15T18:15:16.718358+00:00"
+    },
+    {
+      "title": "Comex Gold Settles 1.54% Higher at $4147.70",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-on-possible-technical-correction-28090dcd?mod=rss_markets_main",
+      "summary": "Gold settled 1.5% higher and silver rose 2.3%, with both metals snapping a three-session losing streak.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-15T17:54:00+00:00"
+    },
+    {
+      "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
+      "link": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
+      "summary": "Spending all your cash first can make your income surge in later years.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-15T17:52:00+00:00"
+    },
+    {
+      "title": "Muse Spark Open",
+      "link": "https://research.meta.ai/blog/muse-spark-open",
+      "summary": "https://dev.meta.ai/resources/blog/build-with-muse-spark-ope...https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42Bhttps://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-...\n\nComments URL: https://news.ycombinator.com/item?id=50107379\nPoints: 79\n# Comments: 43",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-15T17:47:39+00:00"
+    },
+    {
+      "title": "Anthropic Update on Independent Evaluators",
+      "link": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "summary": "Article URL: https://www.anthropic.com/news/an-update-on-independent-evaluators\nComments URL: https://news.ycombinator.com/item?id=50107114\nPoints: 11\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-15T17:30:10+00:00"
+    },
+    {
       "title": "‘I like the idea of a big return’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
       "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
       "summary": "“I know you’re not supposed to put money you can’t afford to lose into speculative stuff.”",
@@ -838,6 +878,14 @@
       "published": "2026-10-15T16:26:16+00:00"
     },
     {
+      "title": "Jev Meets the Trolley Problem",
+      "link": "https://zachlandes.com/trolley-problem/",
+      "summary": "Article URL: https://zachlandes.com/trolley-problem/\nComments URL: https://news.ycombinator.com/item?id=50106023\nPoints: 19\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-15T16:24:52+00:00"
+    },
+    {
       "title": "CoreWeave investors are feeling spooked, as the company’s stock and bonds see fresh pressure",
       "link": "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories",
       "summary": "It’s getting more expensive for investors to buy protection against a CoreWeave default.",
@@ -894,9 +942,25 @@
       "published": "2026-10-15T16:04:05+00:00"
     },
     {
+      "title": "Krea 3 – An image model built for editing at scale",
+      "link": "https://www.krea.ai/krea-3",
+      "summary": "Article URL: https://www.krea.ai/krea-3\nComments URL: https://news.ycombinator.com/item?id=50105648\nPoints: 103\n# Comments: 49",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-15T16:04:05+00:00"
+    },
+    {
       "title": "Neural Networks Are Already Clean",
       "link": "https://already-clean.goodfire.com/",
       "summary": "Article URL: https://already-clean.goodfire.com/\nComments URL: https://news.ycombinator.com/item?id=50105647\nPoints: 16\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-15T16:04:01+00:00"
+    },
+    {
+      "title": "Neural networks are clean",
+      "link": "https://already-clean.goodfire.com/",
+      "summary": "https://twitter.com/nickcammarata/status/2110757819427574056\n\nComments URL: https://news.ycombinator.com/item?id=50105647\nPoints: 129\n# Comments: 35",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-15T16:04:01+00:00"
