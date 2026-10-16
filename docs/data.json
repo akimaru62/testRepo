@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T14:27:15.170510+00:00",
+  "generated_at": "2026-10-16T14:42:44.016913+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -710,6 +710,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fef6e8e8050>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7ff0d3e00590>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -744,6 +748,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-16T17:00:00+00:00"
+    },
+    {
+      "title": "The stock market has already crashed: Why a Wall Street veteran says Nike is the ultimate turnaround trade.",
+      "link": "https://www.marketwatch.com/story/the-stock-market-has-already-crashed-why-a-wall-street-veteran-says-nike-is-the-ultimate-turnaround-trade-f4429eb3?mod=mw_rss_topstories",
+      "summary": "Larry McDonald says the S&amp;P 500’s record chasing is hiding lots of companies with sliding stocks. He has ideas on how to play that.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-16T14:28:00+00:00"
     },
     {
       "title": "阪神の前川右京が左手小指骨折　プロ野球ＣＳ",
