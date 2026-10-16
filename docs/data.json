@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T15:36:10.987046+00:00",
+  "generated_at": "2026-10-16T15:49:02.532505+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -718,6 +718,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fcce4a0c6e0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f084c1d8830>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
