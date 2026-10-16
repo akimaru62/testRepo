@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T04:09:09.223766+00:00",
+  "generated_at": "2026-10-16T04:28:37.358595+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -706,9 +706,77 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fd13a01fe00>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fef6e8e8050>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "消費減税法案、２０日審議入り　高市首相出席、自民・中道合意",
+      "link": "https://www.jiji.com/jc/article?k=2026101600416&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-16T04:28:31.120661+00:00"
+    },
+    {
+      "title": "ドジャース、４連敗で敗退　ワールドシリーズ進出逃す―米大リーグ",
+      "link": "https://www.jiji.com/jc/article?k=2026101600487&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-16T04:28:31.120649+00:00"
+    },
+    {
+      "title": "ドジャース、４連敗で敗退　大谷翔平３ランも空砲、ブルワーズＶ　ＭＬＢ",
+      "link": "https://www.jiji.com/jc/article?k=2026101600216&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-16T04:28:31.120634+00:00"
+    },
+    {
+      "title": "北海道新聞「報道の自由尊重されるべき」　記者拘束受け紙面に見解",
+      "link": "https://www.jiji.com/jc/article?k=2026101600420&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-16T04:28:31.120593+00:00"
+    },
+    {
+      "title": "How Trump’s America fell in love with UFC",
+      "link": "https://www.ft.com/content/56d14d34-955a-41e9-90da-5eda7d179509?syn-25a6b1a6=1",
+      "summary": "For politicians, celebrities and tycoons, the brutal Ultimate Fighting Championship has become a vote-winner and money-spinner like no other",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-16T04:00:17+00:00"
+    },
+    {
+      "title": "US business leaders are waking up to the perils of plutopopulism",
+      "link": "https://www.ft.com/content/586218d3-6943-4690-8dd8-63dd329c781d",
+      "summary": "Companies wanted a president who would cut taxes and rules, they got one who has blown holes in free trade and global alliances",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-16T04:00:17+00:00"
+    },
+    {
+      "title": "The secret fight around financial flows",
+      "link": "https://www.ft.com/content/9585ba4d-5036-4f5d-9656-0dc4f6bdee4e?syn-25a6b1a6=1",
+      "summary": "Quicker responses to trade challenges mean companies can free up capital",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-16T04:00:17+00:00"
+    },
+    {
+      "title": "UK government courted UBS over London HQ move",
+      "link": "https://www.ft.com/content/1bd1cdc2-9dc1-4538-8820-129e9bd9117b?syn-25a6b1a6=1",
+      "summary": "Rachel Reeves pitched the City as alternative home for Swiss bank, which is weighing its options amid new capital proposals",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-16T04:00:17+00:00"
+    },
     {
       "title": "｢職場の掲示板｣｢対面での集会｣｢紙による投票｣…アナログ信仰を脱した労働組合に訪れるかもしれない\"バラ色の未来\" | キャリア・教育 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/958478?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -9086,6 +9154,14 @@
       "published": "2026-10-13T15:49:56+00:00"
     },
     {
+      "title": "米シティ、第3四半期利益は予想上回る 投資銀行・ウェルス部門が寄与 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmb3hSdlh6bTk3SU5TSFVqRjRBOEVWaVh0UGxReDk3WGRlU3lYaUZZYVQzbjRBbld4REdvamtWQ283Rm5ER0xiWllpLThMaUtOWGtOYkt4QUNGWEw4OTJ0Q1VjekVRcHpQSnNaS3QwVmoyNlBuQUdnRF9pa2o?oc=5",
+      "summary": "米シティ、第3四半期利益は予想上回る 投資銀行・ウェルス部門が寄与&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-13T15:42:10+00:00"
+    },
+    {
       "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
       "link": "https://news.ycombinator.com/item?id=50073471",
       "summary": "Hey Hacker News! I'm Eric, the founder of Consus. We route all AI requests to ITAR restricted and controlled unclassified information (CUI) compliant infrastructure.\nConsus itself satisfies ITAR restrictions, and we recently completed our FedRAMP equivalency audit against the 410 FedRAMP High controls. FedRAMP High is the U.S. government’s strictest security baseline for cloud services handling sensitive unclassified data. A breach of this data could cause severe or catastrophic harm. Achieving FedRAMP equivalency, or authorization, is required before processing CUI information.Demo: https://youtu.be/6MYxJe6P4oYAerospace and defense is experiencing rapid growth. Unfortunately, most companies are struggling to use AI because of necessary data protections & compliance risk. These companies can move even faster if they could use the AI tools that most other industries take for granted.I spent most of my career prior to Consus in aerospace & defense. I launched national security payloads at SpaceX, and was an early employee at Castelion. I’ve watched first hand how compliance red-tape makes it difficult for companies to adopt new technologies and trust vendors that touch their sensitive data. For example, I worked with a satellite manufacturer that doesn’t allow any AI tools, even for non-sensitive work.Even as AI has become extremely useful over the past 9-12 months, I was surprised by how many aerospace & defense companies refused to touch it. They could see how it could be helpful, but they were scared about model providers training on their data, violating an ITAR rule, or risk losing new business because of a failed cyber assessment. These are all rational fears.There were a lot of ways to solve some/all of these problems, but we focused on building a compliant AI inference layer that can \"plug\" into any AI tool or workflow. Just as OpenRouter integrates with most tools, Consus can connect to tools like ChatGPT or Claude, open source tools including the Pi coding agent or Open WebUI, or integrate with applications built and maintained by individual organizations.Almost no aerospace & defense company lives in all three major GovClouds (AWS, Azure, Google). When I mapped where frontier models can legally run for ITAR and CUI work, each provider had some subset of models, and each model achieved varying levels of compliance. Our customers don’t think in terms of cloud providers. They think about the data controls they require, and the model they want to use.\nThat is why we built the compliance suffix. Under the hood, every request hits a single OpenAI-compatible endpoint, where keys are verified and policy is enforced before anything touches inference. Every model name must carry a compliance suffix, such as gpt-5.6-sol:fedramp-high or claude-opus-5-5:itar, and any bare model name is rejected. We never proxy to the standard commercial endpoints.Our customers are also able to build an allowlist of models, and assign spend & model restrictions to individual users in the organization. This is all handled through our Consus Portal where teams can manage spend, keys, and policies.A typical question we hear is why not just use Bedrock in AWS GovCloud or Azure Government directly. For small teams, just getting access to these platforms is difficult. For larger organizations, GovCloud lets you inherit some but not all of the controls needed to handle sensitive data. Also, models are split across providers: GPT-5.6 Sol is only available in Azure Government, while Claude Opus 5.5 is served through Bedrock in AWS GovCloud. If you want both, you are standing up and securing two separate government cloud environments. We run all of them behind one endpoint so customers don’t have to pick a cloud, and we handle the compliance work for each one.Given the data sensitivities, Consus does not store any customer data at rest. All prompts and completions stay in memory only for the length of the request and are never logged or written to disk. Zero data retention is strictly enforced both on ourselves and the infrastructure/model providers. We do keep metadata on each request and response for billing and audit purposes.Consus is not self-serve by design. ITAR requires us to know exactly who is on the other end of every key, so we verify every organization and put a contract in place before issuing API keys. We charge our customers a compliance fee starting at $40/mo/seat plus AI tokens at cost.We are actively serving customers, and would love any feedback from security experts, or developers/engineers working in highly regulated industries!References:\nAPI Documentation: https://gateway.consus.io/overview\nSecurity & Architecture: https://gateway.consus.io/security\nCompliance Details: https://consus.io/compliance\n\nComments URL: https://news.ycombinator.com/item?id=50073471\nPoints: 5\n# Comments: 2",
@@ -9878,6 +9954,14 @@
       "published": "2026-10-13T11:08:30.997147+00:00"
     },
     {
+      "title": "9974.ODX - | Stock Price & Latest News | Reuters - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV1FQZGtQb2Q0ZnZRMVdGYTFjWjNIWk5teGxUeU5teHJyREpCQXo2NGdSd1pYSHFlWHpvTjdvM0FKWmJaVUtaNWlNTWl0V3hOcFpXUjRFVGpUUjNJVmZTc09tSzhWZlRBMjR3bWdmTFdjZ3lnb3NxX1VvaWhKQzJ6RkhoUQ?oc=5",
+      "summary": "9974.ODX - | Stock Price & Latest News | Reuters&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-13T11:06:05+00:00"
+    },
+    {
       "title": "A SpaceX launch shortage is fueling a $100 billion investing spree",
       "link": "https://www.marketwatch.com/story/a-spacex-launch-shortage-is-fueling-a-100-billion-investing-spree-25b7d043?mod=mw_rss_topstories",
       "summary": "A commercial launch bottleneck has spurred an unprecedented wave of investment in space infrastructure and applications",
@@ -9996,6 +10080,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-13T10:30:55.729306+00:00"
+    },
+    {
+      "title": "アジアでヘッジファンド投資拡大、「債券4割」の分散効果に疑問 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZmJYdEJqY0R0OEQwZ3VSMFdjOVRHOUNYaHVwTnh4Z29WNHBVcnREaDA2Y0FIVzlLTEhFNUpLQTRkcnRDQjZscUx0bXJWUnBjbjNZQ2NhYU9xODBQSVg0U1Vfc2JxYWNUTTIxUXN0MVc1SWU3X3EtenlLcHFIZlJQVVFyZnM?oc=5",
+      "summary": "アジアでヘッジファンド投資拡大、「債券4割」の分散効果に疑問&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-13T10:30:10+00:00"
     },
     {
       "title": "11 year old unsoundness bugs found in Rust borrow checker",
