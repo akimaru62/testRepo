@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T19:34:44.157603+00:00",
+  "generated_at": "2026-10-16T19:47:44.046454+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -726,6 +726,30 @@
   ],
   "items": [
     {
+      "title": "Microsoft wants to make AI cheaper. Will investors actually see the savings?",
+      "link": "https://www.marketwatch.com/story/microsoft-wants-to-make-ai-cheaper-will-investors-actually-see-the-savings-0a3c3ac0?mod=mw_rss_topstories",
+      "summary": "Microsoft is betting that its custom chips can lower costs, but the AI equation is more complicated than that.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-16T19:35:00+00:00"
+    },
+    {
+      "title": "The Fatal Flaw of 911",
+      "link": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health",
+      "summary": "Article URL: https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health\nComments URL: https://news.ycombinator.com/item?id=50123356\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T19:33:00+00:00"
+    },
+    {
+      "title": "鉄道少年が熱狂､｢ブルートレイン｣牽引機関車の記憶　国鉄時代の｢九州ブルトレ｣から｢北斗星｣まで | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961181?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "かつて少年たちを熱狂させた｢ブルトレブーム｣を巻き起こし､消滅した今も根強い人気の寝台特急｢ブルートレイン｣。全国各地でSLから電気機関車までさまざまな機関車がその牽引役を務めました。鉄道写真家･南…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-16T19:30:00+00:00"
+    },
+    {
       "title": "消費減税、国民民主とも連携　公明幹事長「給付で一致」",
       "link": "https://www.jiji.com/jc/article?k=2026101600781&g=pol&m=rss",
       "summary": "",
@@ -742,6 +766,14 @@
       "published": "2026-10-16T19:04:47+00:00"
     },
     {
+      "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+      "link": "https://words.filippo.io/seeds-solved/",
+      "summary": "Article URL: https://words.filippo.io/seeds-solved/\nComments URL: https://news.ycombinator.com/item?id=50122920\nPoints: 12\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T19:03:32+00:00"
+    },
+    {
       "title": "Big Tech stocks head for biggest weekly drop since ‘liberation day’",
       "link": "https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1",
       "summary": "AI trade jitters send investors scrambling for government debt in a move that halts a months-long Treasury sell-off",
@@ -756,6 +788,30 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-16T18:55:59+00:00"
+    },
+    {
+      "title": "Show HN: Stoke Money – Personal finance app built around a cash flow forecast",
+      "link": "https://stoke.money",
+      "summary": "Hi HN,I've been through many finance tracking apps, starting with Personal Capital, then Monarch, and most recently Copilot. None of them have worked perfectly for my needs.All of these apps tend to model “cash flow” as the net sum of your transactions during a month, yet while credit card charges are reported immediately, they are typically deducted from checking (cash) accounts the following month when the bill is due. As a result, I've always had to maintain a separate spreadsheet to track my actual cash flow.These apps also have a huge focus on managing budgets, which has never been for me. My spending is rarely consistent month-to-month, so every month I'm comparing my fully justified spending against my budget, and tweaking my budget until I “pass”.So I built yet another finance tracking app. It has the usual components - accounts, transactions, categories - but the core is a cash flow projection engine, and everything else is built around it.Budgets are gone. Instead, each income/spending category is projected forward from your historical activity, but not as a flat monthly number. They land in whatever account you historically use (e.g. checking account for paychecks/rent/bills, credit/debit cards for daily spending). Credit card payments are modeled automatically based on your projected credit card balance. You can set up your own recurring transfers between accounts as well, to model savings, for example.The end result is that the app can forecast how your cash moves, and you can see in advance when any account might run low. If all of your accounts look good for the next 12 months, maybe you don't have a budgeting problem.What’s made the biggest difference for me has been the MCP integration, which I have connected to Claude (but can be connected to any AI agent of your choice). I have asked it to import historical transactions by uploading PDF account statements, categorize/tag all transactions that took place while I was on vacation, and plan transfers across my accounts to cover expected payments.I hope some people that share my frustrations will find this app useful.\n\nComments URL: https://news.ycombinator.com/item?id=50122776\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T18:54:47+00:00"
+    },
+    {
+      "title": "Show HN: Weatherdeck – a read-only status board for AI coding agent lanes",
+      "link": "https://github.com/Moshik21/weatherdeck",
+      "summary": "Article URL: https://github.com/Moshik21/weatherdeck\nComments URL: https://news.ycombinator.com/item?id=50122767\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T18:54:22+00:00"
+    },
+    {
+      "title": "C++26: The New Debugging Header",
+      "link": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+      "summary": "Article URL: https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging\nComments URL: https://news.ycombinator.com/item?id=50122736\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T18:52:39+00:00"
     },
     {
       "title": "AI investors have woken up to the bond market’s warning signs",
@@ -2113,6 +2169,14 @@
       "title": "Stock Market Today: Nasdaq Poised for Biggest Weekly Loss in More Than a Year",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-16-2026?mod=rss_markets_main",
       "summary": "Tech-stock benchmark down nearly 5% this week as AI anxieties deepen",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-16T08:08:29+00:00"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Nears Biggest Weekly Loss in More Than a Year",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-16-2026?mod=rss_markets_main",
+      "summary": "Tech-stock benchmark down 4.6% this week as AI anxieties deepen",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-16T08:08:29+00:00"
