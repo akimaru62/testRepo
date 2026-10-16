@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T18:09:31.937471+00:00",
+  "generated_at": "2026-10-16T18:29:12.673055+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -726,12 +726,60 @@
   ],
   "items": [
     {
+      "title": "Trump’s press secretary Katie Zacharia fired after five days",
+      "link": "https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1",
+      "summary": "Exit comes amid deepening turmoil for White House as midterm elections loom",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-16T18:23:09+00:00"
+    },
+    {
+      "title": "Yields on Treasurys, European Government Bonds Edge Higher",
+      "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-stabilize-4a11f72f?mod=rss_markets_main",
+      "summary": "Treasury and European-government-bond yields pulled away from multiweek lows reached Thursday as Investors focused on high borrowing costs and the sustainability of debt-funded AI investments.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-16T18:21:00+00:00"
+    },
+    {
+      "title": "From Verizon to UnitedHealth, Corporate America Is Balking at ‘Tokenized’ Stocks",
+      "link": "https://www.wsj.com/finance/stocks/from-verizon-to-unitedhealth-corporate-america-is-balking-at-tokenized-stocks-6dbbeada?mod=rss_markets_main",
+      "summary": "Broadcom and other companies have objected to tokenizing their shares under a new regulatory framework.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-16T18:18:00+00:00"
+    },
+    {
+      "title": "Gold Futures Edge Up As U.S. Dollar Slips",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-investors-await-fed-chairmans-remarks-f12f0c32?mod=rss_markets_main",
+      "summary": "Gold futures settled modestly higher as the U.S. dollar weakened for a second session, with gains limited by a slight uptick in U.S. yields.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-16T18:09:00+00:00"
+    },
+    {
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "link": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+      "summary": "Article URL: https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear\nComments URL: https://news.ycombinator.com/item?id=50122034\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T18:06:17+00:00"
+    },
+    {
       "title": "Welcome to the ‘AI burnout trade’ — as investors grow tired of debating tech’s promises",
       "link": "https://www.marketwatch.com/story/welcome-to-the-ai-burnout-trade-as-investors-grow-tired-of-debating-techs-promises-6ae7836e?mod=mw_rss_topstories",
       "summary": "AI is likely to pay off eventually, but investors are getting sick of all the hand-wringing over near-term returns, analysts say.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-16T18:01:00+00:00"
+    },
+    {
+      "title": "Designing more efficient quantum circuits with Claude",
+      "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "summary": "Article URL: https://www.anthropic.com/research/designing-efficient-quantum-circuits\nComments URL: https://news.ycombinator.com/item?id=50121939\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T18:00:18+00:00"
     },
     {
       "title": "The U.S. budget deficit just hit almost $2 trillion — and Washington isn’t doing much about it",
@@ -948,6 +996,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-16T15:38:28+00:00"
+    },
+    {
+      "title": "TFFP.PA - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84OGExM2w1aHg1a0x6b2luZGFtd3NnektsbXAxN3N0UFNlRDRZU3lsNHRaQzB5Q3Z1S3hObmRlLXpKaTk3RGFjLWZaTmZCWVpXTmVuRHlBZ2s3UE1ZS1BXQ210SnhzRTMyQ0phdFB3?oc=5",
+      "summary": "TFFP.PA&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-16T15:27:37+00:00"
     },
     {
       "title": "阪神、ＣＳ最多の２７回連続無得点　プロ野球ＣＳ",
