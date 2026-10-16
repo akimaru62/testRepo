@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T13:50:20.370674+00:00",
+  "generated_at": "2026-10-16T14:08:18.282565+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -762,6 +762,22 @@
       "published": "2026-10-16T14:00:00+00:00"
     },
     {
+      "title": "Influencers and biohackers swear by fasting. Here’s what the science says.",
+      "link": "https://www.marketwatch.com/story/influencers-and-biohackers-swear-by-fasting-heres-what-the-science-says-3318191f?mod=mw_rss_topstories",
+      "summary": "Fasting can help some people reduce how many calories they eat — but it’s not “effortless” as some influencers would have you believe.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-16T14:00:00+00:00"
+    },
+    {
+      "title": "タイムズカー、10月23日に対応方針を案内　免許証画像「即削除」へ",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/16/news113.html",
+      "summary": "パーク24は10月16日、カーシェアサービス「タイムズカー」の不正アクセスによる個人情報流出について、今後の対応方針を10月23日に案内すると発表した。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-10-16T13:45:00+00:00"
+    },
+    {
       "title": "ニデック 永守氏らへの訴訟を検討",
       "link": "https://news.yahoo.co.jp/pickup/6599040?source=rss",
       "summary": "",
@@ -816,6 +832,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-16T13:13:00+00:00"
+    },
+    {
+      "title": "Seized server Autistici/Inventati (A/I) in Amsterdam for U.S. authorities",
+      "link": "https://nltimes.nl/2026/10/14/amsterdam-server-seized-request-us-authorities-antifa-allegations",
+      "summary": "Article URL: https://nltimes.nl/2026/10/14/amsterdam-server-seized-request-us-authorities-antifa-allegations\nComments URL: https://news.ycombinator.com/item?id=50117952\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T13:09:25+00:00"
     },
     {
       "title": "U.S. Import Prices Rose in September",
@@ -874,6 +898,14 @@
       "published": "2026-10-16T12:27:10+00:00"
     },
     {
+      "title": "Bark: The Toll-Free BBS for 90s Teens",
+      "link": "https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens",
+      "summary": "Article URL: https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens\nComments URL: https://news.ycombinator.com/item?id=50117504\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T12:22:13+00:00"
+    },
+    {
       "title": "Dollar Could Resume Rising on Prospect of Future Fed Tightening",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-before-fed-chairmans-fireside-chat-f4462ae4?mod=rss_markets_main",
       "summary": "The DXY fell and earlier reached a two-week low, but Trade Nation said the decline could be short-lived given the prospect of further tightening by the Federal Reserve.",
@@ -904,6 +936,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-16T12:11:16.809167+00:00"
+    },
+    {
+      "title": "World’s oldest gunmaker expands American foothold after boardroom tussle",
+      "link": "https://www.ft.com/content/4dffb678-9d90-46fa-b98e-40f988057984?syn-25a6b1a6=1",
+      "summary": "Beretta Holding seals strategic investment in rival gunmaker Sturm Ruger securing a 25% stake in a $107.5mn deal",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-16T12:10:08+00:00"
     },
     {
       "title": "Is Apple’s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.",
@@ -1864,6 +1904,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-16T04:27:54+00:00"
+    },
+    {
+      "title": "Anthropic secured highest junk credit rating in June",
+      "link": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d?syn-25a6b1a6=1",
+      "summary": "Kroll Bond Rating Agency’s judgment sets up AI lab for investment-grade status",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-16T04:00:18+00:00"
     },
     {
       "title": "How Trump’s America fell in love with UFC",
@@ -3528,6 +3576,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-15T16:02:00+00:00"
+    },
+    {
+      "title": "Evolving the cloud-native foundation for the next generation of AI",
+      "link": "https://azure.microsoft.com/en-us/blog/evolving-the-cloud-native-foundation-for-the-next-generation-of-ai/",
+      "summary": "Discover how Azure is advancing cloud-native infrastructure to help organizations build, run, and optimize applications and agents at scale.\nThe post Evolving the cloud-native foundation for the next generation of AI appeared first on Microsoft Azure Blog.",
+      "source": "Azure ブログ",
+      "category": "テクノロジー",
+      "published": "2026-10-15T16:00:00+00:00"
     },
     {
       "title": "Show HN: Proa – a Rust web framework with fast SSR and multi-target rendering",
