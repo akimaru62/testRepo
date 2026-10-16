@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T18:46:41.818763+00:00",
+  "generated_at": "2026-10-16T19:06:28.952269+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -726,12 +726,36 @@
   ],
   "items": [
     {
+      "title": "Claude reveals ECDSA curve origins",
+      "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "summary": "Article URL: https://www.anthropic.com/research/ecdsa-curve-origins\nComments URL: https://news.ycombinator.com/item?id=50122800\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T18:55:59+00:00"
+    },
+    {
+      "title": "AI investors have woken up to the bond market’s warning signs",
+      "link": "https://www.marketwatch.com/story/ai-investors-have-woken-up-to-the-bond-markets-warning-signs-6f604c61?mod=mw_rss_topstories",
+      "summary": "Also in Weekend Reads: Robotic housekeeping, how to save on a wedding, and advice from The Moneyist.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-16T18:52:00+00:00"
+    },
+    {
       "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
       "link": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
       "summary": "Anthropic and New York City’s comptroller have opened a line of communication to discuss “existential risks” posed by AI and what that could mean for the company’s future stock.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-16T18:37:00+00:00"
+    },
+    {
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "link": "https://github.com/cobanov/PS5LM",
+      "summary": "Article URL: https://github.com/cobanov/PS5LM\nComments URL: https://news.ycombinator.com/item?id=50122431\nPoints: 17\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T18:32:35+00:00"
     },
     {
       "title": "Major Cryptocurrencies Mostly Higher as Dollar Eases",
@@ -822,12 +846,28 @@
       "published": "2026-10-16T17:41:27+00:00"
     },
     {
+      "title": "GifCities",
+      "link": "https://gifcities.org/",
+      "summary": "https://twitter.com/internetarchive/status/21111409457059637...\n\nComments URL: https://news.ycombinator.com/item?id=50121601\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T17:35:07+00:00"
+    },
+    {
       "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
       "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
       "summary": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-16T17:35:00+00:00"
+    },
+    {
+      "title": "Anthropic Console overcharged my card 100x due to internationalization input bug",
+      "link": "https://news.ycombinator.com/item?id=50121562",
+      "summary": "I am a LegalTech Attorney leading a developer team from Costa Rica. While trying to load credits onto my Anthropic API account (claude.com), I experienced a critical internationalization (i18n) and UX failure that has placed an unfair financial burden on me due to a severe oversight in their payment pipeline.The platform prompted me for a payment. Since I am in a Spanish-speaking region where localized systems and keyboards handle dots and commas differently, I typed 5.04.Anthropic’s input system completely failed to sanitize or validate the data. Instead of throwing a formatting error or converting it properly, it silently stripped the decimal internally and instantly charged my credit card $504.00 USD instead of $5.04 USD.To make matters worse, there was no confirmation modal or review screen summarizing the final amount before processing the transaction. It was a single-click, instantaneous overcharge.Anticipating the Obvious Skepticism:\nBefore anyone suggests \"you should have checked your regional settings\" or \"just wait for the chargeback\":1. Users are not the QA team: In financial software, a system is never supposed to guess or automatically manipulate a numerical input without explicit validation. If an input is ambiguous due to locale differences, the application must reject it or ask for clarification, not execute a 100x overcharge.2. Scale of the vulnerability: This time it was $504.00, which is an unfair and frustrating burden for independent developers. But because this pipeline completely lacks a confirmation screen and basic input sanitization, the exact same bug could happen to someone typing 50.00 and end up charging them $5,000.00 or more instantly. It is a systemic financial risk.3. The Chargeback Illusion: Yes, I have already initiated a chargeback with my bank in Costa Rica. However, banking processes here are slow and take up to 120 days to resolve. In the meantime, the $504.00 has already been deducted and charged to my credit card statement. I am forced to pay for Anthropic’s engineering mistake out of my own pocket right now.The Support Wall:\nI filed an official complaint on the exact same day, minutes after it happened. I wasn't met with a human; I was blocked by an automated support BOT. The bot repeatedly and rigidly denied the refund, closing the ticket by citing generic policies without a single human ever looking at the fact that the overcharge was caused by a technical bug in their own platform.As developers, we build systems that process people's money. Omitting a confirmation screen on a financial transaction, failing to sanitize localized numerical inputs, and then hiding behind unyielding AI support bots to keep money that doesn't belong to you is completely unacceptable.If anyone from Anthropic's billing or engineering team is reading this, please look into this bug and review my case. It is a critical flaw that is actively harming international developers who are just trying to build on your ecosystem.Pura vida!R.S.G.\n\nComments URL: https://news.ycombinator.com/item?id=50121562\nPoints: 27\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T17:31:42+00:00"
     },
     {
       "title": "Star Oil Trader Who Made Wrong-Way Bet to Leave Vitol",
@@ -2033,6 +2073,14 @@
       "title": "Stock Market Today: Tech Stocks Slump as Nasdaq Faces Weekly Loss",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-16-2026?mod=rss_markets_main",
       "summary": "AI anxieties deepen while investors pare rate-hike bets",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-16T08:08:29+00:00"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Poised for Biggest Weekly Loss in More Than a Year",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-16-2026?mod=rss_markets_main",
+      "summary": "Tech-stock benchmark down nearly 5% this week as AI anxieties deepen",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-16T08:08:29+00:00"
