@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T16:40:28.998796+00:00",
+  "generated_at": "2026-10-16T16:50:35.877983+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -758,6 +758,30 @@
       "published": "2026-10-16T17:00:00+00:00"
     },
     {
+      "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+      "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
+      "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-10-16T16:46:18+00:00"
+    },
+    {
+      "title": "Elon Musk may have just taken a major step toward consolidating his empire",
+      "link": "https://www.marketwatch.com/story/elon-musk-may-have-just-taken-a-major-step-toward-consolidating-his-empire-7d82dea6?mod=mw_rss_topstories",
+      "summary": "Tesla’s newly unveiled flying sports car, which features SpaceX rocket thrusters, could help Musk push for a merger between his two biggest companies, analysts say,",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-16T16:39:00+00:00"
+    },
+    {
+      "title": "Desire to Move Permanently to U.S. at New Low",
+      "link": "https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx",
+      "summary": "Article URL: https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx\nComments URL: https://news.ycombinator.com/item?id=50120664\nPoints: 9\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T16:38:02+00:00"
+    },
+    {
       "title": "Stocks making the biggest moves midday: CoreWeave, Moog, J.B. Hunt, Alcoa & more",
       "link": "https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-midday-crwv-moga-jbht-aa.html",
       "summary": "These are the stocks posting the largest moves midday.",
@@ -812,6 +836,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-16T15:56:25+00:00"
+    },
+    {
+      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+      "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471\nComments URL: https://news.ycombinator.com/item?id=50119991\nPoints: 18\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T15:55:40+00:00"
     },
     {
       "title": "Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS",
