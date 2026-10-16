@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T22:07:11.358466+00:00",
+  "generated_at": "2026-10-16T22:23:32.930356+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -722,9 +722,85 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f084c1d8830>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "ＮＹ株反落、１７５ドル安　原油高やＡＩ投資不安",
+      "link": "https://www.jiji.com/jc/article?k=2026101700156&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-16T22:23:21.347248+00:00"
+    },
+    {
+      "title": "米財政赤字、５年ぶり高水準　関税還付、利払い響く―２６年度",
+      "link": "https://www.jiji.com/jc/article?k=2026101700175&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-16T22:23:21.347240+00:00"
+    },
+    {
+      "title": "高市首相、靖国神社に真榊　秋季例大祭始まる",
+      "link": "https://www.jiji.com/jc/article?k=2026101700164&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-16T22:23:21.347230+00:00"
+    },
+    {
+      "title": "高市首相は、靖国神社の秋季例大祭に合わせ、真榊（まさかき）を奉納した",
+      "link": "https://www.jiji.com/jc/article?k=2026101700160&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-16T22:23:21.347202+00:00"
+    },
+    {
+      "title": "預金増えただけで「監督人」の怪　成年後見の保佐人「納得いかない」",
+      "link": "https://www.asahi.com/articles/ASVBF25CNVBFULFA00BM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-16T22:23:21.054683+00:00"
+    },
+    {
+      "title": "NY原油、1バレル100ドル超える　供給懸念で約1カ月ぶりの高値",
+      "link": "https://www.asahi.com/articles/ASVBJ7791VBJUHBI001M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-16T22:23:21.054640+00:00"
+    },
+    {
+      "title": "｢施設に入った母は二度と帰らなかった｣ 残された姉弟が直面した\"苦い記憶\"と､あまりに大変な《親の死後の片付け》 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960637?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "親が施設に入ると､多くの場合はもう自宅へ戻らない——。そうなった後に残された家の片付けには､思い出や家族の複雑な事情が絡み､心の整理も一筋縄ではいきません。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-16T22:15:00+00:00"
+    },
+    {
+      "title": "みずほ銀行→亜細亜大教授､アジア通貨危機経験､運､学会…40､50代の\"キャリアの見直し\"のカギは？ アカデミックシフト20 | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960902?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "現場一筋の銀行員から研究の道へ——。みずほ銀行に約29年勤めた赤羽裕氏は､42歳でキャリアを見直し､学び直しを経て50代で大学教授に転身しました。会社を辞める｢その時｣だけでなく､早い段階からの準備…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-16T22:00:00+00:00"
+    },
+    {
+      "title": "スマホで案内され着いたのは病院…平凡なOLの日常が一変した\"衝撃の瞬間\"　漫画｢佐江子は思う｣（第1集 第1話後編） | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960751?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "幼い頃から「主役になれない人生」を歩み続けてきた平凡なOL・佐江子（さえこ）。出版社に入社し、憧れの小説家の担当編集としてヒットを飛ばしても認められたい人からは愛されない空虚な日々。悲しさ・惨めさ・…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-16T22:00:00+00:00"
+    },
     {
       "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
       "link": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
