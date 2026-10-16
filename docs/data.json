@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T20:07:01.387797+00:00",
+  "generated_at": "2026-10-16T20:25:11.601284+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -726,12 +726,44 @@
   ],
   "items": [
     {
+      "title": "Crude Futures Rise on Persistent Supply Jitters",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-weighed-by-ieas-crude-diesel-release-announcement-c474aaa9?mod=rss_markets_main",
+      "summary": "The oil market shook off early lethargy and pushed prices higher as conflict in the Middle East and Ukraine’s renewed targeting of Russian refineries fueled supply concerns.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-16T20:08:00+00:00"
+    },
+    {
+      "title": "EchoStar’s stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan says",
+      "link": "https://www.marketwatch.com/story/echostars-stock-looks-like-a-stealthy-way-to-ride-the-spacex-wave-j-p-morgan-says-c4effa5d?mod=mw_rss_topstories",
+      "summary": "Investors aren’t giving EchoStar enough credit for the value of its future SpaceX stake or its potential to strike more spectrum deals, an analyst argues.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-16T20:05:00+00:00"
+    },
+    {
       "title": "日産｢キックス｣は誰が買っているのか？　ライバルより高価な《e-POWERコンパクトSUV》購入者の実態 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/960295?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "2026年6月にフルモデルチェンジを実施した日産｢キックス｣。その先代モデルは､2020年から約6年にわたり販売された。しかし､｢ヤリス クロス｣をはじめとしたライバルよりも高価なために販売は苦戦。…",
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-10-16T20:00:00+00:00"
+    },
+    {
+      "title": "Flux 3 Image Klein: open weights, 5.6B parameters",
+      "link": "https://bfl.ai/blog/flux-3-image-klein",
+      "summary": "Article URL: https://bfl.ai/blog/flux-3-image-klein\nComments URL: https://news.ycombinator.com/item?id=50123580\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T19:47:13+00:00"
+    },
+    {
+      "title": "Israeli settlers attack Palestinians carrying out olive harvest in West Bank",
+      "link": "https://www.ft.com/content/432c9cff-b86f-4712-8e64-56cf3895d687?syn-25a6b1a6=1",
+      "summary": "Washington Post journalist among those injured during violence in the Palestinian territory",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-16T19:42:41+00:00"
     },
     {
       "title": "Microsoft wants to make AI cheaper. Will investors actually see the savings?",
@@ -788,6 +820,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-16T19:03:32+00:00"
+    },
+    {
+      "title": "You could have invented transformers from memory",
+      "link": "https://alexwang.ai/posts/associative-memory/",
+      "summary": "Article URL: https://alexwang.ai/posts/associative-memory/\nComments URL: https://news.ycombinator.com/item?id=50122878\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T19:01:17+00:00"
     },
     {
       "title": "Big Tech stocks head for biggest weekly drop since ‘liberation day’",
@@ -1646,6 +1686,14 @@
       "published": "2026-10-16T12:00:00+00:00"
     },
     {
+      "title": "DSYJ.J - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtSk5tdV9oWERkQVpZSTR5TlJBREpKcWNMUlpyd3NXZS0zTWJsS3VHdWpHV2UwRWNhM3hTWklpNk5yQzZSTkZ2c1VPaFBXMlVvX0VBUkpZbmkxSkVBSmtWTTNlWWZNdEE0dGx6TzBuMElfcm0xMV9kZg?oc=5",
+      "summary": "DSYJ.J&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-16T11:55:21+00:00"
+    },
+    {
       "title": "ニデック、不正会計で永守氏に損害賠償求め提訴へ　歴代社長ら9人",
       "link": "https://www.asahi.com/articles/ASVBJ3F13VBJPLFA00GM.html?ref=rss",
       "summary": "",
@@ -2201,6 +2249,14 @@
       "title": "Stock Market Today: Nasdaq Nears Biggest Weekly Loss in More Than a Year",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-16-2026?mod=rss_markets_main",
       "summary": "Tech-stock benchmark down 4.6% this week as AI anxieties deepen",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-16T08:08:29+00:00"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Slump Worsens as AI Anxieties Mount",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-16-2026?mod=rss_markets_main",
+      "summary": "Tech-stock benchmark finishes week down 4.5%",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-16T08:08:29+00:00"
