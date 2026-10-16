@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T07:54:54.041811+00:00",
+  "generated_at": "2026-10-16T08:10:31.405282+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -714,6 +714,38 @@
   ],
   "items": [
     {
+      "title": "預貯金の不正送金問題等に対する対応状況（令和８年３月末）について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/ginkou/20261016.html",
+      "summary": "",
+      "source": "金融庁",
+      "category": "公的機関",
+      "published": "2026-10-16T17:00:00+00:00"
+    },
+    {
+      "title": "保険会社等における障がい者等に配慮した取組に関するアンケート調査の結果について（令和８年３月末時点）公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/hoken/20261016/20261016.html",
+      "summary": "",
+      "source": "金融庁",
+      "category": "公的機関",
+      "published": "2026-10-16T17:00:00+00:00"
+    },
+    {
+      "title": "「監査基準の改訂について（公開草案）」について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/sonota/20261016-2/20261016.html",
+      "summary": "",
+      "source": "金融庁",
+      "category": "公的機関",
+      "published": "2026-10-16T17:00:00+00:00"
+    },
+    {
+      "title": "国際関係,金融安定理事会による最終報告書「AIの責任ある導入に関する健全な実務慣行」について公表しました。",
+      "link": "https://www.fsa.go.jp/inter/fsf/20261016/20261016.html",
+      "summary": "",
+      "source": "金融庁",
+      "category": "公的機関",
+      "published": "2026-10-16T17:00:00+00:00"
+    },
+    {
       "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年10月２日）について掲載しました。",
       "link": "https://www.fsa.go.jp/common/conference/minister/2026b/20261002-1.html",
       "summary": "",
@@ -728,6 +760,46 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-16T14:00:00+00:00"
+    },
+    {
+      "title": "「京王電鉄の情報を公開」ランサム集団キリンが主張　9月に攻撃被害",
+      "link": "https://www.asahi.com/articles/ASVBJ2GYRVBJULFA01FM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-16T08:10:27.035527+00:00"
+    },
+    {
+      "title": "免許証画像データ、退会後も７年保有→登録後即削除へ　タイムズカー",
+      "link": "https://www.asahi.com/articles/ASVBJ2GTZVBJULFA01CM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-16T08:10:27.035489+00:00"
+    },
+    {
+      "title": "High Rates Have Upturned How Moody’s Looks at Credit Risk, Chief Credit Officer Says",
+      "link": "https://www.wsj.com/finance/investing/high-rates-have-upturned-how-moodys-looks-at-credit-risk-chief-credit-officer-says-e84c61fd?mod=rss_markets_main",
+      "summary": "Leverage matters more now because interest costs are rising, said Atsi Sheth, the ratings company’s chief credit officer.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-16T08:02:00+00:00"
+    },
+    {
+      "title": "金融安定理事会による最終報告書「AIの責任ある導入に関する健全な実務慣行」の公表について",
+      "link": "http://www.boj.or.jp/intl_finance/meeting/group/gro261016a.htm",
+      "summary": "",
+      "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-10-16T08:00:00+00:00"
+    },
+    {
+      "title": "業態別の日銀当座預金残高（9月）",
+      "link": "http://www.boj.or.jp/statistics/boj/other/cabs/cabs.xlsx",
+      "summary": "",
+      "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-10-16T08:00:00+00:00"
     },
     {
       "title": "耕作放棄地は「耕作困難地」に呼称の変更を　財務省が提言",
@@ -1157,6 +1229,14 @@
       "title": "Fight night for Trump’s America",
       "link": "https://www.ft.com/content/56d14d34-955a-41e9-90da-5eda7d179509?syn-25a6b1a6=1",
       "summary": "For politicians, celebrities and tycoons, the brutal Ultimate Fighting Championship has become a vote-winner and money-spinner like no other",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-16T04:00:17+00:00"
+    },
+    {
+      "title": "UK tried to persuade UBS to move to London",
+      "link": "https://www.ft.com/content/1bd1cdc2-9dc1-4538-8820-129e9bd9117b?syn-25a6b1a6=1",
+      "summary": "Rachel Reeves pitched City as alternative home for Swiss bank, which is weighing its options amid new capital proposals",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-16T04:00:17+00:00"
@@ -1640,6 +1720,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-15T23:41:04+00:00"
+    },
+    {
+      "title": "GSIT.O - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hN0NJWlYzLVcwRnpUNk5nRXM4cUJVdTN5NnVjV0Fab3VycERNTWhQZnFVakRrazJJR2hxbHJaejFTZ0ZlZUZhV2U0WnFqdFJfNTZ5RHZhWHBtczR3?oc=5",
+      "summary": "GSIT.O&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-15T23:40:44+00:00"
     },
     {
       "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
@@ -9146,6 +9234,14 @@
       "published": "2026-10-13T19:59:00+00:00"
     },
     {
+      "title": "ゼレンスキー氏、米特使との追加協議提案 数日内の会談に意欲 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMnRKX1NrSmtENXlFQnlFdXNfTTE2UDFhT0Z0dnJzeU4wVUJFN2pUQjNXaEs2ckt5T0M5N2xhcTJRaTFkWW1JRXhSMVNxakNfd1FSQU1BZEhZY1EzYVFBS191NlVMS2N2djhaZzR6WFByODJpQVBqX0tmMGdvVUpQd2hKdGM?oc=5",
+      "summary": "ゼレンスキー氏、米特使との追加協議提案 数日内の会談に意欲&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-13T19:57:43+00:00"
+    },
+    {
       "title": "Donaldson Futuro House in Idyllwild, California, USA",
       "link": "https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/",
       "summary": "Article URL: https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/\nComments URL: https://news.ycombinator.com/item?id=50077709\nPoints: 42\n# Comments: 13",
@@ -9159,6 +9255,14 @@
       "summary": "Article URL: https://twitter.com/OpenAINewsroom/status/2110095403198849132\nComments URL: https://news.ycombinator.com/item?id=50077703\nPoints: 47\n# Comments: 22",
       "source": "Hacker News",
       "category": "テクノロジー",
+      "published": "2026-10-13T19:55:31+00:00"
+    },
+    {
+      "title": "ＮＹ外為市場＝ドル下落、ＦＲＢ利上げ観測後退 ＣＰＩに注目 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KRVQxRVF0WmRiTzdud0FnZEdycjhnQjFNZFE4d1RXRE1fNllYTHpQUHh0ZjN6c0RYdDExODJrcTY3RkNkRWlDcFh1cUxxeEw3RXVUcy0xdERVUHh6Qkh2WUY3NjlrdG16ZjdYdTB5WVFiMURfNDFpOWh0TzU?oc=5",
+      "summary": "ＮＹ外為市場＝ドル下落、ＦＲＢ利上げ観測後退 ＣＰＩに注目&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
       "published": "2026-10-13T19:55:31+00:00"
     },
     {
@@ -9280,6 +9384,22 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-13T18:34:23+00:00"
+    },
+    {
+      "title": "トルコ大統領、サウジ支持継続を表明 フーシ派攻撃受け - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM0I0NmhNQVlWOEtxYWYtVlhFS0tNbDRPVDEzOGFuSjJvU01scEplYnQ0czRvSHp2WWhUTGFxb1NLSDVzR1JIb2lvRUR3bmpBT2pzZndDaW1vU3IwSm5MMHEwaUlWLWdjYVdXczkxNmQwU3NTN1dzdWw5Sl92VzN0U01rWjk4dw?oc=5",
+      "summary": "トルコ大統領、サウジ支持継続を表明 フーシ派攻撃受け&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-13T18:34:09+00:00"
+    },
+    {
+      "title": "年内あと1回の米利上げ適切、来年は不要の公算─ＮＹ連銀総裁＝報道 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVnRLUzRrWXNXZmh3MHJzTWJfemtock8zdWxLZ2RfdHNoM24xMDlvUGRQSGRoLVR4WEViTHZtOV8yb25lZlVmVlg5RGRPSmVtTG9ab0t0X2JIZDBOMlNHMFJ6dm4xemREa1BNaEVYQkRjWVFjM1ZjZi1rRUxTT3BQTVNxWF8?oc=5",
+      "summary": "年内あと1回の米利上げ適切、来年は不要の公算─ＮＹ連銀総裁＝報道&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-13T18:32:56+00:00"
     },
     {
       "title": "Russia arrests Japanese journalist on espionage charges",
@@ -9618,6 +9738,14 @@
       "published": "2026-10-13T15:49:56+00:00"
     },
     {
+      "title": "ＡＩ投資、経済全体の過熱招く恐れ─シカゴ連銀総裁＝報道 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaEYxajBrVURzWnF4YUxIMWxaQ1RSSnIzNG50OWxKNGpHeHBpaEpKU3l2Xzh0Q1Z6WUtkek1iWDZtNlhaYUxDYWZ4ZDBQNU1GbU1ORDNacUM1SGhvWnh3ZkFyTXl0aFY1bW1vVE5BcUxBQTVULVljSzRWOXN4TTBueUFqdTM?oc=5",
+      "summary": "ＡＩ投資、経済全体の過熱招く恐れ─シカゴ連銀総裁＝報道&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-13T15:47:46+00:00"
+    },
+    {
       "title": "米シティ、第3四半期利益は予想上回る 投資銀行・ウェルス部門が寄与 - ロイター",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmb3hSdlh6bTk3SU5TSFVqRjRBOEVWaVh0UGxReDk3WGRlU3lYaUZZYVQzbjRBbld4REdvamtWQ283Rm5ER0xiWllpLThMaUtOWGtOYkt4QUNGWEw4OTJ0Q1VjekVRcHpQSnNaS3QwVmoyNlBuQUdnRF9pa2o?oc=5",
       "summary": "米シティ、第3四半期利益は予想上回る 投資銀行・ウェルス部門が寄与&nbsp;&nbsp;ロイター",
@@ -9656,6 +9784,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-13T15:22:00+00:00"
+    },
+    {
+      "title": "ロシア、北海道新聞記者を拘束 スパイ容疑＝報道 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV19WeGdOc09JZ25DSkd2aldnaUtGaEdFZlJTWjBoeUwtc0g5aGlqUGJXMzd5MERZQzVkRzJiUWlzQUZwUUhfWEpJR2pTVEthd0FTSWtzMGRtN2pHejVINWZFU1Vmd1I2ak9aVWVDQzgtQTFOY1h4QUozMl9wX2VCUEh3?oc=5",
+      "summary": "ロシア、北海道新聞記者を拘束 スパイ容疑＝報道&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-13T15:19:43+00:00"
     },
     {
       "title": "‘Pharma Bro’ Martin Shkreli is in trouble with regulators again, this time for influencing biopharma stocks",
@@ -10346,6 +10482,14 @@
       "published": "2026-10-13T11:30:00+00:00"
     },
     {
+      "title": "機関投資家、米10年債6％近くなら株から資金移動＝ＢｏＦＡ調査 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ3lNck53NXUwMUR0V3pTVkk5N2JxSU9TUlJ0Z2hqY2F1ZHpoWUZUZnRJVEU3WmltM05jdmM1SU1XeGdNaVhGc0ZlXzVfY0N1TUFpdUd0QUcySC00TlhxTkg5dTlveVVFU0NWVndyV2FLcFZVNUhWU1RfTWRGRGJVbXpwSzI?oc=5",
+      "summary": "機関投資家、米10年債6％近くなら株から資金移動＝ＢｏＦＡ調査&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-13T11:28:10+00:00"
+    },
+    {
       "title": "京都、ラチャブリと対戦　Ｇ大阪は２連勝―ＡＣＬサッカー",
       "link": "https://www.jiji.com/jc/article?k=2026101300953&g=spo&m=rss",
       "summary": "",
@@ -10722,6 +10866,14 @@
       "published": "2026-10-13T10:00:00+00:00"
     },
     {
+      "title": "ウクライナ、ロシアのエネルギー施設攻撃を2日間停止＝大統領 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSnFYb3JnWXZyUEdwN3VyYkVFWFNUWS03QjFoQXR6dDZkWXo2elE3THFycG9FSldEckV4M3FDT3ZhSmlzNjN4OUJaUTBUc0VvOWtlT1pvSXlzZ2FYeHhXdUdyMG5NYnpnWTU4OHAtUV9GZm5lY19sSzhpSXZ2SDliNkZvMUM?oc=5",
+      "summary": "ウクライナ、ロシアのエネルギー施設攻撃を2日間停止＝大統領&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-13T09:59:37+00:00"
+    },
+    {
       "title": "CSG Sets Sights on Space With Around $434 Million Stake in Canada’s MDA Space",
       "link": "https://www.wsj.com/finance/investing/csg-buys-largest-stake-in-canadas-mda-space-to-enter-space-sector-07fa370d?mod=rss_markets_main",
       "summary": "The Czech arms maker became the largest shareholder MDA Space, as it looks to venture into the sector.",
@@ -10874,6 +11026,14 @@
       "published": "2026-10-13T09:25:10+00:00"
     },
     {
+      "title": "インド中銀のルピー防衛策、フォワード取引に想定外の影響 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uazJVSzJwd1ZLYWZOdUpJd1MwZm9rX0dFc3IyOFdxNWJMc2lKWUNNamxmbUlIU0J2aW9Zc0EzV0JVZWFnYVI0amxGWVhiSkt1d3AyUmJPSkh1eE51Z0NtTGlqemRJcGZqd19rcy1jRmpET3J5cXRmank3Qm4?oc=5",
+      "summary": "インド中銀のルピー防衛策、フォワード取引に想定外の影響&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-13T09:19:43+00:00"
+    },
+    {
       "title": "My wife says we can’t afford to retire. We have $4 million. Do I just keep working?",
       "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
       "summary": "“She wanted to take an $8,000 trip to Italy for our 30th anniversary, and I said no.”",
@@ -10983,6 +11143,14 @@
       "summary": "Nasdaq futures fell sharply as a selloff in AI stocks intensified amid heightened fears of Chinese competition, while a fall in oil prices and safe-haven demand provided some relief for Treasury yields.",
       "source": "WSJ マーケット",
       "category": "海外金融",
+      "published": "2026-10-13T08:42:00+00:00"
+    },
+    {
+      "title": "サイバー攻撃、社会実装のブレーキにしてはいけない＝ＪＥＩＴＡ・自工会会長 - ロイター",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JaGYtMGhPSDJGWi1naDdialZfelBkXzc4U05qM24xSU1OTUp0MEhLeURNbVVtckNzTndKa2I3TDNIdzc0X0pyeGVDbXFZUVNWbG9xeHFKTXV4aG1oZTkxOEFtS1QtQWs0aXFrZDh0REtaNnRiVU9QRVpn?oc=5",
+      "summary": "サイバー攻撃、社会実装のブレーキにしてはいけない＝ＪＥＩＴＡ・自工会会長&nbsp;&nbsp;ロイター",
+      "source": "ロイター",
+      "category": "報道機関",
       "published": "2026-10-13T08:42:00+00:00"
     },
     {
