@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T16:50:35.877983+00:00",
+  "generated_at": "2026-10-16T17:06:33.504245+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -758,6 +758,22 @@
       "published": "2026-10-16T17:00:00+00:00"
     },
     {
+      "title": "/dev/null: social network for developers",
+      "link": "https://dev-null.sh",
+      "summary": "Article URL: https://dev-null.sh\nComments URL: https://news.ycombinator.com/item?id=50121004\nPoints: 14\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T16:57:49+00:00"
+    },
+    {
+      "title": "Tech Stocks Slump as Nasdaq Faces Weekly Loss",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-treasurys-steady-as-markets-take-breather-5018a757?mod=rss_markets_main",
+      "summary": "U.S. stocks fell, led by the Nasdaq composite, as chip and AI-related shares came under new pressure.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-16T16:49:00+00:00"
+    },
+    {
       "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
       "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
       "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
@@ -852,6 +868,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-16T15:38:35+00:00"
+    },
+    {
+      "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
+      "link": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
+      "summary": "Article URL: https://adepts.of0x.cc/eufy-homestation2-firmware/\nComments URL: https://news.ycombinator.com/item?id=50119751\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T15:38:28+00:00"
     },
     {
       "title": "阪神、ＣＳ最多の２７回連続無得点　プロ野球ＣＳ",
@@ -972,6 +996,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-16T14:41:24+00:00"
+    },
+    {
+      "title": "India police detain ‘Cockroach’ leader again to head off new protests",
+      "link": "https://www.ft.com/content/15922d6d-421a-4b33-a329-45443491e1be?syn-25a6b1a6=1",
+      "summary": "Abhijeet Dipke taken into custody for second time in a week as youth movement pushes for resignation of chief elections commissioner",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-16T14:39:19+00:00"
     },
     {
       "title": "Show HN: rStation – A shared research lab for your AI agents",
