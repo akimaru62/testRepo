@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T19:06:28.952269+00:00",
+  "generated_at": "2026-10-16T19:21:25.538428+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -726,6 +726,30 @@
   ],
   "items": [
     {
+      "title": "消費減税、国民民主とも連携　公明幹事長「給付で一致」",
+      "link": "https://www.jiji.com/jc/article?k=2026101600781&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-16T19:21:20.119122+00:00"
+    },
+    {
+      "title": "Claude writes about 90% of Claude Code's code",
+      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/\nComments URL: https://news.ycombinator.com/item?id=50122951\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T19:04:47+00:00"
+    },
+    {
+      "title": "Big Tech stocks head for biggest weekly drop since ‘liberation day’",
+      "link": "https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1",
+      "summary": "AI trade jitters send investors scrambling for government debt in a move that halts a months-long Treasury sell-off",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-16T18:58:24+00:00"
+    },
+    {
       "title": "Claude reveals ECDSA curve origins",
       "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
       "summary": "Article URL: https://www.anthropic.com/research/ecdsa-curve-origins\nComments URL: https://news.ycombinator.com/item?id=50122800\nPoints: 6\n# Comments: 0",
@@ -972,6 +996,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-16T16:38:02+00:00"
+    },
+    {
+      "title": "Alexandr Wang, Meta’s AI wunderkind",
+      "link": "https://www.ft.com/content/7477e462-c899-4841-a5cf-c01706e23982?syn-25a6b1a6=1",
+      "summary": "The 29-year-old in charge of the company’s Superintelligence Labs is being touted as a potential successor to Mark Zuckerberg",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-16T16:31:25+00:00"
     },
     {
       "title": "Stocks making the biggest moves midday: CoreWeave, Moog, J.B. Hunt, Alcoa & more",
