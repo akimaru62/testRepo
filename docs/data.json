@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T16:26:48.323529+00:00",
+  "generated_at": "2026-10-16T16:40:28.998796+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -756,6 +756,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-16T17:00:00+00:00"
+    },
+    {
+      "title": "Stocks making the biggest moves midday: CoreWeave, Moog, J.B. Hunt, Alcoa & more",
+      "link": "https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-midday-crwv-moga-jbht-aa.html",
+      "summary": "These are the stocks posting the largest moves midday.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-10-16T16:29:16+00:00"
+    },
+    {
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "summary": "Article URL: https://jakearchibald.com/2026/jpeg-xl-vs-avif/\nComments URL: https://news.ycombinator.com/item?id=50120224\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T16:12:02+00:00"
     },
     {
       "title": "U.S. raises Mastercard, Citigroup China market access in bilateral Bangkok talks, official says",
@@ -2239,6 +2255,14 @@
     },
     {
       "title": "Anthropic secured highest junk credit rating in June",
+      "link": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d?syn-25a6b1a6=1",
+      "summary": "Kroll Bond Rating Agency’s judgment sets up AI lab for investment-grade status",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-16T04:00:18+00:00"
+    },
+    {
+      "title": "Anthropic assigned highest junk credit rating in June",
       "link": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d?syn-25a6b1a6=1",
       "summary": "Kroll Bond Rating Agency’s judgment sets up AI lab for investment-grade status",
       "source": "Financial Times",
