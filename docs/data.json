@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T02:10:43.898463+00:00",
+  "generated_at": "2026-10-16T02:32:58.398710+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -710,12 +710,44 @@
   ],
   "items": [
     {
+      "title": "高市首相、農水相辞任で陳謝　「任命責任受け止める」―参院予算委",
+      "link": "https://www.jiji.com/jc/article?k=2026101600246&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-16T02:32:52.799463+00:00"
+    },
+    {
+      "title": "記者拘束、ロシアが領事通報　政府、依然接触はできず",
+      "link": "https://www.jiji.com/jc/article?k=2026101600311&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-16T02:32:52.799439+00:00"
+    },
+    {
+      "title": "U.S. Equity Market Shows Growing Number of Late-Cycle Signs, CE Says",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-0-tracking-wall-streets-gains-dcadf1df?mod=rss_markets_main",
+      "summary": "While the recent equity selloff could be another temporary setback, a growing number of late-cycle signs in the U.S. equity market are emerging, Capital Economics said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-16T02:12:00+00:00"
+    },
+    {
       "title": "葉物野菜高騰 家計に優しい料理は",
       "link": "https://news.yahoo.co.jp/pickup/6598961?source=rss",
       "summary": "",
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-10-16T02:08:10+00:00"
+    },
+    {
+      "title": "Woman arrested after blocking delivery robot in Center City Philadelphia",
+      "link": "https://6abc.com/post/woman-arrested-blocking-delivery-robot-center-city-philadelphia-confrontation/19941323/",
+      "summary": "Article URL: https://6abc.com/post/woman-arrested-blocking-delivery-robot-center-city-philadelphia-confrontation/19941323/\nComments URL: https://news.ycombinator.com/item?id=50112963\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T02:04:26+00:00"
     },
     {
       "title": "座りっぱなし･画面中心の生活が､私たち現代人から奪う｢身体性｣とはいったい何なのだろうか | キャリア・教育 | 東洋経済オンライン",
@@ -740,6 +772,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-16T01:54:59.549553+00:00"
+    },
+    {
+      "title": "Any window from your Mac, on your iPhone and iPad",
+      "link": "https://github.com/Saffsanity/sill",
+      "summary": "Article URL: https://github.com/Saffsanity/sill\nComments URL: https://news.ycombinator.com/item?id=50112739\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T01:43:17+00:00"
     },
     {
       "title": "Gold Falls as Investors Await Fed Chairman’s Remarks",
@@ -838,6 +878,14 @@
       "published": "2026-10-16T01:09:00+00:00"
     },
     {
+      "title": "Turn your regular JavaScript code into a neural net",
+      "link": "https://chenglou.me/handwired/",
+      "summary": "Article URL: https://chenglou.me/handwired/\nComments URL: https://news.ycombinator.com/item?id=50112421\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T01:04:18+00:00"
+    },
+    {
       "title": "財政投融資分科会（令和8年9月18日開催）議事要旨",
       "link": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/outline/zaitoa20260918.html",
       "summary": "",
@@ -876,6 +924,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-16T00:53:00+00:00"
+    },
+    {
+      "title": "Thank You, Deno",
+      "link": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
+      "summary": "Article URL: https://www.vlt.io/blog/competition-keeps-javascript-moving\nComments URL: https://news.ycombinator.com/item?id=50112331\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T00:52:40+00:00"
     },
     {
       "title": "RPKI Now Protects 70% of Internet Routes, Up from 54% a Year Ago",
