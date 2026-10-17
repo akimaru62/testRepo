@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T08:50:58.421106+00:00",
+  "generated_at": "2026-10-17T09:07:26.052561+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -738,6 +738,38 @@
   ],
   "items": [
     {
+      "title": "レタス高騰 ファミレス対応追われ",
+      "link": "https://news.yahoo.co.jp/pickup/6599138?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-17T09:02:46+00:00"
+    },
+    {
+      "title": "第81回IMF・世界銀行年次総会　片山財務大臣総務演説（令和8年10月16日　於：バンコク）",
+      "link": "https://www.mof.go.jp/policy/international_policy/imf/annual_meeting/20261017045147.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-17T09:00:00+00:00"
+    },
+    {
+      "title": "第54回国際通貨金融委員会（IMFC）議長声明（仮訳）.pdf",
+      "link": "https://www.mof.go.jp/policy/international_policy/imf/imfc/261017_IMFC_1.pdf",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-17T09:00:00+00:00"
+    },
+    {
+      "title": "第54回国際通貨金融委員会（IMFC）における日本国ステートメント.pdf",
+      "link": "https://www.mof.go.jp/policy/international_policy/imf/imfc/20261017jp.pdf",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-17T09:00:00+00:00"
+    },
+    {
       "title": "ソニー生命、社員約50人の営業活動を停止　金銭不祥事の疑い浮上",
       "link": "https://www.asahi.com/articles/ASVBK220BVBKULFA006M.html?ref=rss",
       "summary": "",
@@ -784,6 +816,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-17T08:27:59.193535+00:00"
+    },
+    {
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "summary": "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017\nComments URL: https://news.ycombinator.com/item?id=50129045\nPoints: 21\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-17T08:21:25+00:00"
     },
     {
       "title": "IMF高官評価 日本の消費減税法案",
