@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T01:48:55.961120+00:00",
+  "generated_at": "2026-10-17T02:10:34.420104+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -726,9 +726,37 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fcc1cca0ad0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "震源までの距離７００キロ超は対象外　気象庁、緊急地震速報誤発表で当面の再発防止策",
+      "link": "https://www.jiji.com/jc/article?k=2026101700238&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-17T02:10:28.874389+00:00"
+    },
+    {
+      "title": "〈書評〉『｢二つの人生｣を生きるための経済学再入門』『｢ケアする大学｣とは何か』『石橋湛山との対話』 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961271?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "経営者､ビジネスパーソンのための東洋経済書評。今回の3冊は『｢二つの人生｣を生きるための経済学再入門 』（佐々木宏夫 著）､『｢ケアする大学｣とは何か』（西本佳代 著）､『石橋湛山との対話』（船橋洋…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-17T02:00:00+00:00"
+    },
+    {
+      "title": "豊漁でお買い得！｢戻りガツオ｣は脂のりを生かす｢かき身丼｣が最強→包丁不要で｢モチっと極上食感｣を引き出す超簡単ワザ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961126?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "秋の旬魚｢戻りガツオ｣。豊漁でお得に手に入る今､包丁を使わず簡単に極上の｢かき身丼｣が楽しめるコツを紹介します。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-17T02:00:00+00:00"
+    },
     {
       "title": "亀田和毅の相手、王座剥奪　前日計量で体重超過―ＷＢＡフェザー級",
       "link": "https://www.jiji.com/jc/article?k=2026101700222&g=spo&m=rss",
@@ -1432,6 +1460,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-16T18:52:00+00:00"
+    },
+    {
+      "title": "000400.KS - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vc2d3NklGUnNFU2xYTkpXTEltWk00TmtaYW5hclhRZzBsYjRzY1JKb0Q5azAzdGt4TG42TUxiOWxDUWZVSjRRcjFGbG9hMHRCMVFHYTVGN2Z5aXVnNTBoRnZZbExELVA4T2R3TDVB?oc=5",
+      "summary": "000400.KS - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-16T18:43:04+00:00"
     },
     {
       "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
