@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T18:08:20.069810+00:00",
+  "generated_at": "2026-10-17T18:26:03.982546+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -750,12 +750,36 @@
   ],
   "items": [
     {
+      "title": "OpenCode Hacked: User credentials leaked",
+      "link": "https://twitter.com/opencode/status/2111516673953935833",
+      "summary": "Article URL: https://twitter.com/opencode/status/2111516673953935833\nComments URL: https://news.ycombinator.com/item?id=50133401\nPoints: 15\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-17T18:01:41+00:00"
+    },
+    {
       "title": "Linux bugs fixed per release over time: >2× rise since 2026-04",
       "link": "https://lwn.net/Articles/1088776/",
       "summary": "Article URL: https://lwn.net/Articles/1088776/\nComments URL: https://news.ycombinator.com/item?id=50132950\nPoints: 14\n# Comments: 0",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-17T17:14:12+00:00"
+    },
+    {
+      "title": "Development statistics for the 7.2 kernel",
+      "link": "https://lwn.net/Articles/1088776/",
+      "summary": "Article URL: https://lwn.net/Articles/1088776/\nComments URL: https://news.ycombinator.com/item?id=50132950\nPoints: 52\n# Comments: 19",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-17T17:14:12+00:00"
+    },
+    {
+      "title": "tsc-ts: TypeScript written in TypeScript",
+      "link": "https://github.com/vercel-labs/tsc-ts",
+      "summary": "Article URL: https://github.com/vercel-labs/tsc-ts\nComments URL: https://news.ycombinator.com/item?id=50132911\nPoints: 6\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-17T17:10:27+00:00"
     },
     {
       "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
@@ -820,6 +844,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-17T16:02:00+00:00"
+    },
+    {
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "link": "https://pele.run/",
+      "summary": "Article URL: https://pele.run/\nComments URL: https://news.ycombinator.com/item?id=50132193\nPoints: 10\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-17T15:55:09+00:00"
     },
     {
       "title": "若原、またアクシデント　Ｊリーグ・柏",
@@ -924,6 +956,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-17T13:47:58.082018+00:00"
+    },
+    {
+      "title": "Show HN: High-quality duck audio synthesizer",
+      "link": "https://celphase.github.io/duck-pond/",
+      "summary": "Article URL: https://celphase.github.io/duck-pond/\nComments URL: https://news.ycombinator.com/item?id=50131006\nPoints: 13\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-17T13:28:46+00:00"
     },
     {
       "title": "アジアパラ大会、名古屋市内で点火セレモニー　俳優の風間俊介さん「全力で応援」",
