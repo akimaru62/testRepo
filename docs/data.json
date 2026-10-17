@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T16:47:28.970932+00:00",
+  "generated_at": "2026-10-17T17:06:24.472966+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -742,6 +742,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f0660b38c20>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f54ed2dcc20>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -1112,6 +1116,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-17T09:30:00+00:00"
+    },
+    {
+      "title": "GNW.C - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV1EzYkdFSkx2M2xPYmdESWIycFpoOUZjS3RIM2JtSldUd2F3aVdoamxRS3d3cEVQT0syQml5OGJtX1Rsc2cwa0lJdmtzVHp1TUJOeWVRRlNqSW1qTkJoQ3B2X1I3Y2piMTdtaEhSTFI2NjNnXzNZVUhuazhVR0d3Tk1NVQ?oc=5",
+      "summary": "GNW.C - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-17T09:26:10+00:00"
     },
     {
       "title": "川崎が振り切る　Ｊリーグ・Ｃ大阪２―４川崎",
