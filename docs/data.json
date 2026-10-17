@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T12:09:56.431183+00:00",
+  "generated_at": "2026-10-17T12:30:48.848280+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -734,9 +734,45 @@
     {
       "url": "https://www.ft.com/rss/home",
       "error": "HTTPSConnectionPool(host='www.ft.com', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f0c4d0acad0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "西藤俊哉が３位　フェンシングＷ杯",
+      "link": "https://www.jiji.com/jc/article?k=2026101700413&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-17T12:30:44.013077+00:00"
+    },
+    {
+      "title": "ロシア産軽油供給、効果に疑問　店頭価格、前週より上昇",
+      "link": "https://www.jiji.com/jc/article?k=2026101700304&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-17T12:30:44.013066+00:00"
+    },
+    {
+      "title": "研修旅行の安全確保訴え　女子生徒遺族、沖縄知事と面会―辺野古転覆",
+      "link": "https://www.jiji.com/jc/article?k=2026101700403&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-17T12:30:44.013054+00:00"
+    },
+    {
+      "title": "「人工知能」改め「先進的知能」？　ＩＭＦ委で表現変更、トランプ米政権の意向影響か",
+      "link": "https://www.jiji.com/jc/article?k=2026101700400&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-17T12:30:44.013014+00:00"
+    },
     {
       "title": "Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays",
       "link": "https://www.marketwatch.com/story/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wall-street-earnings-plays-0bb61e81?mod=mw_rss_topstories",
@@ -744,6 +780,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-17T12:01:00+00:00"
+    },
+    {
+      "title": "Bending Spoons wants to revive software castoffs. Berkshire is backing the plan",
+      "link": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
+      "summary": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-10-17T12:00:01+00:00"
     },
     {
       "title": "なぜ都市部にデータセンター 解説",
