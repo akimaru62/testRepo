@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T18:48:01.040353+00:00",
+  "generated_at": "2026-10-17T19:05:29.167519+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -750,6 +750,14 @@
   ],
   "items": [
     {
+      "title": "Qwen3.8-27B on the iPhone 18 Neural Engine at 15–70 tok/s (1.5 bpw)",
+      "link": "https://twitter.com/anemll/status/2111517143087067309",
+      "summary": "Article URL: https://twitter.com/anemll/status/2111517143087067309\nComments URL: https://news.ycombinator.com/item?id=50133500\nPoints: 12\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-17T18:10:21+00:00"
+    },
+    {
       "title": "OpenCode Hacked: User credentials leaked",
       "link": "https://twitter.com/opencode/status/2111516673953935833",
       "summary": "Article URL: https://twitter.com/opencode/status/2111516673953935833\nComments URL: https://news.ycombinator.com/item?id=50133401\nPoints: 15\n# Comments: 0",
@@ -1145,6 +1153,14 @@
       "title": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
       "link": "https://dl.acm.org/doi/10.1145/358453.358459",
       "summary": "Article URL: https://dl.acm.org/doi/10.1145/358453.358459\nComments URL: https://news.ycombinator.com/item?id=50130079\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-17T11:20:52+00:00"
+    },
+    {
+      "title": "The future of programming (1982)",
+      "link": "https://dl.acm.org/doi/10.1145/358453.358459",
+      "summary": "Article URL: https://dl.acm.org/doi/10.1145/358453.358459\nComments URL: https://news.ycombinator.com/item?id=50130079\nPoints: 17\n# Comments: 2",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-17T11:20:52+00:00"
@@ -1662,6 +1678,14 @@
       "published": "2026-10-17T03:26:36.670583+00:00"
     },
     {
+      "title": "A skeptic's first contact with Kubernetes (2024)",
+      "link": "https://blog.davidv.dev/posts/first-contact-with-k8s/",
+      "summary": "Article URL: https://blog.davidv.dev/posts/first-contact-with-k8s/\nComments URL: https://news.ycombinator.com/item?id=50127572\nPoints: 20\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-17T03:16:25+00:00"
+    },
+    {
       "title": "｢金正恩をプーチンに奪われる｣中国･習近平の焦り､12年間放置された中朝国境の巨大橋が突然開通した理由 | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/961320?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "中国と北朝鮮を結ぶ｢新鴨緑江大橋｣が12年の沈黙を破り､ついに開通します。裏には中ロ朝三国の思惑と衝突､そして習近平主席の焦燥がありました。国境を越える巨大インフラは､東アジアのパワーバランスをどう…",
@@ -1860,6 +1884,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-16T23:52:04+00:00"
+    },
+    {
+      "title": "Dam removals are bringing fish back across the northeastern United States",
+      "link": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+      "summary": "Article URL: https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/\nComments URL: https://news.ycombinator.com/item?id=50126312\nPoints: 11\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T23:47:31+00:00"
     },
     {
       "title": "セルシオを手放し｢もう歳だし適当な軽で…｣のはずが『アウディA3』の小さな車体に詰め込まれた\"本気\" | ライフ | 東洋経済オンライン",
