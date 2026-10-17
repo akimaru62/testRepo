@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T10:22:31.675617+00:00",
+  "generated_at": "2026-10-17T10:34:17.694293+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -778,6 +778,14 @@
       "published": "2026-10-17T10:08:50+00:00"
     },
     {
+      "title": "【ジャパネット髙田旭人氏が語る】買収提案撤回の経緯／製販垂直統合モデルを目指す狙い／長崎スタジアムシティ／非上場でも｢1兆円規模｣？／初の自主企画ブランド「J PRIDE」ハンディウォッシャー好調 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961566?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2026年2月、家電メーカー・ツインバードへのTOB予告提案と撤回で話題を呼んだジャパネットホールディングスだが、なぜ異例のTOB提案を行い、撤回を選んだのか。ジャパネットHDを含め小売業界で加速…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-17T10:00:00+00:00"
+    },
+    {
       "title": "ソニー生命 50人を営業活動停止に",
       "link": "https://news.yahoo.co.jp/pickup/6599146?source=rss",
       "summary": "",
@@ -968,6 +976,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-17T07:13:47.614124+00:00"
+    },
+    {
+      "title": "Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop",
+      "link": "https://github.com/CLoaKY233/siltop",
+      "summary": "btop is beautiful. But on my M-series Mac it can't tell me the one thing I actually want to know: what is the chip doing? No watts, no GPU, no per-core clocks.So I built siltop: btop's calm, with eyes on the silicon. Real power, clocks and temps straight from the SMC and IOReport, no sudo, about 1.3% of one core (btop is ~2.5% on the same machine).It also tells you what's wrong in plain words (\"Busy: rustc using 9.1 cores\", \"Hot: fans at 80%\") before you read a single graph.10-second try, no load needed:  brew install cloaky233/tap/siltop && siltop --demo\n\nRust, MIT/Apache, no telemetry, no network unless you turn on update checks.Curious what your Mac shows. M1/M2 Ultra and M5 Max owners especially, I haven't seen yours yet.\n\nComments URL: https://news.ycombinator.com/item?id=50128654\nPoints: 5\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-17T07:01:07+00:00"
     },
     {
       "title": "人生そのものが小説の材料､小説は読者自身の人生を読むための｢拡大鏡｣ プルースト『失われた時を求めて』を読む（下） | ライフ | 東洋経済オンライン",
