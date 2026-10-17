@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T19:05:29.167519+00:00",
+  "generated_at": "2026-10-17T19:18:40.970175+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -750,6 +750,14 @@
   ],
   "items": [
     {
+      "title": "Pattern Matching Beats Narrative Reasoning",
+      "link": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
+      "summary": "Article URL: https://blog.scottstevenson.net/p/pattern-matching-beats-narrative\nComments URL: https://news.ycombinator.com/item?id=50133736\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-17T18:34:13+00:00"
+    },
+    {
       "title": "Qwen3.8-27B on the iPhone 18 Neural Engine at 15–70 tok/s (1.5 bpw)",
       "link": "https://twitter.com/anemll/status/2111517143087067309",
       "summary": "Article URL: https://twitter.com/anemll/status/2111517143087067309\nComments URL: https://news.ycombinator.com/item?id=50133500\nPoints: 12\n# Comments: 2",
@@ -796,6 +804,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-17T17:10:27+00:00"
+    },
+    {
+      "title": "Gold is now the top U.S. export",
+      "link": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+      "summary": "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export\nComments URL: https://news.ycombinator.com/item?id=50132870\nPoints: 21\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-17T17:06:07+00:00"
     },
     {
       "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
@@ -1614,6 +1630,14 @@
       "published": "2026-10-17T04:00:21+00:00"
     },
     {
+      "title": "Why have screens replaced socialising?",
+      "link": "https://www.ft.com/content/989c757d-29ba-46fd-82de-427b810a8649?syn-25a6b1a6=1",
+      "summary": "The economics of why we increasingly avoid the company of both other humans and books",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-17T04:00:21+00:00"
+    },
+    {
       "title": "Are we sleepwalking into World War III?",
       "link": "https://www.ft.com/content/3a56575e-ecfb-4fa9-af70-01aebd869729?syn-25a6b1a6=1",
       "summary": "As regional conflicts rage and revisionist powers challenge the established order, warnings of a new global conflagration are growing louder",
@@ -1676,6 +1700,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-17T03:26:36.670583+00:00"
+    },
+    {
+      "title": "Source code of the Estonian online voting system",
+      "link": "https://github.com/valimised/ivxv",
+      "summary": "Article URL: https://github.com/valimised/ivxv\nComments URL: https://news.ycombinator.com/item?id=50127586\nPoints: 12\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-17T03:18:39+00:00"
     },
     {
       "title": "A skeptic's first contact with Kubernetes (2024)",
@@ -1878,6 +1910,14 @@
       "published": "2026-10-17T00:00:00+00:00"
     },
     {
+      "title": "Show HN: Things to Do API",
+      "link": "https://thingstodoapi.com/",
+      "summary": "I built an api/mcp for local events: pop-ups, one-off events, concerts, etc. currently covering the SF bay area.I've been building a bunch of consumer apps lately around personalization and recommendation and have had a hard time finding this data in one spot. agents can find useful stuff through tool calls / web search, but slow.you can scrape on demand too, but i wanted a faster data set and couldn't find an existing provider for the mix of event types I was searching for.the methodology for it is to find influential accounts/posters/etc. and do a fan out across things that they co-post with.mcp: `claude mcp add --transport http thingstodo https://api.thingstodoapi.com/mcp`I'm considering adding other cities. If you're building something that needs local event data, would something like this be useful and where would you want coverage?\n\nComments URL: https://news.ycombinator.com/item?id=50126384\nPoints: 10\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T23:58:34+00:00"
+    },
+    {
       "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
       "link": "https://fakeipedia.org",
       "summary": "Hi HN!Fakeipedia is an automatic world-building platform which takes an imagined world and makes a whole wiki that you can endlessly explore by clicking red links.I came up with this idea a few months ago after playing around with worldbuilding in Gemini, but I didn't want to release it until a powerful enough model could do it justice, and I decided that Argon is creative enough to write articles that are worth reading. I was surprised how well it turned out and how engaging some of the writing actually is.If you want to generate an article there is a nominal charge attached ($0.90), which helps cover AI/Stripe costs, and I think I just about break even. You can also steer the generation ala choose-your-own-adventure books when generating a new article. Everything generated is free and public for everyone to see.I hope you like it and I'm very much open to hearing about new world ideas/features that would make this project better.\n\nComments URL: https://news.ycombinator.com/item?id=50126334\nPoints: 6\n# Comments: 2",
@@ -1892,6 +1932,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-16T23:47:31+00:00"
+    },
+    {
+      "title": "Bleached corals thrive within days when touching healthy neighbour",
+      "link": "https://www.nature.com/articles/d41586-026-03266-x",
+      "summary": "https://archive.ph/zIPG4\n\nComments URL: https://news.ycombinator.com/item?id=50126253\nPoints: 21\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T23:38:27+00:00"
     },
     {
       "title": "セルシオを手放し｢もう歳だし適当な軽で…｣のはずが『アウディA3』の小さな車体に詰め込まれた\"本気\" | ライフ | 東洋経済オンライン",
