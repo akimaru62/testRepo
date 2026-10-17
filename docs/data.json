@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T03:41:30.864646+00:00",
+  "generated_at": "2026-10-17T03:50:54.362493+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -960,6 +960,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-17T00:00:00+00:00"
+    },
+    {
+      "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
+      "link": "https://fakeipedia.org",
+      "summary": "Hi HN!Fakeipedia is an automatic world-building platform which takes an imagined world and makes a whole wiki that you can endlessly explore by clicking red links.I came up with this idea a few months ago after playing around with worldbuilding in Gemini, but I didn't want to release it until a powerful enough model could do it justice, and I decided that Argon is creative enough to write articles that are worth reading. I was surprised how well it turned out and how engaging some of the writing actually is.If you want to generate an article there is a nominal charge attached ($0.90), which helps cover AI/Stripe costs, and I think I just about break even. You can also steer the generation ala choose-your-own-adventure books when generating a new article. Everything generated is free and public for everyone to see.I hope you like it and I'm very much open to hearing about new world ideas/features that would make this project better.\n\nComments URL: https://news.ycombinator.com/item?id=50126334\nPoints: 6\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T23:52:04+00:00"
     },
     {
       "title": "セルシオを手放し｢もう歳だし適当な軽で…｣のはずが『アウディA3』の小さな車体に詰め込まれた\"本気\" | ライフ | 東洋経済オンライン",
