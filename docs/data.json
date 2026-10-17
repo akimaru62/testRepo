@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T02:10:34.420104+00:00",
+  "generated_at": "2026-10-17T02:31:40.631619+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -730,9 +730,21 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fcc1cca0ad0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://www.ft.com/rss/home",
+      "error": "HTTPSConnectionPool(host='www.ft.com', port=443): Read timed out. (read timeout=15)"
     }
   ],
   "items": [
+    {
+      "title": "Butlerian Jihad",
+      "link": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+      "summary": "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad\nComments URL: https://news.ycombinator.com/item?id=50127274\nPoints: 18\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-17T02:21:08+00:00"
+    },
     {
       "title": "震源までの距離７００キロ超は対象外　気象庁、緊急地震速報誤発表で当面の再発防止策",
       "link": "https://www.jiji.com/jc/article?k=2026101700238&g=soc&m=rss",
@@ -1900,6 +1912,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-16T14:58:28+00:00"
+    },
+    {
+      "title": "A week on the farm with Dylan Araps",
+      "link": "https://adamschaefers.com/blog/2026-10-13-a-week-on-the-farm/",
+      "summary": "Article URL: https://adamschaefers.com/blog/2026-10-13-a-week-on-the-farm/\nComments URL: https://news.ycombinator.com/item?id=50119021\nPoints: 5\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T14:46:55+00:00"
     },
     {
       "title": "Hello Toronto – Waymo Is En Route",
