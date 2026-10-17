@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T15:06:31.479065+00:00",
+  "generated_at": "2026-10-17T15:21:37.450869+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -742,6 +742,38 @@
   ],
   "items": [
     {
+      "title": "若原、またアクシデント　Ｊリーグ・柏",
+      "link": "https://www.jiji.com/jc/article?k=2026101700460&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-17T15:21:33.319370+00:00"
+    },
+    {
+      "title": "Ad-tech company was a delivery system for \"mercenary spyware\"",
+      "link": "https://pluralistic.net/2026/10/17/mercenary-spyware/#discover-tech",
+      "summary": "Article URL: https://pluralistic.net/2026/10/17/mercenary-spyware/#discover-tech\nComments URL: https://news.ycombinator.com/item?id=50131881\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-17T15:17:32+00:00"
+    },
+    {
+      "title": "Software’s new consolidator gets big vote of confidence from Berkshire",
+      "link": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
+      "summary": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-10-17T15:11:30+00:00"
+    },
+    {
+      "title": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
+      "link": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
+      "summary": "Investors may want to rethink their bond allocation and opt for managed futures exposure.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-10-17T15:00:01+00:00"
+    },
+    {
       "title": "仙台が首位守る　Ｊ２",
       "link": "https://www.jiji.com/jc/article?k=2026101700443&g=spo&m=rss",
       "summary": "",
@@ -764,6 +796,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-17T13:55:28+00:00"
+    },
+    {
+      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
+      "link": "https://github.com/mikroverk/esp32sim",
+      "summary": "Article URL: https://github.com/mikroverk/esp32sim\nComments URL: https://news.ycombinator.com/item?id=50131189\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-17T13:51:08+00:00"
     },
     {
       "title": "緊急地震速報配信されなかったNTTドコモの不具合、対応が完了",
@@ -932,6 +972,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-17T11:21:35.669351+00:00"
+    },
+    {
+      "title": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
+      "link": "https://dl.acm.org/doi/10.1145/358453.358459",
+      "summary": "Article URL: https://dl.acm.org/doi/10.1145/358453.358459\nComments URL: https://news.ycombinator.com/item?id=50130079\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-17T11:20:52+00:00"
     },
     {
       "title": "Fed interest-rate decision this month is a closer call than markets think",
