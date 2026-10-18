@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T11:33:21.398042+00:00",
+  "generated_at": "2026-10-18T11:48:13.115491+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -840,6 +840,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-18T10:22:51.887979+00:00"
+    },
+    {
+      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+      "link": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+      "summary": "Article URL: https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/\nComments URL: https://news.ycombinator.com/item?id=50139692\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-18T10:21:51+00:00"
     },
     {
       "title": "It's time to talk about TEEs",
@@ -3304,6 +3312,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-10-16T21:15:00+00:00"
+    },
+    {
+      "title": "Teal – A statically-typed dialect of Lua",
+      "link": "https://teal-language.org/",
+      "summary": "Article URL: https://teal-language.org/\nComments URL: https://news.ycombinator.com/item?id=50124730\nPoints: 45\n# Comments: 11",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-16T21:07:24+00:00"
     },
     {
       "title": "Apple blames ‘extraordinary’ demand as foldable iPhones sell out",
