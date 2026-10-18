@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T07:16:13.891147+00:00",
+  "generated_at": "2026-10-18T07:36:56.879558+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -750,9 +750,21 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fe9a4164d70>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fdfb8ad4d70>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "商店がない離島の自販機 なぜ撤去",
+      "link": "https://news.yahoo.co.jp/pickup/6599249?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-18T07:21:06+00:00"
+    },
     {
       "title": "V字回復はこれだ！ 最後の切り札｢ナイトチケット戦略｣こそが巨額赤字のジャングリア沖縄の救世主だ | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/961268?utm_source=rss&utm_medium=http&utm_campaign=link_back",
