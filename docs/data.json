@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T20:07:15.526300+00:00",
+  "generated_at": "2026-10-18T20:23:41.538278+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -766,12 +766,36 @@
   ],
   "items": [
     {
+      "title": "日本男子、予選首位　個人総合は岡慎之助１位、橋本大輝２位―世界体操",
+      "link": "https://www.jiji.com/jc/article?k=2026101800148&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-18T20:23:36.005046+00:00"
+    },
+    {
+      "title": "Evercore appoints co-presidents as it sets up CEO succession contest",
+      "link": "https://www.ft.com/content/5700f8fb-32b9-4324-972c-9578904ac6e2?syn-25a6b1a6=1",
+      "summary": "Reshuffle elevates Nigel Dawn and Naveen Nataraj, with John Weinberg to remain chief executive for at least three years",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-18T20:01:48+00:00"
+    },
+    {
       "title": "1万円分がもらえる会社も！｢\"QUOカード\"1000円以上｣の株主優待リスト130　複雑な条件なし＆使い勝手抜群！ | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/961053?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "複雑化する株主優待制度の中で､自分に合った優待を見つけるのは難しくなっています。今回は特に人気の高いQUOカードがもらえる企業に焦点を当てた最新リストを大公開！",
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-10-18T20:00:00+00:00"
+    },
+    {
+      "title": "Macron faces political firestorm after riots",
+      "link": "https://www.ft.com/content/19495e50-0f55-44b1-8d19-19244163a4e8?syn-25a6b1a6=1",
+      "summary": "Worst street violence in years comes six months ahead of one of Europe’s most closely watched elections",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-18T19:55:48+00:00"
     },
     {
       "title": "｢鉄道業界のAI革命｣日立vsシーメンスの攻防最前線　ヨーロッパにない｢柔軟性｣が日本のお家芸 | ビジネス | 東洋経済オンライン",
@@ -830,9 +854,25 @@
       "published": "2026-10-18T18:48:04+00:00"
     },
     {
+      "title": "Free Pascal compiler now supports dynamic packages",
+      "link": "https://www.getlazarus.org/dynamic/",
+      "summary": "Article URL: https://www.getlazarus.org/dynamic/\nComments URL: https://news.ycombinator.com/item?id=50144066\nPoints: 28\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-18T18:48:04+00:00"
+    },
+    {
       "title": "HOA's are making the home crisis worse",
       "link": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
       "summary": "Article URL: https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html\nComments URL: https://news.ycombinator.com/item?id=50144005\nPoints: 32\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-18T18:40:16+00:00"
+    },
+    {
+      "title": "Florida's HOAs and condo associations are making the housing crisis worse",
+      "link": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
+      "summary": "Article URL: https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html\nComments URL: https://news.ycombinator.com/item?id=50144005\nPoints: 98\n# Comments: 145",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-18T18:40:16+00:00"
@@ -854,6 +894,14 @@
       "published": "2026-10-18T18:15:10+00:00"
     },
     {
+      "title": "Investing in the public benefit",
+      "link": "https://www.anthropic.com/news/public-benefit-fund",
+      "summary": "Article URL: https://www.anthropic.com/news/public-benefit-fund\nComments URL: https://news.ycombinator.com/item?id=50143755\nPoints: 30\n# Comments: 31",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-18T18:15:10+00:00"
+    },
+    {
       "title": "横浜市長に原沢敦美氏が初当選　前職・山中竹春氏ら６氏破る",
       "link": "https://www.jiji.com/jc/article?k=2026101800375&g=pol&m=rss",
       "summary": "",
@@ -865,6 +913,14 @@
       "title": "PalmOS Lemmings by Aaron Ardiri",
       "link": "https://github.com/ardiri/palmos-lemmings",
       "summary": "Article URL: https://github.com/ardiri/palmos-lemmings\nComments URL: https://news.ycombinator.com/item?id=50143536\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-18T17:56:59+00:00"
+    },
+    {
+      "title": "PalmOS Lemmings",
+      "link": "https://github.com/ardiri/palmos-lemmings",
+      "summary": "Article URL: https://github.com/ardiri/palmos-lemmings\nComments URL: https://news.ycombinator.com/item?id=50143536\nPoints: 33\n# Comments: 6",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-18T17:56:59+00:00"
