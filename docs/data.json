@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T07:36:56.879558+00:00",
+  "generated_at": "2026-10-18T07:47:51.266984+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -758,6 +758,14 @@
   ],
   "items": [
     {
+      "title": "ANA｢ちいかわジェット｣が羽田空港で初公開　19日から運航開始",
+      "link": "https://www.asahi.com/articles/ASVBL2F1MVBLULFA004M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-18T07:47:45.326132+00:00"
+    },
+    {
       "title": "商店がない離島の自販機 なぜ撤去",
       "link": "https://news.yahoo.co.jp/pickup/6599249?source=rss",
       "summary": "",
@@ -780,6 +788,22 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-10-18T07:00:00+00:00"
+    },
+    {
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "link": "https://api-docs.deepseek.com/guides/search/",
+      "summary": "Article URL: https://api-docs.deepseek.com/guides/search/\nComments URL: https://news.ycombinator.com/item?id=50138531\nPoints: 52\n# Comments: 15",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-18T06:50:36+00:00"
+    },
+    {
+      "title": "A Princeton PhD Applied to 2,300 Jobs. He Still Can't Get One",
+      "link": "https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c",
+      "summary": "Article URL: https://www.wsj.com/lifestyle/careers/labor-market-freeze-phd-graduate-f8e17d7c\nComments URL: https://news.ycombinator.com/item?id=50138462\nPoints: 13\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-18T06:36:48+00:00"
     },
     {
       "title": "全焼「越後鶴亀」酒の販売再開へ",
@@ -822,9 +846,25 @@
       "published": "2026-10-18T05:09:14+00:00"
     },
     {
+      "title": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
+      "link": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+      "summary": "Article URL: https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685\nComments URL: https://news.ycombinator.com/item?id=50138087\nPoints: 66\n# Comments: 39",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-18T05:09:14+00:00"
+    },
+    {
       "title": "A Mole Infiltrated the Highest Ranks of American Militias",
       "link": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
       "summary": "Article URL: https://www.propublica.org/article/ap3-oath-keepers-militia-mole\nComments URL: https://news.ycombinator.com/item?id=50138044\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-18T04:59:24+00:00"
+    },
+    {
+      "title": "A Mole Infiltrated the Highest Ranks of American Militias (2025)",
+      "link": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
+      "summary": "Article URL: https://www.propublica.org/article/ap3-oath-keepers-militia-mole\nComments URL: https://news.ycombinator.com/item?id=50138044\nPoints: 72\n# Comments: 12",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-18T04:59:24+00:00"
@@ -841,6 +881,14 @@
       "title": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
       "link": "https://sphinx-six-theta.vercel.app/",
       "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works.\n\nComments URL: https://news.ycombinator.com/item?id=50137950\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-18T04:33:49+00:00"
+    },
+    {
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "link": "https://sphinx-six-theta.vercel.app/",
+      "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works.\n\nComments URL: https://news.ycombinator.com/item?id=50137950\nPoints: 90\n# Comments: 25",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-18T04:33:49+00:00"
@@ -2660,6 +2708,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-17T00:19:20.898660+00:00"
+    },
+    {
+      "title": "Propagation of Sound in Strongly Viscous Liquids (1966) [pdf]",
+      "link": "https://jetp.ras.ru/cgi-bin/dn/e_023_05_0893.pdf",
+      "summary": "Article URL: https://jetp.ras.ru/cgi-bin/dn/e_023_05_0893.pdf\nComments URL: https://news.ycombinator.com/item?id=50126457\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-17T00:11:29+00:00"
     },
     {
       "title": "編集部厳選､注目の経済ニュース！【10月17日】 今週のトピックス＆来週のスケジュール | ビジネス | 東洋経済オンライン",
