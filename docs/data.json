@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T23:06:18.892154+00:00",
+  "generated_at": "2026-10-18T23:20:59.583388+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -762,9 +762,81 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f8a65f0cd70>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7ff578d98d70>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "投資も安保も、きしむ米韓関係　通販大手問題で不信拡大",
+      "link": "https://www.jiji.com/jc/article?k=2026101800230&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-18T23:20:47.982227+00:00"
+    },
+    {
+      "title": "ネタニヤフ氏を「全面支持」　イスラエル総選挙で後押し―トランプ氏",
+      "link": "https://www.jiji.com/jc/article?k=2026101900130&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-18T23:20:47.982216+00:00"
+    },
+    {
+      "title": "コアラ２頭、１０年ぶり仲間入り　豪州の雄雌、繁殖に期待―埼玉の動物園",
+      "link": "https://www.jiji.com/jc/article?k=2026101800236&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-18T23:20:47.982199+00:00"
+    },
+    {
+      "title": "北方領土、強硬姿勢強めるプーチン氏　対ロ制裁で交渉中断、自ら訪問も―日ソ共同宣言７０年",
+      "link": "https://www.jiji.com/jc/article?k=2026101800222&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-18T23:20:47.982185+00:00"
+    },
+    {
+      "title": "「プーチンの戦争あおる」　制裁見送りで米批判―ウクライナ大統領",
+      "link": "https://www.jiji.com/jc/article?k=2026101900127&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-18T23:20:47.982170+00:00"
+    },
+    {
+      "title": "立民再建へ道険しく　苦しい財政、衆参結集見えず",
+      "link": "https://www.jiji.com/jc/article?k=2026101800224&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-18T23:20:47.982150+00:00"
+    },
+    {
+      "title": "米中間選挙、データセンター争点　バンス氏お膝元で共和苦戦―計画急増で住民反発・中西部オハイオ州",
+      "link": "https://www.jiji.com/jc/article?k=2026101800221&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-18T23:20:47.982111+00:00"
+    },
+    {
+      "title": "東芝 難関大生から再評価される今",
+      "link": "https://news.yahoo.co.jp/pickup/6599312?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-18T23:04:39+00:00"
+    },
     {
       "title": "Some Wall Street Leaders are Weighing Bailing on ‘Davos in the Desert’ After Attacks on Riyadh",
       "link": "https://www.wsj.com/finance/some-wall-street-leaders-are-weighing-bailing-on-davos-in-the-desert-after-attacks-on-riyadh-f0be73b4?mod=rss_markets_main",
@@ -772,6 +844,22 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-18T23:01:00+00:00"
+    },
+    {
+      "title": "｢一番好きなジーンズを解体してみろ｣\"衣服標本家\"生んだ父の教え…120年前フランスの消防服に見つけた\"直すための余白\" | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960920?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "18〜19世紀の衣服を分解し､その内側に隠された仕立ての技術に迫る｢衣服標本家｣の長谷川彰良さん。少年時代に父から学んだ\"服を解体して設計を知る\"探究心が､今や多くの人に衣服の奥深さを伝える半･分解…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-18T23:00:00+00:00"
+    },
+    {
+      "title": "数百万円《18世紀貴族の服》を分解する男…｢買う人はいない｣と言われた型紙が15000円で売れて｢依頼の9割を断れる｣ワケ | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960919?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢衣服標本家｣というユニークな肩書を持つ長谷川彰良さんは､18〜19世紀のヨーロッパ衣服を分解･研究し､その知見を型紙や展示で発信しています。数百万円する服の仕入れから収益化まで。どうやってまねので…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-18T23:00:00+00:00"
     },
     {
       "title": "｢不備！訂正印！｣怒号の裏で完璧な先輩が見せた\"裏の顔\"…爆発寸前の新人行員がトイレ個室で目撃した奇行 | ライフ | 東洋経済オンライン",
