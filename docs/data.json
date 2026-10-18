@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T05:06:37.040626+00:00",
+  "generated_at": "2026-10-18T05:23:24.545521+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -749,6 +749,22 @@
     }
   ],
   "items": [
+    {
+      "title": "A Mole Infiltrated the Highest Ranks of American Militias",
+      "link": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
+      "summary": "Article URL: https://www.propublica.org/article/ap3-oath-keepers-militia-mole\nComments URL: https://news.ycombinator.com/item?id=50138044\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-18T04:59:24+00:00"
+    },
+    {
+      "title": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+      "link": "https://sphinx-six-theta.vercel.app/",
+      "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works.\n\nComments URL: https://news.ycombinator.com/item?id=50137950\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-18T04:33:49+00:00"
+    },
     {
       "title": "若宮首相補佐官が靖国参拝",
       "link": "https://www.jiji.com/jc/article?k=2026101800204&g=pol&m=rss",
