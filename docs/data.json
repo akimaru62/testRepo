@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T14:47:43.368228+00:00",
+  "generated_at": "2026-10-18T15:06:46.061639+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -766,6 +766,30 @@
   ],
   "items": [
     {
+      "title": "Websites are closing their doors to AI agents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web\nComments URL: https://news.ycombinator.com/item?id=50141657\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-18T14:58:10+00:00"
+    },
+    {
+      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model\nComments URL: https://news.ycombinator.com/item?id=50141429\nPoints: 16\n# Comments: 9",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-18T14:30:27+00:00"
+    },
+    {
+      "title": "Tesla 'Cannot Guarantee' Roadster Reservation Holders Will Ever Get a Car",
+      "link": "https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car",
+      "summary": "Article URL: https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car\nComments URL: https://news.ycombinator.com/item?id=50141295\nPoints: 6\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-18T14:16:41+00:00"
+    },
+    {
       "title": "These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth",
       "link": "https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories",
       "summary": "Boeing, Meta and EchoStar recorded steep charges and expenses a year ago, which are expected to make this latest quarter’s results look especially strong by comparison.",
@@ -820,6 +844,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-18T13:21:27.343764+00:00"
+    },
+    {
+      "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+      "link": "https://legendofhyrule.com/",
+      "summary": "I made this ahead of the Ocarina of Time remake which comes out in 17 days. I remember the feeling of playing it as a kid but I hadn’t kept up with the story so I built a timeline to catch up before the Door of Time reopens.Nintendo’s own timeline is the authority here (Hyrule Historia and their chronicle page). The fun part was rethinking how to visualize it. It branches at the end of Ocarina into three eras depending on whether Link wins or loses, so each era is its own thread on the cloth. The threads meet again much later with Breath of the Wild.I had a lot of help from Claude. I’d often thought about building things like this but never found the time between the day job and the rest of life.\n\nComments URL: https://news.ycombinator.com/item?id=50140769\nPoints: 18\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-18T13:06:54+00:00"
     },
     {
       "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
