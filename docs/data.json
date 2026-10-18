@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T20:23:41.538278+00:00",
+  "generated_at": "2026-10-18T20:35:41.634246+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -774,6 +774,14 @@
       "published": "2026-10-18T20:23:36.005046+00:00"
     },
     {
+      "title": "AI Agents Trading Stocks While You Sleep? Charles Schwab’s CEO Is Skeptical",
+      "link": "https://www.wsj.com/tech/ai/ai-agents-trading-stocks-while-you-sleep-charles-schwabs-ceo-is-skeptical-3ff1b5c3?mod=rss_markets_main",
+      "summary": "Schwab CEO Rick Wurster is betting some money and investing needs require a human touch.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-18T20:23:00+00:00"
+    },
+    {
       "title": "Evercore appoints co-presidents as it sets up CEO succession contest",
       "link": "https://www.ft.com/content/5700f8fb-32b9-4324-972c-9578904ac6e2?syn-25a6b1a6=1",
       "summary": "Reshuffle elevates Nigel Dawn and Naveen Nataraj, with John Weinberg to remain chief executive for at least three years",
@@ -844,6 +852,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-18T19:00:01+00:00"
+    },
+    {
+      "title": "Tiny Brutalism – Thanks to HN it's on Steam",
+      "link": "https://store.steampowered.com/app/5426130/Tiny_Brutalism/",
+      "summary": "Article URL: https://store.steampowered.com/app/5426130/Tiny_Brutalism/\nComments URL: https://news.ycombinator.com/item?id=50144144\nPoints: 22\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-18T18:59:09+00:00"
     },
     {
       "title": "Free Pascal Compiler Now Supports Dynamic Packages",
@@ -1065,6 +1081,14 @@
       "title": "High performance policy routed IPsec mesh SD-WAN",
       "link": "https://ranet3.com/",
       "summary": "Article URL: https://ranet3.com/\nComments URL: https://news.ycombinator.com/item?id=50141436\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-18T14:31:52+00:00"
+    },
+    {
+      "title": "Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN",
+      "link": "https://ranet3.com/",
+      "summary": "btw this is already running on all my machines (including a macbook), and i've configured all of them to have routable public ip addresses ;)especially for the mac, my ISP is SFR (over coaxial connection) with only dynamic ipv4, i can use this to get stable v4/v6 addresses very easily for all my devices behind the routerios/android app soon^{TM}\n\nComments URL: https://news.ycombinator.com/item?id=50141436\nPoints: 17\n# Comments: 1",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-18T14:31:52+00:00"
