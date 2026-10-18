@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T05:47:43.687773+00:00",
+  "generated_at": "2026-10-18T06:11:47.070321+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -750,6 +750,38 @@
   ],
   "items": [
     {
+      "title": "宗教行事で雑踏事故、１９人死亡　出入り口に殺到か―インド東部",
+      "link": "https://www.jiji.com/jc/article?k=2026101800229&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-18T06:11:41.040177+00:00"
+    },
+    {
+      "title": "「高度外国人材」年収要件上げ　入管庁、賃金上昇受け",
+      "link": "https://www.jiji.com/jc/article?k=2026101800227&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-18T06:11:41.040147+00:00"
+    },
+    {
+      "title": "The game industry is broken – can we fix it?",
+      "link": "https://knowledge.edge-online.com/p/the-game-industry-is-broken-can-we-fix-it-tim-sweeney-edge-crash",
+      "summary": "Article URL: https://knowledge.edge-online.com/p/the-game-industry-is-broken-can-we-fix-it-tim-sweeney-edge-crash\nComments URL: https://news.ycombinator.com/item?id=50138156\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-18T05:27:58+00:00"
+    },
+    {
+      "title": "Matthew Prince on why Cloudflare offers a free version and always will",
+      "link": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+      "summary": "Article URL: https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685\nComments URL: https://news.ycombinator.com/item?id=50138087\nPoints: 11\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-18T05:09:14+00:00"
+    },
+    {
       "title": "A Mole Infiltrated the Highest Ranks of American Militias",
       "link": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
       "summary": "Article URL: https://www.propublica.org/article/ap3-oath-keepers-militia-mole\nComments URL: https://news.ycombinator.com/item?id=50138044\nPoints: 4\n# Comments: 0",
@@ -780,6 +812,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-18T04:27:10.112785+00:00"
+    },
+    {
+      "title": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5",
+      "link": "https://tkgally.github.io/500-clocks/",
+      "summary": "Lately I've been testing frontier models by having them create self-contained web pages that display clocks--sort of my personal version of Simon Willison’s pelican-on-a-bicycle metric.I have been particularly impressed by the variety, interest, and quality of the clocks created by Claude Opus 5.5. Over the course of several sessions in the Claude chat interface, I had it build a total of 500 clocks.Claude’s summary of the prompting process and page design is here:https://github.com/tkgally/500-clocks/tree/main\n\nComments URL: https://news.ycombinator.com/item?id=50137820\nPoints: 11\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-18T04:04:58+00:00"
     },
     {
       "title": "America’s $10tn AI infrastructure boom is starting to fray",
