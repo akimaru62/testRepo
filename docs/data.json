@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T16:47:42.626499+00:00",
+  "generated_at": "2026-10-18T17:05:48.716542+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -766,12 +766,28 @@
   ],
   "items": [
     {
+      "title": "Someone Behind the Software",
+      "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "summary": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/\nComments URL: https://news.ycombinator.com/item?id=50142573\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-18T16:32:00+00:00"
+    },
+    {
       "title": "落選山中氏、「反省」届かず　原沢氏「すぐに仕事」―横浜市長選",
       "link": "https://www.jiji.com/jc/article?k=2026101800421&g=pol&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-18T16:24:46.563776+00:00"
+    },
+    {
+      "title": "The Intel 8087 chip: floating-point addition and subtraction",
+      "link": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+      "summary": "Article URL: https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html\nComments URL: https://news.ycombinator.com/item?id=50142449\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-18T16:20:27+00:00"
     },
     {
       "title": "US threatens Europe over Starlink restrictions",
@@ -1780,6 +1796,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-17T23:19:41.334747+00:00"
+    },
+    {
+      "title": "Beyond Tetris: The Other Games of Alexey Pajitnov [video]",
+      "link": "https://www.youtube.com/watch?v=QH_LPimUJMs",
+      "summary": "Article URL: https://www.youtube.com/watch?v=QH_LPimUJMs\nComments URL: https://news.ycombinator.com/item?id=50136017\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-17T23:08:30+00:00"
     },
     {
       "title": "傷つくのが怖くて恋愛から遠ざかる若者たちに､\"欲望全開\"の作家･林真理子さんが伝えたいこと《林×植草対談：後編》 | ライフ | 東洋経済オンライン",
