@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T06:57:18.217056+00:00",
+  "generated_at": "2026-10-18T07:16:13.891147+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -746,9 +746,29 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f54ed2dcc20>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fe9a4164d70>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "V字回復はこれだ！ 最後の切り札｢ナイトチケット戦略｣こそが巨額赤字のジャングリア沖縄の救世主だ | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961268?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "開業1年で早くも崖っぷちに立たされたジャングリア沖縄。巨額の赤字や低迷する入場者数､政府の追加融資といった厳しい現実に､今こそ夜を味方にする｢ナイトチケット戦略｣が救世主となるでしょうか。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-18T07:00:00+00:00"
+    },
+    {
+      "title": "トランプ大統領を支えた米右派の結束に異変…イラン攻撃をめぐり対立､保守派の思想的連帯にほころび | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961250?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "トランプ政権誕生以降､米欧の新右派思想を束ねた｢国民保守主義会議｣に今､衰退と分裂の兆しが見え始めています。孤立主義的外交とイスラエルとの軍事連携という矛盾が内部対立を招く中､会議の今後はどうなるの…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-18T07:00:00+00:00"
+    },
     {
       "title": "全焼「越後鶴亀」酒の販売再開へ",
       "link": "https://news.yahoo.co.jp/pickup/6599242?source=rss",
