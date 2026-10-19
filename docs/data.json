@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T17:06:31.100250+00:00",
+  "generated_at": "2026-10-19T17:23:40.744941+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -890,6 +890,14 @@
       "published": "2026-10-19T15:52:26+00:00"
     },
     {
+      "title": "Degraded availability for GitHub Actions, GitHub Pages and Webhooks",
+      "link": "https://www.githubstatus.com/incidents/8tzbpcnl75jp",
+      "summary": "Article URL: https://www.githubstatus.com/incidents/8tzbpcnl75jp\nComments URL: https://news.ycombinator.com/item?id=50153934\nPoints: 98\n# Comments: 67",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T15:52:26+00:00"
+    },
+    {
       "title": "See What 71 Economists Told Us About Where Growth and Yields Are Headed",
       "link": "https://www.wsj.com/finance/see-what-71-economists-told-us-about-where-growth-and-yields-are-headed-8977cb44?mod=rss_markets_main",
       "summary": "Economists surveyed by The Wall Street Journal now see higher bond yields for longer, firmer growth and eventual relief on inflation.",
@@ -1200,6 +1208,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-19T13:11:00+00:00"
+    },
+    {
+      "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
+      "link": "https://3anddoneapp.com/try",
+      "summary": "I'm a software engineer from the east coast (who has lived in Boston, NY, the\nbay area, UK, France), and I built a task system called 3 & Done.  It's the\nplace you trust to store everything you need to do.  It accepts voice input for\nrapid entry, as well as text (it stores the audio locally so you can listen to\njog your memory) and emails you every morning with the three most important\nthings for you to do that day, and why, based on what you've said about the\ntask: deadlines, urgency, sitting too long.I've been at software engineering for about 44 years now... Grew up with it,\nwhich was unusual when I started, and I was always good about getting into the\nzone and doing things.  The career started small, small company, then back\noffice, the dot com startups, then smaller companies again after the bust,\na non-profit, and eventually YouTube (Google at the time, but just barely) and\nMeta (just Facebook when I was there).When I hit the startups, and later big tech, it was no longer enough to just be\nan engineer, to have drive, to be good, you had to be organized, you had to\nfollow through, get stuff done, and that's where the task systems started.\nTwenty-five over the years (and yes, I've actually counted), from Moleskine\nnotebooks with Getting Things Done, evernote (remember evernote?), bug trackers,\ntodoist, asana, google keep, among others.When I managed on the Facebook News Feed, I got into gantt charts (for me and my\nteam), spreadsheets, OmniPlan... I remember apologizing to my director for being\nso disorganized (because I felt I was making a mess of it), and he told me that\nI was the most organized engineer he knew.That was because I was doing all of the work in the background, the trimming,\nthe sorting, the reviews, but it was just so much work.  Which was why I changed\nfrom system to system.  Each time it built up, and I had to spend more time\nlooking at things I couldn't or didn't get done, when I was rushed and couldn't\nput time into today's review, it would pile up, and then using it was so much\nwork that I would start taking mini-notes, just emailing myself a few things to\ndo the next day.That's actually the thesis of the app (but not where it started), that if\nI could just have a few things to do emailed to me each day, I could get it\ndone.This app actually started when I described my previous startup failures into\na Claude web session, and it repeated back to me what I had just said.  My\nprevious failures were because I spent too much time building the stuff\nI needed, and not building what I was supposed to be building.I decided that the app would email me three things to do every day (which\nmatches best practices for attention), but that the day was always yours to\ndecide.  We won't overload you, but you can add more, if you're feeling up to\nit, or cut back, and we never shame and try our best not to nag (I often only\nfinish two).  If we get it wrong, you can tell us, and we'll re-rank it once\na day, or you can set it manually, and if you do, we never override that\nchoice.  The web app is live, and native for both platforms is coming.  In the\nmeantime, on Android, you can use gestures to quick launch into the voice input\nso saving a task is only a gesture away (e.g. double-tap the back of a Pixel,\ndouble-press the power button on Motorola).Now let's talk about the dirty parts.  I used AI to help me build this.\nAnthropic models mostly, and the brains of the app come from Anthropic models (I\nlike the quality, I like the privacy, absolutely no training on customer data,\nand the stance of the company).  This app is not some one-shot wonder where\nI asked frontier models to build a task system and then I put it on a server to\nshow you.I have prompts for the various features (e.g. ranking, generating suggestions,\ntask extractions), I have eval sets of task lists (not anyone's real tasks, but\nconstructed from patterns in my tasks, or the tasks of testers who allowed me to\nfix the problems they were having), with the three I expect to come out.\nI store the eval outputs, and re-test whenever I add a new rule to a prompt, or\nwhenever testing a new model version.  The great thing about having this eval\nset is that it catches when I get it wrong.  When I introspect a failed run,\nsometimes it's because I need to tune a prompt, but sometimes it's because\nI missed something in my own ranking.I did the same thing with my infrastructure as well, so this time, instead of\nsetting up servers, and building login systems, and managing databases, I built\non Vercel (git push to serving Next.js), Neon (hosted postgres).I started getting emails mailed to me by mid-June, but started getting usable\nsuggestions on June 26, and I've been using it every morning since.  I wanted it\nto be easy to get started, and easy to use, so the input handles mess (you can\nadd multiple tasks in the same run-on sentence, and a friend who helped me test\nit just pasted his entire obsidian todo list in wholesale to get started).I wanted to make sure that anyone could try it out, so I built a trial feature\nthat uses the real in-app ranking with a list of items you provide.If you want to try the service, there's a free 14-day trial (card required), and\nthen it's $99/year or $9.99/month after that (plus sales tax).  We warn you\nseven days before your card is charged and if you cancel, you keep access\nthrough the term (either the trial, or our last paid period).  Online, through\nsettings -> billing, no email, no call.I really hope you'll try it out.  If you do, please tell me if we did a good job\npicking out your day.https://3anddoneapp.com/try\n\nComments URL: https://news.ycombinator.com/item?id=50151980\nPoints: 6\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T13:07:07+00:00"
     },
     {
       "title": "US defence stocks tumble as investors bet on Democratic election sweep",
