@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T17:47:52.730778+00:00",
+  "generated_at": "2026-10-19T18:10:20.718254+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -838,12 +838,28 @@
       "published": "2026-10-19T17:07:43+00:00"
     },
     {
+      "title": "Android apps running native on macOS",
+      "link": "https://github.com/kksimp/Mac.apk",
+      "summary": "Article URL: https://github.com/kksimp/Mac.apk\nComments URL: https://news.ycombinator.com/item?id=50154624\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T16:45:30+00:00"
+    },
+    {
       "title": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
       "link": "https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories",
       "summary": "Intel’s manufacturing and chip design have improved, according to a J.P. Morgan analyst.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-19T16:42:00+00:00"
+    },
+    {
+      "title": "MiniMax M3.1 Flash",
+      "link": "https://www.minimax.io/blog/minimax-m31f",
+      "summary": "Article URL: https://www.minimax.io/blog/minimax-m31f\nComments URL: https://news.ycombinator.com/item?id=50154540\nPoints: 16\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T16:39:09+00:00"
     },
     {
       "title": "I no longer care to work on any Ruby gems so I've archived all my repositories",
@@ -985,6 +1001,14 @@
       "title": "CERN and Mistral join forces to accelerate AI for science",
       "link": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
       "summary": "Article URL: https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/\nComments URL: https://news.ycombinator.com/item?id=50153630\nPoints: 10\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T15:28:24+00:00"
+    },
+    {
+      "title": "CERN and Mistral sign a statement of intent to accelerate AI for science",
+      "link": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+      "summary": "Article URL: https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/\nComments URL: https://news.ycombinator.com/item?id=50153630\nPoints: 194\n# Comments: 38",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-19T15:28:24+00:00"
@@ -1380,6 +1404,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-19T12:07:41+00:00"
+    },
+    {
+      "title": "The obscure trust looming over Anthropic's IPO",
+      "link": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&amp;reflink=desktopwebshare_permalink\nComments URL: https://news.ycombinator.com/item?id=50151376\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T12:06:03+00:00"
     },
     {
       "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
