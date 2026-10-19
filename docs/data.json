@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:25:52.276603+00:00",
+  "generated_at": "2026-10-19T15:38:27.689644+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -786,6 +786,14 @@
   ],
   "items": [
     {
+      "title": "AWS Weekly Roundup: AWS Lambda Web Functions, Amazon S3 on the Vercel Marketplace, and more (October 19, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-web-functions-amazon-s3-on-the-vercel-marketplace-and-more-october-19-2026/",
+      "summary": "Nothing last week added a new kind of compute. What it did instead was shorten the distance between the code you already have and that code being live. AWS Lambda learned to run a plain HTTP server with no adapter in front of it, and Amazon S3 became something you can provision from inside the […]",
+      "source": "AWS ブログ (AWS)",
+      "category": "テクノロジー",
+      "published": "2026-10-19T15:34:59+00:00"
+    },
+    {
       "title": "久保建英が今季初得点　中村敬斗は一発退場―欧州サッカー",
       "link": "https://www.jiji.com/jc/article?k=2026101900144&g=spo&m=rss",
       "summary": "",
@@ -808,6 +816,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-19T15:25:47.487671+00:00"
+    },
+    {
+      "title": "Anthropic is AI trade's last big hope for a major IPO this year",
+      "link": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
+      "summary": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-10-19T15:25:27+00:00"
     },
     {
       "title": "JAL便に小動物 サイズは猫以下か",
