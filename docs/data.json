@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T18:32:00.936815+00:00",
+  "generated_at": "2026-10-19T18:54:45.694171+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -790,6 +790,14 @@
   ],
   "items": [
     {
+      "title": "How to continue a GitHub Copilot app session in VS Code",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+      "summary": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context.\nThe post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "category": "開発者向け",
+      "published": "2026-10-19T18:47:22+00:00"
+    },
+    {
       "title": "高市首相、靖国参拝見送り　真榊・玉串料奉納―秋季例大祭",
       "link": "https://www.jiji.com/jc/article?k=2026101900165&g=pol&m=rss",
       "summary": "",
@@ -857,6 +865,14 @@
       "title": "Ukraine carries out first ever aerial drone evacuation of a wounded soldier",
       "link": "https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html",
       "summary": "Article URL: https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html\nComments URL: https://news.ycombinator.com/item?id=50155237\nPoints: 36\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T17:26:38+00:00"
+    },
+    {
+      "title": "Ukraine carries out aerial drone evacuation of a wounded soldier",
+      "link": "https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html",
+      "summary": "Article URL: https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html\nComments URL: https://news.ycombinator.com/item?id=50155237\nPoints: 54\n# Comments: 9",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-19T17:26:38+00:00"
@@ -1270,6 +1286,14 @@
       "published": "2026-10-19T13:35:34+00:00"
     },
     {
+      "title": "Cairn: Open windows into AI-driven cyber operations",
+      "link": "https://norforge.com/blog/inside_cairn",
+      "summary": "https://www.reuters.com/legal/government/how-one-hacker-used...https://www.theverge.com/ai-artificial-intelligence/1013643/...\n\nComments URL: https://news.ycombinator.com/item?id=50152302\nPoints: 8\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T13:35:12+00:00"
+    },
+    {
       "title": "特定技能「給食」受け入れ再開へ",
       "link": "https://news.yahoo.co.jp/pickup/6599400?source=rss",
       "summary": "",
@@ -1601,6 +1625,14 @@
       "title": "Alternatives to Animal Testing Are Finally Taking Off",
       "link": "https://spectrum.ieee.org/alternatives-to-animal-testing",
       "summary": "Article URL: https://spectrum.ieee.org/alternatives-to-animal-testing\nComments URL: https://news.ycombinator.com/item?id=50150927\nPoints: 20\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T11:10:54+00:00"
+    },
+    {
+      "title": "Alternatives to animal testing are finally taking off",
+      "link": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+      "summary": "Article URL: https://spectrum.ieee.org/alternatives-to-animal-testing\nComments URL: https://news.ycombinator.com/item?id=50150927\nPoints: 234\n# Comments: 63",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-19T11:10:54+00:00"
