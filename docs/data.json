@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T11:25:09.080495+00:00",
+  "generated_at": "2026-10-19T11:38:22.419284+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -786,6 +786,22 @@
   ],
   "items": [
     {
+      "title": "豪議員はねられ重体　襲撃か、４３歳男逮捕",
+      "link": "https://www.jiji.com/jc/article?k=2026101900862&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-19T11:38:15.936465+00:00"
+    },
+    {
+      "title": "Tech stocks stumbled. Now comes a crucial week for Wall Street.",
+      "link": "https://www.marketwatch.com/story/tech-stocks-stumbled-now-comes-a-crucial-week-for-wall-street-2a093abe?mod=mw_rss_topstories",
+      "summary": "A wave of corporate results that could help determine whether the stock-market rally has more room to run — or whether investors are growing wary of the companies that powered it.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-19T11:30:00+00:00"
+    },
+    {
       "title": "ミクロネシア大統領、２０日来日",
       "link": "https://www.jiji.com/jc/article?k=2026101900864&g=pol&m=rss",
       "summary": "",
@@ -834,6 +850,22 @@
       "published": "2026-10-19T11:25:04.744069+00:00"
     },
     {
+      "title": "Zelenskyy, Europe and the end of Trump whispering",
+      "link": "https://www.ft.com/content/92f271fd-f96c-4723-91f2-48363b98127f?syn-25a6b1a6=1",
+      "summary": "This new crisis looks different and the bloc’s leaders are preparing to talk directly to Putin",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-19T11:21:25+00:00"
+    },
+    {
+      "title": "Show HN: I re-read the terms of 175 AI tools twice; 60% changed in 15 weeks",
+      "link": "https://clipjury.com/guides/ai-tool-terms-changed-2026/",
+      "summary": "Article URL: https://clipjury.com/guides/ai-tool-terms-changed-2026/\nComments URL: https://news.ycombinator.com/item?id=50150908\nPoints: 3\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T11:07:21+00:00"
+    },
+    {
       "title": "タイムズカーの画像巡る懸念 回答",
       "link": "https://news.yahoo.co.jp/pickup/6599389?source=rss",
       "summary": "",
@@ -848,6 +880,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-19T11:00:00+00:00"
+    },
+    {
+      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+      "link": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+      "summary": "Article URL: https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166\nComments URL: https://news.ycombinator.com/item?id=50150809\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T10:53:39+00:00"
     },
     {
       "title": "Quantinuum Sees Path to Fault-Tolerant Quantum Computing by 2029 With New Milestone",
@@ -976,6 +1016,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-19T10:00:00+00:00"
+    },
+    {
+      "title": "Timestral: Mistral release time-series foundation models",
+      "link": "https://mistral.ai/news/timestral/",
+      "summary": "Article URL: https://mistral.ai/news/timestral/\nComments URL: https://news.ycombinator.com/item?id=50150434\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T09:59:32+00:00"
     },
     {
       "title": "Big tech is wobbling. Goldman Sachs says it’s time to buy these 23 unloved stocks instead.",
