@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T19:35:07.030391+00:00",
+  "generated_at": "2026-10-19T19:49:06.857808+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -790,11 +790,43 @@
   ],
   "items": [
     {
+      "title": "Why the Treasury’s financing plans are sparking anxiety on Wall Street",
+      "link": "https://www.marketwatch.com/story/why-the-treasurys-financing-plans-are-sparking-anxiety-on-wall-street-b49b5e17?mod=mw_rss_topstories",
+      "summary": "Yields on 10-year and 30-year bonds were rising again Monday after falling sharply last week.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-19T19:45:00+00:00"
+    },
+    {
+      "title": "Oil Futures Settle Lower As U.S. Waives Some Russia Sanctions",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-possible-correction-but-drop-may-be-limited-by-geopolitical-tensions-21ff1c15?mod=rss_markets_main",
+      "summary": "Crude futures settled lower after President Trump waived some new sanctions against Russia, with downside limited by continuing conflict in the Middle East keeping supply risks high.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-19T19:44:00+00:00"
+    },
+    {
+      "title": "Oil Futures Pull Back as U.S. Waives Some Russia Sanctions",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-russia-sanctions-waiver-middle-east-risks-05053c4f?mod=rss_markets_main",
+      "summary": "Oil futures fell, pulling back from Friday’s gains after President Trump waived newly imposed sanctions on Russia, while persistent Middle East supply risks kept prices afloat.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-19T19:43:00+00:00"
+    },
+    {
       "title": "Why Elon Musk, Anthropic and other AI titans are giving away shares",
       "link": "https://www.marketwatch.com/story/why-elon-musk-anthropic-and-other-ai-titans-are-giving-away-shares-a6709d24?mod=mw_rss_topstories",
       "summary": "Gifts of stock can help with public relations and offer financial advantages to wealthy individuals.",
       "source": "MarketWatch",
       "category": "海外金融",
+      "published": "2026-10-19T19:30:00+00:00"
+    },
+    {
+      "title": "JR岡山駅前｢路面電車乗り入れ｣で街は変わるか　構想30年､さらなる延伸で｢環状化｣計画も | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960878?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "かつて分断されていた岡山駅周辺と表町エリア。その1kmの隔たりを､路面電車の駅前広場乗り入れとハレノワ線の延伸計画が埋めようとしています。30年以上の構想と市民の議論を経て動き出す新たな都市交通は､…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
       "published": "2026-10-19T19:30:00+00:00"
     },
     {
@@ -1100,6 +1132,14 @@
       "source": "AWS ブログ (AWS)",
       "category": "テクノロジー",
       "published": "2026-10-19T15:34:59+00:00"
+    },
+    {
+      "title": "Ukraine claims first drone evacuation of wounded soldier",
+      "link": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
+      "summary": "Article URL: https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310\nComments URL: https://news.ycombinator.com/item?id=50153664\nPoints: 9\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T15:31:34+00:00"
     },
     {
       "title": "CERN and Mistral join forces to accelerate AI for science",
