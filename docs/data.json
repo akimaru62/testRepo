@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:38:27.689644+00:00",
+  "generated_at": "2026-10-19T15:50:38.367227+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -786,6 +786,14 @@
   ],
   "items": [
     {
+      "title": "See What 71 Economists Told Us About Where Growth and Yields Are Headed",
+      "link": "https://www.wsj.com/finance/see-what-71-economists-told-us-about-where-growth-and-yields-are-headed-8977cb44?mod=rss_markets_main",
+      "summary": "Economists surveyed by The Wall Street Journal now see higher bond yields for longer, firmer growth and eventual relief on inflation.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-19T15:44:00+00:00"
+    },
+    {
       "title": "AWS Weekly Roundup: AWS Lambda Web Functions, Amazon S3 on the Vercel Marketplace, and more (October 19, 2026)",
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-web-functions-amazon-s3-on-the-vercel-marketplace-and-more-october-19-2026/",
       "summary": "Nothing last week added a new kind of compute. What it did instead was shorten the distance between the code you already have and that code being live. AWS Lambda learned to run a plain HTTP server with no adapter in front of it, and Amazon S3 became something you can provision from inside the […]",
@@ -824,6 +832,14 @@
       "source": "CNBC",
       "category": "海外金融",
       "published": "2026-10-19T15:25:27+00:00"
+    },
+    {
+      "title": "Kevin Bacon's missing clothes finally delivered in Ireland",
+      "link": "https://www.rte.ie/entertainment/2026/1019/1595980-kevin-bacon/",
+      "summary": "Article URL: https://www.rte.ie/entertainment/2026/1019/1595980-kevin-bacon/\nComments URL: https://news.ycombinator.com/item?id=50153598\nPoints: 7\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T15:24:43+00:00"
     },
     {
       "title": "JAL便に小動物 サイズは猫以下か",
@@ -1360,6 +1376,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-19T10:33:00+00:00"
+    },
+    {
+      "title": "CME plans tungsten futures as demand for weapons rises",
+      "link": "https://www.ft.com/content/96d88d61-002d-4b5c-8e0b-4f50577518c5?syn-25a6b1a6=1",
+      "summary": "China has restricted exports of critical mineral used in armour-piercing munitions",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-19T10:30:57+00:00"
     },
     {
       "title": "島田、豊田が戦力外　プロ野球・阪神",
