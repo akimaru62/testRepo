@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:50:38.367227+00:00",
+  "generated_at": "2026-10-19T16:09:06.566433+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -794,6 +794,14 @@
       "published": "2026-10-19T15:44:00+00:00"
     },
     {
+      "title": "Saudi Arabia to postpone ‘Davos in the desert’ after Houthi attacks",
+      "link": "https://www.ft.com/content/75a2ee4e-ead9-4d37-b1ea-6fd759c4691d?syn-25a6b1a6=1",
+      "summary": "Flagship Future Investment Initiative was scheduled to begin next week in Riyadh but will now take place next year",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-19T15:40:33+00:00"
+    },
+    {
       "title": "AWS Weekly Roundup: AWS Lambda Web Functions, Amazon S3 on the Vercel Marketplace, and more (October 19, 2026)",
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-web-functions-amazon-s3-on-the-vercel-marketplace-and-more-october-19-2026/",
       "summary": "Nothing last week added a new kind of compute. What it did instead was shorten the distance between the code you already have and that code being live. AWS Lambda learned to run a plain HTTP server with no adapter in front of it, and Amazon S3 became something you can provision from inside the […]",
@@ -840,6 +848,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-19T15:24:43+00:00"
+    },
+    {
+      "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix",
+      "link": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf",
+      "summary": "Article URL: https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf\nComments URL: https://news.ycombinator.com/item?id=50153431\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T15:10:20+00:00"
     },
     {
       "title": "JAL便に小動物 サイズは猫以下か",
@@ -896,6 +912,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-19T14:25:17+00:00"
+    },
+    {
+      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins\nComments URL: https://news.ycombinator.com/item?id=50152877\nPoints: 12\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T14:23:17+00:00"
     },
     {
       "title": "Beyond These Stars",
@@ -1853,6 +1877,14 @@
       "title": "Linux 7.3 Released",
       "link": "https://lwn.net/Articles/1101143/",
       "summary": "Article URL: https://lwn.net/Articles/1101143/\nComments URL: https://news.ycombinator.com/item?id=50149392\nPoints: 59\n# Comments: 13",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T07:23:57+00:00"
+    },
+    {
+      "title": "Linux 7.3",
+      "link": "https://lwn.net/Articles/1101143/",
+      "summary": "Article URL: https://lwn.net/Articles/1101143/\nComments URL: https://news.ycombinator.com/item?id=50149392\nPoints: 480\n# Comments: 204",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-19T07:23:57+00:00"
