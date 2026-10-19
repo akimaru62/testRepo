@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T16:09:06.566433+00:00",
+  "generated_at": "2026-10-19T16:29:29.387875+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -786,6 +786,62 @@
   ],
   "items": [
     {
+      "title": "上皇后さまの近況全文",
+      "link": "https://www.jiji.com/jc/article?k=2026102000010&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-19T16:29:23.876865+00:00"
+    },
+    {
+      "title": "フランス、一部都市の夜間外出禁止へ　デモ暴徒から「人・財産守る」―仏首相",
+      "link": "https://www.jiji.com/jc/article?k=2026101900140&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-19T16:29:23.876851+00:00"
+    },
+    {
+      "title": "講演録「今こそ多くの人に」　上皇后さまと親交の末盛さん",
+      "link": "https://www.jiji.com/jc/article?k=2026102000005&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-19T16:29:23.876824+00:00"
+    },
+    {
+      "title": "上皇后さま、９２歳に　体力低下も、穏やかな日々",
+      "link": "https://www.jiji.com/jc/article?k=2026102000003&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-19T16:29:23.876788+00:00"
+    },
+    {
+      "title": "AI companies are coming for the plumbers",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning\nComments URL: https://news.ycombinator.com/item?id=50154060\nPoints: 20\n# Comments: 14",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T16:03:29+00:00"
+    },
+    {
+      "title": "Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures",
+      "link": "https://news.ycombinator.com/item?id=50154029",
+      "summary": "Hi HN, we’re Robert and Din from Laminar (https://laminar.sh). We’ve been building open-source observability for AI agents since 2024. Recently, we released flow-1, a model trained with RL to find errors in agent traces. On our benchmark (https://laminar.sh/blog/flow-1), it matches GPT-6-sol in detection quality while being 23x cheaper. This makes it affordable to analyze every production agent trace, without sampling.Here’s a one-minute walkthrough: https://youtu.be/KJa3h6ZJNLQWe also put together a post with example traces and analyses from flow-1 and other models: https://laminar.sh/blog/flow-1-in-actionAgent observability is crowded, so instead of a bullet list of how Laminar differs from X, we’ll explain how we’re solving agent observability from first principles.Agents now run for many steps and fail implicitly. An agent can click the wrong button or cite the wrong document while every call completes successfully. These errors are the most useful ones to catch and understand. To find them, you need to understand what the agent was trying to do and inspect its LLM calls and tool results. Simply looking at the final agent output is not enough.Collecting traces alone doesn’t solve this. A lot of agent observability platforms are still data collectors at their core. You can end up paying to store traces that nobody has time to read or extract value from.Using another LLM to inspect traces is THE solution, but capable models are expensive at scale and cheaper ones often miss errors or flag unrelated things.So we built our model to solve exactly this problem. We finetuned a small OSS model and then post trained it with RL on thousands of synthetic investigations of realistic agent workflows in software, legal, customer support, etc. We got a model that is both good at agent trace analysis and very cheap to run.flow-1 runs inside a harness we call Signals. It acts as a coding agent, treating an agent trace like a repo, with each span (an LLM call, tool call, etc.) as a file. It starts from a compressed string representation of a full agent trace and a user prompt, then greps across spans and reads the relevant ones in full.The beauty of Signals is that it can respond to a general prompt. You can ask it to identify user frustration, check whether your browser agent completed a checkout, and so on. It’s not limited to raw error detection. It returns findings as JSON in a schema users can freely define. We call these signal events.Once you’re analyzing every trace, you also have too many individual events to read. That’s why we automatically group similar signal events into clusters. You can see recurring problems and how often they happen, then drill into individual events and the traces behind them.You can use traces from a cluster to build an eval dataset for that type of failure. You can then use your favourite coding agent to hillclimb on those evals and check that the fix works across these cases before shipping it to prod.Trace → analyze → catch errors and form clusters → fix → release. Making this loop easy is why we built Laminar.We’ve put the same thought into the rest of Laminar. Our blog (https://laminar.sh/blog) explains how looking closely at how agents actually work led us to build 20x trace compression, a custom SQL query engine and automatic task extraction.Laminar is Apache 2.0 and self-hostable (https://github.com/lmnr-ai/lmnr). We make money from the managed cloud.We’d love to hear how you track your agents’ performance today. How much do you learn from user feedback versus your own monitoring? And when you fix something, how do you check that it hasn’t introduced a different failure?\n\nComments URL: https://news.ycombinator.com/item?id=50154029\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T16:00:18+00:00"
+    },
+    {
+      "title": "Another day another GitHub incident",
+      "link": "https://www.githubstatus.com/incidents/8tzbpcnl75jp",
+      "summary": "Article URL: https://www.githubstatus.com/incidents/8tzbpcnl75jp\nComments URL: https://news.ycombinator.com/item?id=50153934\nPoints: 48\n# Comments: 19",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T15:52:26+00:00"
+    },
+    {
       "title": "See What 71 Economists Told Us About Where Growth and Yields Are Headed",
       "link": "https://www.wsj.com/finance/see-what-71-economists-told-us-about-where-growth-and-yields-are-headed-8977cb44?mod=rss_markets_main",
       "summary": "Economists surveyed by The Wall Street Journal now see higher bond yields for longer, firmer growth and eventual relief on inflation.",
@@ -808,6 +864,14 @@
       "source": "AWS ブログ (AWS)",
       "category": "テクノロジー",
       "published": "2026-10-19T15:34:59+00:00"
+    },
+    {
+      "title": "CERN and Mistral join forces to accelerate AI for science",
+      "link": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+      "summary": "Article URL: https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/\nComments URL: https://news.ycombinator.com/item?id=50153630\nPoints: 10\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T15:28:24+00:00"
     },
     {
       "title": "久保建英が今季初得点　中村敬斗は一発退場―欧州サッカー",
@@ -992,6 +1056,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-19T13:37:31+00:00"
+    },
+    {
+      "title": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
+      "link": "http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html",
+      "summary": "Article URL: http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html\nComments URL: https://news.ycombinator.com/item?id=50152321\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T13:36:43+00:00"
     },
     {
       "title": "Wine Ported to OpenBSD",
@@ -1232,6 +1304,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-19T11:30:00+00:00"
+    },
+    {
+      "title": "French bond sell-off intensifies after violent protests",
+      "link": "https://www.ft.com/content/cc7e577a-db7a-4e12-9a42-443696b98ec5?syn-25a6b1a6=1",
+      "summary": "Political recriminations fly as authorities introduce curfews and admit that police botched oversight of protests",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-19T11:29:41+00:00"
     },
     {
       "title": "Harness2 by Google Research – Recursive Agent Harnessing",
@@ -2141,6 +2221,14 @@
       "title": "Rising interest rates derail property recovery as buyers recut deals",
       "link": "https://www.ft.com/content/aef890f1-e3f5-4add-b1fc-6187e2658106?syn-25a6b1a6=1",
       "summary": "‘Dire’ mood in sector as surging bond yields threaten deals agreed just a few months ago",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-19T04:00:06+00:00"
+    },
+    {
+      "title": "‘I suffer with my wallet’: American voters weigh in on the midterms",
+      "link": "https://www.ft.com/content/d375cde1-ec37-4c5e-87ab-a3a655e879d8?syn-25a6b1a6=1",
+      "summary": "The FT’s focus group in the Pennsylvania battleground of Bethlehem revealed anxiety about the country ahead of November’s elections",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-19T04:00:06+00:00"
