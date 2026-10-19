@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T08:59:09.474222+00:00",
+  "generated_at": "2026-10-19T09:29:52.739163+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -778,6 +778,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -788,6 +792,78 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-19T10:00:00+00:00"
+    },
+    {
+      "title": "超党派議連が靖国参拝　高市首相は玉串料奉納",
+      "link": "https://www.jiji.com/jc/article?k=2026101900162&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-19T09:29:42.274478+00:00"
+    },
+    {
+      "title": "ＦＡ有資格者１０４人を公示　国内は森下、海外は高橋光ら―プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026101900692&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-19T09:29:42.274465+00:00"
+    },
+    {
+      "title": "華子さま、戦没者墓苑慰霊祭に　東京・千鳥ケ淵",
+      "link": "https://www.jiji.com/jc/article?k=2026101900700&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-19T09:29:42.274451+00:00"
+    },
+    {
+      "title": "観光バスなど５台衝突、７７歳女性死亡　乗用車が対向車線に、１３人けが―神奈川",
+      "link": "https://www.jiji.com/jc/article?k=2026101900414&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-19T09:29:42.274433+00:00"
+    },
+    {
+      "title": "靖国神社によると、笹川（ささがわ）環境相が同神社を参拝した",
+      "link": "https://www.jiji.com/jc/article?k=2026101900715&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-19T09:29:42.274395+00:00"
+    },
+    {
+      "title": "French Government-Bond Yields Rise on Protests, Budget Concerns; Treasury Yields Fall",
+      "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-in-asian-trade-e5171539?mod=rss_markets_main",
+      "summary": "Yields on French government bonds rose on Monday on concerns about violent street demonstrations in France in the wake of the government’s planned budget-deficit cut, while U.S. Treasury yields fell.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-19T09:21:00+00:00"
+    },
+    {
+      "title": "Sterling Hits New 16-Month High Vs Euro on French Risks, BOE Rate Rise Bets",
+      "link": "https://www.wsj.com/finance/currencies/yen-consolidates-but-may-be-supported-by-risk-off-mood-7504bde7?mod=rss_markets_main",
+      "summary": "Sterling rose to a 16-month high against the euro, reflecting French civil unrest and fiscal risks along with expectations the BOE could raise interest rates.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-19T09:21:00+00:00"
+    },
+    {
+      "title": "Kelly Clarkson’s expensive purchases: A multi-million dollar real-estate portfolio that spans the country",
+      "link": "https://www.marketwatch.com/story/kelly-clarksons-expensive-purchases-a-multi-million-dollar-real-estate-portfolio-that-spans-the-country-fe1d3bc7?mod=mw_rss_topstories",
+      "summary": "From a sprawling waterfront mansion in Tennessee and a lavish California estate to a cozy Montana ranch, Kelly Clarkson is no stranger to expensive purchases.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-19T09:03:00+00:00"
+    },
+    {
+      "title": "The Beach Boys’ Mike Love goes the extra mile to protect the land around $43 million Lake Tahoe estate",
+      "link": "https://www.marketwatch.com/story/the-beach-boys-mike-love-goes-the-extra-mile-to-protect-the-land-around-43-million-lake-tahoe-estate-06c5606e?mod=mw_rss_topstories",
+      "summary": "Beach Boys star Mike Love has revealed the extraordinary lengths he went to preserve the natural beauty surrounding his sprawling $43 million Lake Tahoe estate.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-19T09:01:00+00:00"
     },
     {
       "title": "プロ野球阪神が、佐藤輝明がポスティングシステムを利用して米大リーグに移籍することを認めると発表した",
@@ -1492,6 +1568,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-19T01:31:01+00:00"
+    },
+    {
+      "title": "Private equity finds next Asian frontier",
+      "link": "https://www.ft.com/content/0f857d6a-646d-4d19-bcdd-a0f0b4e8585c?syn-25a6b1a6=1",
+      "summary": "Foreign firms make up majority of large buyout deals in Asia’s fourth-biggest economy",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-19T01:30:11+00:00"
     },
     {
       "title": "Oil Futures Fall on Possible Correction, But Drop May Be Limited by Geopolitical Tensions",
