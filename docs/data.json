@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T13:24:48.384565+00:00",
+  "generated_at": "2026-10-19T13:42:58.433274+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -786,6 +786,22 @@
   ],
   "items": [
     {
+      "title": "ユニクロが値上げ 11商品を11月に",
+      "link": "https://news.yahoo.co.jp/pickup/6599401?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-19T13:41:25+00:00"
+    },
+    {
+      "title": "特定技能「給食」受け入れ再開へ",
+      "link": "https://news.yahoo.co.jp/pickup/6599400?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-19T13:32:39+00:00"
+    },
+    {
       "title": "４０代男性受刑者が死亡　横浜刑務所",
       "link": "https://www.jiji.com/jc/article?k=2026101900760&g=soc&m=rss",
       "summary": "",
@@ -872,6 +888,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-19T13:00:29+00:00"
+    },
+    {
+      "title": "三井住友DS投信直販ネットに不正アクセス　一時ログインできない状態に",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/19/news113.html",
+      "summary": "資産運用会社、三井住友DSアセットマネジメント（東京都港区）は、同社が運営する投資信託直販サービス「三井住友DS投信直販ネット」で不正アクセスがあり、一時的にWebサイトにログインできない状況が発生していたことを発表した。現在は復旧しているという。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-10-19T13:00:00+00:00"
     },
     {
       "title": "Euro’s Falls Appear Overdone, Recovery Likely",
@@ -992,6 +1016,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-19T11:30:00+00:00"
+    },
+    {
+      "title": "Harness2 by Google Research – Recursive Agent Harnessing",
+      "link": "https://github.com/google-research/harness2",
+      "summary": "Article URL: https://github.com/google-research/harness2\nComments URL: https://news.ycombinator.com/item?id=50151059\nPoints: 13\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T11:28:45+00:00"
     },
     {
       "title": "ミクロネシア大統領、２０日来日",
@@ -1397,6 +1429,14 @@
       "title": "Stock Market Today: Stock Futures Rebound After Friday's Tech Selloff",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-19-2026?mod=rss_markets_main",
       "summary": "Protests weigh on French bonds, euro",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-19T08:35:05+00:00"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Rebounds After Friday's Tech Selloff",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-19-2026?mod=rss_markets_main",
+      "summary": "European stocks, French bonds slump after violent protests across France",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-19T08:35:05+00:00"
