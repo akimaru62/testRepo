@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T13:00:24.705903+00:00",
+  "generated_at": "2026-10-19T13:24:48.384565+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -786,12 +786,108 @@
   ],
   "items": [
     {
+      "title": "４０代男性受刑者が死亡　横浜刑務所",
+      "link": "https://www.jiji.com/jc/article?k=2026101900760&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-19T13:24:42.600655+00:00"
+    },
+    {
+      "title": "中国、ハイテク輸出に依存　狭まる政策余地",
+      "link": "https://www.jiji.com/jc/article?k=2026101900634&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-19T13:24:42.600633+00:00"
+    },
+    {
+      "title": "米物価高対策が迷走　中間選挙控え与党も反発",
+      "link": "https://www.jiji.com/jc/article?k=2026101900558&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-19T13:24:42.600619+00:00"
+    },
+    {
+      "title": "広大な国土、防衛に苦戦　フーシ派との「非対称戦」―サウジ",
+      "link": "https://www.jiji.com/jc/article?k=2026101900526&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-19T13:24:42.600597+00:00"
+    },
+    {
+      "title": "北朝鮮、韓国に対抗措置検討　攻撃手段配備や拡声器放送",
+      "link": "https://www.jiji.com/jc/article?k=2026101900945&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-19T13:24:42.600563+00:00"
+    },
+    {
+      "title": "Micron and other chip stocks spring back to life after bruising selloff",
+      "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
+      "summary": "It’s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-19T13:22:00+00:00"
+    },
+    {
+      "title": "France and the U.S. share the same debt trap. Why the U.S. has an escape valve.",
+      "link": "https://www.marketwatch.com/story/france-and-the-u-s-share-the-same-debt-trap-only-one-has-a-global-lifeline-3ae61b42?mod=mw_rss_topstories",
+      "summary": "France and the U.S. have similar debt dynamics.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-19T13:19:00+00:00"
+    },
+    {
+      "title": "Dollar Could Underperform on AI Jitters",
+      "link": "https://www.wsj.com/finance/currencies/yen-consolidates-but-may-be-supported-by-risk-off-mood-7504bde7?mod=rss_markets_main",
+      "summary": "The dollar could lag many other G-10 currencies if AI concerns lead to further stock-market instability, ING said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-19T13:11:00+00:00"
+    },
+    {
+      "title": "US defence stocks tumble as investors bet on Democratic election sweep",
+      "link": "https://www.ft.com/content/e73d0106-486b-4382-8ecc-5c96ac44fdff?syn-25a6b1a6=1",
+      "summary": "Donald Trump’s proposed $500bn military spending boost at risk as bipartisan support for higher budget frays",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-19T13:04:40+00:00"
+    },
+    {
+      "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+      "link": "https://100toolkit.com/blog/deslop-model/",
+      "summary": "Article URL: https://100toolkit.com/blog/deslop-model/\nComments URL: https://news.ycombinator.com/item?id=50151928\nPoints: 14\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T13:00:47+00:00"
+    },
+    {
+      "title": "8 in 10 Americans oppose live-streaming execution",
+      "link": "https://www.washingtonpost.com/national-security/2026/10/15/8-10-americans-oppose-live-streaming-execution-fort-hood-shooter-poll-shows/",
+      "summary": "Article URL: https://www.washingtonpost.com/national-security/2026/10/15/8-10-americans-oppose-live-streaming-execution-fort-hood-shooter-poll-shows/\nComments URL: https://news.ycombinator.com/item?id=50151922\nPoints: 13\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T13:00:29+00:00"
+    },
+    {
       "title": "Euro’s Falls Appear Overdone, Recovery Likely",
       "link": "https://www.wsj.com/finance/currencies/yen-consolidates-but-may-be-supported-by-risk-off-mood-7504bde7?mod=rss_markets_main",
       "summary": "The euro’s recent decline against the dollar looked overdone relative to underlying economic fundamentals, UBS Global Wealth Management said.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-19T12:53:00+00:00"
+    },
+    {
+      "title": "検索流入は4割減　AIの「ゼロクリック」に企業はどう勝つか？",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/19/news112.html",
+      "summary": "AIの席巻によって、インターネットの検索に地殻変動ともいえる変化が生じている。企業のWebサイトやニュースサイトなどは、AIにいかに引用されるかがポイントになってきた。AI検索結果によって、サイトの「ゼロクリック」という事態も発生。AIによる引用にコンテンツを最適化させる対応策である「GEO＝Generative Engine Optimization」へのシフトが急務となりそうだ。（近藤豊和）",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-10-19T12:45:00+00:00"
     },
     {
       "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
