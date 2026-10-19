@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T01:10:01.112741+00:00",
+  "generated_at": "2026-10-19T01:38:33.533175+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -782,6 +782,46 @@
       "published": "2026-10-19T10:00:00+00:00"
     },
     {
+      "title": "井林国交相が靖国参拝　高市首相は玉串料奉納",
+      "link": "https://www.jiji.com/jc/article?k=2026101900165&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-19T01:38:29.304576+00:00"
+    },
+    {
+      "title": "Oil Futures Fall on Possible Correction, But Drop May Be Limited by Geopolitical Tensions",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-possible-correction-but-drop-may-be-limited-by-geopolitical-tensions-21ff1c15?mod=rss_markets_main",
+      "summary": "Oil futures fell in early Asian trade on a possible technical correction after futures posted strong gains last Friday.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-19T01:21:00+00:00"
+    },
+    {
+      "title": "国庫短期証券（第1414回）の入札発行",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20261019.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-19T01:20:00+00:00"
+    },
+    {
+      "title": "Nikkei Falls 1.8%, Tracking Wall Street’s Losses",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-1-8-tracking-wall-streets-losses-413895f0?mod=rss_markets_main",
+      "summary": "Japanese stocks were lower in early trade. A theme from Friday has been a further selloff in U.S. technology shares, Commerzbank said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-19T01:20:00+00:00"
+    },
+    {
+      "title": "Yen Consolidates, But May Be Supported by Risk-Off Mood",
+      "link": "https://www.wsj.com/finance/currencies/yen-consolidates-but-may-be-supported-by-risk-off-mood-7504bde7?mod=rss_markets_main",
+      "summary": "The yen consolidated against other G-10 and Asian currencies, but may be supported by a risk-off mood.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-19T01:18:00+00:00"
+    },
+    {
       "title": "AIや3Dプリンティングで医療DXに挑む台湾企業､日本の高齢化や人手不足に応える最新技術 | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/961111?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "急激な高齢化や人手不足という日本の医療現場が直面する課題を背景に､幕張メッセで開催された｢Medical Japan 2026｣では､AIやスマート機器が集結した。特に台湾の先進技術が注目を集め､日…",
@@ -825,6 +865,14 @@
       "title": "Flight from Tel Aviv diverted after ‘threat’",
       "link": "https://www.ft.com/content/77b859ab-e380-413d-894b-2fe3cf6417c5",
       "summary": "Austrian Airlines says Vienna-bound flight made an emergency stop in Sofia",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-19T00:55:37+00:00"
+    },
+    {
+      "title": "Flight from Israel diverted after ‘threat’",
+      "link": "https://www.ft.com/content/77b859ab-e380-413d-894b-2fe3cf6417c5",
+      "summary": "Austrian Airlines says Vienna-bound flight from Tel Aviv made an emergency stop in Sofia",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-19T00:55:37+00:00"
@@ -2620,6 +2668,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-10-17T22:30:00+00:00"
+    },
+    {
+      "title": "I built a programming language that LLMs can't use",
+      "link": "https://blog.picheta.me/post/killswitch-lang/",
+      "summary": "Article URL: https://blog.picheta.me/post/killswitch-lang/\nComments URL: https://news.ycombinator.com/item?id=50135762\nPoints: 74\n# Comments: 66",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-17T22:26:47+00:00"
     },
     {
       "title": "ローマ教皇が退院",
