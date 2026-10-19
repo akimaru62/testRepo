@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T18:54:45.694171+00:00",
+  "generated_at": "2026-10-19T19:06:12.063804+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1246,6 +1246,14 @@
       "published": "2026-10-19T13:50:22+00:00"
     },
     {
+      "title": "Maxwell: A new kind of model that sits between code and hardware",
+      "link": "https://heymaxwell.ai/",
+      "summary": "Hi HN, I'm Gal from doubleAI. We've built Maxwell, a new kind of frontier model we call a Code Execution Model.It sits between your code and the hardware. No humans in the loop! Maxwell makes the code run faster as it runs, without ever changing a single line.Maxwell sees programs from the inside: traces, profiling information, and the data flowing through them. It adapts dynamically to the environment, including the hardware, what else is running, and what the inputs look like.Code execution models change the way we approach coding. Today, Claude/Codex (and humans) keep re-optimising code for every different use-case hardware and data flow (think of LLM inference engines, like vLLM!). Our bet is that this is unnecessary, suboptimal, and that it does not scale. Instead, we think the right answer is to make code a living, thinking, thing.Early access is open at heymaxwell.ai. Happy to answer questions here.\n\nComments URL: https://news.ycombinator.com/item?id=50152466\nPoints: 13\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T13:47:56+00:00"
+    },
+    {
       "title": "ユニクロが値上げ 11商品を11月に",
       "link": "https://news.yahoo.co.jp/pickup/6599401?source=rss",
       "summary": "",
@@ -1606,6 +1614,14 @@
       "published": "2026-10-19T11:25:04.744069+00:00"
     },
     {
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "link": "https://news.ycombinator.com/item?id=50151036",
+      "summary": "I saw this LinkedIn post from a Meta engineer and it resonated with me:https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m...> I'm an engineer at Meta and I never felt this uncomfortable doing my job. I'm writing code these days and it all feels like a black box. This new standard of shipping with AI is moving so fast that if we're going to spend our time checking each line of code, it's going to take forever. That means you can end up with systems you've built where you don't truly understand how all the code works. You understand the high level, but not every detail. And maybe this is becoming the new standard. It goes against every instinct of being a software engineer. I'm used to understanding what I'm building. Now I'm trying to figure out how much I need to understand before I'm comfortable moving forward. Are other engineers feeling this too?How are you handling this?\n\nComments URL: https://news.ycombinator.com/item?id=50151036\nPoints: 31\n# Comments: 32",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T11:24:34+00:00"
+    },
+    {
       "title": "Zelenskyy, Europe and the end of Trump whispering",
       "link": "https://www.ft.com/content/92f271fd-f96c-4723-91f2-48363b98127f?syn-25a6b1a6=1",
       "summary": "This new crisis looks different and the bloc’s leaders are preparing to talk directly to Putin",
@@ -1833,6 +1849,14 @@
       "title": "Timestral: Mistral release time-series foundation models",
       "link": "https://mistral.ai/news/timestral/",
       "summary": "Article URL: https://mistral.ai/news/timestral/\nComments URL: https://news.ycombinator.com/item?id=50150434\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T09:59:32+00:00"
+    },
+    {
+      "title": "Timestral: Mistral's time-series foundation models",
+      "link": "https://mistral.ai/news/timestral/",
+      "summary": "Article URL: https://mistral.ai/news/timestral/\nComments URL: https://news.ycombinator.com/item?id=50150434\nPoints: 430\n# Comments: 82",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-19T09:59:32+00:00"
