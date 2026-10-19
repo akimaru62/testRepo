@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T05:08:20.636104+00:00",
+  "generated_at": "2026-10-19T05:27:03.973879+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -770,6 +770,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://azure.microsoft.com/ja-jp/blog/feed/",
+      "error": "503 Server Error: Service Unavailable for url: https://azure.microsoft.com/ja-jp/blog/feed/"
     }
   ],
   "items": [
@@ -782,9 +786,49 @@
       "published": "2026-10-19T10:00:00+00:00"
     },
     {
+      "title": "「日本製車」、ＥＵ製と同等　優遇策巡り主張―木原官房長官",
+      "link": "https://www.jiji.com/jc/article?k=2026101900411&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-19T05:26:59.021740+00:00"
+    },
+    {
+      "title": "バスなど３台衝突、１４人搬送　１人心肺停止―神奈川・藤沢",
+      "link": "https://www.jiji.com/jc/article?k=2026101900414&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-19T05:26:59.021708+00:00"
+    },
+    {
+      "title": "新分野の開拓、モビリティショーを商機に　新興企業や部品メーカー",
+      "link": "https://www.asahi.com/articles/ASVBJ2ST1VBJULFA00PM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-19T05:26:58.755196+00:00"
+    },
+    {
+      "title": "China’s economy picks up pace at 4.5% growth",
+      "link": "https://www.ft.com/content/cf113314-1077-4ab4-b667-9912656684f1?syn-25a6b1a6=1",
+      "summary": "Third-quarter GDP rate puts world’s second-biggest economy on track for full-year target, analysts say",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-19T05:03:27+00:00"
+    },
+    {
       "title": "DeepSeek v4.1 Flash 1017 Scores 45 in Artificial Analysis",
       "link": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
       "summary": "Article URL: https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017\nComments URL: https://news.ycombinator.com/item?id=50148452\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T04:41:46+00:00"
+    },
+    {
+      "title": "DeepSeek v4.1 Flash 1017 scores 45 in Artificial Analysis",
+      "link": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+      "summary": "Article URL: https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017\nComments URL: https://news.ycombinator.com/item?id=50148452\nPoints: 38\n# Comments: 8",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-19T04:41:46+00:00"
@@ -833,6 +877,14 @@
       "title": "Americans are unhappy. How will they vote in the midterms?",
       "link": "https://www.ft.com/content/d375cde1-ec37-4c5e-87ab-a3a655e879d8?syn-25a6b1a6=1",
       "summary": "The FT’s focus group in the Pennsylvania battleground of Bethlehem revealed anxiety about the country ahead of the US midterm elections",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-19T04:00:06+00:00"
+    },
+    {
+      "title": "Rising interest rates derail property recovery as buyers recut deals",
+      "link": "https://www.ft.com/content/aef890f1-e3f5-4add-b1fc-6187e2658106?syn-25a6b1a6=1",
+      "summary": "‘Dire’ mood in sector as surging bond yields threaten deals agreed just a few months ago",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-19T04:00:06+00:00"
