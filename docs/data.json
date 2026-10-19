@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T18:10:20.718254+00:00",
+  "generated_at": "2026-10-19T18:32:00.936815+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -790,6 +790,30 @@
   ],
   "items": [
     {
+      "title": "高市首相、靖国参拝見送り　真榊・玉串料奉納―秋季例大祭",
+      "link": "https://www.jiji.com/jc/article?k=2026101900165&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-19T18:31:55.458796+00:00"
+    },
+    {
+      "title": "Gold Futures Slip As U.S. Dollar Gains, Yields Edge Up",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-as-traders-weigh-fed-rate-hike-expectations-3517c447?mod=rss_markets_main",
+      "summary": "Gold futures settled lower as the U.S. dollar firmed, yields rose and oil prices pared early losses.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-19T18:14:00+00:00"
+    },
+    {
+      "title": "Show HN: Open-source early-reading reader with phonics help",
+      "link": "https://github.com/finereli/yarareads",
+      "summary": "My kid is 6 y/o and she is learning to read. She's moved through the basic phonics with Teach Your Monster to Read but was struggling with how repetitive it was. I wanted to give her some stories to read, but she still needed help sounding words out - and I wanted her to have the experience of sitting and reading by herself.So I built this book reader app to allow her to click on the words, sound out the phonemes, and read by herself.My 12 year old son wrote the first story, there's a cliffhanger at the end and he's working on the next section.We're going to release more chapters and more stories in the near future.And there's one other thing -The reader has an MCP connection, so you can connect your Claude or ChatGPT or Grok, give them a PDF of a book you like (or even a set of scans done quickly with a phone camera) and have them import your favorite books into the app (private to your account, for your own kid, if you own the book of course).The reader is free to use on its website and open source if you want to tinker and create your own version.The included stories are under Creative Commons.\n\nComments URL: https://news.ycombinator.com/item?id=50155647\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T17:58:54+00:00"
+    },
+    {
       "title": "One of this year’s most important relationships in global financial markets is falling apart",
       "link": "https://www.marketwatch.com/story/one-of-this-years-most-important-relationships-in-global-financial-markets-is-falling-apart-2cf58121?mod=mw_rss_topstories",
       "summary": "One of the most important relationships in global markets has started to unravel over the past couple of weeks. Investors are scrambling to figure out what it might mean for the economy, and their portfolios.",
@@ -820,6 +844,22 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-19T17:27:11+00:00"
+    },
+    {
+      "title": "Mercury 3: Diffusion at scale",
+      "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+      "summary": "Article URL: https://www.inceptionlabs.ai/blog/introducing-mercury-3\nComments URL: https://news.ycombinator.com/item?id=50155245\nPoints: 92\n# Comments: 37",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T17:27:11+00:00"
+    },
+    {
+      "title": "Ukraine carries out first ever aerial drone evacuation of a wounded soldier",
+      "link": "https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html",
+      "summary": "Article URL: https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html\nComments URL: https://news.ycombinator.com/item?id=50155237\nPoints: 36\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T17:26:38+00:00"
     },
     {
       "title": "Evidence (YC S21) Is Hiring Software Engineers",
@@ -1009,6 +1049,14 @@
       "title": "CERN and Mistral sign a statement of intent to accelerate AI for science",
       "link": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
       "summary": "Article URL: https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/\nComments URL: https://news.ycombinator.com/item?id=50153630\nPoints: 194\n# Comments: 38",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T15:28:24+00:00"
+    },
+    {
+      "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+      "link": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+      "summary": "Article URL: https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/\nComments URL: https://news.ycombinator.com/item?id=50153630\nPoints: 214\n# Comments: 43",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-19T15:28:24+00:00"
@@ -1209,6 +1257,14 @@
       "title": "Wine Ported to OpenBSD",
       "link": "https://marc.info/?l=openbsd-ports&m=179236125692175",
       "summary": "Article URL: https://marc.info/?l=openbsd-ports&amp;m=179236125692175\nComments URL: https://news.ycombinator.com/item?id=50152307\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-19T13:35:34+00:00"
+    },
+    {
+      "title": "Wine ported to OpenBSD",
+      "link": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+      "summary": "Article URL: https://marc.info/?l=openbsd-ports&amp;m=179236125692175\nComments URL: https://news.ycombinator.com/item?id=50152307\nPoints: 338\n# Comments: 93",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-19T13:35:34+00:00"
