@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T01:05:05.316786+00:00",
+  "generated_at": "2026-10-20T01:32:44.472620+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -786,9 +786,85 @@
     {
       "url": "https://cloud.google.com/blog/rss",
       "error": "HTTPSConnectionPool(host='cloud.google.com', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7ff56fa952b0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "意思疎通、残った宿題　問われる大谷への向き合い方―米大リーグ・二刀流の行方（上）",
+      "link": "https://www.jiji.com/jc/article?k=2026101900655&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-20T01:32:38.899711+00:00"
+    },
+    {
+      "title": "途上国のＡＩ普及後押し　初のデジタル戦略―世銀",
+      "link": "https://www.jiji.com/jc/article?k=2026102000259&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-20T01:32:38.899693+00:00"
+    },
+    {
+      "title": "スペースＸ株、全米の子供に　マスク氏、「トランプ口座」活用か",
+      "link": "https://www.jiji.com/jc/article?k=2026102000234&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-20T01:32:38.899678+00:00"
+    },
+    {
+      "title": "ＭＭＸ打ち上げ「誇らしい」　ロケットの光に包まれ歓声―鹿児島・種子島",
+      "link": "https://www.jiji.com/jc/article?k=2026102000246&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-20T01:32:38.899650+00:00"
+    },
+    {
+      "title": "食料品減税でも半数「買い方変えない」　浮いたお金は貯蓄・投資に?",
+      "link": "https://www.asahi.com/articles/ASVBM2RBZVBMULFA00FM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-20T01:32:38.771637+00:00"
+    },
+    {
+      "title": "ユニクロ、商品全体で平均4%値上げ　感動ジャケットは1千円アップ",
+      "link": "https://www.asahi.com/articles/ASVBN0BTYVBNULFA02MM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-20T01:32:38.771598+00:00"
+    },
+    {
+      "title": "流動性供給(第464回)入札の発行予定額等",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20261020.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-20T01:30:00+00:00"
+    },
+    {
+      "title": "20年利付国債（第198回）の入札発行（令和8年10月20日入札）",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20261020.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-20T01:30:00+00:00"
+    },
+    {
+      "title": "Asian Currencies Consolidate Amid Mixed Signals",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-mixed-signals-6b3593e6?mod=rss_markets_main",
+      "summary": "Asian currencies consolidated against the dollar amid mixed signals.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-20T01:09:00+00:00"
+    },
     {
       "title": "｢男なら全部払え！｣地元の友人に言われてハッとした…年収500万円でも貯金を崩す36歳妻が陥った\"何でも折半\"の罠 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/961182?utm_source=rss&utm_medium=http&utm_campaign=link_back",
