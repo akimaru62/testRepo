@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:36:34.960120+00:00",
+  "generated_at": "2026-10-20T19:48:24.169807+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -802,6 +802,22 @@
   ],
   "items": [
     {
+      "title": "Opinion | Don’t Punish the Productive",
+      "link": "https://www.wsj.com/opinion/dont-punish-the-productive-11f69ce6?mod=rss_markets_main",
+      "summary": "Growing the pie year after year is what built our standard of living and our civilization.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-20T19:43:00+00:00"
+    },
+    {
+      "title": "Wall Street researchers just used Claude to design a drug. The experiment has spawned a new investment thesis.",
+      "link": "https://www.marketwatch.com/story/wall-street-researchers-just-used-claude-to-design-a-drug-the-experiment-has-spawned-a-new-investment-thesis-6a5c3710?mod=mw_rss_topstories",
+      "summary": "For years, artificial-intelligence evangelists have boasted about the technology’s capacity to revolutionize drug development and medical research.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-20T19:35:00+00:00"
+    },
+    {
       "title": "U.S. Natural Gas Futures Extend Decline on Weather Outlook",
       "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-as-geopolitical-risks-intensify-3222a858?mod=rss_markets_main",
       "summary": "U.S. natural gas futures settled lower, testing $3 support on a mild weather outlook.",
@@ -909,6 +925,14 @@
       "title": "What Shall I Teach My Son?",
       "link": "https://stevekrouse.com/ends",
       "summary": "Article URL: https://stevekrouse.com/ends\nComments URL: https://news.ycombinator.com/item?id=50169707\nPoints: 17\n# Comments: 8",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-20T17:25:07+00:00"
+    },
+    {
+      "title": "What shall I teach my son?",
+      "link": "https://stevekrouse.com/ends",
+      "summary": "Article URL: https://stevekrouse.com/ends\nComments URL: https://news.ycombinator.com/item?id=50169707\nPoints: 51\n# Comments: 63",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-20T17:25:07+00:00"
@@ -1866,6 +1890,14 @@
       "published": "2026-10-20T10:10:01+00:00"
     },
     {
+      "title": "Profits rise for US insurers as benefits for elderly Americans face cuts",
+      "link": "https://www.ft.com/content/b101071b-0b47-4cf2-a35f-9ebb04539df2?syn-25a6b1a6=1",
+      "summary": "Burden of inflation on seniors is set to worsen as US health insurers raise prices",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-20T10:10:01+00:00"
+    },
+    {
       "title": "Revolut Hit by Widespread Outage Affecting Payments, Transfers, Withdrawals",
       "link": "https://www.wsj.com/finance/investing/revolut-hit-by-widespread-outage-affecting-payments-transfers-withdrawals-5971bf0a?mod=rss_markets_main",
       "summary": "Google Cloud also reported issues in Europe on Tuesday, with multiple services experiencing errors according to the company’s website.",
@@ -2053,6 +2085,14 @@
       "title": "Stock Market Today: Stocks Turn Higher, Setting Aside AI Jitters",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-20-2026?mod=rss_markets_main",
       "summary": "Dow jumps after report of progress in Mideast diplomacy; Brent crude slips below $110 a barrel",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-20T09:11:54+00:00"
+    },
+    {
+      "title": "Stock Market Today: Stocks Turn Higher as Investors Await SpaceX Earnings",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-20-2026?mod=rss_markets_main",
+      "summary": "Netflix also due to report; Dow adds nearly 500 points",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-20T09:11:54+00:00"
