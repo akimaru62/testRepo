@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T17:36:58.384483+00:00",
+  "generated_at": "2026-10-20T17:48:52.956090+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -818,6 +818,14 @@
       "published": "2026-10-20T18:00:00+00:00"
     },
     {
+      "title": "Investors’ search for safety has made toothpaste stocks more expensive than tech",
+      "link": "https://www.marketwatch.com/story/investors-search-for-safety-has-made-toothpaste-stocks-more-expensive-than-tech-57a75e56?mod=mw_rss_topstories",
+      "summary": "Wall Street is fleeing tech for toothpaste and shampoo. Even those stocks are getting expensive.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-20T17:38:00+00:00"
+    },
+    {
       "title": "州独立巡る住民投票、否決見通し　カナダ西部アルバータ州",
       "link": "https://www.jiji.com/jc/article?k=2026102000418&g=int&m=rss",
       "summary": "",
@@ -856,6 +864,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-20T16:59:16+00:00"
+    },
+    {
+      "title": "Police rearrest two men over RAF Fairford incident",
+      "link": "https://www.ft.com/content/33573324-6eb8-447c-934d-5a992872509a?syn-25a6b1a6=1",
+      "summary": "Pair held on suspicion of breaching National Security Act as officers link the event to Iran for the first time",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-20T16:58:40+00:00"
     },
     {
       "title": "It’s not just California’s billionaire tax. Wealth is on the ballot in the midterm elections.",
@@ -1941,6 +1957,14 @@
       "title": "DeepSeek just open-sourced its inference engine",
       "link": "https://github.com/deepseek-ai/DeepInfer",
       "summary": "Article URL: https://github.com/deepseek-ai/DeepInfer\nComments URL: https://news.ycombinator.com/item?id=50163277\nPoints: 17\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-20T09:08:54+00:00"
+    },
+    {
+      "title": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "link": "https://github.com/deepseek-ai/DeepInfer",
+      "summary": "Article URL: https://github.com/deepseek-ai/DeepInfer\nComments URL: https://news.ycombinator.com/item?id=50163277\nPoints: 1848\n# Comments: 693",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-20T09:08:54+00:00"
