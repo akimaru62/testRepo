@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T14:08:18.652357+00:00",
+  "generated_at": "2026-10-20T14:26:06.404803+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -830,6 +830,38 @@
       "published": "2026-10-20T16:00:00+00:00"
     },
     {
+      "title": "米国務省、ロシアの邦人記者拘束非難",
+      "link": "https://www.jiji.com/jc/article?k=2026102001117&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-20T14:26:01.634174+00:00"
+    },
+    {
+      "title": "Kroger Targets Earnings Growth, Operations Overhaul in New Three-Year Plan",
+      "link": "https://www.wsj.com/business/retail/kroger-targets-earnings-growth-operations-overhaul-in-new-three-year-plan-fe1d2bc5?mod=rss_markets_main",
+      "summary": "Grocer said it plans to turn its attention to core strengths as part of a self-funded plan to simplify and modernize the business.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-20T14:19:00+00:00"
+    },
+    {
+      "title": "Witkoff to meet Zelenskyy before travelling to Moscow",
+      "link": "https://www.ft.com/content/a068036c-a752-4267-9a2f-a95190ef619f?syn-25a6b1a6=1",
+      "summary": "Trump envoy attempts to restart peace talks between Ukraine and Russia and is expected to ask for the release of a US hostage",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-20T14:11:31+00:00"
+    },
+    {
+      "title": "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
+      "link": "https://www.marketwatch.com/story/pending-home-sales-sink-to-25-year-low-as-buyers-flee-high-mortgage-rates-d02c6b30?mod=mw_rss_topstories",
+      "summary": "Contract signings to purchase homes fell in September to the lowest level on record, as buyers fled the housing market in the wake of the average 30-year mortgage rate crossing over 7%.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-20T14:06:00+00:00"
+    },
+    {
       "title": "U.S. Natural Gas Futures Test Support at $3/mmBtu",
       "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-as-geopolitical-risks-intensify-3222a858?mod=rss_markets_main",
       "summary": "U.S. natural gas futures were lower for a third session as national production rose along with increasing LNG feedgas flows.",
@@ -908,6 +940,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-20T13:20:56.517719+00:00"
+    },
+    {
+      "title": "Tsrs: A Port of TypeScript to Rust",
+      "link": "https://blog.cloudflare.com/typescript-rust-port/",
+      "summary": "Article URL: https://blog.cloudflare.com/typescript-rust-port/\nComments URL: https://news.ycombinator.com/item?id=50165953\nPoints: 12\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-20T13:18:07+00:00"
     },
     {
       "title": "Publish fake stats, get cited in LLMs",
@@ -1441,6 +1481,14 @@
       "title": "Stock Market Today: AI Jitters, High Oil Prices Weigh on Stocks",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-20-2026?mod=rss_markets_main",
       "summary": "South Korean data-center IPO flops; SpaceX, Netflix earnings due in the afternoon",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-20T09:11:54+00:00"
+    },
+    {
+      "title": "Stock Market Today: Stocks U-Turn, Shaking Off AI Jitters",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-20-2026?mod=rss_markets_main",
+      "summary": "Tech stocks had come under pressure earlier; Brent crude tops $110 a barrel",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-20T09:11:54+00:00"
