@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T14:51:41.624123+00:00",
+  "generated_at": "2026-10-20T15:07:59.079119+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -830,6 +830,38 @@
       "published": "2026-10-20T16:00:00+00:00"
     },
     {
+      "title": "France extends curfews in some cities as restrictions quell unrest",
+      "link": "https://www.ft.com/content/7bd4ac59-61e6-4604-a96a-26e7096bf768?syn-25a6b1a6=1",
+      "summary": "Italy also expected to approve new security measures to combat violent rioters",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-20T14:52:46+00:00"
+    },
+    {
+      "title": "Is your annuity really guaranteed? Read this before you buy one.",
+      "link": "https://www.marketwatch.com/story/is-your-annuity-really-guaranteed-read-this-before-you-buy-one-4664fc44?mod=mw_rss_topstories",
+      "summary": "The payout of the annuity you just bought or renewed may be less than advertised, so there are questions you can ask before you sign anything to make sure what you’ll get.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-20T14:51:00+00:00"
+    },
+    {
+      "title": "Stocks U-Turn, Shaking Off AI Jitters",
+      "link": "https://www.wsj.com/finance/stocks/ai-selloff-returns-oil-tops-110-a-barrel-b8400c70?mod=rss_markets_main",
+      "summary": "Stocks abruptly reversed course to trade higher on hopes that progress has been made in U.S.-Iran diplomacy.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-20T14:51:00+00:00"
+    },
+    {
+      "title": "Show HN: VoidAccess – open-source dark web OSINT, from query to a graph",
+      "link": "https://github.com/KatrielMoses/voidaccess",
+      "summary": "Hi HN! Im Katriel, and im a Security Researcher/Enthusiast and in the wave of AI, i wanted to build that next gen of security tooling that surpasses the current tools, and even the paid industries with an open source engine. I built MailAccess as well, which is going to be the best damn email osint tool out there, in another year. But just before building MailAccess i built VoidAccess, because i was delving a lot into DarkINT and the content inside the dark web is too difficult to navigate through for a human, so i automated that pipeline, made sure the noise was removed, and anything NSFW was filtered out, to give the analyst an overview of what is present in the dark web, without having to actually go through it manually.Very simple to run, you just run a few commands to install, and a couple to investigate. Then the engine takes over, and stops onyl when the job is done(or at a particular time limit, if set by the user).Do check it out, if that is something that interests you.Thanks to the community for giving it the love it has got till now.\n\nComments URL: https://news.ycombinator.com/item?id=50167286\nPoints: 29\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-20T14:49:33+00:00"
+    },
+    {
       "title": "Here’s why GM’s stock is having its worst day in over a year",
       "link": "https://www.marketwatch.com/story/heres-why-gms-stock-is-having-its-worst-day-in-over-a-year-072c4366?mod=mw_rss_topstories",
       "summary": "The automaker lowered its full-year profit expectations as it plans to pause some truck production.",
@@ -844,6 +876,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-20T14:34:00+00:00"
+    },
+    {
+      "title": "Ofcom Concedes Defeat in the 4chan Case",
+      "link": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+      "summary": "Article URL: https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/\nComments URL: https://news.ycombinator.com/item?id=50167028\nPoints: 15\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-20T14:30:31+00:00"
     },
     {
       "title": "米国務省、ロシアの邦人記者拘束非難",
@@ -1545,6 +1585,14 @@
       "title": "Stock Market Today: Stocks U-Turn, Shaking Off AI Jitters",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-20-2026?mod=rss_markets_main",
       "summary": "Tech stocks had come under pressure earlier; Brent crude tops $110 a barrel",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-20T09:11:54+00:00"
+    },
+    {
+      "title": "Stock Market Today: Stocks U-Turn, Setting Aside AI Jitters",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-20-2026?mod=rss_markets_main",
+      "summary": "Dow jumps 600 points after report of progress in Mideast diplomacy; Brent crude slips below $110 a barrel",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-20T09:11:54+00:00"
