@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T07:03:18.219750+00:00",
+  "generated_at": "2026-10-20T07:31:45.270582+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -790,6 +790,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7ff56fa952b0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f3226c112b0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -800,6 +804,70 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-20T16:00:00+00:00"
+    },
+    {
+      "title": "委員会審議「要請に応じ出席」　消費税法案で高市首相",
+      "link": "https://www.jiji.com/jc/article?k=2026102000662&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-20T07:31:40.525592+00:00"
+    },
+    {
+      "title": "トランプ氏、農家に１．２兆円支援表明　共和牙城カンザスで議席死守へ",
+      "link": "https://www.jiji.com/jc/article?k=2026102000638&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-20T07:31:40.525581+00:00"
+    },
+    {
+      "title": "ＡＳＥＡＮ会議へ協力確認　日比首脳電話会談",
+      "link": "https://www.jiji.com/jc/article?k=2026102000663&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-20T07:31:40.525561+00:00"
+    },
+    {
+      "title": "全都道府県で５年連続引き上げ　平均年収最大２９万円増―人事委勧告",
+      "link": "https://www.jiji.com/jc/article?k=2026102000643&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-20T07:31:40.525526+00:00"
+    },
+    {
+      "title": "Investors Are Turning Cautious on Big Pharma as Earnings Season Unfolds",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-amid-lingering-worry-over-ai-boom-amid-elevated-bond-yields-6628932c?mod=rss_markets_main",
+      "summary": "Investors seemed increasingly cautious on pharma stocks, and the reaction to Johnson & Johnson’s solid results suggested there might be heightened vulnerability, RBC Capital Markets said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-20T07:25:00+00:00"
+    },
+    {
+      "title": "Dollar Falls as AI Jitters Persist",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-mixed-signals-6b3593e6?mod=rss_markets_main",
+      "summary": "The dollar fell against a basket of currencies as concerns about the sustainability of debt-funded AI investments persisted.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-20T07:15:00+00:00"
+    },
+    {
+      "title": "South Korean data centre builder tumbles 32% on trading debut",
+      "link": "https://www.ft.com/content/cddafc0a-1ae6-467b-84b8-34c172002b6a?syn-25a6b1a6=1",
+      "summary": "Shares in Elice sink in Seoul, adding to rising concern about AI valuations",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-20T07:03:21+00:00"
+    },
+    {
+      "title": "Anglo American’s Quarterly Copper Production Slips on Extreme Weather in Chile",
+      "link": "https://www.wsj.com/business/anglo-americans-quarterly-copper-production-slips-on-extreme-weather-in-chile-41cc88b9?mod=rss_markets_main",
+      "summary": "The miner said an expected rise in copper grades over the remainder of the year helped it keep its full-year guidance despite a 5% fall in quarterly output due to snowfall.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-20T07:01:00+00:00"
     },
     {
       "title": "高市首相、財源・給付詳細を示さず　消費減税法案、衆院審議入り",
