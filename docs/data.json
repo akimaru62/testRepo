@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T15:25:45.618800+00:00",
+  "generated_at": "2026-10-20T15:38:56.258663+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -830,6 +830,14 @@
       "published": "2026-10-20T16:00:00+00:00"
     },
     {
+      "title": "Salesforce’s stock falls as investors chafe at the cost of latest AI purchase",
+      "link": "https://www.marketwatch.com/story/salesforce-gets-a-chilly-investor-response-to-a-6-billion-deal-at-a-58-premium-57bd260b?mod=mw_rss_topstories",
+      "summary": "An analyst calls it “a bit odd” that Salesforce plans to buy Braze at such a high premium to its recent stock price.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-20T15:27:00+00:00"
+    },
+    {
       "title": "八木、地元で連覇ならず　アジアパラ大会・卓球",
       "link": "https://www.jiji.com/jc/article?k=2026102001086&g=spo&m=rss",
       "summary": "",
@@ -862,6 +870,14 @@
       "published": "2026-10-20T15:25:40.364946+00:00"
     },
     {
+      "title": "Why do we have so many meetings?",
+      "link": "https://www.nber.org/papers/w35706",
+      "summary": "Article URL: https://www.nber.org/papers/w35706\nComments URL: https://news.ycombinator.com/item?id=50167732\nPoints: 11\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-20T15:19:19+00:00"
+    },
+    {
       "title": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
       "link": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
       "summary": "Trick or treat? Musk has a long record of saying things have little relation to reality.",
@@ -886,12 +902,28 @@
       "published": "2026-10-20T15:09:29+00:00"
     },
     {
+      "title": "How to Link Real-Time Live Streaming to Video-on-Demand",
+      "link": "https://www.red5.net/blog/how-to-link-real-time-live-streaming-to-video-on-demand/",
+      "summary": "Article URL: https://www.red5.net/blog/how-to-link-real-time-live-streaming-to-video-on-demand/\nComments URL: https://news.ycombinator.com/item?id=50167560\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-20T15:07:38+00:00"
+    },
+    {
       "title": "Facebook now charging to post more than 2 links a month",
       "link": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
       "summary": "Article URL: https://mastodon.gamedev.place/@AshleyGullen/117473851565913919\nComments URL: https://news.ycombinator.com/item?id=50167536\nPoints: 11\n# Comments: 2",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-20T15:06:08+00:00"
+    },
+    {
+      "title": "Building full-firm knowledge graphs to dramatically speed up agents",
+      "link": "https://lexifina.com/blog/building-full-firm-knowledge-graphs-to-dramatically-speed-up-agents",
+      "summary": "Article URL: https://lexifina.com/blog/building-full-firm-knowledge-graphs-to-dramatically-speed-up-agents\nComments URL: https://news.ycombinator.com/item?id=50167523\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-20T15:05:01+00:00"
     },
     {
       "title": "France extends curfews in some cities as restrictions quell unrest",
