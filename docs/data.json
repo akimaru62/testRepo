@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:23:16.985504+00:00",
+  "generated_at": "2026-10-20T19:36:34.960120+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -802,6 +802,14 @@
   ],
   "items": [
     {
+      "title": "U.S. Natural Gas Futures Extend Decline on Weather Outlook",
+      "link": "https://www.wsj.com/finance/commodities-futures/european-gas-prices-rise-as-geopolitical-risks-intensify-3222a858?mod=rss_markets_main",
+      "summary": "U.S. natural gas futures settled lower, testing $3 support on a mild weather outlook.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-20T19:28:00+00:00"
+    },
+    {
       "title": "Treasury Yields Fall on String of Weak Housing Data",
       "link": "https://www.wsj.com/finance/french-government-bonds-recover-as-yields-on-eurozone-u-s-peers-fall-cf473ce6?mod=rss_markets_main",
       "summary": "Treasury yields edged lower after a string of weaker-than-expected housing reports highlighted the strain of elevated mortgage rates.",
@@ -864,6 +872,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-20T17:57:37+00:00"
+    },
+    {
+      "title": "Claude designed protein binders against scorpion neurotoxins",
+      "link": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "summary": "Article URL: https://www.anthropic.com/research/claude-scorpion-toxin-binder-design\nComments URL: https://news.ycombinator.com/item?id=50170021\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-20T17:48:29+00:00"
     },
     {
       "title": "Advanced coding in low-resource programming languages",
@@ -1456,6 +1472,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-20T13:18:07+00:00"
+    },
+    {
+      "title": "Jepsen: Orkes Conductor 5.3.2",
+      "link": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
+      "summary": "Article URL: https://jepsen.io/analyses/orkes-conductor-5.3.2\nComments URL: https://news.ycombinator.com/item?id=50165904\nPoints: 11\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-20T13:14:39+00:00"
     },
     {
       "title": "Publish fake stats, get cited in LLMs",
