@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T21:07:32.739813+00:00",
+  "generated_at": "2026-10-20T21:25:17.774823+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -798,9 +798,37 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7ff213a852b0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f3173f75400>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "首相動静（１０月２０日）",
+      "link": "https://www.jiji.com/jc/article?k=2026102000215&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-20T21:25:11.243831+00:00"
+    },
+    {
+      "title": "感染→システム停止が6分　元ホワイトハッカーが問うAI時代の覚悟",
+      "link": "https://www.asahi.com/articles/ASVBN0TTRVBNULFA005M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-20T21:25:11.044540+00:00"
+    },
+    {
+      "title": "のり弁460円の裏に中東情勢　日本企業が米中間選挙を注視するわけ",
+      "link": "https://www.asahi.com/articles/ASVBM3RZMVBMULFA00SM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-20T21:25:11.044507+00:00"
+    },
     {
       "title": "上海､重慶を大化けさせた伝説の男まで連行された…〈景気刺激より綱紀粛正〉で官僚の\"寝そべり\"が横行する中国経済の影 | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/961913?utm_source=rss&utm_medium=http&utm_campaign=link_back",
