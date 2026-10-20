@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T15:50:23.734373+00:00",
+  "generated_at": "2026-10-20T16:09:01.461520+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -822,12 +822,60 @@
       "published": "2026-10-20T17:00:00+00:00"
     },
     {
+      "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+      "summary": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results.\nThe post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "category": "開発者向け",
+      "published": "2026-10-20T16:05:03+00:00"
+    },
+    {
       "title": "金融経済教育イベント「ワニーサと学ぶ 未来のためのお金の教室 in広島」の開催について公表しました。",
       "link": "https://www.fsa.go.jp/news/r8/sonota/20261020/20261020.html",
       "summary": "金融経済教育イベント「ワニーサと学ぶ 未来のためのお金の教室 in広島」の開催について公表しました。詳しくは特設サイトをご覧ください。",
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-20T16:00:00+00:00"
+    },
+    {
+      "title": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.",
+      "link": "https://www.marketwatch.com/story/looking-for-ai-stocks-that-are-still-cheap-consider-these-two-under-the-radar-picks-b4ca2b28?mod=mw_rss_topstories",
+      "summary": "Simon King of Saturna Capital names two stocks tied to base metals, for investors who want to look beyond the beaten path for AI-related trades.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-20T15:58:00+00:00"
+    },
+    {
+      "title": "Sterling Hits Near 17-Month High Against Euro on U.K. Rate-Rise Prospects, France Concerns",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-mixed-signals-6b3593e6?mod=rss_markets_main",
+      "summary": "Sterling rose to its highest level in almost 17 months against the euro and a one-month high versus the dollar after improved U.K. employment data strengthened the case for the Bank of England to raise interest rates.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-20T15:55:00+00:00"
+    },
+    {
+      "title": "It’s no secret what the best financial advice for retirement is — but most people ignore it anyway",
+      "link": "https://www.marketwatch.com/story/its-no-secret-what-the-best-financial-advice-for-retirement-is-but-most-people-ignore-it-anyway-7c9075c8?mod=mw_rss_topstories",
+      "summary": "Research can prove a lot of facts, but that doesn’t mean it changes how people act.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-20T15:54:00+00:00"
+    },
+    {
+      "title": "Alberta voters reject separation from Canada",
+      "link": "https://www.ft.com/content/8afb4e0b-302b-445c-8dde-4c5b091b808e?syn-25a6b1a6=1",
+      "summary": "Referendum in oil-rich western province had threatened new turmoil for Mark Carney amid stand-off with Donald Trump",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-20T15:51:21+00:00"
+    },
+    {
+      "title": "OpenDE: Play Deus Ex 1999 demo in the browser",
+      "link": "https://opende.netlify.app",
+      "summary": "Article URL: https://opende.netlify.app\nComments URL: https://news.ycombinator.com/item?id=50168168\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-20T15:47:22+00:00"
     },
     {
       "title": "Salesforce’s stock falls as investors chafe at the cost of latest AI purchase",
@@ -894,6 +942,22 @@
       "published": "2026-10-20T15:11:57+00:00"
     },
     {
+      "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+      "link": "https://jevcards.com",
+      "summary": "I built a quiz game around TypeSafe's new Jev model, which has vision capabilities. Jev looks at a picture and a question and picks an answer (or taps a place) in about a quarter of a second.I've always loved quiz games and thought this would be a fun way to see what it can do and how fast it is. I made the cards from scratch, and Jev gets exactly the picture you see. More cards will come over time.Play against Jev on your own (there's a leaderboard for each mode), or start a live match and challenge your friends, with Jev as one more player.The code is open source, so feel free to build your own game or make more cards that I can publish.Play: https://jevcards.com\nCode: https://github.com/Jose-Sabater/jevcards (the newest cards stay private for a while)Disclaimer: I ran Jev through both TypeSafe and Opper, and made the cards through Opper's vision models and Claude Code. I work at Opper, but jevcards is open source and free to play.\n\nComments URL: https://news.ycombinator.com/item?id=50167617\nPoints: 11\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-20T15:11:56+00:00"
+    },
+    {
+      "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
+      "link": "https://github.com/AbdullahAlhariri/penmentor",
+      "summary": "Article URL: https://github.com/AbdullahAlhariri/penmentor\nComments URL: https://news.ycombinator.com/item?id=50167604\nPoints: 9\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-20T15:10:54+00:00"
+    },
+    {
       "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
       "link": "https://news.ycombinator.com/item?id=50167583",
       "summary": "Hey HN, this is Andy from Respan (https://www.respan.ai). We are building an open-source Rust AI gateway. It is a decoupled gateway, so everything is a plugin, including different providers, protocols (MCP, voice), modalities (images, videos), and gateway features (fallbacks, PII redaction, smart routing).Instead of packaging tons of providers and features into one gateway, Respan provides a small core and public interfaces that teams can use to assemble the AI infrastructure their application needs. That way, users can build their own features as additional plugins without having to change the gateway's core.Here’s a video demo: https://www.youtube.com/watch?v=pVv2ibXiTXMThere are countless LLM gateways and most of them solve a common problem: calling different providers from a single endpoint. However, adding new features can become prohibitively difficult. So developers can end up building another gateway to solve a specific problem.We've been building our gateway based on LiteLLM since 2024, and now it's providing services for thousands of orgs. Each org needs different API key settings, routes, and limits. To support that, we kept wrapping LiteLLM, adding more features to it, and at one stage, our wrapper code exceeded 100,000 lines.This January, a routine LiteLLM upgrade caused intermittent connection errors, and we had to roll back. We still haven't figured out the cause, but since then, we no longer upgrade LiteLLM directly and instead manually backport upstream fixes. These experiences made us realize that continuing to patch LiteLLM is not a sustainable long-term solution, and we had to redesign the gateway ourselves.While redesigning our gateway, we wanted to make it easier to add features without breaking existing ones. Inspired by Nginx, we think an AI gateway should have a really small core, only responsible for dispatching events.We believe that everything should be a plugin in our gateway, including providers (OpenAI, Anthropic, Gemini), protocols (chat, realtime voice, MCP), modalities (images, videos), and gateway features for reliability and security (smart routing, fallbacks, and PII redaction through example plugins). Beyond that, we want developers to be able to easily extend the gateway's capabilities by adding their own plugins, without touching the core. Adding a provider, even your own, is dead simple, because quirks are plugins too and there’s nothing magical about them. A provider is a short file, Mistral’s is 22 lines, and each quirk, like Groq putting token usage in its own field, gets its own test.Respan Gateway does more than let you call Claude or Gemini models from the OpenAI SDK. It handles tools, images, and reasoning protocols automatically: an application based on the OpenAI Realtime API can also use Gemini Live through the gateway, though not every feature translates. A simple chat app can use MCP tools configured in the gateway, without implementing MCP itself.We also parse requests into a shared structure. When the client and provider use the same API, we preserve provider-specific fields in their native format, even if our shared structure doesn't have a field for them. That way, the gateway can write them back instead of dropping them.Here’s how it works:An adapter hands each HTTP or WebSocket connection to the first client format that recognizes it. The format exposes the request as a two-way stream of typed input and output events. The core runs plugins in registration order, allowing them to choose a provider, filter or wrap either stream, make additional calls, return a response, or refuse the request. A provider format then opens the upstream connection.If the client and provider use the same format and no plugin changes the payload, the original bytes and protocol-specific fields can pass through unchanged. When formats differ, they translate through shared types for messages, tool calls, results, streams, and usage. This stream model can represent both one-shot HTTP requests and long-lived bidirectional sessions.The gateway is open source at https://github.com/respanai/respan-gateway under the MIT or Apache-2.0 license. You don't need to use Respan's hosted platform and can run it directly on your local machine. Build it from source, add your provider keys, and swap the base URL in a supported client. You can keep using the API your client already speaks. It's still pre-alpha.We make money from our hosted platform (https://www.respan.ai/pricing), which runs the gateway for you with native observability and evals, along with unified billing.If you’re building routing, tools, filtering, observability, or security for agents, we'd love to see it as a plugin. PLUGINS.md in the repo explains how to write one and links to the plugins we’ve created so far. Turning that into an ecosystem is basically our roadmap, and we welcome you to contribute your own plugins. We'd love to answer any questions and hear your feedback!https://github.com/respanai/respan-gateway\n\nComments URL: https://news.ycombinator.com/item?id=50167583\nPoints: 4\n# Comments: 0",
@@ -918,12 +982,28 @@
       "published": "2026-10-20T15:06:08+00:00"
     },
     {
+      "title": "In-memory privacy shield to prevent context leaks in MCP tools",
+      "link": "https://github.com/rohan-protocol/sdk",
+      "summary": "Article URL: https://github.com/rohan-protocol/sdk\nComments URL: https://news.ycombinator.com/item?id=50167533\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-20T15:05:53+00:00"
+    },
+    {
       "title": "Building full-firm knowledge graphs to dramatically speed up agents",
       "link": "https://lexifina.com/blog/building-full-firm-knowledge-graphs-to-dramatically-speed-up-agents",
       "summary": "Article URL: https://lexifina.com/blog/building-full-firm-knowledge-graphs-to-dramatically-speed-up-agents\nComments URL: https://news.ycombinator.com/item?id=50167523\nPoints: 3\n# Comments: 0",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-20T15:05:01+00:00"
+    },
+    {
+      "title": "Show HN: Run Claude Code unattended inside a fence, under a dollar budget",
+      "link": "https://github.com/metahumansworld/SIwithin",
+      "summary": "Article URL: https://github.com/metahumansworld/SIwithin\nComments URL: https://news.ycombinator.com/item?id=50167456\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-20T15:00:34+00:00"
     },
     {
       "title": "France extends curfews in some cities as restrictions quell unrest",
@@ -1705,6 +1785,14 @@
       "title": "Stock Market Today: Stocks U-Turn, Setting Aside AI Jitters",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-20-2026?mod=rss_markets_main",
       "summary": "Dow jumps 600 points after report of progress in Mideast diplomacy; Brent crude slips below $110 a barrel",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-20T09:11:54+00:00"
+    },
+    {
+      "title": "Stock Market Today: Stocks Turn Higher, Setting Aside AI Jitters",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-20-2026?mod=rss_markets_main",
+      "summary": "Dow jumps after report of progress in Mideast diplomacy; Brent crude slips below $110 a barrel",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-20T09:11:54+00:00"
