@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:52:36.104692+00:00",
+  "generated_at": "2026-10-20T19:06:49.493733+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -802,12 +802,28 @@
   ],
   "items": [
     {
+      "title": "Treasury Yields Fall on String of Weak Housing Data",
+      "link": "https://www.wsj.com/finance/french-government-bonds-recover-as-yields-on-eurozone-u-s-peers-fall-cf473ce6?mod=rss_markets_main",
+      "summary": "Treasury yields edged lower after a string of weaker-than-expected housing reports highlighted the strain of elevated mortgage rates.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-20T18:51:00+00:00"
+    },
+    {
       "title": "Trump pledges to spend $400mn on Republican Party midterm campaigns",
       "link": "https://www.ft.com/content/c335e978-1ceb-4254-8c71-793a41e6d0b3?syn-25a6b1a6=1",
       "summary": "US president’s announcement comes as candidates struggle with poor polls in race for control of Congress",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-20T18:41:23+00:00"
+    },
+    {
+      "title": "SimCity, but with Permits",
+      "link": "https://permit.petercai.com/",
+      "summary": "Article URL: https://permit.petercai.com/\nComments URL: https://news.ycombinator.com/item?id=50170593\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-20T18:29:09+00:00"
     },
     {
       "title": "Here’s what matters most to Tesla investors heading into earnings",
