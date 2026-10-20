@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T16:53:42.375207+00:00",
+  "generated_at": "2026-10-20T17:09:39.574265+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -814,12 +814,36 @@
       "published": "2026-10-20T18:00:00+00:00"
     },
     {
+      "title": "Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services",
+      "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/",
+      "summary": "Try Amazon ECS Gateway, a new account-level resource that simplifies ingress networking for containerized workloads by dynamically provisioning and managing the necessary infrastructure on your behalf, with all resources created directly in your account.",
+      "source": "AWS ブログ (AWS)",
+      "category": "テクノロジー",
+      "published": "2026-10-20T17:03:38+00:00"
+    },
+    {
       "title": "国際関係,バーゼル銀行監督委員会による「整合性評価プログラム（RCAP）におけるレバレッジ比率規制の評価」について公表しました。",
       "link": "https://www.fsa.go.jp/inter/bis/20261020/20261020.html",
       "summary": "",
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-20T17:00:00+00:00"
+    },
+    {
+      "title": "It’s not just California’s billionaire tax. Wealth is on the ballot in the midterm elections.",
+      "link": "https://www.marketwatch.com/story/its-not-just-californias-billionaire-tax-wealth-is-on-the-ballot-in-the-midterm-elections-a50fc12c?mod=mw_rss_topstories",
+      "summary": "Several states are dealing with ballot measures tied to taxing the rich — and there may be even more initiatives on this front in 2028.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-20T16:55:00+00:00"
+    },
+    {
+      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+      "link": "https://github.com/google-pytorch/torch_tpu",
+      "summary": "Article URL: https://github.com/google-pytorch/torch_tpu\nComments URL: https://news.ycombinator.com/item?id=50169053\nPoints: 11\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-20T16:40:24+00:00"
     },
     {
       "title": "民主改革、１人４万円給付　消費減税の対案",
