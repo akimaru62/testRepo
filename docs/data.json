@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T08:10:33.297743+00:00",
+  "generated_at": "2026-10-20T08:33:48.148689+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -806,10 +806,82 @@
       "published": "2026-10-20T16:00:00+00:00"
     },
     {
+      "title": "全国的に高温見込み　１１月からの３カ月予報―気象庁",
+      "link": "https://www.jiji.com/jc/article?k=2026102000761&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-20T08:33:42.691171+00:00"
+    },
+    {
+      "title": "「強く言えば響くと思った」　元特捜検事の被告人質問―大阪地裁",
+      "link": "https://www.jiji.com/jc/article?k=2026102000755&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-20T08:33:42.691159+00:00"
+    },
+    {
+      "title": "学長選考、東大に異例の検証要請　「明確な説明なく遺憾」―文科省",
+      "link": "https://www.jiji.com/jc/article?k=2026102000692&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-20T08:33:42.691143+00:00"
+    },
+    {
+      "title": "中道に政党交付金５．８億円　事実上解体、衆院議員１人",
+      "link": "https://www.jiji.com/jc/article?k=2026102000748&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-20T08:33:42.691120+00:00"
+    },
+    {
+      "title": "メール配信の「ユミルリンク」　アドレスなど延べ約900万件流出か",
+      "link": "https://www.asahi.com/articles/ASVBM3T1KVBMULFA02HM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-20T08:33:42.309874+00:00"
+    },
+    {
+      "title": "Brent at $110 as Middle East Attacks Keep Risk Premium Elevated",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-but-supply-risks-linger-913dc341?mod=rss_markets_main",
+      "summary": "Oil rose, with Brent crude back above $110 a barrel as persistent attacks on shipping in the Hormuz Strait and Houthi strikes on Saudi Arabia kept the risk premium high.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-20T08:31:00+00:00"
+    },
+    {
+      "title": "Euro Could Struggle to Recover Amid French Risks",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-mixed-signals-6b3593e6?mod=rss_markets_main",
+      "summary": "The euro rose against the dollar but ING said the currency’s recovery could prove limited given France’s fiscal concerns.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-20T08:20:00+00:00"
+    },
+    {
+      "title": "It’s a rough housing market, and Goldman Sachs expects it to get worse",
+      "link": "https://www.marketwatch.com/story/its-a-rough-housing-market-and-goldman-sachs-expects-it-to-get-worse-be2c5aac?mod=mw_rss_topstories",
+      "summary": "As bad as it is for the housing market — starts and transactions basically flat for the last three years with mortgage rates over 7%— it can get still get worse.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-20T08:13:00+00:00"
+    },
+    {
       "title": "バーゼル銀行監督委員会による「整合性評価プログラム（RCAP）におけるレバレッジ比率規制の評価」の公表について",
       "link": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261020a.htm",
       "summary": "",
       "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-10-20T08:00:00+00:00"
+    },
+    {
+      "title": "片山大臣とオランダのハイネン財務大臣との面会（令和8年10月20日（火））",
+      "link": "https://www.mof.go.jp/policy/international_policy/convention/dialogue/20261019211115.html",
+      "summary": "",
+      "source": "財務省",
       "category": "公的機関",
       "published": "2026-10-20T08:00:00+00:00"
     },
@@ -1175,6 +1247,14 @@
     },
     {
       "title": "Musk vs the Swedish unions — who won?",
+      "link": "https://www.ft.com/content/8a261d23-da1e-4bc9-8b39-4dff8a488d16?syn-25a6b1a6=1",
+      "summary": "Sweden has one of the most pro-technology labour movements anywhere in the world",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-20T04:00:30+00:00"
+    },
+    {
+      "title": "Musk beat Sweden’s unions — but not the Swedish model",
       "link": "https://www.ft.com/content/8a261d23-da1e-4bc9-8b39-4dff8a488d16?syn-25a6b1a6=1",
       "summary": "Sweden has one of the most pro-technology labour movements anywhere in the world",
       "source": "Financial Times",
