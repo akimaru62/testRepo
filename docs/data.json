@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T15:07:59.079119+00:00",
+  "generated_at": "2026-10-20T15:25:45.618800+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -830,6 +830,70 @@
       "published": "2026-10-20T16:00:00+00:00"
     },
     {
+      "title": "八木、地元で連覇ならず　アジアパラ大会・卓球",
+      "link": "https://www.jiji.com/jc/article?k=2026102001086&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-20T15:25:40.365018+00:00"
+    },
+    {
+      "title": "アルバニアで反政府デモ激化、ラマ首相は辞任拒否",
+      "link": "https://www.jiji.com/jc/article?k=20261020049477a&g=afp&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-20T15:25:40.365004+00:00"
+    },
+    {
+      "title": "舟山真弘、重みある金　がんから復帰、実力証明―アジアパラ大会・卓球",
+      "link": "https://www.jiji.com/jc/article?k=2026102001081&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-20T15:25:40.364981+00:00"
+    },
+    {
+      "title": "卓球の岩渕幸洋、舟山真弘が金　競泳鈴木孝幸、自転車木村和平もＶ―アジアパラ大会",
+      "link": "https://www.jiji.com/jc/article?k=2026102000978&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-20T15:25:40.364946+00:00"
+    },
+    {
+      "title": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
+      "link": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
+      "summary": "Trick or treat? Musk has a long record of saying things have little relation to reality.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-20T15:17:00+00:00"
+    },
+    {
+      "title": "Witkoff meets Zelenskyy before travelling to Russia",
+      "link": "https://www.ft.com/content/a068036c-a752-4267-9a2f-a95190ef619f?syn-25a6b1a6=1",
+      "summary": "Trump envoy attempts to restart peace talks between Ukraine and Russia and is expected to ask for release of a US hostage",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-20T15:11:57+00:00"
+    },
+    {
+      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+      "link": "https://news.ycombinator.com/item?id=50167583",
+      "summary": "Hey HN, this is Andy from Respan (https://www.respan.ai). We are building an open-source Rust AI gateway. It is a decoupled gateway, so everything is a plugin, including different providers, protocols (MCP, voice), modalities (images, videos), and gateway features (fallbacks, PII redaction, smart routing).Instead of packaging tons of providers and features into one gateway, Respan provides a small core and public interfaces that teams can use to assemble the AI infrastructure their application needs. That way, users can build their own features as additional plugins without having to change the gateway's core.Here’s a video demo: https://www.youtube.com/watch?v=pVv2ibXiTXMThere are countless LLM gateways and most of them solve a common problem: calling different providers from a single endpoint. However, adding new features can become prohibitively difficult. So developers can end up building another gateway to solve a specific problem.We've been building our gateway based on LiteLLM since 2024, and now it's providing services for thousands of orgs. Each org needs different API key settings, routes, and limits. To support that, we kept wrapping LiteLLM, adding more features to it, and at one stage, our wrapper code exceeded 100,000 lines.This January, a routine LiteLLM upgrade caused intermittent connection errors, and we had to roll back. We still haven't figured out the cause, but since then, we no longer upgrade LiteLLM directly and instead manually backport upstream fixes. These experiences made us realize that continuing to patch LiteLLM is not a sustainable long-term solution, and we had to redesign the gateway ourselves.While redesigning our gateway, we wanted to make it easier to add features without breaking existing ones. Inspired by Nginx, we think an AI gateway should have a really small core, only responsible for dispatching events.We believe that everything should be a plugin in our gateway, including providers (OpenAI, Anthropic, Gemini), protocols (chat, realtime voice, MCP), modalities (images, videos), and gateway features for reliability and security (smart routing, fallbacks, and PII redaction through example plugins). Beyond that, we want developers to be able to easily extend the gateway's capabilities by adding their own plugins, without touching the core. Adding a provider, even your own, is dead simple, because quirks are plugins too and there’s nothing magical about them. A provider is a short file, Mistral’s is 22 lines, and each quirk, like Groq putting token usage in its own field, gets its own test.Respan Gateway does more than let you call Claude or Gemini models from the OpenAI SDK. It handles tools, images, and reasoning protocols automatically: an application based on the OpenAI Realtime API can also use Gemini Live through the gateway, though not every feature translates. A simple chat app can use MCP tools configured in the gateway, without implementing MCP itself.We also parse requests into a shared structure. When the client and provider use the same API, we preserve provider-specific fields in their native format, even if our shared structure doesn't have a field for them. That way, the gateway can write them back instead of dropping them.Here’s how it works:An adapter hands each HTTP or WebSocket connection to the first client format that recognizes it. The format exposes the request as a two-way stream of typed input and output events. The core runs plugins in registration order, allowing them to choose a provider, filter or wrap either stream, make additional calls, return a response, or refuse the request. A provider format then opens the upstream connection.If the client and provider use the same format and no plugin changes the payload, the original bytes and protocol-specific fields can pass through unchanged. When formats differ, they translate through shared types for messages, tool calls, results, streams, and usage. This stream model can represent both one-shot HTTP requests and long-lived bidirectional sessions.The gateway is open source at https://github.com/respanai/respan-gateway under the MIT or Apache-2.0 license. You don't need to use Respan's hosted platform and can run it directly on your local machine. Build it from source, add your provider keys, and swap the base URL in a supported client. You can keep using the API your client already speaks. It's still pre-alpha.We make money from our hosted platform (https://www.respan.ai/pricing), which runs the gateway for you with native observability and evals, along with unified billing.If you’re building routing, tools, filtering, observability, or security for agents, we'd love to see it as a plugin. PLUGINS.md in the repo explains how to write one and links to the plugins we’ve created so far. Turning that into an ecosystem is basically our roadmap, and we welcome you to contribute your own plugins. We'd love to answer any questions and hear your feedback!https://github.com/respanai/respan-gateway\n\nComments URL: https://news.ycombinator.com/item?id=50167583\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-20T15:09:29+00:00"
+    },
+    {
+      "title": "Facebook now charging to post more than 2 links a month",
+      "link": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+      "summary": "Article URL: https://mastodon.gamedev.place/@AshleyGullen/117473851565913919\nComments URL: https://news.ycombinator.com/item?id=50167536\nPoints: 11\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-20T15:06:08+00:00"
+    },
+    {
       "title": "France extends curfews in some cities as restrictions quell unrest",
       "link": "https://www.ft.com/content/7bd4ac59-61e6-4604-a96a-26e7096bf768?syn-25a6b1a6=1",
       "summary": "Italy also expected to approve new security measures to combat violent rioters",
@@ -860,6 +924,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-20T14:49:33+00:00"
+    },
+    {
+      "title": "US pending home sales fall to record low as mortgage rates surge",
+      "link": "https://www.ft.com/content/42ed6778-d350-48a6-ba3d-99efca3cd276?syn-25a6b1a6=1",
+      "summary": "Sales contracts dropped 7.3% in September as rising borrowing costs deepened housing market slowdown",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-20T14:39:57+00:00"
     },
     {
       "title": "Here’s why GM’s stock is having its worst day in over a year",
@@ -1412,6 +1484,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-20T10:15:00+00:00"
+    },
+    {
+      "title": "Older Americans brace for higher healthcare costs",
+      "link": "https://www.ft.com/content/b101071b-0b47-4cf2-a35f-9ebb04539df2?syn-25a6b1a6=1",
+      "summary": "Burden of inflation on seniors is set to worsen as US health insurers raise prices",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-20T10:10:01+00:00"
     },
     {
       "title": "Revolut Hit by Widespread Outage Affecting Payments, Transfers, Withdrawals",
