@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T16:43:01.390267+00:00",
+  "generated_at": "2026-10-21T16:53:52.182239+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -814,6 +814,14 @@
   ],
   "items": [
     {
+      "title": "U.S. Stocks Rise as SpaceX Earnings Boost AI Trade",
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-higher-after-asian-ai-rally-5d6a76ef?mod=rss_markets_main",
+      "summary": "U.S. stocks rose, with the Nasdaq leading gains, after SpaceX’s earnings gave a big boost to the artificial-intelligence trade.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-21T16:45:00+00:00"
+    },
+    {
       "title": "Medicare is a bargain. What America can’t afford is private health insurance.",
       "link": "https://www.marketwatch.com/story/medicare-is-a-bargain-what-america-cant-afford-is-private-health-insurance-8a834023?mod=mw_rss_topstories",
       "summary": "Private insurance costs way more for the same results — or worse.",
@@ -844,6 +852,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-21T16:05:05+00:00"
+    },
+    {
+      "title": "AI agent fixed the bug, but what else did it change?",
+      "link": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
+      "summary": "Article URL: https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/\nComments URL: https://news.ycombinator.com/item?id=50183253\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T16:03:32+00:00"
     },
     {
       "title": "The bridge to agent-scale Git infrastructure",
