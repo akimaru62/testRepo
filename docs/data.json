@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T03:09:36.648473+00:00",
+  "generated_at": "2026-10-21T03:30:00.391612+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -814,12 +814,44 @@
       "published": "2026-10-21T10:00:00+00:00"
     },
     {
+      "title": "平井氏、６選不出馬を表明　鳥取知事選",
+      "link": "https://www.jiji.com/jc/article?k=2026102100435&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-21T03:29:56.315251+00:00"
+    },
+    {
+      "title": "マスク氏が制限指示と報道　ウクライナ軍「スターリンク」利用",
+      "link": "https://www.jiji.com/jc/article?k=2026102100380&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-21T03:29:56.315216+00:00"
+    },
+    {
+      "title": "British Pound Shows Increasing Upward Momentum Vs. Dollar",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-supported-by-mild-risk-appetite-1384b72e?mod=rss_markets_main",
+      "summary": "The British pound shows increasing upward momentum against the dollar, according to the daily chart, said UOB.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-21T03:25:00+00:00"
+    },
+    {
       "title": "高市首相、日銀総裁に「国債買い」異例の注文　狙うアベノミクス回帰",
       "link": "https://www.asahi.com/articles/ASVBN1BWHVBNUTFK01XM.html?ref=rss",
       "summary": "",
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-21T03:09:29.017384+00:00"
+    },
+    {
+      "title": "China’s nightmare: becoming the next Japan",
+      "link": "https://www.ft.com/content/512ef255-89c2-4128-becc-914885c3a2a5?syn-25a6b1a6=1",
+      "summary": "Tokyo lost decades when a property bust led to an economic slump. Could the same phenomenon undo Xi Jinping’s ambitions?",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-21T03:00:04+00:00"
     },
     {
       "title": "｢相続人が100人!?｣実家を売ろうとしたら曽祖父名義のままだった…｢故人名義のままだと売れない問題｣を弁護士が解説 | ライフ | 東洋経済オンライン",
@@ -1686,6 +1718,14 @@
       "published": "2026-10-20T20:15:50+00:00"
     },
     {
+      "title": "Upcoming critical PHP security release",
+      "link": "https://news-web.php.net/php.announce/509",
+      "summary": "Article URL: https://news-web.php.net/php.announce/509\nComments URL: https://news.ycombinator.com/item?id=50172041\nPoints: 150\n# Comments: 43",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-20T20:15:50+00:00"
+    },
+    {
       "title": "SpaceX’s data centre deals boost revenue by 161%",
       "link": "https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37?syn-25a6b1a6=1",
       "summary": "Elon Musk’s conglomerate spent more than $19bn on capital investments, more than Wall Street expected",
@@ -2046,6 +2086,14 @@
       "published": "2026-10-20T15:59:06+00:00"
     },
     {
+      "title": "Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",
+      "link": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+      "summary": "Article URL: https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery\nComments URL: https://news.ycombinator.com/item?id=50168357\nPoints: 217\n# Comments: 127",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-20T15:59:06+00:00"
+    },
+    {
       "title": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.",
       "link": "https://www.marketwatch.com/story/looking-for-ai-stocks-that-are-still-cheap-consider-these-two-under-the-radar-picks-b4ca2b28?mod=mw_rss_topstories",
       "summary": "Simon King of Saturna Capital names two stocks tied to base metals, for investors who want to look beyond the beaten path for AI-related trades.",
@@ -2377,6 +2425,14 @@
       "title": "EMudhra Intermediate CA Compromise",
       "link": "https://emudhra.we-have-a-problem.com/",
       "summary": "Article URL: https://emudhra.we-have-a-problem.com/\nComments URL: https://news.ycombinator.com/item?id=50166579\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-20T13:58:33+00:00"
+    },
+    {
+      "title": "eMudhra intermediate CA compromise",
+      "link": "https://emudhra.we-have-a-problem.com/",
+      "summary": "https://blog.mozilla.org/security/2026/10/20/protecting-fire...https://bugzilla.mozilla.org/show_bug.cgi?id=2083449\n\nComments URL: https://news.ycombinator.com/item?id=50166579\nPoints: 700\n# Comments: 346",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-20T13:58:33+00:00"
