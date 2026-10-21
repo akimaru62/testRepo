@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T03:48:18.999840+00:00",
+  "generated_at": "2026-10-21T04:09:41.909336+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -802,6 +802,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f3173f75400>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7efd22a85550>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -812,6 +816,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-21T10:00:00+00:00"
+    },
+    {
+      "title": "厳しい顧問の指導で､懸命に練習し､県大会で優勝…そんな部活の《マネジメントもどき》が社会では通用しない2つの理由 | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960962?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "会社が求める｢成果｣は､単なる行動の積み重ねだけでは生まれません。成果の土台には､社員1人ひとりの感情や思考が深く関わっています。AI時代を迎えた今､人と組織の持続的な成長には何が必要なのでしょうか…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-21T04:00:00+00:00"
     },
     {
       "title": "平井鳥取知事、６選不出馬を表明　来年４月任期満了で退任",
@@ -1916,6 +1928,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-20T17:38:00+00:00"
+    },
+    {
+      "title": "Advancing digital sovereignty with greater control and choice",
+      "link": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
+      "summary": "Across conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on the most important systems while maintaining the control those systems require.\nThe post Advancing digital sovereignty with greater control and choice appeared first on Microsoft Azure Blog.",
+      "source": "Azure ブログ",
+      "category": "テクノロジー",
+      "published": "2026-10-20T17:34:47+00:00"
     },
     {
       "title": "州独立巡る住民投票、否決見通し　カナダ西部アルバータ州",
