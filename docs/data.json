@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T15:53:31.588152+00:00",
+  "generated_at": "2026-10-21T16:08:04.834107+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -814,6 +814,30 @@
   ],
   "items": [
     {
+      "title": "The bridge to agent-scale Git infrastructure",
+      "link": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+      "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently.\nThe post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "category": "開発者向け",
+      "published": "2026-10-21T16:00:00+00:00"
+    },
+    {
+      "title": "Polymarket traders see a 10% chance the AI bubble bursts before New Year’s Day",
+      "link": "https://www.marketwatch.com/story/polymarket-traders-see-a-10-chance-the-ai-bubble-bursts-before-new-years-day-ad33258b?mod=mw_rss_topstories",
+      "summary": "For investors worried that the runaway artificial-intelligence trade might be about to hit the skids, prediction markets are already starting to reflect that anxiety.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-21T15:59:00+00:00"
+    },
+    {
+      "title": "PHP Foundation's Overview of CVE-2026-109618 and CVE-2026-109619",
+      "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "summary": "Article URL: https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/\nComments URL: https://news.ycombinator.com/item?id=50182987\nPoints: 11\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T15:48:56+00:00"
+    },
+    {
       "title": "神戸、厳しい台所事情　Ｊリーグ",
       "link": "https://www.jiji.com/jc/article?k=2026102101236&g=spo&m=rss",
       "summary": "",
@@ -980,6 +1004,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-21T14:27:18.359164+00:00"
+    },
+    {
+      "title": "Cloudflare deploys protections against php2shell vulnerability",
+      "link": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+      "summary": "Article URL: https://blog.cloudflare.com/php-vulnerabilities-waf-protection/\nComments URL: https://news.ycombinator.com/item?id=50181326\nPoints: 11\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T14:11:14+00:00"
     },
     {
       "title": "Stocks Higher as SpaceX Hints at Tesla Deal Talks",
