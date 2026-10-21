@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T21:37:34.814697+00:00",
+  "generated_at": "2026-10-21T21:49:16.402788+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -822,6 +822,30 @@
   ],
   "items": [
     {
+      "title": "Why investors should be skeptical of a potential Tesla-SpaceX merger",
+      "link": "https://www.marketwatch.com/story/why-investors-should-be-skeptical-of-a-potential-tesla-spacex-merger-9e119d32?mod=mw_rss_topstories",
+      "summary": "Wall Street is all abuzz over a possible merger between Tesla and SpaceX. But there is a high probability that such a merger would be a bad idea.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-21T21:44:00+00:00"
+    },
+    {
+      "title": "SpaceX, Anthropic and Nvidia Help Snap Tech Stocks Out of Their Recent Malaise",
+      "link": "https://www.wsj.com/finance/stocks/spacex-anthropic-and-nvidia-help-snap-tech-stocks-out-of-their-recent-malaise-66e1693c?mod=rss_markets_main",
+      "summary": "Bullish signals from three different links of the AI chain help the Nasdaq Composite undo most of Friday’s selloff.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-21T21:36:00+00:00"
+    },
+    {
+      "title": "Meta agrees deal to keep Zuckerberg in California despite wealth tax proposal",
+      "link": "https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31?syn-25a6b1a6=1",
+      "summary": "Group to create new class of non-voting shares to allow stock sales without diluting the founder’s control",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-21T21:31:53+00:00"
+    },
+    {
       "title": "｢ソーセージだけ｣｢塩鮭だけ｣ローソンの300円以下\"貧乏弁当\"が話題→｢日本の貧困化｣だけではない激安弁当人気の背景 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/961712?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "物価高騰が続く中､スーパーやコンビニで｢激安弁当｣が登場し多くの支持を集めています。｢日本が貧乏になった象徴だ｣という声も上がる中､激安弁当が求められる背景を探ります。",
@@ -868,6 +892,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-21T21:14:00+00:00"
+    },
+    {
+      "title": "AWS rates PHP RCE as Important so Amazon Linux 2023 patch may take 20 days",
+      "link": "https://github.com/amazonlinux/amazon-linux-2023/issues/1148",
+      "summary": "Article URL: https://github.com/amazonlinux/amazon-linux-2023/issues/1148\nComments URL: https://news.ycombinator.com/item?id=50187708\nPoints: 12\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T21:12:59+00:00"
     },
     {
       "title": "新橋のビジネスパーソンもハマる｢1L400円から｣のデカい1杯…韓国発\"大容量･低価格\"カフェが続々と日本に上陸する背景 | ビジネス | 東洋経済オンライン",
@@ -1233,6 +1265,14 @@
       "title": "GitLab Remote Code Execution - Integer Overflow issue",
       "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
       "summary": "Article URL: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/\nComments URL: https://news.ycombinator.com/item?id=50185869\nPoints: 100\n# Comments: 22",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T19:01:12+00:00"
+    },
+    {
+      "title": "GitLab Critical Patch Release",
+      "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "summary": "Article URL: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/\nComments URL: https://news.ycombinator.com/item?id=50185869\nPoints: 126\n# Comments: 27",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-21T19:01:12+00:00"
