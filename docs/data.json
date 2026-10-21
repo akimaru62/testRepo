@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T17:06:42.373144+00:00",
+  "generated_at": "2026-10-21T17:23:17.146841+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -810,9 +810,37 @@
     {
       "url": "https://azure.microsoft.com/ja-jp/blog/feed/",
       "error": "HTTPSConnectionPool(host='azure.microsoft.com', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f3d43dfde80>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "Gold Futures Edge Up as Oil Prices Slip",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-amid-pressure-from-rising-crude-prices-ea4a6f71?mod=rss_markets_main",
+      "summary": "Gold futures were modestly higher as crude oil prices slipped into negative territory.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-21T17:14:00+00:00"
+    },
+    {
+      "title": "Ohio governor’s campaign engulfed in controversy over attack ad",
+      "link": "https://www.ft.com/content/93ba5184-e21c-4af2-8121-c92df82a95f3?syn-25a6b1a6=1",
+      "summary": "Biotech billionaire Vivek Ramaswamy faces backlash over video featuring opponent’s estranged mother",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-21T17:09:38+00:00"
+    },
+    {
+      "title": "Trump envoy floats Ukraine talks and summit with Putin and Xi",
+      "link": "https://www.ft.com/content/d7345d46-f000-49b1-99f6-57edfbd5f0af?syn-25a6b1a6=1",
+      "summary": "Steve Witkoff discusses resumption of peace dialogue with Russian president, followed by US-China-Russia meeting next month",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-21T16:57:04+00:00"
+    },
     {
       "title": "U.S. Stocks Rise as SpaceX Earnings Boost AI Trade",
       "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-higher-after-asian-ai-rally-5d6a76ef?mod=rss_markets_main",
