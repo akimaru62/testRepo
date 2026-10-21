@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T16:27:10.830866+00:00",
+  "generated_at": "2026-10-21T16:43:01.390267+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -814,6 +814,14 @@
   ],
   "items": [
     {
+      "title": "Medicare is a bargain. What America can’t afford is private health insurance.",
+      "link": "https://www.marketwatch.com/story/medicare-is-a-bargain-what-america-cant-afford-is-private-health-insurance-8a834023?mod=mw_rss_topstories",
+      "summary": "Private insurance costs way more for the same results — or worse.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-21T16:34:00+00:00"
+    },
+    {
       "title": "プログラム言語「ＰＨＰ」に重大弱点　高市首相、ＳＮＳで注意喚起",
       "link": "https://www.jiji.com/jc/article?k=2026102101249&g=pol&m=rss",
       "summary": "",
@@ -822,11 +830,35 @@
       "published": "2026-10-21T16:27:05.749715+00:00"
     },
     {
+      "title": "What I learned from six months of being stupid on purpose",
+      "link": "https://wvez.org/blog/learning-to-be-stupid/",
+      "summary": "Article URL: https://wvez.org/blog/learning-to-be-stupid/\nComments URL: https://news.ycombinator.com/item?id=50183311\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T16:06:56+00:00"
+    },
+    {
+      "title": "Your MCU Likely Escaped the eMudhra Intermediate CA Compromise",
+      "link": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
+      "summary": "Article URL: https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/\nComments URL: https://news.ycombinator.com/item?id=50183280\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T16:05:05+00:00"
+    },
+    {
       "title": "The bridge to agent-scale Git infrastructure",
       "link": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
       "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently.\nThe post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog.",
       "source": "GitHub Blog",
       "category": "開発者向け",
+      "published": "2026-10-21T16:00:00+00:00"
+    },
+    {
+      "title": "「PHP」の修正パッチ配布開始、緊急メンテ相次ぐ　Webサイトの7割が使うプログラミング言語の欠陥で",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/22/news043.html",
+      "summary": "Webサイトで広く使われているプログラミング言語「PHP」で見つかった重大な欠陥を巡り、運営団体は10月21日深夜（日本時間）、修正プログラム（パッチ）をウェブサイトで公開した。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
       "published": "2026-10-21T16:00:00+00:00"
     },
     {
@@ -1094,6 +1126,14 @@
       "published": "2026-10-21T14:01:22+00:00"
     },
     {
+      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+      "link": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+      "summary": "Article URL: https://duckdb.org/2026/10/21/announcing-duckdb-200\nComments URL: https://news.ycombinator.com/item?id=50181136\nPoints: 189\n# Comments: 23",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T14:01:22+00:00"
+    },
+    {
       "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
       "link": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
       "summary": "Article URL: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/\nComments URL: https://news.ycombinator.com/item?id=50181114\nPoints: 4\n# Comments: 0",
@@ -1268,6 +1308,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-21T13:17:09+00:00"
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "link": "https://openai.com/index/openai-models-google-cloud/",
+      "summary": "Article URL: https://openai.com/index/openai-models-google-cloud/\nComments URL: https://news.ycombinator.com/item?id=50180079\nPoints: 17\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T12:53:11+00:00"
     },
     {
       "title": "Show HN: Sumi.css – CSS Framework",
