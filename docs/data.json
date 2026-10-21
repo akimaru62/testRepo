@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T02:27:10.804907+00:00",
+  "generated_at": "2026-10-21T02:46:36.033184+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -814,6 +814,46 @@
       "published": "2026-10-21T10:00:00+00:00"
     },
     {
+      "title": "Yuan Mixed but Resilient Chinese Data Could Offer Support",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-supported-by-mild-risk-appetite-1384b72e?mod=rss_markets_main",
+      "summary": "The yuan was mixed against the dollar in offshore and onshore markets but may be supported by resilient Chinese economic data.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-21T02:40:00+00:00"
+    },
+    {
+      "title": "Asian Equities Rebound as Risk Sentiment Improves",
+      "link": "https://www.wsj.com/finance/stocks/asian-equities-rebound-as-risk-sentiment-improves-70443e4d?mod=rss_markets_main",
+      "summary": "Risk sentiment improved after a multiday global tech selloff, though concerns about aggressive artificial-intelligence spending linger.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-21T02:32:00+00:00"
+    },
+    {
+      "title": "ハリマ化成がニュージーランド事業撤退へ…特損と特益を同時計上､業績予想を修正しない2つの理由 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961623?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ロジン製品大手のハリマ化成がニュージーランド事業撤退を発表しました。それでも業績予想を修正しない2つの理由とは？",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-21T02:30:00+00:00"
+    },
+    {
+      "title": "アメリカで〈民主社会主義〉の旋風が起きた理由はイデオロギーだけではない…NYマムダニ市長が先駆けた\"草の根選挙\" | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961485?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2026年米中間選挙を前に､アメリカでは若者の間で社会主義や民主社会主義が注目を集めています。その背景には､生活保障や平等を求める声と､中間組織の衰退による社会の分断があります。市民の声を政治にどう…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-21T02:30:00+00:00"
+    },
+    {
+      "title": "〈株価は8割減〉王者ナイキ､一段と遠のく復活のシナリオ…｢レトロモデル依存｣の代償と大規模構造改革の行方 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961438?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "王者のカムバックが、一段と遠のいた――。世界最大のスポーツ用品メーカー、ナイキの2027年5月期第1四半期（26年6～8月期）の決算は、売上高が前年同期比4％減の112億1300万ドル（約1兆794…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-21T02:30:00+00:00"
+    },
+    {
       "title": "外務省欧州局長は北海道新聞記者拘束を巡り、ロシア側に早期の領事面会と即時解放を求めた",
       "link": "https://www.jiji.com/jc/article?k=2026102100296&g=flash&m=rss",
       "summary": "",
@@ -854,6 +894,22 @@
       "published": "2026-10-21T02:27:05.145494+00:00"
     },
     {
+      "title": "In Hilbert space, all things are quantumly possible",
+      "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+      "summary": "Article URL: https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/\nComments URL: https://news.ycombinator.com/item?id=50175185\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T02:04:15+00:00"
+    },
+    {
+      "title": "Australian data centre group falls 44% on profit warning",
+      "link": "https://www.ft.com/content/023caf76-40df-485d-8a28-0ff62aa7ec6f?syn-25a6b1a6=1",
+      "summary": "NextDC plunge adds to sector woes as Nvidia holds talks over injecting capital into Firmus after failed IPO",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-21T02:00:40+00:00"
+    },
+    {
       "title": "NYSE Is Getting Trounced in the Battle for Wall Street’s Biggest IPOs",
       "link": "https://www.wsj.com/finance/stocks/nyse-is-getting-trounced-in-the-battle-for-wall-streets-biggest-ipos-048e3b94?mod=rss_markets_main",
       "summary": "Anthropic is expected to bring the Nasdaq another blockbuster listing, following SpaceX. And the Texas Stock Exchange is also emerging as a threat.",
@@ -876,6 +932,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-21T01:48:22+00:00"
+    },
+    {
+      "title": "The Future of CSS",
+      "link": "https://www.joshwcomeau.com/css/interop-2027/",
+      "summary": "Article URL: https://www.joshwcomeau.com/css/interop-2027/\nComments URL: https://news.ycombinator.com/item?id=50175070\nPoints: 11\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T01:47:28+00:00"
     },
     {
       "title": "GitHub package firewall",
@@ -1188,6 +1252,14 @@
       "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-10-20T23:00:00+00:00"
+    },
+    {
+      "title": "PingCap TiDB Leaks",
+      "link": "https://fulcrumsec.vg/pingcap/",
+      "summary": "Article URL: https://fulcrumsec.vg/pingcap/\nComments URL: https://news.ycombinator.com/item?id=50173716\nPoints: 26\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-20T22:45:39+00:00"
     },
     {
       "title": "朝ドラ《ブラッサム》清治がカナリアを逃した妻に大激怒…その裏側にあった明治時代の｢鳥ブーム｣が凄かった | キャリア・教育 | 東洋経済オンライン",
