@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T18:53:33.327588+00:00",
+  "generated_at": "2026-10-21T19:06:37.283108+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -821,6 +821,30 @@
     }
   ],
   "items": [
+    {
+      "title": "Bessent shrugs off ‘systemic’ AI risks at closed-door investor conference",
+      "link": "https://www.ft.com/content/5b7c2fdf-2300-4208-860e-6389ceb18886?syn-25a6b1a6=1",
+      "summary": "Treasury secretary spoke to financiers at charity event where tickets cost $7,500",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-21T18:46:59+00:00"
+    },
+    {
+      "title": "NSA warns on ‘critical’ cyber vulnerabilities detected using AI",
+      "link": "https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853?syn-25a6b1a6=1",
+      "summary": "Researchers used OpenAI models to find severe faults in software used on majority of websites around the world",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-21T18:46:43+00:00"
+    },
+    {
+      "title": "Open Source Games",
+      "link": "https://opensourcegames.dev/",
+      "summary": "Article URL: https://opensourcegames.dev/\nComments URL: https://news.ycombinator.com/item?id=50185455\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T18:31:15+00:00"
+    },
     {
       "title": "Anthropic's Public Benefit Charter",
       "link": "https://www.anthropic.com/public-benefit-charter",
