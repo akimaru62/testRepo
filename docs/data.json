@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T12:37:11.135096+00:00",
+  "generated_at": "2026-10-21T12:58:46.323731+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -814,6 +814,14 @@
   ],
   "items": [
     {
+      "title": "Nasdaq Futures Higher After Asian AI Rally, Brent Crude Holds Close to $110",
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-higher-after-asian-ai-rally-5d6a76ef?mod=rss_markets_main",
+      "summary": "Nasdaq futures rose after AI stocks rallied in Asia and Europe, though investor sentiment remained muted as oil prices held close to $110 a barrel.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-21T12:43:00+00:00"
+    },
+    {
       "title": "U.S. Natural Gas Futures Extend Decline on Loss of Heating Demand",
       "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-extend-decline-on-loss-of-heating-demand-dacc42a0?mod=rss_markets_main",
       "summary": "U.S. natural gas futures extended their slide into a fourth session with near-term weather forecasts shedding heating demand.",
@@ -828,6 +836,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-21T12:32:00+00:00"
+    },
+    {
+      "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
+      "link": "https://www.ncsc.nl/actueel",
+      "summary": "Article URL: https://www.ncsc.nl/actueel\nComments URL: https://news.ycombinator.com/item?id=50179828\nPoints: 20\n# Comments: 9",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T12:31:28+00:00"
     },
     {
       "title": "秋田・子吉川で氾濫恐れ　由利本荘市の一部に避難指示",
