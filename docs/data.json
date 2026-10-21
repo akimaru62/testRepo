@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T05:51:38.300953+00:00",
+  "generated_at": "2026-10-21T06:13:21.214613+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -818,6 +818,46 @@
       "published": "2026-10-21T10:00:00+00:00"
     },
     {
+      "title": "気温上昇１．８度超えも　温室ガス削減不十分―国連環境計画",
+      "link": "https://www.jiji.com/jc/article?k=2026102100613&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-21T06:13:11.993855+00:00"
+    },
+    {
+      "title": "｢ユニーク｣は褒め言葉？　悪口？　人から｢ユニークだね｣と言われたら文化から掘り下げてみると面白い理由 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961400?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "日本語と英語の間には､同じ言葉でありながら微妙に意味やニュアンスが異なる\"ズレ\"が存在します。なぜ｢ユニーク｣や｢ナイーブ｣､｢プライド｣といった言葉は､文化背景によって評価や印象が変わるのでしょう…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-21T06:00:00+00:00"
+    },
+    {
+      "title": "Healthcare Sector’s Recovery Gathering Pace",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-8-on-improving-risk-sentiment-possible-dip-buying-4d4d8e99?mod=rss_markets_main",
+      "summary": "Global wealth and asset manager Lombard Odier remained overweight on equities with a preference for the healthcare sector.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-21T05:57:00+00:00"
+    },
+    {
+      "title": "米ネトフリ純利益44%増 7～9月期",
+      "link": "https://news.yahoo.co.jp/pickup/6599584?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-21T05:50:45+00:00"
+    },
+    {
+      "title": "Nscale boss seeks to reassure staff amid AI market jitters",
+      "link": "https://www.ft.com/content/9bc15db9-08b4-40f1-b814-24a52eed8ebc",
+      "summary": "Founder Josh Payne says demand remains ‘insatiable’ for the services of Nvidia-backed data centre group",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-21T05:47:49+00:00"
+    },
+    {
       "title": "正念場は12月10日前後？ 2年目突入の高市政権を揺さぶる｢議員定数削減｣｢10兆円財源｣｢外交的孤立｣という3重苦の先行き | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/962027?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "発足2年目に入った高市早苗政権。しかし､内政では与党内の対立､外交では日米･日中関係の不透明感が漂い､厳しい状況に置かれています。政権維持の正念場は12月10日前後――。そう見通す根拠とは？",
@@ -840,6 +880,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-21T05:22:00+00:00"
+    },
+    {
+      "title": "Alibaba hikes DeepSeek V4 Flash 0731 output prices by 230%",
+      "link": "https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead",
+      "summary": "Article URL: https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead\nComments URL: https://news.ycombinator.com/item?id=50176351\nPoints: 5\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T05:17:15+00:00"
     },
     {
       "title": "カフェインレスコーヒー 市場拡大",
@@ -909,6 +957,14 @@
       "title": "Major PHP Vulnerability Leaked",
       "link": "https://jackalsyn.com/posts/php-up-2026.html",
       "summary": "Article URL: https://jackalsyn.com/posts/php-up-2026.html\nComments URL: https://news.ycombinator.com/item?id=50176077\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T04:26:56+00:00"
+    },
+    {
+      "title": "PHP session.upload_progress heap UAF (CVE-2026-109618 / -109619)",
+      "link": "https://jackalsyn.com/posts/php-up-2026.html",
+      "summary": "Article URL: https://jackalsyn.com/posts/php-up-2026.html\nComments URL: https://news.ycombinator.com/item?id=50176077\nPoints: 115\n# Comments: 32",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-21T04:26:56+00:00"
