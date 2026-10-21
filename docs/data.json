@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T16:08:04.834107+00:00",
+  "generated_at": "2026-10-21T16:27:10.830866+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -814,6 +814,14 @@
   ],
   "items": [
     {
+      "title": "プログラム言語「ＰＨＰ」に重大弱点　高市首相、ＳＮＳで注意喚起",
+      "link": "https://www.jiji.com/jc/article?k=2026102101249&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-21T16:27:05.749715+00:00"
+    },
+    {
       "title": "The bridge to agent-scale Git infrastructure",
       "link": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
       "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently.\nThe post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog.",
@@ -833,6 +841,14 @@
       "title": "PHP Foundation's Overview of CVE-2026-109618 and CVE-2026-109619",
       "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
       "summary": "Article URL: https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/\nComments URL: https://news.ycombinator.com/item?id=50182987\nPoints: 11\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T15:48:56+00:00"
+    },
+    {
+      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+      "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "summary": "Article URL: https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/\nComments URL: https://news.ycombinator.com/item?id=50182987\nPoints: 41\n# Comments: 7",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-21T15:48:56+00:00"
@@ -924,6 +940,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-21T15:20:04+00:00"
+    },
+    {
+      "title": "Who’s paying for the AI build-out? Probably you",
+      "link": "https://www.ft.com/content/09f56730-4702-446d-9986-f7c93ffe6bf0?syn-25a6b1a6=1",
+      "summary": "Every big pool of capital, in every corner of the developed world, is funding data centres",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-21T15:00:25+00:00"
     },
     {
       "title": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.",
@@ -1076,6 +1100,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-21T14:00:26+00:00"
+    },
+    {
+      "title": "MUVGN.DE - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YZG1qdk5HSVVpdUxtR1htbWZORVVDSWtTTHp0NWJwOEpmMmJOYlB5d3BGX0tWUWVKWXI5VTRON0J4dExuWFRmVzEydGFrRDVIV2lkUXpFNWVVODhNa0dMYXdvNkRSVWl5YmZkbw?oc=5",
+      "summary": "MUVGN.DE&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-21T13:59:48+00:00"
     },
     {
       "title": "PHP2Shell",
