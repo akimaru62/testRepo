@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T22:24:26.075956+00:00",
+  "generated_at": "2026-10-21T22:37:10.711956+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -822,6 +822,14 @@
   ],
   "items": [
     {
+      "title": "WSJ Dollar Index Falls 0.04% to 96.92",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-supported-by-mild-risk-appetite-1384b72e?mod=rss_markets_main",
+      "summary": "The WSJ Dollar Index edged lower, down for two consecutive trading days.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-21T22:31:00+00:00"
+    },
+    {
       "title": "ネパール、ヒマラヤ高峰で２邦人不明　１５日以降消息絶つ、続く捜索",
       "link": "https://www.jiji.com/jc/article?k=2026102200144&g=int&m=rss",
       "summary": "",
@@ -844,6 +852,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-21T22:24:20.637217+00:00"
+    },
+    {
+      "title": "Oracle Security Alert Advisory – CVE-2026-91403",
+      "link": "https://www.oracle.com/security-alerts/alert-cve-2026-91403.html",
+      "summary": "Article URL: https://www.oracle.com/security-alerts/alert-cve-2026-91403.html\nComments URL: https://news.ycombinator.com/item?id=50188443\nPoints: 12\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T22:17:19+00:00"
     },
     {
       "title": "なぜ｢嫌われたくない｣と本当は断りたい頼みまで引き受けてしまうのか？ 他人の目から自由になる｢放っておこう｣という考え方 | ライフ | 東洋経済オンライン",
@@ -878,9 +894,49 @@
       "published": "2026-10-21T22:00:00+00:00"
     },
     {
+      "title": "なぜ上場を捨ててまでAIに賭けたのか？　カオナビが非公開化して進める「脱・勘と経験の人事」",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/22/news032.html",
+      "summary": "人事データを可視化しても「勘と経験と社内政治」で決まる日本の人事。タレントマネジメント大手カオナビはこの課題に終止符を打つべく、株式非公開化という重い決断を下した。四半期決算の呪縛を断ち、5年間をAIと人事データの融合にあてる。同社が掲げる「タレントインテリジェンス」構想の全貌とは。2030年の再上場を見据えた佐藤寛之CEOの背水の変革戦略に迫る。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-10-21T22:00:00+00:00"
+    },
+    {
+      "title": "なぜルネサスは、TSMCに勝てなかったのか　“電子立国ニッポン”当時を知る日立のキーマンが語る",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/22/news021.html",
+      "summary": "業績が好調な半導体大手のTSMC。かつては日本も半導体が強い時期があった。なぜルネサスは勝てなかったのか。当時を知る日立製作所のキーマンが語った。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-10-21T22:00:00+00:00"
+    },
+    {
+      "title": "クレーム対応ばかりでオペレーターが辞めていく　「カスハラ義務化」時代にAIはどう現場を守る？",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/22/news033.html",
+      "summary": "簡単な問い合わせをAIに任せた結果、現場に難解なクレームだけが残りオペレーターが疲弊する――。AI導入で起きるコンタクトセンターの皮肉な逆転現象と、カスハラ対策義務化に企業はどう向き合うべきか。世界大手Genesysのアジア太平洋営業責任者に、業務支援AIによる現場防衛術や「65％は人間と話したい」という顧客心理、そしてコスト削減の自動化からCX向上へシフトする運用の要諦を聞いた。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-10-21T22:00:00+00:00"
+    },
+    {
+      "title": "「日本のデータ活用は“植民地”状態になる」　ウイングアーク１ｓｔが警告、求められる日本企業の「自立」",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/22/news018.html",
+      "summary": "ウイングアーク１ｓｔは新データ基盤「DataTetra」の提供を10月21日から開始している。AIコストの急増やベンダー依存といった課題ん挑む、新たな設計思想とは。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-10-21T22:00:00+00:00"
+    },
+    {
       "title": "Railway Security(Compromise) Disclosure",
       "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
       "summary": "Article URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st\nComments URL: https://news.ycombinator.com/item?id=50188228\nPoints: 21\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T21:58:03+00:00"
+    },
+    {
+      "title": "Railway Security Disclosure",
+      "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "summary": "Article URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st\nComments URL: https://news.ycombinator.com/item?id=50188228\nPoints: 63\n# Comments: 14",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-21T21:58:03+00:00"
