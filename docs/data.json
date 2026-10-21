@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T12:58:46.323731+00:00",
+  "generated_at": "2026-10-21T13:20:32.512939+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -814,6 +814,54 @@
   ],
   "items": [
     {
+      "title": "ガザ、戦後外交、司法改革　イスラエル総選挙の主な争点",
+      "link": "https://www.jiji.com/jc/article?k=2026102100653&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-21T13:20:26.433293+00:00"
+    },
+    {
+      "title": "高市首相、政権２年目へ「挑戦」　世界的物価高の対策強化",
+      "link": "https://www.jiji.com/jc/article?k=2026102100880&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-21T13:20:26.433281+00:00"
+    },
+    {
+      "title": "血管炎薬、「申請資料に問題」　新規投与中止を要請―「タブネオス」死亡２３人に・厚労省",
+      "link": "https://www.jiji.com/jc/article?k=2026102101135&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-21T13:20:26.433269+00:00"
+    },
+    {
+      "title": "女性支持減「期待感が失望に」　申お茶の水大教授―高市政権１年",
+      "link": "https://www.jiji.com/jc/article?k=2026102100661&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-21T13:20:26.433248+00:00"
+    },
+    {
+      "title": "公・民、対決路線に傾斜　消費減税対案、一本化も視野",
+      "link": "https://www.jiji.com/jc/article?k=2026102100647&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-21T13:20:26.433206+00:00"
+    },
+    {
+      "title": "イオングループ13社の42サイトに不正アクセス　情報流出は調査中",
+      "link": "https://www.asahi.com/articles/ASVBP457VVBPULFA02GM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-21T13:20:26.322793+00:00"
+    },
+    {
       "title": "Nasdaq Futures Higher After Asian AI Rally, Brent Crude Holds Close to $110",
       "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-higher-after-asian-ai-rally-5d6a76ef?mod=rss_markets_main",
       "summary": "Nasdaq futures rose after AI stocks rallied in Asia and Europe, though investor sentiment remained muted as oil prices held close to $110 a barrel.",
@@ -830,6 +878,14 @@
       "published": "2026-10-21T12:35:00+00:00"
     },
     {
+      "title": "LayerFS: The filesystem for AI coding agents",
+      "link": "https://layerfs.ai/",
+      "summary": "Article URL: https://layerfs.ai/\nComments URL: https://news.ycombinator.com/item?id=50179857\nPoints: 8\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T12:34:46+00:00"
+    },
+    {
       "title": "Heckler disrupts Nvidia CEO Huang’s speech at Berlin conference",
       "link": "https://www.marketwatch.com/story/heckler-disrupts-nvidia-ceo-huangs-speech-at-berlin-conference-fc461a82?mod=mw_rss_topstories",
       "summary": "The person shouted something that could not be heard on the company’s livestream about 20 minutes into the address, before being removed from the auditorium.",
@@ -844,6 +900,22 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-21T12:31:28+00:00"
+    },
+    {
+      "title": "Despite Iran's Attacks, Gulf Oil Exports Exceed Prewar Levels",
+      "link": "https://maritime-executive.com/article/report-despite-iran-s-attacks-gulf-oil-exports-exceed-prewar-levels",
+      "summary": "Article URL: https://maritime-executive.com/article/report-despite-iran-s-attacks-gulf-oil-exports-exceed-prewar-levels\nComments URL: https://news.ycombinator.com/item?id=50179719\nPoints: 7\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T12:23:41+00:00"
+    },
+    {
+      "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
+      "link": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
+      "summary": "Article URL: https://www.hirundo.io/blog/qwen3-coder-vulnerabilities\nComments URL: https://news.ycombinator.com/item?id=50179706\nPoints: 34\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T12:22:39+00:00"
     },
     {
       "title": "秋田・子吉川で氾濫恐れ　由利本荘市の一部に避難指示",
@@ -2047,6 +2119,14 @@
     },
     {
       "title": "OpenAI ‘agents’ disabled their own monitoring systems",
+      "link": "https://www.ft.com/content/45fbf130-f82c-465d-bc97-5b18c20fbe27?syn-25a6b1a6=1",
+      "summary": "AI lab investigating whether incident shows ‘propensity to evade’ controls",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-21T01:56:00+00:00"
+    },
+    {
+      "title": "OpenAI ‘agents’ disabled company’s monitoring systems",
       "link": "https://www.ft.com/content/45fbf130-f82c-465d-bc97-5b18c20fbe27?syn-25a6b1a6=1",
       "summary": "AI lab investigating whether incident shows ‘propensity to evade’ controls",
       "source": "Financial Times",
