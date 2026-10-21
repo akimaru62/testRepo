@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T13:50:38.763132+00:00",
+  "generated_at": "2026-10-21T14:08:47.775868+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -814,12 +814,52 @@
   ],
   "items": [
     {
+      "title": "Meta’s AI spending spree has investors taking a page from the financial-crisis playbook",
+      "link": "https://www.marketwatch.com/story/metas-ai-spending-spree-has-investors-taking-a-page-from-the-financial-crisis-playbook-4ea05f5c?mod=mw_rss_topstories",
+      "summary": "The next hot AI play? It could be adding default protection.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-21T14:05:00+00:00"
+    },
+    {
       "title": "秋田・子吉川が氾濫　４５０世帯に緊急安全確保―特別警報発表・気象庁など",
       "link": "https://www.jiji.com/jc/article?k=2026102101078&g=soc&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-21T13:50:33.148308+00:00"
+    },
+    {
+      "title": "PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out",
+      "link": "https://www.php.net/index.php",
+      "summary": "Article URL: https://www.php.net/index.php\nComments URL: https://news.ycombinator.com/item?id=50180943\nPoints: 38\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T13:50:05+00:00"
+    },
+    {
+      "title": "In the battle for AI supremacy, China is only six months behind the U.S. — which means it’s winning, says former Google CEO",
+      "link": "https://www.marketwatch.com/story/in-the-battle-for-ai-supremacy-china-is-only-six-months-behind-the-u-s-but-that-means-theyre-winning-says-former-google-ceo-82d71e7a?mod=mw_rss_topstories",
+      "summary": "AI is not a bubble, says Google’s former CEO. It’s real growth, real money and real customers paying for something useful.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-21T13:50:00+00:00"
+    },
+    {
+      "title": "Updated PHP version released to GitHub",
+      "link": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "summary": "Article URL: https://github.com/php/php-src/releases/tag/php-8.2.35\nComments URL: https://news.ycombinator.com/item?id=50180873\nPoints: 81\n# Comments: 12",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T13:45:33+00:00"
+    },
+    {
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "link": "https://www.wiz.io/blog/php2shell-php-rce",
+      "summary": "Article URL: https://www.wiz.io/blog/php2shell-php-rce\nComments URL: https://news.ycombinator.com/item?id=50180836\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T13:43:19+00:00"
     },
     {
       "title": "「人にはできない攻撃」AIで岩井コスモに侵入か　現実化する懸念",
@@ -935,6 +975,14 @@
     },
     {
       "title": "Heckler disrupts Nvidia CEO Huang’s speech at Berlin conference",
+      "link": "https://www.marketwatch.com/story/heckler-disrupts-nvidia-ceo-huangs-speech-at-berlin-conference-fc461a82?mod=mw_rss_topstories",
+      "summary": "The person shouted something that could not be heard on the company’s livestream about 20 minutes into the address, before being removed from the auditorium.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-21T12:32:00+00:00"
+    },
+    {
+      "title": "Heckler disrupts Nvidia CEO Huang’s keynote speech at Berlin conference",
       "link": "https://www.marketwatch.com/story/heckler-disrupts-nvidia-ceo-huangs-speech-at-berlin-conference-fc461a82?mod=mw_rss_topstories",
       "summary": "The person shouted something that could not be heard on the company’s livestream about 20 minutes into the address, before being removed from the auditorium.",
       "source": "MarketWatch",
