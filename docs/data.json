@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T17:36:45.303536+00:00",
+  "generated_at": "2026-10-21T17:49:00.841518+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -814,9 +814,37 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f3d43dfde80>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "New Mexico Sues Jeffrey Epstein’s Lawyer and Accountant",
+      "link": "https://www.wsj.com/us-news/law/new-mexico-sues-jeffrey-epsteins-lawyer-and-accountant-063ad092?mod=rss_markets_main",
+      "summary": "The lawsuit accuses the pair of helping to finance and conceal sex trafficking at Epstein’s Zorro Ranch.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-21T17:42:00+00:00"
+    },
+    {
+      "title": "Comex Gold Settles 0.20% Higher at $4130.50",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-amid-pressure-from-rising-crude-prices-ea4a6f71?mod=rss_markets_main",
+      "summary": "Gold settled 0.2% higher, snapping a two-session losing streak, while silver fell 0.5%, down two of the past three sessions.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-21T17:41:00+00:00"
+    },
+    {
+      "title": "Tesla-SpaceX: a huge corporate constellation with Musk at its centre",
+      "link": "https://www.ft.com/content/7f8e97b4-bd2e-4414-858a-bc746cb515f6?syn-25a6b1a6=1",
+      "summary": "A merger of Elon Musk’s listed companies has some logic, but other shareholders might end up with less influence than they have today",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-21T17:25:53+00:00"
+    },
     {
       "title": "Gold Futures Edge Up as Oil Prices Slip",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-amid-pressure-from-rising-crude-prices-ea4a6f71?mod=rss_markets_main",
@@ -832,6 +860,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-21T17:09:38+00:00"
+    },
+    {
+      "title": "Overview of the German aFd email leak",
+      "link": "https://erik.gdn/docs/afd-emails/en/",
+      "summary": "Article URL: https://erik.gdn/docs/afd-emails/en/\nComments URL: https://news.ycombinator.com/item?id=50184270\nPoints: 11\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T17:07:25+00:00"
     },
     {
       "title": "Trump envoy floats Ukraine talks and summit with Putin and Xi",
@@ -941,6 +977,14 @@
       "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
       "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
       "summary": "Article URL: https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/\nComments URL: https://news.ycombinator.com/item?id=50182987\nPoints: 41\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T15:48:56+00:00"
+    },
+    {
+      "title": "Today's PHP security release, and how we're strengthening security",
+      "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "summary": "Article URL: https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/\nComments URL: https://news.ycombinator.com/item?id=50182987\nPoints: 196\n# Comments: 99",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-21T15:48:56+00:00"
