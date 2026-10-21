@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T14:08:47.775868+00:00",
+  "generated_at": "2026-10-21T14:27:22.804639+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -814,12 +814,44 @@
   ],
   "items": [
     {
+      "title": "「なぜスパイ活動」と反問　領事面会巡り説明避ける―ロ報道官",
+      "link": "https://www.jiji.com/jc/article?k=2026102101202&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-21T14:27:18.359188+00:00"
+    },
+    {
+      "title": "ロシア産軽油タンカー、２２日出発　米に４万トン輸送",
+      "link": "https://www.jiji.com/jc/article?k=2026102100973&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-21T14:27:18.359164+00:00"
+    },
+    {
+      "title": "Stocks Higher as SpaceX Hints at Tesla Deal Talks",
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-higher-after-asian-ai-rally-5d6a76ef?mod=rss_markets_main",
+      "summary": "Stocks were up with Nasdaq leading gains after SpaceX beat Wall Street’s expectations for revenue and teased a potential merger with Tesla.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-21T14:10:00+00:00"
+    },
+    {
       "title": "Meta’s AI spending spree has investors taking a page from the financial-crisis playbook",
       "link": "https://www.marketwatch.com/story/metas-ai-spending-spree-has-investors-taking-a-page-from-the-financial-crisis-playbook-4ea05f5c?mod=mw_rss_topstories",
       "summary": "The next hot AI play? It could be adding default protection.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-21T14:05:00+00:00"
+    },
+    {
+      "title": "OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns",
+      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "summary": "Article URL: https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/\nComments URL: https://news.ycombinator.com/item?id=50181175\nPoints: 17\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T14:03:43+00:00"
     },
     {
       "title": "秋田・子吉川が氾濫　４５０世帯に緊急安全確保―特別警報発表・気象庁など",
