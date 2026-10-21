@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T14:42:37.515828+00:00",
+  "generated_at": "2026-10-21T14:52:09.498058+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -900,6 +900,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-21T14:01:22+00:00"
+    },
+    {
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "link": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "summary": "Article URL: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/\nComments URL: https://news.ycombinator.com/item?id=50181114\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T14:00:26+00:00"
     },
     {
       "title": "秋田・子吉川が氾濫　４５０世帯に緊急安全確保―特別警報発表・気象庁など",
