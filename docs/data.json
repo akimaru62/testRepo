@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T00:19:12.453578+00:00",
+  "generated_at": "2026-10-21T01:05:17.755560+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -806,6 +806,38 @@
   ],
   "items": [
     {
+      "title": "金融庁広報誌アクセスＦＳＡ第278号（2026年10月号）を発行しました。",
+      "link": "https://www.fsa.go.jp/access/index.html",
+      "summary": "",
+      "source": "金融庁",
+      "category": "公的機関",
+      "published": "2026-10-21T10:00:00+00:00"
+    },
+    {
+      "title": "スペースＸとテスラが統合協議、委員会設置　マスク氏「多くの利点」",
+      "link": "https://www.asahi.com/articles/ASVBN7XJBVBNUHBI009M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-21T01:05:12.162823+00:00"
+    },
+    {
+      "title": "国債金利情報(令和8年10月20日)",
+      "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-21T00:30:00+00:00"
+    },
+    {
+      "title": "Z世代人気の無人カフェ 拡大の訳",
+      "link": "https://news.yahoo.co.jp/pickup/6599548?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-21T00:26:51+00:00"
+    },
+    {
       "title": "スペースＸとテスラ、統合議論　マスク氏「良いアイデア」",
       "link": "https://www.jiji.com/jc/article?k=2026102100209&g=int&m=rss",
       "summary": "",
@@ -838,12 +870,28 @@
       "published": "2026-10-21T00:19:06.190402+00:00"
     },
     {
+      "title": "Microagi: Accelerating Embodied AGI",
+      "link": "https://www.microagi.ai/",
+      "summary": "Article URL: https://www.microagi.ai/\nComments URL: https://news.ycombinator.com/item?id=50174448\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T00:11:30+00:00"
+    },
+    {
       "title": "｢26歳で上場企業役員→平社員で再挑戦｣の社長が確信､AI時代｢一発屋で終わる人｣と｢市場価値を上げ続ける人｣の残酷な差 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/961201?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "AIの普及で仕事のあり方が大きく変わる中､今後のキャリアや人生に不安を抱く人も多いのではないでしょうか。役員のステイタスを手放し､未経験の戦略コンサルで平社員から再出発した著者が､先の見えない時代で…",
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-10-21T00:00:00+00:00"
+    },
+    {
+      "title": "LabRobotBench v0.1: Benchmarking wet lab robotics",
+      "link": "https://gamowlabs.com/lab-robot-bench-v0-1",
+      "summary": "Article URL: https://gamowlabs.com/lab-robot-bench-v0-1\nComments URL: https://news.ycombinator.com/item?id=50174317\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-20T23:55:03+00:00"
     },
     {
       "title": "貿易統計(令和8年9月分及び令和8年度上半期分速報)【税関ホームページ】",
