@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T01:57:52.986563+00:00",
+  "generated_at": "2026-10-21T02:27:10.804907+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -814,12 +814,92 @@
       "published": "2026-10-21T10:00:00+00:00"
     },
     {
+      "title": "外務省欧州局長は北海道新聞記者拘束を巡り、ロシア側に早期の領事面会と即時解放を求めた",
+      "link": "https://www.jiji.com/jc/article?k=2026102100296&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-21T02:27:05.598736+00:00"
+    },
+    {
+      "title": "外務省局長、早期面会と解放求める　記者拘束で訪ロ、高官と会談",
+      "link": "https://www.jiji.com/jc/article?k=2026102100300&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-21T02:27:05.598723+00:00"
+    },
+    {
+      "title": "警官・職員１２．５万人分情報流出か　２０府県警、防犯メール登録市民のアドレスも―「アルカディア」不正アクセス・警察庁",
+      "link": "https://www.jiji.com/jc/article?k=2026102100348&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-21T02:27:05.598703+00:00"
+    },
+    {
+      "title": "ディープシーク製ＡＩ排除　機密情報漏えい懸念、中国は反発―米政府",
+      "link": "https://www.jiji.com/jc/article?k=2026102100294&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-21T02:27:05.598674+00:00"
+    },
+    {
+      "title": "貿易収支、原油高騰で2.8兆円の赤字　2026年4～9月貿易統計",
+      "link": "https://www.asahi.com/articles/ASVBP0GX7VBPULFA004M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-21T02:27:05.145494+00:00"
+    },
+    {
+      "title": "NYSE Is Getting Trounced in the Battle for Wall Street’s Biggest IPOs",
+      "link": "https://www.wsj.com/finance/stocks/nyse-is-getting-trounced-in-the-battle-for-wall-streets-biggest-ipos-048e3b94?mod=rss_markets_main",
+      "summary": "Anthropic is expected to bring the Nasdaq another blockbuster listing, following SpaceX. And the Texas Stock Exchange is also emerging as a threat.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-21T02:00:00+00:00"
+    },
+    {
+      "title": "OpenAI ‘agents’ disabled their own monitoring systems",
+      "link": "https://www.ft.com/content/45fbf130-f82c-465d-bc97-5b18c20fbe27?syn-25a6b1a6=1",
+      "summary": "AI lab investigating whether incident shows ‘propensity to evade’ controls",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-21T01:56:00+00:00"
+    },
+    {
+      "title": "T3 Code now synced between GitHub and GitCafe",
+      "link": "https://git.cafe/pingdotgg/t3code",
+      "summary": "Article URL: https://git.cafe/pingdotgg/t3code\nComments URL: https://news.ycombinator.com/item?id=50175075\nPoints: 7\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T01:48:22+00:00"
+    },
+    {
+      "title": "GitHub package firewall",
+      "link": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview/",
+      "summary": "Article URL: https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview/\nComments URL: https://news.ycombinator.com/item?id=50175063\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T01:45:29+00:00"
+    },
+    {
       "title": "Good type against all odds",
       "link": "https://unsung.aresluna.org/good-type-against-all-odds/",
       "summary": "Article URL: https://unsung.aresluna.org/good-type-against-all-odds/\nComments URL: https://news.ycombinator.com/item?id=50175059\nPoints: 7\n# Comments: 1",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-21T01:45:07+00:00"
+    },
+    {
+      "title": "Learning to live with Waymos",
+      "link": "https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird",
+      "summary": "Article URL: https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird\nComments URL: https://news.ycombinator.com/item?id=50175057\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T01:44:34+00:00"
     },
     {
       "title": "黒海に哨戒機など追加投入　商船攻撃相次ぎ―ＮＡＴＯ",
@@ -1601,6 +1681,14 @@
       "title": "SimCity, but with Permits",
       "link": "https://permit.petercai.com/",
       "summary": "Article URL: https://permit.petercai.com/\nComments URL: https://news.ycombinator.com/item?id=50170593\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-20T18:29:09+00:00"
+    },
+    {
+      "title": "Show HN: SimCity, but with Permits",
+      "link": "https://permit.petercai.com/",
+      "summary": "Article URL: https://permit.petercai.com/\nComments URL: https://news.ycombinator.com/item?id=50170593\nPoints: 581\n# Comments: 293",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-20T18:29:09+00:00"
