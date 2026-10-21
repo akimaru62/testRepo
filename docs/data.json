@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T21:24:05.675801+00:00",
+  "generated_at": "2026-10-21T21:37:34.814697+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -821,6 +821,22 @@
     }
   ],
   "items": [
+    {
+      "title": "｢ソーセージだけ｣｢塩鮭だけ｣ローソンの300円以下\"貧乏弁当\"が話題→｢日本の貧困化｣だけではない激安弁当人気の背景 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961712?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "物価高騰が続く中､スーパーやコンビニで｢激安弁当｣が登場し多くの支持を集めています。｢日本が貧乏になった象徴だ｣という声も上がる中､激安弁当が求められる背景を探ります。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-21T21:30:00+00:00"
+    },
+    {
+      "title": "Automate medical coding with Step Functions and Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/architecture/automate-medical-coding-with-step-functions-and-amazon-bedrock-agentcore/",
+      "summary": "Learn how to combine deterministic orchestration with bounded agentic reasoning using AWS Step Functions and the Amazon Bedrock AgentCore harness. This medical coding workflow escalates cheapest-first: a safety block-list, then exact matching, then an AI agent only for terms that need judgment, keeping every routing decision auditable.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-10-21T21:26:23+00:00"
+    },
     {
       "title": "首相動静（１０月２１日）",
       "link": "https://www.jiji.com/jc/article?k=2026102100250&g=pol&m=rss",
@@ -2615,6 +2631,14 @@
     },
     {
       "title": "Tesla Earnings Today: EV-Maker's Profit Falls; Investors Await Merger Details",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-21-2026?mod=rss_markets_main",
+      "summary": "Conference call expected to touch on possible tie-up between Tesla, SpaceX",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-21T09:01:41+00:00"
+    },
+    {
+      "title": "Tesla Earnings Today: EV-Maker's Profit Falls as Batteries Prove Barrier to Growth",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-21-2026?mod=rss_markets_main",
       "summary": "Conference call expected to touch on possible tie-up between Tesla, SpaceX",
       "source": "WSJ マーケット",
