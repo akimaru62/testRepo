@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T14:52:09.498058+00:00",
+  "generated_at": "2026-10-21T15:07:58.256039+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -814,6 +814,30 @@
   ],
   "items": [
     {
+      "title": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.",
+      "link": "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories",
+      "summary": "Moderna is one of the hottest stocks of the year because of its custom cancer treatment. Full Phase 3 data are set to be revealed this weekend.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-21T15:00:00+00:00"
+    },
+    {
+      "title": "NYSE Just Extended Options Trading Hours. It’s Only the Beginning.",
+      "link": "https://www.wsj.com/finance/stocks/nyse-just-extended-options-trading-hours-its-only-the-beginning-fe544629?mod=rss_markets_main",
+      "summary": "The New York Stock Exchange said plans to open up options trading for roughly two hours before the market’s typical 9:30 a.m. ET opening bell and then again for 15 minutes after the 4 p.m. ET closing bell.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-21T14:54:00+00:00"
+    },
+    {
+      "title": "Dollar Could Weaken Slightly in Near Term on AI Fears",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-supported-by-mild-risk-appetite-1384b72e?mod=rss_markets_main",
+      "summary": "The dollar edged higher and is seen possibly weakening slightly in the near term on AI fears.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-21T14:54:00+00:00"
+    },
+    {
       "title": "EVの補助金引き下げ 27年1月から",
       "link": "https://news.yahoo.co.jp/pickup/6599642?source=rss",
       "summary": "",
@@ -886,6 +910,14 @@
       "published": "2026-10-21T14:03:43+00:00"
     },
     {
+      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "summary": "https://patchtheplanet.org/\n\nComments URL: https://news.ycombinator.com/item?id=50181175\nPoints: 68\n# Comments: 32",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T14:03:43+00:00"
+    },
+    {
       "title": "The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck",
       "link": "https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/",
       "summary": "Article URL: https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/\nComments URL: https://news.ycombinator.com/item?id=50181137\nPoints: 33\n# Comments: 1",
@@ -942,6 +974,14 @@
       "published": "2026-10-21T13:45:33+00:00"
     },
     {
+      "title": "PHP 8.2.35",
+      "link": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "summary": "Article URL: https://github.com/php/php-src/releases/tag/php-8.2.35\nComments URL: https://news.ycombinator.com/item?id=50180873\nPoints: 350\n# Comments: 144",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T13:45:33+00:00"
+    },
+    {
       "title": "PHP2Shell: AI uncovers critical RCE in PHP",
       "link": "https://www.wiz.io/blog/php2shell-php-rce",
       "summary": "Article URL: https://www.wiz.io/blog/php2shell-php-rce\nComments URL: https://news.ycombinator.com/item?id=50180836\nPoints: 6\n# Comments: 0",
@@ -961,6 +1001,14 @@
       "title": "OpenAI: Using AI agents to uncover new leads in biological data",
       "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
       "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/\nComments URL: https://news.ycombinator.com/item?id=50180752\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T13:37:00+00:00"
+    },
+    {
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+      "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/\nComments URL: https://news.ycombinator.com/item?id=50180752\nPoints: 14\n# Comments: 0",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-21T13:37:00+00:00"
@@ -1044,6 +1092,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-21T13:17:09+00:00"
+    },
+    {
+      "title": "Show HN: Sumi.css – CSS Framework",
+      "link": "https://github.com/vladocar/Sumi.css",
+      "summary": "Article URL: https://github.com/vladocar/Sumi.css\nComments URL: https://news.ycombinator.com/item?id=50180039\nPoints: 7\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T12:50:33+00:00"
     },
     {
       "title": "Nasdaq Futures Higher After Asian AI Rally, Brent Crude Holds Close to $110",
