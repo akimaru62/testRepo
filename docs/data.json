@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T19:21:55.684465+00:00",
+  "generated_at": "2026-10-21T19:35:06.014705+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -822,6 +822,14 @@
   ],
   "items": [
     {
+      "title": "‘Super’ El Niño may soon make your coffee super expensive",
+      "link": "https://www.marketwatch.com/story/super-el-nino-risks-driving-up-the-price-of-your-caffeine-fix-bb1d58b1?mod=mw_rss_topstories",
+      "summary": "Agricultural markets around the world are already dealing with record-high diesel prices and high fertilizer costs. A “super” El Niño is almost guaranteed to make matters worse for farmers and consumers.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-21T19:24:00+00:00"
+    },
+    {
       "title": "気象庁は秋田県・子吉川（こよしがわ）の氾濫特別警報を注意報に切り替えた",
       "link": "https://www.jiji.com/jc/article?k=2026102200064&g=flash&m=rss",
       "summary": "",
@@ -838,12 +846,28 @@
       "published": "2026-10-21T19:21:50.480850+00:00"
     },
     {
+      "title": "Claude Duet",
+      "link": "https://claude.com/product/claude-duet",
+      "summary": "Article URL: https://claude.com/product/claude-duet\nComments URL: https://news.ycombinator.com/item?id=50186037\nPoints: 17\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T19:14:01+00:00"
+    },
+    {
       "title": "Gold Futures Inch Higher on Oil Price Retreat",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-amid-pressure-from-rising-crude-prices-ea4a6f71?mod=rss_markets_main",
       "summary": "Gold settled 0.2% higher, snapping a two-session losing streak, while silver fell 0.5%, down two of the past three sessions.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-21T19:06:00+00:00"
+    },
+    {
+      "title": "GitLab CVSS 10.0 Integer Overflow issue",
+      "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "summary": "Article URL: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/\nComments URL: https://news.ycombinator.com/item?id=50185869\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T19:01:12+00:00"
     },
     {
       "title": "Bessent shrugs off ‘systemic’ AI risks at closed-door investor conference",
@@ -1057,6 +1081,14 @@
       "title": "Your MCU Likely Escaped the eMudhra Intermediate CA Compromise",
       "link": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
       "summary": "Article URL: https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/\nComments URL: https://news.ycombinator.com/item?id=50183280\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T16:05:05+00:00"
+    },
+    {
+      "title": "Your MCU likely escaped the eMudhra intermediate CA compromise",
+      "link": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
+      "summary": "Article URL: https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/\nComments URL: https://news.ycombinator.com/item?id=50183280\nPoints: 39\n# Comments: 17",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-21T16:05:05+00:00"
