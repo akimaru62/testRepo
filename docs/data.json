@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T18:30:48.132393+00:00",
+  "generated_at": "2026-10-21T18:53:33.327588+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -822,6 +822,22 @@
   ],
   "items": [
     {
+      "title": "Anthropic's Public Benefit Charter",
+      "link": "https://www.anthropic.com/public-benefit-charter",
+      "summary": "Article URL: https://www.anthropic.com/public-benefit-charter\nComments URL: https://news.ycombinator.com/item?id=50185438\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T18:29:54+00:00"
+    },
+    {
+      "title": "The compiler was supposed to end programming too",
+      "link": "https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/",
+      "summary": "Article URL: https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/\nComments URL: https://news.ycombinator.com/item?id=50185045\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T18:00:51+00:00"
+    },
+    {
       "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
       "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
       "summary": "Article URL: https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html\nComments URL: https://news.ycombinator.com/item?id=50184820\nPoints: 13\n# Comments: 1",
@@ -844,6 +860,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-21T17:41:00+00:00"
+    },
+    {
+      "title": "Texas data center boom could erase decades of progress on air quality",
+      "link": "https://www.texastribune.org/2026/10/20/data-centers-texas-air-quality-report-pollution-health-risks/",
+      "summary": "Article URL: https://www.texastribune.org/2026/10/20/data-centers-texas-air-quality-report-pollution-health-risks/\nComments URL: https://news.ycombinator.com/item?id=50184712\nPoints: 15\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T17:38:55+00:00"
     },
     {
       "title": "Italy’s buffalo mozzarella production grinds to a halt in truckers’ strike",
@@ -881,6 +905,14 @@
       "title": "Ohio governor’s campaign engulfed in controversy over attack ad",
       "link": "https://www.ft.com/content/93ba5184-e21c-4af2-8121-c92df82a95f3?syn-25a6b1a6=1",
       "summary": "Biotech billionaire Vivek Ramaswamy faces backlash over video featuring opponent’s estranged mother",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-21T17:09:38+00:00"
+    },
+    {
+      "title": "Vivek Ramaswamy’s campaign engulfed in controversy over attack ad",
+      "link": "https://www.ft.com/content/93ba5184-e21c-4af2-8121-c92df82a95f3?syn-25a6b1a6=1",
+      "summary": "Biotech billionaire faces backlash over video featuring opponent’s estranged mother",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-21T17:09:38+00:00"
