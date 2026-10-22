@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T15:27:41.430284+00:00",
+  "generated_at": "2026-10-22T15:42:43.235659+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -838,6 +838,14 @@
       "published": "2026-10-22T17:00:00+00:00"
     },
     {
+      "title": "Two big reasons Micron and other chip stocks are falling on Thursday",
+      "link": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories",
+      "summary": "Investors are spooked by Tesla’s cut to its near-term spending target and Lam Research’s weaker-than-expected forecast,",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-22T15:33:00+00:00"
+    },
+    {
       "title": "セ・リーグ球団別ドラフト指名選手一覧　プロ野球",
       "link": "https://www.jiji.com/jc/article?k=2026102201233&g=spo&m=rss",
       "summary": "",
@@ -879,6 +887,14 @@
     },
     {
       "title": "Investors’ recent money moves show a preference for quality over momentum within the S&P 500",
+      "link": "https://www.marketwatch.com/story/investors-recent-money-moves-show-a-preference-for-quality-over-momentum-within-the-s-p-500-ed6b5149?mod=mw_rss_topstories",
+      "summary": "Investors have been steadily pouring money into the Invesco S&amp;P 500 Quality ETF this year.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-22T15:10:00+00:00"
+    },
+    {
+      "title": "Investors’ recent money moves show a preference for lowering risks over boosting rewards",
       "link": "https://www.marketwatch.com/story/investors-recent-money-moves-show-a-preference-for-quality-over-momentum-within-the-s-p-500-ed6b5149?mod=mw_rss_topstories",
       "summary": "Investors have been steadily pouring money into the Invesco S&amp;P 500 Quality ETF this year.",
       "source": "MarketWatch",
@@ -4212,6 +4228,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-21T13:17:09+00:00"
+    },
+    {
+      "title": "Show HN: Uberblok – an interactive museum of ZFS internals",
+      "link": "https://uberblok.storagebits.workers.dev/",
+      "summary": "I've worked for a long time in the storage field during my career and ZFS is the piece of engineering I admire most in that space. I wanted a way to pay homage to it and to explore and better understand its internals. So I built Uberblok: a museum of ZFS. A deep dive into copy-on-write, txgs, vdevs, RAID-Z, snapshots, the ARC, metaslabs, the ZIL, send/receive with explanations and animated diagrams.I'm sure people here know these internals better than I do, so corrections are very welcome.I built it with my agent swarm organization, Algotitan.I hope you'll enjoy the deep dive into Uberblok as much as I do.Museum: https://uberblok.storagebits.workers.dev\nRepo: https://github.com/algotitanhq/uberblok\n\nComments URL: https://news.ycombinator.com/item?id=50180257\nPoints: 1\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T13:04:25+00:00"
     },
     {
       "title": "OpenAI models are coming to Google Cloud",
