@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T18:48:22.194514+00:00",
+  "generated_at": "2026-10-22T19:06:11.248154+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -834,6 +834,14 @@
   ],
   "items": [
     {
+      "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+      "link": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+      "summary": "Article URL: https://github.com/maxilevi/project-hedra/tree/pre-ai\nComments URL: https://news.ycombinator.com/item?id=50199389\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T18:44:36+00:00"
+    },
+    {
       "title": "U.S. Stocks Fall as Tech Selloff Deepens",
       "link": "https://www.wsj.com/finance/investing/ai-stocks-slide-after-earnings-disappoint-french-bonds-tumble-and-oil-tops-112-734e47a7?mod=rss_markets_main",
       "summary": "U.S. stocks fell, with tech leading the losses, as another bout of jitters rippled through global markets.",
@@ -842,12 +850,44 @@
       "published": "2026-10-22T18:42:00+00:00"
     },
     {
+      "title": "Trump ordered to face BBC questioning in $10bn defamation lawsuit",
+      "link": "https://www.ft.com/content/8ada683f-9534-461d-9a3a-fc541550df16?syn-25a6b1a6=1",
+      "summary": "President must appear by December 11 after attending campaign rally on date previously set for his deposition",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-22T18:36:29+00:00"
+    },
+    {
       "title": "Silver Futures Fall to Lowest This Year as Oil Prices Fuel Inflation Risks",
       "link": "https://www.wsj.com/finance/commodities-futures/silver-futures-fall-to-lowest-this-year-as-oil-prices-fuel-inflation-risks-f013e561?mod=rss_markets_main",
       "summary": "Silver futures settled down 4.6% in New York at $54.764 a troy ounce, its lowest close since November 2025 and 52% below the record high of $115.08 reached in January.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-22T18:34:00+00:00"
+    },
+    {
+      "title": "Show HN: UI micro interactions prompts for AI",
+      "link": "https://www.typeui.sh/micro-interactions",
+      "summary": "Article URL: https://www.typeui.sh/micro-interactions\nComments URL: https://news.ycombinator.com/item?id=50199290\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T18:32:57+00:00"
+    },
+    {
+      "title": "Award-Winning AI Literature",
+      "link": "https://jamesyu.org/award-winning-ai-literature/",
+      "summary": "Article URL: https://jamesyu.org/award-winning-ai-literature/\nComments URL: https://news.ycombinator.com/item?id=50199232\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T18:28:26+00:00"
+    },
+    {
+      "title": "AI and the Enclosure of the Scientific Commons",
+      "link": "https://arxiv.org/abs/2610.27251",
+      "summary": "Article URL: https://arxiv.org/abs/2610.27251\nComments URL: https://news.ycombinator.com/item?id=50199230\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T18:28:16+00:00"
     },
     {
       "title": "Moderna’s stock tumbles after reported leak of data for cancer vaccine",
