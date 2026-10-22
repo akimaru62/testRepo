@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T17:06:31.211651+00:00",
+  "generated_at": "2026-10-22T17:23:13.745121+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -830,12 +830,44 @@
   ],
   "items": [
     {
+      "title": "自民国力研、１１月に勉強会",
+      "link": "https://www.jiji.com/jc/article?k=2026102201198&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-22T17:23:09.390932+00:00"
+    },
+    {
+      "title": "How bug bounty sharpens one researcher’s security skills",
+      "link": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
+      "summary": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers.\nThe post How bug bounty sharpens one researcher’s security skills appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "category": "開発者向け",
+      "published": "2026-10-22T17:21:30+00:00"
+    },
+    {
+      "title": "Young investors are betting on prediction markets and crypto. But this bestselling author says the boring money moves still work.",
+      "link": "https://www.marketwatch.com/story/young-investors-are-betting-on-prediction-markets-and-crypto-but-this-bestselling-author-says-the-boring-money-moves-still-work-cd9d350a?mod=mw_rss_topstories",
+      "summary": "Beth Kobliner, author of “Get a Financial Life,” explains why today’s young people face a tougher financial world and reveals the three money moves she would make first.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-22T17:21:00+00:00"
+    },
+    {
       "title": "企業会計審議会第３回サステナビリティ情報保証部会の開催について掲載しました。",
       "link": "https://www.fsa.go.jp/news/r8/singi/20261029.html",
       "summary": "",
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-22T17:00:00+00:00"
+    },
+    {
+      "title": "The public notebook of a Claude agent with a continuous life",
+      "link": "https://intenex.github.io/personhood/",
+      "summary": "Article URL: https://intenex.github.io/personhood/\nComments URL: https://news.ycombinator.com/item?id=50198056\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T16:57:56+00:00"
     },
     {
       "title": "Young Americans are giving up their cars. It’s a path to financial freedom, for some.",
