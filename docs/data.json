@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T17:48:42.545301+00:00",
+  "generated_at": "2026-10-22T18:09:49.063952+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -834,6 +834,30 @@
   ],
   "items": [
     {
+      "title": "Moderna’s stock tumbles after reported leak of data for cancer vaccine",
+      "link": "https://www.marketwatch.com/story/modernas-stock-tumbles-after-reported-leak-of-data-for-cancer-vaccine-dcc897c1?mod=mw_rss_topstories",
+      "summary": "Moderna and Merck are expected to share the Phase 3 data for their experimental cancer vaccine this weekend at a medical conference.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-22T18:03:00+00:00"
+    },
+    {
+      "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+      "link": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+      "summary": "Article URL: https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients\nComments URL: https://news.ycombinator.com/item?id=50198940\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T18:02:54+00:00"
+    },
+    {
+      "title": "Nvidia OpenShell",
+      "link": "https://github.com/NVIDIA/OpenShell",
+      "summary": "Article URL: https://github.com/NVIDIA/OpenShell\nComments URL: https://news.ycombinator.com/item?id=50198675\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T17:44:06+00:00"
+    },
+    {
       "title": "Comex Gold Settles 2.12% Lower at $4042.80",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-rising-energy-costs-fed-uncertainty-83d723e8?mod=rss_markets_main",
       "summary": "Gold settled 2.1% lower, down three of the past four sessions, and silver fell 4.6%, down for a second-consecutive session.",
@@ -869,6 +893,14 @@
       "title": "US to fund speculative energy venture backed by investors with ties to Trump",
       "link": "https://www.ft.com/content/d774c15e-22e4-4873-9a1d-92d6561290f9?syn-25a6b1a6=1",
       "summary": "Commerce department to take $175mn equity stake in nuclear fusion start-up Helion financed by brother of the president’s son-in-law",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-22T17:20:01+00:00"
+    },
+    {
+      "title": "US to fund speculative fusion venture backed by investors with ties to Trump",
+      "link": "https://www.ft.com/content/d774c15e-22e4-4873-9a1d-92d6561290f9?syn-25a6b1a6=1",
+      "summary": "Commerce department to take $175mn equity stake in start-up that is financed by brother of the president’s son-in-law",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-22T17:20:01+00:00"
