@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T14:08:03.993143+00:00",
+  "generated_at": "2026-10-22T14:27:54.026057+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -838,6 +838,70 @@
       "published": "2026-10-22T17:00:00+00:00"
     },
     {
+      "title": "アプリ入り口にサーバー脆弱性標的　ＡＩで自動化か、被害拡大懸念―ＮＩＣＴ分析・不正アクセス",
+      "link": "https://www.jiji.com/jc/article?k=2026102200674&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-22T14:27:49.160018+00:00"
+    },
+    {
+      "title": "「３１議席削減」自民が折衷案　国民理解、公・民反発―衆院議員定数",
+      "link": "https://www.jiji.com/jc/article?k=2026102200837&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-22T14:27:49.159994+00:00"
+    },
+    {
+      "title": "「シャモンダウイルス」、フランスで初のヒト感染　患者は死亡",
+      "link": "https://www.jiji.com/jc/article?k=2026102201182&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-22T14:27:49.159907+00:00"
+    },
+    {
+      "title": "U.S. Natural Gas Futures Steady Ahead of Inventory Data",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-steady-ahead-of-inventory-data-5d0fb57d?mod=rss_markets_main",
+      "summary": "U.S. natural gas futures traded little changed as the market awaited weekly inventory data from the EIA.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-22T14:16:00+00:00"
+    },
+    {
+      "title": "Fears of Middle East Escalation Keep Bid in Oil Futures",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-concerns-over-re-escalation-of-mideast-conflict-52f2208c?mod=rss_markets_main",
+      "summary": "Oil prices were sharply higher as the Houthis launched attacks against Saudi energy facilities, while the U.S. is reported to be preparing more military options against Iran.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-22T14:13:00+00:00"
+    },
+    {
+      "title": "Blackstone’s Core Businesses Hit by Rising Rates",
+      "link": "https://www.wsj.com/finance/blackstones-core-businesses-hit-by-rising-rates-9a6a39cb?mod=rss_markets_main",
+      "summary": "Proceeds from asset sales in the firm’s private-equity unit fell 49%.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-22T14:11:00+00:00"
+    },
+    {
+      "title": "三菱自 ホンダに車両供給で合意",
+      "link": "https://news.yahoo.co.jp/pickup/6599746?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-22T14:06:31+00:00"
+    },
+    {
+      "title": "Stocks Slide After Mideast Tensions Push Oil Higher",
+      "link": "https://www.wsj.com/finance/investing/ai-stocks-slide-after-earnings-disappoint-french-bonds-tumble-and-oil-tops-112-734e47a7?mod=rss_markets_main",
+      "summary": "U.S. stocks declined, with the Nasdaq composite leading losses, as another bout of jitters ripples through global markets.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-22T14:06:00+00:00"
+    },
+    {
       "title": "I’m 58 and hate annuities. How can I get dependable income in retirement?",
       "link": "https://www.marketwatch.com/story/im-58-and-hate-annuities-how-can-i-get-dependable-income-in-retirement-cd6040f4?mod=mw_rss_topstories",
       "summary": "For a person looking to make their portfolio more conservative, a TIPS ladder may achieve the same effect",
@@ -860,6 +924,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-10-22T13:50:19+00:00"
+    },
+    {
+      "title": "eMudhra to Exit Global SSL/TLS Certificate Business",
+      "link": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "summary": "Article URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business\nComments URL: https://news.ycombinator.com/item?id=50195110\nPoints: 26\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T13:33:39+00:00"
     },
     {
       "title": "Global stocks tumble as oil price tops $112",
@@ -924,6 +996,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-22T13:21:00+00:00"
+    },
+    {
+      "title": "Crystal 1.22.0 Is Released",
+      "link": "https://crystal-lang.org/2026/10/12/1.22.0-released/",
+      "summary": "Article URL: https://crystal-lang.org/2026/10/12/1.22.0-released/\nComments URL: https://news.ycombinator.com/item?id=50194938\nPoints: 14\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T13:20:13+00:00"
     },
     {
       "title": "eMudhra to Exit Global SSL/TLS Certificate Business;",
