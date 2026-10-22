@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T02:44:07.017383+00:00",
+  "generated_at": "2026-10-22T02:56:31.135998+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -838,6 +838,14 @@
       "published": "2026-10-22T02:33:05+00:00"
     },
     {
+      "title": "The recently proposed O(n log n) integer multiplication algorithm [pdf]",
+      "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+      "summary": "Article URL: https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf\nComments URL: https://news.ycombinator.com/item?id=50190455\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T02:30:52+00:00"
+    },
+    {
       "title": "｢AI都市｣構想で移転論が再燃する台北･松山空港､開港90年の歴史に刻まれた戦争とインド独立の英雄の悲劇 | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/961827?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "日本人観光客もよく利用する､台北市の松山空港をめぐる移転構想が､都市再開発とAI産業の集積地化という未来志向のビジョンと､交通･医療･国防を含む現実的な課題の狭間で大きな注目を集めています。90年を…",
@@ -1300,6 +1308,14 @@
       "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-10-21T23:00:00+00:00"
+    },
+    {
+      "title": "Postgres recovery_prefetch can cause outages",
+      "link": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
+      "summary": "Article URL: https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/\nComments URL: https://news.ycombinator.com/item?id=50188614\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T22:33:08+00:00"
     },
     {
       "title": "Qpack amplification attacks against HTTP/3 servers",
@@ -2596,6 +2612,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-21T13:43:19+00:00"
+    },
+    {
+      "title": "I reverse engineered a board game",
+      "link": "https://wuemeli.com/blog/reversing-hitster-game/",
+      "summary": "Article URL: https://wuemeli.com/blog/reversing-hitster-game/\nComments URL: https://news.ycombinator.com/item?id=50180799\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T13:40:31+00:00"
     },
     {
       "title": "「人にはできない攻撃」AIで岩井コスモに侵入か　現実化する懸念",
