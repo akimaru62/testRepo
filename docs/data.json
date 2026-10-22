@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T05:07:51.763772+00:00",
+  "generated_at": "2026-10-22T05:26:21.000796+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -822,12 +822,36 @@
   ],
   "items": [
     {
+      "title": "９月の欧州新車販売、９．３％増　８カ月連続プラス、ＥＶ７割増",
+      "link": "https://www.jiji.com/jc/article?k=2026102200560&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-22T05:26:16.383008+00:00"
+    },
+    {
+      "title": "ゲーム・映画・音楽…政府のコンテンツ産業支援司令塔、設立へ初会合",
+      "link": "https://www.asahi.com/articles/ASVBQ13CYVBQUCVL039M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-22T05:26:16.069915+00:00"
+    },
+    {
       "title": "Fortescue Warns of Output Guidance Cut If China Talks Aren’t Concluded Soon",
       "link": "https://www.wsj.com/business/fortescue-warns-of-output-guidance-cut-if-china-talks-arent-concluded-soon-3eaed714?mod=rss_markets_main",
       "summary": "Fortescue, one of the world’s biggest iron-ore miners  held guidance steady for shipments for the 12 months through June, but said the outlook hinged on securing a deal with China Mineral Resources Group.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-22T04:51:00+00:00"
+    },
+    {
+      "title": "“緊急メンテの夜”までの一部始終は？　8月にAIで「PHPの重大な脆弱性」発見→OpenAIが即応チームを招集",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/22/news053.html",
+      "summary": "10月21日夜に始まった企業の「緊急メンテナンス」。その原因である「PHPの脆弱性」を発見したのは、OpenAIのAIモデルだった。一連の出来事について時系列を追う。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-10-22T04:30:00+00:00"
     },
     {
       "title": "政府、ＰＨＰ被害報告なし　「サイト停止も有効」",
@@ -3505,6 +3529,14 @@
       "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
       "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
       "summary": "Article URL: https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/\nComments URL: https://news.ycombinator.com/item?id=50177916\nPoints: 11\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T09:08:08+00:00"
+    },
+    {
+      "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
+      "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "summary": "Article URL: https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/\nComments URL: https://news.ycombinator.com/item?id=50177916\nPoints: 864\n# Comments: 412",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-21T09:08:08+00:00"
