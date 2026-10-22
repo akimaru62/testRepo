@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T08:55:23.258465+00:00",
+  "generated_at": "2026-10-22T09:09:06.424433+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -842,12 +842,60 @@
       "published": "2026-10-22T10:00:00+00:00"
     },
     {
+      "title": "メタに過去最大4兆円制裁金　米裁判所｢利用者欺く個人情報の扱い｣",
+      "link": "https://www.asahi.com/articles/ASVBQ1VX8VBQUHBI00JM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-22T09:09:00.385883+00:00"
+    },
+    {
+      "title": "麻生コンクリートが出荷停止　計画外のセメント混合、安全性など調査",
+      "link": "https://www.asahi.com/articles/ASVBQ2HMSVBQULFA00LM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-22T09:09:00.385852+00:00"
+    },
+    {
+      "title": "A top strategist has a warning for retail investors chasing the AI rally",
+      "link": "https://www.marketwatch.com/story/top-hsbc-strategist-has-a-warning-for-retail-investors-chasing-the-ai-rally-e0318ada?mod=mw_rss_topstories",
+      "summary": "Maxx Kettner, HSBC’s chief multiasset strategist, says the investors need to understand the goal posts are constantly moving with AI investing.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-22T09:07:00+00:00"
+    },
+    {
+      "title": "Why a JPMorgan strategist says the stock market’s tailspin might have run its course",
+      "link": "https://www.marketwatch.com/story/why-a-jpmorgan-strategist-says-the-stock-markets-tailspin-might-have-run-its-course-71571335?mod=mw_rss_topstories",
+      "summary": "Hedge fund positioning has lightened considerably since its recent September peak, and JPMorgan strategists deduce from this that downside for stocks is now limited.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-22T09:04:00+00:00"
+    },
+    {
+      "title": "Football legend Peyton Manning has invested millions in real estate, including 2 Denver homes",
+      "link": "https://www.marketwatch.com/story/football-legend-peyton-manning-has-invested-millions-in-real-estate-including-2-denver-homes-2c4e355f?mod=mw_rss_topstories",
+      "summary": "NFL legend Peyton Manning has traded his days on the football field for a quieter life with his family, and has amassed an impressive real estate portfolio along the way.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-22T09:03:00+00:00"
+    },
+    {
       "title": "Why a global bank is slashing thousands of jobs — and what the Fed says about AI replacing workers",
       "link": "https://www.marketwatch.com/story/why-a-global-bank-is-slashing-thousands-of-jobs-and-what-the-fed-says-about-ai-replacing-workers-9529b6ca?mod=mw_rss_topstories",
       "summary": "Barclays on Thursday said it’s cutting 5,000 jobs, about 5% of its workforce, as the bank relies on artificial intelligence to perform back-office tasks.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-22T08:47:00+00:00"
+    },
+    {
+      "title": "Global stocks tumble as oil prices rise",
+      "link": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1",
+      "summary": "China’s CSI 300 index sheds 1.8% and Eurozone bond sell-off deepens",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-22T08:46:32+00:00"
     },
     {
       "title": "AI Stocks Slide After Earnings Disappoint; French Bonds Tumble and Oil Tops $112",
@@ -906,6 +954,14 @@
       "published": "2026-10-22T08:10:45.383031+00:00"
     },
     {
+      "title": "Show HN: The fastest browser for AI agents to run browser automation",
+      "link": "https://ego-lite.apposters.com",
+      "summary": "Article URL: https://ego-lite.apposters.com\nComments URL: https://news.ycombinator.com/item?id=50192585\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T08:09:22+00:00"
+    },
+    {
       "title": "Euro Edges Higher as Weaker Dollar Outweighs French Concerns",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-focus-on-mideast-developments-716c953b?mod=rss_markets_main",
       "summary": "The euro rose against a weaker dollar, despite higher energy prices and growing concerns about French debt and civil unrest.",
@@ -925,6 +981,14 @@
       "title": "Stock Market Today: Stocks Tumble After Mideast Tensions, Tesla Earnings",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-22-2026?mod=rss_markets_main",
       "summary": "Brent crude price climbs",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-22T07:55:42+00:00"
+    },
+    {
+      "title": "Stock Market Today: Stock Futures Tumble After Mideast Tensions Push Oil Higher",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-22-2026?mod=rss_markets_main",
+      "summary": "Tech leads losses as jitters around AI resurface",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-22T07:55:42+00:00"
