@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T22:07:26.779407+00:00",
+  "generated_at": "2026-10-22T22:23:02.786128+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -834,12 +834,44 @@
   ],
   "items": [
     {
+      "title": "折りたたみiPhone発売、36万円から　1%市場を変えられるか",
+      "link": "https://www.asahi.com/articles/ASVBQ1VKMVBQULFA00WM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-22T22:22:56.514665+00:00"
+    },
+    {
+      "title": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash",
+      "link": "https://www.marketwatch.com/story/the-u-s-stock-market-is-fracturing-into-two-camps-and-its-leaving-investors-with-a-brutal-case-of-whiplash-e8580a99?mod=mw_rss_topstories",
+      "summary": "The artificial-intelligence trade is on the ropes. CNN’s “Fear & Greed” index is screaming fear, and the yield on the 10-year Treasury note just clinched its biggest daily drop since the collapse of Silicon Valley Bank.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-22T22:17:00+00:00"
+    },
+    {
+      "title": "大成建設・鹿島 国交省が処分方針",
+      "link": "https://news.yahoo.co.jp/pickup/6599759?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-22T22:16:08+00:00"
+    },
+    {
       "title": "日本製鉄、ＵＳスチールに４７００億円　熱延設備へ投資、最大規模",
       "link": "https://www.jiji.com/jc/article?k=2026102300102&g=int&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-22T22:07:21.962536+00:00"
+    },
+    {
+      "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on.",
+      "link": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories",
+      "summary": "‘It’s a take-back trade,’ says PGIM’s Tipp. ‘Not an all-out fear of recession type of situation.’",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-22T22:07:00+00:00"
     },
     {
       "title": "韓国の港町《釜山》美食を楽しむ市場や屋台､食堂グルメなど…旅行の満足感があがる\"オススメ観光スポット14選\" | ライフ | 東洋経済オンライン",
@@ -1000,6 +1032,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-10-22T21:05:00+00:00"
+    },
+    {
+      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "link": "https://news.ycombinator.com/item?id=50200997",
+      "summary": "Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker?Couldn't OpenAI or Anthropic make a lot more money by just starting companies themselves that leverage the models and building their own products?Is selling tokens really the best strategy?Especially with commodification and prices declining wouldn't that indicate there is more money to be made on the application-side of the models rather than the utility side\n\nComments URL: https://news.ycombinator.com/item?id=50200997\nPoints: 41\n# Comments: 22",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T21:03:55+00:00"
     },
     {
       "title": "〈EVからAIへシフト〉テスラとスペースXが統合協議､空飛ぶクルマで見せた革新性と｢マスク帝国｣の今後 | ビジネス | 東洋経済オンライン",
@@ -1984,6 +2024,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-22T13:04:00+00:00"
+    },
+    {
+      "title": "Show HN: Replacing CAPTCHAs with adaptive proof-of-work in WordPress",
+      "link": "https://wordpress.org/plugins/gdpr-compliant-recaptcha-for-all-forms/",
+      "summary": "When I founded my business a whistle-blowing-service for enterprises, I’ve seeked for a working solution to block spam bots on that home page. The solution was intended to comply with EU data privacy law, no cookies, no sniffing, light-weight-size, on my webserver only, beeing invisible for my site visitors and no running costs at all.I came across Hashcash, a proof-of-work approach, to block spam. When I implemented it, it worked immediately and blocked 100 percent without blocking any incoming real posts.I was astonished, that no solution existed in the ecosystem allready that covered all forms and was for free. Therefore I‘ve turned it into a free wordpress-plugin.It is not only a technical solution, but starts with the business model of spam (mass  spamming at low cost), by producing a calculation effort for every single post, that unavoidable. And therefore is not exactly unbreakable but becomes very expensive for the spammer and therefore alows only for targeted high quality approaches that need other treatment. Up to now my own page remains spam free and users report the same.Now, running since 2022 on 4000+ active installations, it is working with almost every webform and plugin combination that is running on any wordpress instance, using pattern recognition on http-post-level instead of specific proprietary integration for single specific form builders. It ships with 80+ starting patterns for the most relevant form builders and themes, but can be enhanced with any pattern by the user.The plugin can be previewed  directly and immediately on wordpress.org. It ships with14 KB compressed under a GPL-2.0 license.I’m looking forward to discuss about the proof-of-work approach, form detection, privacy implications, and tradeoffs.\n\nComments URL: https://news.ycombinator.com/item?id=50194762\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T13:03:14+00:00"
     },
     {
       "title": "The Last Museum: Semantic search across 5.8M artworks from major museums",
