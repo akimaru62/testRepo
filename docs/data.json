@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T00:18:52.251386+00:00",
+  "generated_at": "2026-10-22T01:03:31.846700+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -822,6 +822,86 @@
   ],
   "items": [
     {
+      "title": "営業毎旬報告（10月20日現在）",
+      "link": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261020.htm",
+      "summary": "",
+      "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-10-22T01:00:00+00:00"
+    },
+    {
+      "title": "It Looks Like a Music Festival. It’s Really a Sales Pitch for Private Credit.",
+      "link": "https://www.wsj.com/finance/investing/private-credit-retail-investors-festival-c550f07b?mod=rss_markets_main",
+      "summary": "Fund managers are putting on elaborate events to court wealth advisers in hopes of reaching untapped household riches—even as some investors get spooked by risk.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-22T01:00:00+00:00"
+    },
+    {
+      "title": "Nikkei Edges Higher as Wall Street’s Gains Offset Mideast Worries",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-edges-higher-as-wall-streets-gains-offset-mideast-worries-b106f947?mod=rss_markets_main",
+      "summary": "The Nikkei Stock Average edged 0.3% higher as Wall Street’s gains overnight offset worry over a re-escalation of the Middle East conflict.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-22T00:50:00+00:00"
+    },
+    {
+      "title": "韓国発大容量カフェ なぜ日本上陸",
+      "link": "https://news.yahoo.co.jp/pickup/6599666?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-22T00:48:59+00:00"
+    },
+    {
+      "title": "This wonky maneuver kept Mark Zuckerberg from fleeing a California billionaire tax",
+      "link": "https://www.marketwatch.com/story/this-wonky-maneuver-kept-mark-zuckerberg-from-fleeing-a-california-billionaire-tax-1de34562?mod=mw_rss_topstories",
+      "summary": "Facing a potentially giant tax bill that could threaten his voting power, Zuckerberg was days away from listing his Palo Alto home when Meta agreed to create a new class of stock.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-22T00:48:00+00:00"
+    },
+    {
+      "title": "仕事探し困難「通信困窮」の実態",
+      "link": "https://news.yahoo.co.jp/pickup/6599665?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-22T00:46:20+00:00"
+    },
+    {
+      "title": "Gold Falls, Weighed by Rising Energy Costs, Fed Uncertainty",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-rising-energy-costs-fed-uncertainty-83d723e8?mod=rss_markets_main",
+      "summary": "Gold declined in early Asian trade. The precious metal was likely pressured by rising energy costs and uncertainty surrounding the Federal Reserve’s coming decision, said XS.com com.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-22T00:46:00+00:00"
+    },
+    {
+      "title": "Oil Rises Amid Concerns Over Re-Escalation of Mideast Conflict",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-concerns-over-re-escalation-of-mideast-conflict-52f2208c?mod=rss_markets_main",
+      "summary": "Oil rose in early Asian trade amid concerns over a re-escalation of the Middle East conflict, which could lead to supply disruptions in the region.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-22T00:39:00+00:00"
+    },
+    {
+      "title": "国債金利情報(令和8年10月21日)",
+      "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-22T00:30:00+00:00"
+    },
+    {
+      "title": "米メタ 7-9月期決算で26%増収",
+      "link": "https://news.yahoo.co.jp/pickup/6599663?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-22T00:28:29+00:00"
+    },
+    {
       "title": "逮捕の男、襲撃前に待ち伏せか　「３０００万円トラブル」と供述―大阪地裁前刺傷・府警",
       "link": "https://www.jiji.com/jc/article?k=2026102101042&g=soc&m=rss",
       "summary": "",
@@ -852,6 +932,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-22T00:18:46.393539+00:00"
+    },
+    {
+      "title": "When Do We Become the Person We Ought to Be?",
+      "link": "https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought",
+      "summary": "Article URL: https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought\nComments URL: https://news.ycombinator.com/item?id=50189278\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T23:57:41+00:00"
     },
     {
       "title": "mitmproxy adds --emudhra option",
@@ -3073,6 +3161,14 @@
       "title": "Tesla Earnings Today: EV-Maker's Profit Falls as Batteries Prove Barrier to Growth",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-21-2026?mod=rss_markets_main",
       "summary": "Conference call expected to touch on possible tie-up between Tesla, SpaceX",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-21T09:01:41+00:00"
+    },
+    {
+      "title": "Stock Market News, October 21, 2026: Tesla's Profit Falls as Batteries Prove Barrier to Growth",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-21-2026?mod=rss_markets_main",
+      "summary": "Musk declines further comment on possible tie-up between Tesla, SpaceX",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-21T09:01:41+00:00"
