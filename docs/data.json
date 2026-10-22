@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T23:07:15.264641+00:00",
+  "generated_at": "2026-10-22T23:23:56.895094+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -834,6 +834,46 @@
   ],
   "items": [
     {
+      "title": "米長期金利が急低下　ＡＩ不安で１カ月ぶり５％割れ",
+      "link": "https://www.jiji.com/jc/article?k=2026102300170&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-22T23:23:51.487136+00:00"
+    },
+    {
+      "title": "美容・ダイエット目的で「マンジャロ」使用、専門医がリスク懸念―処方薬不正販売",
+      "link": "https://www.jiji.com/jc/article?k=2026102200685&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-22T23:23:51.487124+00:00"
+    },
+    {
+      "title": "「核ごみ」最終処分場の操業許可　世界初、来年にも稼働―フィンランド政府",
+      "link": "https://www.jiji.com/jc/article?k=2026102300173&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-22T23:23:51.487113+00:00"
+    },
+    {
+      "title": "食料補助、受給者５００万人減　減税しわ寄せ、生活苦強まる―米",
+      "link": "https://www.jiji.com/jc/article?k=2026102200645&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-22T23:23:51.487091+00:00"
+    },
+    {
+      "title": "2秒で失った400万円　GMO系サービスで「意図しないFX取引」",
+      "link": "https://www.asahi.com/articles/ASVBQ436FVBQOXIE04LM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-22T23:23:51.191069+00:00"
+    },
+    {
       "title": "腸の｢悪玉菌｣は､健康に役立つ大切な存在だった→最新研究でわかった腸内細菌の意外な真実 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/961615?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "腸の健康は私たちの体調やメンタル､美容､そして日々のパフォーマンスまでも左右しています。従来の｢善玉菌＝善｣｢悪玉菌＝悪｣という常識は今や古く､最新研究では腸内バランスこそが健康維持のカギです。",
@@ -880,6 +920,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-22T22:22:56.514665+00:00"
+    },
+    {
+      "title": "Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
+      "link": "https://github.com/Coverage-Cat/consumer-agent-testing-tool",
+      "summary": "Hey HN, we recently open sourced our Consumer Agent Testing Tool to help teams iterate against proprietary assistants like Muse and Instinct. We built this to reduce our own frustrations with building an MCP/API for these agents to consume.The problem: testing against these tools is hard! Agent memory + account statefulness make reproducibility, in the ways required for repeatable/reliable outcomes, between agents and the APIs/MCPs they interact with very challenging.The solution: CATT lets devs test their services against a surrogate Muse or Instinct agent (not affiliated with either of these companies). Testers define starting conditions, approvals, and success conditions for their service's state. CATT then records the full interaction (incl. tool calls, responses) so it can diff what happened from what the agent reports. Runs can be tested in local builds or via CI, with or without LLM backing.CATT is designed to emulate the important parts of personal assistant interactions. Its got:- Tool calls and command-line tool access\n- Simulated approvals for service actions\n- Outcomes tracking and comparison\n- Optional MCP profile based on an unofficial Muse templateThere are limitations to how much we know about different assistant specific behaviors so the tool labels its assumptions as `documented`, `unofficial`, `assumed` or `unknown` for developer review. We'll do our best to keep the tool updated as new insights about the internal workings of these assistants come to light. It is an area of active research and interest, a good example is this recent report on how Instinct uses Exa for web search [0].Are you building a connector or MCP? If yes, we'd like to hear from you! Have you had assistants behave incoherently, use stale information, or procalim success without evidence? What else should we add tests for?The best way to get started is...to point your coding assistant at the repo and ask it to integrate the tool with your CI or local testing pipeline!Hope it's helpful![0]: https://www.sunbeam.ai/thoughts/instinct-is-using-exa-for-we...\n\nComments URL: https://news.ycombinator.com/item?id=50201860\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T22:18:40+00:00"
     },
     {
       "title": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash",
@@ -1554,6 +1602,14 @@
       "published": "2026-10-22T17:20:01+00:00"
     },
     {
+      "title": "Optimum Communications Prepares for Bankruptcy to Implement Deal",
+      "link": "https://www.wsj.com/pro/bankruptcy/optimum-communications-prepares-for-bankruptcy-to-implement-deal-fb2d868f?mod=rss_markets_main",
+      "summary": "Optimum Communications is preparing to file for chapter 11 to hand control to creditors and weather billions of dollars in approaching debt maturities, according to people with knowledge of the matter.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-22T17:06:00+00:00"
+    },
+    {
       "title": "企業会計審議会第３回サステナビリティ情報保証部会の開催について掲載しました。",
       "link": "https://www.fsa.go.jp/news/r8/singi/20261029.html",
       "summary": "",
@@ -1741,6 +1797,14 @@
       "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
       "link": "https://github.com/oosexgang/hackios-xnu-kernel",
       "summary": "Article URL: https://github.com/oosexgang/hackios-xnu-kernel\nComments URL: https://news.ycombinator.com/item?id=50196718\nPoints: 25\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T15:26:22+00:00"
+    },
+    {
+      "title": "Run full iOS 16.5 firmware on Android Devices",
+      "link": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "summary": "https://hackios-web.vercel.app/en\n\nComments URL: https://news.ycombinator.com/item?id=50196718\nPoints: 291\n# Comments: 112",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-22T15:26:22+00:00"
