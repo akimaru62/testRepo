@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T10:25:46.040700+00:00",
+  "generated_at": "2026-10-22T10:39:25.018291+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -834,6 +834,14 @@
       "published": "2026-10-22T17:00:00+00:00"
     },
     {
+      "title": "取引口座のパスワードを閲覧・不正利用の可能性　GMO系サービスで",
+      "link": "https://www.asahi.com/articles/ASVBQ3656VBQUEFT00LM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-22T10:39:19.777624+00:00"
+    },
+    {
       "title": "自民「３１議席削減」提示　衆院議員定数巡り妥協案",
       "link": "https://www.jiji.com/jc/article?k=2026102200837&g=pol&m=rss",
       "summary": "",
@@ -880,6 +888,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-22T10:17:00+00:00"
+    },
+    {
+      "title": "Europe’s bracing reality on US bond yields",
+      "link": "https://www.ft.com/content/92e1700d-7990-4c6a-bd3f-63685df2fdf6?syn-25a6b1a6=1",
+      "summary": "The region cannot just hope for a fall in borrowing costs across the Atlantic - it must tackle its own problems",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-22T10:07:31+00:00"
     },
     {
       "title": "カプコン、1177万件の情報漏洩　パスワードの不正変更196件も",
@@ -4624,6 +4640,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-21T04:29:44.677945+00:00"
+    },
+    {
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "link": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "summary": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html\nComments URL: https://news.ycombinator.com/item?id=50176082\nPoints: 99\n# Comments: 52",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T04:27:51+00:00"
     },
     {
       "title": "Major PHP Vulnerability Leaked",
