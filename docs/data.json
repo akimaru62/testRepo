@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T07:32:57.561436+00:00",
+  "generated_at": "2026-10-22T07:53:42.948244+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -822,6 +822,22 @@
   ],
   "items": [
     {
+      "title": "European Stock Indexes Fall Sharply as Oil Rises",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-edges-higher-as-wall-streets-gains-offset-mideast-worries-b106f947?mod=rss_markets_main",
+      "summary": "European stock indexes slid in opening trade as higher oil prices and another tech wobble weighed on sentiment.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-22T07:40:00+00:00"
+    },
+    {
+      "title": "王子コンテナーに公取委が勧告",
+      "link": "https://news.yahoo.co.jp/pickup/6599705?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-22T07:36:27+00:00"
+    },
+    {
       "title": "自民・武田氏「逃げずに説明を」　武部農水相を念頭に",
       "link": "https://www.jiji.com/jc/article?k=2026102200638&g=pol&m=rss",
       "summary": "",
@@ -1292,6 +1308,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-22T02:18:25+00:00"
+    },
+    {
+      "title": "Claude Now Works with Google Docs, Sheets, and Slides",
+      "link": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+      "summary": "Article URL: https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides\nComments URL: https://news.ycombinator.com/item?id=50190357\nPoints: 21\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T02:17:58+00:00"
     },
     {
       "title": "LLM Agents Play Pokemon Showdown",
