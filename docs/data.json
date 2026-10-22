@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T19:48:33.389730+00:00",
+  "generated_at": "2026-10-22T20:08:03.738431+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -834,6 +834,46 @@
   ],
   "items": [
     {
+      "title": "Meta’s Hunt for AI Capital Strikes a Raw Nerve on Wall Street",
+      "link": "https://www.wsj.com/finance/stocks/metas-hunt-for-ai-capital-strikes-a-raw-nerve-on-wall-street-e2de1601?mod=rss_markets_main",
+      "summary": "The tech-heavy Nasdaq fell 2.6%, while Treasury yields posted its biggest drop since 2023.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-22T20:04:00+00:00"
+    },
+    {
+      "title": "Nasdaq tumbles while Treasuries soar as Meta rekindles AI spending fears",
+      "link": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1",
+      "summary": "Social media group’s market value sinks by $124bn after it says it will raise ‘hundreds of billions of dollars’ in coming years",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-22T20:03:30+00:00"
+    },
+    {
+      "title": "U.S. Natural Gas Futures Edge Up After Storage Data",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-steady-ahead-of-inventory-data-5d0fb57d?mod=rss_markets_main",
+      "summary": "U.S. natural gas futures settled a little higher for the first time in five sessions as a weekly inventory report landed in line with market expectations, further shrinking the storage surplus over the five-year average.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-22T20:03:00+00:00"
+    },
+    {
+      "title": "Moderna’s cancer vaccine hits its targets, but a data leak rattles investors and the stock tumbles",
+      "link": "https://www.marketwatch.com/story/modernas-stock-tumbles-after-reported-leak-of-data-for-cancer-vaccine-dcc897c1?mod=mw_rss_topstories",
+      "summary": "A ‘sell-the-news reaction’? The experimental treatment helped prevent the return of cancer or death in melanoma patients by 42% after two years.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-22T20:02:00+00:00"
+    },
+    {
+      "title": "BMW追従を捨て｢1モデル集中｣へ――ジャガーはなぜ豊富なラインナップを全廃し｢タイプ01｣を選んだのか | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961565?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ジャガーが全ラインナップを刷新し､唯一生産に注力する新型｢タイプ01｣。大胆な方針転換の背景には､\"進む\"と\"戻る\"を繰り返す哲学と､新たなブランド再構築への決意がある。マネージングディレクターへの…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-22T20:00:00+00:00"
+    },
+    {
       "title": "Oil Futures Rise on Middle East Conflict Concerns",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-concerns-over-re-escalation-of-mideast-conflict-52f2208c?mod=rss_markets_main",
       "summary": "Oil futures rose with front-month Brent reaching a more than five-month high as Yemen’s Houthis continue attacks on Saudi targets and the market frets about reported U.S. preparations for possible renewed strikes against Iran.",
@@ -869,6 +909,14 @@
       "title": "eMudhra logins can be bruteforced",
       "link": "https://mastodon.catgirl.cloud/@49016/117475976434068995",
       "summary": "Article URL: https://mastodon.catgirl.cloud/@49016/117475976434068995\nComments URL: https://news.ycombinator.com/item?id=50199757\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T19:14:01+00:00"
+    },
+    {
+      "title": "A complete bypass of eMudhra’s 1FA OTP login system",
+      "link": "https://mastodon.catgirl.cloud/@49016/117475976434068995",
+      "summary": "Article URL: https://mastodon.catgirl.cloud/@49016/117475976434068995\nComments URL: https://news.ycombinator.com/item?id=50199757\nPoints: 56\n# Comments: 10",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-22T19:14:01+00:00"
@@ -965,6 +1013,14 @@
       "title": "Nvidia OpenShell",
       "link": "https://github.com/NVIDIA/OpenShell",
       "summary": "Article URL: https://github.com/NVIDIA/OpenShell\nComments URL: https://news.ycombinator.com/item?id=50198675\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T17:44:06+00:00"
+    },
+    {
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "link": "https://github.com/NVIDIA/OpenShell",
+      "summary": "Article URL: https://github.com/NVIDIA/OpenShell\nComments URL: https://news.ycombinator.com/item?id=50198675\nPoints: 121\n# Comments: 58",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-22T17:44:06+00:00"
@@ -1325,6 +1381,14 @@
       "title": "What's Getting Pwned",
       "link": "https://pwn.watch/",
       "summary": "Article URL: https://pwn.watch/\nComments URL: https://news.ycombinator.com/item?id=50195543\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T14:08:12+00:00"
+    },
+    {
+      "title": "What’s getting pwned right now",
+      "link": "https://pwn.watch/",
+      "summary": "Article URL: https://pwn.watch/\nComments URL: https://news.ycombinator.com/item?id=50195543\nPoints: 274\n# Comments: 132",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-22T14:08:12+00:00"
@@ -1800,6 +1864,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-22T10:17:00+00:00"
+    },
+    {
+      "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+      "link": "https://news.ycombinator.com/item?id=50193416",
+      "summary": "I posted here about the then-upcoming PHP RCEs related to CVE-2026-109618 & CVE-2026-109619. I appreciate this has had considerable knock-on effects with the schedule for co-ordinated disclosure, and created additional workload.I am truly sorry. I take full responsibility for my actions.It was not remotely my intention to cause any of the subsequent side effects.At the time of posting, I didn't know about any embargo. My contact had told me there was no embargo, and her contact had told her the same thing.As someone who follows the 4-weekly PHP release cycle and compiles it from source, my intention was to alert others in a similar position to be aware of the importance/urgency of the updates.That clearly backfired in a pretty wild fashion. I have learned my lesson.\n\nComments URL: https://news.ycombinator.com/item?id=50193416\nPoints: 115\n# Comments: 22",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T10:11:44+00:00"
     },
     {
       "title": "Europe’s bracing reality on US bond yields",
