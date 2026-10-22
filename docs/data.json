@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T10:39:25.018291+00:00",
+  "generated_at": "2026-10-22T10:50:54.034898+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -822,6 +822,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f9db59ee270>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7efe99ab2270>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -834,12 +838,44 @@
       "published": "2026-10-22T17:00:00+00:00"
     },
     {
+      "title": "巨人、織田を１位で強行指名　菰田は日本ハム、鈴木ソフトバンク―プロ野球・ドラフト会議",
+      "link": "https://www.jiji.com/jc/article?k=2026102200824&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-22T10:50:48.233669+00:00"
+    },
+    {
+      "title": "French Government-Bond Yields Jump, Spread Widens as Treasury Yields Fall",
+      "link": "https://www.wsj.com/finance/investing/french-government-bond-yields-rise-spread-widens-as-treasury-yields-fall-e67fc4cd?mod=rss_markets_main",
+      "summary": "Yields on French government bonds rose sharply just as those of their U.S. and German peers fell, taking the spread between 10-year French and German yields to its widest since 2011.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-22T10:48:00+00:00"
+    },
+    {
+      "title": "関東でスガキヤ行列 愛知県民驚き",
+      "link": "https://news.yahoo.co.jp/pickup/6599726?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-22T10:44:31+00:00"
+    },
+    {
       "title": "取引口座のパスワードを閲覧・不正利用の可能性　GMO系サービスで",
       "link": "https://www.asahi.com/articles/ASVBQ3656VBQUEFT00LM.html?ref=rss",
       "summary": "",
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-22T10:39:19.777624+00:00"
+    },
+    {
+      "title": "Sports Investing Is for Millionaires Now, not Billionaires",
+      "link": "https://www.wsj.com/finance/investing/sports-investing-is-for-millionaires-now-not-billionaires-aa16332b?mod=rss_markets_main",
+      "summary": "Plus, oil’s up and everything else is down.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-22T10:38:00+00:00"
     },
     {
       "title": "自民「３１議席削減」提示　衆院議員定数巡り妥協案",
