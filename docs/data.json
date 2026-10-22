@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T20:49:15.197556+00:00",
+  "generated_at": "2026-10-22T21:07:43.975348+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -834,12 +834,84 @@
   ],
   "items": [
     {
+      "title": "【まとめてわかる】｢暴走｣続くAI　危険な存在になりつつあるの？",
+      "link": "https://www.asahi.com/articles/ASVBQ22S8VBQUHBI01YM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-22T21:07:38.622863+00:00"
+    },
+    {
+      "title": "大成建設・鹿島の土木民間工事を営業停止へ　リニア談合で国交省方針",
+      "link": "https://www.asahi.com/articles/ASVBQ2W6JVBQULFA01CM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-22T21:07:38.622827+00:00"
+    },
+    {
+      "title": "〈EVからAIへシフト〉テスラとスペースXが統合協議､空飛ぶクルマで見せた革新性と｢マスク帝国｣の今後 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962131?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "革新的な技術で世界を驚かせ続けるイーロン･マスク氏。テスラがEV販売からサービス事業へと舵を切る中､スペースXとの統合協議を表明。先端半導体工場｢テラファブ｣に1000億ドル投資を計画するなど､AI…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-22T21:00:00+00:00"
+    },
+    {
+      "title": "シリコンバレーの話題の主役｢AIエージェントスタートアップ｣に立ちはだかる\"門番\"と\"信頼\"の壁 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962096?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "AIエージェントの急速な進化が､シリコンバレーをはじめ世界を席巻しています。日常業務の代行や生活の最適化を担う新世代AIは､既存のビジネスモデルにどんなインパクトをもたらすのでしょうか？信頼や使いや…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-22T21:00:00+00:00"
+    },
+    {
+      "title": "｢崖上で水害の心配なし｣｢坂だらけで23区内なのに車必須？｣…世田谷区にある｢代々のお金持ちがひっそり住む街｣の実態 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961879?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "東京23区で唯一､自然渓谷が残る等々力。閑静な高級住宅街と豊かな緑､そして古墳や史跡が同居する街の美しさと魅力の裏側には､独特の地形や歴史､都市計画の工夫がありました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-22T21:00:00+00:00"
+    },
+    {
+      "title": "中国が新エネ車の輸出優遇を縮小　増値税還付率を9％へ引き下げ､欧米との貿易摩擦に配慮か | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961562?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "中国政府が新エネルギー車の輸出還付税率を13%から9%へ引き下げると発表しました。爆発的な新エネ車輸出増加の裏で､海外との貿易摩擦など悪影響が顕在化。中国の次なる一手は何か､注目が集まります。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-22T21:00:00+00:00"
+    },
+    {
       "title": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze",
       "link": "https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982?mod=mw_rss_topstories",
       "summary": "Wall Street may be starting to price in the scenario everyone fears: a full-scale regional conflict that could further choke off global energy supplies and unleash a fresh wave of turmoil across financial markets.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-22T20:46:00+00:00"
+    },
+    {
+      "title": "客が来すぎて利益が出ない､サイゼリヤを｢本格値上げ｣に追い込んだ強みの自前工場の限界 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962063?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "長年低価格路線を貫いてきたサイゼリヤが､値上げに踏み切りました。背景には原価上昇や供給力の限界といった厳しい経営課題が。今後も｢安さ｣を守り続けることはできるのか､その真相に迫ります。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-22T20:45:00+00:00"
+    },
+    {
+      "title": "簗農水相の更迭で見えた｢近き憂い｣､目先の課題に追われる高市政権が磨くべき｢ポスト･トランプ｣の先読み力 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962010?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "簗和生農林水産相の更迭をめぐり､高市早苗首相の判断の遅さが露呈しました。米中対立が先鋭化する中､日本はミドルパワー諸国と連携し､｢ポスト･トランプ｣を見据えた外交を描けるのか。首相の｢先読み力｣が問…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-22T20:45:00+00:00"
+    },
+    {
+      "title": "駅チカ･谷底の｢廃墟集落｣が秘密基地みたいな新名所に《成田山表参道近く》自己資金を投じ､10年以上かけた街づくり | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962006?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "千葉県成田市､成田山表参道の近くにひっそりと存在していた廃墟集落が｢浪漫ヴィレッジ成田｣として蘇りました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-22T20:45:00+00:00"
     },
     {
       "title": "AWS Continuum for code vulnerabilities is now generally available",
