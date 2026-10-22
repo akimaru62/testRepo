@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T18:09:49.063952+00:00",
+  "generated_at": "2026-10-22T18:30:02.198870+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -850,6 +850,14 @@
       "published": "2026-10-22T18:02:54+00:00"
     },
     {
+      "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
+      "link": "https://github.com/rbartoli/agent-usage-guard",
+      "summary": "Article URL: https://github.com/rbartoli/agent-usage-guard\nComments URL: https://news.ycombinator.com/item?id=50198936\nPoints: 7\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T18:02:38+00:00"
+    },
+    {
       "title": "Nvidia OpenShell",
       "link": "https://github.com/NVIDIA/OpenShell",
       "summary": "Article URL: https://github.com/NVIDIA/OpenShell\nComments URL: https://news.ycombinator.com/item?id=50198675\nPoints: 5\n# Comments: 1",
@@ -992,6 +1000,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-22T16:18:00+00:00"
+    },
+    {
+      "title": "Mini brain organoids 'reading' Braille key step towards biohybrid computing",
+      "link": "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence",
+      "summary": "Article URL: https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence\nComments URL: https://news.ycombinator.com/item?id=50197450\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T16:16:45+00:00"
     },
     {
       "title": "Getting ready to operate GNU Taler in Germany",
