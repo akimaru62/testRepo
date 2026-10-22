@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T20:38:14.238067+00:00",
+  "generated_at": "2026-10-22T20:49:15.197556+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -834,6 +834,14 @@
   ],
   "items": [
     {
+      "title": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze",
+      "link": "https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982?mod=mw_rss_topstories",
+      "summary": "Wall Street may be starting to price in the scenario everyone fears: a full-scale regional conflict that could further choke off global energy supplies and unleash a fresh wave of turmoil across financial markets.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-22T20:46:00+00:00"
+    },
+    {
       "title": "AWS Continuum for code vulnerabilities is now generally available",
       "link": "https://aws.amazon.com/blogs/aws/aws-continuum-for-code-vulnerabilities-is-now-generally-available/",
       "summary": "AWS Continuum for code vulnerabilities is a new security service that uses AI to automatically find, validate, and prioritize code vulnerabilities in your environment, then delivers ready-to-review fixes as pull requests replacing what previously took hours of manual investigation and days of cross-team coordination.",
@@ -920,6 +928,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-22T20:14:00+00:00"
+    },
+    {
+      "title": "Airfares will not return to pre-Iran war levels, American Airlines warns",
+      "link": "https://www.ft.com/content/d114ce00-f30d-41c6-ac03-71209aa62ee2?syn-25a6b1a6=1",
+      "summary": "Some industry chiefs say travellers should expect a further rise in ticket prices next year",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-22T20:08:50+00:00"
     },
     {
       "title": "Meta’s Hunt for AI Capital Strikes a Raw Nerve on Wall Street",
@@ -1261,6 +1277,14 @@
       "title": "Mini brain organoids 'reading' Braille key step towards biohybrid computing",
       "link": "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence",
       "summary": "Article URL: https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence\nComments URL: https://news.ycombinator.com/item?id=50197450\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T16:16:45+00:00"
+    },
+    {
+      "title": "Mini brain organoids ‘reading’ Braille key step towards biohybrid computing",
+      "link": "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence",
+      "summary": "Article URL: https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence\nComments URL: https://news.ycombinator.com/item?id=50197450\nPoints: 23\n# Comments: 13",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-22T16:16:45+00:00"
