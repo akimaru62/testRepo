@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T08:34:39.113304+00:00",
+  "generated_at": "2026-10-22T08:55:23.258465+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -818,6 +818,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f9db59ee270>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -836,6 +840,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-22T10:00:00+00:00"
+    },
+    {
+      "title": "Why a global bank is slashing thousands of jobs — and what the Fed says about AI replacing workers",
+      "link": "https://www.marketwatch.com/story/why-a-global-bank-is-slashing-thousands-of-jobs-and-what-the-fed-says-about-ai-replacing-workers-9529b6ca?mod=mw_rss_topstories",
+      "summary": "Barclays on Thursday said it’s cutting 5,000 jobs, about 5% of its workforce, as the bank relies on artificial intelligence to perform back-office tasks.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-22T08:47:00+00:00"
+    },
+    {
+      "title": "AI Stocks Slide After Earnings Disappoint; French Bonds Tumble and Oil Tops $112",
+      "link": "https://www.wsj.com/finance/investing/ai-stocks-slide-after-earnings-disappoint-french-bonds-tumble-and-oil-tops-112-734e47a7?mod=rss_markets_main",
+      "summary": "AI stocks faltered globally and investors turned to the safety of Treasurys, as a renewed selloff in French government bonds and a fresh run-up in oil prices strained markets.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-22T08:34:00+00:00"
     },
     {
       "title": "Gold Falls as Energy Prices Raise Inflation Concerns",
