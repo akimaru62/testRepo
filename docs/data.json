@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T06:12:51.718212+00:00",
+  "generated_at": "2026-10-22T06:43:51.972632+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -822,6 +822,46 @@
   ],
   "items": [
     {
+      "title": "段ボールの「印版」を下請け業者に無償保管させる　公取委が違反認定",
+      "link": "https://www.asahi.com/articles/ASVBQ0320VBQUTIL01XM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-22T06:43:46.799402+00:00"
+    },
+    {
+      "title": "相次ぐ通信の情報流出、規制強化へ議論　総務省、AI高度化で検討会",
+      "link": "https://www.asahi.com/articles/ASVBQ20W4VBQULFA01BM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-22T06:43:46.799373+00:00"
+    },
+    {
+      "title": "Oil Rises, Asian Stocks Fall as Middle East Tensions Mount",
+      "link": "https://www.wsj.com/finance/stocks/oil-rises-as-geopolitics-back-in-focus-after-ai-jitters-ease-f21d9983?mod=rss_markets_main",
+      "summary": "Oil rose and Asian equities were lower as the spotlight returned to Middle East geopolitical developments after artificial-intelligence jitters eased.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-22T06:30:00+00:00"
+    },
+    {
+      "title": "U.S. Treasury Likely to Keep Auction Sizes at Refunding Announcement",
+      "link": "https://www.wsj.com/finance/jgb-yield-curve-flattens-amid-continued-ai-related-credit-concerns-4613a92a?mod=rss_markets_main",
+      "summary": "The Treasury is expected to keep auction sizes unchanged at the upcoming quarterly refunding announcement, but make its guidance less restrictive, Barclays said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-22T06:23:00+00:00"
+    },
+    {
+      "title": "Russian missiles bombard Kyiv after Witkoff-Putin talks",
+      "link": "https://www.ft.com/content/9f0c58d3-1833-40de-b805-f5ac53f05ff0",
+      "summary": "Donald Trump’s envoy met Volodymyr Zelenskyy in Oslo before heading to St Petersburg in diplomatic push",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-22T06:15:35+00:00"
+    },
+    {
       "title": "運河にサメ「北港ちゃん」　釜山に１６０万人殺到―韓国",
       "link": "https://www.jiji.com/jc/article?k=2026102200624&g=int&m=rss",
       "summary": "",
@@ -860,6 +900,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-22T05:26:16.069915+00:00"
+    },
+    {
+      "title": "OpenAI CLI",
+      "link": "https://github.com/openai/openai-cli",
+      "summary": "Article URL: https://github.com/openai/openai-cli\nComments URL: https://news.ycombinator.com/item?id=50191507\nPoints: 22\n# Comments: 8",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T05:23:11+00:00"
     },
     {
       "title": "Fortescue Warns of Output Guidance Cut If China Talks Aren’t Concluded Soon",
@@ -905,6 +953,14 @@
       "title": "Armies of lawyers prepare to stop interference in US midterms",
       "link": "https://www.ft.com/content/9cabd687-ea06-41f4-93ac-f5e16a54ccb6?syn-25a6b1a6=1",
       "summary": "Hundreds of attorneys to work with election integrity groups owing to fears of meddling in next month’s vote",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-22T04:00:21+00:00"
+    },
+    {
+      "title": "Ukraine to buy military supplies via Nato agency",
+      "link": "https://www.ft.com/content/991ac37c-289b-40e5-b2e6-220ee2aebe5d?syn-25a6b1a6=1",
+      "summary": "Agreement could allow Kyiv to speed up delivery of ammunition and weapons at lower cost",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-22T04:00:21+00:00"
@@ -956,6 +1012,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-22T03:47:37+00:00"
+    },
+    {
+      "title": "PHPに深刻な脆弱性、米NSAやFBIが組織へ直ちに対策要請　サイト遮断の勧告も",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/22/news060.html",
+      "summary": "【ワシントン＝杉本康士】Webサイトの開発などに使われるプログラミング言語「PHP」にシステム上の欠陥が見つかった問題で、米国家安全保障局（NSA）は10月21日、PHPを使用する全ての組織に直ちに対策を講じるよう求める声明を発表した。即座に対応しなければ、サーバーのファイルシステムやデータベースに不正アクセスされる恐れも指摘した。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-10-22T03:45:00+00:00"
     },
     {
       "title": "流動性供給(第463回)入札結果",
