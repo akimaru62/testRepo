@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T01:03:31.846700+00:00",
+  "generated_at": "2026-10-22T01:32:54.353138+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -822,6 +822,46 @@
   ],
   "items": [
     {
+      "title": "台風３０号、あす先島諸島接近　暴風高波大雨に厳重警戒―気象庁",
+      "link": "https://www.jiji.com/jc/article?k=2026102200228&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-22T01:32:47.965341+00:00"
+    },
+    {
+      "title": "流動性供給(第463回)入札",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20261022.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-22T01:30:00+00:00"
+    },
+    {
+      "title": "2年利付国債（11月債）の発行予定額等（令和8年10月22日公表）",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20261022.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-22T01:30:00+00:00"
+    },
+    {
+      "title": "国庫短期証券（第1416回）の発行予定額等",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20261022.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-22T01:20:00+00:00"
+    },
+    {
+      "title": "Asian Currencies Consolidate Amid Focus on Mideast Developments",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-focus-on-mideast-developments-716c953b?mod=rss_markets_main",
+      "summary": "Asian currencies consolidated against the dollar amid a focus on Middle East developments.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-22T01:16:00+00:00"
+    },
+    {
       "title": "営業毎旬報告（10月20日現在）",
       "link": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261020.htm",
       "summary": "",
@@ -902,6 +942,14 @@
       "published": "2026-10-22T00:28:29+00:00"
     },
     {
+      "title": "「皿になるフライパン」の開発秘話　燕三条の老舗メーカーに聞く“当たり前”を取り払った商品の生み出し方は？",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/22/news003.html",
+      "summary": "皿とフライパンが一体となった「Hetta!」をヒットさせた和平フレイズ。こうしたアイデアは、どのように生まれ、形になっているのか……？",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-10-22T00:20:00+00:00"
+    },
+    {
       "title": "逮捕の男、襲撃前に待ち伏せか　「３０００万円トラブル」と供述―大阪地裁前刺傷・府警",
       "link": "https://www.jiji.com/jc/article?k=2026102101042&g=soc&m=rss",
       "summary": "",
@@ -956,6 +1004,14 @@
       "source": "日本銀行",
       "category": "公的機関",
       "published": "2026-10-21T23:50:00+00:00"
+    },
+    {
+      "title": "Show HN: I built a Markdown and raw HTML blog platform scoring 99 on PageSpeed",
+      "link": "https://bloffy.co/en",
+      "summary": "Hello. I built a blogging platform on my own over two years.I like running my blog, but I couldn't find a blogging platform I really liked.First. I thought a blog had to be really lightweight.\nFortunately, after a lot of effort, I was able to achieve satisfactory results. (99 to 100 score)Here is a sample blog: https://bloffy.bloffy.blog/enYou can check it with PageSpeed Insights: https://pagespeed.web.dev/analysis?url=https://bloffy.bloffy...SEO score of the sample blog is low because I blocked it from search engine indexing (noindex).Second. I think bloggers should have control over their own blog. The blogging platforms I used had several problems.Unnecessary JavaScript chunks. Ads that the platform inserted into my blog, not my own ads. Cannot manage multiple blogs. An editor that makes it hard to write semantic markup. Limited customization options. I was dissatisfied with the difficulty of placing my own ads.And to solve this, I spent quite a long time researching and developing it on my own, and finally created it. I'm glad to share this launch with HN. I would appreciate any criticism, feedback, and interest.\n\nComments URL: https://news.ycombinator.com/item?id=50189175\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-21T23:41:35+00:00"
     },
     {
       "title": "Airbnb bans making guests do dishes and take out the trash",
