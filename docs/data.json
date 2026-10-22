@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T16:30:24.535889+00:00",
+  "generated_at": "2026-10-22T16:50:43.179298+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -838,12 +838,60 @@
       "published": "2026-10-22T17:00:00+00:00"
     },
     {
+      "title": "Tech Selloff Deepens as Flight Into Treasurys Drives Yields Lower",
+      "link": "https://www.wsj.com/finance/investing/ai-stocks-slide-after-earnings-disappoint-french-bonds-tumble-and-oil-tops-112-734e47a7?mod=rss_markets_main",
+      "summary": "U.S. stocks continued to decline, with the Nasdaq composite leading losses, as another bout of jitters ripples through global markets.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-22T16:37:00+00:00"
+    },
+    {
+      "title": "‘AI is on trial’: Bond yields sink below 5% as investors look for safety",
+      "link": "https://www.marketwatch.com/story/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-for-safety-dbc86ee9?mod=mw_rss_topstories",
+      "summary": "Investors are flooding back into Treasurys for safety to hedge the risks of more AI fallout in stock and credit markets.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-22T16:35:00+00:00"
+    },
+    {
+      "title": "U.S. 10-Year Treasury Yield Falls Under 5% as French Turmoil Fuels Flight for Safety",
+      "link": "https://www.wsj.com/finance/investing/french-government-bond-yields-rise-spread-widens-as-treasury-yields-fall-e67fc4cd?mod=rss_markets_main",
+      "summary": "The 10-year U.S. Treasury yield declined as a global bond selloff gave way to a flight for safety.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-22T16:33:00+00:00"
+    },
+    {
+      "title": "Arc Is Sunsetting",
+      "link": "https://arc.net/",
+      "summary": "Article URL: https://arc.net/\nComments URL: https://news.ycombinator.com/item?id=50197601\nPoints: 13\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T16:27:47+00:00"
+    },
+    {
+      "title": "Where Wealth Is Moving in America",
+      "link": "https://thestatedtruth.com/?p=28732",
+      "summary": "Article URL: https://thestatedtruth.com/?p=28732\nComments URL: https://news.ycombinator.com/item?id=50197533\nPoints: 27\n# Comments: 29",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T16:22:31+00:00"
+    },
+    {
       "title": "Silver Futures on Track for Lowest Close of the Year",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-rising-energy-costs-fed-uncertainty-83d723e8?mod=rss_markets_main",
       "summary": "Silver futures fell and were on track for their lowest settlement since November 2025.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-22T16:18:00+00:00"
+    },
+    {
+      "title": "Getting ready to operate GNU Taler in Germany",
+      "link": "https://www.taler.net/en/news/2026-13.html",
+      "summary": "Article URL: https://www.taler.net/en/news/2026-13.html\nComments URL: https://news.ycombinator.com/item?id=50197404\nPoints: 9\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T16:14:31+00:00"
     },
     {
       "title": "Two big reasons Micron and other chip stocks are falling on Thursday",
@@ -1094,6 +1142,14 @@
       "published": "2026-10-22T13:33:39+00:00"
     },
     {
+      "title": "eMudhra to exit global SSL/TLS certificate business",
+      "link": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "summary": "Article URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business\nComments URL: https://news.ycombinator.com/item?id=50195110\nPoints: 497\n# Comments: 389",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T13:33:39+00:00"
+    },
+    {
       "title": "Global stocks tumble as oil price tops $112",
       "link": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1",
       "summary": "Brent crude jumps 3.3% while Eurozone bond sell-off deepens",
@@ -1169,6 +1225,14 @@
       "title": "Crystal 1.22.0",
       "link": "https://crystal-lang.org/2026/10/12/1.22.0-released/",
       "summary": "Article URL: https://crystal-lang.org/2026/10/12/1.22.0-released/\nComments URL: https://news.ycombinator.com/item?id=50194938\nPoints: 83\n# Comments: 38",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T13:20:13+00:00"
+    },
+    {
+      "title": "Crystal 1.22",
+      "link": "https://crystal-lang.org/2026/10/12/1.22.0-released/",
+      "summary": "Article URL: https://crystal-lang.org/2026/10/12/1.22.0-released/\nComments URL: https://news.ycombinator.com/item?id=50194938\nPoints: 113\n# Comments: 55",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-22T13:20:13+00:00"
