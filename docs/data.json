@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T09:09:06.424433+00:00",
+  "generated_at": "2026-10-22T09:29:05.121614+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -842,6 +842,46 @@
       "published": "2026-10-22T10:00:00+00:00"
     },
     {
+      "title": "巨人、織田を１位で強行指名　菰田は日本ハム、鈴木はソフトバンク―プロ野球・ドラフト会議",
+      "link": "https://www.jiji.com/jc/article?k=2026102200824&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-22T09:29:01.124758+00:00"
+    },
+    {
+      "title": "みらい、法案賛否の議論公開　党内会議、ユーチューブで",
+      "link": "https://www.jiji.com/jc/article?k=2026102200812&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-22T09:29:01.124748+00:00"
+    },
+    {
+      "title": "米球界挑戦を表明している横浜高校の織田翔希（おだ・しょうき）投手を巨人が１位指名した",
+      "link": "https://www.jiji.com/jc/article?k=2026102200842&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-22T09:29:01.124726+00:00"
+    },
+    {
+      "title": "中堅2社との関係強めるANA　航空業界再編のターニングポイントか",
+      "link": "https://www.asahi.com/articles/ASVBQ23Z6VBQULFA02WM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-22T09:29:00.693184+00:00"
+    },
+    {
+      "title": "ANA、エア・ドゥとソラシドに追加出資へ　連結子会社化を目指す",
+      "link": "https://www.asahi.com/articles/ASVBQ22R8VBQULFA002M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-22T09:29:00.693155+00:00"
+    },
+    {
       "title": "メタに過去最大4兆円制裁金　米裁判所｢利用者欺く個人情報の扱い｣",
       "link": "https://www.asahi.com/articles/ASVBQ1VX8VBQUHBI00JM.html?ref=rss",
       "summary": "",
@@ -880,6 +920,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-22T09:03:00+00:00"
+    },
+    {
+      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+      "link": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+      "summary": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-111943\nComments URL: https://news.ycombinator.com/item?id=50192900\nPoints: 17\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T08:51:31+00:00"
     },
     {
       "title": "Why a global bank is slashing thousands of jobs — and what the Fed says about AI replacing workers",
