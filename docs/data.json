@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T17:23:13.745121+00:00",
+  "generated_at": "2026-10-22T17:36:45.142426+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -826,6 +826,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7efe99ab2270>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "502 Server Error: Bad Gateway for url: https://hnrss.org/frontpage"
     }
   ],
   "items": [
