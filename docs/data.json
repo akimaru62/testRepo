@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T17:06:22.298455+00:00",
+  "generated_at": "2026-10-23T17:23:45.882936+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -846,6 +846,14 @@
       "published": "2026-10-23T19:10:00+00:00"
     },
     {
+      "title": "Time Nuts",
+      "link": "http://leapsecond.com/time-nuts.htm",
+      "summary": "Article URL: http://leapsecond.com/time-nuts.htm\nComments URL: https://news.ycombinator.com/item?id=50212281\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-23T17:12:51+00:00"
+    },
+    {
       "title": "採用,職員を募集しています。（金融モニタリング業務(市場リスク管理及び流動性リスク管理)に従事する職員）",
       "link": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-10/ginnsyou-10.html",
       "summary": "",
@@ -878,12 +886,36 @@
       "published": "2026-10-23T17:00:00+00:00"
     },
     {
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "link": "https://www.kimi.com/code/docs/en/kimi-code/models.html",
+      "summary": "Article URL: https://www.kimi.com/code/docs/en/kimi-code/models.html\nComments URL: https://news.ycombinator.com/item?id=50212065\nPoints: 86\n# Comments: 21",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-23T16:59:08+00:00"
+    },
+    {
       "title": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
       "link": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
       "summary": "Store aisles are getting a digital makeover.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-23T16:41:00+00:00"
+    },
+    {
+      "title": "The Missed Opportunities of Sonic 06",
+      "link": "https://isaacmarovitz.com/posts/sonic-06/",
+      "summary": "Article URL: https://isaacmarovitz.com/posts/sonic-06/\nComments URL: https://news.ycombinator.com/item?id=50211729\nPoints: 11\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-23T16:38:35+00:00"
+    },
+    {
+      "title": "How Is Music Possible",
+      "link": "https://www.henrikkarlsson.xyz/p/music",
+      "summary": "Article URL: https://www.henrikkarlsson.xyz/p/music\nComments URL: https://news.ycombinator.com/item?id=50211719\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-23T16:38:17+00:00"
     },
     {
       "title": "eMudhra Login Bypass",
@@ -1609,6 +1641,14 @@
       "title": "Job Loss and Cortisone Mania",
       "link": "https://tilschuenemann.de/job-loss-cortisone-mania",
       "summary": "Article URL: https://tilschuenemann.de/job-loss-cortisone-mania\nComments URL: https://news.ycombinator.com/item?id=50206840\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-23T10:31:24+00:00"
+    },
+    {
+      "title": "Job loss and cortisone mania",
+      "link": "https://tilschuenemann.de/job-loss-cortisone-mania",
+      "summary": "Article URL: https://tilschuenemann.de/job-loss-cortisone-mania\nComments URL: https://news.ycombinator.com/item?id=50206840\nPoints: 108\n# Comments: 44",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-23T10:31:24+00:00"
@@ -3030,6 +3070,14 @@
       "published": "2026-10-22T23:56:36+00:00"
     },
     {
+      "title": "Show HN: Impossible Machines: declaratively program the physical world",
+      "link": "https://www.impossiblemachines.xyz",
+      "summary": "Hey all —Sharing a thought experiment I put together. The premise: what might declarative programming feel like for the physical world?We’re already familiar with this paradigm in software land (eg SQL etc where we declare what we want and the execution engine figures out how).I didn’t have access to an actuator so I mocked up the concept in software. The way it works is you demonstrate the effect and the system figures out how to achieve it. So say you want to ring a bell and you have a crank. The system will find a way to connect the two. If you add obstacles it figures out how to work around them (runs a constraint solver runs behind the scenes).I think what’s interesting about this is being able to think about the problem at a higher level of abstraction, with the system figuring out a way to achieve the intended effect.Anyways, curious to read reactions, feedback, and interesting ideas on how to extend this!\n\nComments URL: https://news.ycombinator.com/item?id=50202746\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T23:54:28+00:00"
+    },
+    {
       "title": "Docker Is Weird",
       "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
       "summary": "Article URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird\nComments URL: https://news.ycombinator.com/item?id=50202681\nPoints: 37\n# Comments: 16",
@@ -3164,6 +3212,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-10-22T22:45:00+00:00"
+    },
+    {
+      "title": "Canadians are running out of time to oppose Bill C-22",
+      "link": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill\nComments URL: https://news.ycombinator.com/item?id=50202114\nPoints: 31\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T22:43:19+00:00"
     },
     {
       "title": "ANAが追加出資検討 中堅航空2社",
