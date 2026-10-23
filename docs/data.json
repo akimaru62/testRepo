@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T18:09:19.957484+00:00",
+  "generated_at": "2026-10-23T18:31:14.808727+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -846,6 +846,38 @@
       "published": "2026-10-23T19:10:00+00:00"
     },
     {
+      "title": "アイゼンハワーゆかりの地球儀破損、ヘグセス国防長官が専門職員使わず",
+      "link": "https://www.jiji.com/jc/article?k=20261023049497a&g=afp&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-23T18:31:09.561273+00:00"
+    },
+    {
+      "title": "Can Nvidia’s stock become a safe haven as Wall Street rethinks the AI trade?",
+      "link": "https://www.marketwatch.com/story/can-nvidias-stock-become-a-safe-haven-as-wall-street-rethinks-the-ai-trade-64862936?mod=mw_rss_topstories",
+      "summary": "Investors favored flashier AI plays earlier this year, but some analysts say Nvidia’s dependability could now hold more appeal.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-23T18:19:00+00:00"
+    },
+    {
+      "title": "Zuckerberg’s deal to stay in California cheered by wealth tax campaign",
+      "link": "https://www.ft.com/content/859676ae-5fa4-489a-99af-560771dd44a1?syn-25a6b1a6=1",
+      "summary": "Supporters of the tax say many billionaires threatening to leave the state will not go",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-23T18:15:17+00:00"
+    },
+    {
+      "title": "Treasury Yields Rise, Eurozone Bond Yields Fall Amid French Concerns",
+      "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-edge-up-bond-market-focus-to-stay-on-france-8b28a326?mod=rss_markets_main",
+      "summary": "U.S. Treasury yields rose as investors sought safety from the turmoil in French government bonds ahead of a closely watched interest-rate decision.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-23T18:11:00+00:00"
+    },
+    {
       "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
       "link": "https://twitter.com/robbietilton/status/2111936458923851923",
       "summary": "Article URL: https://twitter.com/robbietilton/status/2111936458923851923\nComments URL: https://news.ycombinator.com/item?id=50212668\nPoints: 4\n# Comments: 0",
@@ -860,6 +892,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-23T17:15:03+00:00"
+    },
+    {
+      "title": "Show HN: Searching for optimal strategies in a puzzle game with chance (Drop7)",
+      "link": "https://drop7.dev",
+      "summary": "Sixteen years ago, I wrote a Java program which tried to pick the ideal move in a puzzle game called Drop7. On each turn, the player only has seven choices for their next move, but there is also an element of chance which turns this simple game into a surprisingly difficult problem involving search, hidden information, long-term planning, and chance.I renewed my investigation this weekend, into whether there is an autonomous strategy that averages more than one million points per game. An experienced human player can score a million points with long-term strategic thinking, but the best automated strategies I could come up with are currently averaging around 300k-400k points. One of the easiest ways to contribute to advancing this research is to compete on the global leaderboard and submit your human strategy - https://drop7.dev/compete.This project has also been an enlightening experiment into using agents as research collaborators and evidence collectors.Repository: https://github.com/keshavsaharia/drop7-benchI’d especially appreciate feedback from people who are knowledgeable in game theory, stochastic planning, learned value functions, or heavy-tailed evaluation. How would you approach long-horizon action ranking here? I’d also love to hear whether the research makes sense to someone encountering the project for the first time.\n\nComments URL: https://news.ycombinator.com/item?id=50212292\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-23T17:13:27+00:00"
     },
     {
       "title": "Time Nuts",
