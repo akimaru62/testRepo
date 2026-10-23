@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T01:07:22.655542+00:00",
+  "generated_at": "2026-10-23T01:35:40.619787+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -834,12 +834,60 @@
   ],
   "items": [
     {
+      "title": "トランプ米大統領、原油増産命令　中間選挙控え価格抑制",
+      "link": "https://www.jiji.com/jc/article?k=2026102300219&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-23T01:35:36.789302+00:00"
+    },
+    {
+      "title": "折り畳み式ｉＰｈｏｎｅ発売　「デュオ」、画面１．５倍に―米アップル",
+      "link": "https://www.jiji.com/jc/article?k=2026102300195&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-23T01:35:36.789287+00:00"
+    },
+    {
+      "title": "安保土地取引に「許可制」　ドローン攻撃へ備え、外国協力者排除―改正案を閣議決定",
+      "link": "https://www.jiji.com/jc/article?k=2026102300095&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-23T01:35:36.789241+00:00"
+    },
+    {
+      "title": "中国政府系ハッカー集団、AIで数百組織を攻撃　マイクロソフト発表",
+      "link": "https://www.asahi.com/articles/ASVBR02RMVBRUHBI008M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-23T01:35:36.695869+00:00"
+    },
+    {
+      "title": "国庫短期証券（第1415回）の入札発行",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20261023.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-23T01:20:00+00:00"
+    },
+    {
       "title": "Oil Falls on Likely Technical Correction After Earlier Gains",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-likely-technical-correction-after-earlier-gains-8de529db?mod=rss_markets_main",
       "summary": "Oil futures declined in the Asian session, likely due to a technical correction after gains on Thursday.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-23T01:00:00+00:00"
+    },
+    {
+      "title": "The foolishness of \"natural language programming\" (1978)",
+      "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "summary": "Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html\nComments URL: https://news.ycombinator.com/item?id=50203161\nPoints: 8\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-23T00:52:01+00:00"
     },
     {
       "title": "国債金利情報(令和8年10月22日)",
@@ -917,6 +965,14 @@
       "title": "Docker Is Weird",
       "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
       "summary": "Article URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird\nComments URL: https://news.ycombinator.com/item?id=50202681\nPoints: 37\n# Comments: 16",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T23:45:56+00:00"
+    },
+    {
+      "title": "Docker is weird",
+      "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "summary": "Article URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird\nComments URL: https://news.ycombinator.com/item?id=50202681\nPoints: 81\n# Comments: 26",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-22T23:45:56+00:00"
