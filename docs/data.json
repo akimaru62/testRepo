@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T06:13:19.060329+00:00",
+  "generated_at": "2026-10-23T06:44:15.749762+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -838,6 +838,38 @@
   ],
   "items": [
     {
+      "title": "韓国、南北軍事会談を提案　境界線巡り、北朝鮮は無視か",
+      "link": "https://www.jiji.com/jc/article?k=2026102300645&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-23T06:44:10.917681+00:00"
+    },
+    {
+      "title": "Dollar Recovers as Treasury Yields Rise, Oil Prices Surge",
+      "link": "https://www.wsj.com/finance/currencies/dollar-likely-to-remain-in-155-160-yen-range-in-near-term-4e69b51a?mod=rss_markets_main",
+      "summary": "The dollar recovered after reaching a three-week low against a basket of currencies on Thursday as Treasury yields rose and oil prices jumped.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-23T06:28:00+00:00"
+    },
+    {
+      "title": "U.S. Treasury Yields Edge Up, Bond Market Focus to Stay on France",
+      "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-edge-up-bond-market-focus-to-stay-on-france-8b28a326?mod=rss_markets_main",
+      "summary": "Treasury yields edged higher, having slid sharply on Thursday as investors sought safe havens from the turmoil in French government bonds.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-23T06:17:00+00:00"
+    },
+    {
+      "title": "リニア静岡工区 年内着工は困難か",
+      "link": "https://news.yahoo.co.jp/pickup/6599808?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-23T06:15:57+00:00"
+    },
+    {
       "title": "北朝鮮に南北軍事会談提案　韓国",
       "link": "https://www.jiji.com/jc/article?k=2026102300645&g=int&m=rss",
       "summary": "",
@@ -1111,6 +1143,14 @@
     },
     {
       "title": "The limits of Trump’s trade power",
+      "link": "https://www.ft.com/content/0ce7d049-b264-47da-9aaa-08b33941585a?syn-25a6b1a6=1",
+      "summary": "Economies like Mexico are being forced to choose sides on trade",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-23T04:00:18+00:00"
+    },
+    {
+      "title": "The limits of Trump’s trade war",
       "link": "https://www.ft.com/content/0ce7d049-b264-47da-9aaa-08b33941585a?syn-25a6b1a6=1",
       "summary": "Economies like Mexico are being forced to choose sides on trade",
       "source": "Financial Times",
@@ -1446,6 +1486,14 @@
       "published": "2026-10-23T00:15:00+00:00"
     },
     {
+      "title": "Show HN: Making a smart TV dumb and then smart",
+      "link": "https://github.com/anubhavmalhotra/r2d2-tv",
+      "summary": "A recent (unwanted) webOS update that got installed on TV prompted me to start going down the rabbit hole of writing new TV software. After a couple of weekends and massive help from 4 different models, finally managed to get v1 working.My daughter enjoys navigating TV through speech while I get to browse on the biggest screen at home.While all of the code was written by ML models, there were decisions I had to help with. In specific: using WebRTC to cut down latency, repurposing vendor logic for buffering voice samples and designing user experience.It was liberating to finally free the TV of bloatware and make it truly personalized!\n\nComments URL: https://news.ycombinator.com/item?id=50202865\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-23T00:10:45+00:00"
+    },
+    {
       "title": "Gold is Flat, Likely to Consolidate in Near Term",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-is-flat-likely-to-consolidate-in-near-term-1fb03f5c?mod=rss_markets_main",
       "summary": "Gold was steady in early Asian trade. Selling pressure on the yellow metal has eased, but buying interest remains insufficient to establish a new direction, XS.com said.",
@@ -1526,6 +1574,14 @@
       "published": "2026-10-22T23:29:39+00:00"
     },
     {
+      "title": "We have traits at home",
+      "link": "https://www.axelmagn.com/blog/202610-zig-traits/",
+      "summary": "Article URL: https://www.axelmagn.com/blog/202610-zig-traits/\nComments URL: https://news.ycombinator.com/item?id=50202482\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T23:24:17+00:00"
+    },
+    {
       "title": "米長期金利が急低下　ＡＩ不安で１カ月ぶり５％割れ",
       "link": "https://www.jiji.com/jc/article?k=2026102300170&g=int&m=rss",
       "summary": "",
@@ -1572,6 +1628,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-22T23:13:15+00:00"
+    },
+    {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "link": "https://edjefferson.com/localwiki/",
+      "summary": "Article URL: https://edjefferson.com/localwiki/\nComments URL: https://news.ycombinator.com/item?id=50202285\nPoints: 27\n# Comments: 8",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T23:01:18+00:00"
     },
     {
       "title": "腸の｢悪玉菌｣は､健康に役立つ大切な存在だった→最新研究でわかった腸内細菌の意外な真実 | ライフ | 東洋経済オンライン",
@@ -1644,6 +1708,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-22T22:17:00+00:00"
+    },
+    {
+      "title": "Rule 30: one black cell",
+      "link": "https://www.wolframcollatzmahler.com/rule30/index.html",
+      "summary": "Article URL: https://www.wolframcollatzmahler.com/rule30/index.html\nComments URL: https://news.ycombinator.com/item?id=50201842\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T22:16:48+00:00"
     },
     {
       "title": "大成建設・鹿島 国交省が処分方針",
@@ -2102,6 +2174,14 @@
       "published": "2026-10-22T20:00:00+00:00"
     },
     {
+      "title": "The HTML-in-Canvas API origin trial",
+      "link": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
+      "summary": "Article URL: https://developer.chrome.com/blog/html-in-canvas-origin-trial\nComments URL: https://news.ycombinator.com/item?id=50200164\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T19:54:04+00:00"
+    },
+    {
       "title": "Oil Futures Rise on Middle East Conflict Concerns",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-concerns-over-re-escalation-of-mideast-conflict-52f2208c?mod=rss_markets_main",
       "summary": "Oil futures rose with front-month Brent reaching a more than five-month high as Yemen’s Houthis continue attacks on Saudi targets and the market frets about reported U.S. preparations for possible renewed strikes against Iran.",
@@ -2164,6 +2244,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-22T19:14:01+00:00"
+    },
+    {
+      "title": "LISP Comes of Age (1980)",
+      "link": "https://microship.com/lisp-comes-of-age/",
+      "summary": "Article URL: https://microship.com/lisp-comes-of-age/\nComments URL: https://news.ycombinator.com/item?id=50199684\nPoints: 6\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T19:08:09+00:00"
     },
     {
       "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
@@ -2700,6 +2788,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-22T14:06:00+00:00"
+    },
+    {
+      "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+      "link": "https://github.com/dsmurrell/onkey",
+      "summary": "Hi allI was pretty terrible at singing, now I’d say I’m bad but not terrible. This is because I’ve been using a singing app (won’t name it here) that scores me on my pitch and timing throughout the song so that I can improve.Lately however, the app I’ve been using has flooded their song list with songs that aren’t originals. I didn’t like this at all as for me, it’s easier to try to improve when you’re singing along to the original.So, I asked an agent (Claude Code) if it could write some code to listen to Spotify and also listen to me and see if it could detect both pitches and score me. It impressed me by writing some Python and showing me my pitch in the terminal!It couldn’t go all the way though and detect the singer’s pitch in real time.So I found the next best setup and built OnKey, a Mac app that needs to listen to the song once (it doesn’t save it) and then when it’s learnt the song (takes a couple of minutes), you can sing along to the pitch track that it’s learnt. OnKey is free to use and open source under the MIT license.It can listen to Spotify, Apple Music, and YouTube playing in your browser with the right permissions.During the build I found that someone had done something similar in Nightingale, but this requires a library of songs exported to disk and who has this in 2026 (maybe some of you ;) - but we need to help the normies too).You can check out a demo video on the site of me singing (warning given) here: https://singonkey.appThe app sends out to find the song info (short Shazam fingerprint, and looks up song details), lyrics (from LRCLIB), and checks for updates.The app never sends the music (it doesn’t save this to disk) and your voice. Everything you’d expect to stay private does.It’s still weak in a few places:- when the song’s backing is noisy it’s hard to pick the pitch track out- sometimes it gets a note an octave off- it’s limited to Apple Silicon Macs, M1 or later, and only macOS 14.2 up because extra drivers aren’t required past this point- the scoring is built for beginners like me so it’s fairly easy on youWould love for people to try it out and let me know what works and what doesn’t for them!\n\nComments URL: https://news.ycombinator.com/item?id=50195488\nPoints: 13\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T14:04:44+00:00"
     },
     {
       "title": "I’m 58 and hate annuities. How can I get dependable income in retirement?",
