@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T21:47:57.504139+00:00",
+  "generated_at": "2026-10-23T22:06:52.746977+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -838,12 +838,36 @@
   ],
   "items": [
     {
+      "title": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
+      "link": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
+      "summary": "If market pressures keep building, Anthropic “could reasonably decide it is better to stay private and wait for a better opportunity,” one portfolio manager says.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-23T22:00:00+00:00"
+    },
+    {
       "title": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.",
       "link": "https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories",
       "summary": "Traders making bullish bets on chip stocks are getting walloped this month, as renewed fears emerged about investment returns on the buildout of artificial intelligence.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-23T21:46:00+00:00"
+    },
+    {
+      "title": "｢初日15万人｣四国最大のそごうが大成功→客がどんどん流出…県庁所在地なのに百貨店が全滅｢四国有数の大都市｣の事情 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961663?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "かつて徳島市には5つの百貨店があり､街の象徴としてにぎわいを見せていました。しかし今､その姿は完全に消滅しています。なぜこの街から百貨店は消えたのでしょうか。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-23T21:45:00+00:00"
+    },
+    {
+      "title": "｢明石海峡大橋で打撃｣→｢実は\"橋開通の5年前\"から右肩下がりに｣…売上444億円の\"四国最大の百貨店\"が衰退した理由 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961658?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "かつて5つの百貨店がにぎわいの象徴だった徳島市。しかし現在､すべて姿を消しました。明石海峡大橋の開通だけが原因なのか？調べると､中心市街地や消費スタイルの変化､ショッピングモールの台頭など複雑な要因…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-23T21:45:00+00:00"
     },
     {
       "title": "アメリカ中間選挙後の｢内政･外交･経済｣でいったい何が起きるのか､投資家は11月の｢パーフェクト･ストーム｣に警戒せよ | 政治・経済・投資 | 東洋経済オンライン",
@@ -972,6 +996,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-10-23T20:45:00+00:00"
+    },
+    {
+      "title": "No Source Code? No Problem",
+      "link": "https://queue.acm.org/doi/10.1145/945131.945155",
+      "summary": "Article URL: https://queue.acm.org/doi/10.1145/945131.945155\nComments URL: https://news.ycombinator.com/item?id=50214994\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-23T20:38:06+00:00"
     },
     {
       "title": "A whirlwind tour of systemd-nspawn containers",
