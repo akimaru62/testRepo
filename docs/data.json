@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T22:06:52.746977+00:00",
+  "generated_at": "2026-10-23T22:23:57.024397+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -834,15 +834,51 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://azure.microsoft.com/ja-jp/blog/feed/",
+      "error": "503 Server Error: Service Unavailable for url: https://azure.microsoft.com/ja-jp/blog/feed/"
     }
   ],
   "items": [
+    {
+      "title": "パリ近郊で銃乱射、１人死亡　仏大統領「転換点」と危機感",
+      "link": "https://www.jiji.com/jc/article?k=2026102400159&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-23T22:23:51.043454+00:00"
+    },
+    {
+      "title": "クドカン《俺のこと､なんか言ってた？》が\"秋ドラマのナンバーワン\"になる予感…｢役所広司｣の新たな代表作になるか | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962276?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "宮藤官九郎が脚本を手がけるNetflixドラマ『俺のこと､なんか言ってた？』が配信スタート。秋ドラマナンバーワンとも言える､本作の凄さとは？",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-23T22:15:00+00:00"
+    },
     {
       "title": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
       "link": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
       "summary": "If market pressures keep building, Anthropic “could reasonably decide it is better to stay private and wait for a better opportunity,” one portfolio manager says.",
       "source": "MarketWatch",
       "category": "海外金融",
+      "published": "2026-10-23T22:00:00+00:00"
+    },
+    {
+      "title": "｢しょっぱい｣｢物足りない｣真逆の声が同時に噴出…元\"てれび戦士\"の料理家･長谷川あかりに集まった《奇妙な批判》の正体 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962375?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "SNSで話題を集める料理家･長谷川あかりさんのレシピが｢しょっぱい｣｢物足りない｣と賛否両論を呼んでいます。その背景には､食習慣や料理経験､SNS時代特有の拡散力が影響していました。誰もが｢自分の味…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-23T22:00:00+00:00"
+    },
+    {
+      "title": "｢あの子と友達になりたい｣なんて声をかける？令和に\"手作りの雑誌\"つくる少年たちの青春　漫画｢RIOT｣（第5集 第21話） | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960768?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "舞台は海が見える穏やかな田舎町。近所には本屋もレコード屋もないけれど、スマホであらかた手に入る。そんな令和の高校生「シャンハイ」と「アイジ」が知らず知らず惹きつけられたのは、どういうわけか「紙の雑誌…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
       "published": "2026-10-23T22:00:00+00:00"
     },
     {
@@ -900,6 +936,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-23T21:23:26.868347+00:00"
+    },
+    {
+      "title": "CVE Tracker",
+      "link": "https://cve.0xosprey.com/",
+      "summary": "Article URL: https://cve.0xosprey.com/\nComments URL: https://news.ycombinator.com/item?id=50215530\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-23T21:21:47+00:00"
     },
     {
       "title": "TBS大型特番で田村真子アナの肩を抱いて炎上… ｢お笑いの日2026｣で芸人･永野の暴走に\"不快\"の声が上がったワケ | ライフ | 東洋経済オンライン",
