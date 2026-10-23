@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T19:06:38.230903+00:00",
+  "generated_at": "2026-10-23T19:23:20.728882+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -838,12 +838,28 @@
   ],
   "items": [
     {
+      "title": "Even the wealthy increasingly want all-inclusive resorts",
+      "link": "https://www.marketwatch.com/story/even-the-wealthy-increasingly-want-all-inclusive-resorts-118caa9b?mod=mw_rss_topstories",
+      "summary": "Nearly 80% of all-inclusive resorts have become ‘luxury or upper upscale,’ Bernstein analysts say, as the industry seeks higher-income travelers able to weather inflation",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-23T19:13:00+00:00"
+    },
+    {
       "title": "「アジアGXコンソーシアム」ハイレベル会合2026の開催について公表しました。",
       "link": "https://www.fsa.go.jp/news/r8/sonota/20261023/20261023.html",
       "summary": "",
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-23T19:10:00+00:00"
+    },
+    {
+      "title": "If you are building AI for finance, get out while you can",
+      "link": "https://news.ycombinator.com/item?id=50213770",
+      "summary": "LLMs are good with probabilistic logic (words), but not as good with deterministic logic (numbers).As oppose to what everybody thought 3 years ago, LLMs are not very good with finance. Makes sense when you think about it as AI in 2025 still rely heavily on language transformers, and transformers are more or less probability calculators.Ai agents in accounting firms are way less effective than Ai agents in law firms for example. 1 wrong word in the bylaws can break your entire company. Accounting is more precise, it tolerates less mistakes, and the rules that govern it are much less option to intrepretation.In accounting, the rules are more grounded. Not in precedent but in a generally accepted specific rulebook. Gross profits mean the same in the US as it does in Bangladesh, and it will mean the same 100 years in the future.In accounting, probability is very bad. A single bad journal entry in a 100,000 ledger can distort the entire balance sheet. And we know that no LLM will ever reach 100% accuracy rate because its reasoning is probabilistic, not absolute. Campfire raised $65m and built an entire accounting module from scratch, they only managed to achieve ~95% accuracy rate.It might feel like 95% is very close to 100%, but that is not how it works. A football player such as Arbeloa, who ranks in the 80th percentile, is not remotely comparable to someone in the 90th percentile. Now imagine a player who is better than 99% of all football players who ever lived; that superstar is on an entirely different level, and Arbeloa would lose 0–10 to him every single time.All of  which without mentioning the 99.99th percentile, where the gap becomes unimaginable to human minds. Accounting follows the same power law; 99% accuracy rate might sound close to perfect, but across 100k ledger entries, that means ~1k bad entires. You can hire someone to go through the bad ones, but how can we know which ones are going to be bad. Its definitly a cost saver, but it's not the same as coding or legal. Also, all the major labs are going after accounting after they finish with coding, so margins are going down fast.Yes, most accountants have an accuracy rate below 90%, but humans are allowed to make mistakes because YOU CAN SUE A HUMAN. That might not be a big deal in other areas, but when it comes to finance, companies suddenly get very risk averse. Its not even the hullication part that scares them, but the part where the Ai missed something. Bookkeeping can be divided into smaller tasks and automated fine, but accounting is a different story. Its about accountibility more than anything else.Humans have a MAJOR advantage over AI; we can be held legally accountable. If it weren't for that, most of us will be obsolete already. Under Sarbanes Oxley, any company no matter how small must have a \"human\" finance officer (CFO), and a \"human\" controller. Courts won't allow an Ai attorney to present a case no matter how good it was at the job.\n\nComments URL: https://news.ycombinator.com/item?id=50213770\nPoints: 4\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-23T18:58:25+00:00"
     },
     {
       "title": "The real test for Moderna’s cancer vaccine isn’t about beating Keytruda. It’s keeping cancer from coming back in the long term.",
@@ -884,6 +900,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-23T18:30:00+00:00"
+    },
+    {
+      "title": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
+      "link": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
+      "summary": "Article URL: https://artificialanalysis.ai/models/kimi-k3-1-pro\nComments URL: https://news.ycombinator.com/item?id=50213337\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-23T18:24:54+00:00"
     },
     {
       "title": "Can Nvidia’s stock become a safe haven as Wall Street rethinks the AI trade?",
