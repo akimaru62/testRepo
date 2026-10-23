@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T01:35:40.619787+00:00",
+  "generated_at": "2026-10-23T01:57:55.335469+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -834,6 +834,22 @@
   ],
   "items": [
     {
+      "title": "SK Hynix Pulls Plug on Memory-Chip Unit U.S. IPO On Market Jitters",
+      "link": "https://www.wsj.com/tech/sk-hynix-shelves-plans-for-u-s-listing-of-memory-chip-unit-solidigm-e9670506?mod=rss_markets_main",
+      "summary": "The world’s second-largest memory chip maker shelved plans for a potential U.S. listing of its memory-chip unit Solidigm in light of market conditions and share price trends.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-23T01:46:00+00:00"
+    },
+    {
+      "title": "笹かまメーカー相次ぐ倒産 背景",
+      "link": "https://news.yahoo.co.jp/pickup/6599782?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-23T01:37:44+00:00"
+    },
+    {
       "title": "トランプ米大統領、原油増産命令　中間選挙控え価格抑制",
       "link": "https://www.jiji.com/jc/article?k=2026102300219&g=int&m=rss",
       "summary": "",
@@ -864,6 +880,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-23T01:35:36.695869+00:00"
+    },
+    {
+      "title": "Dollar Likely to Remain in 155-160 Yen Range in Near Term",
+      "link": "https://www.wsj.com/finance/currencies/dollar-likely-to-remain-in-155-160-yen-range-in-near-term-4e69b51a?mod=rss_markets_main",
+      "summary": "The dollar was likely to remain in a range between 155 yen and ¥160 in the near term, Citi Research said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-23T01:32:00+00:00"
     },
     {
       "title": "国庫短期証券（第1415回）の入札発行",
@@ -960,6 +984,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-22T23:56:39+00:00"
+    },
+    {
+      "title": "Jank – The native Clojure dialect with seamless C++ interop",
+      "link": "https://jank-lang.org/",
+      "summary": "Article URL: https://jank-lang.org/\nComments URL: https://news.ycombinator.com/item?id=50202762\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T23:56:36+00:00"
     },
     {
       "title": "Docker Is Weird",
