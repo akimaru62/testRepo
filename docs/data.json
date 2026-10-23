@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T22:47:46.163581+00:00",
+  "generated_at": "2026-10-23T23:07:13.148319+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -838,9 +838,21 @@
     {
       "url": "https://azure.microsoft.com/ja-jp/blog/feed/",
       "error": "503 Server Error: Service Unavailable for url: https://azure.microsoft.com/ja-jp/blog/feed/"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fc7aa0e2510>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "｢山田孝之のオーディション番組｣に相次ぐ絶讃の声！二宮和也など豪華俳優も参加､\"異色の番組\"と言える3つの理由 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961975?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "Leminoで配信中の俳優オーディション番組｢THE OPEN CALL -MAIN PARTNER 山田孝之-｣。SNSなどでも絶賛の声が相次いでいます。｢異色のオーディション番組｣と言われる3つ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-23T22:45:00+00:00"
+    },
     {
       "title": "【副鼻腔炎】風邪の鼻水･鼻づまりが10日以上続いたら要注意…放置で嗅覚低下､手術も　慢性化しやすい人のタイプは2つ | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/961555?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -848,6 +860,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-10-23T22:30:00+00:00"
+    },
+    {
+      "title": "France avoids downgrade from Moody’s in boost for Macron’s government",
+      "link": "https://www.ft.com/content/840f9c94-cb41-4340-9fc4-41e76d908831?syn-25a6b1a6=1",
+      "summary": "Rating agency retains Aa3 score as it assumes ‘deficit-reducing budget for 2027 will be adopted’",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-23T22:28:52+00:00"
     },
     {
       "title": "パリ近郊で銃乱射、１人死亡　仏大統領「転換点」と危機感",
@@ -2557,6 +2577,14 @@
       "title": "Stock Market Today: Dow Slides as Oil Prices Climb to Highest in Five Months",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2026?mod=rss_markets_main",
       "summary": "Nasdaq losses are more muted after Thursday's selloff",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-23T09:07:32+00:00"
+    },
+    {
+      "title": "Stock Market News, Oct. 23, 2026: Dow Slides as Oil Prices Climb to Highest in Five Months",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2026?mod=rss_markets_main",
+      "summary": "Nasdaq stems weekly loss; Brent crude trades above $116",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-23T09:07:32+00:00"
