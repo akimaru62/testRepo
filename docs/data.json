@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T23:07:13.148319+00:00",
+  "generated_at": "2026-10-23T23:22:58.326779+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -846,6 +846,70 @@
   ],
   "items": [
     {
+      "title": "野党首相候補もタカ派　対ガザ戦略を提唱―アイゼンコット元参謀総長・イスラエル総選挙",
+      "link": "https://www.jiji.com/jc/article?k=2026102300676&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-23T23:22:53.867741+00:00"
+    },
+    {
+      "title": "片山財務相に仏勲章　経済交流に貢献、レジオン・ドヌール",
+      "link": "https://www.jiji.com/jc/article?k=2026102301051&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-23T23:22:53.867734+00:00"
+    },
+    {
+      "title": "対カナダ５０％関税、一部撤廃　中間選挙で候補者後押し―トランプ米大統領",
+      "link": "https://www.jiji.com/jc/article?k=2026102400173&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-23T23:22:53.867727+00:00"
+    },
+    {
+      "title": "典範改正、結婚時の対応に苦慮　養子縁組の儀式検討―宮内庁",
+      "link": "https://www.jiji.com/jc/article?k=2026102300707&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-23T23:22:53.867719+00:00"
+    },
+    {
+      "title": "日独首脳、経済安保で包括宣言へ　レアアースや防衛で協力格上げ―企業団、２０超の覚書締結も",
+      "link": "https://www.jiji.com/jc/article?k=2026102300988&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-23T23:22:53.867711+00:00"
+    },
+    {
+      "title": "ウクライナ南部で局地停戦　２７日から、前線都市へ人道支援搬入",
+      "link": "https://www.jiji.com/jc/article?k=2026102400163&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-23T23:22:53.867685+00:00"
+    },
+    {
+      "title": "対カナダ50％関税、一部撤廃　トランプ氏、中間選挙で候補者後押し",
+      "link": "https://www.asahi.com/articles/ASVBR7HCGVBRUHBI00BM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-23T23:22:53.480967+00:00"
+    },
+    {
+      "title": "《広瀬すず､28歳の現在地》｢経験が追いつかないと感じることも｣…主演作を重ねるほど感じる\"役柄と自分自身との距離\" | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961946?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "14歳で芸能界デビューし､数々の主演作に挑んできた広瀬すず。しかし経験を重ねるほど､役を生きることの難しさを痛感しているといいます。新作映画『汝､星のごとく』では17歳から32歳までを演じ切った彼女…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-23T23:00:00+00:00"
+    },
+    {
       "title": "｢山田孝之のオーディション番組｣に相次ぐ絶讃の声！二宮和也など豪華俳優も参加､\"異色の番組\"と言える3つの理由 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/961975?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "Leminoで配信中の俳優オーディション番組｢THE OPEN CALL -MAIN PARTNER 山田孝之-｣。SNSなどでも絶賛の声が相次いでいます。｢異色のオーディション番組｣と言われる3つ…",
@@ -1230,6 +1294,22 @@
       "published": "2026-10-23T19:50:56+00:00"
     },
     {
+      "title": "Securing our frontier model training environment",
+      "link": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+      "summary": "Article URL: https://openai.com/index/securing-our-frontier-model-training-environment/\nComments URL: https://news.ycombinator.com/item?id=50214416\nPoints: 54\n# Comments: 61",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-23T19:50:56+00:00"
+    },
+    {
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "link": "https://corgi.computer/",
+      "summary": "Hey everyone,Inspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now.I think I improved on the concept in a few ways, focusing on the ergonomics I always wished I had:I show you what the agents are up to, along with a running feed of their activity.\nThere's also a simple shortcut (F1) to go to the next unread agent.I use multiple accounts, so I've added unified launcher for Codex/Claude Code/Pi.\nTheres some careful ergonomics there: fast search and resume over sessions, inline usage tracking etc.Many small quality of life improvements to the terminal experience:\n- Links can be copied with a click, so no need to drag-select over many lines\n- cmd+v just pastes images (even on SSH)\n- images have a thumbnail preview.\n- Built-in CPU/Memory/GPU usage tracking, broken down by workspaceI assume you have access to cheap inference (Luna/Haiku/etc).\nIt just reuses the agents to organize things for you: what is this http link? what is this worktree about? what is each agent doing? \nIt's small but it made my environment feel more cozy.On a personal note, I've been on a frustrating sick leave for a while now.\nI created Corgi to challenge myself, and see if I can go back.\nThe answer is more mixed than I had hoped, but I am happy with the result and thankful for the experience.I hope you like it! a few friends & myself have been using it for a few weeks and it's been pretty nice.\nThere's still a lot to improve and some rough edges, so feedback would be greatly appreciated.Thank you :)\n\nComments URL: https://news.ycombinator.com/item?id=50214373\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-23T19:46:38+00:00"
+    },
+    {
       "title": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
       "link": "https://rune.build/blog/rune-1-3-release",
       "summary": "Article URL: https://rune.build/blog/rune-1-3-release\nComments URL: https://news.ycombinator.com/item?id=50214325\nPoints: 4\n# Comments: 0",
@@ -1316,6 +1396,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-23T18:58:00+00:00"
+    },
+    {
+      "title": "Caffeine-like utility to keep you MacBook awake with its lid closed",
+      "link": "https://github.com/clashman/caffeinate-plus",
+      "summary": "Article URL: https://github.com/clashman/caffeinate-plus\nComments URL: https://news.ycombinator.com/item?id=50213717\nPoints: 8\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-23T18:54:01+00:00"
     },
     {
       "title": "Think annuities are a rip-off? Now might be the perfect time to reconsider.",
