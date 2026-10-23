@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T17:37:04.358781+00:00",
+  "generated_at": "2026-10-23T17:48:18.274215+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -846,12 +846,28 @@
       "published": "2026-10-23T19:10:00+00:00"
     },
     {
+      "title": "Can we replace a $150k Looker with a bucket of HTML files?",
+      "link": "https://david.lequin.dev/blog/bi-software-is-dead/",
+      "summary": "Article URL: https://david.lequin.dev/blog/bi-software-is-dead/\nComments URL: https://news.ycombinator.com/item?id=50212320\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-23T17:15:03+00:00"
+    },
+    {
       "title": "Time Nuts",
       "link": "http://leapsecond.com/time-nuts.htm",
       "summary": "Article URL: http://leapsecond.com/time-nuts.htm\nComments URL: https://news.ycombinator.com/item?id=50212281\nPoints: 6\n# Comments: 0",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-23T17:12:51+00:00"
+    },
+    {
+      "title": "Kimi K3.1 Pro",
+      "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "summary": "Article URL: https://www.kimi.ai/blog/kimi-k3-1-pro\nComments URL: https://news.ycombinator.com/item?id=50212246\nPoints: 47\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-23T17:10:27+00:00"
     },
     {
       "title": "採用,職員を募集しています。（金融モニタリング業務(市場リスク管理及び流動性リスク管理)に従事する職員）",
@@ -900,6 +916,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-23T16:41:00+00:00"
+    },
+    {
+      "title": "UUIDv7 doesn't have the properties you think it does",
+      "link": "https://alexsci.com/blog/uuidv7-is-weird/",
+      "summary": "Article URL: https://alexsci.com/blog/uuidv7-is-weird/\nComments URL: https://news.ycombinator.com/item?id=50211746\nPoints: 16\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-23T16:39:45+00:00"
     },
     {
       "title": "The Missed Opportunities of Sonic 06",
@@ -2348,6 +2372,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-23T07:02:00+00:00"
+    },
+    {
+      "title": "Show HN: Swurf – Swipe through the real web",
+      "link": "https://swurf.org/",
+      "summary": "Hello HN,Swurf allows you to swipe through the real web one page after another. It learns what you like and doesn’t show you the same page twice. The idea came naturally: there’s a seemingly infinite amount of high quality blog posts, random topic rabbit holes, and trending or cool sites that exist which the average person simply will never load on their browser. Swurf solves that by allowing you to rapidly traverse a constantly growing and learning feed of sites that it thinks you’d want to view. Quickly sift through endless pages and find things you like - effortlessly.One of the core drivers for making this project was the desire for real content. The project started as a simple tool for myself to find new and interesting things to learn and read about. Hours spent scrolling on my phone - while it still has its place - is increasingly losing its sense of reward. It’s genuinely hard to put into words exactly how swurfin’ feels but it’s almost refreshing in a sense. I encourage you to try it out and provide feedback. At this time there are no accounts and you can jump in and start swurfin’ immediately. There is a three dot menu button on the bottom right which allows you to submit links, save links, control adult content, and search similar topics. One of the things that’s great about Swurf is that its almost like a group browsing session (though entirely private) where everyone else who is spending time hunting down great reads or solid sites is helping massage the feed for you and you for them - all within your own set of interests.Enjoy and please ask any questions you have as theres plenty of room to grow.\n\nComments URL: https://news.ycombinator.com/item?id=50205320\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-23T06:54:52+00:00"
     },
     {
       "title": "韓国、南北軍事会談を提案　境界線巡り、北朝鮮は無視か",
