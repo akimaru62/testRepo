@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T00:20:17.165498+00:00",
+  "generated_at": "2026-10-23T01:07:22.655542+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -834,6 +834,22 @@
   ],
   "items": [
     {
+      "title": "Oil Falls on Likely Technical Correction After Earlier Gains",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-likely-technical-correction-after-earlier-gains-8de529db?mod=rss_markets_main",
+      "summary": "Oil futures declined in the Asian session, likely due to a technical correction after gains on Thursday.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-23T01:00:00+00:00"
+    },
+    {
+      "title": "国債金利情報(令和8年10月22日)",
+      "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-23T00:30:00+00:00"
+    },
+    {
       "title": "橋本大輝４連覇、内村航平以来　パリ３冠の岡慎之助は８位―世界体操個人総合",
       "link": "https://www.jiji.com/jc/article?k=2026102300175&g=spo&m=rss",
       "summary": "",
@@ -896,6 +912,22 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-22T23:56:39+00:00"
+    },
+    {
+      "title": "Docker Is Weird",
+      "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "summary": "Article URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird\nComments URL: https://news.ycombinator.com/item?id=50202681\nPoints: 37\n# Comments: 16",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T23:45:56+00:00"
+    },
+    {
+      "title": "AI compute is the new oil–and needs a new market",
+      "link": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+      "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market\nComments URL: https://news.ycombinator.com/item?id=50202671\nPoints: 6\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T23:45:16+00:00"
     },
     {
       "title": "食料品消費税1% 買い物は変わるか",
