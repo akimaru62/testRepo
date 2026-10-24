@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T15:47:40.097943+00:00",
+  "generated_at": "2026-10-24T16:07:15.306189+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -845,6 +845,14 @@
     }
   ],
   "items": [
+    {
+      "title": "FreeDNS",
+      "link": "https://freedns.afraid.org/",
+      "summary": "Article URL: https://freedns.afraid.org/\nComments URL: https://news.ycombinator.com/item?id=50222133\nPoints: 42\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-24T15:20:01+00:00"
+    },
     {
       "title": "Intelligence memo warns Iran is plotting to kill Americans in Middle East",
       "link": "https://www.ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7?syn-25a6b1a6=1",
@@ -6092,6 +6100,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-22T14:08:12+00:00"
+    },
+    {
+      "title": "Parsing EDIFACT in Python with syntax trees",
+      "link": "https://github.com/AmadeusITGroup/Edison",
+      "summary": "Article URL: https://github.com/AmadeusITGroup/Edison\nComments URL: https://news.ycombinator.com/item?id=50195535\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-22T14:07:48+00:00"
     },
     {
       "title": "三菱自 ホンダに車両供給で合意",
