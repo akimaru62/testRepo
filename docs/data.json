@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T14:35:12.907263+00:00",
+  "generated_at": "2026-10-24T14:47:31.881418+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1132,6 +1132,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-10-24T10:00:00+00:00"
+    },
+    {
+      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "link": "https://github.com/Zagitta/gpu-unlock",
+      "summary": "Article URL: https://github.com/Zagitta/gpu-unlock\nComments URL: https://news.ycombinator.com/item?id=50219700\nPoints: 17\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-24T09:58:27+00:00"
     },
     {
       "title": "I Don't Understand Quantum Physics",
