@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T16:07:15.306189+00:00",
+  "generated_at": "2026-10-24T16:24:39.101573+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -846,6 +846,46 @@
   ],
   "items": [
     {
+      "title": "２５日の予告先発投手　プロ野球・日本シリーズ第２戦",
+      "link": "https://www.jiji.com/jc/article?k=2026102400517&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-24T16:24:33.260433+00:00"
+    },
+    {
+      "title": "２年目、ソフトバンクの庄子が激戦にけり　横浜スタジアムで躍動―プロ野球・日本シリーズ",
+      "link": "https://www.jiji.com/jc/article?k=2026102400527&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-24T16:24:33.260416+00:00"
+    },
+    {
+      "title": "ソフトバンクが先勝　延長十一回、庄子が決勝打―プロ野球・日本シリーズ",
+      "link": "https://www.jiji.com/jc/article?k=2026102400419&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-24T16:24:33.260380+00:00"
+    },
+    {
+      "title": "Roku developer repositories moved from GitHub to GitLab",
+      "link": "https://blog.roku.com/developer/gitlab-move",
+      "summary": "Article URL: https://blog.roku.com/developer/gitlab-move\nComments URL: https://news.ycombinator.com/item?id=50222622\nPoints: 14\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-24T16:06:26+00:00"
+    },
+    {
+      "title": "Neural chip decodes interactions between brain regions",
+      "link": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+      "summary": "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/\nComments URL: https://news.ycombinator.com/item?id=50222525\nPoints: 11\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-24T15:57:17+00:00"
+    },
+    {
       "title": "FreeDNS",
       "link": "https://freedns.afraid.org/",
       "summary": "Article URL: https://freedns.afraid.org/\nComments URL: https://news.ycombinator.com/item?id=50222133\nPoints: 42\n# Comments: 3",
@@ -1353,6 +1393,14 @@
       "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
       "link": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
       "summary": "Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/\nComments URL: https://news.ycombinator.com/item?id=50218633\nPoints: 28\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-24T05:49:57+00:00"
+    },
+    {
+      "title": "Root shell on Samsung TV",
+      "link": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+      "summary": "Article URL: https://twitter.com/log4j/status/2113014142600953868?s=46\nComments URL: https://news.ycombinator.com/item?id=50218633\nPoints: 403\n# Comments: 143",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-24T05:49:57+00:00"
