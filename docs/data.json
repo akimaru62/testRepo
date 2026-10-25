@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T17:47:52.997743+00:00",
+  "generated_at": "2026-10-25T18:08:21.918172+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -850,9 +850,21 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://cloud.google.com/blog/rss",
+      "error": "503 Server Error: Service Unavailable for url: https://cloud.google.com/blog/rss"
     }
   ],
   "items": [
+    {
+      "title": "Venezuelan opposition leader Machado returns from exile",
+      "link": "https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135",
+      "summary": "Nobel laureate’s arrival poses a challenge to the country’s Trump-backed interim government",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-25T17:37:08+00:00"
+    },
     {
       "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
       "link": "https://talkweb.eu/openweb/4558/",
@@ -860,6 +872,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-25T17:30:55+00:00"
+    },
+    {
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "link": "https://lynchlab.net/llm-skin-cancer",
+      "summary": "Article URL: https://lynchlab.net/llm-skin-cancer\nComments URL: https://news.ycombinator.com/item?id=50233779\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-25T17:15:38+00:00"
     },
     {
       "title": "Sabre Wulf Remastered",
@@ -892,6 +912,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-25T16:31:21+00:00"
+    },
+    {
+      "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
+      "link": "https://github.com/socrates6969/jukebox-os",
+      "summary": "Article URL: https://github.com/socrates6969/jukebox-os\nComments URL: https://news.ycombinator.com/item?id=50233325\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-25T16:29:46+00:00"
     },
     {
       "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
