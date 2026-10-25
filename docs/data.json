@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T20:23:55.667971+00:00",
+  "generated_at": "2026-10-25T20:36:27.692137+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -920,6 +920,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-25T19:11:31+00:00"
+    },
+    {
+      "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
+      "link": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+      "summary": "Article URL: https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles\nComments URL: https://news.ycombinator.com/item?id=50235010\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-25T19:10:36+00:00"
     },
     {
       "title": "I made a virtual pet fruit fly that Twitch chat can interact with",
