@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T15:06:52.438425+00:00",
+  "generated_at": "2026-10-25T15:22:34.246878+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -846,9 +846,37 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f9df2b3a7b0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "ＮＹ株４日ぶり反落、６５２ドル安　中東緊張や原油高で",
+      "link": "https://www.jiji.com/jc/article?k=2026102400120&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-25T15:22:22.974325+00:00"
+    },
+    {
+      "title": "張本智和が連覇　卓球アジア選手権",
+      "link": "https://www.jiji.com/jc/article?k=2026102500445&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-25T15:22:22.974244+00:00"
+    },
+    {
+      "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+      "link": "https://bigwhalehunting.com/workforce/",
+      "summary": "Article URL: https://bigwhalehunting.com/workforce/\nComments URL: https://news.ycombinator.com/item?id=50232312\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-25T15:05:39+00:00"
+    },
     {
       "title": "ソフトバンク逆転勝ち　プロ野球日本シリーズ・ソフトバンク４―３ＤｅＮＡ",
       "link": "https://www.jiji.com/jc/article?k=2026102500421&g=spo&m=rss",
@@ -960,6 +988,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-25T12:48:11+00:00"
+    },
+    {
+      "title": "Imagine an AI future where being banned means you are now economically useless",
+      "link": "https://twitter.com/boneGPT/status/2114035719853265264",
+      "summary": "Article URL: https://twitter.com/boneGPT/status/2114035719853265264\nComments URL: https://news.ycombinator.com/item?id=50230995\nPoints: 20\n# Comments: 10",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-25T12:47:20+00:00"
     },
     {
       "title": "Challenge Is Gone",
