@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T19:05:26.378305+00:00",
+  "generated_at": "2026-10-25T19:19:48.122458+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1992,6 +1992,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-25T01:33:49+00:00"
+    },
+    {
+      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+      "link": "https://huggingface.co/destined/hurston-1",
+      "summary": "Hey HN, I’m open sourcing my Hurston-1 narrowband TTS model (Apache-2.0). It is very good with American English and does especially well with Southern American and Regional African English accents. Destined AI is based in Atlanta, and I built this because I’m amazed by what AI can do, and I wanted to help introduce and welcome more people to feel comfortable using and interacting with AI.Since 2021, I’ve been collecting fully consented voice data from over 20,000 people, 1M audio recordings, and over 1,800 hrs of audio captured to date. For this model, I used a small part of the data, 136 hrs, to finetune Maya1 and expand it’s capabilities.Hurston-1 is a narrowband TTS model that focuses the output on telephone use because that is still where most of these voices will be heard. I’ve used it to support customers such as Amazon and Salesforce and generated over half-mill revenue with it. Now I’m open sourcing it to help unlock opportunities for others as well.Limitations: this model doesn’t maintain the exact same voice across prompts and doesn’t support voice cloning. For many use cases, this is fine but maybe not so - if you’re creating podcasts.This is the first release - I’m already working on the next version with improvements.I would appreciate, if anyone is interested in this space, download the model from huggingface, check it out and let me know any feedback. Also, open to connecting with others in this space as well.\n\nComments URL: https://news.ycombinator.com/item?id=50227330\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-25T01:30:13+00:00"
     },
     {
       "title": "千葉県の魅力度ランクが低下 背景",
