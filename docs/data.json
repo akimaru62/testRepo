@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T18:08:21.918172+00:00",
+  "generated_at": "2026-10-25T18:27:16.024771+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -858,6 +858,38 @@
   ],
   "items": [
     {
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+      "summary": "Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/\nComments URL: https://news.ycombinator.com/item?id=50234232\nPoints: 28\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-25T18:04:11+00:00"
+    },
+    {
+      "title": "Enough golfers commit to LIV 2.0 to keep hopes of new league alive",
+      "link": "https://www.ft.com/content/935f19bc-bb43-4840-8a55-d8ef409c7b52?syn-25a6b1a6=1",
+      "summary": "Around 15 players have expressed interest, with several others expected to join by a Friday deadline set by the Saudi Public Investment Fund",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-25T17:56:50+00:00"
+    },
+    {
+      "title": "Ask HN: What is the main bottleneck facing Agentic AI today?",
+      "link": "https://news.ycombinator.com/item?id=50234108",
+      "summary": "Hey guys, today I read a statistic that showed that Agentic traffic surpassed human traffic on the internet and that statistic was very shocking to me.  At the same time I saw another statistic that showed only 10% of agents built, actually get into production. These two statistics seemed ironic to me. So I wondered to myself what is the major bottleneck that is causing a lot of the agents that are being built not get into production and what is the infrastructure missing to make Agentic traffic to thrive even more?\n\nComments URL: https://news.ycombinator.com/item?id=50234108\nPoints: 3\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-25T17:52:28+00:00"
+    },
+    {
+      "title": "France’s Le Pen vows national ‘renewal’ in campaign launch",
+      "link": "https://www.ft.com/content/fd1c3f30-2789-4fca-a93f-57850b1448a8?syn-25a6b1a6=1",
+      "summary": "Far-right leader casts herself as only presidential candidate able to restore order and unity",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-25T17:47:48+00:00"
+    },
+    {
       "title": "Venezuelan opposition leader Machado returns from exile",
       "link": "https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135",
       "summary": "Nobel laureate’s arrival poses a challenge to the country’s Trump-backed interim government",
@@ -872,6 +904,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-25T17:30:55+00:00"
+    },
+    {
+      "title": "Fuck Nuance (2015)",
+      "link": "https://crookedtimber.org/2015/08/31/fuck-nuance/",
+      "summary": "Article URL: https://crookedtimber.org/2015/08/31/fuck-nuance/\nComments URL: https://news.ycombinator.com/item?id=50233883\nPoints: 11\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-25T17:26:08+00:00"
     },
     {
       "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
@@ -1410,6 +1450,14 @@
       "published": "2026-10-25T10:23:28.128850+00:00"
     },
     {
+      "title": "German billionaire says €250mn Bayern Munich deal about more than money",
+      "link": "https://www.ft.com/content/167f7707-c677-4aa3-96f8-d36c9d5eb0ba?syn-25a6b1a6=1",
+      "summary": "Family stake in Germany’s most successful football club driven by passion as much as financial returns, Maximilian Viessmann says",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-25T10:00:02+00:00"
+    },
+    {
       "title": "France asked ISPs to prepare temporary DNS blocks for major social platforms",
       "link": "https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ",
       "summary": "Article URL: https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ\nComments URL: https://news.ycombinator.com/item?id=50229861\nPoints: 20\n# Comments: 2",
@@ -1856,6 +1904,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-25T02:18:35+00:00"
+    },
+    {
+      "title": "Show HN: ReVault – new secure archive format",
+      "link": "https://news.ycombinator.com/item?id=50227527",
+      "summary": "reVault is a new, secure-by-default archive format called a lockbox, designed to be simple to use.I've been working on reVault for about 2 years. It was originally written in Dart, but with the improvements in AI, I decided to port it to Rust using AI.It's now in beta, so I'm looking for feedback, particularly around the different language bindings.A lockbox is encrypted, signed and compressed by default. Each can be disabled selectively.  - Hybrid post-quantum or passphrase encryption, including metadata.\n  - Zstd compression.\n  - Pure Rust libraries wherever possible.\n\nWe intend to phase out remaining C code as alternatives become available. The project has been scanned using OpenAI's Daybreak cyber security tools.The manual is a work in progress:\nhttps://docs.revault.onepub.dev/reVault supports Linux, macOS and Windows, x64 and arm64, plus Wasm. The core is Rust, with bindings for C/C++, Java, Dart, Python, Ruby, JS/TypeScript, Go, C#, Kotlin, Lua, PHP and Swift.Within a lockbox you can store:  - Files, directories, permissions and symlinks.\n  - Variables.\n  - Forms.\n\nVariables, forms and the lockbox itself can have descriptions.reVault uses a portable vault (just another lockbox with structured content) to hold your keys, contacts' keys, lockbox aliases and form definitions.It ties into your platform's secure store, so logging into your desktop unlocks your vault. You don't have to enter a passphrase every time you access a lockbox. You can disable this.There are lots of shortcuts. Creating a lockbox stores an alias in your vault, based on its filename or a name you choose:  lbx create /some/path/mybox.lbox\n  lbx mybox open --duration 1h\n  lbx mybox var set KEY VALUE\n\nSet a default lockbox and you can leave its name out:  lbx session default mybox\n  lbx var get KEY\n\nYou can mirror a directory tree into a lockbox and update it when the directory changes:  lbx store.lbox mirrors project create --from ./project --to /projects/project\n  lbx store.lbox mirrors update\n\nThe API lets you read, write and seek within files without extracting them to the filesystem. Each lockbox has a table of contents, so extracting a single file from a multi-gigabyte lockbox is fast.RecoveryUpdates are transactional, with automatic rollback for failed updates. The format is designed for recovery: content is stored in pages, allowing unaffected content to be recovered if part of a lockbox is corrupted.SharingAn encrypted lockbox is more useful if you can share it.reVault has an open-source keyserver for exchanging public keys, with validation through a second trusted channel. It's still experimental.OnePub has donated a server to run a single keyserver. If you're interested in donating resources, I'd like to bring up a second redundant server. It's pure Rust, uses under 100 MB RSS and supports rate limits.To publish your default profile's public key:  lbx vault profiles email you@example.com\n  lbx vault profiles publish\n\nGive the publish code to your contact. They can import your key:  lbx vault contacts receive  \n\nDisplay your profile's fingerprint and exchange it through a second trusted channel:  lbx vault profiles fingerprint\n\nRepeat the process in the opposite direction to get their key. Once you have it, grant them access to your default lockbox:  lbx access grant alice\n\nYou can then email the encrypted lockbox to Alice.To install the CLI and get started:  cargo install revault_cli\n  lbx vault init\n  lbx completion install\n\nCompletion installation detects your shell. To diagnose issues:  lbx doctor\n\nThe language bindings are published to their respective package repositories.I'm looking for constructive criticism of the project on its own merits, particularly the APIs and language bindings. I'm not interested in a debate about using AI.\n\nComments URL: https://news.ycombinator.com/item?id=50227527\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-25T02:01:21+00:00"
     },
     {
       "title": "太平洋を大国の｢チェス盤｣にしてはならない…国際ルール未整備で進む深海採掘に､｢世界初｣を背負う日本に迫られる選択 | 政治・経済・投資 | 東洋経済オンライン",
