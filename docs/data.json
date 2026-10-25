@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T03:50:26.260762+00:00",
+  "generated_at": "2026-10-25T04:08:39.346069+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -842,9 +842,29 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fc7aa0e2510>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f9df2b3a7b0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "｢田園調布より前の田園都市｣｢大正時代のエリートたちが好んだ｣…目黒駅からわずか6分にある\"隠れ高級住宅街\"の背景 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962289?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "再開発の波が押し寄せる東京で､なぜ｢洗足｣は昔のままの風景を守り続けているのか。田園都市として計画的に整えられた街路や､住民自身の土地へのこだわりが､変わらぬ暮らしを支えてきた背景とは。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-25T04:00:00+00:00"
+    },
+    {
+      "title": "｢日本初の本格的な郊外型高級住宅街｣｢渋沢栄一も開発に関わる｣…目黒･品川･大田区にまたがる\"隠れ高級住宅街\"の実態 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962288?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "近年､再開発が進む東京で､昔ながらの面影を今も色濃く残す｢洗足｣。高級住宅地として知られるこの街は､田園調布よりも早く計画された田園都市の先駆けでもありました。なぜこの地には高層ビルやタワーマンショ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-25T04:00:00+00:00"
+    },
     {
       "title": "10月FOMCは金利据え置きか 焦点",
       "link": "https://news.yahoo.co.jp/pickup/6600038?source=rss",
