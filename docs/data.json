@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T17:49:25.833703+00:00",
+  "generated_at": "2026-10-26T18:12:03.508604+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -870,6 +870,54 @@
   ],
   "items": [
     {
+      "title": "中国、輸出違反摘発が前年超え　レアアース規制、日本に影―高市首相台湾答弁１年",
+      "link": "https://www.jiji.com/jc/article?k=2026102600651&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-26T18:11:58.228829+00:00"
+    },
+    {
+      "title": "日本政府によると、邦人の健康状態には問題がない",
+      "link": "https://www.jiji.com/jc/article?k=2026102601137&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-26T18:11:58.228800+00:00"
+    },
+    {
+      "title": "These energy stocks are poised to profit from an imminent AI power crunch",
+      "link": "https://www.marketwatch.com/story/these-energy-stocks-are-poised-to-profit-from-an-imminent-ai-power-crunch-00c1a50d?mod=mw_rss_topstories",
+      "summary": "Bloom Energy and Solaris Energy would benefit from an urgency around securing power to AI developers.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-26T18:10:00+00:00"
+    },
+    {
+      "title": "Two-Year Treasury Auction Comes in Soft",
+      "link": "https://www.wsj.com/finance/jgb-yields-higher-amid-concerns-about-higher-energy-prices-897f5458?mod=rss_markets_main",
+      "summary": "Short-dated Treasury yields ticked higher after a $69 billion sale of two-year notes met soft demand.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-26T18:08:00+00:00"
+    },
+    {
+      "title": "Data governance with annotations in Amazon S3",
+      "link": "https://aws.amazon.com/blogs/architecture/data-governance-with-annotations-in-amazon-s3/",
+      "summary": "Attach governance context such as classification, retention, residency, and PII flags directly to your Amazon S3 objects with S3 annotations. This post walks through the end-to-end pattern and the handful of S3 behaviors that decide whether your governance design is correct.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-10-26T18:00:26+00:00"
+    },
+    {
+      "title": "‘Bold but sane’: what we learnt from Anthropic’s 240,000-word IPO filing",
+      "link": "https://www.ft.com/content/a6c43402-719e-4295-ae5f-541edb0aeb29?syn-25a6b1a6=1",
+      "summary": "Prospectus details AI lab’s ‘mission’, $800bn data centre commitments and extraordinary governance structure",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-26T17:45:49+00:00"
+    },
+    {
       "title": "Recommended resilience testing in the next generation of AWS Resilience Hub",
       "link": "https://aws.amazon.com/blogs/architecture/recommended-resilience-testing-in-the-next-generation-of-aws-resilience-hub/",
       "summary": "The next generation of AWS Resilience Hub introduces recommended resilience testing: four pre-configured, AWS FIS-powered tests that validate how your service detects and recovers from failures across Availability Zones, dependencies, and Regions, turning your resilience policy into evidence-backed pass or fail results.",
@@ -900,6 +948,22 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-26T17:32:00+00:00"
+    },
+    {
+      "title": "Why you shouldn’t bother reading the Anthropic IPO filing",
+      "link": "https://www.ft.com/content/d2faa674-766b-4699-83d0-d1f9ed65edbf?syn-25a6b1a6=1",
+      "summary": "Valuing AI lab based on its historic reported numbers is a fool’s errand",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-26T17:29:42+00:00"
+    },
+    {
+      "title": "Nietzschian Debugger",
+      "link": "https://github.com/DilawarShafiq/nietzschian-debugger",
+      "summary": "Article URL: https://github.com/DilawarShafiq/nietzschian-debugger\nComments URL: https://news.ycombinator.com/item?id=50247493\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-26T17:25:30+00:00"
     },
     {
       "title": "新興勢力大勝、強権に終止符　１４年ぶり政権交代へ―セルビア議会選",
@@ -1919,6 +1983,14 @@
     },
     {
       "title": "AI Giant Anthropic Flags Risk of Catastrophic Incident in IPO Paperwork",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-26-2026?mod=rss_markets_main",
+      "summary": "Documents set up Claude provider to go public next month",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-26T08:24:19+00:00"
+    },
+    {
+      "title": "Stock Market Today: AI Giant Anthropic Flags Risk of Catastrophic Incident in IPO Paperwork",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-26-2026?mod=rss_markets_main",
       "summary": "Documents set up Claude provider to go public next month",
       "source": "WSJ マーケット",
