@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T19:01:37.706885+00:00",
+  "generated_at": "2026-10-26T19:24:38.469258+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -870,12 +870,52 @@
   ],
   "items": [
     {
+      "title": "対中外交に尽力　幻の「大連立」構想―福田元首相",
+      "link": "https://www.jiji.com/jc/article?k=2026102600664&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-26T19:24:31.834560+00:00"
+    },
+    {
+      "title": "再選も、厳しい政治環境　分断深刻化、議会とはねじれ―ブラジル大統領選",
+      "link": "https://www.jiji.com/jc/article?k=2026102600946&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-26T19:24:31.834527+00:00"
+    },
+    {
+      "title": "McDonald’s new bet on chicken hits a snag as franchisees say the birds are too big",
+      "link": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
+      "summary": "McDonald’s franchisees have complained about “tough meat” and other issues with new hand-breaded chicken, an analyst said.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-26T19:17:00+00:00"
+    },
+    {
+      "title": "The EPA Is Quietly Killing Its Web Archive",
+      "link": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
+      "summary": "Article URL: https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/\nComments URL: https://news.ycombinator.com/item?id=50249275\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-26T19:05:41+00:00"
+    },
+    {
       "title": "Tech Shares Rally After Anthropic Files for Historic IPO",
       "link": "https://www.wsj.com/finance/investing/stock-futures-treasurys-steady-as-brazilian-assets-slide-402fb905?mod=rss_markets_main",
       "summary": "U.S. stocks gained as tech shares rallied, with investors seemingly setting aside the AI jitters that plagued some stocks earlier in the session.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-26T18:53:00+00:00"
+    },
+    {
+      "title": "US designates helium as a critical material",
+      "link": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
+      "summary": "Article URL: https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c\nComments URL: https://news.ycombinator.com/item?id=50248665\nPoints: 32\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-26T18:31:39+00:00"
     },
     {
       "title": "Microsoft Announces Type Server Protocol, Extension of Language Server Protocol",
