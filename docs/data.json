@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T00:20:46.100414+00:00",
+  "generated_at": "2026-10-26T01:09:27.133690+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -858,12 +858,44 @@
   ],
   "items": [
     {
+      "title": "Lula re-elected Brazil’s president in knife-edge election",
+      "link": "https://www.ft.com/content/7585a18f-88d9-4fcd-882d-ed938c7c9c41?syn-25a6b1a6=1",
+      "summary": "Victory of 80-year-old leftist over Flávio Bolsonaro is blow to Trump’s plan for greater US influence in Latin America",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-26T00:56:03+00:00"
+    },
+    {
+      "title": "Lula wins election after final votes tallied",
+      "link": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
+      "summary": "Article URL: https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/\nComments URL: https://news.ycombinator.com/item?id=50237485\nPoints: 70\n# Comments: 20",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-26T00:31:07+00:00"
+    },
+    {
+      "title": "国債金利情報(令和8年10月23日)",
+      "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-26T00:30:00+00:00"
+    },
+    {
       "title": "After Hungary, Serbia takes its turn to show the power of the people",
       "link": "https://www.ft.com/content/dde6aa59-d48d-429a-9a29-db2dc5ae418c?syn-25a6b1a6=1",
       "summary": "Anger at corruption and an unaccountable government turned Serbs decisively against their autocratic leader Aleksandar Vučić",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-25T23:54:05+00:00"
+    },
+    {
+      "title": "Attention Is Not What You Need",
+      "link": "https://arxiv.org/abs/2512.19428",
+      "summary": "Article URL: https://arxiv.org/abs/2512.19428\nComments URL: https://news.ycombinator.com/item?id=50237224\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-25T23:52:05+00:00"
     },
     {
       "title": "電車が駅で140m過ぎて停車 戻らず",
