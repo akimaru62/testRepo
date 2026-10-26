@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T18:41:15.834405+00:00",
+  "generated_at": "2026-10-26T19:01:37.706885+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -870,6 +870,14 @@
   ],
   "items": [
     {
+      "title": "Tech Shares Rally After Anthropic Files for Historic IPO",
+      "link": "https://www.wsj.com/finance/investing/stock-futures-treasurys-steady-as-brazilian-assets-slide-402fb905?mod=rss_markets_main",
+      "summary": "U.S. stocks gained as tech shares rallied, with investors seemingly setting aside the AI jitters that plagued some stocks earlier in the session.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-26T18:53:00+00:00"
+    },
+    {
       "title": "Microsoft Announces Type Server Protocol, Extension of Language Server Protocol",
       "link": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
       "summary": "Article URL: https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md\nComments URL: https://news.ycombinator.com/item?id=50248371\nPoints: 3\n# Comments: 0",
@@ -958,6 +966,22 @@
       "published": "2026-10-26T17:56:55+00:00"
     },
     {
+      "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
+      "link": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
+      "summary": "Article URL: https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/\nComments URL: https://news.ycombinator.com/item?id=50248005\nPoints: 12\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-26T17:54:00+00:00"
+    },
+    {
+      "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
+      "link": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
+      "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html\nComments URL: https://news.ycombinator.com/item?id=50247928\nPoints: 13\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-26T17:49:55+00:00"
+    },
+    {
       "title": "‘Bold but sane’: what we learnt from Anthropic’s 240,000-word IPO filing",
       "link": "https://www.ft.com/content/a6c43402-719e-4295-ae5f-541edb0aeb29?syn-25a6b1a6=1",
       "summary": "Prospectus details AI lab’s ‘mission’, $800bn data centre commitments and extraordinary governance structure",
@@ -1004,6 +1028,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-26T17:29:42+00:00"
+    },
+    {
+      "title": "Should Police Wipe a Criminal's Cellphone Before Returning It?–U.S. vs. Stathas",
+      "link": "https://blog.ericgoldman.org/archives/2026/10/should-police-wipe-a-criminals-cellphone-before-returning-it-u-s-v-stathas.htm",
+      "summary": "Article URL: https://blog.ericgoldman.org/archives/2026/10/should-police-wipe-a-criminals-cellphone-before-returning-it-u-s-v-stathas.htm\nComments URL: https://news.ycombinator.com/item?id=50247559\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-26T17:28:26+00:00"
     },
     {
       "title": "Nietzschian Debugger",
