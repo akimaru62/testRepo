@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T16:11:14.297798+00:00",
+  "generated_at": "2026-10-26T16:31:42.324619+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -862,9 +862,29 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fb5b08f6900>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Read timed out. (read timeout=15)"
     }
   ],
   "items": [
+    {
+      "title": "U.S. Stocks Higher as Tech Rallies",
+      "link": "https://www.wsj.com/finance/investing/stock-futures-treasurys-steady-as-brazilian-assets-slide-402fb905?mod=rss_markets_main",
+      "summary": "U.S. stocks rose as tech shares rallied, with investors seemingly setting aside the AI jitters that plagued some stocks earlier in the session.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-26T16:20:00+00:00"
+    },
+    {
+      "title": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+      "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+      "summary": "“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-26T16:15:00+00:00"
+    },
     {
       "title": "日本Ｓ、２７日第３戦　ソフトバンク連勝で福岡へ―プロ野球",
       "link": "https://www.jiji.com/jc/article?k=2026102600924&g=spo&m=rss",
@@ -890,12 +910,28 @@
       "published": "2026-10-26T16:11:08.234029+00:00"
     },
     {
+      "title": "Brazilian Markets Crash After Lula’s Surprise Election Win Stuns Investors",
+      "link": "https://www.wsj.com/finance/brazils-surprise-election-outcome-set-to-batter-stocks-real-35253aa8?mod=rss_markets_main",
+      "summary": "Brazil’s main stock market index dropped to a two-month low after President Luiz Inácio Lula da Silva secured a surprise victory in the presidential election runoff.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-26T16:11:00+00:00"
+    },
+    {
       "title": "This strategist says it’s a matter of when, not if, the AI bubble pops. Here’s how to prepare for that.",
       "link": "https://www.marketwatch.com/story/this-strategist-says-its-a-matter-of-when-not-if-the-ai-bubble-pops-heres-how-to-prepare-for-that-86ffbf30?mod=mw_rss_topstories",
       "summary": "TS Lombard says the AI investment theme is a bubble destined to pop. What investors shouldn’t try to do is time when that will happen.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-26T16:05:00+00:00"
+    },
+    {
+      "title": "Trump’s fresh campaign against wind power puts permitting deal in doubt",
+      "link": "https://www.ft.com/content/8cdadf5d-5859-422d-982a-fab0e9f2a619?syn-25a6b1a6=1",
+      "summary": "Administration’s challenge to projects ends a renewables détente aimed at attracting bipartisan support for bill",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-26T16:01:08+00:00"
     },
     {
       "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
