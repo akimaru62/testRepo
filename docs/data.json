@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T17:25:20.709145+00:00",
+  "generated_at": "2026-10-26T17:37:54.971391+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -870,12 +870,36 @@
   ],
   "items": [
     {
+      "title": "Recommended resilience testing in the next generation of AWS Resilience Hub",
+      "link": "https://aws.amazon.com/blogs/architecture/recommended-resilience-testing-in-the-next-generation-of-aws-resilience-hub/",
+      "summary": "The next generation of AWS Resilience Hub introduces recommended resilience testing: four pre-configured, AWS FIS-powered tests that validate how your service detects and recovers from failures across Availability Zones, dependencies, and Regions, turning your resilience policy into evidence-backed pass or fail results.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-10-26T17:35:01+00:00"
+    },
+    {
+      "title": "Meet the financial-literacy teacher who helps high-school students open their own Roth IRAs",
+      "link": "https://www.marketwatch.com/story/meet-the-financial-literacy-teacher-who-helps-high-school-students-open-their-own-roth-iras-652d56a8?mod=mw_rss_topstories",
+      "summary": "Christopher Jackson got hurt before his first NFL game. He now coaches teens on building wealth.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-26T17:32:00+00:00"
+    },
+    {
       "title": "新興勢力大勝、強権に終止符　１４年ぶり政権交代へ―セルビア議会選",
       "link": "https://www.jiji.com/jc/article?k=2026102600133&g=int&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-26T17:25:14.733221+00:00"
+    },
+    {
+      "title": "The Git Forge for Agent-Human Collaboration",
+      "link": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
+      "summary": "Article URL: https://entire.com/blog/the-git-forge-for-agent-human-collaboration\nComments URL: https://news.ycombinator.com/item?id=50247453\nPoints: 11\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-26T17:23:11+00:00"
     },
     {
       "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
@@ -892,6 +916,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-26T16:40:00+00:00"
+    },
+    {
+      "title": "Concerning behavior from a popular open-weight AI model",
+      "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model\nComments URL: https://news.ycombinator.com/item?id=50246658\nPoints: 20\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-26T16:35:44+00:00"
     },
     {
       "title": "U.S. Stocks Higher as Tech Rallies",
