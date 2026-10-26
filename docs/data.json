@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T14:51:44.572893+00:00",
+  "generated_at": "2026-10-26T15:30:19.172290+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -866,6 +866,46 @@
   ],
   "items": [
     {
+      "title": "イスラエル総選挙控え、ネタニヤフ政権に抗議する数千人がデモ",
+      "link": "https://www.jiji.com/jc/article?k=20261026049501a&g=afp&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-26T15:30:13.255837+00:00"
+    },
+    {
+      "title": "米軍、嘉手納基地から中国車排除　「隊員や任務にリスク」",
+      "link": "https://www.jiji.com/jc/article?k=2026102600934&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-26T15:30:13.255808+00:00"
+    },
+    {
+      "title": "アンソロピックが目論見書を提出　26年上半期は12兆円超の赤字",
+      "link": "https://www.asahi.com/articles/ASVBV4V88VBVUHBI028M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-26T15:30:12.723993+00:00"
+    },
+    {
+      "title": "AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-polly-generative-engine-torchneuron-for-trainium-and-more-october-26-2026/",
+      "summary": "A few weeks ago I presented to a small group of commercial and technology leaders from Brazilian agribusiness at the AWS office in São Paulo. My talk ran through where generative AI fits across the different stages of an agribusiness operation, and the point I kept returning to is that the markets we call traditional […]",
+      "source": "AWS ブログ (AWS)",
+      "category": "テクノロジー",
+      "published": "2026-10-26T15:02:24+00:00"
+    },
+    {
+      "title": "米Anthropic IPO申請書類を公開",
+      "link": "https://news.yahoo.co.jp/pickup/6600240?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-26T15:02:06+00:00"
+    },
+    {
       "title": "「外国代理人制度」の検討着手　政府、スパイ防止法第１弾",
       "link": "https://www.jiji.com/jc/article?k=2026102600774&g=pol&m=rss",
       "summary": "",
@@ -882,6 +922,14 @@
       "published": "2026-10-26T14:51:38.278773+00:00"
     },
     {
+      "title": "Peta releases video showing experiments on infant monkeys at Univ of Washington",
+      "link": "https://www.theguardian.com/us-news/2026/oct/26/peta-monkey-experiment-video",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/oct/26/peta-monkey-experiment-video\nComments URL: https://news.ycombinator.com/item?id=50244744\nPoints: 12\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-26T14:50:50+00:00"
+    },
+    {
       "title": "Two stock picks to capitalize on Wall Street’s misguided AI fears",
       "link": "https://www.marketwatch.com/story/two-stock-picks-to-capitalize-on-wall-streets-misguided-ai-fears-41f81755?mod=mw_rss_topstories",
       "summary": "Sowmdeb Sen of Silvant Capital Management highlights companies poised to benefit from the acceleration of AI spending.",
@@ -890,12 +938,28 @@
       "published": "2026-10-26T14:47:00+00:00"
     },
     {
+      "title": "Partyline: A group voice application for Reticulum, built on LXST",
+      "link": "https://github.com/RFnexus/partyline",
+      "summary": "Article URL: https://github.com/RFnexus/partyline\nComments URL: https://news.ycombinator.com/item?id=50244583\nPoints: 11\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-26T14:42:24+00:00"
+    },
+    {
       "title": "Brazil’s markets tumble as investors bet Lula will add to fiscal pain",
       "link": "https://www.ft.com/content/bffe028e-838d-4e74-b05e-62f6db4978db?syn-25a6b1a6=1",
       "summary": "Investors had been positioned for victory by rightwing Bolsonaro, seen as more willing to tackle budget deficit",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-26T14:38:26+00:00"
+    },
+    {
+      "title": "AmiJa, a cycle-exact Amiga emulator written in Java",
+      "link": "https://www.reddit.com/r/amiga/comments/1xftc5s/amija_amiga_emulator_in_java/",
+      "summary": "Article URL: https://www.reddit.com/r/amiga/comments/1xftc5s/amija_amiga_emulator_in_java/\nComments URL: https://news.ycombinator.com/item?id=50244410\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-26T14:32:11+00:00"
     },
     {
       "title": "Vegemite is not a human right",
@@ -928,6 +992,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-10-26T13:59:07+00:00"
+    },
+    {
+      "title": "DOJ says presidents should be able to sell secrets on eBay",
+      "link": "https://freedom.press/the-classifieds/doj-says-presidents-should-be-able-to-sell-secrets-on-ebay/",
+      "summary": "Article URL: https://freedom.press/the-classifieds/doj-says-presidents-should-be-able-to-sell-secrets-on-ebay/\nComments URL: https://news.ycombinator.com/item?id=50243762\nPoints: 54\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-26T13:54:44+00:00"
     },
     {
       "title": "The excitement around Moderna’s cancer vaccine is cooling. Here’s why.",
