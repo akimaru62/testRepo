@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T04:32:05.460584+00:00",
+  "generated_at": "2026-10-26T04:56:17.454376+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -854,9 +854,21 @@
     {
       "url": "https://cloud.google.com/blog/rss",
       "error": "503 Server Error: Service Unavailable for url: https://cloud.google.com/blog/rss"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/rss/topics/business.xml",
+      "error": "503 Server Error: Service Temporarily Unavailable for url: https://news.yahoo.co.jp/rss/topics/business.xml"
     }
   ],
   "items": [
+    {
+      "title": "チームみらい、「ＡＩ失業」への備え提言",
+      "link": "https://www.jiji.com/jc/article?k=2026102600478&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-26T04:56:12.858992+00:00"
+    },
     {
       "title": "みらい、「ＡＩ失業」への備え提言",
       "link": "https://www.jiji.com/jc/article?k=2026102600478&g=pol&m=rss",
@@ -888,6 +900,22 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-10-26T04:29:04+00:00"
+    },
+    {
+      "title": "AI活用で処遇改善、週休3日を導入　建設会社社長から介護事業を“起業”した経営者の「実行力」",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/26/news054.html",
+      "summary": "建設会社社長という立場から、還暦を契機に介護事業を“起業”した。「このまま人生を終えていいのか」と始まった第二の人生を突き進み、今は第三の人生の幕を開けつつある。新しいことへのアンテナは敏感で、実行に移すスピードも変わらない。（聞き手　小川記代子）",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-10-26T04:00:00+00:00"
+    },
+    {
+      "title": "US Wages Share of GDI at 75 Year Low",
+      "link": "https://fred.stlouisfed.org/series/W270RE1A156NBEA",
+      "summary": "Article URL: https://fred.stlouisfed.org/series/W270RE1A156NBEA\nComments URL: https://news.ycombinator.com/item?id=50238884\nPoints: 33\n# Comments: 9",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-26T03:51:10+00:00"
     },
     {
       "title": "退職倒産が最多 中小企業どう対応",
@@ -960,6 +988,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-26T03:23:57+00:00"
+    },
+    {
+      "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+      "link": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+      "summary": "Article URL: https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/\nComments URL: https://news.ycombinator.com/item?id=50238620\nPoints: 9\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-26T03:12:05+00:00"
     },
     {
       "title": "Asian Stocks Decline as Appetite for Risky Assets Ebbs",
@@ -1189,6 +1225,14 @@
       "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
       "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
       "summary": "Article URL: https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640\nComments URL: https://news.ycombinator.com/item?id=50238088\nPoints: 15\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-26T01:47:46+00:00"
+    },
+    {
+      "title": "IBM CEO says open weight models are now good and cheap on-prem",
+      "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "summary": "Article URL: https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640\nComments URL: https://news.ycombinator.com/item?id=50238088\nPoints: 103\n# Comments: 68",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-26T01:47:46+00:00"
