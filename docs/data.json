@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T22:26:36.660083+00:00",
+  "generated_at": "2026-10-26T22:41:15.122104+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -866,9 +866,37 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fa174ceaa50>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "ウイスキー1本4億円超で落札 なぜ",
+      "link": "https://news.yahoo.co.jp/pickup/6600250?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-26T22:34:48+00:00"
+    },
+    {
+      "title": "現代の失敗が許されない子どもたちに…『ねないこ だれだ』作者の娘が\"いじっぱりな自分がモデルの絵本\"を復刊した訳 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961730?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "50年以上前に生まれたせなけいこの｢おおきくなりたい絵本｣シリーズが復刊されました。ルルちゃんのモデルとなった黒田かおるさんが語る､作品と再び向き合うまでの葛藤と気づきを取材しました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-26T22:30:00+00:00"
+    },
+    {
+      "title": "米MS 6万人に退職パッケージ提示",
+      "link": "https://news.yahoo.co.jp/pickup/6600248?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-26T22:27:23+00:00"
+    },
     {
       "title": "米ガソリン価格、バイデン時代超え　トランプ政権下、イラン攻撃で",
       "link": "https://www.jiji.com/jc/article?k=2026102700124&g=int&m=rss",
@@ -923,6 +951,46 @@
       "summary": "Consumers in China are starting to wonder — for good reason — whether the emerging AI travel agents have a hidden agenda.",
       "source": "MarketWatch",
       "category": "海外金融",
+      "published": "2026-10-26T22:00:00+00:00"
+    },
+    {
+      "title": "ソニーの半導体工場、アイシン九州の部品工場に学ぶBCP　熊本地震と台湾リスクが問う『分散と集積』の二重構造",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/27/news011.html",
+      "summary": "2016年の熊本地震で、トヨタの完成車工場が停止した。その教訓を生かして、熊本に集まる自動車部品メーカーや半導体関連企業が取るリスク対策とは。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-10-26T22:00:00+00:00"
+    },
+    {
+      "title": "AIで「月○○時間削減」それ本当？　浮いた時間はどこに消えたのか",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/27/news016.html",
+      "summary": "AI導入によって「月数千時間を削減しました」――こんな“華麗な成果”を示しても、人件費が減るわけでなはい。浮いた時間はどこに消えたのか。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-10-26T22:00:00+00:00"
+    },
+    {
+      "title": "熊本地震「避難状況マップ」秘話　2日で開発も「こんなの使えない」と突き返され……",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/27/news014.html",
+      "summary": "令和8年熊本地震の発災から2日後、IT企業が“避難状況マップ”を開発した。しかし現場からは「こんなものは使えない」と言われてしまう。この状況をどう打開したのか。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-10-26T22:00:00+00:00"
+    },
+    {
+      "title": "「遅延なきネットワーク」ソブリンAIの鍵に　NTT川添氏が語る「IOWN」実装後の社会",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/27/news024.html",
+      "summary": "次世代光通信技術「IOWN」が、机上の概念検証（PoC）を越え現実空間を動かす「フィジカルAI」の実装フェーズへ突入した。オランダでの年次中間会議を受け、NTTの川添雄彦氏にインタビューした。米中テックに対抗し主権を守る「ソブリンAI」の基盤としての勝算など、光インフラの現在地と社会実装の展望を聞く。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-10-26T22:00:00+00:00"
+    },
+    {
+      "title": "FDEは「スーパーマンと思われがちだが……」　脱・人月モデルで期待大、AI時代の“花形職種”の実像は？",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/27/news013.html",
+      "summary": "AI時代にエンジニアの花形として注目される「FDE」は、従来型SEと何が違うのか。FDEは、スーパーマンなのだろうか。IT業界が生み出した“新たな職種”の実像に迫る。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
       "published": "2026-10-26T22:00:00+00:00"
     },
     {
@@ -1492,6 +1560,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-26T18:14:49+00:00"
+    },
+    {
+      "title": "Lula’s stunning comeback meets fiscal reality",
+      "link": "https://www.ft.com/content/79785581-88c2-49a9-a109-9d5ccafc3c7d?syn-25a6b1a6=1",
+      "summary": "Brazil’s president must now rein in spending and build a broad coalition",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-26T18:14:43+00:00"
     },
     {
       "title": "中国、輸出違反摘発が前年超え　レアアース規制、日本に影―高市首相台湾答弁１年",
