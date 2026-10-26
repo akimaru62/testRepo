@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T20:52:16.709821+00:00",
+  "generated_at": "2026-10-26T21:06:34.914959+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -870,6 +870,62 @@
   ],
   "items": [
     {
+      "title": "Why Lumentum’s stock led the S&P 500 higher on Monday",
+      "link": "https://www.marketwatch.com/story/why-lumentums-stock-led-the-s-p-500-higher-on-monday-0dff125b?mod=mw_rss_topstories",
+      "summary": "Optical stocks are staging a comeback following Anthropic’s IPO filing and some other good news",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-26T21:04:00+00:00"
+    },
+    {
+      "title": "〈袋小路のフランス〉歳出抑制すれば国民が抗議デモ､財政悪化には金融市場が抗議し金利上昇…27年大統領選まで続くか | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962546?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "フランスの財政不安と政治的分断が引き金となり､債券市場の混乱やユーロ相場の下落が続く中､高校生の抗議から始まった社会不安は広範な公共サービスや物価高への不満へと拡大。政治の麻痺と27年選挙を控えた不…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-26T21:00:00+00:00"
+    },
+    {
+      "title": "GMO｢お名前.comデスクトップクラウド｣を襲ったサイバー攻撃､熊谷代表が｢人生の全てを賭ける｣と断言した意味 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962532?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "GMOインターネットの仮想サーバーが大規模な不正アクセス被害に遭い､数十億円規模の損失が発生しました。システムの脆弱性や補償､身代金要求など事件の深層は。熊谷正寿代表の覚悟､そして日本の｢能動的サイ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-26T21:00:00+00:00"
+    },
+    {
+      "title": "119億円を国に提示→交渉不成立も10年以上｢ほぼ何もせず｣…新宿駅から徒歩圏｢超一等空き地｣を渋谷区が買えなかった顛末 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961899?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "新宿駅徒歩圏の超一等地でありながら､長年空き地のまま放置されている旧千駄ヶ谷住宅跡地。絶大な価値を持つにも関わらず､\"なぜ活用されないのか\"ーーその真相に迫ります。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-26T21:00:00+00:00"
+    },
+    {
+      "title": "｢防刃チョッキ｣を着て\"屈することなく邁進\"しなければならないのか――介護の現場から困惑の声が続出 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961076?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "埼玉県川口市でケアマネジャーが刺殺されるなど､介護現場で相次ぐ事件が社会に衝撃を与えています。行政や団体の対策は現場感覚と乖離し､ケアマネの不安は募るばかり。現場の声なき声に耳を傾け､真の解決策を問…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-26T21:00:00+00:00"
+    },
+    {
+      "title": "｢形式よりも実態を深く検証｣EY新日本･藤原選パートナーが語る\"オルツ後\"のIPOに向けた監査･審査の現状 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960818?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "――スタートアップでは近年、オルツの不正事案が大きな問題となりました。これを受けて業界で変わったことはありますか。不正そのものは上場準備企業全体から見れば一部に過ぎないが、スタートアップ業界全体で、…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-26T21:00:00+00:00"
+    },
+    {
+      "title": "Banks, Blackstone Form $63 Billion Financing Vehicle for Broadcom AI Tech",
+      "link": "https://www.wsj.com/tech/ai/banks-blackstone-form-63-billion-financing-vehicle-for-broadcom-ai-tech-0438f6d2?mod=rss_markets_main",
+      "summary": "A coalition of major financial institutions is lining up $63 billion in financing to purchase artificial-intelligence computing infrastructure from Broadcom and lease it to Anthropic.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-26T21:00:00+00:00"
+    },
+    {
       "title": "ホンダ､日産は新車販売半減…総崩れの中国市場で打つ手は？みずほ銀行･湯進氏に聞く日本車メーカーの生き残り策 | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/962292?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "――中国市場で日本車の苦戦が鮮明です。足元の市場環境をどう見ていますか。そうとう厳しい状況だ。中国でEV（電気自動車）などのNEV（新エネルギー車）の販売比率が上がれば、ガソリン車やHV（ハイブリッ…",
@@ -883,6 +939,14 @@
       "summary": "AI企業は､社会の損害にどこまで責任を負うべきか――。SNSの過去から私たちが学ぶべきは､企業への厳格な法的責任こそが被害を防ぐ唯一の道だという現実です。",
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
+      "published": "2026-10-26T20:50:00+00:00"
+    },
+    {
+      "title": "With the Anthropic IPO, the devil is in the details",
+      "link": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
+      "summary": "The first draft of the AI company’s prospectus is light on details, but some things immediately leap out.",
+      "source": "MarketWatch",
+      "category": "海外金融",
       "published": "2026-10-26T20:50:00+00:00"
     },
     {
