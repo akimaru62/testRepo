@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T20:08:19.672017+00:00",
+  "generated_at": "2026-10-26T20:27:17.863855+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -870,6 +870,46 @@
   ],
   "items": [
     {
+      "title": "U.S. Stocks Rise Ahead of Tech Earnings",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-ahead-of-tech-earnings-d53bc5e5?mod=rss_markets_main",
+      "summary": "U.S. stocks rose as Anthropic’s IPO filing stemmed anxiety about a potential AI bubble ahead of tech earnings reports and a Federal Reserve policy statement later in the week.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-26T20:20:00+00:00"
+    },
+    {
+      "title": "すごいベンチャー【52】東北医工／手指のリハビリをロボットで | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961767?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "［社 名］東北医工［設 立］2022年5月［資本金（資本準備金含む）］2300万円［社員数］4人／5人［代表者名］大関一陽［所在地］岩手県盛岡市   大学発 脳卒中による片マ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-26T20:15:00+00:00"
+    },
+    {
+      "title": "すごいベンチャー【51】JiMED／脳信号技術で失われた機能を再建 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961766?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "［社 名］JiMED（ジーメド）［設 立］2020年3月［資本金（資本準備金含む）］8億4497万円［社員数］10人／15人［代表者名］中村 仁［所在地］大阪府吹田市   大…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-26T20:15:00+00:00"
+    },
+    {
+      "title": "すごいベンチャー【50】スコヒアファーマ／研究者社長が創薬会社を再生 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961765?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "［社 名］スコヒアファーマ［設 立］2017年3月［資本金（資本準備金含む）］39億3782万円［社員数］21人／24人［代表者名］渡部正教［所在地］神奈川県藤沢市武田薬品工…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-26T20:15:00+00:00"
+    },
+    {
+      "title": "Sorry investors, but there’s no such thing as an early ‘Santa Claus rally.’ Here’s when the real gains typically happen.",
+      "link": "https://www.marketwatch.com/story/sorry-investors-but-theres-no-such-thing-as-an-early-santa-claus-rally-heres-when-the-real-gains-typically-happen-7af822cd?mod=mw_rss_topstories",
+      "summary": "Analysts like to overhype stock-market rallies in the fall, but the numbers show Santa only arrives once a year",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-26T20:09:00+00:00"
+    },
+    {
       "title": "｢トランプ氏は高市氏に力がないと安心している｣の声も…《中間選挙》で暴走しそうな超大国に頼る日本の賭けは誤り？ | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/962551?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "アメリカのトランプ大統領に積極的に歩み寄ってきた高市早苗首相。しかし､トランプ氏が求心力を失い孤立する中､日本は厳しい外交的岐路に立たされています。トランプ氏の予測不能な行動が世界情勢を揺るがす今､…",
@@ -1009,6 +1049,14 @@
       "title": "Microsoft Announces Type Server Protocol, Extension of Language Server Protocol",
       "link": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
       "summary": "Article URL: https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md\nComments URL: https://news.ycombinator.com/item?id=50248371\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-26T18:14:49+00:00"
+    },
+    {
+      "title": "Type Server Protocol",
+      "link": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+      "summary": "Article URL: https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md\nComments URL: https://news.ycombinator.com/item?id=50248371\nPoints: 112\n# Comments: 61",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-26T18:14:49+00:00"
@@ -1236,6 +1284,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-26T16:15:00+00:00"
+    },
+    {
+      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+      "link": "https://github.com/FrigadeHQ/hob",
+      "summary": "Hey HN, I'm Christian and this is a new OSS project I've been noodling on for the last couple of weeks. Hob is a free, MIT-licensed desktop app for Mac, Windows and Linux that works on your files the way the Claude and ChatGPT desktop apps do, except the model runs on your own computer. It uses open-weight models (currently Gemma 4 and gpt-oss). All your chats and files never leave your system. The only things that go online are web search (can be turned off in settings) and any MCP connectors you add yourself.Main features:- Automatically finds the best open-weight model for your hardware on first install (Mac/Linux/Windows)- Writes sandboxed Python code for ad hoc tools (data processing, document conversion, graphs etc.)- Built-in web search (powered by SearXNG)- MCP support- Image recognition- CRUD to your local filesystem- Works fully offline with no internetBefore building this I tried every local AI app I could find, but it seemed each one had different problems. The main thing I noticed is that none of them could do what the ChatGPT and Claude apps do with your files, e.g. read and change files in a folder, look at images, run code in a sandbox, draw a chart. The most advanced thing any of them did was paste a plain text file into a small context window, which basically failed as soon as you had a file larger than a few KB. I couldn't find anything that could easily parse images and bigger PDFs.The OSS solutions that were more advanced all seemed to default to hosted models (either OSS or closed), which defeats the entire point of the privacy that on-device OSS offers. They also seemed to push towards an account/open-core style business.I build it using Electron bridged with llama.cpp in its own process. On initial load, the system will try and figure out if you have a compatible graphics card and if not default to CPU-only (I ran into a lot of issues of graphics card beeing seemingly compatible but then crashing on first query, there's a whole saga to this lol). Code execution happens in a sandbox that can only write to the chat's folder and has no network unless asked (sandbox-exec on macOS, Landlock on Linux and a low-integrity process on Windows). Images go to a small Qwen3-VL model. Dictation is a local Whisper model.The hardest part was definitely to get the smaller models to use tools reliably. Ran into a ton of issues of 4B models happily saying \"here's your chart\" without ever calling the chart tool or get stuck in an infinite call loop. I spent a fair amount of the work building guards vs tweaking prompts (that didn't really work for small models).I understand the pushback that local models are weaker than frontier cloud models. This is true, but for most tasks for most normal people, I'd argue you rarely need the newest frontier model. From my own evals, systems with 16+ GB of RAM do really well, and if you have a GPU or more RAM, you get very close to what you'll get out of the box with a frontier hosted model.Excited to hear what you think and see how it runs on other systems!\n\nComments URL: https://news.ycombinator.com/item?id=50246238\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-26T16:12:29+00:00"
     },
     {
       "title": "日本Ｓ、２７日第３戦　ソフトバンク連勝で福岡へ―プロ野球",
