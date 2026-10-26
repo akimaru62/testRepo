@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T11:07:56.862179+00:00",
+  "generated_at": "2026-10-26T11:30:34.928223+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -858,6 +858,10 @@
     {
       "url": "https://news.yahoo.co.jp/rss/topics/business.xml",
       "error": "503 Server Error: Service Temporarily Unavailable for url: https://news.yahoo.co.jp/rss/topics/business.xml"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fb5b08f6900>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -876,6 +880,62 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-26T12:00:00+00:00"
+    },
+    {
+      "title": "「親中派重鎮」中国で惜しむ声　政府、哀悼の意―福田氏死去",
+      "link": "https://www.jiji.com/jc/article?k=2026102600932&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-26T11:30:30.628553+00:00"
+    },
+    {
+      "title": "高市首相、能動防御「戦略的に実行」　不正アクセス、来週にも緊急対策",
+      "link": "https://www.jiji.com/jc/article?k=2026102600431&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-26T11:30:30.628543+00:00"
+    },
+    {
+      "title": "炎鵬関、結婚会見で支えに感謝　妻は「太陽、生きる希望」―大相撲",
+      "link": "https://www.jiji.com/jc/article?k=2026102600955&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-26T11:30:30.628531+00:00"
+    },
+    {
+      "title": "アクセス無害化「戦略的に実行」　高市首相、来週めどに緊急対策案",
+      "link": "https://www.jiji.com/jc/article?k=2026102600939&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-26T11:30:30.628497+00:00"
+    },
+    {
+      "title": "ジョーシン、約600万件漏洩の可能性　免許証画像やマイナカードも",
+      "link": "https://www.asahi.com/articles/ASVBV3J92VBVPLFA00VM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-26T11:30:29.876385+00:00"
+    },
+    {
+      "title": "Meta plans $95bn stock offering to bankroll AI expansion",
+      "link": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555?syn-25a6b1a6=1",
+      "summary": "Chipmakers Nvidia, AMD and Broadcom will act as cornerstone investors",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-26T11:15:50+00:00"
+    },
+    {
+      "title": "Verizon’s stock rises as subscriber surge impresses Wall Street",
+      "link": "https://www.marketwatch.com/story/verizons-stock-rises-as-subscriber-surge-impresses-wall-street-2be3ef2c?mod=mw_rss_topstories",
+      "summary": "Verizon’s performance on a key measure of subscriber growth was more than double what analysts had expected",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-26T11:11:00+00:00"
     },
     {
       "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年10月９日）について掲載しました。",
