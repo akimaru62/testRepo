@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T15:30:19.172290+00:00",
+  "generated_at": "2026-10-26T15:55:31.146692+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -866,6 +866,14 @@
   ],
   "items": [
     {
+      "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+      "link": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+      "summary": "Article URL: https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/\nComments URL: https://news.ycombinator.com/item?id=50245524\nPoints: 8\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-26T15:35:12+00:00"
+    },
+    {
       "title": "イスラエル総選挙控え、ネタニヤフ政権に抗議する数千人がデモ",
       "link": "https://www.jiji.com/jc/article?k=20261026049501a&g=afp&m=rss",
       "summary": "",
@@ -888,6 +896,22 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-26T15:30:12.723993+00:00"
+    },
+    {
+      "title": "'It's offensively cheap': Solar power is quietly becoming bigger than nuclear",
+      "link": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+      "summary": "Article URL: https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear\nComments URL: https://news.ycombinator.com/item?id=50245385\nPoints: 13\n# Comments: 9",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-26T15:26:17+00:00"
+    },
+    {
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "link": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "summary": "Article URL: https://magazine.sebastianraschka.com/p/building-reasoning-models\nComments URL: https://news.ycombinator.com/item?id=50245138\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-26T15:11:59+00:00"
     },
     {
       "title": "AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026)",
@@ -2624,6 +2648,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-10-25T22:30:00+00:00"
+    },
+    {
+      "title": "SIMD-accelerated computer vision on a $2 microcontroller",
+      "link": "https://shraiwi.com/blog/simd-fast-esp32s3/",
+      "summary": "Article URL: https://shraiwi.com/blog/simd-fast-esp32s3/\nComments URL: https://news.ycombinator.com/item?id=50236681\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-25T22:29:47+00:00"
     },
     {
       "title": "セルビアメディアによると、国民議会選挙でブチッチ前大統領が敗北を認めた",
