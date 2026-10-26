@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T18:12:03.508604+00:00",
+  "generated_at": "2026-10-26T18:41:15.834405+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -870,6 +870,14 @@
   ],
   "items": [
     {
+      "title": "Microsoft Announces Type Server Protocol, Extension of Language Server Protocol",
+      "link": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+      "summary": "Article URL: https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md\nComments URL: https://news.ycombinator.com/item?id=50248371\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-26T18:14:49+00:00"
+    },
+    {
       "title": "中国、輸出違反摘発が前年超え　レアアース規制、日本に影―高市首相台湾答弁１年",
       "link": "https://www.jiji.com/jc/article?k=2026102600651&g=int&m=rss",
       "summary": "",
@@ -894,6 +902,14 @@
       "published": "2026-10-26T18:10:00+00:00"
     },
     {
+      "title": "Gold Futures Pick Up As Oil Prices Pull Back",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-flat-hovering-below-4-000-oz-fad3282f?mod=rss_markets_main",
+      "summary": "Gold futures settled higher with support from a pullback in oil prices, while shrugging off U.S. dollar gains and an uptick in 2-year yields.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-26T18:09:00+00:00"
+    },
+    {
       "title": "Two-Year Treasury Auction Comes in Soft",
       "link": "https://www.wsj.com/finance/jgb-yields-higher-amid-concerns-about-higher-energy-prices-897f5458?mod=rss_markets_main",
       "summary": "Short-dated Treasury yields ticked higher after a $69 billion sale of two-year notes met soft demand.",
@@ -902,12 +918,44 @@
       "published": "2026-10-26T18:08:00+00:00"
     },
     {
+      "title": "Trump administration illegally fired Maurene Comey, judge rules",
+      "link": "https://www.ft.com/content/627ed704-f736-4fa2-91c9-67e53577fb7f?syn-25a6b1a6=1",
+      "summary": "Ruling deals a blow to the US government’s claims of sweeping presidential power to sack officials",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-26T18:05:21+00:00"
+    },
+    {
+      "title": "GPT-6.1 Terra",
+      "link": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-terra/\nComments URL: https://news.ycombinator.com/item?id=50248124\nPoints: 77\n# Comments: 25",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-26T18:01:17+00:00"
+    },
+    {
       "title": "Data governance with annotations in Amazon S3",
       "link": "https://aws.amazon.com/blogs/architecture/data-governance-with-annotations-in-amazon-s3/",
       "summary": "Attach governance context such as classification, retention, residency, and PII flags directly to your Amazon S3 objects with S3 annotations. This post walks through the end-to-end pattern and the handful of S3 behaviors that decide whether your governance design is correct.",
       "source": "AWS ブログ (アーキテクチャ)",
       "category": "開発者向け",
       "published": "2026-10-26T18:00:26+00:00"
+    },
+    {
+      "title": "Meta Employees Denounce Interference in Brazilian Elections",
+      "link": "https://www.panamericandispatch.org/p/meta-employees-denounce-interference",
+      "summary": "Article URL: https://www.panamericandispatch.org/p/meta-employees-denounce-interference\nComments URL: https://news.ycombinator.com/item?id=50248061\nPoints: 112\n# Comments: 16",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-26T17:57:29+00:00"
+    },
+    {
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "link": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+      "summary": "Article URL: https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/\nComments URL: https://news.ycombinator.com/item?id=50248055\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-26T17:56:55+00:00"
     },
     {
       "title": "‘Bold but sane’: what we learnt from Anthropic’s 240,000-word IPO filing",
@@ -1991,6 +2039,14 @@
     },
     {
       "title": "Stock Market Today: AI Giant Anthropic Flags Risk of Catastrophic Incident in IPO Paperwork",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-26-2026?mod=rss_markets_main",
+      "summary": "Documents set up Claude provider to go public next month",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-26T08:24:19+00:00"
+    },
+    {
+      "title": "Stock Market Today: Tech Shares Rally After Anthropic Files for Historic IPO",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-26-2026?mod=rss_markets_main",
       "summary": "Documents set up Claude provider to go public next month",
       "source": "WSJ マーケット",
