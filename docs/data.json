@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T17:19:26.120136+00:00",
+  "generated_at": "2026-10-27T17:33:54.205986+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -874,6 +874,14 @@
   ],
   "items": [
     {
+      "title": "Publishing LMS courses with a Kiro SCORM pipeline",
+      "link": "https://aws.amazon.com/blogs/architecture/publishing-lms-courses-with-a-kiro-scorm-pipeline/",
+      "summary": "See how to use Kiro, an agentic AI, to automate converting raw training material into compliant SCORM packages that are ready to upload to a learning management system (LMS).",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-10-27T17:23:23+00:00"
+    },
+    {
       "title": "フーシ派、サウジの主要製油所を攻撃　付近で火災と報道",
       "link": "https://www.jiji.com/jc/article?k=2026102701225&g=int&m=rss",
       "summary": "",
@@ -912,6 +920,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-27T16:52:00+00:00"
+    },
+    {
+      "title": "Ghostty 1.4.0",
+      "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "summary": "Article URL: https://ghostty.org/docs/install/release-notes/1-4-0\nComments URL: https://news.ycombinator.com/item?id=50261998\nPoints: 22\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-27T16:51:22+00:00"
     },
     {
       "title": "US law firm Weil readies restructuring as options dwindle and partners exit",
