@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T17:05:46.314823+00:00",
+  "generated_at": "2026-10-27T17:19:26.120136+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -874,6 +874,38 @@
   ],
   "items": [
     {
+      "title": "フーシ派、サウジの主要製油所を攻撃　付近で火災と報道",
+      "link": "https://www.jiji.com/jc/article?k=2026102701225&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-27T17:19:20.476050+00:00"
+    },
+    {
+      "title": "「社会実情知り、研さん努める」　山元新判事が就任会見―最高裁",
+      "link": "https://www.jiji.com/jc/article?k=2026102701256&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-27T17:19:20.476020+00:00"
+    },
+    {
+      "title": "Vessel-specific voyage optimization with machine learning: Manta on AWS",
+      "link": "https://aws.amazon.com/blogs/architecture/vessel-specific-voyage-optimization-with-machine-learning-manta-on-aws/",
+      "summary": "Manta Marine Technologies closes the gap between seemingly identical ships by training machine learning models on each vessel's own operational history. Learn how Manta delivers vessel-specific voyage optimization on AWS to help shipowners reduce fuel consumption and improve voyage efficiency.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-10-27T17:14:32+00:00"
+    },
+    {
+      "title": "How Anchorage Digital and Turnkey verify code with AWS Nitro Enclaves",
+      "link": "https://aws.amazon.com/blogs/architecture/how-anchorage-digital-and-turnkey-verify-code-with-aws-nitro-enclaves/",
+      "summary": "Anchorage Digital and Turnkey built verifiable infrastructure on AWS Nitro Enclaves so crypto wallets can cryptographically verify which code parsed a transaction. This post covers the architecture, the attestation-gated access pattern, and how it extends to any high-trust workflow beyond blockchain.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-10-27T17:10:35+00:00"
+    },
+    {
       "title": "JetBlue has been losing money for years. It just charted a path to profitability.",
       "link": "https://www.marketwatch.com/story/jetblue-has-been-losing-money-for-years-it-just-charted-a-path-to-profitability-03be75c8?mod=mw_rss_topstories",
       "summary": "JetBlue’s stock rises more than 20% as a new profit target helps calm fears about the airline’s viability.",
@@ -960,6 +992,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-27T16:25:12+00:00"
+    },
+    {
+      "title": "Antique Fonts Collection – Restored 19th Century Typefaces",
+      "link": "https://centurylibrary.com/collection/antique-fonts/",
+      "summary": "Article URL: https://centurylibrary.com/collection/antique-fonts/\nComments URL: https://news.ycombinator.com/item?id=50261579\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-27T16:24:59+00:00"
     },
     {
       "title": "Bond investors are starting to say ‘anything but tech.’ What that means for the AI boom.",
