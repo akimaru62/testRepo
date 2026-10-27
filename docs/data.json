@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T14:09:37.789315+00:00",
+  "generated_at": "2026-10-27T14:31:39.606878+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -882,6 +882,54 @@
       "published": "2026-10-27T15:00:00+00:00"
     },
     {
+      "title": "中国企業がエムバペの契約解消　毛沢東に関する発言謝罪―サッカー",
+      "link": "https://www.jiji.com/jc/article?k=2026102701109&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-27T14:31:33.116428+00:00"
+    },
+    {
+      "title": "ヒラリー・クリントン元米国務長官が資料館見学　「多くの人が訪れるべき」―広島",
+      "link": "https://www.jiji.com/jc/article?k=2026102700977&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-27T14:31:33.116393+00:00"
+    },
+    {
+      "title": "My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids — and I can’t bear to leave.",
+      "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+      "summary": "“He wants to buy something for $600,000 now that we are empty-nesters.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-27T14:30:00+00:00"
+    },
+    {
+      "title": "The US Government Is Hiding Secret Court Ruling About How It Spies on Americans",
+      "link": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+      "summary": "Article URL: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/\nComments URL: https://news.ycombinator.com/item?id=50259604\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-27T14:06:42+00:00"
+    },
+    {
+      "title": "Anthropic and the AI cluster effect in fundraising",
+      "link": "https://www.ft.com/content/689a2114-57c5-4391-a335-dc97e5716610",
+      "summary": "$95bn equity issue plan by Meta as rival conducts IPO shows the Hotelling effect",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-27T14:02:23+00:00"
+    },
+    {
+      "title": "GM to switch listing from NYSE to Nasdaq as it accelerates AI push",
+      "link": "https://www.ft.com/content/01467514-66c1-4375-9906-45a47b949270?syn-25a6b1a6=1",
+      "summary": "Move marks another blow for Big Board as tech-forward rival attracts some of world’s most valuable companies",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-27T14:02:17+00:00"
+    },
+    {
       "title": "Stocks Inch Higher After Monday’s Anthropic Rally",
       "link": "https://www.wsj.com/finance/stocks/stock-futures-steady-as-anthropic-rally-stalls-israel-election-in-focus-9c4f12ad?mod=rss_markets_main",
       "summary": "U.S. stocks extended the prior session’s gains, with the Nasdaq leading the way as the effects of Monday’s Anthropic-powered tech rally lingered.",
@@ -906,6 +954,14 @@
       "published": "2026-10-27T14:00:00+00:00"
     },
     {
+      "title": "Giving chat feedback gives Anthropic your data",
+      "link": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
+      "summary": "Article URL: https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training\nComments URL: https://news.ycombinator.com/item?id=50259406\nPoints: 15\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-27T13:56:15+00:00"
+    },
+    {
       "title": "U.S. Natural Gas Futures Mixed Ahead of November Expiry",
       "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-mixed-ahead-of-november-expiry-d72f4d97?mod=rss_markets_main",
       "summary": "U.S. natural gas futures recovered some ground at the front of the curve ahead of the November contract expiry.",
@@ -917,6 +973,14 @@
       "title": "Wiz: No successful PHP2Shell exploits seen so far; exposure down 67%",
       "link": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
       "summary": "Article URL: https://www.wiz.io/blog/php2shell-exploitation-so-far\nComments URL: https://news.ycombinator.com/item?id=50259343\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-27T13:52:12+00:00"
+    },
+    {
+      "title": "PHP2Shell: Exploitation Attempts and Remediation Trends",
+      "link": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
+      "summary": "Article URL: https://www.wiz.io/blog/php2shell-exploitation-so-far\nComments URL: https://news.ycombinator.com/item?id=50259343\nPoints: 42\n# Comments: 9",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-27T13:52:12+00:00"
@@ -936,6 +1000,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-10-27T13:40:00+00:00"
+    },
+    {
+      "title": "Alleged Israeli spy company targeted Starlink users",
+      "link": "https://www.reuters.com/business/media-telecom/alleged-israeli-spy-company-heavily-targeted-starlink-users-sources-say-2026-10-27/",
+      "summary": "Article URL: https://www.reuters.com/business/media-telecom/alleged-israeli-spy-company-heavily-targeted-starlink-users-sources-say-2026-10-27/\nComments URL: https://news.ycombinator.com/item?id=50259050\nPoints: 17\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-27T13:33:30+00:00"
     },
     {
       "title": "エボラ熱、感染者１万人超　コンゴ",
