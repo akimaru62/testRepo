@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T13:54:37.052741+00:00",
+  "generated_at": "2026-10-27T14:09:37.789315+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -882,12 +882,44 @@
       "published": "2026-10-27T15:00:00+00:00"
     },
     {
+      "title": "Stocks Inch Higher After Monday’s Anthropic Rally",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-steady-as-anthropic-rally-stalls-israel-election-in-focus-9c4f12ad?mod=rss_markets_main",
+      "summary": "U.S. stocks extended the prior session’s gains, with the Nasdaq leading the way as the effects of Monday’s Anthropic-powered tech rally lingered.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-27T14:02:00+00:00"
+    },
+    {
       "title": "その他,「第２回　気候変動関連データの活用と適応に関する実践パネル」の発表資料及び議事要旨について公表しました。",
       "link": "https://www.fsa.go.jp/news/r8/sonota/20260819.html",
       "summary": "",
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-27T14:00:00+00:00"
+    },
+    {
+      "title": "‘When do I sell my stocks?’ Ignore the noise and focus on these things.",
+      "link": "https://www.marketwatch.com/story/when-do-i-sell-my-stocks-ignore-the-noise-and-focus-on-these-things-5f4ca5aa?mod=mw_rss_topstories",
+      "summary": "Before you sell, ask whether a rising or falling stock price actually represents a change in the company’s business prospects",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-27T14:00:00+00:00"
+    },
+    {
+      "title": "U.S. Natural Gas Futures Mixed Ahead of November Expiry",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-mixed-ahead-of-november-expiry-d72f4d97?mod=rss_markets_main",
+      "summary": "U.S. natural gas futures recovered some ground at the front of the curve ahead of the November contract expiry.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-27T13:54:00+00:00"
+    },
+    {
+      "title": "Wiz: No successful PHP2Shell exploits seen so far; exposure down 67%",
+      "link": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
+      "summary": "Article URL: https://www.wiz.io/blog/php2shell-exploitation-so-far\nComments URL: https://news.ycombinator.com/item?id=50259343\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-27T13:52:12+00:00"
     },
     {
       "title": "Oil Futures Move Lower With Diplomacy in View",
@@ -938,6 +970,14 @@
       "published": "2026-10-27T13:30:00+00:00"
     },
     {
+      "title": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?",
+      "link": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+      "summary": "Article URL: https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work\nComments URL: https://news.ycombinator.com/item?id=50258868\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-27T13:23:22+00:00"
+    },
+    {
       "title": "Tech stocks gain as AI trade revives",
       "link": "https://www.ft.com/content/a4f9f81e-df30-4669-9eca-865d9d14e441?syn-25a6b1a6=1",
       "summary": "Asia follows Wall Street higher in wake of Anthropic’s long-awaited IPO filing",
@@ -984,6 +1024,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-27T13:02:14.383712+00:00"
+    },
+    {
+      "title": "New iMac with M6",
+      "link": "https://www.apple.com/imac/",
+      "summary": "Article URL: https://www.apple.com/imac/\nComments URL: https://news.ycombinator.com/item?id=50258538\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-27T13:02:02+00:00"
     },
     {
       "title": "Apple introduces the new 14-inch MacBook Pro with M6",
@@ -211479,6 +211527,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-06-17T20:29:00+00:00"
+    },
+    {
+      "title": "2097.HK - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yWkRKMGdCdVdDQ3FrMzJ1VzhYUGhkcXVUWTlCRFhtdFZnTE81NE44bjBjWU14YnNTc3FibUZLZTF0ZWlxeGJnV0h0dzg0VHFVMzduX3kza3JtaWUz?oc=5",
+      "summary": "2097.HK - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2025-03-03T09:36:05+00:00"
     },
     {
       "title": "268A.T - Reuters",
