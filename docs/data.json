@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T17:47:48.540934+00:00",
+  "generated_at": "2026-10-27T18:07:52.993466+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -874,6 +874,38 @@
   ],
   "items": [
     {
+      "title": "Gold Futures Gain As Oil Prices Fall",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-as-investors-mull-potential-fed-rate-hike-this-year-1c4b50fd?mod=rss_markets_main",
+      "summary": "Gold settled higher as oil futures pulled back with the market focusing on diplomatic efforts to ease tensions in the Middle East.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-27T18:04:00+00:00"
+    },
+    {
+      "title": "The big reason Boeing’s stock is falling so hard after earnings",
+      "link": "https://www.marketwatch.com/story/the-big-reason-boeings-stock-is-falling-so-hard-after-earnings-d31b400d?mod=mw_rss_topstories",
+      "summary": "Boeing will come up short on 737 Max deliveries, casting doubt on its turnaround plans.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-27T17:59:00+00:00"
+    },
+    {
+      "title": "‘CryptoDad’ on stablecoins, bitcoin’s role in a portfolio and why he does not directly own any crypto",
+      "link": "https://www.marketwatch.com/story/cryptodad-on-stablecoins-bitcoins-role-in-a-portfolio-and-why-he-does-not-directly-own-any-crypto-72472bc1?mod=mw_rss_topstories",
+      "summary": "What former CFTC Chairman Chris Giancarlo tells his own children about buying their first crypto coin.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-27T17:53:00+00:00"
+    },
+    {
+      "title": "Brazil's Flavio Bolsonaro headed to US, sources say",
+      "link": "https://www.reuters.com/world/americas/brazil-wonders-where-earth-is-flavio-bolsonaro-2026-10-27/",
+      "summary": "Article URL: https://www.reuters.com/world/americas/brazil-wonders-where-earth-is-flavio-bolsonaro-2026-10-27/\nComments URL: https://news.ycombinator.com/item?id=50262942\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-27T17:46:17+00:00"
+    },
+    {
       "title": "Mossad Has Devices Like the Exploding Pagers in \"Every Country You Can Imagine\"",
       "link": "https://www.theyeshivaworld.com/news/israel-news/2462875/former-mossad-chief-yossi-cohen-planted-devices-like-the-exploding-hezbollah-pagers-are-in-every-country-you-can-imagine.html",
       "summary": "Article URL: https://www.theyeshivaworld.com/news/israel-news/2462875/former-mossad-chief-yossi-cohen-planted-devices-like-the-exploding-hezbollah-pagers-are-in-every-country-you-can-imagine.html\nComments URL: https://news.ycombinator.com/item?id=50262668\nPoints: 9\n# Comments: 0",
@@ -920,6 +952,14 @@
       "source": "AWS ブログ (アーキテクチャ)",
       "category": "開発者向け",
       "published": "2026-10-27T17:10:35+00:00"
+    },
+    {
+      "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+      "link": "https://www.liquid.ai/blog/lfm3",
+      "summary": "Article URL: https://www.liquid.ai/blog/lfm3\nComments URL: https://news.ycombinator.com/item?id=50262229\nPoints: 16\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-27T17:04:50+00:00"
     },
     {
       "title": "JetBlue has been losing money for years. It just charted a path to profitability.",
@@ -1109,6 +1149,14 @@
       "title": "Israel election turnout highest on record in historic vote",
       "link": "https://www.ft.com/content/87d81352-5086-44bd-a5bb-797582e2d07c?syn-25a6b1a6=1",
       "summary": "First vote since October 7 2023 attack pits Netanyahu’s far-right coalition against opposition bloc in knife-edge contest",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-27T15:48:46+00:00"
+    },
+    {
+      "title": "Israel election turnout highest since 1973",
+      "link": "https://www.ft.com/content/87d81352-5086-44bd-a5bb-797582e2d07c?syn-25a6b1a6=1",
+      "summary": "First vote since October 7 2023 attack pits Benjamin Netanyahu’s far-right coalition against opposition bloc in knife-edge contest",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-27T15:48:46+00:00"
@@ -1872,6 +1920,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-27T11:06:00+00:00"
+    },
+    {
+      "title": "Dirty tricks and Maga theatrics shake up bruising battle for Texas Senate",
+      "link": "https://www.ft.com/content/e9475864-d8ae-401e-8a3e-e3a7fa75f0c1?syn-25a6b1a6=1",
+      "summary": "Scandal-prone Trump pick goes head-to-head with seminarian Democrat in race that could determine control of the upper house of Congress",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-27T11:00:08+00:00"
     },
     {
       "title": "AI debt trouble could help Fed’s Warsh get his way with fewer rate hikes",
