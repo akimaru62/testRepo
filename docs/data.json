@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T16:35:01.855168+00:00",
+  "generated_at": "2026-10-27T16:47:38.207395+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -874,6 +874,38 @@
   ],
   "items": [
     {
+      "title": "Tech Stocks Extend Gains After Yesterday’s Anthropic Rally",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-steady-as-anthropic-rally-stalls-israel-election-in-focus-9c4f12ad?mod=rss_markets_main",
+      "summary": "Some of the effects from yesterday’s Anthropic rally are extending into day two: Tech stocks are up, pushing the Nasdaq more than 1% higher.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-27T16:39:00+00:00"
+    },
+    {
+      "title": "Boeing shares slump as planemaker cuts 737 jet delivery target",
+      "link": "https://www.ft.com/content/f8c1c655-bb55-4ee1-bc8c-8315a6f6821f?syn-25a6b1a6=1",
+      "summary": "Stock falls 10% after chief executive Kelly Ortberg admits group is behind schedule in production of airliner",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-27T16:38:23+00:00"
+    },
+    {
+      "title": "When will Anthropic go public? Here’s what to know about the IPO timeline.",
+      "link": "https://www.marketwatch.com/story/when-will-anthropic-go-public-heres-what-to-know-about-the-ipo-timeline-431eca78?mod=mw_rss_topstories",
+      "summary": "By filing IPO paperwork on Monday, Anthropic can conduct its investor roadshow the week of Nov. 9 and would be eligible to go public as soon as the following week.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-27T16:38:00+00:00"
+    },
+    {
+      "title": "Classification of Finite Simple Groups Formalized in Lean",
+      "link": "https://cfsg.axiommath.ai/",
+      "summary": "Article URL: https://cfsg.axiommath.ai/\nComments URL: https://news.ycombinator.com/item?id=50261647\nPoints: 6\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-27T16:29:02+00:00"
+    },
+    {
       "title": "Bond investors are starting to say ‘anything but tech.’ What that means for the AI boom.",
       "link": "https://www.marketwatch.com/story/ai-debt-trouble-could-help-feds-warsh-get-his-way-with-fewer-rate-hikes-b3dc4525?mod=mw_rss_topstories",
       "summary": "AI financing has been harder and more expensive to come by as the capital-spending boom comes under more scrutiny.",
@@ -939,6 +971,14 @@
     },
     {
       "title": "Israel turnout highest on record in historic election",
+      "link": "https://www.ft.com/content/87d81352-5086-44bd-a5bb-797582e2d07c?syn-25a6b1a6=1",
+      "summary": "First vote since October 7 2023 attack pits Netanyahu’s far-right coalition against opposition bloc in knife-edge contest",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-27T15:48:46+00:00"
+    },
+    {
+      "title": "Israel election turnout highest on record in historic vote",
       "link": "https://www.ft.com/content/87d81352-5086-44bd-a5bb-797582e2d07c?syn-25a6b1a6=1",
       "summary": "First vote since October 7 2023 attack pits Netanyahu’s far-right coalition against opposition bloc in knife-edge contest",
       "source": "Financial Times",
@@ -1146,6 +1186,14 @@
       "published": "2026-10-27T14:06:42+00:00"
     },
     {
+      "title": "The US government is hiding secret court ruling about how it spies on Americans",
+      "link": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+      "summary": "Article URL: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/\nComments URL: https://news.ycombinator.com/item?id=50259604\nPoints: 294\n# Comments: 73",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-27T14:06:42+00:00"
+    },
+    {
       "title": "Anthropic and the AI cluster effect in fundraising",
       "link": "https://www.ft.com/content/689a2114-57c5-4391-a335-dc97e5716610",
       "summary": "$95bn equity issue plan by Meta as rival conducts IPO shows the Hotelling effect",
@@ -1194,6 +1242,14 @@
       "published": "2026-10-27T13:56:15+00:00"
     },
     {
+      "title": "Is my data used for model training?",
+      "link": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
+      "summary": "Article URL: https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training\nComments URL: https://news.ycombinator.com/item?id=50259406\nPoints: 147\n# Comments: 69",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-27T13:56:15+00:00"
+    },
+    {
       "title": "U.S. Natural Gas Futures Mixed Ahead of November Expiry",
       "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-mixed-ahead-of-november-expiry-d72f4d97?mod=rss_markets_main",
       "summary": "U.S. natural gas futures recovered some ground at the front of the curve ahead of the November contract expiry.",
@@ -1213,6 +1269,14 @@
       "title": "PHP2Shell: Exploitation Attempts and Remediation Trends",
       "link": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
       "summary": "Article URL: https://www.wiz.io/blog/php2shell-exploitation-so-far\nComments URL: https://news.ycombinator.com/item?id=50259343\nPoints: 42\n# Comments: 9",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-27T13:52:12+00:00"
+    },
+    {
+      "title": "PHP2Shell: Exploitation attempts and remediation trends",
+      "link": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
+      "summary": "Article URL: https://www.wiz.io/blog/php2shell-exploitation-so-far\nComments URL: https://news.ycombinator.com/item?id=50259343\nPoints: 137\n# Comments: 44",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-27T13:52:12+00:00"
@@ -1282,6 +1346,14 @@
       "published": "2026-10-27T13:23:22+00:00"
     },
     {
+      "title": "Here be monsters: What do you still need to know when agents do the work?",
+      "link": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+      "summary": "Article URL: https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work\nComments URL: https://news.ycombinator.com/item?id=50258868\nPoints: 82\n# Comments: 20",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-27T13:23:22+00:00"
+    },
+    {
       "title": "Tech stocks gain as AI trade revives",
       "link": "https://www.ft.com/content/a4f9f81e-df30-4669-9eca-865d9d14e441?syn-25a6b1a6=1",
       "summary": "Asia follows Wall Street higher in wake of Anthropic’s long-awaited IPO filing",
@@ -1341,6 +1413,14 @@
       "title": "Apple introduces the new 14-inch MacBook Pro with M6",
       "link": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
       "summary": "Article URL: https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/\nComments URL: https://news.ycombinator.com/item?id=50258521\nPoints: 23\n# Comments: 22",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-27T13:01:07+00:00"
+    },
+    {
+      "title": "New 14‑inch MacBook Pro with M6",
+      "link": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/\nComments URL: https://news.ycombinator.com/item?id=50258521\nPoints: 118\n# Comments: 131",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-27T13:01:07+00:00"
@@ -1987,6 +2067,14 @@
     },
     {
       "title": "Stock Market Today: Tech Stocks Extend Gains After Yesterday's Anthropic Rally",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-27-2026?mod=rss_markets_main",
+      "summary": "In focus: Israeli elections that could prove consequential in course of Iran war",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-27T09:21:34+00:00"
+    },
+    {
+      "title": "Stock Market Today: Tech Stocks Extend Gains After Yesterday’s Anthropic Rally",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-27-2026?mod=rss_markets_main",
       "summary": "In focus: Israeli elections that could prove consequential in course of Iran war",
       "source": "WSJ マーケット",
