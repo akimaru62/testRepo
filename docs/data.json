@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T16:47:38.207395+00:00",
+  "generated_at": "2026-10-27T17:05:46.314823+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -874,6 +874,30 @@
   ],
   "items": [
     {
+      "title": "JetBlue has been losing money for years. It just charted a path to profitability.",
+      "link": "https://www.marketwatch.com/story/jetblue-has-been-losing-money-for-years-it-just-charted-a-path-to-profitability-03be75c8?mod=mw_rss_topstories",
+      "summary": "JetBlue’s stock rises more than 20% as a new profit target helps calm fears about the airline’s viability.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-27T16:52:00+00:00"
+    },
+    {
+      "title": "US law firm Weil readies restructuring as options dwindle and partners exit",
+      "link": "https://www.ft.com/content/69ccfcb0-3f5e-4b77-9e04-a386e827b872?syn-25a6b1a6=1",
+      "summary": "Legal powerhouse working with Davis Polk to assess options including a possible wind-down",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-27T16:51:15+00:00"
+    },
+    {
+      "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
+      "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+      "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220\nComments URL: https://news.ycombinator.com/item?id=50261819\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-27T16:40:15+00:00"
+    },
+    {
       "title": "Tech Stocks Extend Gains After Yesterday’s Anthropic Rally",
       "link": "https://www.wsj.com/finance/stocks/stock-futures-steady-as-anthropic-rally-stalls-israel-election-in-focus-9c4f12ad?mod=rss_markets_main",
       "summary": "Some of the effects from yesterday’s Anthropic rally are extending into day two: Tech stocks are up, pushing the Nasdaq more than 1% higher.",
@@ -890,6 +914,14 @@
       "published": "2026-10-27T16:38:23+00:00"
     },
     {
+      "title": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
+      "link": "https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/",
+      "summary": "Article URL: https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/\nComments URL: https://news.ycombinator.com/item?id=50261784\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-27T16:38:08+00:00"
+    },
+    {
       "title": "When will Anthropic go public? Here’s what to know about the IPO timeline.",
       "link": "https://www.marketwatch.com/story/when-will-anthropic-go-public-heres-what-to-know-about-the-ipo-timeline-431eca78?mod=mw_rss_topstories",
       "summary": "By filing IPO paperwork on Monday, Anthropic can conduct its investor roadshow the week of Nov. 9 and would be eligible to go public as soon as the following week.",
@@ -904,6 +936,30 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-27T16:29:02+00:00"
+    },
+    {
+      "title": "Vicious Cycles: Theses on a philosophy of news",
+      "link": "https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/",
+      "summary": "Article URL: https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/\nComments URL: https://news.ycombinator.com/item?id=50261623\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-27T16:27:29+00:00"
+    },
+    {
+      "title": "We let our cloud agents query prod (with OIDC, not secrets)",
+      "link": "https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/",
+      "summary": "Article URL: https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/\nComments URL: https://news.ycombinator.com/item?id=50261584\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-27T16:25:12+00:00"
+    },
+    {
+      "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
+      "link": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
+      "summary": "Article URL: https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/\nComments URL: https://news.ycombinator.com/item?id=50261583\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-27T16:25:12+00:00"
     },
     {
       "title": "Bond investors are starting to say ‘anything but tech.’ What that means for the AI boom.",
@@ -936,6 +992,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-27T16:23:17.013580+00:00"
+    },
+    {
+      "title": "Reducibility Among Combinatorial Problems (1972) [pdf]",
+      "link": "https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf",
+      "summary": "Article URL: https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf\nComments URL: https://news.ycombinator.com/item?id=50261544\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-27T16:21:55+00:00"
     },
     {
       "title": "Apple introduces the new 14‑inch MacBook Pro with M6",
