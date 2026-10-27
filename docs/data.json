@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T15:45:55.054831+00:00",
+  "generated_at": "2026-10-27T16:07:33.263120+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -874,6 +874,22 @@
   ],
   "items": [
     {
+      "title": "Israel turnout highest on record in historic election",
+      "link": "https://www.ft.com/content/87d81352-5086-44bd-a5bb-797582e2d07c?syn-25a6b1a6=1",
+      "summary": "First vote since October 7 2023 attack pits Netanyahu’s far-right coalition against opposition bloc in knife-edge contest",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-27T15:48:46+00:00"
+    },
+    {
+      "title": "Data Recovery CEO Indicted for Allegedly Scamming Ransomware Victims",
+      "link": "https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment",
+      "summary": "Article URL: https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment\nComments URL: https://news.ycombinator.com/item?id=50260960\nPoints: 8\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-27T15:39:29+00:00"
+    },
+    {
       "title": "U.S. economy is gathering steam. This is the chief reason why.",
       "link": "https://www.marketwatch.com/story/u-s-economy-is-gathering-steam-this-is-the-chief-reason-why-9772978f?mod=mw_rss_topstories",
       "summary": "The AI boom shows no sign of easing as Anthropic prepares to go public and businesses gobble up durable goods.",
@@ -928,6 +944,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-27T15:25:00+00:00"
+    },
+    {
+      "title": "Show HN: Specification First Agentic Development Plugin and Prove",
+      "link": "https://spec-first.dev/",
+      "summary": "Implemented agent smith since start 2026 with over 1000 specifications which lead to about 500k lines of code. The procedure with that spec-first works well. How do you do it?\n\nComments URL: https://news.ycombinator.com/item?id=50260571\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-27T15:12:20+00:00"
     },
     {
       "title": "How Broadcom’s stock can surge and overcome ‘the biggest dislocation in the market’",
