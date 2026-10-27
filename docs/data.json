@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T03:31:32.922233+00:00",
+  "generated_at": "2026-10-27T03:54:48.175040+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -882,6 +882,22 @@
       "published": "2026-10-27T10:00:00+00:00"
     },
     {
+      "title": "Singapore Dollar Steady, May Be Supported by Improved Risk Appetite",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-as-focus-turns-to-fed-decision-0d81a31b?mod=rss_markets_main",
+      "summary": "The Singapore dollar was steady against its U.S. counterpart, possibly supported by improved risk appetite after gains for U.S. stocks Monday.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-27T03:37:00+00:00"
+    },
+    {
+      "title": "流動性供給(第464回)入札結果",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261027.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-27T03:35:00+00:00"
+    },
+    {
       "title": "ウクライナ南部で局地停戦発効　ロシア占領下、米仲介で合意",
       "link": "https://www.jiji.com/jc/article?k=2026102700163&g=int&m=rss",
       "summary": "",
@@ -904,6 +920,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-27T03:31:28.316126+00:00"
+    },
+    {
+      "title": "Incremental rust builds up to 92x faster than cargo/rustc",
+      "link": "https://github.com/indexable-inc/blaze",
+      "summary": "Article URL: https://github.com/indexable-inc/blaze\nComments URL: https://news.ycombinator.com/item?id=50254300\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-27T03:09:07+00:00"
     },
     {
       "title": "9世紀には畿内の氏は3分の1が渡来系に…飛鳥時代の日本が中国由来の｢仏教･儒教･道教｣にすっかり染め上げられるまで | ライフ | 東洋経済オンライン",
@@ -1019,6 +1043,14 @@
     },
     {
       "title": "GMO「10月27日正午までにPCの電源を切る」よう利用者に要請　「お名前.com」、ランサムウェア攻撃の影響",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/27/news060.html",
+      "summary": "GMOインターネットグループは10月27日、「お名前.com デスクトップクラウド」の利用者に向けて、同日正午までに「バックアップを取得したうえで、ネットワークを切断、電源を落とし、PCにつながっているコードを抜いてください」と呼びかけた。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-10-27T02:27:00+00:00"
+    },
+    {
+      "title": "GMO「10月27日正午までにPCの電源を切る」よう利用者に要請　「お名前.com デスクトップクラウド」、ランサムウェア攻撃の影響",
       "link": "https://www.itmedia.co.jp/business/articles/2610/27/news060.html",
       "summary": "GMOインターネットグループは10月27日、「お名前.com デスクトップクラウド」の利用者に向けて、同日正午までに「バックアップを取得したうえで、ネットワークを切断、電源を落とし、PCにつながっているコードを抜いてください」と呼びかけた。",
       "source": "ITmedia ビジネス",
