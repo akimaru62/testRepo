@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T19:05:37.182905+00:00",
+  "generated_at": "2026-10-27T19:17:49.355519+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1136,6 +1136,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-27T16:27:29+00:00"
+    },
+    {
+      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+      "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova\nComments URL: https://news.ycombinator.com/item?id=50261589\nPoints: 37\n# Comments: 14",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-27T16:25:30+00:00"
     },
     {
       "title": "We let our cloud agents query prod (with OIDC, not secrets)",
