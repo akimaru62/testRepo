@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T17:05:57.327306+00:00",
+  "generated_at": "2026-10-28T17:18:44.844313+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -898,6 +898,46 @@
   ],
   "items": [
     {
+      "title": "千葉で震度５弱",
+      "link": "https://www.jiji.com/jc/article?k=2026102900015&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-28T17:18:39.352228+00:00"
+    },
+    {
+      "title": "MacBook Pro with Touch Enabled Proled XDR Display",
+      "link": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "summary": "Article URL: https://www.apple.com/macbook-pro/proled-xdr-display/\nComments URL: https://news.ycombinator.com/item?id=50276940\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-28T17:10:37+00:00"
+    },
+    {
+      "title": "Show HN: SlideBySide – Present slides without sharing your screen",
+      "link": "https://slidebyside.com/",
+      "summary": "Why is it useful?\n- Present slides without sharing the screen and have every one be on the same page.\n- Present together with other cohosts and all control the current page.\n- Other features such as presentation collab features.Why should I not just vibe code my own solution?\n- Its a hassle to maintain a version online.\n\nComments URL: https://news.ycombinator.com/item?id=50276883\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-28T17:07:09+00:00"
+    },
+    {
+      "title": "Gemini 4 Carbon",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/\nComments URL: https://news.ycombinator.com/item?id=50276792\nPoints: 41\n# Comments: 13",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-28T17:01:23+00:00"
+    },
+    {
+      "title": "Converge (YC S23) Is Hiring a Founding Platform Engineer",
+      "link": "https://www.runconverge.com/careers/founding-platform-engineer",
+      "summary": "Article URL: https://www.runconverge.com/careers/founding-platform-engineer\nComments URL: https://news.ycombinator.com/item?id=50276779\nPoints: 0\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-28T17:00:24+00:00"
+    },
+    {
       "title": "企業会計審議会第３回サステナビリティ情報保証部会の議事次第について公表しました。",
       "link": "https://www.fsa.go.jp/singi/singi_kigyou/siryou/hoshou/20261029.html",
       "summary": "",
@@ -912,6 +952,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-28T16:57:00+00:00"
+    },
+    {
+      "title": "Fed to decide on potential rate rise before US midterms",
+      "link": "https://www.ft.com/content/516063c6-3820-4803-836a-73e24ebee0da?syn-25a6b1a6=1",
+      "summary": "Policymakers weigh whether to deliver back-to-back increases in effort to tame inflation exacerbated by Donald Trump’s war against Iran",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-28T16:51:06+00:00"
     },
     {
       "title": "Healthcare stocks are on their biggest hot streak in a generation. Think twice before chasing the rally.",
@@ -1637,6 +1685,14 @@
       "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
       "link": "https://emudhra.we-have-a-problem.com/apple.html",
       "summary": "Article URL: https://emudhra.we-have-a-problem.com/apple.html\nComments URL: https://news.ycombinator.com/item?id=50271640\nPoints: 44\n# Comments: 10",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-28T11:03:40+00:00"
+    },
+    {
+      "title": "Apple's git still trusts the compromised eMudhra certificates",
+      "link": "https://emudhra.we-have-a-problem.com/apple.html",
+      "summary": "Article URL: https://emudhra.we-have-a-problem.com/apple.html\nComments URL: https://news.ycombinator.com/item?id=50271640\nPoints: 777\n# Comments: 299",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-28T11:03:40+00:00"
@@ -2840,6 +2896,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-28T02:24:43.663234+00:00"
+    },
+    {
+      "title": "Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)",
+      "link": "https://arxiv.org/abs/2610.36341",
+      "summary": "Article URL: https://arxiv.org/abs/2610.36341\nComments URL: https://news.ycombinator.com/item?id=50268478\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-28T02:01:51+00:00"
     },
     {
       "title": "｢専門家が占い師化している｣――聞き手が望む答えを語る人が売れ､間違いを認める人が損をする現代社会 | ライフ | 東洋経済オンライン",
