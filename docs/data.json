@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T14:21:30.612472+00:00",
+  "generated_at": "2026-10-28T14:33:26.253938+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -906,6 +906,14 @@
       "published": "2026-10-28T17:00:00+00:00"
     },
     {
+      "title": "Oil Futures Rise on Concerns of Escalation Post U.S. Midterms",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-traders-focus-on-potential-supply-risks-9cdfefec?mod=rss_markets_main",
+      "summary": "Oil futures rose with market concerns about a Middle East escalation overshadowing the flurry of diplomatic efforts in the region.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-28T14:30:00+00:00"
+    },
+    {
       "title": "スペインメディアによると、列車衝突事故の死者は少なくとも６４人となった",
       "link": "https://www.jiji.com/jc/article?k=2026102801185&g=flash&m=rss",
       "summary": "",
@@ -928,6 +936,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-28T14:02:22+00:00"
+    },
+    {
+      "title": "The Agent SDK",
+      "link": "https://cursor.com/blog/agent-sdk",
+      "summary": "Article URL: https://cursor.com/blog/agent-sdk\nComments URL: https://news.ycombinator.com/item?id=50273731\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-28T14:02:20+00:00"
     },
     {
       "title": "Harvey raised 500M for legal AI, I built the same and open sourced it",
@@ -1829,6 +1845,14 @@
       "title": "Stock Market Today: Tech Stocks Open Higher Ahead of Fed Rate Decision",
       "link": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026?mod=rss_markets_main",
       "summary": "Chip stocks rise; Fed expected to hold rates steady",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-28T08:17:33+00:00"
+    },
+    {
+      "title": "Stock Market Today: Tech Rally Stalls Out Ahead of Fed Rate Decision",
+      "link": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026?mod=rss_markets_main",
+      "summary": "Fed expected to hold rates steady",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-28T08:17:33+00:00"
