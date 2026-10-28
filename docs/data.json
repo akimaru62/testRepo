@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T18:07:41.281491+00:00",
+  "generated_at": "2026-10-28T18:23:47.849678+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -898,12 +898,44 @@
   ],
   "items": [
     {
+      "title": "真核生物に近い古細菌、特徴解明　周囲のたんぱく質が栄養源、突起で共生―千葉の天然ガス井戸で採取・海洋機構",
+      "link": "https://www.jiji.com/jc/article?k=2026102900034&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-28T18:23:41.883675+00:00"
+    },
+    {
+      "title": "FRBが政策金利を据え置き、2会合ぶり　2人が利上げ主張し反対",
+      "link": "https://www.asahi.com/articles/ASVBX61RYVBXUHBI027M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-28T18:23:41.546077+00:00"
+    },
+    {
+      "title": "How Israel’s opposition fell short against Netanyahu",
+      "link": "https://www.ft.com/content/6a370b14-23e9-43e9-8489-2732ac5a74f3",
+      "summary": "Those long opposed to the prime minister fear they have missed a historic opportunity to oust him",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-28T17:45:48+00:00"
+    },
+    {
       "title": "Gold Settles Lower Ahead of Fed Decision",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-clings-to-gains-above-4-000-as-markets-await-fed-90e73d3c?mod=rss_markets_main",
       "summary": "Gold and silver prices settled lower ahead of the Federal Reserve’s latest interest-rate decision.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-28T17:43:00+00:00"
+    },
+    {
+      "title": "Introducing the Microsoft Copilot harness in Foundry Agent Service",
+      "link": "https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/",
+      "summary": "Today, we’re introducing the Microsoft Copilot harness in Foundry Agent Service in public preview.\nThe post Introducing the Microsoft Copilot harness in Foundry Agent Service appeared first on Microsoft Azure Blog.",
+      "source": "Azure ブログ",
+      "category": "テクノロジー",
+      "published": "2026-10-28T17:40:56+00:00"
     },
     {
       "title": "Law firm Sidley Austin hires banker to lead practice group in Wall Street rarity",
@@ -936,6 +968,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-28T17:18:39.352228+00:00"
+    },
+    {
+      "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
+      "link": "https://nullpt.rs/fingerprinting-bioweapons",
+      "summary": "Article URL: https://nullpt.rs/fingerprinting-bioweapons\nComments URL: https://news.ycombinator.com/item?id=50276998\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-28T17:13:29+00:00"
     },
     {
       "title": "MacBook Pro with Touch Enabled Proled XDR Display",
@@ -1005,6 +1045,14 @@
       "title": "Fed to decide on interest rates as US midterm elections loom",
       "link": "https://www.ft.com/content/516063c6-3820-4803-836a-73e24ebee0da?syn-25a6b1a6=1",
       "summary": "Policymakers weigh whether to deliver back-to-back increases in effort to tame inflation exacerbated by Donald Trump’s war against Iran",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-28T16:51:06+00:00"
+    },
+    {
+      "title": "Federal Reserve holds rates steady despite worsening US inflation",
+      "link": "https://www.ft.com/content/516063c6-3820-4803-836a-73e24ebee0da?syn-25a6b1a6=1",
+      "summary": "Central bank holds fire even as consumer price pressures pick up",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-28T16:51:06+00:00"
@@ -2301,6 +2349,14 @@
       "title": "Fed Meeting Today: Federal Reserve Holds Rates Steady; Investors Await Warsh Comments",
       "link": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026?mod=rss_markets_main",
       "summary": "Central bank keeps interest rates on hold as it battles inflation",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-28T08:17:33+00:00"
+    },
+    {
+      "title": "Fed Meeting Today: Kevin Warsh to Speak on Interest-Rate Decision",
+      "link": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026?mod=rss_markets_main",
+      "summary": "Markets steady after central bank keeps rates on hold",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-28T08:17:33+00:00"
