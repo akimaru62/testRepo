@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T14:06:23.524510+00:00",
+  "generated_at": "2026-10-28T14:21:30.612472+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -890,6 +890,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7feffb197770>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://azure.microsoft.com/ja-jp/blog/feed/",
+      "error": "HTTPSConnectionPool(host='azure.microsoft.com', port=443): Read timed out. (read timeout=15)"
     }
   ],
   "items": [
@@ -900,6 +904,38 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-28T17:00:00+00:00"
+    },
+    {
+      "title": "スペインメディアによると、列車衝突事故の死者は少なくとも６４人となった",
+      "link": "https://www.jiji.com/jc/article?k=2026102801185&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-28T14:21:25.658851+00:00"
+    },
+    {
+      "title": "中国海警船、海軍艦艇と同行　防衛省が初公表―鹿児島県沖",
+      "link": "https://www.jiji.com/jc/article?k=2026102801183&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-28T14:21:25.658806+00:00"
+    },
+    {
+      "title": "At least 64 killed in collision of high-speed trains in Spain",
+      "link": "https://www.ft.com/content/3500a00d-d676-4460-83f8-8ea2bfce1049?syn-25a6b1a6=1",
+      "summary": "Crash near Toledo south of Madrid follows death of 46 in Andalusia rail accident in January",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-28T14:02:22+00:00"
+    },
+    {
+      "title": "Harvey raised 500M for legal AI, I built the same and open sourced it",
+      "link": "https://github.com/thomasunise/casecite",
+      "summary": "Article URL: https://github.com/thomasunise/casecite\nComments URL: https://news.ycombinator.com/item?id=50273623\nPoints: 23\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-28T13:56:21+00:00"
     },
     {
       "title": "Tech Stocks Move Higher Ahead of Fed Rate Decision",
@@ -932,6 +968,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-28T13:28:32+00:00"
+    },
+    {
+      "title": "Valve Responds to Developers Fearing AI Slop and Clones",
+      "link": "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones",
+      "summary": "Article URL: https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones\nComments URL: https://news.ycombinator.com/item?id=50273192\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-28T13:27:24+00:00"
     },
     {
       "title": "Want guaranteed income in retirement without an annuity? Try laddering I bonds.",
