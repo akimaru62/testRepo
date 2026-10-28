@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T19:05:09.187497+00:00",
+  "generated_at": "2026-10-28T19:17:56.520855+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -898,6 +898,22 @@
   ],
   "items": [
     {
+      "title": "米ＦＲＢは政策金利を３．７５～４．００％に据え置くことを決めた",
+      "link": "https://www.jiji.com/jc/article?k=2026102900078&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-28T19:17:50.873848+00:00"
+    },
+    {
+      "title": "Weil Gotshal to Hold Firmwide Meeting as Leaders Discuss Plan to Wind Down",
+      "link": "https://www.wsj.com/business/weil-gotshal-leaders-discussing-plan-to-wind-down-law-firm-09d60c10?mod=rss_markets_main",
+      "summary": "The once-storied firm suffered a series of high-profile defections and failed merger talks that left it with few options.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-28T19:09:00+00:00"
+    },
+    {
       "title": "自家用車でも「AI自動運転」　日産やトヨタ、27年度以降に本格化",
       "link": "https://www.asahi.com/articles/ASVBX2RW0VBXULFA00JM.html?ref=rss",
       "summary": "",
@@ -920,6 +936,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-28T18:56:00+00:00"
+    },
+    {
+      "title": "At least 68 killed in Spanish high-speed train crash",
+      "link": "https://www.bbc.com/news/live/cv1j309d4g98t",
+      "summary": "Article URL: https://www.bbc.com/news/live/cv1j309d4g98t\nComments URL: https://news.ycombinator.com/item?id=50278970\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-28T18:49:17+00:00"
     },
     {
       "title": "Dollar Little Changed After Fed’s Expected Hold",
@@ -2437,6 +2461,14 @@
       "title": "Fed Meeting Today: Kevin Warsh Speaks on Interest-Rate Decision",
       "link": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026?mod=rss_markets_main",
       "summary": "Markets steady after central bank keeps rates on hold",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-28T08:17:33+00:00"
+    },
+    {
+      "title": "Fed Meeting Today: Interest Rates Hold Steady; Two Officials Sought Hike",
+      "link": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026?mod=rss_markets_main",
+      "summary": "Central bank will vote on rates at seven of eight meetings next year, Warsh says, then drop to six in 2028",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-28T08:17:33+00:00"
