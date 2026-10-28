@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T11:47:55.738255+00:00",
+  "generated_at": "2026-10-28T12:09:02.931205+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -910,6 +910,46 @@
       "published": "2026-10-28T13:00:00+00:00"
     },
     {
+      "title": "ソフトバンク、４連勝でＶ２　ＤｅＮＡに逆転勝ち―日本シリーズ",
+      "link": "https://www.jiji.com/jc/article?k=2026102800958&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-28T12:08:58.201718+00:00"
+    },
+    {
+      "title": "スペインで高速列車衝突、３０人死亡　サンチェス首相「深刻な事故に衝撃」",
+      "link": "https://www.jiji.com/jc/article?k=2026102800981&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-28T12:08:58.201677+00:00"
+    },
+    {
+      "title": "Nelson Peltz’s Trian Offers to Buy Wendy’s for $1.4 Billion",
+      "link": "https://www.wsj.com/business/deals/nelson-peltzs-trian-offers-to-buy-wendys-for-1-4-billion-4c8332c1?mod=rss_markets_main",
+      "summary": "The burger chain’s shares are down roughly 70% over the past five years.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-28T12:00:00+00:00"
+    },
+    {
+      "title": "UBS CEO Signals Possible Switzerland Exit Over Capital Demands",
+      "link": "https://www.wsj.com/finance/banking/ubs-profit-climbs-as-wealth-management-inflows-increase-868e9b5f?mod=rss_markets_main",
+      "summary": "The group is caught in a dispute with lawmakers in its home country over proposals to introduce more demanding capital requirements on its foreign subsidiaries.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-28T11:58:00+00:00"
+    },
+    {
+      "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
+      "link": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/",
+      "summary": "Article URL: https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/\nComments URL: https://news.ycombinator.com/item?id=50272145\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-28T11:54:23+00:00"
+    },
+    {
       "title": "ニデック、なぜ監査法人の「お墨付き」が得られない？　時期見通せず",
       "link": "https://www.asahi.com/articles/ASVBX3JHQVBXPLFA005M.html?ref=rss",
       "summary": "",
@@ -924,6 +964,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-28T11:47:50.905348+00:00"
+    },
+    {
+      "title": "At least 30 killed in collision of high-speed trains in Spain",
+      "link": "https://www.ft.com/content/3500a00d-d676-4460-83f8-8ea2bfce1049?syn-25a6b1a6=1",
+      "summary": "Crash near Toledo south of Madrid follows death of 46 in Andalusia rail accident in January",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-28T11:45:20+00:00"
     },
     {
       "title": "スカイチケット、新たに顧客情報流出 口座番号など3万件超",
@@ -998,12 +1046,28 @@
       "published": "2026-10-28T11:18:00+00:00"
     },
     {
+      "title": "About the compromised eMudhra intermediate CAs",
+      "link": "https://support.apple.com/en-us/149555",
+      "summary": "Article URL: https://support.apple.com/en-us/149555\nComments URL: https://news.ycombinator.com/item?id=50271685\nPoints: 12\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-28T11:08:49+00:00"
+    },
+    {
       "title": "日立、2年連続最高益の見通し　27年3月期　AI需要追い風",
       "link": "https://www.asahi.com/articles/ASVBX3GD2VBXULFA00BM.html?ref=rss",
       "summary": "",
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-28T11:05:50.853750+00:00"
+    },
+    {
+      "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+      "link": "https://emudhra.we-have-a-problem.com/apple.html",
+      "summary": "Article URL: https://emudhra.we-have-a-problem.com/apple.html\nComments URL: https://news.ycombinator.com/item?id=50271640\nPoints: 44\n# Comments: 10",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-28T11:03:40+00:00"
     },
     {
       "title": "採用,官庁訪問（経験者採用試験（係長級（事務））【府省合同Ａ区分】）について公表しました。",
