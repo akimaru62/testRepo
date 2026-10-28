@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T17:48:25.056845+00:00",
+  "generated_at": "2026-10-28T18:07:41.281491+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -920,6 +920,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-28T17:24:00+00:00"
+    },
+    {
+      "title": "Mac Studio M5 Ultra 512GB Officially Released",
+      "link": "https://www.apple.com/shop/buy-mac/mac-studio",
+      "summary": "Article URL: https://www.apple.com/shop/buy-mac/mac-studio\nComments URL: https://news.ycombinator.com/item?id=50277166\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-28T17:21:02+00:00"
     },
     {
       "title": "千葉で震度５弱",
@@ -2285,6 +2293,14 @@
       "title": "Fed Meeting Today: FOMC Interest-Rate Decision Coming; Warsh to Speak Soon",
       "link": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026?mod=rss_markets_main",
       "summary": "Federal Reserve, led by Kevin Warsh, is expected to hold rates steady",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-28T08:17:33+00:00"
+    },
+    {
+      "title": "Fed Meeting Today: Federal Reserve Holds Rates Steady; Investors Await Warsh Comments",
+      "link": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026?mod=rss_markets_main",
+      "summary": "Central bank keeps interest rates on hold as it battles inflation",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-28T08:17:33+00:00"
