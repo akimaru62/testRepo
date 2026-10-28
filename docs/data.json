@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T09:47:57.168648+00:00",
+  "generated_at": "2026-10-28T10:06:23.075549+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -938,6 +938,22 @@
       "published": "2026-10-28T10:10:00+00:00"
     },
     {
+      "title": "Oil Gains As Market Prices in Greater Risk of Mideast Escalation",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-traders-focus-on-potential-supply-risks-9cdfefec?mod=rss_markets_main",
+      "summary": "Oil rose after Yemen’s Houthi militants said they targeted Saudi Arabia’s largest oil refinery. Despite diplomatic effort, traders are increasingly pricing in the risk of further escalation in the region.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-28T10:04:00+00:00"
+    },
+    {
+      "title": "Global Government Bond Yields Rise Ahead of Fed Decision, U.K. Budget",
+      "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-rise-ahead-of-federal-reserve-interest-rate-decision-b1f7ef58?mod=rss_markets_main",
+      "summary": "Yields on Treasurys rose in European morning trade, as investors focused on the Federal Reserve’s interest-rate decision as well as the U.K. budget.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-28T09:57:00+00:00"
+    },
+    {
       "title": "JALとANAの委託先に不正アクセス　個人情報閲覧の形跡",
       "link": "https://www.asahi.com/articles/ASVBX3109VBXULFA025M.html?ref=rss",
       "summary": "",
@@ -952,6 +968,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-10-28T09:47:52.108325+00:00"
+    },
+    {
+      "title": "Spain train crash: 'At least 10 dead' in high-speed collision",
+      "link": "https://www.thetimes.com/world/europe/article/spain-train-crash-madrid-latest-deaths-victims-807kwv23l",
+      "summary": "Article URL: https://www.thetimes.com/world/europe/article/spain-train-crash-madrid-latest-deaths-victims-807kwv23l\nComments URL: https://news.ycombinator.com/item?id=50271032\nPoints: 6\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-28T09:35:21+00:00"
     },
     {
       "title": "AI Boom Drives a Jump in Lending, but Bankers Still Sound Cautious",
@@ -1565,6 +1589,14 @@
       "title": "China rushes to shore up struggling markets",
       "link": "https://www.ft.com/content/2bb82c45-04b2-4ccc-9002-f54483fb044e?syn-25a6b1a6=1",
       "summary": "‘National team’ of funds and brokers buy stocks as investors turn away from AI trade",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-28T03:54:50+00:00"
+    },
+    {
+      "title": "China rushes to shore up markets as AI trade sours",
+      "link": "https://www.ft.com/content/2bb82c45-04b2-4ccc-9002-f54483fb044e?syn-25a6b1a6=1",
+      "summary": "‘National team’ of funds and brokers buy stocks after CSI 300 index enters technical bear market",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-28T03:54:50+00:00"
