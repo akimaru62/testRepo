@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T19:17:56.520855+00:00",
+  "generated_at": "2026-10-28T19:33:52.451947+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -894,6 +894,10 @@
     {
       "url": "https://azure.microsoft.com/ja-jp/blog/feed/",
       "error": "HTTPSConnectionPool(host='azure.microsoft.com', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://azure.microsoft.com/ja-jp/blog/feed/",
+      "error": "HTTPSConnectionPool(host='azure.microsoft.com', port=443): Read timed out. (read timeout=15)"
     }
   ],
   "items": [
@@ -904,6 +908,22 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-28T19:17:50.873848+00:00"
+    },
+    {
+      "title": "Weil leadership to tell partners firm should be dissolved",
+      "link": "https://www.ft.com/content/0476f216-0060-475c-962f-61d73d7d660b?syn-25a6b1a6=1",
+      "summary": "Decision marks stunning downfall for near-century-old law firm that was among America’s largest and most prestigious",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-28T19:17:43+00:00"
+    },
+    {
+      "title": "Rising rates of colorectal cancer found in nearly all age groups",
+      "link": "https://www.uchicagomedicine.org/forefront/cancer-articles/rising-rates-of-colorectal-cancer",
+      "summary": "Article URL: https://www.uchicagomedicine.org/forefront/cancer-articles/rising-rates-of-colorectal-cancer\nComments URL: https://news.ycombinator.com/item?id=50279308\nPoints: 16\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-28T19:15:07+00:00"
     },
     {
       "title": "Weil Gotshal to Hold Firmwide Meeting as Leaders Discuss Plan to Wind Down",
@@ -1088,6 +1108,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-28T17:10:04+00:00"
+    },
+    {
+      "title": "It's now official, tech is the new tobacco",
+      "link": "https://cailinoconnor.substack.com/p/its-now-official-tech-is-the-new",
+      "summary": "Article URL: https://cailinoconnor.substack.com/p/its-now-official-tech-is-the-new\nComments URL: https://news.ycombinator.com/item?id=50276906\nPoints: 31\n# Comments: 13",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-28T17:08:45+00:00"
     },
     {
       "title": "Show HN: SlideBySide – Present slides without sharing your screen",
@@ -1603,6 +1631,14 @@
     },
     {
       "title": "Banks hit out at Healey’s Budget tax increase",
+      "link": "https://www.ft.com/content/80acb561-34e2-4b71-b4b3-b564f3ec54ce?syn-25a6b1a6=1",
+      "summary": "Follow live: Chancellor hit lenders and taxed income from savings and property",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-28T13:07:59+00:00"
+    },
+    {
+      "title": "Banks hit out at tax increase",
       "link": "https://www.ft.com/content/80acb561-34e2-4b71-b4b3-b564f3ec54ce?syn-25a6b1a6=1",
       "summary": "Follow live: Chancellor hit lenders and taxed income from savings and property",
       "source": "Financial Times",
