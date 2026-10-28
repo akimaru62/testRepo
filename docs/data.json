@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T03:47:23.990390+00:00",
+  "generated_at": "2026-10-28T04:07:36.477202+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -874,6 +874,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fa437c77230>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f5135eb7380>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -908,6 +912,30 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-28T10:10:00+00:00"
+    },
+    {
+      "title": "増える副業 企業はどう向き合う?",
+      "link": "https://news.yahoo.co.jp/pickup/6600404?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-28T04:03:19+00:00"
+    },
+    {
+      "title": "交付税及び譲与税配付金特別会計の借入金の入札結果（令和8年10月28日入札）",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result261028.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-28T04:00:00+00:00"
+    },
+    {
+      "title": "Singapore Dollar Steady as Investors Await Fed’s Decision",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-fed-decision-28baaa62?mod=rss_markets_main",
+      "summary": "The Singapore dollar was steady against its U.S. counterpart.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-28T03:47:00+00:00"
     },
     {
       "title": "スマホ時代、子どもの心どう守る？　米国で広がる規制、日本も議論",
