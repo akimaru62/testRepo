@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T07:47:37.928786+00:00",
+  "generated_at": "2026-10-28T08:08:32.595798+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -878,9 +878,29 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f5135eb7380>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f56ef5c7770>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "企業会計審議会第３回サステナビリティ情報保証部会の議事次第について公表しました。",
+      "link": "https://www.fsa.go.jp/singi/singi_kigyou/siryou/hoshou/20261029.html",
+      "summary": "",
+      "source": "金融庁",
+      "category": "公的機関",
+      "published": "2026-10-28T17:00:00+00:00"
+    },
+    {
+      "title": "金融庁・一橋大学による共催シンポジウムの開催について（令和８年12月10日）公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/sonota/20261016/symposium.html",
+      "summary": "",
+      "source": "金融庁",
+      "category": "公的機関",
+      "published": "2026-10-28T13:00:00+00:00"
+    },
     {
       "title": "採用,官庁訪問（経験者採用試験（係長級（事務））【府省合同Ａ区分】）について公表しました。",
       "link": "https://www.fsa.go.jp/common/recruit/index-general.html",
@@ -912,6 +932,38 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-28T10:10:00+00:00"
+    },
+    {
+      "title": "中小企業支援家の小出宗昭さん、67歳で死去「ビズモデル」提唱",
+      "link": "https://www.asahi.com/articles/ASVBX2H7MVBXULFA01GM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-28T08:08:26.539642+00:00"
+    },
+    {
+      "title": "第87回 財務省政策評価懇談会（10月20日開催）議事要旨",
+      "link": "https://www.mof.go.jp/about_mof/councils/policy_evaluation/proceedings/outline/20261021112623.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-28T08:00:00+00:00"
+    },
+    {
+      "title": "Euro Hits 17-Month Low Vs Dollar Ahead of Fed, ECB Decisions",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-fed-decision-28baaa62?mod=rss_markets_main",
+      "summary": "The euro fell to a 17-month low against the dollar as French fiscal concerns lingered.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-28T07:59:00+00:00"
+    },
+    {
+      "title": "European banks boost profits but fail to match Wall Street boom",
+      "link": "https://www.ft.com/content/b12e4896-5c72-460c-b1c4-df433e5e8ca9?syn-25a6b1a6=1",
+      "summary": "Lenders benefit from investments by wealthy clients and resilient corporate and investment banking activity",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-28T07:54:34+00:00"
     },
     {
       "title": "参院憲法審、１１月４日初討議",
