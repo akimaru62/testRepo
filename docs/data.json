@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T08:35:49.519965+00:00",
+  "generated_at": "2026-10-28T08:47:42.447497+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -938,6 +938,14 @@
       "published": "2026-10-28T10:10:00+00:00"
     },
     {
+      "title": "JR東海、売上高が過去最高「訪日客、ビジネスも好調」　中間決算",
+      "link": "https://www.asahi.com/articles/ASVBX2RKSVBXULFA01PM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-28T08:47:38.151673+00:00"
+    },
+    {
       "title": "大阪・関西万博の会場建設費、68億円が残る見通し　万博協会が報告",
       "link": "https://www.asahi.com/articles/ASVBX2HFDVBXPLFA008M.html?ref=rss",
       "summary": "",
@@ -989,6 +997,14 @@
       "title": "Stock Market Today: Stock Markets Mostly Higher Ahead of Fed Rate Decision",
       "link": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026?mod=rss_markets_main",
       "summary": "Central bank expected to hold rates steady at 2 p.m. ET",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-28T08:17:33+00:00"
+    },
+    {
+      "title": "Stock Market Today: Tech Stocks Buoyant Ahead of Fed Rate Decision",
+      "link": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026?mod=rss_markets_main",
+      "summary": "Nasdaq futures rise after chip maker SK Hynix's earnings; Fed expected to hold rates steady",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-28T08:17:33+00:00"
@@ -6344,6 +6360,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-26T15:11:59+00:00"
+    },
+    {
+      "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
+      "link": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
+      "summary": "Article URL: https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram\nComments URL: https://news.ycombinator.com/item?id=50245014\nPoints: 164\n# Comments: 25",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-26T15:05:04+00:00"
     },
     {
       "title": "AWS Weekly Roundup: Amazon Polly Generative engine, TorchNeuron for Trainium, and more (October 26, 2026)",
