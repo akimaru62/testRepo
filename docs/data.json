@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T21:05:07.843004+00:00",
+  "generated_at": "2026-10-28T21:18:25.643120+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -902,6 +902,46 @@
   ],
   "items": [
     {
+      "title": "首相動静（１０月２８日）",
+      "link": "https://www.jiji.com/jc/article?k=2026102800257&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-28T21:18:20.140026+00:00"
+    },
+    {
+      "title": "スマホの値段は平均8万円超え　AIブームが招いた「異次元」の高騰",
+      "link": "https://www.asahi.com/articles/ASVBV21HBVBVULFA00ZM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-28T21:18:19.797282+00:00"
+    },
+    {
+      "title": "The Fed Held Steady on Rates, Leaving Investors to Sit Tight, Too",
+      "link": "https://www.wsj.com/finance/investing/the-fed-held-steady-on-rates-leaving-investors-to-sit-tight-too-9c77723b?mod=rss_markets_main",
+      "summary": "Stocks and long-term bond yields edged higher after Wall Street read Fed Chairman Kevin Warsh as hesitant to hike aggressively.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-28T21:12:00+00:00"
+    },
+    {
+      "title": "U.S. Natural Gas Futures Gain As November Contract Expires",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-rise-in-early-trading-68f5df91?mod=rss_markets_main",
+      "summary": "U.S. natural gas futures rose with the Nymex November contract gaining 4.4% on the day.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-28T21:06:00+00:00"
+    },
+    {
+      "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+      "link": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+      "summary": "Article URL: https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/\nComments URL: https://news.ycombinator.com/item?id=50280864\nPoints: 16\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-28T21:03:24+00:00"
+    },
+    {
       "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
       "link": "https://nango.dev/careers",
       "summary": "Article URL: https://nango.dev/careers\nComments URL: https://news.ycombinator.com/item?id=50280824\nPoints: 0\n# Comments: 0",
@@ -964,6 +1004,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-28T20:58:00+00:00"
+    },
+    {
+      "title": "Google shares tumble 9% after $51bn AI outlay deepens cash burn",
+      "link": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
+      "summary": "Search giant missed estimates for revenue and profit as its search business undershot expectations",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-28T20:54:59+00:00"
     },
     {
       "title": "｢エアコンにもサイバー攻撃の脅威｣？ 平均13年使用で､セキュリティは何年持つのか…長く使う《日本の家電に潜む盲点》 | ビジネス | 東洋経済オンライン",
@@ -1174,6 +1222,14 @@
       "published": "2026-10-28T20:11:00+00:00"
     },
     {
+      "title": "Google AI gets cagey when asked who won the 2020 elections",
+      "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/\nComments URL: https://news.ycombinator.com/item?id=50280178\nPoints: 21\n# Comments: 9",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-28T20:10:16+00:00"
+    },
+    {
       "title": "Fed’s Rate Hold Sends Bond Yields in Different Directions",
       "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-rise-ahead-of-federal-reserve-interest-rate-decision-b1f7ef58?mod=rss_markets_main",
       "summary": "U.S. Treasury yields went in different directions as markets reacted to the Federal Reserve’s widely expected decision to hold rates unchanged and to Chairman Kevin Warsh’s press conference.",
@@ -1295,6 +1351,14 @@
     },
     {
       "title": "Oracle stock rallies as it tells investors its AI bet will pay off sooner than expected",
+      "link": "https://www.ft.com/content/fb08df06-da63-4e94-822d-a47b94616871?syn-25a6b1a6=1",
+      "summary": "Database group projects $30bn in free cash flow by 2029 and will limit additional raising for data centre strategy to $20bn",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-28T19:34:13+00:00"
+    },
+    {
+      "title": "Oracle rallies after telling investors its AI bet will pay off sooner than expected",
       "link": "https://www.ft.com/content/fb08df06-da63-4e94-822d-a47b94616871?syn-25a6b1a6=1",
       "summary": "Database group projects $30bn in free cash flow by 2029 and will limit additional raising for data centre strategy to $20bn",
       "source": "Financial Times",
@@ -8148,6 +8212,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-26T17:19:00+00:00"
+    },
+    {
+      "title": "The tragedy of losing your Wikipedia page",
+      "link": "https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/",
+      "summary": "Article URL: https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/\nComments URL: https://news.ycombinator.com/item?id=50247342\nPoints: 8\n# Comments: 9",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-26T17:15:58+00:00"
     },
     {
       "title": "Bon Secours Affiliate to Acquire Surgery Partners in $5.7 Billion Take-Private Deal",
