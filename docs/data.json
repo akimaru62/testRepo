@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T08:25:15.282649+00:00",
+  "generated_at": "2026-10-28T08:35:49.519965+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -882,6 +882,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f56ef5c7770>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -934,6 +938,14 @@
       "published": "2026-10-28T10:10:00+00:00"
     },
     {
+      "title": "大阪・関西万博の会場建設費、68億円が残る見通し　万博協会が報告",
+      "link": "https://www.asahi.com/articles/ASVBX2HFDVBXPLFA008M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-28T08:35:34.858319+00:00"
+    },
+    {
       "title": "都構想、４特別区名案を決定　前回住民投票と同じ―大阪維新",
       "link": "https://www.jiji.com/jc/article?k=2026102800776&g=pol&m=rss",
       "summary": "",
@@ -964,6 +976,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-28T08:25:10.750712+00:00"
+    },
+    {
+      "title": "European Stocks Mixed as Earnings Drive Index Moves",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-3-led-by-chip-stocks-0909d4ab?mod=rss_markets_main",
+      "summary": "European stock indexes were mixed at open as the earnings season gathered pace, with single-stock stories shaping indexes.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-28T08:25:00+00:00"
     },
     {
       "title": "Stock Market Today: Stock Markets Mostly Higher Ahead of Fed Rate Decision",
