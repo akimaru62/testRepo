@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T18:23:42.516475+00:00",
+  "generated_at": "2026-10-29T18:36:00.962522+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -910,6 +910,22 @@
   ],
   "items": [
     {
+      "title": "Gold, Silver Futures Settle Lower",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-traders-mull-fed-decision-d2dbef6c?mod=rss_markets_main",
+      "summary": "Precious metals futures settled lower following a stronger-than-expected U.S. GDP reading, which supports expectations of higher U.S. interest rates ahead.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-29T18:25:00+00:00"
+    },
+    {
+      "title": "Archive Of Our Own down for maintenance for 2 to 4 weeks",
+      "link": "https://www.otwstatus.org/incidents/g12jnxck9g6h",
+      "summary": "Article URL: https://www.otwstatus.org/incidents/g12jnxck9g6h\nComments URL: https://news.ycombinator.com/item?id=50293546\nPoints: 7\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-29T18:17:06+00:00"
+    },
+    {
       "title": "How boAt delivers personalized fitness coaching with Amazon Bedrock",
       "link": "https://aws.amazon.com/blogs/architecture/how-boat-delivers-personalized-fitness-coaching-with-amazon-bedrock/",
       "summary": "Learn how boAt built its AI Coach feature on Amazon Bedrock and AWS Lambda to deliver personalized, real-time fitness coaching to millions of smartwatch users across India, and the design choices that made the solution scalable and cost-effective.",
@@ -948,6 +964,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-29T17:51:00+00:00"
+    },
+    {
+      "title": "AI Contributions to GHC",
+      "link": "https://serokell.io/blog/ai-contributions-to-ghc",
+      "summary": "Article URL: https://serokell.io/blog/ai-contributions-to-ghc\nComments URL: https://news.ycombinator.com/item?id=50293025\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-29T17:42:30+00:00"
     },
     {
       "title": "Opinion | Anthropic’s IPO Will Be a National-Security Win for Taiwan",
@@ -1054,6 +1078,14 @@
       "published": "2026-10-29T16:42:17+00:00"
     },
     {
+      "title": "Google Search is now less than half of Alphabet’s revenue",
+      "link": "https://www.kadoa.com/companies/insights/google-search-below-half",
+      "summary": "Article URL: https://www.kadoa.com/companies/insights/google-search-below-half\nComments URL: https://news.ycombinator.com/item?id=50291945\nPoints: 275\n# Comments: 222",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-29T16:42:17+00:00"
+    },
+    {
       "title": "Billionaires Don’t Like the Wealth Tax. Here’s What Some Propose Instead.",
       "link": "https://www.wsj.com/us-news/billionaires-dont-like-the-wealth-tax-heres-what-some-propose-instead-4cb5e4e2?mod=rss_markets_main",
       "summary": "Some prefer to focus instead on rooting out wasteful government spending or on improving the lot of the less well-off.",
@@ -1073,6 +1105,14 @@
       "title": "Toxic Experts (2017)",
       "link": "https://nedbatchelder.com/blog/201711/toxic_experts",
       "summary": "Article URL: https://nedbatchelder.com/blog/201711/toxic_experts\nComments URL: https://news.ycombinator.com/item?id=50291927\nPoints: 30\n# Comments: 16",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-29T16:41:11+00:00"
+    },
+    {
+      "title": "Toxic experts (2017)",
+      "link": "https://nedbatchelder.com/blog/201711/toxic_experts",
+      "summary": "Article URL: https://nedbatchelder.com/blog/201711/toxic_experts\nComments URL: https://news.ycombinator.com/item?id=50291927\nPoints: 38\n# Comments: 22",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-29T16:41:11+00:00"
@@ -2073,6 +2113,14 @@
       "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
       "link": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
       "summary": "Article URL: https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers\nComments URL: https://news.ycombinator.com/item?id=50286987\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-29T10:42:41+00:00"
+    },
+    {
+      "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
+      "link": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+      "summary": "Article URL: https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers\nComments URL: https://news.ycombinator.com/item?id=50286987\nPoints: 186\n# Comments: 88",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-29T10:42:41+00:00"
