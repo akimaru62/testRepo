@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T19:33:54.534221+00:00",
+  "generated_at": "2026-10-29T19:48:08.814372+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -910,6 +910,30 @@
   ],
   "items": [
     {
+      "title": "The importance of communities around software",
+      "link": "https://lumi.codeberg.page/blog/software-community.html",
+      "summary": "Article URL: https://lumi.codeberg.page/blog/software-community.html\nComments URL: https://news.ycombinator.com/item?id=50294507\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-29T19:27:47+00:00"
+    },
+    {
+      "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+      "link": "https://github.com/johncassil/dontallow",
+      "summary": "This popup has been a constant gripe of mine for years.  I almost NEVER want to allow this permission and there is no system setting to disable it globally and prevent the popup from interrupting your typing, etc.  This tiny swift app I built will autoclose it in 1/4th of a second and leave behind a little notification that it did so.  Would love to hear feedback!\n\nComments URL: https://news.ycombinator.com/item?id=50294506\nPoints: 16\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-29T19:27:44+00:00"
+    },
+    {
+      "title": "IgE disruptor for food allergy with Claude-enabled antibody design[pdf]",
+      "link": "https://divergencelabs.com/publications/ige-preprint.pdf",
+      "summary": "Article URL: https://divergencelabs.com/publications/ige-preprint.pdf\nComments URL: https://news.ycombinator.com/item?id=50294486\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-29T19:25:48+00:00"
+    },
+    {
       "title": "Polymarket Pauses Trading After Some Users Report Funds Drained",
       "link": "https://www.wsj.com/business/polymarket-pauses-trading-after-some-users-report-funds-drained-b014527d?mod=rss_markets_main",
       "summary": "Traders who lost money on the incident will be ‘made whole,’ the prediction-markets platform said.",
@@ -1036,6 +1060,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-29T17:51:00+00:00"
+    },
+    {
+      "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+      "link": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+      "summary": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-..., https://archive.ph/K7bih\n\nComments URL: https://news.ycombinator.com/item?id=50293047\nPoints: 14\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-29T17:43:48+00:00"
     },
     {
       "title": "AI Contributions to GHC",
