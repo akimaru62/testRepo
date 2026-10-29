@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T18:36:00.962522+00:00",
+  "generated_at": "2026-10-29T18:47:50.155293+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -910,6 +910,14 @@
   ],
   "items": [
     {
+      "title": "Alphabet Stock Sinks, Dragging Nasdaq Lower",
+      "link": "https://www.wsj.com/finance/stocks/ai-stocks-fall-after-alphabet-earnings-disappoint-61d526ed?mod=rss_markets_main",
+      "summary": "U.S. stocks declined, led by the Nasdaq Composite, after Alphabet’s earnings disappointed investors and sparked another bout of AI worries.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-29T18:35:00+00:00"
+    },
+    {
       "title": "Gold, Silver Futures Settle Lower",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-traders-mull-fed-decision-d2dbef6c?mod=rss_markets_main",
       "summary": "Precious metals futures settled lower following a stronger-than-expected U.S. GDP reading, which supports expectations of higher U.S. interest rates ahead.",
@@ -932,6 +940,14 @@
       "source": "AWS ブログ (アーキテクチャ)",
       "category": "開発者向け",
       "published": "2026-10-29T18:16:38+00:00"
+    },
+    {
+      "title": "Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards",
+      "link": "https://github.com/phpclaw-php/phpclaw-monorepo",
+      "summary": "Article URL: https://github.com/phpclaw-php/phpclaw-monorepo\nComments URL: https://news.ycombinator.com/item?id=50293361\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-29T18:06:22+00:00"
     },
     {
       "title": "I'm building LYNX, an open-source DAW inspired by FL Studio, free,cross-platform",
@@ -972,6 +988,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-29T17:42:30+00:00"
+    },
+    {
+      "title": "Thursday: A SerenityOS for Myself",
+      "link": "https://shantaram.xyz/posts/2026/10/a-serenityos-for-myself",
+      "summary": "Article URL: https://shantaram.xyz/posts/2026/10/a-serenityos-for-myself\nComments URL: https://news.ycombinator.com/item?id=50292825\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-29T17:31:01+00:00"
     },
     {
       "title": "Opinion | Anthropic’s IPO Will Be a National-Security Win for Taiwan",
