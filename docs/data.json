@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T05:06:28.890670+00:00",
+  "generated_at": "2026-10-29T05:20:39.823528+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -898,9 +898,69 @@
     {
       "url": "https://azure.microsoft.com/ja-jp/blog/feed/",
       "error": "HTTPSConnectionPool(host='azure.microsoft.com', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f4b9f7770e0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "王将社長射殺、検察側が控訴　一審無罪判決に不服―京都地検",
+      "link": "https://www.jiji.com/jc/article?k=2026102900578&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-29T05:20:34.428155+00:00"
+    },
+    {
+      "title": "元交際相手の男を起訴　宜野湾女性殺害・那覇地検―ストーカー被害相談、車に「紛失防止タグ」も",
+      "link": "https://www.jiji.com/jc/article?k=2026102900564&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-29T05:20:34.428144+00:00"
+    },
+    {
+      "title": "ブルワーズが初制覇　レイズに４勝１敗―米大リーグＷＳ",
+      "link": "https://www.jiji.com/jc/article?k=2026102900550&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-29T05:20:34.428130+00:00"
+    },
+    {
+      "title": "北朝鮮、短距離弾１０発余り発射　日本のＥＥＺ外落下か",
+      "link": "https://www.jiji.com/jc/article?k=2026102900572&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-29T05:20:34.428083+00:00"
+    },
+    {
+      "title": "How Flávio Bolsonaro fled Brazil",
+      "link": "https://www.ft.com/content/0cb91253-62e1-4cdf-864e-61174b297e51?syn-25a6b1a6=1",
+      "summary": "Facing a money-laundering probe, the losing presidential candidate said he had never thought of leaving. The next day he was gone",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-29T05:00:30+00:00"
+    },
+    {
+      "title": "Israel vote leaves door open to Iran attack",
+      "link": "https://www.ft.com/content/53278449-6a8e-493b-8a9e-c44d2a981306?syn-25a6b1a6=1",
+      "summary": "Netanyahu could launch fresh bombing campaign with US while he serves as caretaker prime minister during coalition talks, security experts say",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-29T05:00:30+00:00"
+    },
+    {
+      "title": "Private equity grows up",
+      "link": "https://www.ft.com/content/b36c5561-b601-48f4-bdbc-9a2227a958fa?syn-25a6b1a6=1",
+      "summary": "The past decade has demonstrated that PE at scale is a differentiated asset class — not a better form of capitalism",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-29T05:00:30+00:00"
+    },
     {
       "title": "なぜ｢長期金利上昇｣はいったん一服したのか…AI半導体株との連動､米中間選挙後は〈油断禁物〉 | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/962868?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -1524,6 +1584,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-29T00:10:00+00:00"
+    },
+    {
+      "title": "Debt woes throttle European commercial property market",
+      "link": "https://www.ft.com/content/b63e7df7-b135-42ed-98ce-417802cd935f?syn-25a6b1a6=1",
+      "summary": "Office transactions slide to lowest level since 2009 in third quarter",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-29T00:01:08+00:00"
     },
     {
       "title": "｢高校進学を断念､中卒で自衛隊へ｣経営学者･岩尾俊兵が実践《変えられない過去》を価値に変える\"三種の神器\"思考法 | ライフ | 東洋経済オンライン",
