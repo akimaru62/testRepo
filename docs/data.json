@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T17:05:39.223501+00:00",
+  "generated_at": "2026-10-29T17:19:12.810264+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -910,6 +910,22 @@
   ],
   "items": [
     {
+      "title": "Opinion | Anthropic’s IPO Will Be a National-Security Win for Taiwan",
+      "link": "https://www.wsj.com/opinion/anthropics-ipo-will-be-a-national-security-win-for-taiwan-029888b5?mod=rss_markets_main",
+      "summary": "Reliance on the island for AI chip production puts it among America’s top foreign policy interests.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-29T17:14:00+00:00"
+    },
+    {
+      "title": "All the reasons Marvell investors are ’freaking out’ as Lumentum deal rumors swirl",
+      "link": "https://www.marketwatch.com/story/marvell-is-reportedly-close-to-buying-lumentum-analysts-say-they-see-logic-in-a-potential-deal-d7539c59?mod=mw_rss_topstories",
+      "summary": "Investors are nervous that Marvell would have to pay a big premium — and wait a while for China to approve any deal.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-29T17:08:00+00:00"
+    },
+    {
       "title": "金融審議会「保険制度ワーキング・グループ」（第１回）議事録について公表しました。",
       "link": "https://www.fsa.go.jp/singi/singi_kinyu/hokenseido_wg/gijiroku/20261001.html",
       "summary": "",
@@ -932,6 +948,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-29T17:00:00+00:00"
+    },
+    {
+      "title": "Tomas Mikolov (creator of Word2Vec) receives the Medal of Merit",
+      "link": "https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468",
+      "summary": "Article URL: https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468\nComments URL: https://news.ycombinator.com/item?id=50292233\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-29T16:56:54+00:00"
     },
     {
       "title": "This credit card is the ‘best weapon’ to fight debt while interest rates keep climbing",
@@ -972,6 +996,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-29T16:42:00+00:00"
+    },
+    {
+      "title": "Toxic Experts",
+      "link": "https://nedbatchelder.com/blog/201711/toxic_experts",
+      "summary": "Article URL: https://nedbatchelder.com/blog/201711/toxic_experts\nComments URL: https://news.ycombinator.com/item?id=50291927\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-29T16:41:11+00:00"
     },
     {
       "title": "The Four Academics Who Dreamed Up California’s Billionaire Tax",
@@ -1590,6 +1622,14 @@
       "published": "2026-10-29T12:33:05+00:00"
     },
     {
+      "title": "DoorDash to acquire Instacart",
+      "link": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+      "summary": "Article URL: https://about.doordash.com/en-us/news/doordash-to-acquire-instacart\nComments URL: https://news.ycombinator.com/item?id=50287919\nPoints: 215\n# Comments: 395",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-29T12:33:05+00:00"
+    },
+    {
       "title": "Hackers expose the identities of more than 40k DHS employees",
       "link": "https://text.npr.org/nx-s1-6021497",
       "summary": "Article URL: https://text.npr.org/nx-s1-6021497\nComments URL: https://news.ycombinator.com/item?id=50287898\nPoints: 9\n# Comments: 2",
@@ -1646,6 +1686,14 @@
       "published": "2026-10-29T12:19:00+00:00"
     },
     {
+      "title": "If IPv4 were land",
+      "link": "https://iptrust.co/blog/if-ipv4-were-land",
+      "summary": "Article URL: https://iptrust.co/blog/if-ipv4-were-land\nComments URL: https://news.ycombinator.com/item?id=50287775\nPoints: 144\n# Comments: 133",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-29T12:19:00+00:00"
+    },
+    {
       "title": "Intercontinental Exchange Posts Higher Profit, Revenue",
       "link": "https://www.wsj.com/business/earnings/intercontinental-exchange-posts-higher-profit-revenue-7fed5918?mod=rss_markets_main",
       "summary": "The company posted a third-quarter profit of $940 million, or $1.67 a share, compared with $816 million, or $1.42 a share, a year earlier.",
@@ -1681,6 +1729,14 @@
       "title": "NetBSD adds a new beginner-friendly text editor called atto",
       "link": "https://mastodon.sdf.org/@netbsd/117518160563539748",
       "summary": "Article URL: https://mastodon.sdf.org/@netbsd/117518160563539748\nComments URL: https://news.ycombinator.com/item?id=50287599\nPoints: 12\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-29T11:59:01+00:00"
+    },
+    {
+      "title": "NetBSD adds a new text editor called atto",
+      "link": "https://mastodon.sdf.org/@netbsd/117518160563539748",
+      "summary": "Article URL: https://mastodon.sdf.org/@netbsd/117518160563539748\nComments URL: https://news.ycombinator.com/item?id=50287599\nPoints: 102\n# Comments: 91",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-29T11:59:01+00:00"
