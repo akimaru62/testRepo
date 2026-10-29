@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T19:48:08.814372+00:00",
+  "generated_at": "2026-10-29T20:06:18.591547+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -910,6 +910,62 @@
   ],
   "items": [
     {
+      "title": "Alphabet Sheds Half a Trillion in Market Value in Stock’s Worst Day Ever",
+      "link": "https://www.wsj.com/tech/ai/alphabet-sheds-half-a-trillion-in-market-value-in-stocks-worst-day-ever-bde7bb6e?mod=rss_markets_main",
+      "summary": "Discontent with the Google parent’s quarterly results highlights tensions of its transition from search engine to AI hyperscaler.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-29T20:02:00+00:00"
+    },
+    {
+      "title": "Microsoft to raise up to $25 billion in bond market as investors get pickier about AI debt binge",
+      "link": "https://www.marketwatch.com/story/microsoft-to-raise-up-to-25-billion-in-bond-market-as-investors-get-pickier-about-ai-debt-binge-7c6ae777?mod=mw_rss_topstories",
+      "summary": "What’s changed since the summer is which companies investors want to back in the AI race — and at what level.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-29T20:01:00+00:00"
+    },
+    {
+      "title": "｢子育てしやすい自治体ランキング｣名古屋圏トップ50　2位愛知県長久手市､3位三重県熊野市…を抑えて1位は？ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962049?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "子育てしやすい街はどこか――。名古屋圏73市を対象に､子育て世帯が重視する多様な指標を基に｢子育てしやすい自治体ランキング｣最新トップ50を発表します。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-29T20:00:00+00:00"
+    },
+    {
+      "title": "What’s the first thing most people do with their 401(k) after they retire? Nothing.",
+      "link": "https://www.marketwatch.com/story/whats-the-first-thing-most-people-do-with-their-401-k-after-they-retire-nothing-8a606518?mod=mw_rss_topstories",
+      "summary": "Other tax repercussions crop up down the road because balances build up, and RMDs get complicated",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-29T19:56:00+00:00"
+    },
+    {
+      "title": "Treasury Yields Fall Following Major Central Banks’ Hold",
+      "link": "https://www.wsj.com/finance/jgb-yields-rise-amid-caution-ahead-of-boj-decision-0a68d866?mod=rss_markets_main",
+      "summary": "Treasury yields fell after both the Fed and the ECB kept interest rates unchanged, while U.S. indicators showed growth and inflation still hot.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-29T19:49:00+00:00"
+    },
+    {
+      "title": "Patrick Stewart Has Died",
+      "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html\nComments URL: https://news.ycombinator.com/item?id=50294770\nPoints: 32\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-29T19:47:38+00:00"
+    },
+    {
+      "title": "Patrick Stewart has died",
+      "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+      "summary": "https://archive.ph/y4Egmhttps://en.wikipedia.org/wiki/Patrick_Stewart\n\nComments URL: https://news.ycombinator.com/item?id=50294702\nPoints: 173\n# Comments: 24",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-29T19:41:39+00:00"
+    },
+    {
       "title": "The importance of communities around software",
       "link": "https://lumi.codeberg.page/blog/software-community.html",
       "summary": "Article URL: https://lumi.codeberg.page/blog/software-community.html\nComments URL: https://news.ycombinator.com/item?id=50294507\nPoints: 8\n# Comments: 1",
@@ -1092,6 +1148,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-29T17:31:01+00:00"
+    },
+    {
+      "title": "Duet is the future of chatbot interaction",
+      "link": "https://fig.blue/posts/duet-is-the-future/",
+      "summary": "Article URL: https://fig.blue/posts/duet-is-the-future/\nComments URL: https://news.ycombinator.com/item?id=50292727\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-29T17:24:25+00:00"
     },
     {
       "title": "Opinion | Anthropic’s IPO Will Be a National-Security Win for Taiwan",
@@ -1292,6 +1356,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-29T16:14:28+00:00"
+    },
+    {
+      "title": "Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-cloud-hsm-hardware-audit-logging-verifiable-audit-trails-for-security-and-compliance/",
+      "summary": "Security, compliance, and operations teams can use this hardware-originated evidence for monitoring, compliance reporting, and forensic investigations.\nThe post Azure Cloud HSM Hardware Audit Logging: Verifiable audit trails for security and compliance appeared first on Microsoft Azure Blog.",
+      "source": "Azure ブログ",
+      "category": "テクノロジー",
+      "published": "2026-10-29T16:00:00+00:00"
     },
     {
       "title": "Euro Could Trade-Range Bound Vs Dollar After ECB Decision",
@@ -2481,6 +2553,14 @@
       "title": "Stock Market Today: Alphabet Stock Sinks, Dragging Nasdaq Lower",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-29-2026?mod=rss_markets_main",
       "summary": "Google on course to lose $500 billion in market value after latest numbers disappoint",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-29T09:22:32+00:00"
+    },
+    {
+      "title": "Stock Market Today: Alphabet Stock Sinks in Google-Parent's Worst Day on Record",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-29-2026?mod=rss_markets_main",
+      "summary": "Drop of more than 12% erases about $500 billion in market value, pulls indexes lower",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-29T09:22:32+00:00"
