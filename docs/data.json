@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T06:10:24.345979+00:00",
+  "generated_at": "2026-10-29T06:30:38.239542+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -902,9 +902,45 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f4b9f7770e0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fbfc0e930e0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "池谷公二郎さん死去、７４歳　広島初優勝に貢献―プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026102900617&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-29T06:30:32.437164+00:00"
+    },
+    {
+      "title": "ピアニスト反田恭平被告に有罪　首都高で１４４キロ、道交法違反―東京地裁",
+      "link": "https://www.jiji.com/jc/article?k=2026102900192&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-29T06:30:32.437114+00:00"
+    },
+    {
+      "title": "Societe Generale Posts Profit, Revenue Increase in 3Q",
+      "link": "https://www.wsj.com/business/earnings/societe-generale-posts-profit-revenue-increase-in-3q-3a3e34ee?mod=rss_markets_main",
+      "summary": "Societe Generale reported third-quarter net profit that beat market expectations despite a volatile macroeconomic backdrop in its home country.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-29T06:26:00+00:00"
+    },
+    {
+      "title": "2年利付国債（第490回）の第II非価格競争入札結果（令和8年10月29日入札）",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261029a.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-29T06:15:00+00:00"
+    },
     {
       "title": "不正アクセスで個人情報漏洩、今年度すでに2億6千万人　政府まとめ",
       "link": "https://www.asahi.com/articles/ASVBY1R18VBYULFA00KM.html?ref=rss",
