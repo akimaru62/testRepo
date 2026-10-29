@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T18:07:48.317500+00:00",
+  "generated_at": "2026-10-29T18:23:42.516475+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -910,6 +910,22 @@
   ],
   "items": [
     {
+      "title": "How boAt delivers personalized fitness coaching with Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/architecture/how-boat-delivers-personalized-fitness-coaching-with-amazon-bedrock/",
+      "summary": "Learn how boAt built its AI Coach feature on Amazon Bedrock and AWS Lambda to deliver personalized, real-time fitness coaching to millions of smartwatch users across India, and the design choices that made the solution scalable and cost-effective.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-10-29T18:16:38+00:00"
+    },
+    {
+      "title": "I'm building LYNX, an open-source DAW inspired by FL Studio, free,cross-platform",
+      "link": "https://github.com/Ka1-S/LYNX-SHARE",
+      "summary": "Article URL: https://github.com/Ka1-S/LYNX-SHARE\nComments URL: https://news.ycombinator.com/item?id=50293308\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-29T18:02:17+00:00"
+    },
+    {
       "title": "Did the Fed make a mistake with its October rate pause? The Treasury could help save the day.",
       "link": "https://www.marketwatch.com/story/did-the-fed-make-a-mistake-with-its-october-rate-pause-the-treasury-could-help-save-the-day-77d84993?mod=mw_rss_topstories",
       "summary": "As focus shifts to the Treasury’s funding plans, there’s some expectation that longer-term supply could be reduced in an attempt to boost demand and lower yields",
@@ -943,6 +959,14 @@
     },
     {
       "title": "All the reasons Marvell investors are ’freaking out’ as Lumentum deal rumors swirl",
+      "link": "https://www.marketwatch.com/story/marvell-is-reportedly-close-to-buying-lumentum-analysts-say-they-see-logic-in-a-potential-deal-d7539c59?mod=mw_rss_topstories",
+      "summary": "Investors are nervous that Marvell would have to pay a big premium — and wait a while for China to approve any deal.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-29T17:08:00+00:00"
+    },
+    {
+      "title": "All the reasons Marvell investors are ‘freaking out’ as Lumentum deal rumors swirl",
       "link": "https://www.marketwatch.com/story/marvell-is-reportedly-close-to-buying-lumentum-analysts-say-they-see-logic-in-a-potential-deal-d7539c59?mod=mw_rss_topstories",
       "summary": "Investors are nervous that Marvell would have to pay a big premium — and wait a while for China to approve any deal.",
       "source": "MarketWatch",
@@ -1158,6 +1182,14 @@
       "published": "2026-10-29T15:30:22+00:00"
     },
     {
+      "title": "Mexico has a growing fleet of new vehicles from Chinese brands",
+      "link": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
+      "summary": "Article URL: https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/\nComments URL: https://news.ycombinator.com/item?id=50290668\nPoints: 176\n# Comments: 164",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-29T15:30:22+00:00"
+    },
+    {
       "title": "U.S. Treasury, European Bond Yields Fall After Fed, ECB Hold",
       "link": "https://www.wsj.com/finance/commodities-futures/u-s-treasury-yields-fall-as-investors-digest-fed-meet-focus-shifts-to-ecb-d29ffbec?mod=rss_markets_main",
       "summary": "Government bond yields fell in the U.S. and in Europe Thursday following interest-rate holds by the respective central banks.",
@@ -1239,6 +1271,14 @@
     },
     {
       "title": "Druckenmiller backs push to bring risky crypto-style bets to Wall Street",
+      "link": "https://www.ft.com/content/08dea965-63c8-4e63-a69d-b2c2a8e909eb?syn-25a6b1a6=1",
+      "summary": "Hedge fund billionaire says he has invested in little-known CME Group rival tradeXYZ",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-29T14:54:48+00:00"
+    },
+    {
+      "title": "Druckenmiller backs push to bring risky perpetual futures to Wall Street",
       "link": "https://www.ft.com/content/08dea965-63c8-4e63-a69d-b2c2a8e909eb?syn-25a6b1a6=1",
       "summary": "Hedge fund billionaire says he has invested in little-known CME Group rival tradeXYZ",
       "source": "Financial Times",
