@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T01:06:34.310872+00:00",
+  "generated_at": "2026-10-29T01:20:36.023549+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -902,6 +902,38 @@
   ],
   "items": [
     {
+      "title": "千葉で震度５弱、津波なし",
+      "link": "https://www.jiji.com/jc/article?k=2026102900015&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-29T01:20:31.109235+00:00"
+    },
+    {
+      "title": "米国防長官、防衛費に言及　小泉氏「金額・結論触れず」",
+      "link": "https://www.jiji.com/jc/article?k=2026102900289&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-29T01:20:31.109181+00:00"
+    },
+    {
+      "title": "国庫短期証券（第1416回）の入札発行",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20261029.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-29T01:20:00+00:00"
+    },
+    {
+      "title": "The Fed’s AI Puzzle: Will High Rates Slow the Boom?",
+      "link": "https://www.wsj.com/economy/central-banking/the-feds-ai-puzzle-will-high-rates-slow-the-boom-c9c43ce2?mod=rss_markets_main",
+      "summary": "Chairman Kevin Warsh said higher rates are reaching the investment surge and growth is broadening beyond it. The positions cut in opposite directions for where to set rates.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-29T01:12:00+00:00"
+    },
+    {
       "title": "｢10時10分前はいつなのか｣SNSの小さな論争に潜む､誰もが｢まちがえた｣と言えない日本の構造 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/962652?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "｢当たり前｣が通用しない今､私たちはなぜ素直に｢間違えた｣と言えなくなったのでしょうか。SNSや社会の空気､コンプライアンス意識の高まりが絡み合い､謝罪さえ叩かれる現代。自明性をめぐる議論から､私た…",
@@ -948,6 +980,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-29T00:38:00+00:00"
+    },
+    {
+      "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+      "link": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+      "summary": "Article URL: https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md\nComments URL: https://news.ycombinator.com/item?id=50282865\nPoints: 9\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-29T00:30:37+00:00"
     },
     {
       "title": "｢肉が噛みにくい｣違和感を放置する人を待ち受ける悲惨な末路…すぐに歯医者に行った方がいい\"日常の変化\"とは | ライフ | 東洋経済オンライン",
