@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T20:06:18.591547+00:00",
+  "generated_at": "2026-10-29T20:20:41.671059+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -910,6 +910,22 @@
   ],
   "items": [
     {
+      "title": "How BMW Group accelerated connected vehicle workloads on AWS Graviton",
+      "link": "https://aws.amazon.com/blogs/architecture/how-bmw-group-accelerated-connected-vehicle-workloads-on-aws-graviton/",
+      "summary": "Learn how BMW Group migrated its connected vehicle platform from x86 to AWS Graviton. Using Karpenter, multi-architecture container builds, and Graviton-based CI/CD runners, the team moved workloads without disruption, cutting NGINX ingress CPU by about 57 percent and delivering about 40 percent better price-performance.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-10-29T20:11:14+00:00"
+    },
+    {
+      "title": "Intel stock falls 17% as it forecasts weaker chip sales",
+      "link": "https://www.ft.com/content/d7540e89-08db-43d3-92e0-3c15dd3a60cb?syn-25a6b1a6=1",
+      "summary": "Lower-than-expected sales forecasts dent chipmakers’ turnaround prospects",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-29T20:02:33+00:00"
+    },
+    {
       "title": "Alphabet Sheds Half a Trillion in Market Value in Stock’s Worst Day Ever",
       "link": "https://www.wsj.com/tech/ai/alphabet-sheds-half-a-trillion-in-market-value-in-stocks-worst-day-ever-bde7bb6e?mod=rss_markets_main",
       "summary": "Discontent with the Google parent’s quarterly results highlights tensions of its transition from search engine to AI hyperscaler.",
@@ -1014,6 +1030,14 @@
       "published": "2026-10-29T19:09:00+00:00"
     },
     {
+      "title": "ExxonMobil boss pulls out of Gulf energy conference over security concerns",
+      "link": "https://www.ft.com/content/288ccf9d-6456-4bed-85c0-e7216bb31c66?syn-25a6b1a6=1",
+      "summary": "Darren Woods was scheduled to speak at the Adipec conference in Abu Dhabi on Monday",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-29T18:55:08+00:00"
+    },
+    {
       "title": "Why Alphabet’s stock is on track for its worst day ever after the latest results",
       "link": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
       "summary": "A doubling of cloud revenue wasn’t enough to appease Wall Street as investors grew more concerned that AI is hurting the company’s ability to make money off search queries.",
@@ -1116,6 +1140,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-29T17:51:00+00:00"
+    },
+    {
+      "title": "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
+      "link": "https://github.com/lonthq/overtone-captions",
+      "summary": "Hi HN, I'm Ruud, co-founder of Lont. We turn company emails into personalized videos.Video captions cost us manual work twice: fixing misheard words, then fixing layout, like lines ending on “the”.Overtone uses multiple models to listen to the audio: gpt-transcribe, Azure STT, and Elevenlabs Scribe. When they return conflicting results, Overtone sends small clips to the models again, and then lets an LLM decide what was actually said.The LLM is like a human doing a sanity check on the transcription model. Humans would easily recognize a word to be different based on context. The LLM basically does the same, using an optional context prompt + its world knowledge. Because of this the Word Error Rate (WER) on many test files is lower when using Overtone, compared to just using a model without it.Sure, the cost is higher because we use up to 3 different STT models + an LLM, but it still removes mistakes, reducing the time needed to fix captions to a minimum, and reducing the chance you'll miss something. For us it's worth it. For ultra high volume use cases it may not be.The rules-based cutter nicely cuts the transcript into captions that look good, depending on screen size: 16:9 is different from 9:16, and the Overtone Format we created supports any type really. Pauses become breaks, captions are grouped per speaker, and names/numbers are never spread out over multiple captions.How to add these captions to your videos? A videojs plugin can do this automatically, so you don't burn in your captions. The plugin lets you cycle between styled captions, plain captions, and off. You can burn them into an MP4 file with overtone burn.Quickly try it out just the cutter? Try:  npx overtone-captions recut yoursub.srt\n\nTranscribing audio with API keys works too. Use --dry-run to show a cost estimate before you send.We open-sourced this first version (MIT) because we believe many people can benefit from this, especially if your captions just need to be good. There's plenty of room to improve though, so we've made it easy to help contribute to add style packs, languages, and providers/models.You can find a demo at: https://overtone.lont.ai/Find the code and benchmarks here: https://github.com/lonthq/overtone-captions\n\nComments URL: https://news.ycombinator.com/item?id=50293115\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-29T17:48:17+00:00"
     },
     {
       "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
@@ -2286,6 +2318,14 @@
       "published": "2026-10-29T11:03:00+00:00"
     },
     {
+      "title": "How corruption became a top voter issue in the US midterms",
+      "link": "https://www.ft.com/content/2cd96df5-1725-4438-bd86-2b5c97f0f9e7?syn-25a6b1a6=1",
+      "summary": "Democrats are betting voters will connect alleged White House self-dealing with their own financial struggles",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-29T11:00:02+00:00"
+    },
+    {
       "title": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
       "link": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
       "summary": "Medicare is testing the use of AI to conduct prior authorizations to target wasteful medical spending",
@@ -2561,6 +2601,14 @@
       "title": "Stock Market Today: Alphabet Stock Sinks in Google-Parent's Worst Day on Record",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-29-2026?mod=rss_markets_main",
       "summary": "Drop of more than 12% erases about $500 billion in market value, pulls indexes lower",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-29T09:22:32+00:00"
+    },
+    {
+      "title": "Stock Market Today: AI Jitters Spread Across Markets",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-29-2026?mod=rss_markets_main",
+      "summary": "Amazon, Intel earnings disappoint; Google stock suffers worst day on record",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-29T09:22:32+00:00"
