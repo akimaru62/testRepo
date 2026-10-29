@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T23:47:52.143657+00:00",
+  "generated_at": "2026-10-29T00:15:27.415286+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -901,6 +901,78 @@
     }
   ],
   "items": [
+    {
+      "title": "スペイン列車事故、死者６８人に　首相「信頼回復と安全確保へ」",
+      "link": "https://www.jiji.com/jc/article?k=2026102900191&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-29T00:15:22.579689+00:00"
+    },
+    {
+      "title": "政策決定回数、来年から削減　不透明感、一段と―米ＦＲＢ議長",
+      "link": "https://www.jiji.com/jc/article?k=2026102900266&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-29T00:15:22.579653+00:00"
+    },
+    {
+      "title": "米FRBが政策金利を据え置き",
+      "link": "https://news.yahoo.co.jp/pickup/6600510?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-10-29T00:13:09+00:00"
+    },
+    {
+      "title": "The major reason Microsoft’s stock is heading higher after earnings",
+      "link": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
+      "summary": "Microsoft showed investors that it’s able to grow rapidly while keeping spending in check.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-29T00:10:00+00:00"
+    },
+    {
+      "title": "｢高校進学を断念､中卒で自衛隊へ｣経営学者･岩尾俊兵が実践《変えられない過去》を価値に変える\"三種の神器\"思考法 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960730?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "経営の現場で本当に役立つ｢実践知｣とは何か。ドラッカーや稲盛和夫氏の知恵をもとに岩尾俊兵氏が提唱する｢価値創造三種の神器｣から､｢七転八起の四角形｣を徹底解説。過去の苦境をどう価値へ変えるのか､その…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-29T00:00:00+00:00"
+    },
+    {
+      "title": "Oil is Gushing Out of the Gulf. Why Are Prices Still Above $100 a Barrel?",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-is-gushing-out-of-the-gulf-why-are-prices-still-above-100-a-barrel-3ccff61d?mod=rss_markets_main",
+      "summary": "Stubbornly high prices at the pump offered little hope for drivers looking for some relief.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-29T00:00:00+00:00"
+    },
+    {
+      "title": "貿易統計(令和8年10月上旬分速報)【税関ホームページ】",
+      "link": "https://www.mof.go.jp/outside_link/20261028111809.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-10-28T23:50:00+00:00"
+    },
+    {
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "summary": "Article URL: https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html\nComments URL: https://news.ycombinator.com/item?id=50282544\nPoints: 15\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-28T23:45:46+00:00"
+    },
+    {
+      "title": "｢帰るよ！｣に泣き叫んで抵抗する子は､まだ大丈夫…本当に危ないのは｢良い子｣を演じ始めた小学生 | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962460?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "毎日｢早く宿題しなさい｣と言ってもなかなか子どもは言うことを聞かず､怒っては自己嫌悪に陥る……そんな親子のすれ違いに悩んでいませんか？実は､親が｢正解の場所｣から一度降りて寄り添うことで､想像以上に…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-28T23:45:00+00:00"
+    },
     {
       "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
       "link": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
@@ -3431,6 +3503,14 @@
     },
     {
       "title": "Stock Market Today: Alphabet Stock Drops Sharply After Revenue Miss",
+      "link": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026?mod=rss_markets_main",
+      "summary": "Microsoft stock edges higher after reporting strength in cloud business",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-28T08:17:33+00:00"
+    },
+    {
+      "title": "Stock Market News, Oct. 28,2026: Alphabet Stock Drops Sharply After Revenue Miss",
       "link": "https://www.wsj.com/livecoverage/fed-meeting-interest-rate-decision-10-28-2026?mod=rss_markets_main",
       "summary": "Microsoft stock edges higher after reporting strength in cloud business",
       "source": "WSJ マーケット",
