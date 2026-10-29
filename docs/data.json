@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T15:48:13.840394+00:00",
+  "generated_at": "2026-10-29T16:07:14.104510+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -934,6 +934,38 @@
       "published": "2026-10-29T17:00:00+00:00"
     },
     {
+      "title": "Euro Could Trade-Range Bound Vs Dollar After ECB Decision",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-ahead-of-u-s-data-1ac5a50c?mod=rss_markets_main",
+      "summary": "The euro recovered from initial losses and was up slightly against the dollar and could stay within a tight range against the dollar for the remainder of the year, J.P. Morgan Private Bank said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-29T15:59:00+00:00"
+    },
+    {
+      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+      "link": "https://news.ycombinator.com/item?id=50291116",
+      "summary": "Hi HN, we're Ahnaf and Seungmin from Simantic (https://simantic.com). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware.Before Simantic, we were ex-firmware engineers at companies like Neuralink and Tesla. We’ve worked on some of the coolest projects, like the Cybertruck and Roadster, back when they were still early prototypes.We started working on firmware back when ChatGPT didn’t exist yet, but over the years, we saw how much of the engineering and development work has been automated as the frontier models improved to this point. In software, AI can run and test code inside your computer in a matter of seconds. But as firmware engineers, we didn’t have that luxury. An AI agent can write firmware in seconds, but in order to test it, we had to flash a physical board, then manually run tests using expensive and clunky tools with software made over a decade ago.To speed up the validation loop, we built the simulation layer that lets AI agents test the firmware and make decisions based on evidence, instead of waiting for the engineer to run tests for them. We used to spend hours testing our firmware manually on devboards, but now we use our own simulation to validate firmware in seconds.What we offer:\n- Virtual devboards you can program and run with a single API call, without leaving your terminal.\n- An AI code reviewer for firmware, that makes informed decisions based on evidence, using our simulation as a verification engine.\n- A CI/CD pipeline for your hardware projects that validates your firmware against a simulated version of the microcontroller on every commit.Here is a demo of our simulation used in an AI code review session: https://www.youtube.com/watch?v=kBK1ZjGWWbQOur users are using Simantic for bare-metal and RTOS development for applications like flight controllers, electric vehicles, robotics, and satellites. For safety critical systems like avionics and automotives, a robust simulation system is incredibly important, because every change in the firmware puts a human life at stake, especially for machines that cost hundreds of thousands to millions of dollars.We recently helped an early stage space startup building satellites, to test their firmware on hardware that they don't yet have. Even the development modules for those satellites costs over $100k, and we helped them do that at just a hundredth of the cost and time.Early on in our journey, we established our idea to make better simulation but didn’t have a clear idea of how we would do it, we considered developing our software around open source emulation frameworks like Renode (https://github.com/renode/renode) and QEMU (https://www.qemu.org/), because they were tools already used within the firmware industry. We built our MVP that was essentially a wrapper around Renode, but we quickly realized there were a lot of limitations to doing this.1. We were bottlenecked by the development speed of Renode themselves. We tried making contributions on Github to fix issues we came across, but the speed in which we could merge our features in was not fast enough for a startup like us trying to move fast.2. Renode is built using Dotnet, and it was proving itself to be slower than we would have liked. Renode was released in 2017, which was when all code was still being written by hand, so I think it made sense looking back, but there were limitations because of the language itself.3. The open source tools were bloated, with features that we would never use. Yes, there were a  breadth of features, but we had a lot of things we had to work around just because we couldn’t remove or change them.\nUsers were complaining about simulation accuracy. Renode is an emulator at the core, but our users, especially those who are building systems where timing accuracy is crucial did not find the accuracy good enough to validate their firmware.Because of these issues, we made our own simulation engine from scratch, fully written in Rust.- Our simulation is focused on accuracy. Open source frameworks often focus on expandability and developer experience, which means there were a lot of tradeoffs made to prioritize a breadth of models rather than going deep into a set of select models.- We have our own hardware validation rigs running 24/7 to ensure our simulation models are as close to real world hardware as possible, and any gaps are detected and fixed as soon as we can. It currently looks like devboards connected to a Saleae Logic MSO and a SWD bus, controlled by a Linux PC, running Claude 24/7 just finding these gaps.Our cloud-hosted simulator is available to use right now! We also provide a native binary with our developer plan licenses that let you run your firmware on your machines locally without any limitations.Check it out at https://simantic.com/cloud-sim, and you can start using our AI firmware reviewer bot in your own Github repos here: https://simantic.com/dashboard/simantic-bot.We currently have support for some models of the STM32F0, F4, H7 series MCUs, ESP32-S3/C3, and RP2040, but we’re constantly working to release new models every week, and improve our existing ones.Thank you, and if you have any questions, feel free to send us an email at founders@simantic.dev\n\nComments URL: https://news.ycombinator.com/item?id=50291116\nPoints: 2\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-29T15:56:32+00:00"
+    },
+    {
+      "title": "Looking for income? These dividend stocks have high yields that seem well supported.",
+      "link": "https://www.marketwatch.com/story/looking-for-income-these-dividend-stocks-have-high-yields-that-seem-well-supported-81093bdf?mod=mw_rss_topstories",
+      "summary": "Ford, Pfizer and Verizon are among 11 stocks that passed a screen of the S&amp;P 500 for high dividend yields that are expected to be well covered by the companies’ free cash flow.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-29T15:54:00+00:00"
+    },
+    {
+      "title": "Mexico is a showroom for electric vehicles you can't buy in the U.S.",
+      "link": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
+      "summary": "Article URL: https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/\nComments URL: https://news.ycombinator.com/item?id=50290668\nPoints: 9\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-29T15:30:22+00:00"
+    },
+    {
       "title": "U.S. Treasury, European Bond Yields Fall After Fed, ECB Hold",
       "link": "https://www.wsj.com/finance/commodities-futures/u-s-treasury-yields-fall-as-investors-digest-fed-meet-focus-shifts-to-ecb-d29ffbec?mod=rss_markets_main",
       "summary": "Government bond yields fell in the U.S. and in Europe Thursday following interest-rate holds by the respective central banks.",
@@ -1148,6 +1180,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-29T14:04:42+00:00"
+    },
+    {
+      "title": "Why are good developers so wary of agentic development?",
+      "link": "https://martinfowler.com/rachels-ramblings/good-devs-wary.html",
+      "summary": "Article URL: https://martinfowler.com/rachels-ramblings/good-devs-wary.html\nComments URL: https://news.ycombinator.com/item?id=50289162\nPoints: 12\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-29T13:58:41+00:00"
     },
     {
       "title": "As voters struggle with pricey car loans, mortgages and credit-card debt, the cost of money itself is on the ballot",
