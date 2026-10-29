@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T20:33:19.446672+00:00",
+  "generated_at": "2026-10-29T20:47:36.172834+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -910,11 +910,75 @@
   ],
   "items": [
     {
+      "title": "The S&P 500 isn’t the big winner you may think it is",
+      "link": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
+      "summary": "The index’s weakness may surprise a generation of investors raised on the cult of “stocks always go up.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-29T20:39:00+00:00"
+    },
+    {
+      "title": "Sandisk sees revenue nearly quintuple — and its stock is heading higher",
+      "link": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
+      "summary": "Sandisk’s earnings show that the company is growing quite profitably.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-29T20:39:00+00:00"
+    },
+    {
+      "title": "Oil Settles Lower As U.S. Seeks to Engage Iran in Talks",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-traders-weigh-middle-east-risks-f814aedd?mod=rss_markets_main",
+      "summary": "Oil futures retreated on news that the U.S. is seeking to establish talks with Iranian hard-liners, although concerns of renewed military conflict kept losses to a minimum.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-29T20:34:00+00:00"
+    },
+    {
+      "title": "Alphabet Stumbles, U.S. Economy Surges",
+      "link": "https://www.wsj.com/finance/stocks/alphabet-stumbles-u-s-economy-surges-7f47a441?mod=rss_markets_main",
+      "summary": "Plus, DoorDash to buy Instacart and ServiceNow shares tank",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-29T20:32:00+00:00"
+    },
+    {
       "title": "This is where most people go wrong in their 30s and 40s",
       "link": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
       "summary": "These big life decisions will determine just how well you retire.",
       "source": "MarketWatch",
       "category": "海外金融",
+      "published": "2026-10-29T20:30:00+00:00"
+    },
+    {
+      "title": "【独自】逮捕者出したガンホーにアクティビストが提訴請求､機能不全の株主総会に見切りをつけて増加する法廷闘争 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962887?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "株主総会から法廷へと舞台を移し、アクティビスト（物言う株主）が企業とバトルを繰り広げている。オンラインゲーム大手のガンホー・オンライン・エンターテイメント（以下ガンホー）の監査役に対し、香港の投資フ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-29T20:30:00+00:00"
+    },
+    {
+      "title": "中間選挙で敗れたトランプ氏が〈米中ロ3者会談〉に踏み切るとアジアに何が起きるのか…米識者の警告と日本が備えるべきこと | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962824?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "トランプ大統領が米中ロ三者会談に意欲を示す中､日本の安全保障が新たな交渉材料となる懸念が高まっています。アジア戦略の行方､そして日本が備えるべき道とは。予測困難な外交の最前線､その核心に迫ります。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-29T20:30:00+00:00"
+    },
+    {
+      "title": "医薬品原料を大腸菌で高速量産へ､合成生物学の大学発新興ファーメランタを生んだ｢カンパニークリエーション｣の実像 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962104?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "大学発ベンチャー6000社超のうち､上場企業は約1%にとどまります。技術だけでは勝てない厳しい現実もある中､ディープテック（先端技術）の分野では､VCが研究者と起業家を結び付け､設立前にリスクを潰す…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-29T20:30:00+00:00"
+    },
+    {
+      "title": "キダルト需要だけじゃない…｢ドン･キホーテ｣親会社が《8期連続赤字の｢トイザらス｣》を買収した\"本当の狙い\" | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962059?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "業績絶好調な｢ドン･キホーテ｣親会社が､8期連続赤字の｢トイザらス｣の日本事業を取得しました。10月30日付で､いよいよ事業譲渡が決行されます。この買収に勝算はあるのでしょうか？",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
       "published": "2026-10-29T20:30:00+00:00"
     },
     {
@@ -932,6 +996,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-29T20:26:00+00:00"
+    },
+    {
+      "title": "Amazon shares slide on lower Christmas sales forecast",
+      "link": "https://www.ft.com/content/8affd8dd-b783-48c8-86e2-ac4a647fa0f3?syn-25a6b1a6=1",
+      "summary": "E-commerce giant posts disappointing sales and guidance despite booming cloud unit",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-29T20:25:58+00:00"
     },
     {
       "title": "Lilly raised sales guidance for third time this year as Zepbound sales soar. Its stock closed at a record high.",
@@ -1007,6 +1079,14 @@
     },
     {
       "title": "What’s the first thing most people do with their 401(k) after they retire? Nothing.",
+      "link": "https://www.marketwatch.com/story/whats-the-first-thing-most-people-do-with-their-401-k-after-they-retire-nothing-8a606518?mod=mw_rss_topstories",
+      "summary": "Other tax repercussions crop up down the road because balances build up, and RMDs get complicated",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-29T19:56:00+00:00"
+    },
+    {
+      "title": "80% of workers make this 401(k)  mistake when they retire",
       "link": "https://www.marketwatch.com/story/whats-the-first-thing-most-people-do-with-their-401-k-after-they-retire-nothing-8a606518?mod=mw_rss_topstories",
       "summary": "Other tax repercussions crop up down the road because balances build up, and RMDs get complicated",
       "source": "MarketWatch",
