@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T19:47:59.714615+00:00",
+  "generated_at": "2026-10-30T20:05:07.111542+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -922,6 +922,14 @@
       "published": "2026-10-30T19:45:00+00:00"
     },
     {
+      "title": "Affordable Care Act Rates To Rise Steeply—Again",
+      "link": "https://www.wsj.com/health/healthcare/affordable-care-act-rates-to-rise-steeplyagain-986da40c?mod=rss_markets_main",
+      "summary": "ACA plan premiums will rise by 13% in 2027, the second straight year of double-digit increases in a market that is already facing shrinking enrollment.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-30T19:45:00+00:00"
+    },
+    {
       "title": "The Fed held interest rates steady, but these officials see more hikes coming soon",
       "link": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
       "summary": "Dallas Fed’s Lorie Logan sees “at least” 50 basis points in additional hikes.",
@@ -978,12 +986,28 @@
       "published": "2026-10-30T19:18:07.423025+00:00"
     },
     {
+      "title": "Bunny CDN Security Incident",
+      "link": "https://status.bunny.net/incidents/p6gf1by9kr7m",
+      "summary": "Article URL: https://status.bunny.net/incidents/p6gf1by9kr7m\nComments URL: https://news.ycombinator.com/item?id=50308697\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T19:05:22+00:00"
+    },
+    {
       "title": "Nasdaq 100 tumbles into correction territory as AI sell-off intensifies",
       "link": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1",
       "summary": "Revelations that Anthropic could receive junk rating after IPO add to concerns over Big Tech borrowing spree",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-30T19:02:14+00:00"
+    },
+    {
+      "title": "French digital tax may kill VideoLan non-profit",
+      "link": "https://twitter.com/videolan/status/2116229135919919278",
+      "summary": "Article URL: https://twitter.com/videolan/status/2116229135919919278\nComments URL: https://news.ycombinator.com/item?id=50308631\nPoints: 23\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T19:01:14+00:00"
     },
     {
       "title": "What happened to 145 Nasdaq companies after the $1 warning letter",
@@ -1000,6 +1024,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-30T18:50:00+00:00"
+    },
+    {
+      "title": "$6.3bn in 30 minutes: how the world’s biggest heist unfolded",
+      "link": "https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a?syn-25a6b1a6=1",
+      "summary": "North Korean hackers’ attack on Binance takes crypto theft to an unprecedented scale",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-30T18:44:53+00:00"
     },
     {
       "title": "French national assembly votes 0.055€/GB internet tax",
