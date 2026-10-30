@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T17:04:59.642404+00:00",
+  "generated_at": "2026-10-30T17:17:21.501742+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -922,6 +922,22 @@
       "published": "2026-10-30T18:00:00+00:00"
     },
     {
+      "title": "ＮＹ株、１３２ドル安　アルファベット急落",
+      "link": "https://www.jiji.com/jc/article?k=2026103000155&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-30T17:17:16.689286+00:00"
+    },
+    {
+      "title": "The big winners of the tech wreck are biopharma stocks",
+      "link": "https://www.marketwatch.com/story/the-big-winners-of-the-tech-wreck-are-biopharma-stocks-2ac4d175?mod=mw_rss_topstories",
+      "summary": "The shares of large drugmakers like Lilly, Gilead and J&amp;J keep hitting record highs.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-30T17:13:00+00:00"
+    },
+    {
       "title": "「金融商品取引業等に関する内閣府令の一部を改正する内閣府令」等の公布及びパブリックコメントの結果について公表しました。",
       "link": "https://www.fsa.go.jp/news/r8/shouken/20261030/20261030.html",
       "summary": "",
@@ -944,6 +960,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-30T17:00:00+00:00"
+    },
+    {
+      "title": "Binance rushes to recover customer money after $6.3bn heist",
+      "link": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1",
+      "summary": "World’s largest crypto exchange says an engineer’s laptop was compromised in major security breach",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-30T16:59:33+00:00"
     },
     {
       "title": "Precious Metal Futures Sink Amid Rate Concerns, Rising Oil Prices",
@@ -1026,6 +1050,14 @@
       "published": "2026-10-30T16:00:00+00:00"
     },
     {
+      "title": "Sam Altman Thinks You're Wasting DRAM",
+      "link": "https://frvr.com/blog/news/openai-ceo-sam-altman-says-its-terrible-to-have-everybody-have-a-bunch-of-the-worlds-limited-supply-of-dram-instead-of-shoving-it-all-in-datacentres/",
+      "summary": "Article URL: https://frvr.com/blog/news/openai-ceo-sam-altman-says-its-terrible-to-have-everybody-have-a-bunch-of-the-worlds-limited-supply-of-dram-instead-of-shoving-it-all-in-datacentres/\nComments URL: https://news.ycombinator.com/item?id=50305797\nPoints: 21\n# Comments: 18",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T15:58:39+00:00"
+    },
+    {
       "title": "Private equity in your 401(k)? Heed Warren Buffett’s warning.",
       "link": "https://www.marketwatch.com/story/private-equity-in-your-401-k-heed-warren-buffetts-warning-6f318cd0?mod=mw_rss_topstories",
       "summary": "About 52% of people with a workplace retirement plan say they would invest in private assets if they were available in their company’s plan.",
@@ -1042,6 +1074,14 @@
       "published": "2026-10-30T15:52:18+00:00"
     },
     {
+      "title": "Florilegium: Procedural Flowers in LaTeX",
+      "link": "https://github.com/kevinraymond/florilegium",
+      "summary": "Article URL: https://github.com/kevinraymond/florilegium\nComments URL: https://news.ycombinator.com/item?id=50305637\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T15:48:12+00:00"
+    },
+    {
       "title": "Geist Serif",
       "link": "https://vercel.com/blog/introducing-geist-serif",
       "summary": "Article URL: https://vercel.com/blog/introducing-geist-serif\nComments URL: https://news.ycombinator.com/item?id=50305601\nPoints: 7\n# Comments: 0",
@@ -1053,6 +1093,14 @@
       "title": "The Federated Code Forge",
       "link": "https://tangled.org/blog/forge/",
       "summary": "Article URL: https://tangled.org/blog/forge/\nComments URL: https://news.ycombinator.com/item?id=50305573\nPoints: 9\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T15:44:29+00:00"
+    },
+    {
+      "title": "The federated code forge",
+      "link": "https://tangled.org/blog/forge/",
+      "summary": "Article URL: https://tangled.org/blog/forge/\nComments URL: https://news.ycombinator.com/item?id=50305573\nPoints: 43\n# Comments: 16",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-30T15:44:29+00:00"
@@ -2696,6 +2744,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-30T05:00:13+00:00"
+    },
+    {
+      "title": "The trouble with small nuclear reactors",
+      "link": "https://www.ft.com/content/da1af660-c1d0-4c8b-8f94-e84052344448?syn-25a6b1a6=1",
+      "summary": "Proponents believe the technology is central to the AI data centre boom. Others think it is a waste of time and money",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-30T05:00:03+00:00"
     },
     {
       "title": "｢寛容なリベラル｣は本当に存在するのか　伝統的な共同体を破壊し､大衆を切り捨てた｢エリート層の冷酷な偽善｣  | 政治・経済・投資 | 東洋経済オンライン",
