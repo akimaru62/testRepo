@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T16:47:25.119052+00:00",
+  "generated_at": "2026-10-30T17:04:59.642404+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -946,6 +946,22 @@
       "published": "2026-10-30T17:00:00+00:00"
     },
     {
+      "title": "Precious Metal Futures Sink Amid Rate Concerns, Rising Oil Prices",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-declines-weighed-by-tighter-monetary-policy-expectations-2c50c549?mod=rss_markets_main",
+      "summary": "Gold and silver futures accelerated losses as rising oil prices raised inflation concerns with implications of higher interest rates.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-30T16:46:00+00:00"
+    },
+    {
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+      "link": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1",
+      "summary": "Private capital giant says AI group is expected to receive ‘high’ junk rating in shift from previous guidance",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-30T16:45:48+00:00"
+    },
+    {
       "title": "After Intel’s historic stock drop, analysts say there’s no reason to buy the dip",
       "link": "https://www.marketwatch.com/story/after-intels-historic-stock-drop-analysts-say-theres-no-reason-to-buy-the-dip-068446af?mod=mw_rss_topstories",
       "summary": "“A cheaper stock does not necessarily offer better value,” one expert says.",
@@ -954,7 +970,23 @@
       "published": "2026-10-30T16:45:00+00:00"
     },
     {
+      "title": "A Working Nintendo in ~1GB of Qwen Weights",
+      "link": "https://github.com/dbreunig/nesformer",
+      "summary": "Article URL: https://github.com/dbreunig/nesformer\nComments URL: https://news.ycombinator.com/item?id=50306442\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T16:40:22+00:00"
+    },
+    {
       "title": "CD&R pursues buyout of $40bn payment processor Global Payments",
+      "link": "https://www.ft.com/content/da16af06-4431-4ced-9c3e-a0753d8c45c9?syn-25a6b1a6=1",
+      "summary": "Deal for US company would rank among largest buyouts in history",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-30T16:27:55+00:00"
+    },
+    {
+      "title": "CD&R pursues buyout of $40bn card processor Global Payments",
       "link": "https://www.ft.com/content/da16af06-4431-4ced-9c3e-a0753d8c45c9?syn-25a6b1a6=1",
       "summary": "Deal for US company would rank among largest buyouts in history",
       "source": "Financial Times",
@@ -976,6 +1008,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-30T16:20:00+00:00"
+    },
+    {
+      "title": "US tech stocks see sharp falls over AI cost fears",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo\nComments URL: https://news.ycombinator.com/item?id=50306008\nPoints: 15\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T16:13:02+00:00"
     },
     {
       "title": "その他,「諸外国における金融制度の概要に関する調査」報告書について公表しました。",
@@ -2229,6 +2269,14 @@
       "title": "Stock Market Today: Amazon, Intel Earnings Add Fuel to Tech Selloff",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-30-2026?mod=rss_markets_main",
       "summary": "Disappointing results send stocks tumbling and further stoke fears around AI trade",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-30T08:44:05+00:00"
+    },
+    {
+      "title": "Stock Market Today: N​asdaq Sinks on Renewed AI Fears",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-30-2026?mod=rss_markets_main",
+      "summary": "Disappointing earnings from Alphabet, Intel and Amazon this week weigh on the tech-heavy index",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-30T08:44:05+00:00"
