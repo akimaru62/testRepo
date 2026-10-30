@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T18:06:44.107013+00:00",
+  "generated_at": "2026-10-30T18:19:20.012654+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -914,12 +914,28 @@
   ],
   "items": [
     {
+      "title": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
+      "link": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories",
+      "summary": "Various factors indicate that Microsoft is in a better financial position than its cloud rivals, analysts say.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-30T18:09:00+00:00"
+    },
+    {
       "title": "その他,個人情報流出の被害に遭われた方・ご心配のある方向けの相談窓口について掲載しました。",
       "link": "https://www.fsa.go.jp/receipt/soudansitu/index.html#kojinjouhou",
       "summary": "",
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-30T18:00:00+00:00"
+    },
+    {
+      "title": "GitHub Incident with Actions, Pages, and Webhooks",
+      "link": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
+      "summary": "Article URL: https://www.githubstatus.com/incidents/pwxsjgnvrk6b\nComments URL: https://news.ycombinator.com/item?id=50307723\nPoints: 16\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T17:57:35+00:00"
     },
     {
       "title": "Comex Gold Ends the Month 6.49% Lower at $3885.70",
@@ -2157,6 +2173,14 @@
       "title": "How Do You Take a Picture of a Black Hole?",
       "link": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
       "summary": "Article URL: https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/\nComments URL: https://news.ycombinator.com/item?id=50301717\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T09:49:02+00:00"
+    },
+    {
+      "title": "How do you take a picture of a black hole?",
+      "link": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+      "summary": "Article URL: https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/\nComments URL: https://news.ycombinator.com/item?id=50301717\nPoints: 57\n# Comments: 44",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-30T09:49:02+00:00"
