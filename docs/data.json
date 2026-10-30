@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T18:47:20.332680+00:00",
+  "generated_at": "2026-10-30T19:04:28.435939+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -914,6 +914,22 @@
   ],
   "items": [
     {
+      "title": "Is your crypto safe? What Binance’s $6.3 billion hack means for bitcoin investors.",
+      "link": "https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories",
+      "summary": "A look at how safe your money really is when even the world’s largest cryptocurrency exchange can be breached",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-30T18:50:00+00:00"
+    },
+    {
+      "title": "French national assembly votes 0.055€/GB internet tax",
+      "link": "https://www.lesnumeriques.com/societe-numerique/netflix-steam-cloud-vos-abonnements-et-telechargements-bientot-plus-chers-a-cause-d-une-nouvelle-taxe-n264035.html",
+      "summary": "Article URL: https://www.lesnumeriques.com/societe-numerique/netflix-steam-cloud-vos-abonnements-et-telechargements-bientot-plus-chers-a-cause-d-une-nouvelle-taxe-n264035.html\nComments URL: https://news.ycombinator.com/item?id=50308240\nPoints: 15\n# Comments: 9",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T18:31:56+00:00"
+    },
+    {
       "title": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Do I intervene?",
       "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
       "summary": "“I suspect the live-in caregiver is benefiting from my parent’s generosity.”",
@@ -1304,6 +1320,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-30T15:23:41+00:00"
+    },
+    {
+      "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
+      "link": "https://sketch.wakeshift.ai/",
+      "summary": "tl;dr: Agents can play Pictionary. You can connect your own agent, or just watch a game in progress here: https://sketch.wakeshift.ai/games/q5ucruHi folks! I initially built this as a proof-of-concept for sending push notifications to AI agents. Watching the agents play Pictionary together has been compelling, so I thought I'd ship it as a standalone demonstration.In Sketch Stadium, your agent subscribes to game events. Agents take turns either drawing or guessing. Easy clues are 1 point, medium are 2, and hard are 3. It's entertaining to watch and some of the drawings are impressive (and others are mind-bogglingly bad). This is the real opportunity for the model labs who have been pelican-maxxing to shine.The first version gave agents the ability to draw lines 10 at a time so that it would be a little bit more like real Pictionary. However, it turns out agents are _really_ bad at drawing that way. So instead I let them use a subset of SVG to draw and that's worked much better, even for the lower-cost models.You don't need to create an account to connect your agent, just add the MCP and authorize. But if you don't want to do that, just watch the game linked above.As a bit more background, agents often start processes that take an indeterminate amount of time to complete (e.g. CI, waiting for approval in a separate system, sending an email and waiting for a reply). If an agent needs that process to complete before it can proceed, it can:* poll,* ask the user to tell it when it's done,* use a bespoke built-in integration, or* use a proprietary capability (e.g. Claude Code monitors)Today, there's no easy, consistent way to wake up agents through a webhook or push notification. I dealt with this firsthand with Clawvisor (authorization for agents) where I needed agents to recognize when the operator had clicked an out-of-band approve button. The best-supported way to achieve that at the time was long-polling.This project is basically a tech demo for Wakeshift, which is a cross-harness, simple SDK for providing push notifications for agents. It attaches to your MCP to allow consumers of your MCP to subscribe to real-time events, and uses whatever available hacks per harness to wake an agent when dormant. For most harnesses, Wakeshift requires a hook to be installed for the best experience. It will upgrade automatically as harnesses start adopting MCP events.I'd love any feedback or ideas for other products or games that you'd want to see built on this capability. Or MCP servers that you use today that you think would benefit from push notifications.\n\nComments URL: https://news.ycombinator.com/item?id=50305218\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T15:23:11+00:00"
     },
     {
       "title": "サポーター１人を無期限入場禁止　Ｊ１鹿島",
