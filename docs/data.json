@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T23:17:12.337815+00:00",
+  "generated_at": "2026-10-30T23:33:19.651003+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -914,6 +914,14 @@
   ],
   "items": [
     {
+      "title": "Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist",
+      "link": "https://www.wsj.com/finance/currencies/behind-the-scenes-of-cryptos-biggest-nightmare-a-record-breaking-cyber-heist-ffe1d9a3?mod=rss_markets_main",
+      "summary": "Binance’s founder Changpeng Zhao had warned a week earlier that “No crypto wallet is 100% safe.” In 20 minutes, hackers had made off with $6.4 billion.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-30T23:29:00+00:00"
+    },
+    {
       "title": "ＮＺ与党、過半数は微妙　中道勢力の動向カギ―来週総選挙",
       "link": "https://www.jiji.com/jc/article?k=2026103000726&g=int&m=rss",
       "summary": "",
@@ -1565,6 +1573,14 @@
       "title": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
       "link": "https://www.firezone.dev/blog/introducing-sanstun",
       "summary": "Article URL: https://www.firezone.dev/blog/introducing-sanstun\nComments URL: https://news.ycombinator.com/item?id=50310398\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T21:30:00+00:00"
+    },
+    {
+      "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+      "link": "https://www.firezone.dev/blog/introducing-sanstun",
+      "summary": "Article URL: https://www.firezone.dev/blog/introducing-sanstun\nComments URL: https://news.ycombinator.com/item?id=50310398\nPoints: 41\n# Comments: 3",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-30T21:30:00+00:00"
@@ -2629,6 +2645,14 @@
       "title": "Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code",
       "link": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts",
       "summary": "Article URL: https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts\nComments URL: https://news.ycombinator.com/item?id=50304122\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T14:08:20+00:00"
+    },
+    {
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/\nComments URL: https://news.ycombinator.com/item?id=50304122\nPoints: 76\n# Comments: 78",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-30T14:08:20+00:00"
