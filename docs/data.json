@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T14:33:26.928842+00:00",
+  "generated_at": "2026-10-30T14:48:10.184346+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -962,6 +962,22 @@
       "published": "2026-10-30T15:00:00+00:00"
     },
     {
+      "title": "Reddit shares on track for largest ever one-day drop — and analysts say the bad news hasn’t ended",
+      "link": "https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories",
+      "summary": "Shares in the online discussion platform tumbled 25% on Friday morning after the company issued a lower-than-expected revenue outlook.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-30T14:43:00+00:00"
+    },
+    {
+      "title": "US tech stocks tumble as earnings stoke AI spending fears",
+      "link": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1",
+      "summary": "Intel’s shares on track to plunge by the most since 1974 after chipmaker’s results spook investors",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-30T14:34:33+00:00"
+    },
+    {
       "title": "列車事故犠牲者、さらに増加も　行方不明届７０件―スペイン",
       "link": "https://www.jiji.com/jc/article?k=2026103001236&g=int&m=rss",
       "summary": "",
@@ -986,6 +1002,14 @@
       "published": "2026-10-30T14:30:00+00:00"
     },
     {
+      "title": "Neal Stephenson on AI and What Comes Next [video]",
+      "link": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ",
+      "summary": "Article URL: https://www.youtube.com/watch?v=Ii-aeW5pHPQ\nComments URL: https://news.ycombinator.com/item?id=50304280\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T14:18:34+00:00"
+    },
+    {
       "title": "NatWest Shares Fall After Bank’s Interest Income Guidance Disappoints",
       "link": "https://www.wsj.com/business/earnings/natwest-earnings-boosted-by-higher-net-interest-income-20ebc371?mod=rss_markets_main",
       "summary": "The British high-street bank’s shares dropped after it forecast weaker-than-expected interest income next year.",
@@ -1008,6 +1032,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-30T14:12:00+00:00"
+    },
+    {
+      "title": "Do At-Proto Users Know This Is Public?",
+      "link": "https://melaniekat.com/blog/public-on-pds/",
+      "summary": "Article URL: https://melaniekat.com/blog/public-on-pds/\nComments URL: https://news.ycombinator.com/item?id=50304175\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T14:11:22+00:00"
     },
     {
       "title": "Why Intel’s stock is sinking toward its worst day in decades — and a $140 billion wipeout",
@@ -1128,6 +1160,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-30T13:20:24.362326+00:00"
+    },
+    {
+      "title": "5-MeO-DMT sometimes cancels the Ebbinghaus illusion",
+      "link": "https://psychotechnology.substack.com/p/5-meo-dmt-sometimes-cancels-the-ebbinghaus",
+      "summary": "Article URL: https://psychotechnology.substack.com/p/5-meo-dmt-sometimes-cancels-the-ebbinghaus\nComments URL: https://news.ycombinator.com/item?id=50303488\nPoints: 5\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T13:20:06+00:00"
     },
     {
       "title": "AMD’s stock slides after Intel earnings reveal two big issues",
@@ -1565,6 +1605,14 @@
       "title": "Anthropic hacked to deliver remote access trojan",
       "link": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
       "summary": "Article URL: https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2\nComments URL: https://news.ycombinator.com/item?id=50301983\nPoints: 21\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T10:22:51+00:00"
+    },
+    {
+      "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
+      "link": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+      "summary": "Article URL: https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2\nComments URL: https://news.ycombinator.com/item?id=50301983\nPoints: 386\n# Comments: 85",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-30T10:22:51+00:00"
@@ -2189,6 +2237,14 @@
       "title": "Official Claude Code extension compromise",
       "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
       "summary": "Article URL: https://phorion.io/blog/offical-claude-code-vsx-compromise/\nComments URL: https://news.ycombinator.com/item?id=50300683\nPoints: 34\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T07:09:12+00:00"
+    },
+    {
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "summary": "Article URL: https://phorion.io/blog/offical-claude-code-vsx-compromise/\nComments URL: https://news.ycombinator.com/item?id=50300683\nPoints: 58\n# Comments: 8",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-30T07:09:12+00:00"
