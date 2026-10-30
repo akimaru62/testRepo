@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T13:06:08.169762+00:00",
+  "generated_at": "2026-10-30T13:20:29.547822+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -906,6 +906,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fbfc0e930e0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f0de474b620>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -956,6 +960,54 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-10-30T15:00:00+00:00"
+    },
+    {
+      "title": "松坂玲奈が前半首位　全日本新体操",
+      "link": "https://www.jiji.com/jc/article?k=2026103001206&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-30T13:20:24.362372+00:00"
+    },
+    {
+      "title": "ユーロ圏ＧＤＰ、０．４％増　市場予想上回る―７～９月期",
+      "link": "https://www.jiji.com/jc/article?k=2026103001224&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-30T13:20:24.362361+00:00"
+    },
+    {
+      "title": "ロシア・ウクライナ、停戦都市に到着　住民避難、支援物資搬入始まる",
+      "link": "https://www.jiji.com/jc/article?k=2026103001178&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-30T13:20:24.362326+00:00"
+    },
+    {
+      "title": "AMD’s stock slides after Intel earnings reveal two big issues",
+      "link": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
+      "summary": "Intel is struggling to make enough AI server chips and dealing with a weak PC market. Investors will soon find out the degree to which AMD is suffering from the same problems.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-30T13:17:00+00:00"
+    },
+    {
+      "title": "Bitcoin slides after crypto’s nightmare scenario: a historic $6.3 billion heist",
+      "link": "https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories",
+      "summary": "Binance has vowed to get the exchange back up within a couple of days after a record $6.3 billion heist, which has rattled the industry and investors.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-30T13:13:00+00:00"
+    },
+    {
+      "title": "How Binance Is Scrambling to Cover Losses in the Biggest Heist in Crypto History",
+      "link": "https://www.wsj.com/finance/currencies/how-binance-is-scrambling-to-cover-losses-in-the-biggest-heist-in-crypto-history-babbfe90?mod=rss_markets_main",
+      "summary": "The breach blew past everything the exchange had set aside to cover such an incident.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-30T13:07:00+00:00"
     },
     {
       "title": "The Extra-Strength Funds That Are Too Much of a Good Thing",
