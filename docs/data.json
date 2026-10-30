@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T20:33:37.289771+00:00",
+  "generated_at": "2026-10-30T20:47:43.201161+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -914,6 +914,38 @@
   ],
   "items": [
     {
+      "title": "Reddit’s stock logs its biggest one-day drop ever. It’s not the last of the bad news, analysts say.",
+      "link": "https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories",
+      "summary": "Reddit’s stock plunged on Friday after the community-discussion forum said its search referral traffic was down significantly in the third quarter.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-30T20:42:00+00:00"
+    },
+    {
+      "title": "U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-slide-as-amazon-intel-earnings-spark-more-ai-selling-5670f50d?mod=rss_markets_main",
+      "summary": "U.S. stocks fell as the artificial-intelligence selloff began to feed on itself following more disappointing earnings reports from Amazon and Intel, leaving investors to wonder if the tech correction could become a speculative bust.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-30T20:40:00+00:00"
+    },
+    {
+      "title": "Stocks Slide, Intel Plunges, Binance Hacked",
+      "link": "https://www.wsj.com/finance/investing/stocks-slide-intel-plunges-binance-hacked-83302b14?mod=rss_markets_main",
+      "summary": "Plus, Fed officials signals rate-hike support and Treasurys gain on tech selloff",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-30T20:37:00+00:00"
+    },
+    {
+      "title": "《GMOサイバー攻撃》犯罪心理学者が読み解く｢脅迫犯の\"ちぐはぐな素顔\"｣…稚拙な演出と\"交渉を公開する\"矛盾 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963044?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "80億円の要求を1億円台へ急減額､｢被害者 第1号｣と題した個人情報の公開――。GMOへのサイバー攻撃に見える不可解な行動を､犯罪心理学者の原田隆之氏（筑波大学教授）が｢デジタル時代の劇場型犯罪｣と…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-30T20:30:00+00:00"
+    },
+    {
       "title": "The selloff in tech stocks is shifting into overdrive",
       "link": "https://www.marketwatch.com/story/the-selloff-in-tech-stocks-is-shifting-into-overdrive-afb50975?mod=mw_rss_topstories",
       "summary": "Technology stocks had been priced for perfection. They are now getting hammered.",
@@ -922,12 +954,36 @@
       "published": "2026-10-30T20:26:00+00:00"
     },
     {
+      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+      "link": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+      "summary": "Article URL: https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/\nComments URL: https://news.ycombinator.com/item?id=50309647\nPoints: 13\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T20:23:30+00:00"
+    },
+    {
+      "title": "Embraer's Atech aims to double in size by 2030 with drone traffic control",
+      "link": "https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/",
+      "summary": "Article URL: https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/\nComments URL: https://news.ycombinator.com/item?id=50309573\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T20:18:18+00:00"
+    },
+    {
       "title": "Programming at Light Speed: Building the Gravity Query Engine",
       "link": "https://pgrust.com/blog/programming-at-light-speed/",
       "summary": "Article URL: https://pgrust.com/blog/programming-at-light-speed/\nComments URL: https://news.ycombinator.com/item?id=50309571\nPoints: 3\n# Comments: 0",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-30T20:18:10+00:00"
+    },
+    {
+      "title": "Product Managers aren't safe either",
+      "link": "https://lucaskostka.com/posts/ai-challenges-more-than-devs",
+      "summary": "Article URL: https://lucaskostka.com/posts/ai-challenges-more-than-devs\nComments URL: https://news.ycombinator.com/item?id=50309534\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T20:14:39+00:00"
     },
     {
       "title": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
@@ -2701,6 +2757,14 @@
       "title": "Stock Market Today: Deepening Tech Selloff Pushes Nasdaq Toward Its Worst Month in Over a Year",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-30-2026?mod=rss_markets_main",
       "summary": "Tech-heavy index falls 3% following disappointing earnings from Alphabet, Intel and Amazon this week",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-30T08:44:05+00:00"
+    },
+    {
+      "title": "Stock Market Today: Tech Selloff Pushes Nasdaq to Its Worst Month in Over a Year",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-30-2026?mod=rss_markets_main",
+      "summary": "Tech-heavy index falls 2.9% following disappointing earnings from Alphabet, Intel and Amazon",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-30T08:44:05+00:00"
