@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T17:17:21.501742+00:00",
+  "generated_at": "2026-10-30T17:33:31.226251+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -922,6 +922,22 @@
       "published": "2026-10-30T18:00:00+00:00"
     },
     {
+      "title": "What Does the Weil Gotshal Implosion Mean for the Law-Firm Industry?",
+      "link": "https://www.wsj.com/business/how-weil-gotshal-one-of-wall-streets-most-storied-law-firms-ended-up-in-chaos-d98ad13d?mod=rss_markets_main",
+      "summary": "Leaders of the once-storied law firm confirmed plans to dissolve the partnership.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-30T17:23:00+00:00"
+    },
+    {
+      "title": "Social Security’s fate — and your benefits — are in the hands of the candidates elected this year",
+      "link": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
+      "summary": "The program is expected to run out of money in the next six years, which is the same amount of time as a senator’s term.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-30T17:21:00+00:00"
+    },
+    {
       "title": "ＮＹ株、１３２ドル安　アルファベット急落",
       "link": "https://www.jiji.com/jc/article?k=2026103000155&g=int&m=rss",
       "summary": "",
@@ -936,6 +952,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-30T17:13:00+00:00"
+    },
+    {
+      "title": "Show HN: Spinf-serve – inference server for bulk scoring and decisions",
+      "link": "https://github.com/spinfinc/spinf-serve",
+      "summary": "Article URL: https://github.com/spinfinc/spinf-serve\nComments URL: https://news.ycombinator.com/item?id=50306815\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T17:03:12+00:00"
     },
     {
       "title": "「金融商品取引業等に関する内閣府令の一部を改正する内閣府令」等の公布及びパブリックコメントの結果について公表しました。",
@@ -1069,6 +1093,14 @@
       "title": "AI Isn't Replacing SREs. It's Deskilling Them",
       "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
       "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling\nComments URL: https://news.ycombinator.com/item?id=50305693\nPoints: 10\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T15:52:18+00:00"
+    },
+    {
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling\nComments URL: https://news.ycombinator.com/item?id=50305693\nPoints: 208\n# Comments: 163",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-30T15:52:18+00:00"
