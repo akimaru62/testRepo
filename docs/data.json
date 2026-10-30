@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T20:17:46.450418+00:00",
+  "generated_at": "2026-10-30T20:33:37.289771+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -914,6 +914,38 @@
   ],
   "items": [
     {
+      "title": "The selloff in tech stocks is shifting into overdrive",
+      "link": "https://www.marketwatch.com/story/the-selloff-in-tech-stocks-is-shifting-into-overdrive-afb50975?mod=mw_rss_topstories",
+      "summary": "Technology stocks had been priced for perfection. They are now getting hammered.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-30T20:26:00+00:00"
+    },
+    {
+      "title": "Programming at Light Speed: Building the Gravity Query Engine",
+      "link": "https://pgrust.com/blog/programming-at-light-speed/",
+      "summary": "Article URL: https://pgrust.com/blog/programming-at-light-speed/\nComments URL: https://news.ycombinator.com/item?id=50309571\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T20:18:10+00:00"
+    },
+    {
+      "title": "Show HN: Automatic deduction of FlashAttention kernel from ~25 lines of SQL",
+      "link": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py",
+      "summary": "In this demo, we automatically deduce a FlashAttention kernel with ~25 lines of SQL, which just expresses vanilla attention. This is possible due to three portable SQL extensions that we’re building:\n- xarray-sql: a library that efficiently represents petabyte scale array datasets in the cloud as tables (relations).\n- ddx: a database extension that adds automatic differentiation in the style of JAX to standard SQL, assuming the above array data model.\n- einfold: a modular query planner for fast tensor contractions in vanilla SQL, again, assuming the above array data model.My hope is that the relational model and algebra provide fresh perspectives on how we might do accelerator programming. Here, our thesis is that separating the logical layers in a tensor program from the physical layers is both more correct and more scalable.If the Bitter Lesson is a central dogma of machine learning, then why not formalize it with relational algebra?If this interests you and you’d like to tinker with us at the intersection of database theory and ML systems, join us on Discord at https://xql.systems  (link at the bottom). Cheers.\n\nComments URL: https://news.ycombinator.com/item?id=50309479\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T20:09:47+00:00"
+    },
+    {
+      "title": "An Arrogant Way of Killing (2016)",
+      "link": "https://magazine.atavist.com/2016/an-arrogant-way-of-killing",
+      "summary": "Article URL: https://magazine.atavist.com/2016/an-arrogant-way-of-killing\nComments URL: https://news.ycombinator.com/item?id=50309470\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T20:08:52+00:00"
+    },
+    {
       "title": "The Week the Cracks in the AI Trade Grew Deeper",
       "link": "https://www.wsj.com/finance/stocks/the-week-the-cracks-in-the-ai-trade-grew-deeper-9e25b20f?mod=rss_markets_main",
       "summary": "Intel suffered worst-ever daily decline as investors’ anxieties hit new highs.",
@@ -936,6 +968,22 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-10-30T20:00:00+00:00"
+    },
+    {
+      "title": "Jules Verne's Lost Novel",
+      "link": "https://blue-continuum.com/verne-paris",
+      "summary": "Article URL: https://blue-continuum.com/verne-paris\nComments URL: https://news.ycombinator.com/item?id=50309314\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T19:55:10+00:00"
+    },
+    {
+      "title": "The oldest ice disappears and the Stone Age emerges from it",
+      "link": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+      "summary": "Article URL: https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921\nComments URL: https://news.ycombinator.com/item?id=50309266\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T19:51:33+00:00"
     },
     {
       "title": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
@@ -976,6 +1024,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-10-30T19:35:00+00:00"
+    },
+    {
+      "title": "Infinite Mac: BeOS",
+      "link": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
+      "summary": "Article URL: https://blog.persistent.info/2026/10/infinite-mac-beos.html\nComments URL: https://news.ycombinator.com/item?id=50309029\nPoints: 11\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T19:30:09+00:00"
     },
     {
       "title": "Do You Remember the Standout Quotes of the Midterms? Take Our Quiz",
