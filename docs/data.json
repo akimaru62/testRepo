@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T16:33:14.768563+00:00",
+  "generated_at": "2026-10-30T16:47:25.119052+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -946,6 +946,22 @@
       "published": "2026-10-30T17:00:00+00:00"
     },
     {
+      "title": "After Intel’s historic stock drop, analysts say there’s no reason to buy the dip",
+      "link": "https://www.marketwatch.com/story/after-intels-historic-stock-drop-analysts-say-theres-no-reason-to-buy-the-dip-068446af?mod=mw_rss_topstories",
+      "summary": "“A cheaper stock does not necessarily offer better value,” one expert says.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-10-30T16:45:00+00:00"
+    },
+    {
+      "title": "CD&R pursues buyout of $40bn payment processor Global Payments",
+      "link": "https://www.ft.com/content/da16af06-4431-4ced-9c3e-a0753d8c45c9?syn-25a6b1a6=1",
+      "summary": "Deal for US company would rank among largest buyouts in history",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-30T16:27:55+00:00"
+    },
+    {
       "title": "フィリピン南部のイスラム地域で自治政府発足　議会が初の首相選出",
       "link": "https://www.jiji.com/jc/article?k=2026103001237&g=int&m=rss",
       "summary": "",
@@ -1024,6 +1040,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-30T15:30:00+00:00"
+    },
+    {
+      "title": "Show HN: I built a multiplayer game where you're an aerial fighter cat",
+      "link": "https://catcopter.com",
+      "summary": "Hi everyone!I had the idea for catcopter on my mind for a long time (got the domain ~13 years ago). It's a web multiplayer game where you can fly a dangerous cat and engage in competition with other players and critters (pterodactyls, chickens and angry penguins). I made it initially for me and my friends but it was quite fun so I thought I'll share it here too.The game is intentionally dorky and it was fun to develop. The tools I used were mostly Opus 5.5 (objects / rigging / motion), Tripo3d for some elements I struggled with and Fable for optimisation (cpu / networking). Backend physics are done with Rapier. Luckily I had a lot of elements / game dynamics done before from another project of mine (https://flat.social) so the actual iteration here took me around a week.\n\nComments URL: https://news.ycombinator.com/item?id=50305320\nPoints: 9\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-30T15:29:40+00:00"
     },
     {
       "title": "$300k for a personalized cancer vaccine",
