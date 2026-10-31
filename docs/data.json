@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T14:04:55.763162+00:00",
+  "generated_at": "2026-10-31T14:17:49.863440+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -914,9 +914,45 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://cloud.google.com/blog/rss",
+      "error": "503 Server Error: Service Unavailable for url: https://cloud.google.com/blog/rss"
     }
   ],
   "items": [
+    {
+      "title": "「サンドウィッチマン」の伊達みきおさんが活動再開　脳梗塞で８月から休養",
+      "link": "https://www.jiji.com/jc/article?k=2026103100324&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-31T14:17:46.063407+00:00"
+    },
+    {
+      "title": "米の攻撃再開けん制　イラン最高指導者",
+      "link": "https://www.jiji.com/jc/article?k=2026103100421&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-31T14:17:46.063388+00:00"
+    },
+    {
+      "title": "シナイジェルとフェルナンデスで決勝　東レテニス",
+      "link": "https://www.jiji.com/jc/article?k=2026103100422&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-10-31T14:17:46.063344+00:00"
+    },
+    {
+      "title": "GMO、不正アクセスで11月2日に会見　熊谷代表らが経緯説明へ",
+      "link": "https://www.asahi.com/articles/ASVB04PTDVB0ULFA00CM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-10-31T14:17:45.962817+00:00"
+    },
     {
       "title": "Your stock portfolio increasingly hinges on the bond market — and the midterm elections",
       "link": "https://www.marketwatch.com/story/your-stock-portfolio-increasingly-hinges-on-the-bond-market-and-the-midterm-elections-dc1abadb?mod=mw_rss_topstories",
@@ -1004,6 +1040,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-31T13:00:00+00:00"
+    },
+    {
+      "title": "Why Did Meta Suspend a US Senate Candidate's Instagram in the Middle of a Rally?",
+      "link": "https://newrepublic.com/post/217281/meta-suspend-democratic-candidate-angie-nixon-instagram-account",
+      "summary": "Article URL: https://newrepublic.com/post/217281/meta-suspend-democratic-candidate-angie-nixon-instagram-account\nComments URL: https://news.ycombinator.com/item?id=50315776\nPoints: 10\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-31T12:57:31+00:00"
     },
     {
       "title": "This Halloween, are full-size candy bars a better deal than fun-sized ones?",
