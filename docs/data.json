@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T23:33:02.948214+00:00",
+  "generated_at": "2026-10-31T23:47:09.117773+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -922,6 +922,14 @@
   ],
   "items": [
     {
+      "title": "｢湯治ってやつか｣病気療養中の友と行く50代漫画家の山梨ラジウム温泉旅　裸を見ればわかる…親友が放った忌憚ない一言 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963040?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "療養中の友人の､湯治を｢一度やってみたい｣という声から始まった旅。50代の3人が目指すのは山梨のラジウム温泉｢不老閣｣でした。慣れない運転､旅先で出会った味､温泉の湯上がりに友人が筆者に放った忌憚な…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-31T23:30:00+00:00"
+    },
+    {
       "title": "再犯防止に効果と限界　ストーカーにＧＰＳ導入の韓国―行為抑制に課題も",
       "link": "https://www.jiji.com/jc/article?k=2026103100323&g=int&m=rss",
       "summary": "",
@@ -986,12 +994,28 @@
       "published": "2026-10-31T23:00:00+00:00"
     },
     {
+      "title": "タイムズカーは3000円、GMOは300万円　漏えい「見舞金」納得できる？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/01/news002.html",
+      "summary": "個人情報の漏えいが相次ぐ中、利用者は「500円の見舞金」「経営責任者の謝罪」では納得しないようだ。企業に求める対応について、調査結果から考える。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-10-31T23:00:00+00:00"
+    },
+    {
       "title": "Tusk vows to press on with overhaul of Poland’s judiciary",
       "link": "https://www.ft.com/content/d49a7943-fc11-45cb-bcf2-f5876c3c381d?syn-25a6b1a6=1",
       "summary": "Prime minister defends suspension of constitutional court’s president as opposition accuses him of staging an institutional coup",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-31T22:51:11+00:00"
+    },
+    {
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "summary": "Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve\nComments URL: https://news.ycombinator.com/item?id=50320995\nPoints: 10\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-31T22:46:12+00:00"
     },
     {
       "title": "An Italian Farmer Found Some Unknown Seeds in His Attic and Planted Them",
@@ -5464,6 +5488,22 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-30T07:00:35+00:00"
+    },
+    {
+      "title": "New U.S. jobless claims break below 500K - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JbFAzaWhYSW4zbmhDUVZXZDJRWTk4elZRc1hFNFBBcWMtR1hYOHFnUHJPWUExRGdGTENjbTM0R29RR08xcmVtTWpWbTdmSDUwWjBtOHhOVEZrSUk?oc=5",
+      "summary": "New U.S. jobless claims break below 500K&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-30T07:00:00+00:00"
+    },
+    {
+      "title": "Robinhood vs. Warren Buffett - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DS1I0bGFvajFKTUt5blpSMGdtVFE1MmhkOUxWakctSjVFVFNOYUFGZzRLaHI0RG5LTnlzWWtRMTBNT09PVUZuZ0JmODctUnI0aGVDazdUemRGUzA?oc=5",
+      "summary": "Robinhood vs. Warren Buffett&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-30T07:00:00+00:00"
     },
     {
       "title": "Binance halts withdrawals after record $6.3bn heist",
