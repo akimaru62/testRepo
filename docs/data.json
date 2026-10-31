@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T05:18:01.929988+00:00",
+  "generated_at": "2026-10-31T05:33:20.971647+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -920,6 +920,30 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-10-31T05:01:10+00:00"
+    },
+    {
+      "title": "The right to be apolitical",
+      "link": "https://www.ft.com/content/74c46706-a4d9-4c8b-a2e7-7ff6ad811ec0?syn-25a6b1a6=1",
+      "summary": "The film ‘Fatherland’ is too harsh on the uncommitted",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-31T05:01:09+00:00"
+    },
+    {
+      "title": "Is this the first clear evidence of AI’s impact on the labour market?",
+      "link": "https://www.ft.com/content/7f27aa5f-5994-4f82-aed8-1cade18fb487?syn-25a6b1a6=1",
+      "summary": "Productivity is up and employment is down in the tech sector but elsewhere the picture is muddier",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-31T05:00:31+00:00"
+    },
+    {
+      "title": "Donald Trump’s endgame",
+      "link": "https://www.ft.com/content/c344ed8a-4e4b-43f8-a570-d8101864d929?syn-25a6b1a6=1",
+      "summary": "What will the US president’s last two years in Washington look like?",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-10-31T05:00:20+00:00"
     },
     {
       "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
@@ -6160,6 +6184,14 @@
       "source": "AWS ブログ (アーキテクチャ)",
       "category": "開発者向け",
       "published": "2026-10-29T18:16:38+00:00"
+    },
+    {
+      "title": "Turning a solar power system into its own backup",
+      "link": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
+      "summary": "Article URL: https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/\nComments URL: https://news.ycombinator.com/item?id=50293437\nPoints: 42\n# Comments: 15",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-29T18:10:33+00:00"
     },
     {
       "title": "Show HN: phpClaw – AI agent runtime for PHP with tools, memory and guards",
