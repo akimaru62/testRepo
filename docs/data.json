@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T20:05:27.425776+00:00",
+  "generated_at": "2026-10-31T20:17:36.847642+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -928,6 +928,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-10-31T20:00:00+00:00"
+    },
+    {
+      "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+      "link": "https://epoyraz.github.io/nes-contra-us/",
+      "summary": "Based on vermiceli's annotated disassembly of Contra: https://github.com/vermiceli/nes-contra-us. Thanks for the great work.I ported it in two steps. First to C: the game logic is translated routine by routine from the 6502 assembly, and checked frame by frame against the original in the Mesen emulator. Then the C code to WebAssembly so it runs in the browser.The cherry on top: online multiplayer, so two players can play co-op over the internet.Source: https://github.com/epoyraz/nes-contra-us\n\nComments URL: https://news.ycombinator.com/item?id=50319169\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-31T19:18:48+00:00"
     },
     {
       "title": "岩崎、安定感で首位　東海クラシックゴルフ",
