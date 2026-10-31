@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T08:19:10.661411+00:00",
+  "generated_at": "2026-10-31T08:32:58.642147+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -6584,6 +6584,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-29T16:36:14+00:00"
+    },
+    {
+      "title": "Show HN: I rebuilt Kubernetes for ESP32 microcontrollers",
+      "link": "https://github.com/arterialist/kube32",
+      "summary": "Article URL: https://github.com/arterialist/kube32\nComments URL: https://news.ycombinator.com/item?id=50291812\nPoints: 40\n# Comments: 9",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-29T16:35:14+00:00"
     },
     {
       "title": "U.S. Stocks Fall After Alphabet Earnings Spark More AI Jitters",
