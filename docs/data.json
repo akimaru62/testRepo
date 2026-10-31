@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T08:32:58.642147+00:00",
+  "generated_at": "2026-10-31T08:47:44.139994+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -936,6 +936,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-10-31T08:19:06.154983+00:00"
+    },
+    {
+      "title": "Switch Lowering in GCC",
+      "link": "https://xoranth.net/gcc-switch/",
+      "summary": "Article URL: https://xoranth.net/gcc-switch/\nComments URL: https://news.ycombinator.com/item?id=50314085\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-31T08:02:26+00:00"
     },
     {
       "title": "身代金、４割に追加要求　急増するランサム攻撃―専門家「支払いは解決ではない」・不正アクセス",
