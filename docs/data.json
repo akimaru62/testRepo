@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T11:33:29.523551+00:00",
+  "generated_at": "2026-10-31T11:47:45.045756+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -930,12 +930,28 @@
       "published": "2026-10-31T11:17:44.445345+00:00"
     },
     {
+      "title": "Shiny Object Syndrome",
+      "link": "https://en.wikipedia.org/wiki/Shiny_object_syndrome",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Shiny_object_syndrome\nComments URL: https://news.ycombinator.com/item?id=50314872\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-31T11:02:14+00:00"
+    },
+    {
       "title": "Crypto exchanges rush to tighten security after $6.3bn Binance heist",
       "link": "https://www.ft.com/content/c7062e37-86fd-45ef-8f58-573de0fcaaf0?syn-25a6b1a6=1",
       "summary": "Rival venues place ‘additional alerts and restrictions’ on the movement of funds",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-10-31T10:38:18+00:00"
+    },
+    {
+      "title": "We Took over ChatGPT Accounts",
+      "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "summary": "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai\nComments URL: https://news.ycombinator.com/item?id=50314699\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-31T10:30:11+00:00"
     },
     {
       "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
