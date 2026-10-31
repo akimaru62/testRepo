@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T16:47:47.505248+00:00",
+  "generated_at": "2026-10-31T17:04:18.594602+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -946,6 +946,14 @@
       "published": "2026-10-31T16:17:43.481442+00:00"
     },
     {
+      "title": "A/SIDE – Private photo sharing and encrypted messages",
+      "link": "https://a-side.social/",
+      "summary": "Article URL: https://a-side.social/\nComments URL: https://news.ycombinator.com/item?id=50317484\nPoints: 5\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-31T16:16:20+00:00"
+    },
+    {
       "title": "What is a light-day? The milestone Voyager 1 is closing in on",
       "link": "https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/",
       "summary": "Article URL: https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/\nComments URL: https://news.ycombinator.com/item?id=50317429\nPoints: 4\n# Comments: 0",
@@ -1096,6 +1104,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-31T13:39:57+00:00"
+    },
+    {
+      "title": "Jepsen: ParticleDB 1.1.4",
+      "link": "https://jepsen.io/analyses/particledb-1.1.4",
+      "summary": "https://github.com/jepsen-io/particledb\n\nComments URL: https://news.ycombinator.com/item?id=50316100\nPoints: 17\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-31T13:39:52+00:00"
     },
     {
       "title": "Iran warns it will retaliate without ‘geographical limitations’ if attacked",
