@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T18:33:28.224540+00:00",
+  "generated_at": "2026-10-31T18:47:40.195500+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -922,12 +922,28 @@
   ],
   "items": [
     {
+      "title": "I post trained a model on Demoscenes",
+      "link": "https://datavorous.com/writing/demoscener/",
+      "summary": "Article URL: https://datavorous.com/writing/demoscener/\nComments URL: https://news.ycombinator.com/item?id=50318442\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-31T18:08:24+00:00"
+    },
+    {
       "title": "UK Green party drops longstanding opposition to nuclear power",
       "link": "https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy",
       "summary": "Article URL: https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy\nComments URL: https://news.ycombinator.com/item?id=50318189\nPoints: 12\n# Comments: 0",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-31T17:37:22+00:00"
+    },
+    {
+      "title": "Copyright Office is restoring copyright to something you have to work to get",
+      "link": "https://pluralistic.net/2026/10/31/burn-berne/#unvictored",
+      "summary": "Article URL: https://pluralistic.net/2026/10/31/burn-berne/#unvictored\nComments URL: https://news.ycombinator.com/item?id=50318018\nPoints: 11\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-31T17:16:04+00:00"
     },
     {
       "title": "Show HN: Jointter – A daily word puzzle using dots and lines",
