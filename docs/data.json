@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T13:17:35.794343+00:00",
+  "generated_at": "2026-10-31T13:33:04.889601+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -910,9 +910,21 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f0de474b620>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+      "link": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+      "summary": "Article URL: https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26\nComments URL: https://news.ycombinator.com/item?id=50315990\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-31T13:25:10+00:00"
+    },
     {
       "title": "青柳善の輔は３位決定戦へ　世界レスリング",
       "link": "https://www.jiji.com/jc/article?k=2026103100403&g=spo&m=rss",
@@ -1016,6 +1028,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-10-31T12:00:00+00:00"
+    },
+    {
+      "title": "Prospero: A new coding harness for a more civilized age",
+      "link": "https://nullprogram.com/blog/2026/10/31/",
+      "summary": "Article URL: https://nullprogram.com/blog/2026/10/31/\nComments URL: https://news.ycombinator.com/item?id=50315226\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-31T11:54:59+00:00"
     },
     {
       "title": "French lawmakers approved a tax of €0.055 for every gigabyte of internet traffic",
