@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T20:17:36.847642+00:00",
+  "generated_at": "2026-10-31T20:33:10.425720+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -922,12 +922,36 @@
   ],
   "items": [
     {
+      "title": "室内が広く､2段ベッド仕様も選択可能に…日産｢キャラバン｣をベースにした｢レクビィ プラス リビン ワイド｣の美点 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962469?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "日産キャラバンをベースに最大270通りの室内仕様が選べる｢レクビィ プラス リビン｣。そのワイドボディ版がついに登場し､広さと2段ベッド仕様で家族旅行にも対応。この注目モデルの全貌に迫る。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-31T20:30:00+00:00"
+    },
+    {
+      "title": "｢父さん､元気だったら､電話をください｣東日本大震災で音信不通の10日間…遺体が見つかる中､役人が切り開いた命の道 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961917?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "東日本大震災で現場を指揮した徳山日出男氏を追う企画｢ドキュメント･危機のリーダー｣。｢組織論編｣の第1回では､家族と連絡が途絶える中､被災地への救援路を切り開いた｢くしの歯作戦｣の現場指揮官を描きま…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-10-31T20:30:00+00:00"
+    },
+    {
       "title": "習近平氏の弔電に｢高市首相｣の名はなかった… \"ハト派\"福田康夫元首相の死が投げかける｢今の政治に欠けているもの｣ | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/963054?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "元首相の福田康夫氏が90歳で逝去。父･赳夫氏と同じ年齢での在任･死去という奇縁や｢ハト派｣としての信念､日中友好を貫いた足跡を振り返る中から見えてきた､現在の日本政界の病巣とは？",
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-10-31T20:00:00+00:00"
+    },
+    {
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "link": "https://karpathy.bearblog.dev/hacker-tube/",
+      "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.https://hackertube.org/\n\nComments URL: https://news.ycombinator.com/item?id=50319510\nPoints: 11\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-31T19:56:53+00:00"
     },
     {
       "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
