@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T15:33:08.561293+00:00",
+  "generated_at": "2026-11-01T15:47:37.604481+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1060,6 +1060,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-01T13:19:04+00:00"
+    },
+    {
+      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "link": "https://github.com/ivankovic/omnidiff",
+      "summary": "I have been researching what the ultimate diff tool would look like, based on actual diffs in open source repositories.OmniDiff can diff: code (25 languages), config, images, PDFs, archives, cursors, fonts...It's fast. It can diff C++ files of tens of thousands of lines in under 100ms, on a 2023 ThinkPad T14s.It's open source. AGPLv3.It's based on real diffs. I looked at the 7400 repositories that are listed in Gentoo packages, sampled 2000 diffs and solved them manually to get a good understanding of what is needed, before putting together the diff pipelines for each content type. Incidentally, this also forms the basis of the CI pipeline, so the robustness of the codebase is quite high.I'm still developing it. It's v0.3.0 at this time. But I have been using it daily as my git difftool for months now, and it works well.AI Disclosure: Yes, I do use AI. No, I do not vibecode.\n\nComments URL: https://news.ycombinator.com/item?id=50325253\nPoints: 4\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-01T13:02:30+00:00"
     },
     {
       "title": "America is doing better than you think. Your algorithm is just hiding it.",
@@ -2180,6 +2188,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-10-31T20:30:00+00:00"
+    },
+    {
+      "title": "Bidirectional Charging During Grid Outages",
+      "link": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
+      "summary": "Article URL: https://www.jefftk.com/p/bidirectional-charging-during-grid-outages\nComments URL: https://news.ycombinator.com/item?id=50319749\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-31T20:21:55+00:00"
     },
     {
       "title": "Surviving \"The Graduate\"",
