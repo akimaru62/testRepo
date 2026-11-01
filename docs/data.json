@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T16:18:02.880664+00:00",
+  "generated_at": "2026-11-01T16:33:16.210328+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -926,6 +926,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f561f637e00>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f85aca93e00>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -938,12 +942,28 @@
       "published": "2026-11-01T16:17:57.429672+00:00"
     },
     {
+      "title": "Inside the leaderless movement set to govern Serbia",
+      "link": "https://www.ft.com/content/4e09cf90-7395-4dc4-afa8-a4fa71abe2b3?syn-25a6b1a6=1",
+      "summary": "Secretive ‘plenums’, code names based on Teletubbies, and fury over corruption: how student rebels won a parliamentary victory",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-01T16:12:16+00:00"
+    },
+    {
       "title": "TX officials seek death penalty for Walmart shooting suspect - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YOW5GY084WlIwaFNKeGFJMGpKWnJmU0M1ejVRS0ZsN0xlNXMzNDUtSGJyS0xWMDV4aFlUQ1l3c243REt2YldlX2dzRXdsRjRSdjBVajY5S3ZhOGs?oc=5",
       "summary": "TX officials seek death penalty for Walmart shooting suspect&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-11-01T16:01:06+00:00"
+    },
+    {
+      "title": "France and the UK require a new entente",
+      "link": "https://www.ft.com/content/e1f6ac62-d677-4a50-94c5-25605ae71eb7",
+      "summary": "The Suez crisis offers valuable lessons on troubled relations since the birth of the European project",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-01T16:00:02+00:00"
     },
     {
       "title": "Estee Lauder bucks China worries - Reuters",
