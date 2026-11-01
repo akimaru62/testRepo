@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T06:08:30.930092+00:00",
+  "generated_at": "2026-11-01T06:24:40.184280+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1098,6 +1098,14 @@
       "published": "2026-11-01T02:19:53+00:00"
     },
     {
+      "title": "OTape",
+      "link": "https://www.otape.org/",
+      "summary": "Article URL: https://www.otape.org/\nComments URL: https://news.ycombinator.com/item?id=50322169\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-01T02:18:46+00:00"
+    },
+    {
       "title": "Hermantown approves controversial Google Data Center during late night meeting",
       "link": "https://www.mprnews.org/story/2026/10/31/hermantown-approves-controversial-google-data-center-during-late-night-meeting",
       "summary": "Article URL: https://www.mprnews.org/story/2026/10/31/hermantown-approves-controversial-google-data-center-during-late-night-meeting\nComments URL: https://news.ycombinator.com/item?id=50322155\nPoints: 9\n# Comments: 0",
@@ -1133,6 +1141,14 @@
       "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
       "link": "https://arxiv.org/abs/2409.02292",
       "summary": "Article URL: https://arxiv.org/abs/2409.02292\nComments URL: https://news.ycombinator.com/item?id=50322022\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-01T01:46:29+00:00"
+    },
+    {
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+      "link": "https://arxiv.org/abs/2409.02292",
+      "summary": "Article URL: https://arxiv.org/abs/2409.02292\nComments URL: https://news.ycombinator.com/item?id=50322022\nPoints: 49\n# Comments: 23",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-01T01:46:29+00:00"
@@ -6045,6 +6061,14 @@
       "title": "U.S. churches slowly begin to reopen - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55SFQ2aGh6aEc2Zi1HVHVoZ1BBM2xMX2FWYTdralFnZno4ak9oXzF1RnYyQzlUZjFETnViajlMYnMwOW9wTGtjUjMtOFJEZGpSajh0SFVWX2VrMEE?oc=5",
       "summary": "U.S. churches slowly begin to reopen&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-30T07:00:00+00:00"
+    },
+    {
+      "title": "Sales surge at Target - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BQWR4UkdkWTk2X09JQmdpSGp3YnZMeXF5WXZGS2VEUExQNnJGaWRweTNOSnlpQXFkYTRSZnNPc0p2amU5ZWNHYnk4SHZ6SXF1M0Q0dkxQemx3RFU?oc=5",
+      "summary": "Sales surge at Target&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-30T07:00:00+00:00"
