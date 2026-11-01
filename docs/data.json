@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T02:07:47.000831+00:00",
+  "generated_at": "2026-11-01T02:22:24.652287+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -922,6 +922,38 @@
   ],
   "items": [
     {
+      "title": "ホルムズ航行回復へ連携　日サウジ外相が会談",
+      "link": "https://www.jiji.com/jc/article?k=2026110100199&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-01T02:22:19.801165+00:00"
+    },
+    {
+      "title": "１兆円不正流出「北朝鮮が関与」　バイナンス暗号資産が資金洗浄―ＦＢＩ",
+      "link": "https://www.jiji.com/jc/article?k=2026110100186&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-01T02:22:19.801128+00:00"
+    },
+    {
+      "title": "遺産3億円めぐり母娘の「争続」勃発　遺言書あっても敗れた母の末路",
+      "link": "https://www.asahi.com/articles/ASVBW7XD9VBWULLI005M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-01T02:22:19.638180+00:00"
+    },
+    {
+      "title": "長すぎベルト「落ち感」引き出す",
+      "link": "https://news.yahoo.co.jp/pickup/6600919?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-01T02:12:42+00:00"
+    },
+    {
       "title": "【この難問､解けますか？】京大入試の｢厳選予想問題｣で鍛える\"大人\"に必要な｢本当の地頭力｣ | キャリア・教育 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/962077?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "AIが即答を導く現代､知識量や暗記力だけでは勝負が決まりません。医学部入試を例に､求められる｢地頭力｣とは何か—。京都･苔寺に学ぶ本質的な思考力や､矛盾を統合する力がいま､試験でも社会でも問われ始め…",
@@ -1010,6 +1042,14 @@
       "published": "2026-11-01T00:15:43.538454+00:00"
     },
     {
+      "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+      "link": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+      "summary": "Hi HN,I kept wiring Ben Eater's 8-bit computer wrong, so I built a realistic virtual breadboard editor.Some of the nice features are side-by-side diff, scope, schematics auto-sync, auto-router (BBRouter stands for breadboard router), and my favorites: upload from the real Arduino IDE and connect to your AI with MCP, let Claude & co build it or help you troubleshoot.The link is the SAP-1 running. You can orbit it, probe a hole with the scope, slow the clock down, play with the virtual displays for debugging, then you can actually build it following the step-by-step instructions.A side-goal is to create a community, there are quite a lot of simulators out there but mostly offline / too abstract to realistically use it for a real build. I also never found one that had a decent UI/UX and worked well on mobile or with a trackpad.Happy to answer anything, and tell me what breaks.p.s. Maker plan is $7/month; code HACKERNEWS makes the first month free and then $5/month for as long as you keep it.\n\nComments URL: https://news.ycombinator.com/item?id=50321522\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-01T00:10:30+00:00"
+    },
+    {
       "title": "出国時に返金 新免税制度が開始",
       "link": "https://news.yahoo.co.jp/pickup/6600900?source=rss",
       "summary": "",
@@ -1048,6 +1088,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-10-31T23:55:21+00:00"
+    },
+    {
+      "title": "Work Requirements for Trick-or-Treaters",
+      "link": "https://morewrong.lol/?post=work-requirements-trick-or-treaters",
+      "summary": "Article URL: https://morewrong.lol/?post=work-requirements-trick-or-treaters\nComments URL: https://news.ycombinator.com/item?id=50321373\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-10-31T23:43:29+00:00"
     },
     {
       "title": "｢湯治ってやつか｣病気療養中の友と行く50代漫画家の山梨ラジウム温泉旅　裸を見ればわかる…親友が放った忌憚ない一言 | ライフ | 東洋経済オンライン",
