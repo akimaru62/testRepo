@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T16:05:42.520128+00:00",
+  "generated_at": "2026-11-01T16:18:02.880664+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -922,9 +922,21 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f561f637e00>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "防災庁２日発足　大規模災害時の司令塔―平時から復旧・復興まで対応",
+      "link": "https://www.jiji.com/jc/article?k=2026110100288&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-01T16:17:57.429672+00:00"
+    },
     {
       "title": "TX officials seek death penalty for Walmart shooting suspect - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YOW5GY084WlIwaFNKeGFJMGpKWnJmU0M1ejVRS0ZsN0xlNXMzNDUtSGJyS0xWMDV4aFlUQ1l3c243REt2YldlX2dzRXdsRjRSdjBVajY5S3ZhOGs?oc=5",
