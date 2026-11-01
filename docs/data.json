@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T14:04:44.452103+00:00",
+  "generated_at": "2026-11-01T14:17:19.960889+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -926,12 +926,28 @@
   ],
   "items": [
     {
+      "title": "対談本を販売中止、回収　事実関係に誤り―朝日出版",
+      "link": "https://www.jiji.com/jc/article?k=2026110100444&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-01T14:17:15.280294+00:00"
+    },
+    {
       "title": "This is the biggest threat to the AI-powered bull market",
       "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
       "summary": "Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-01T14:00:00+00:00"
+    },
+    {
+      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy\nComments URL: https://news.ycombinator.com/item?id=50325662\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-01T13:47:24+00:00"
     },
     {
       "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
@@ -948,6 +964,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-01T13:20:23+00:00"
+    },
+    {
+      "title": "A 90% Chance of AI Saving Humanity",
+      "link": "https://joshbocanegra.medium.com/a-90-chance-of-ai-saving-humanity-bf12fb7914ee",
+      "summary": "Article URL: https://joshbocanegra.medium.com/a-90-chance-of-ai-saving-humanity-bf12fb7914ee\nComments URL: https://news.ycombinator.com/item?id=50325398\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-01T13:19:04+00:00"
     },
     {
       "title": "America is doing better than you think. Your algorithm is just hiding it.",
