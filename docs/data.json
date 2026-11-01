@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T16:47:46.998443+00:00",
+  "generated_at": "2026-11-01T17:04:11.915512+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -934,12 +934,28 @@
   ],
   "items": [
     {
+      "title": "Alleged Mythos Class Anthropic Checkpoint Leak",
+      "link": "https://huggingface.co/burner22/numbat",
+      "summary": "Article URL: https://huggingface.co/burner22/numbat\nComments URL: https://news.ycombinator.com/item?id=50327240\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-01T16:43:36+00:00"
+    },
+    {
       "title": "Opinion | A Sports Bet by Any Other Name Is Still a Bet",
       "link": "https://www.wsj.com/opinion/a-sports-bet-by-any-other-name-is-still-a-bet-c75ad5ff?mod=rss_markets_main",
       "summary": "The CFTC has neither the competency nor statutory authority to regulate gambling.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-01T16:32:00+00:00"
+    },
+    {
+      "title": "Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs",
+      "link": "https://www.ajupress.com/view/20261028171670308",
+      "summary": "Article URL: https://www.ajupress.com/view/20261028171670308\nComments URL: https://news.ycombinator.com/item?id=50327058\nPoints: 20\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-01T16:23:26+00:00"
     },
     {
       "title": "防災庁２日発足　大規模災害時の司令塔―平時から復旧・復興まで対応",
@@ -988,6 +1004,22 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-11-01T15:56:45+00:00"
+    },
+    {
+      "title": "Anthropic's Mythos-class model allegedly leaked on Hugging Face",
+      "link": "https://news.ycombinator.com/item?id=50326727",
+      "summary": "URL deleted for malware concerns.\n\nComments URL: https://news.ycombinator.com/item?id=50326727\nPoints: 28\n# Comments: 13",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-01T15:45:10+00:00"
+    },
+    {
+      "title": "Landline phones will switch off across Britland in 100 days, no extensions",
+      "link": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
+      "summary": "Article URL: https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673\nComments URL: https://news.ycombinator.com/item?id=50326609\nPoints: 13\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-01T15:33:49+00:00"
     },
     {
       "title": "Enlightenment 0.28.0 Release",
