@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T17:17:35.384629+00:00",
+  "generated_at": "2026-11-01T17:33:23.624393+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -930,9 +930,21 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f85aca93e00>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f68f6737e00>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "Radiohead's Thom Yorke on turning 50, first film score - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11RGdWWTNrYzRWNVNpRWgwSnplVFl3d1pDUEVBSlpUbklqOHA4cm1wOVFzOERFQ0VFbWg3TnZmV1pzRVJzRFVBdkpZYm9OaWFhQlQwUXlyOEdyamM?oc=5",
+      "summary": "Radiohead's Thom Yorke on turning 50, first film score&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-01T17:22:43+00:00"
+    },
     {
       "title": "ＪＰドラゴンのメンバー逮捕　フィリピン入管、幹部か",
       "link": "https://www.jiji.com/jc/article?k=2026110100449&g=soc&m=rss",
@@ -948,6 +960,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-11-01T17:09:05+00:00"
+    },
+    {
+      "title": "Serbia shuts down bank favoured by Russians",
+      "link": "https://www.ft.com/content/c478c8b6-789f-4253-8970-1244b93c1cce?syn-25a6b1a6=1",
+      "summary": "Alta Bank is suspected of wiring large amounts of money out of the country after election loss of former president Aleksandar Vučić",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-01T17:02:03+00:00"
     },
     {
       "title": "Alleged Mythos Class Anthropic Checkpoint Leak",
@@ -3177,6 +3197,62 @@
       "title": "Weekend strike at Barcelona airport cancels at least 124 flights - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9raU03b0NvT2xvbFMxczNINUE2anVOamlLdlItSE9YSmlVVVFNWGo4VVFUUDRtcmtUdUlCSDhfdW9Hb3kwZE91S2NjTE1FS1NkSlBrVXpQdm1ObTQ?oc=5",
       "summary": "Weekend strike at Barcelona airport cancels at least 124 flights&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Danish PM says cancellation of Trump visit won't hurt good U.S. relations - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nT1hNU2lOT2wwekZOUWZvVElGazB1Y01HTVpJUVZtOHE0ZnVBdGhZbmVVZjd5NjVuQWRTZjFJSWR2MFhkSm9yVEFRRFRYdnJCdEhSLWhMbzZxRms?oc=5",
+      "summary": "Danish PM says cancellation of Trump visit won't hurt good U.S. relations&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Senators will probe Kavanaugh, accuser in public hearing - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96ODVPZ2pWeFBxdEV1TFpOVmNFcm1tY3pycHU0cXFQVXNtSjRiTEJMcTVVaGZ3MjM3QXllaFBSVllKNnE0Zzd5RXN2LWZha2wyVHMzR1FCeXh4TGc?oc=5",
+      "summary": "Senators will probe Kavanaugh, accuser in public hearing&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Cadbury owner Mondelez braces for hard Brexit, stockpiles products - the Times - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15YWJPWUJHMzhPQl9Sb0Z0Ujc3ck4zUEl5SXJta1Exb1NBa0YtV1lLRVl5TzVHTERRVFdSTVdhelFnSEZpNk81bXZIWHlNOGs3Ynhoek5rTl9SZGM?oc=5",
+      "summary": "Cadbury owner Mondelez braces for hard Brexit, stockpiles products - the Times&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Market whipsaw fueled by Fed, trade uncertainty - analyst - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0alR1V1lVdFVwbXNPSlpxVnliM0w5dTF6RklvaXQtUmVySGw0U1lwUndkNTBqWmJfQ0xmT2hhZFo0MVB1Ri16dGxMWDA4WjF5b0lYbjFIcnpYR0k?oc=5",
+      "summary": "Market whipsaw fueled by Fed, trade uncertainty - analyst&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Soviet-era cars \"rust in peace\" in Russian village - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3S0wwTXRDRGFqYmh3UTJ1QUdJWk0wY2o2VXdFYWNDMUhVdElleGZteW44MTY5LUFjaFVhQ3BsNEgxN2xxSVBkY2dnNVEtaThmTGJURjRmMTdrRDQ?oc=5",
+      "summary": "Soviet-era cars \"rust in peace\" in Russian village&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Thai cave rescuer sues Elon Musk for defamation - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PY1Jmb1lzZHBUOUxXUkRBY01vOUFFQ1JxSjVRZThwTlFfclQzV2hiYkZzYjVjalVXUGFFbmt4dDBSd0NzamtBMWgzSVVMbi0ySEtZMjRoZnFDMVE?oc=5",
+      "summary": "Thai cave rescuer sues Elon Musk for defamation&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Britain would now vote to stay in the EU, new poll shows - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CY0tCa1RId1d1N3RfenhTU0hEVVJZSzFWUW9TMmRXRXBzMnVtMzFZc0JaZFUxMnNDaHFZRUtYZzFreGdKeTJtd0o1MnJENDNUdTlTdWFmcXBEbjg?oc=5",
+      "summary": "Britain would now vote to stay in the EU, new poll shows&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-31T07:00:00+00:00"
@@ -6198,6 +6274,14 @@
       "published": "2026-10-30T09:30:00+00:00"
     },
     {
+      "title": "What You Can Do Now to Cut Your 2026 Taxes",
+      "link": "https://www.wsj.com/personal-finance/taxes/what-you-can-do-now-to-cut-your-2026-taxes-a5d641d7?mod=rss_markets_main",
+      "summary": "Planning has to start well before year-end to make the most of changes to charitable giving and itemized deductions.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-10-30T09:30:00+00:00"
+    },
+    {
       "title": "東京メトロ「QR乗車券」導入へ",
       "link": "https://news.yahoo.co.jp/pickup/6600705?source=rss",
       "summary": "",
@@ -7129,6 +7213,62 @@
       "title": "Mocked for Greenland, Trump cancels Denmark trip - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83amxsRXlCZnVpNjBQamdvbzJfRXdWZFNwVE0xUzNTSlI5cDhmcURtMkRkcVBFRXVNTDlqU2Y3STk3d0o3RTlwQ2NSaWxHSjlBQXZwSkNQQzFWMzA?oc=5",
       "summary": "Mocked for Greenland, Trump cancels Denmark trip&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-30T07:00:00+00:00"
+    },
+    {
+      "title": "Amazon joins $1 trillion club - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSQWxQdGh5eVVhZWo1bFRlLTlIZE5pb0dyQ2V4STJGRnNLVF8yV25rNU1BbDM3bE5iYzlrRHpwTlZGUERXVXhfOEFPYVBFSGJyaXpuenprdF9mMGc?oc=5",
+      "summary": "Amazon joins $1 trillion club&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-30T07:00:00+00:00"
+    },
+    {
+      "title": "Boeing ups Chinese jet purchase outlook - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLRk42cHlDQ252Rzdjd2szRmQ5Wktib1FhZFNCYTIzNkJtTmNTZDJyakxPRGIzQ3NuSTdQNkp1UktKVFFxbDdPSURMX2ZKMm9pTlUxRm50eEVYU00?oc=5",
+      "summary": "Boeing ups Chinese jet purchase outlook&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-30T07:00:00+00:00"
+    },
+    {
+      "title": "H&M boosted by pricing promises after profit fall - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kZGc1bDk0T2VPc0ZYUER2enN1WUdKMGNwYVhyRmdjdng5SDhRMF9kdkhyRHJKMWo2SEpUTDZ3ekZqRzk2YWMycmtjT21kZzZVcHFxbVlKbUhGc3c?oc=5",
+      "summary": "H&amp;M boosted by pricing promises after profit fall&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-30T07:00:00+00:00"
+    },
+    {
+      "title": "Trade: Alibaba drops US jobs promise, OECD sees growth 'peaking' - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93NmY0SFRUa3BkZ3Y1ZEZPRFpxOFZNaG5Bdjh3TDl3THBualRmNlNTcVR5UDRQWlNwWGJDZXVDWkl5OEpxWDVTSGtrekVEcW92RUpxeU8zbE8tUWc?oc=5",
+      "summary": "Trade: Alibaba drops US jobs promise, OECD sees growth 'peaking'&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-30T07:00:00+00:00"
+    },
+    {
+      "title": "Venezuelan drivers face long fuel queues as payment system flops - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ydFU4ZXBJanJfODc4am9peEVfNzVWSlpZb3c4SVJFNlVfZTlGYWZFTUcya1hBMjVhNHZhUEJLa2ZCYmpDSkNOamRfeHR0enJ6M3V5cngtTmpyWVU?oc=5",
+      "summary": "Venezuelan drivers face long fuel queues as payment system flops&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-30T07:00:00+00:00"
+    },
+    {
+      "title": "Henri Bendel to close in January - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LbUVBTXBjbWVYcWs0bHdpSzFwQ0I3RE9JcjF3eWpYX3YzNmtSeDhIQmFDa1k4U3J0MTd3Q3ZNNmhnSk1HZ2FGODVmUk1PZ0tFa0ZqSjVOU0dvczQ?oc=5",
+      "summary": "Henri Bendel to close in January&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-30T07:00:00+00:00"
+    },
+    {
+      "title": "\"Charlie Says\" focuses on women Manson sent to kill - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nRHRPRmtVc2R4a0Q1THVCMmhQenkzT01ReEk5SGxlRVkwWC01Y1IzbG15UlRaOWVublFRYjV6UmF2NnRoczhKYkZOZHpXQnliaHJjancwTFdFUFE?oc=5",
+      "summary": "\"Charlie Says\" focuses on women Manson sent to kill&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-30T07:00:00+00:00"
