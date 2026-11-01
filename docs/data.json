@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T16:33:16.210328+00:00",
+  "generated_at": "2026-11-01T16:47:46.998443+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -934,6 +934,14 @@
   ],
   "items": [
     {
+      "title": "Opinion | A Sports Bet by Any Other Name Is Still a Bet",
+      "link": "https://www.wsj.com/opinion/a-sports-bet-by-any-other-name-is-still-a-bet-c75ad5ff?mod=rss_markets_main",
+      "summary": "The CFTC has neither the competency nor statutory authority to regulate gambling.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-01T16:32:00+00:00"
+    },
+    {
       "title": "防災庁２日発足　大規模災害時の司令塔―平時から復旧・復興まで対応",
       "link": "https://www.jiji.com/jc/article?k=2026110100288&g=soc&m=rss",
       "summary": "",
@@ -964,6 +972,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-01T16:00:02+00:00"
+    },
+    {
+      "title": "Show HN: HackerBooks – HackerTube, but for books recommended on HN",
+      "link": "https://hackerbooks.org",
+      "summary": "Saw Karpathy's HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5).It's ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each book links back to the comments that mentioned it. Data is downloadable from the about page.To be clear: Claude wrote almost all of it, including the data pipeline and the site. I mostly steered and made calls, bought the domain name, etc.It counts mentions, so it's not perfect (praising a book and trashing it both count). If your favourite book is missing or matched to the wrong thing, tell me.\n\nComments URL: https://news.ycombinator.com/item?id=50326821\nPoints: 51\n# Comments: 14",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-01T15:58:28+00:00"
     },
     {
       "title": "Estee Lauder bucks China worries - Reuters",
@@ -1097,6 +1113,14 @@
       "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
       "link": "https://arxiv.org/abs/2610.39302",
       "summary": "Article URL: https://arxiv.org/abs/2610.39302\nComments URL: https://news.ycombinator.com/item?id=50325454\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-01T13:24:49+00:00"
+    },
+    {
+      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+      "link": "https://arxiv.org/abs/2610.39302",
+      "summary": "Article URL: https://arxiv.org/abs/2610.39302\nComments URL: https://news.ycombinator.com/item?id=50325454\nPoints: 49\n# Comments: 15",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-01T13:24:49+00:00"
