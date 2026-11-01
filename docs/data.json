@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T10:04:35.969162+00:00",
+  "generated_at": "2026-11-01T10:17:24.823291+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -926,6 +926,22 @@
   ],
   "items": [
     {
+      "title": "無得点で分ける　Ｊリーグ・町田０―０Ｇ大阪",
+      "link": "https://www.jiji.com/jc/article?k=2026110100353&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-01T10:17:19.663986+00:00"
+    },
+    {
+      "title": "町田、引き分けて３位　Ｊ１",
+      "link": "https://www.jiji.com/jc/article?k=2026110100356&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-01T10:17:19.663943+00:00"
+    },
+    {
       "title": "Binance restarts customer withdrawals after $6.3bn heist",
       "link": "https://www.ft.com/content/1d4dd7b2-9dee-433b-ac2a-e8022af1dd07?syn-25a6b1a6=1",
       "summary": "Crypto exchange to reimburse users whose assets were stolen in hack blamed on North Korea-linked group",
@@ -940,6 +956,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-01T09:17:53.075385+00:00"
+    },
+    {
+      "title": "OpenIDEA: The IDE you know, rebuilt in Rust",
+      "link": "https://github.com/l0ng-ai/openidea",
+      "summary": "Article URL: https://github.com/l0ng-ai/openidea\nComments URL: https://news.ycombinator.com/item?id=50323848\nPoints: 7\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-01T09:15:26+00:00"
     },
     {
       "title": "渋滞最大で3時間 いろは坂で実験",
