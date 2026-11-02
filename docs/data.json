@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T12:47:35.197370+00:00",
+  "generated_at": "2026-11-02T13:06:47.370201+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -938,6 +938,10 @@
     {
       "url": "https://azure.microsoft.com/ja-jp/blog/feed/",
       "error": "HTTPSConnectionPool(host='azure.microsoft.com', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f8a63a74050>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -966,6 +970,22 @@
       "published": "2026-11-02T15:00:00+00:00"
     },
     {
+      "title": "「謝罪響かない」「泣くくらいなら」　GMO熊谷代表会見、利用者は",
+      "link": "https://www.asahi.com/articles/ASVC234HYVC2UTIL00TM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-02T13:06:40.613142+00:00"
+    },
+    {
+      "title": "How Putin has split the west",
+      "link": "https://www.ft.com/content/eae872b0-69cb-445c-a107-aab95f9a8525?syn-25a6b1a6=1",
+      "summary": "Three different camps have emerged within the western alliance on how to deal with Russia",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-02T12:47:36+00:00"
+    },
+    {
       "title": "「お客さま守れなかった」　熊谷社長、攻撃者に憤りも―ＧＭＯ不正アクセス",
       "link": "https://www.jiji.com/jc/article?k=2026110200846&g=soc&m=rss",
       "summary": "",
@@ -980,6 +1000,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-02T12:46:00+00:00"
+    },
+    {
+      "title": "Marvell to buy data centre component maker Lumentum in $115bn AI bet",
+      "link": "https://www.ft.com/content/92322fad-f293-48b8-a14b-00506d78eb3b",
+      "summary": "Silicon Valley companies said all-stock deal would create a ‘leader in AI connectivity’",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-02T12:38:56+00:00"
     },
     {
       "title": "The Morning Risk Report: Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack",
@@ -1161,6 +1189,14 @@
       "title": "Citi throws in the towel on hyperscalers after a key market bet misfires",
       "link": "https://www.marketwatch.com/story/the-latest-market-wobble-sees-citi-giving-up-on-this-big-tech-trade-181b0dea?mod=mw_rss_topstories",
       "summary": "Hyperscalers and growth plays have underperformed amid a sharp rotation",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-02T11:08:00+00:00"
+    },
+    {
+      "title": "Citi throws in the towel on hyperscalers after a key stock-market bet misfires",
+      "link": "https://www.marketwatch.com/story/the-latest-market-wobble-sees-citi-giving-up-on-this-big-tech-trade-181b0dea?mod=mw_rss_topstories",
+      "summary": "Hyperscalers and growth plays have underperformed amid a sharp rotation.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-02T11:08:00+00:00"
