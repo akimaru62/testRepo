@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T10:18:26.610833+00:00",
+  "generated_at": "2026-11-02T10:33:41.837439+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -974,6 +974,30 @@
       "published": "2026-11-02T11:00:00+00:00"
     },
     {
+      "title": "「なぜ課題を放置」「泣くくらいなら」GMO熊谷代表会見、利用者は",
+      "link": "https://www.asahi.com/articles/ASVC234HYVC2UTIL00TM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-02T10:33:36.095139+00:00"
+    },
+    {
+      "title": "詐欺対策で国際電話を選択制に？　総務省、固定回線の契約見直し議論",
+      "link": "https://www.asahi.com/articles/ASVC234MLVC2ULFA00DM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-02T10:33:36.095109+00:00"
+    },
+    {
+      "title": "国債のオンチェーン対応に関する研究会（第１回）　議事要旨",
+      "link": "https://www.mof.go.jp/about_mof/councils/study_on_chain/on_chain_giji1.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-02T10:20:00+00:00"
+    },
+    {
       "title": "中間選挙直後のイラン攻撃要求か　トランプ氏と電話会談―イスラエル首相",
       "link": "https://www.jiji.com/jc/article?k=2026110200837&g=int&m=rss",
       "summary": "",
@@ -1108,6 +1132,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-02T09:38:00+00:00"
+    },
+    {
+      "title": "Show HN: I've updated my Linux System Call website and API",
+      "link": "https://syscall.sh/",
+      "summary": "I first released those in back in 2020 and now I finally added more architectures, Kernel selector, syscall descriptions and a few other niceties. It should work a bit better on mobile devices too but I am no CSS expert.The API is at https://api.syscall.sh\n\nComments URL: https://news.ycombinator.com/item?id=50334704\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-02T09:29:16+00:00"
     },
     {
       "title": "GMO熊谷社長ら 報酬を3カ月減額",
@@ -6113,6 +6145,62 @@
       "title": "Hong Kong leader invokes emergency powers to quell escalating violence - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZVGZDUUFhMlBvaTdkSmFPSzAxQzBCVmdjc0x6aFBGWUJuT3pHdm9yeDh2TGVJUlNwbVBMTTdIU2JQRnFiQ1JSeW9CWFBKRmtaaE40Z2pSOHRPV0E?oc=5",
       "summary": "Hong Kong leader invokes emergency powers to quell escalating violence&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Huawei plans to start making cars - sources - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVeDlwY01xdi1wb2x4LXlUYnNkQmFTandWMF9JSF91ZEFjay1GMFZHSVd5Y2pzZ2NCVUJST25QOURxdEk0TlZDZGRBSlNJVDI2TEp5UWtIZ1U4Z1E?oc=5",
+      "summary": "Huawei plans to start making cars - sources&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Euro zone Q4 GDP falls less than estimated - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XWi13S1o5YjQ0SW1xWkt2Q2dOV2VYZmtwam0tYzhHck5sejl5WGZTVE1TLUF0Yng1azlpbURELUxJR2ZHRUtNTVMzSDFienJHR1dDc2hLeFN4dnM?oc=5",
+      "summary": "Euro zone Q4 GDP falls less than estimated&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Google opens paid-for news site in Australia - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBUnRmUkxUQjNyTlhhZl9QaWdXdmFaYlJPaHFrYlZNQVVTWV9VTnIzclczUEtvNFpFR1QyY0s1UEdnQzQ5aTctWmwzUmxiZm1nTHFCVktKdWVneEE?oc=5",
+      "summary": "Google opens paid-for news site in Australia&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Coca-Cola tops profit forecast, eyes 2021 rebound - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rQjFDeXVaRDdOTWI3aVdZWFlwRzVmZjVkVnRhSXdNd3FPMWZuOGVKdjFtemtKVzUwV3RHcUh1S3ZmS19FZXpDMnZlQ2hIU0s1ZGlISkpYdTQ5ZzQ?oc=5",
+      "summary": "Coca-Cola tops profit forecast, eyes 2021 rebound&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Total rebrands in pivot away from oil - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wY1BicXFsQXdsNUhMWXk1Vmt5eEE5X1VPclVWWTcyMGpobk14dnZ0ZEtUYk5tMldWcG13UC1MOTEtRXJKWlJ1dXZFOEZKaFZvSk9GbTdkbHhVcUk?oc=5",
+      "summary": "Total rebrands in pivot away from oil&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Deutsche Bank swings to first profit since 2014 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WcE8tMDFwd1FKdEtfZ1ZoaEdKY1ZoTUhBdmVtMExTYXQ1bUhhN2VEY19mVFlvdFBoMWhFYnh3cnFhQjF4YmFkOHB5cWFINkxzMzJfVXAtLWxvUTA?oc=5",
+      "summary": "Deutsche Bank swings to first profit since 2014&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Ocado says retail landscape changing for good - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PRGtFVmJUb2VYM0JnQW40dEVzX3A5VU5Xa0hZNVlpa212bDFSSDlpVmpCRG8wQXZaVDViQ3dZTEhyU3dCRnA4VWtyWTUxYWpDZkJ1czRraFhBWTA?oc=5",
+      "summary": "Ocado says retail landscape changing for good&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-31T07:00:00+00:00"
