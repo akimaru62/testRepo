@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T07:47:33.273349+00:00",
+  "generated_at": "2026-11-02T08:08:24.253394+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -942,6 +942,22 @@
   ],
   "items": [
     {
+      "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第３回）の開催について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/singi/20261109.html",
+      "summary": "",
+      "source": "金融庁",
+      "category": "公的機関",
+      "published": "2026-11-02T17:00:00+00:00"
+    },
+    {
+      "title": "「デジタル・分散型金融への対応のあり方等に関する研究会」（第２回）議事次第について公表しました。",
+      "link": "https://www.fsa.go.jp/singi/digital_2026/shiryo/20261102.html",
+      "summary": "",
+      "source": "金融庁",
+      "category": "公的機関",
+      "published": "2026-11-02T17:00:00+00:00"
+    },
+    {
       "title": "国際関係,FATF声明の公表について（2026年10月プレナリー）掲載しました。",
       "link": "https://www.fsa.go.jp/inter/fatf/20261102/20261102.html",
       "summary": "",
@@ -958,12 +974,52 @@
       "published": "2026-11-02T11:00:00+00:00"
     },
     {
+      "title": "CPMIが報告書「進化する決済システムにおける中央銀行および中央銀行マネーの役割」を公表",
+      "link": "http://www.boj.or.jp/paym/intlact_pm/cpss/cpss261102a.htm",
+      "summary": "",
+      "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-11-02T08:00:00+00:00"
+    },
+    {
+      "title": "国債投資家懇談会（第101回）開催日程",
+      "link": "https://www.mof.go.jp/about_mof/councils/meeting_of_jgbi/press_release/261102.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-02T08:00:00+00:00"
+    },
+    {
+      "title": "国債市場特別参加者会合（第121回）開催日程",
+      "link": "https://www.mof.go.jp/about_mof/councils/meeting_of_jgbsp/press_release/261102.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-02T08:00:00+00:00"
+    },
+    {
+      "title": "Dollar Falls Ahead of U.S. Midterm Elections",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-as-investors-await-u-s-economic-data-c0156350?mod=rss_markets_main",
+      "summary": "The DXY dollar index fell as investors exercised caution ahead of Tuesday’s U.S. midterm elections.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-02T07:50:00+00:00"
+    },
+    {
       "title": "BOE Expected to Join Peers in Raising Key Rate",
       "link": "https://www.wsj.com/economy/central-banking/boe-expected-to-join-peers-in-raising-key-rate-62a61c5b?mod=rss_markets_main",
       "summary": "The bank  is expected to join its peers in raising borrowing costs Thursday as it attempts to contain a pickup in inflation ahead of an intense period of wage negotiations.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-02T07:28:00+00:00"
+    },
+    {
+      "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+      "link": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+      "summary": "Article URL: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/\nComments URL: https://news.ycombinator.com/item?id=50334038\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-02T07:27:28+00:00"
     },
     {
       "title": "Marine sniper turned macro strategist says this bull market has six to 12 months left. Here’s his playbook.",
@@ -1084,6 +1140,14 @@
       "source": "財務省",
       "category": "公的機関",
       "published": "2026-11-02T06:00:00+00:00"
+    },
+    {
+      "title": "Online shopping surge helps lift IKEA's full-year sales - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02T1drQ0VMNVpaZjY0cEt3eEVaZ0hYUlQwYTdqV1lGR1pMSXk4Q0hKbnBiLXpGa3dFLUhONjQ4T1ByV0tNcmdnMEcyRGRtMU1ydzYxajR0TlNhVFU?oc=5",
+      "summary": "Online shopping surge helps lift IKEA's full-year sales&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-02T05:57:27+00:00"
     },
     {
       "title": "Mira Sorvino opens up about date rape testimony - Reuters",
@@ -1334,6 +1398,14 @@
       "published": "2026-11-02T03:50:03+00:00"
     },
     {
+      "title": "S&P 500 closes flat - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FMFlUai01NnhtVlFFWUVRcUhnQ01kVWtQNW5hOGloUDdQbmhmbGR5ZzloVGZvald1UEU5Yllpc2RCT0tIM3VaUHp3RDlWNlY2TkkyTWtFdF9MUEU?oc=5",
+      "summary": "S&amp;P 500 closes flat&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-02T03:50:03+00:00"
+    },
+    {
       "title": "永谷園 休売のモコモコ販売再開へ",
       "link": "https://news.yahoo.co.jp/pickup/6601049?source=rss",
       "summary": "",
@@ -1348,6 +1420,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-02T03:47:43.833081+00:00"
+    },
+    {
+      "title": "Pompeo says he's staying, despite N. Korea demand - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EMWlxU3MyMjZudmVwSWFxRi14UG1SdHN1SXk3bzI2YzUzTk9sbU00VEJUM3FpbmxteEZZUDNnQzVraFFsMDRIMGg4cGdSUnFQRXZjUnFESGlSUjg?oc=5",
+      "summary": "Pompeo says he's staying, despite N. Korea demand&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-02T03:43:12+00:00"
     },
     {
       "title": "フラット35 金利3.81%で過去2番目",
@@ -1444,6 +1524,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-11-02T03:10:38+00:00"
+    },
+    {
+      "title": "Thousands flee erupting Indonesian volcano - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GcTVFMGZIS24xeFRWdmNGaG0yZlJoNnl5SFFNeU1nWVp4RUFJM096Sk9tX0tZUnFIRTAxaXRXR0pUWWZsNllTZWRfcHNYMUZQdGFUQXc3Q0piQVE?oc=5",
+      "summary": "Thousands flee erupting Indonesian volcano&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-02T03:10:34+00:00"
     },
     {
       "title": "サラダが主食? 専門店の市場拡大",
@@ -1806,6 +1894,14 @@
       "published": "2026-11-02T00:03:43+00:00"
     },
     {
+      "title": "Amazon to pay shoppers hurt by others' products - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwMVhwZ0RtbEdHaTNKdWtjcWxPbk9OeVRTcXNyLXFPVlpLVkw1ZUg2QXA1dkMwZWJWZGVfeGE0R1BQSThPWUdPMklGRnA3RXI2V25jMzNYSTc2WnM?oc=5",
+      "summary": "Amazon to pay shoppers hurt by others' products&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-02T00:03:43+00:00"
+    },
+    {
       "title": "｢LINEは窮屈､Google マップは一望｣毎日使うアプリは折りたたみiPhoneでどう変わるのか | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/962801?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "アップル初の折りたたみ型iPhone｢iPhone Duo｣が登場し､アプリの使い勝手は従来機種からどう変わったのか。主要アプリの対応状況や利便性を徹底レビュー。",
@@ -1886,6 +1982,54 @@
       "published": "2026-11-01T23:40:09+00:00"
     },
     {
+      "title": "'Golden State Killer' appears in California court - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80MG8yMURJSGhta3ZZTGwwYnhYWVh3clF0cDZ6RGV5RXhsYUpPOTl5MEdqZmJlbjdnZUNiMlQ0T0tUb3FTNWZEaWgwZ25MTmVsSWNVeTQ4MWZ3QW8?oc=5",
+      "summary": "'Golden State Killer' appears in California court&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-01T23:40:09+00:00"
+    },
+    {
+      "title": "VW's biggest management revamp in a decade - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0ZGVUZExEa1NWNnlVVDVrOVFjQzd4T0x1MVY5Ni13UXp4dThmNDdaVURudEk4ZGlBSXMwak9fTmZSbUZkQjNBak02YWU5SlZ6UWROV2hva21lTWM?oc=5",
+      "summary": "VW's biggest management revamp in a decade&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-01T23:40:09+00:00"
+    },
+    {
+      "title": "Facebook delivers big earnings despite the challenges - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qRHJBS2pvM3dfRXlldWNEZHZtZ09hdUdVUWxyTDdJNENzeGlvTVc1MVgwR0FwcFhFczhhMWFqbWl4RFUtSXlGZ1IyV1JxQWMyZ29nLW1XeGxCMGc?oc=5",
+      "summary": "Facebook delivers big earnings despite the challenges&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-01T23:40:09+00:00"
+    },
+    {
+      "title": "Johnson welcomes 'phenomenal' response to depression admission - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Hb3BMZklMN0JObEFnWTlucXZDMmVaaXhMSHJMdlNrSTdUMWdtMjFVS0pPQ2ZVMjdwUVNScVBHN1BWQXVwT2xKYjVHT2lPOUx5cXh1ZzU1ZV83Q0U?oc=5",
+      "summary": "Johnson welcomes 'phenomenal' response to depression admission&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-01T23:40:09+00:00"
+    },
+    {
+      "title": "Rusted water heater blamed in Iowa family deaths at Mexican resort - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHVW5neVFoeHE4NWNtOXFkcmZReXROVm5RY0FmMnN6OGJsT3BDTThOYUJaVzlMSUxEQ2I4N1V2TXdjNzZsc293a2dxdVhmaEE2SExaWWtxQTktMVk?oc=5",
+      "summary": "Rusted water heater blamed in Iowa family deaths at Mexican resort&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-01T23:40:09+00:00"
+    },
+    {
+      "title": "Britain: weak growth cast doubts on next BOE move - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RY1Q4bXMwVEdaRjdUb1RmWUE0Zlh3WHNHc05LbVR1TTF0dkdZQmgtaWRLTjdtV3JId0hhWWFCNUctMzZfLU5hajV0SmZ2LVk4VTd0eEJ6QVdJbnM?oc=5",
+      "summary": "Britain: weak growth cast doubts on next BOE move&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-01T23:40:09+00:00"
+    },
+    {
       "title": "存在感増す急進左派　格差拡大で「民主社会主義」期待―米中間選挙・ＮＹ",
       "link": "https://www.jiji.com/jc/article?k=2026110100274&g=int&m=rss",
       "summary": "",
@@ -1937,6 +2081,14 @@
       "title": "Amazon, Google cut speaker prices - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95UEcybGtLcDUxNmdBZW9va1R1R0Zwd1RtTUVpSURZN2dUREFzMFpSaTk1VW0wQWNjTEdhNnlUQ2YzMzY0Nmg2V3lXRWFwaTByYzIyMWtOTkcxWTQ?oc=5",
       "summary": "Amazon, Google cut speaker prices&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-01T22:34:34+00:00"
+    },
+    {
+      "title": "End of chip boom? Price drop spooks investors - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11WjR0MDZlaVlJTWEwaUsxS24wQ0ZZTWZFSXdPam9pTW5OMHZVMEV2QU1Ea3RUeDBvZjZ4T3Z6MURPbWdSRnBpNWIzcTBwbTBzdFU1bnRaMDNWbDQ?oc=5",
+      "summary": "End of chip boom? Price drop spooks investors&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-11-01T22:34:34+00:00"
@@ -2092,6 +2244,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-01T21:30:00+00:00"
+    },
+    {
+      "title": "Bush gives humorous, tearful eulogy - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCWGdjZmxhYnpyeU5kQ1dabnh5endjOUMwSzRhYnV3NWE3WFZ5UXQ4dU1oM1dlekZSQXVFQmRrVlEydnJ5QjdsaHRwZC1yeEZ3S283aDZXNDFlNkU?oc=5",
+      "summary": "Bush gives humorous, tearful eulogy&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-01T21:28:38+00:00"
     },
     {
       "title": "Apple captures 50% of consumer revenue of the top half of the S&P 500",
@@ -5377,6 +5537,182 @@
       "title": "Walmart says tariffs will boost prices for U.S. shoppers - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTd09NX3B5OVhrUk5MWFVvamctRWpQUnRpOS14UTJIR2ZmNnhZNk5qMGpVQzYwSFZlSXFzVXdxNkNWNlloNzRuc203dEFTMUxiZEZxYnBORndMbTg?oc=5",
       "summary": "Walmart says tariffs will boost prices for U.S. shoppers&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Apple battles EU over $14.4bln tax bill - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0WWQ1OEFaSlNVOXk0Zk1BR2ZsYmozX215X1U3VjRzSnRHNU81Z0lOaUtwTWRsLVFZOUs3SlA2RkZub0NYNUpiX3ZfWkJxY1RUb2lSb2Z0UkNmNzA?oc=5",
+      "summary": "Apple battles EU over $14.4bln tax bill&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "BoE's Carney defends Brexit warnings - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mR3hrSzV4VW90R0lfaTNvOFFBUDByR1R2QmpXOFVPSnJteEpSWUJvaWE4YU5kOUx0YXFiQ25wMVlCSlZlU09BcjFQalU3NUdONFAyemFKSGRfLW8?oc=5",
+      "summary": "BoE's Carney defends Brexit warnings&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Facebook extends ban on U.S. political ads - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rd2I1LXpCOFZLM1BxZkhOb0ozSHdrY3Vmbmd6UUdhall1Vi1RaFBpM1lydmNJRDRDSEtIV3c4eEF0Zk5oUElBWVVwRmF0YUxydW0zdkJzRld6X28?oc=5",
+      "summary": "Facebook extends ban on U.S. political ads&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "GE slashes dividend to a penny - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sM3lVY05sY3Q3emQ2bVN0SkJmUGdRSjVxS3d6bUZ2bGdrV3J0RW11TkZRMUR1eFVoSFNnendQbmtpV3NlWTVLQ3pWNExpdURoTzR4bzUzZjNkSHM?oc=5",
+      "summary": "GE slashes dividend to a penny&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Hong Kong's Jimmy Lai denied bail in fraud case - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oRlJBdzdPWDFabGRYVTY2Vm9UaW5MclNWaHJlZVZvVGJ3R2x0S0FSd1lpcXJxbGREUFdQYTl6ckVyNEV6a2dheFBwRV9WMVhwLTVsM1ZqazVkazQ?oc=5",
+      "summary": "Hong Kong's Jimmy Lai denied bail in fraud case&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "This is no time for talking, Tehran tells U.S. - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BMzJQTEplaUYxY3V0ZHZXd0N2YzlIMDFQMksyQ0dLY1NqcTlIbHRSZm82cDlsdlYtemhYZ0lYSU9LS0MyWXpkM1RhUGhPV1dvcW15TTg4T0VuR2c?oc=5",
+      "summary": "This is no time for talking, Tehran tells U.S.&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "M&A Monday in healthcare: Merck, Sanofi, UnitedHealth - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UdlVVZ2REelNTMFJScG13QklJNlA4SDJJck94aEViSEpyTW04bUl1RmQyNjVZR1pPX1JQMTJCWlNQaEFySEVDR29ybW9wVzQ1WUpweGlxclJwalk?oc=5",
+      "summary": "M&amp;A Monday in healthcare: Merck, Sanofi, UnitedHealth&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Microsoft launches new Xbox amid gaming boom - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HajNCT2FhOW4xUWpxS3cxamRyY0RueklwLTQzck5TS2VvZmlVR1lrV3pjMk5MVFEzRXBWZWV5M05uN0hmanAyQzdMS2pNY2VLUi1OcGdWcVY2Njg?oc=5",
+      "summary": "Microsoft launches new Xbox amid gaming boom&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "'Brain dead' NATO pulls off summit despite insults - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kWURVX3JKZWNRLWlQd0xBZjB5Umpual85cXVLV0xFMkhTMDY2XzR6dHdNZXlMb2U3UERhOTRJSF9qVzZQb2N0VkZvS1JULUJCTUxPQW5FVTNuc0U?oc=5",
+      "summary": "'Brain dead' NATO pulls off summit despite insults&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "FedEx rallies on strong results, upbeat outlook - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ENVQyTmhwZkZ3MW9MbDFwRVpIbGZsRXpsN2pyTWxzXzQtVXpVUjlLQlRncFpNb3BNT0thOU1PMUF1dTM3TDJHTkRla1UzOXM4NG9RanRWR1lQRDQ?oc=5",
+      "summary": "FedEx rallies on strong results, upbeat outlook&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Afghan poll results suggest slim win for Ghani - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTem5GOEptdVFCTjVrYzN1QTFFSDRhRXlyZXg0ZTY2TzVZVFRITjhnandXNXRPRlh5RjByMjlBZXlGZ1VJOEVLZDlISFJ1Mm4xdnF0d1p6cy1zQUk?oc=5",
+      "summary": "Afghan poll results suggest slim win for Ghani&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Tesla-rival Lucid set to ramp up production - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TbndEQlIzQjZLVU1NWlN3X0k0RVp1cGRRY2tjak5NZkJHcFpLaGY2bzFfUkQwdDJpaFdhZnlsRXJHbnhhUi1qUjlmNkRHOEhLMlhZU3lnN2MyV00?oc=5",
+      "summary": "Tesla-rival Lucid set to ramp up production&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "UK economy: inflation eases but Brexit gloom gathers - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uYW5ZX1Y3YXY0TDNwX2FrTU0tYnZqYnJsVmZXU1BYektMaGdRUEM4MjBFM2l4WXdUdXZwTFl2OWVDUVo0UGNQR3M0eWQ4d1MweDBsRFlGNjI2N1k?oc=5",
+      "summary": "UK economy: inflation eases but Brexit gloom gathers&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Boyband BTS is now in your pocket with a new mobile game - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tVDkzOUJ6bUEwSDVUS3l2MllnWTQ4N1ZRVnpjS2JwQ2dfQ3M2M3JKS3M0clRjMkNFU0VPeV9ZaE04NXlpZDF4djNmTmZ5dm50SEdMejQ5NWVfc3M?oc=5",
+      "summary": "Boyband BTS is now in your pocket with a new mobile game&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Restaurant closures hurt McDonald's sales - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02X2RaWlJDZUFrS1BjeUhGYzV0NDBRb1RJcXZUa2FUeVRSSF9OVi1Rczh6LW9ZSGo1ZGRHbERZTXJYeUZHeWptMjg1aVpsd1hfWkxIUnpXaUk5RUU?oc=5",
+      "summary": "Restaurant closures hurt McDonald's sales&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Bitcoin reaches 18-month high as Facebook's Libra spurs interest - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TMXZxY2tSaTZ1Mmw0OEpYOEh4cXM1VG9YUHBYVktzdzVpemZjR3hkR2F5TFNGX3FacnFXTnl2Y0tVdnlIeVBqWkpURElkY3oxRlBWaWQ4MGlCczA?oc=5",
+      "summary": "Bitcoin reaches 18-month high as Facebook's Libra spurs interest&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Stocks tumble as factory activity hits 10-year low - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RTGdhR3FDV3dNNm5sc1VBLUhsdXhSOUUtdU5nODloMHRSdU90bzgzalM0YjdyNWpiSTRjam5kbHJhLVRzSmR4NHlPQVlfVmtoNTZpVXJGcjJzemM?oc=5",
+      "summary": "Stocks tumble as factory activity hits 10-year low&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Greeks strike over labour reforms - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tTVZEdnNnRWhEWDEzVHg3MFBFZDlkZFBOYmszS3V5R1FQZUZMdFZqejBIdVh3aHNEV1RWOXlBSzV6UXlBV1h5M24yN2FXdG5VUGltUTNYX2s1NVE?oc=5",
+      "summary": "Greeks strike over labour reforms&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Lufthansa's growth clipped by plane delivery delays - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SYU50QXRVWEo1amc1OGxMUHN0UUZteU83czZVSUM1akc2VGg4a3c4RDVhZFU1UVd3VEI2blJMTkxZMzhuYjZoWld2Rkl4QjlfWTlVemxwb0NRYTQ?oc=5",
+      "summary": "Lufthansa's growth clipped by plane delivery delays&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Bayer wins EU approval for $62.5 bln Monsanto buy - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzMjRUYThNaVlzbUEyMnNyRXFWNnA5Q05PZ1NTMnZHcVJBWjBDWnQ4RlpoOU5hZTVnTkZBa3JLLWVZbkJ1YllyX3RaMUlSTElwXy1TM2pTRnlPNlk?oc=5",
+      "summary": "Bayer wins EU approval for $62.5 bln Monsanto buy&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "エジプトで4400年前の墓を発見、ほぼ完全な保存状態（15日） - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84eTB6dU5mdldleUl1Nm9ORUpfOGRNc0cybnNEYXpMS2phbFgxNHczaGh2anBabEZTR3RUVlI0Q01RZFVUanBYcVlxSWo1SmdBSVlnN1VGTnd5X1U?oc=5",
+      "summary": "エジプトで4400年前の墓を発見、ほぼ完全な保存状態（15日）&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Hong Kong leader invokes emergency powers to quell escalating violence - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZVGZDUUFhMlBvaTdkSmFPSzAxQzBCVmdjc0x6aFBGWUJuT3pHdm9yeDh2TGVJUlNwbVBMTTdIU2JQRnFiQ1JSeW9CWFBKRmtaaE40Z2pSOHRPV0E?oc=5",
+      "summary": "Hong Kong leader invokes emergency powers to quell escalating violence&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-31T07:00:00+00:00"
