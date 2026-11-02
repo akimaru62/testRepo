@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T18:33:25.672998+00:00",
+  "generated_at": "2026-11-02T18:47:53.271744+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -950,6 +950,14 @@
   ],
   "items": [
     {
+      "title": "Comex Gold Settles 1.83% Higher at $3956.90",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-but-expectations-of-tighter-u-s-monetary-policy-weigh-512a4860?mod=rss_markets_main",
+      "summary": "Gold settled 1.8% higher and silver rose 3.3%, with both metals snapping a three-session losing streak.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-02T18:42:00+00:00"
+    },
+    {
       "title": "Oil Extends Losses on Optimism for U.S.-Iran Talks",
       "link": "https://www.wsj.com/business/energy-oil/oil-drops-amid-diplomatic-efforts-to-revive-mideast-peace-talks-964fc4d6?mod=rss_markets_main",
       "summary": "Crude futures deepened their decline as the market gives credence to the latest diplomatic moves aimed at bringing the U.S. and Iran to the negotiating table.",
@@ -980,6 +988,22 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-02T18:12:48+00:00"
+    },
+    {
+      "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/\nComments URL: https://news.ycombinator.com/item?id=50341028\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-02T18:12:48+00:00"
+    },
+    {
+      "title": "Byesky: Wipe your Bluesky account clean",
+      "link": "https://byesky.pirhoo.com",
+      "summary": "Article URL: https://byesky.pirhoo.com\nComments URL: https://news.ycombinator.com/item?id=50340601\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-02T17:46:46+00:00"
     },
     {
       "title": "Let Me Ch...",
@@ -1156,6 +1180,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-02T16:31:21+00:00"
+    },
+    {
+      "title": "Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings",
+      "link": "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now",
+      "summary": "Article URL: https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now\nComments URL: https://news.ycombinator.com/item?id=50339224\nPoints: 33\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-02T16:25:33+00:00"
     },
     {
       "title": "Show HN: Warsaw in voxels – an interactive 3D map of the city centre",
