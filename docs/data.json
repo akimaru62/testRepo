@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T18:47:53.271744+00:00",
+  "generated_at": "2026-11-02T19:04:30.991830+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -950,6 +950,22 @@
   ],
   "items": [
     {
+      "title": "Egoless Mathematics in the AI Era",
+      "link": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/\nComments URL: https://news.ycombinator.com/item?id=50341736\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-02T18:54:44+00:00"
+    },
+    {
+      "title": "SOML – A Config Format for Humans",
+      "link": "https://github.com/soml-lang/soml",
+      "summary": "Article URL: https://github.com/soml-lang/soml\nComments URL: https://news.ycombinator.com/item?id=50341502\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-02T18:42:04+00:00"
+    },
+    {
       "title": "Comex Gold Settles 1.83% Higher at $3956.90",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-but-expectations-of-tighter-u-s-monetary-policy-weigh-512a4860?mod=rss_markets_main",
       "summary": "Gold settled 1.8% higher and silver rose 3.3%, with both metals snapping a three-session losing streak.",
@@ -958,12 +974,36 @@
       "published": "2026-11-02T18:42:00+00:00"
     },
     {
+      "title": "Big majority of US voters disapprove of Trump’s handling of inflation: FT poll",
+      "link": "https://www.ft.com/content/5ed63d08-66f3-4ad3-9ec7-2ec8b590fc85?syn-25a6b1a6=1",
+      "summary": "On the eve of the midterm elections, Americans say they want politicians who can better handle the economy",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-02T18:36:12+00:00"
+    },
+    {
+      "title": "Agentic Backdoors via Pretraining Poisoning",
+      "link": "https://arxiv.org/abs/2610.37741",
+      "summary": "Article URL: https://arxiv.org/abs/2610.37741\nComments URL: https://news.ycombinator.com/item?id=50341334\nPoints: 15\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-02T18:30:58+00:00"
+    },
+    {
       "title": "Oil Extends Losses on Optimism for U.S.-Iran Talks",
       "link": "https://www.wsj.com/business/energy-oil/oil-drops-amid-diplomatic-efforts-to-revive-mideast-peace-talks-964fc4d6?mod=rss_markets_main",
       "summary": "Crude futures deepened their decline as the market gives credence to the latest diplomatic moves aimed at bringing the U.S. and Iran to the negotiating table.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-02T18:22:00+00:00"
+    },
+    {
+      "title": "Astra can read and write weights to improve Qwen",
+      "link": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "summary": "Article URL: https://rikiyat.github.io/blog/weight-space-programming/\nComments URL: https://news.ycombinator.com/item?id=50341174\nPoints: 85\n# Comments: 11",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-02T18:21:28+00:00"
     },
     {
       "title": "It may take weeks to tally the midterm election results. Here’s why Wall Street isn’t worried.",
@@ -998,6 +1038,22 @@
       "published": "2026-11-02T18:12:48+00:00"
     },
     {
+      "title": "Skill to Create Product Videos",
+      "link": "https://github.com/aaitor/skill-video-studio",
+      "summary": "Article URL: https://github.com/aaitor/skill-video-studio\nComments URL: https://news.ycombinator.com/item?id=50340992\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-02T18:10:39+00:00"
+    },
+    {
+      "title": "Making Peace with the Projective Plane",
+      "link": "https://www.johndcook.com/blog/2026/11/02/projective-plane/",
+      "summary": "Article URL: https://www.johndcook.com/blog/2026/11/02/projective-plane/\nComments URL: https://news.ycombinator.com/item?id=50340629\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-02T17:47:59+00:00"
+    },
+    {
       "title": "Byesky: Wipe your Bluesky account clean",
       "link": "https://byesky.pirhoo.com",
       "summary": "Article URL: https://byesky.pirhoo.com\nComments URL: https://news.ycombinator.com/item?id=50340601\nPoints: 5\n# Comments: 1",
@@ -1012,6 +1068,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-02T17:33:20+00:00"
+    },
+    {
+      "title": "I Read the Clankers' Code",
+      "link": "https://fev.al/posts/i-read-the-code/",
+      "summary": "Article URL: https://fev.al/posts/i-read-the-code/\nComments URL: https://news.ycombinator.com/item?id=50340362\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-02T17:32:19+00:00"
     },
     {
       "title": "Oracle wants $20 billion to fund its AI future — and its stock is paying the price",
