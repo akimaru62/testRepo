@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T20:04:42.854405+00:00",
+  "generated_at": "2026-11-02T20:17:16.099530+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -950,12 +950,36 @@
   ],
   "items": [
     {
+      "title": "茂木外相、米中間選挙を「注視」",
+      "link": "https://www.jiji.com/jc/article?k=2026110200692&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-02T20:17:11.955584+00:00"
+    },
+    {
+      "title": "Key races that will decide the US midterm elections",
+      "link": "https://www.ft.com/content/1626b14d-524f-4d2a-94d1-860ae4a68692?syn-25a6b1a6=1",
+      "summary": "Will a Democratic ‘blue wave’ sweep Congress away from Republicans — and render the president a lame duck?",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-02T20:12:26+00:00"
+    },
+    {
       "title": "｢スーパーワン｣人気で知名度上昇中？東南アジアの国タイで進化を続ける､ホンダ新型｢シティ｣が魅力的すぎる理由 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/962138?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "ホンダの名車｢シティ｣が進化を遂げ､アジア市場で人気を集めていることをご存じだろうか？2026年にマイナーチェンジを実施した新型にタイで試乗､その魅力を探る。",
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-02T20:00:00+00:00"
+    },
+    {
+      "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
+      "link": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f",
+      "summary": "Article URL: https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f\nComments URL: https://news.ycombinator.com/item?id=50342424\nPoints: 18\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-02T19:36:37+00:00"
     },
     {
       "title": "｢単なる弁当｣の域を超えた駅弁の存在意義　失われゆく郷土料理を継承､次世代に残す食文化 | ビジネス | 東洋経済オンライン",
@@ -1041,6 +1065,14 @@
       "title": "Agentic Backdoors via Pretraining Poisoning",
       "link": "https://arxiv.org/abs/2610.37741",
       "summary": "Article URL: https://arxiv.org/abs/2610.37741\nComments URL: https://news.ycombinator.com/item?id=50341334\nPoints: 15\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-02T18:30:58+00:00"
+    },
+    {
+      "title": "Agentic backdoors via pretraining poisoning",
+      "link": "https://arxiv.org/abs/2610.37741",
+      "summary": "Article URL: https://arxiv.org/abs/2610.37741\nComments URL: https://news.ycombinator.com/item?id=50341334\nPoints: 45\n# Comments: 10",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-02T18:30:58+00:00"
@@ -1321,6 +1353,14 @@
       "title": "Show HN: Warsaw in voxels – an interactive 3D map of the city centre",
       "link": "https://p.migdal.pl/warsaw-vibe-voxel/",
       "summary": "Explore central Warsaw in voxels - slightly inspired by Minecraft, and MagicaVoxel. \nYou can change the date, time of day and weather, explore the city, or click on a pedestrian to control them (here a bit of inspiration from Dungeon Keeper).Works best on desktop, but I tried to make it usable on mobile too. The initial load can take a while. It's based on several open datasets, including:- OpenStreetMap (https://www.openstreetmap.org/#map=6/52.02/19.14) - buildings, streets, sidewalks, tram tracks, etc- GUGiK / Geoportal (https://www.geoportal.gov.pl/) - LiDAR for building heights and trees, aerial imagery for colours- Warsaw's city tree database (https://mapa.um.warszawa.pl/) - individual tree species, used for seasonal foliageOpen-source (https://github.com/stared/warsaw-vibe-voxel), so feel invited to (re)use it as you wish!\n\nComments URL: https://news.ycombinator.com/item?id=50339221\nPoints: 12\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-02T16:25:26+00:00"
+    },
+    {
+      "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+      "link": "https://p.migdal.pl/warsaw-vibe-voxel/",
+      "summary": "Explore central Warsaw in voxels - slightly inspired by Minecraft, and MagicaVoxel. \nYou can change the date, time of day and weather, explore the city, or click on a pedestrian to control them (here a bit of inspiration from Dungeon Keeper).Works best on desktop, but I tried to make it usable on mobile too. The initial load can take a while. It's based on several open datasets, including:- OpenStreetMap (https://www.openstreetmap.org/#map=6/52.02/19.14) - buildings, streets, sidewalks, tram tracks, etc- GUGiK / Geoportal (https://www.geoportal.gov.pl/) - LiDAR for building heights and trees, aerial imagery for colours- Warsaw's city tree database (https://mapa.um.warszawa.pl/) - individual tree species, used for seasonal foliageOpen-source (https://github.com/stared/warsaw-vibe-voxel), so feel invited to (re)use it as you wish!\n\nComments URL: https://news.ycombinator.com/item?id=50339221\nPoints: 128\n# Comments: 26",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-02T16:25:26+00:00"
@@ -3897,6 +3937,14 @@
       "title": "Bush gives humorous, tearful eulogy - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCWGdjZmxhYnpyeU5kQ1dabnh5endjOUMwSzRhYnV3NWE3WFZ5UXQ4dU1oM1dlekZSQXVFQmRrVlEydnJ5QjdsaHRwZC1yeEZ3S283aDZXNDFlNkU?oc=5",
       "summary": "Bush gives humorous, tearful eulogy&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-01T21:28:38+00:00"
+    },
+    {
+      "title": "Presidents assemble for Bush funeral - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94eF9XZ1pjTmZqd3NqZFIwalpfNWtwZTBPNmxtcldZelFWUDlHajFxUlhwS05jRG5uZGt1bEs0clBaSS10RkZlbHNPV3doOUUzbzc2a3pDQ004YnM?oc=5",
+      "summary": "Presidents assemble for Bush funeral&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-11-01T21:28:38+00:00"
@@ -7457,6 +7505,14 @@
       "title": "Wall Street rally pauses as big tech loses steam - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBicHJTMmlDZVE3cmNRMDhueFowcG1iU3loQzVCd1Ytb1NoYUtFUWJIc0w5bHhJS3ZNWDk5T3VkWmRmTnN2R2dKdmFRNDliYlp6SGVESDctYm1WUDA?oc=5",
       "summary": "Wall Street rally pauses as big tech loses steam&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Sienna Miller faces \"gruelling\" parent's nightmare in \"American Woman\" - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CQjBLMjVlV2lhVUszYV9TZ21qa1gzYTlYWTBGYnU3R2RiZ2FMTC1DaVpZbVg0REJjRWdZa1ktZC1JRHdnTlREOEpmZk5ZTVY1MTRiMlR0VTFaY1k?oc=5",
+      "summary": "Sienna Miller faces \"gruelling\" parent's nightmare in \"American Woman\"&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-31T07:00:00+00:00"
