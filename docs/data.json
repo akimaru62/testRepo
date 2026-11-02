@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T18:20:53.195417+00:00",
+  "generated_at": "2026-11-02T18:33:25.672998+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -950,6 +950,14 @@
   ],
   "items": [
     {
+      "title": "Oil Extends Losses on Optimism for U.S.-Iran Talks",
+      "link": "https://www.wsj.com/business/energy-oil/oil-drops-amid-diplomatic-efforts-to-revive-mideast-peace-talks-964fc4d6?mod=rss_markets_main",
+      "summary": "Crude futures deepened their decline as the market gives credence to the latest diplomatic moves aimed at bringing the U.S. and Iran to the negotiating table.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-02T18:22:00+00:00"
+    },
+    {
       "title": "It may take weeks to tally the midterm election results. Here’s why Wall Street isn’t worried.",
       "link": "https://www.marketwatch.com/story/it-may-take-weeks-to-tally-the-midterm-election-results-heres-why-wall-street-isnt-worried-ed9313fd?mod=mw_rss_topstories",
       "summary": "It’s crucial to distinguish economic from political uncertainty, because only one really moves the stock market.",
@@ -964,6 +972,22 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-02T18:13:00+00:00"
+    },
+    {
+      "title": "Trump administration asks Supreme Court to block some California ballots",
+      "link": "https://www.ft.com/content/b3619ebb-01cc-4458-bc77-b04e5b16b658?syn-25a6b1a6=1",
+      "summary": "White House urges justices to order some mail-in votes be set aside because it claims they belong to non-citizens",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-02T18:12:48+00:00"
+    },
+    {
+      "title": "Let Me Ch...",
+      "link": "https://blog.alxgsv.com/let-me-check/",
+      "summary": "Article URL: https://blog.alxgsv.com/let-me-check/\nComments URL: https://news.ycombinator.com/item?id=50340369\nPoints: 8\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-02T17:33:20+00:00"
     },
     {
       "title": "Oracle wants $20 billion to fund its AI future — and its stock is paying the price",
@@ -2092,6 +2116,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-02T09:38:00+00:00"
+    },
+    {
+      "title": "S&P, Nasdaq post best weekly gains in three months - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82WUxBZUlNV2o2dUxTcnhjcl9JSWFRSlFwd1pwU3AtaHEzaDExQmlhWVZIZFlFdVhqdzhxNFBOcE5QN2ZvdHN5WFloXzNoRkZ0WjB1aUY5NWZxQ1U?oc=5",
+      "summary": "S&amp;P, Nasdaq post best weekly gains in three months&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-02T09:35:29+00:00"
     },
     {
       "title": "Show HN: I've updated my Linux System Call website and API",
