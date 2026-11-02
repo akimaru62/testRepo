@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T06:34:13.027282+00:00",
+  "generated_at": "2026-11-02T06:52:16.727814+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -958,6 +958,14 @@
       "published": "2026-11-02T11:00:00+00:00"
     },
     {
+      "title": "官邸突入、争う方針　法廷で「国旗」破る―「機動隊は敵」と投稿も・東京地裁",
+      "link": "https://www.jiji.com/jc/article?k=2026110200087&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-02T06:52:10.946258+00:00"
+    },
+    {
       "title": "令和8年度　9月末租税及び印紙収入、収入額調",
       "link": "https://www.mof.go.jp/tax_policy/reference/taxes_and_stamp_revenues/202609.pdf",
       "summary": "",
@@ -970,6 +978,14 @@
       "link": "https://toyokeizai.net/articles/-/963236?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "｢日本の遺児のため｣とされてきたあしなが学生募金が､実はその半分をアフリカの遺児支援に充てていたことが拡散､SNSで激しい議論が巻き起こりました。善意の寄付が国内支援に届いていないことに怒りを見せる…",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-02T06:15:00+00:00"
+    },
+    {
+      "title": "雑誌『ぴあ』なぜいま復刊？　「ググる時代」に15年ぶり、矢内社長が語る“紙の勝機”",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/02/news055.html",
+      "summary": "総合エンタメ情報誌「ぴあ」が4月、15年ぶりに「とぶ！ぴあ」として復刊した。ぴあの矢内廣社長にインタビューした。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-11-02T06:15:00+00:00"
     },
@@ -1036,6 +1052,14 @@
       "source": "日本銀行",
       "category": "公的機関",
       "published": "2026-11-02T05:10:00+00:00"
+    },
+    {
+      "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+      "link": "https://wikihack.netlify.app",
+      "summary": "After seeing Karpathy's Hackertube and Hackerbooks, I just had to make Wikihack.I scraped all mentions of wikipedia on hackernews and ranked them, and turn them into a scrollable feed to make it a bit more easy to digest / interact with. You can see where people submitted the articles and where people mentioned it in comments.The top shows the most frequently linked articles.Random is random but slightly weighted towards the more frequently linked articles (a little bit like Wikipedia actually).Rising is ranked towards the past 12 months.The entire site is served only through the frontend -- I'll add more features if people enjoy this!\n\nComments URL: https://news.ycombinator.com/item?id=50333339\nPoints: 16\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-02T05:06:30+00:00"
     },
     {
       "title": "対談本を販売中止、回収　事実関係に誤り―朝日新聞出版",
@@ -1129,6 +1153,14 @@
       "title": "Turkish lira, markets fall after vote results scrapped - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1cDRUcjB5OGNiNmxMNEtBUDd0VmZSVmVvc0czXy1KN2pLVGNRMmVmaUF6UE1UcTBOaHVMV01WbXlKaGZSeVlBU0MxcGNqNS1RV0xlR291U3ZFcEE?oc=5",
       "summary": "Turkish lira, markets fall after vote results scrapped&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-02T04:39:23+00:00"
+    },
+    {
+      "title": "Wall Street drops after Fed chair dampens rate cut hopes - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wa3hwUFB2Q2dwelpkVXI0eDBObU14cVdHS3VXSWhIcG9lQXhrQjBJOWdVYllkT0FYLW1waFdWOUJ3WW0xeFMtVW5BLVVUOF8tN2l2OUFDUTJvQzg?oc=5",
+      "summary": "Wall Street drops after Fed chair dampens rate cut hopes&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-11-02T04:39:23+00:00"
@@ -1473,6 +1505,14 @@
       "title": "Delta posts first quarterly loss in eight years - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YMzBZdHhtME9BMzZVN29xVEpNQnRGVHNUQUJpUklNbFlMMV8zdU9IeVhEOS12NkJjSG9wZzYzN2Z4amcwT1g2R1p3VkhuQVF4cUpkMV9sb0puY00?oc=5",
       "summary": "Delta posts first quarterly loss in eight years&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-02T01:33:43+00:00"
+    },
+    {
+      "title": "Budget airline easyJet to offset carbon emissions from all flights - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aUmRpeWtRcUV4TXplUW1JVERxQnFVQTBmaF95ajZKb2FDUWpwNlNRTVd0eTdTUndlclhONXFHcUtmSVBoS3NQYzBxOFI3alhvNHhMVkgzSGZuNDg?oc=5",
+      "summary": "Budget airline easyJet to offset carbon emissions from all flights&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-11-02T01:33:43+00:00"
