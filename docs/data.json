@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T00:14:57.596294+00:00",
+  "generated_at": "2026-11-02T00:43:30.975743+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -938,6 +938,30 @@
   ],
   "items": [
     {
+      "title": "国債金利情報(令和8年10月30日)",
+      "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-02T00:30:00+00:00"
+    },
+    {
+      "title": "Nikkei Falls 0.9%, Dragged by Bank, Tech Stocks",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-9-dragged-by-bank-tech-stocks-a63f180d?mod=rss_markets_main",
+      "summary": "Japanese stocks were lower after a selloff in artificial intelligence-related U.S. technology shares on Friday.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-02T00:30:00+00:00"
+    },
+    {
+      "title": "内定者2年間入社しなくてOK 狙い",
+      "link": "https://news.yahoo.co.jp/pickup/6601025?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-02T00:21:39+00:00"
+    },
+    {
       "title": "青柳善の輔が銅メダル　日本、メダル１０―世界レスリング",
       "link": "https://www.jiji.com/jc/article?k=2026110200146&g=spo&m=rss",
       "summary": "",
@@ -1117,6 +1141,22 @@
       "title": "Uber co-founder Kalanick leaves board - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tMFYtV2NSTVFSeHFNY285MlJCWjR0RllqS00zamQ1OEpZT0xJRFFLOHJvQy1aQjlFQ3dVcjd2MEZBR2lKNi1tajdiYTRxd3d5cG0ybmpFWWlyb2M?oc=5",
       "summary": "Uber co-founder Kalanick leaves board&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-01T22:13:43+00:00"
+    },
+    {
+      "title": "Gunman kills six in Czech hospital, then shoots himself - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81N2xJcGFKQnhDdTIzc2VCTG9YYXRhc3JRWm5GQWtxQXE1akFERVJEODBHSkcxU1V2MGpXTnQxSlF2cmFlZ0V2WnlGVFJFODRYTVpYUUQzVmw2dDA?oc=5",
+      "summary": "Gunman kills six in Czech hospital, then shoots himself&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-01T22:13:43+00:00"
+    },
+    {
+      "title": "Stocks rise as investors cheer trade deal - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kNTM5YUhXQjZiOWJ5NWhGWjNhRHkwNjBrUzF6dEpXeGF4dkcxemlYLXUtMHVBckp1amlSSWYyeU5zVERPbmZGZ25aQkRnUU03X3VJbzQ4c1hYeGs?oc=5",
+      "summary": "Stocks rise as investors cheer trade deal&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-11-01T22:13:43+00:00"
@@ -4277,6 +4317,14 @@
       "title": "Delivery Hero cedes German market to Takeaway.com - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TQVZFSUIxWmp0aXFLRlljUU5CQ1FGN3NCN1pPMGRGMnkxYkhDc05SYWdDVTBiX0tZSm5fMUJJckxHeEE2eVZzY2h6ejd4NEYwTlRMRlZmbVNOa00?oc=5",
       "summary": "Delivery Hero cedes German market to Takeaway.com&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Lagarde sees ECB in crisis mode until next year - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HLU1HX0p4eGNSU2c1aXhxTVhHelRKdDBTb0c2UlVKeEh1RHA3VmtSQjBFSFZsbnJUVHF1U2lTLVJpZ3FteGVvV1VJenh0ZHhuUzdnWUsxOUFsNHM?oc=5",
+      "summary": "Lagarde sees ECB in crisis mode until next year&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-31T07:00:00+00:00"
@@ -8573,6 +8621,30 @@
       "title": "Amazon stock up as the company reaches 100 mln Prime subscribers - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EaFRTR180TUQ1eXB2eDlIX2xySjZMalczazBucTFBZk41Umw5RTY0MzI1bkVwcEdTbC1WSll6UDBhVlJYRXFhQmNVb29jM3pva05tN2xMcUhnZmc?oc=5",
       "summary": "Amazon stock up as the company reaches 100 mln Prime subscribers&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-30T07:00:00+00:00"
+    },
+    {
+      "title": "Toronto Film Festival launches with Robertson doc - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRRnJldjRBUmlFcGRjdmtlQXZ6RGdjdzhTQTRfbTIwaTN0Q2pvLU1FZXV4RnFSY0dHU2NEMC1pVE9zZXd2Z0g4dUFrYTFIeDI4T0NFc3NDOUVNMWc?oc=5",
+      "summary": "Toronto Film Festival launches with Robertson doc&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-30T07:00:00+00:00"
+    },
+    {
+      "title": "Fleeing mass transit New Yorkers, turn to bicycles - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RZ1JaTU1ya1ZGX3VPWkVrc2FWT2h3Wm5MVjBfTTR6YjcxajN2LUpWdVdlTGNpcy1qQjc1OUZRaWdyVjQ5Vm5HdlMtXzNTQ21SMTE3MWg1SGM5aDA?oc=5",
+      "summary": "Fleeing mass transit New Yorkers, turn to bicycles&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-30T07:00:00+00:00"
+    },
+    {
+      "title": "Disinfection volunteers help Wuhan get back to normal - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBONGZFTHJNNnBvNHJkQU5sSGMxQ3FJcjNQbEpvcVByTm1rNzFqOGpMemdlaUZqbVlVaV80S3Y1UjlVenpHVTRtSlBWQ0dmanpVRW1fV2s2Y2wyZUk?oc=5",
+      "summary": "Disinfection volunteers help Wuhan get back to normal&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-30T07:00:00+00:00"
