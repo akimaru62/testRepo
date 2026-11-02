@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T16:47:49.633574+00:00",
+  "generated_at": "2026-11-02T17:04:41.429929+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -962,6 +962,22 @@
       "published": "2026-11-02T17:00:00+00:00"
     },
     {
+      "title": "6 dividend stocks for investors who want to cut their exposure to the S&P 500",
+      "link": "https://www.marketwatch.com/story/6-dividend-stocks-for-investors-who-want-to-cut-their-exposure-to-the-s-p-500-52519928?mod=mw_rss_topstories",
+      "summary": "Novartis, Mitsubishi and Canadian Natural are examples of companies in developed markets outside the U.S. that pass screens for high dividend yields and low volatility for prices and earnings.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-02T16:56:00+00:00"
+    },
+    {
+      "title": "These tech stocks got unfairly swept up in last week’s selloff, analysts say",
+      "link": "https://www.marketwatch.com/story/these-tech-stocks-got-unfairly-swept-up-in-last-weeks-selloff-analysts-say-e296c1b3?mod=mw_rss_topstories",
+      "summary": "One analyst notes “a meaningful gap between price and fundamentals” in some corners of the chip sector.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-02T16:50:00+00:00"
+    },
+    {
       "title": "Gold Futures Pick Up Amid Falling Oil Prices",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-but-expectations-of-tighter-u-s-monetary-policy-weigh-512a4860?mod=rss_markets_main",
       "summary": "Gold futures extended their rebound as oil prices slid on renewed hopes for a diplomatic solution to the Middle East conflict.",
@@ -978,6 +994,14 @@
       "published": "2026-11-02T16:45:48+00:00"
     },
     {
+      "title": "Show HN: Warsaw in voxels – an interactive 3D map of the city centre",
+      "link": "https://p.migdal.pl/warsaw-vibe-voxel/",
+      "summary": "Explore central Warsaw in voxels - slightly inspired by Minecraft, and MagicaVoxel. \nYou can change the date, time of day and weather, explore the city, or click on a pedestrian to control them (here a bit of inspiration from Dungeon Keeper).Works best on desktop, but I tried to make it usable on mobile too. The initial load can take a while. It's based on several open datasets, including:- OpenStreetMap (https://www.openstreetmap.org/#map=6/52.02/19.14) - buildings, streets, sidewalks, tram tracks, etc- GUGiK / Geoportal (https://www.geoportal.gov.pl/) - LiDAR for building heights and trees, aerial imagery for colours- Warsaw's city tree database (https://mapa.um.warszawa.pl/) - individual tree species, used for seasonal foliageOpen-source (https://github.com/stared/warsaw-vibe-voxel), so feel invited to (re)use it as you wish!\n\nComments URL: https://news.ycombinator.com/item?id=50339221\nPoints: 12\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-02T16:25:26+00:00"
+    },
+    {
       "title": "Behind Anthropic’s 1,127% revenue surge — and the computing bill that erased its profit",
       "link": "https://www.marketwatch.com/story/behind-anthropics-1-127-revenue-surge-and-the-computing-bill-that-erased-its-profit-2fe7e513?mod=mw_rss_topstories",
       "summary": "Anthropic just filed updated financial paperwork ahead of an IPO that could come by the end of this month.",
@@ -992,6 +1016,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-02T16:20:01.449543+00:00"
+    },
+    {
+      "title": "Grokipedia offers lessons in how AI can help Wikipedia",
+      "link": "https://www.niemanlab.org/2026/11/elon-musks-grokipedia-is-littered-with-mistakes-but-wikipedia-could-still-learn-some-things-from-it/",
+      "summary": "Article URL: https://www.niemanlab.org/2026/11/elon-musks-grokipedia-is-littered-with-mistakes-but-wikipedia-could-still-learn-some-things-from-it/\nComments URL: https://news.ycombinator.com/item?id=50339021\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-02T16:15:26+00:00"
     },
     {
       "title": "When you turn this age, it’s your best chance to get crucial tax and healthcare plans in place for retirement",
