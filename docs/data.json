@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T16:20:06.675216+00:00",
+  "generated_at": "2026-11-02T16:33:34.631573+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -962,6 +962,14 @@
       "published": "2026-11-02T17:00:00+00:00"
     },
     {
+      "title": "Behind Anthropic’s 1,127% revenue surge — and the computing bill that erased its profit",
+      "link": "https://www.marketwatch.com/story/behind-anthropics-1-127-revenue-surge-and-the-computing-bill-that-erased-its-profit-2fe7e513?mod=mw_rss_topstories",
+      "summary": "Anthropic just filed updated financial paperwork ahead of an IPO that could come by the end of this month.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-02T16:22:00+00:00"
+    },
+    {
       "title": "エトミデート２．７キロ密輸か　台湾人逮捕、「プレゼントに」―大阪府警・税関",
       "link": "https://www.jiji.com/jc/article?k=2026110200765&g=soc&m=rss",
       "summary": "",
@@ -976,6 +984,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-02T16:09:00+00:00"
+    },
+    {
+      "title": "Why we're moving our warehouse off DuckDB",
+      "link": "https://posthog.com/blog/moving-off-duckdb",
+      "summary": "Article URL: https://posthog.com/blog/moving-off-duckdb\nComments URL: https://news.ycombinator.com/item?id=50338747\nPoints: 21\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-02T16:02:26+00:00"
     },
     {
       "title": "Booming U.S. manufacturers can’t keep up with demand — and high inflation isn’t helping",
@@ -1016,6 +1032,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-02T15:40:00+00:00"
+    },
+    {
+      "title": "Please Let the Internet Die. It's Time to Start Over",
+      "link": "https://www.wired.com/story/let-the-internet-die/",
+      "summary": "Article URL: https://www.wired.com/story/let-the-internet-die/\nComments URL: https://news.ycombinator.com/item?id=50338265\nPoints: 8\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-02T15:35:40+00:00"
     },
     {
       "title": "My ex-husband sent me a text, promising $20,000 for our children’s education. Now he refuses to pay. What can I do?",
@@ -1096,6 +1120,22 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-02T14:52:00+00:00"
+    },
+    {
+      "title": "We halved DNS build delay and cut memory use by 85%",
+      "link": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+      "summary": "Article URL: https://blog.cloudflare.com/dns-targeted-zone-builds/\nComments URL: https://news.ycombinator.com/item?id=50337558\nPoints: 12\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-02T14:47:28+00:00"
+    },
+    {
+      "title": "GPT-Rosalind-6 System Card Addendum",
+      "link": "https://deploymentsafety.openai.com/gpt-rosalind-6",
+      "summary": "Article URL: https://deploymentsafety.openai.com/gpt-rosalind-6\nComments URL: https://news.ycombinator.com/item?id=50337503\nPoints: 10\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-02T14:44:02+00:00"
     },
     {
       "title": "Oil slides as US tech stocks steady after AI rout",
