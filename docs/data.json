@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T18:06:43.099930+00:00",
+  "generated_at": "2026-11-02T18:20:53.195417+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -942,9 +942,29 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f8a63a74050>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fafe0050050>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "It may take weeks to tally the midterm election results. Here’s why Wall Street isn’t worried.",
+      "link": "https://www.marketwatch.com/story/it-may-take-weeks-to-tally-the-midterm-election-results-heres-why-wall-street-isnt-worried-ed9313fd?mod=mw_rss_topstories",
+      "summary": "It’s crucial to distinguish economic from political uncertainty, because only one really moves the stock market.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-02T18:16:00+00:00"
+    },
+    {
+      "title": "The bond-market rally is defying the typical investing playbook. Here’s why.",
+      "link": "https://www.marketwatch.com/story/the-bond-market-rally-is-defying-the-typical-investing-playbook-heres-why-17a14342?mod=mw_rss_topstories",
+      "summary": "The U.S. economy expanded at its fastest clip in over five years during the third quarter, according to the Commerce Department’s initial reading on GDP. Yet despite a barrage of robust data, Treasury bonds staged a surprise rally in October.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-02T18:13:00+00:00"
+    },
     {
       "title": "Oracle wants $20 billion to fund its AI future — and its stock is paying the price",
       "link": "https://www.marketwatch.com/story/oracles-stock-falls-as-the-company-details-plan-to-raise-20-billion-f03f5e16?mod=mw_rss_topstories",
@@ -7205,6 +7225,14 @@
       "title": "Unmanned SpaceX Starship misses landing again, explodes - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MeVI2U3ZZbDE5ZjlUX2JOaERGMWw1ai0zTnJweHJ1VmZfZkM5eVNua0djQXlmcFljbTItbFEtbmRlZUtRY3hOMWM5cGNEaTdOcU0wY3pEdEhHS0k?oc=5",
       "summary": "Unmanned SpaceX Starship misses landing again, explodes&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Tesla engineers show off prototype ventilator - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zQmFhUkdMLTNvV1ZUT3NBSk5TN3pQOXJYVjNwYlBHY0FMb0M3QW5EelpMcGFtUkdhN0xmNU1LX05PalhaR1FQeXB0TUdhOE93Wjlka1d2WTVMUU0?oc=5",
+      "summary": "Tesla engineers show off prototype ventilator&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-31T07:00:00+00:00"
