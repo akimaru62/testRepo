@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T02:22:38.762433+00:00",
+  "generated_at": "2026-11-02T02:33:06.177689+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -972,6 +972,22 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-02T02:22:33.439113+00:00"
+    },
+    {
+      "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+      "link": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+      "summary": "Article URL: https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/\nComments URL: https://news.ycombinator.com/item?id=50332163\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-02T01:59:38+00:00"
+    },
+    {
+      "title": "AI Can Write More of the Code. We Still Have to Engineer the System",
+      "link": "https://picon.dev/en/publications/ai-assisted-engineering/",
+      "summary": "Article URL: https://picon.dev/en/publications/ai-assisted-engineering/\nComments URL: https://news.ycombinator.com/item?id=50331998\nPoints: 6\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-02T01:35:02+00:00"
     },
     {
       "title": "エネルギー対策特別会計の借入金の入札予定（令和8年11月2日公表）",
@@ -4593,6 +4609,22 @@
       "title": "HSBC in blockchain first with trade finance deal - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoWDJIV2hBVks1Q0dDYmVUcklQSEFVb1doNzZLcGU5Q1ZabDRUczlmdmEyRHU4bzRLOTVndm9QYjR5S3llM01MeEM1dk1hZlR2ajVDLWZRbjM3X0E?oc=5",
       "summary": "HSBC in blockchain first with trade finance deal&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Ships, trains, caves: Traders ask where to put surplus oil - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KV1VMZHF6aUdGTXdKNGhHQ3F0SUw0bVNXYkMyNXFhM1kyVVRBN1UwZTVLdDNiSkI4ZjNDUWdSTnVIWm5SRmJrVTI5YnBsUHVkcmlrQTdXc0ZsMlU?oc=5",
+      "summary": "Ships, trains, caves: Traders ask where to put surplus oil&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Poverty collides with policy in Argentine race - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4RFh4U2NYNTZFUU5YemVwTDItd19pQm9ldXlnV3BQbFBvZXAyR09iSnQ5SkJLOEs0UXNkQU9HS2x0c3dmSTJ0Y085bDE1Q3JJZG44cDljTkh2dGM?oc=5",
+      "summary": "Poverty collides with policy in Argentine race&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-31T07:00:00+00:00"
