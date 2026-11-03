@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T16:05:34.038842+00:00",
+  "generated_at": "2026-11-03T16:18:55.122639+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -958,6 +958,30 @@
   ],
   "items": [
     {
+      "title": "３者協議控え欧州関与訴え　ウクライナ独首脳が会談",
+      "link": "https://www.jiji.com/jc/article?k=2026110300648&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-03T16:18:49.509746+00:00"
+    },
+    {
+      "title": "ＮＹ株２１３ドル高　原油安で３日ぶり反発",
+      "link": "https://www.jiji.com/jc/article?k=2026110300175&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-03T16:18:49.509713+00:00"
+    },
+    {
+      "title": "Seven aircraft grounded in Europe after bomb threats",
+      "link": "https://www.ft.com/content/f1122a7d-f27b-437f-84ba-59ea87e2ba17?syn-25a6b1a6=1",
+      "summary": "Planes searched after series of warnings received within hours",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-03T16:06:47+00:00"
+    },
+    {
       "title": "Arnis turns any place on Earth into a Minecraft world",
       "link": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
       "summary": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone.\nThe post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog.",
@@ -982,6 +1006,14 @@
       "published": "2026-11-03T15:49:02+00:00"
     },
     {
+      "title": "Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals",
+      "link": "https://concepts.laxmena.com/",
+      "summary": "Article URL: https://concepts.laxmena.com/\nComments URL: https://news.ycombinator.com/item?id=50353468\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-03T15:48:35+00:00"
+    },
+    {
       "title": "The State of Longevity: The healthmaxxing economy is here",
       "link": "https://www.a16z.news/p/the-state-of-longevity",
       "summary": "Article URL: https://www.a16z.news/p/the-state-of-longevity\nComments URL: https://news.ycombinator.com/item?id=50353465\nPoints: 3\n# Comments: 0",
@@ -1001,6 +1033,14 @@
       "title": "Are the Fridges Ok?",
       "link": "https://arethefridgesok.org/",
       "summary": "Article URL: https://arethefridgesok.org/\nComments URL: https://news.ycombinator.com/item?id=50353387\nPoints: 9\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-03T15:41:52+00:00"
+    },
+    {
+      "title": "Show HN: HackerChurn – which SaaS tools HN wants to cancel",
+      "link": "https://hissingkitty.com/hacker-churn",
+      "summary": "Article URL: https://hissingkitty.com/hacker-churn\nComments URL: https://news.ycombinator.com/item?id=50353386\nPoints: 8\n# Comments: 0",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-03T15:41:52+00:00"
@@ -1028,6 +1068,22 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-03T15:32:31+00:00"
+    },
+    {
+      "title": "Show HN: Kiri – an open-source container runtime in Rust, Docker run in 18 ms",
+      "link": "https://news.ycombinator.com/item?id=50353261",
+      "summary": "Hi HN. I built Kiri…\"), then add this line at the end:\nCode: https://github.com/libracoder/kiri · Download: https://runkiri.com\n\nComments URL: https://news.ycombinator.com/item?id=50353261\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-03T15:31:38+00:00"
+    },
+    {
+      "title": "Schools that block Google A.I. will lose student access to its search engine",
+      "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "summary": "https://archive.ph/RuwsB\n\nComments URL: https://news.ycombinator.com/item?id=50353192\nPoints: 43\n# Comments: 18",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-03T15:25:47+00:00"
     },
     {
       "title": "Marshall Wace and Millennium hit as hedge funds suffer in October’s AI rout",
