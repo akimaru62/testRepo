@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T11:47:45.080222+00:00",
+  "generated_at": "2026-11-03T12:07:54.429877+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -958,12 +958,52 @@
   ],
   "items": [
     {
+      "title": "Palantir stock is down 8%. Analysts say bookings growth is to blame.",
+      "link": "https://www.marketwatch.com/story/palantir-stock-is-down-8-analysts-say-bookings-growth-is-to-blame-0492921b?mod=mw_rss_topstories",
+      "summary": "Analysts at Morgan Stanley pointed to  a slowdown in a  number of bookings metrics in the third quarter as worth picking at.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-03T12:06:00+00:00"
+    },
+    {
+      "title": "Europe’s Permira Extends Its Wave of Exits to Corporate Buyers With Octus Sale",
+      "link": "https://www.wsj.com/pro/private-equity/europes-permira-extends-its-wave-of-exits-to-corporate-buyers-with-octus-sale-67e6133c?mod=rss_markets_main",
+      "summary": "The firm’s $3.54 billion sale of the credit specialist to London Stock Exchange Group marks the sixth sale this year to strategic buyers.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-03T12:06:00+00:00"
+    },
+    {
+      "title": "Sava Trust (YC F25) Is Hiring a Founding Engineer in NYC",
+      "link": "https://www.ycombinator.com/companies/sava-trust-company/jobs",
+      "summary": "Article URL: https://www.ycombinator.com/companies/sava-trust-company/jobs\nComments URL: https://news.ycombinator.com/item?id=50350924\nPoints: 0\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-03T12:01:01+00:00"
+    },
+    {
+      "title": "Central Banks Accelerated Gold Buying in Third Quarter",
+      "link": "https://www.wsj.com/finance/commodities-futures/central-banks-accelerated-gold-buying-in-third-quarter-eba253ff?mod=rss_markets_main",
+      "summary": "The institutions bought gold at the fastest pace since late 2024, as geopolitical risks and concerns over fiscal discipline bolstered  demand, the World Gold Council said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-03T11:57:00+00:00"
+    },
+    {
       "title": "アメリカ中間選挙の投票始まる　トランプ氏は最後まで激しい個人攻撃",
       "link": "https://www.asahi.com/articles/ASVC32576VC3UHBI01RM.html?ref=rss",
       "summary": "",
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-03T11:47:40.164817+00:00"
+    },
+    {
+      "title": "Sam Altman's Case Against Your RAM Is Efficient. That's the Problem",
+      "link": "https://www.techdirt.com/2026/11/02/sam-altmans-case-against-your-ram-is-efficient-thats-the-problem/",
+      "summary": "Article URL: https://www.techdirt.com/2026/11/02/sam-altmans-case-against-your-ram-is-efficient-thats-the-problem/\nComments URL: https://news.ycombinator.com/item?id=50350693\nPoints: 13\n# Comments: 17",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-03T11:32:43+00:00"
     },
     {
       "title": "McDonald’s Is Beefing Up, but It Won’t Be Cheap",
@@ -998,9 +1038,25 @@
       "published": "2026-11-03T11:17:36.030327+00:00"
     },
     {
+      "title": "Anthropic IPO filing: $1.7B quarterly payroll, about $107K per employee monthly",
+      "link": "https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html",
+      "summary": "Article URL: https://www.techspot.com/news/114428-anthropic-ipo-filing-reveals-17-billion-quarterly-personnel.html\nComments URL: https://news.ycombinator.com/item?id=50350560\nPoints: 11\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-03T11:16:07+00:00"
+    },
+    {
       "title": "UK PM moves to suspend parliament ahead of Brexit - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YdDBta2d6bERzQU9VTzZidmFtbmFxRWRTdm4zN3htRnBNUk85LWV5MEh6OXRyQm9rYl9PX3hEaEhtaTRFc1RWbUJiQ1dKc1FydVN4bVBvRXozMUk?oc=5",
       "summary": "UK PM moves to suspend parliament ahead of Brexit&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-03T11:07:57+00:00"
+    },
+    {
+      "title": "Raging heatwave raises Tokyo Olympics worries - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQRjM4cGc1MEVIY2JwYW03dTYyS09IQlZnQmNXQTBacmZsRzRTd2VyY2d3N1I3X0t6aFVpTkp3T09rWF82akZad2NCVk9SMGJGME02VXFoWnJrOFE?oc=5",
+      "summary": "Raging heatwave raises Tokyo Olympics worries&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-11-03T11:07:57+00:00"
@@ -1039,6 +1095,14 @@
     },
     {
       "title": "Americans begin voting in crucial midterm elections",
+      "link": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
+      "summary": "",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-03T10:52:57+00:00"
+    },
+    {
+      "title": "Americans begin voting in elections to decide control of Congress",
       "link": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
       "summary": "",
       "source": "Financial Times",
@@ -1276,6 +1340,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-03T08:00:00+00:00"
+    },
+    {
+      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+      "link": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+      "summary": "Article URL: https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html\nComments URL: https://news.ycombinator.com/item?id=50349276\nPoints: 22\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-03T07:56:21+00:00"
     },
     {
       "title": "U.S. Treasury Yields Rise as Markets Await Midterm Election Results",
