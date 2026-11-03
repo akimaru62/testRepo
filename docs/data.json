@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T00:13:41.467938+00:00",
+  "generated_at": "2026-11-03T00:39:58.853001+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -950,6 +950,14 @@
   ],
   "items": [
     {
+      "title": "Gold Edges Higher Amid Better Investor Sentiment",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-better-investor-sentiment-5fe76e34?mod=rss_markets_main",
+      "summary": "Gold edged higher in early Asian trade amid better investor sentiment.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-03T00:20:00+00:00"
+    },
+    {
       "title": "北朝鮮関与は「荒唐無稽」　金与正氏、バイナンスの暗号資産流出で",
       "link": "https://www.jiji.com/jc/article?k=2026110300189&g=int&m=rss",
       "summary": "",
@@ -1028,6 +1036,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-02T23:33:08.855988+00:00"
+    },
+    {
+      "title": "WorkOS reports security breach",
+      "link": "https://news.ycombinator.com/item?id=50345712",
+      "summary": "It's not on their website or Trust center yet, but we received the following breach notification from WorkOS:We are writing to notify you of a data security incident that we detected on October 30, 2026 and are continuing to investigate. We value your trust and want to keep you informed while our investigation continues.What HappenedOn October 30, 2026, at 16:39 UTC, WorkOS detected anomalous traffic to an internal business system. Our investigation identified evidence the attack was likely driven by ARTEX, an AI-assisted, autonomous penetration testing framework, from IP addresses based in Hong Kong and China.The unauthorized actor gained access to an internal API used by our sales and marketing tools. Through this service, it was able to access data from our Salesforce and Snowflake instances. These systems hold business contact information, account and commercial information, aggregated and de-identified product usage metrics, marketing contacts, and support tickets. This includes CRM information such as names, email addresses, phone numbers, company mailing addresses, and other business information for WorkOS customers.We have no evidence that your application data was accessed. We also have no evidence that any production WorkOS services were accessed or impacted. Our current analysis indicates this incident was localized to only CRM and customer support data....\n\nComments URL: https://news.ycombinator.com/item?id=50345712\nPoints: 17\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-02T23:30:59+00:00"
     },
     {
       "title": "｢活字離れ｣でも｢スマホのせい｣でも｢時間がない｣でもない､読書が進まない日本人の\"意外な理由\" | キャリア・教育 | 東洋経済オンライン",
@@ -1262,9 +1278,25 @@
       "published": "2026-11-02T22:13:42+00:00"
     },
     {
+      "title": "'Time will tell' results of Mueller report, D.C. says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSY3RXZ3hMREVXRlFscXZuZnp6Wm9zN3RMcHo3MTNVcERNNjJFYVFzbmp1cnB5RTJrXzQ0ZnlUQXVDamgxTlhOcklwUWRZOXdNZGY3V0ZOdXlINm8?oc=5",
+      "summary": "'Time will tell' results of Mueller report, D.C. says&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-02T22:11:48+00:00"
+    },
+    {
       "title": "Levi’s is back to mine the stock market - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xTFI1SElESUQ5bllGN2NPbWFWcjhTeHl3NEVBcFdvMzE4dHIyVE5NR1pWMFYtLV9zLXI1d2l6aDNqdUF2cV9PZHY1RE0yWk1sQVdMRGZ5OG9fUFU?oc=5",
       "summary": "Levi’s is back to mine the stock market&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-02T22:11:47+00:00"
+    },
+    {
+      "title": "Trump maps out fall of ISIS under Trump - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKNVhLX2gtbUpQYUx0TF9DeWJ3VE5sX2wzN24tWkpSNWpqQnd4WlZZeDUwSzQwWEk5eUk5ZG14OEJ5QUY5LVowNkVBTXNOem9TOXB5S09RMzhkWXc?oc=5",
+      "summary": "Trump maps out fall of ISIS under Trump&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-11-02T22:11:47+00:00"
@@ -3047,6 +3079,14 @@
     },
     {
       "title": "Stock Market Today: Apple Stock Slips After Earnings; Nasdaq Falls",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-02-2026?mod=rss_markets_main",
+      "summary": "Oil slides amid signs U.S., Iran could consider diplomacy",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-02T09:46:46+00:00"
+    },
+    {
+      "title": "Stock Market News, November 2, 2026: Apple Stock Slips After Earnings; Nasdaq Falls",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-02-2026?mod=rss_markets_main",
       "summary": "Oil slides amid signs U.S., Iran could consider diplomacy",
       "source": "WSJ マーケット",
@@ -8449,6 +8489,38 @@
       "title": "This is still a bear market - investor - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0aFc0d1Rhb3NmZnp0dVNVcTlQZDJhZ2JnSmROdUliYlIzbVYxZnctRURoNVN4SUVJeFFlREVtRnlKeHYyWko5N2h3UlFJVlBSZkVxcGQwZTA5Sjg?oc=5",
       "summary": "This is still a bear market - investor&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "NAFTA braces for next talks after Trump threat - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEUEEyZ3FqeVVmVGg2RkgxMmtXVWVpUkZNbU91d09ueXFBSUI3NkpqMDhVVWNVaS1tUWVZTjc5cmxtczJHQnExUVFqLVVFZE5YaVpJTDdfRXhqd2c?oc=5",
+      "summary": "NAFTA braces for next talks after Trump threat&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "'Two Popes' filmmakers hope Pope Francis is amused - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsNURrb3RfbFNEV1BPWDZSbU5OVXl1ZTEwaWxlQkhKQ1lzSEgtU1JhekIycnFlQ1FSekNGQTRyV1VFNFc2V1RXZFVQUGFnRUdQdU96U2VZTGR3czQ?oc=5",
+      "summary": "'Two Popes' filmmakers hope Pope Francis is amused&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Wall Street tumbles as U.S. virus cases climb - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05SDA4d1RvUHYyTzJOMkRndGdtbmlYV3I0R0FiSVo0RXZKdTlrMWpMMW9WZ0xYYzgwRThNUUU5bUVvRElBNVhWRTZzeDFjWTh4ZzdPRldZSV85eVU?oc=5",
+      "summary": "Wall Street tumbles as U.S. virus cases climb&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "title": "Adidas shares tank after coronavirus warning - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqTGYzdnhXSUJzeURpUWhJVTg4b1ZpM1d1aEFOdWVHaFhaMDVCUDZwS0wwNnktaWNmTkJuVXUwX3lpWVpPRHo2NVVDRTV2TXNidTZXS3BkZHBXaVk?oc=5",
+      "summary": "Adidas shares tank after coronavirus warning&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-10-31T07:00:00+00:00"
