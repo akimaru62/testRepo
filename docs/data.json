@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T16:47:37.977925+00:00",
+  "generated_at": "2026-11-03T17:04:48.991575+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -958,6 +958,38 @@
   ],
   "items": [
     {
+      "title": "Who Was President When Mortgage Rates Were Over 18%? Take Our Quiz",
+      "link": "https://www.wsj.com/politics/elections/quiz-politics-economy-elections-5d09fd3f?mod=rss_markets_main",
+      "summary": "Inflation, Herbert Hoover, tariffs: Test your knowledge of the midterms and the economy over the years.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-03T17:00:00+00:00"
+    },
+    {
+      "title": "U.S. jobs market perks up, but it’s still not a great time to get hired",
+      "link": "https://www.marketwatch.com/story/u-s-jobs-market-perks-up-but-its-still-not-a-great-time-to-get-hired-bc39f44f?mod=mw_rss_topstories",
+      "summary": "Job openings in the U.S. rose in September to a four-month high and hiring also increased, signaling mild but perhaps not sustainable improvement in a sluggish U.S. labor market.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-03T16:56:00+00:00"
+    },
+    {
+      "title": "U.S. clears path for first regulated equity perpetual futures",
+      "link": "https://www.marketwatch.com/story/u-s-clears-path-for-first-regulated-equity-perpetual-futures-6bb35905?mod=mw_rss_topstories",
+      "summary": "A trendy crypto-native trading product that has exploded in popularity on offshore venues is expanding its foothold in the U.S.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-03T16:46:00+00:00"
+    },
+    {
+      "title": "Gitbook Breached",
+      "link": "https://news.ycombinator.com/item?id=50354336",
+      "summary": "We opened a ticket with support about Gitbook availability issues and got this in reply. We have yet to see any official customer communication or breach notification. Apologies for the formatting, did the best I could as it's a mobile paste.Update:GitBook security incident update\n Hey ,\n The GitBook app, the GitBook API, and published docs are available again. A few services may still be degraded as we finish restoring everything to full performance.*What happened*\n GitBook has been the target of a sophisticated, highly targeted attack using AI agents. \n At 19:00 CET, November 2, the attacker gained unauthorized access to some of our infrastructure credentials. We detected the attack immediately and acted swiftly to block further impact. \n To make sure our infrastructure was fully secure, we then took the GitBook app and authenticated docs sites offline. We kept publicly published content live for as long as possible, using cached data.*What we did immediately*\n* Blocked the attacker and closed the vulnerabilities involved\n* Replaced every credential and secret across our infrastructure\n* Brought services back only once we were confident they were secure\n* Invalidated every customer’s API tokens on our platform*Your data*\n Our investigation shows that the attacker may have accessed the following:\n* Git Sync secrets.\n* GitBook API tokens.\n* Third-party API tokens used to connect external tools to GitBook.\n* Questions asked to GitBook Assistant by your site visitors.At this stage, we have found no evidence that any of your content in GitBook was modified.*What you need to do now*\n* Rotate any existing GitBook API tokens. We revoked all personal API tokens during the incident.\n* Rotate any third-party API tokens or secrets you use to connect other tools to GitBook.\n* If you have published integrations that use secrets, rotate those secrets.\n* If you use the GitBook MCP server, re-authenticate it.\n Please contact your GitBook organization’s admin to assist with this process.*What we are doing next*\n* Monitoring the situation in case of further attacks.\n* Introducing further security measures to our platform.\n* Writing a full post mortem that will be published soon with more detailed information about the incident.\n* If you have any further questions, please reach out to your account manager or our support team. You can also check status.gitbook.com for updatesThank you for your patience, and we apologize again for the disruption\n The GitBook team\n\nComments URL: https://news.ycombinator.com/item?id=50354336\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-03T16:45:49+00:00"
+    },
+    {
       "title": "３者協議控え欧州関与訴え　ウクライナ独首脳が会談",
       "link": "https://www.jiji.com/jc/article?k=2026110300648&g=int&m=rss",
       "summary": "",
@@ -1137,6 +1169,14 @@
       "title": "Designing responsible AI for learning",
       "link": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
       "summary": "Google Will Turn Off Search for Schools That Reject A.I.  https://www.nytimes.com/2026/11/03/us/google-search-schools-..., https://archive.ph/RuwsB\n\nComments URL: https://news.ycombinator.com/item?id=50353192\nPoints: 61\n# Comments: 33",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-03T15:25:47+00:00"
+    },
+    {
+      "title": "Schools that block Google’s A.I. will lose student access to its search engine",
+      "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "summary": "https://archive.ph/RuwsBhttps://blog.google/products-and-platforms/products/educatio...\n\nComments URL: https://news.ycombinator.com/item?id=50353192\nPoints: 98\n# Comments: 77",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-03T15:25:47+00:00"
@@ -1750,6 +1790,14 @@
       "published": "2026-11-03T10:52:57+00:00"
     },
     {
+      "title": "Americans vote in election that doubles as referendum on Trump’s presidency",
+      "link": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
+      "summary": "Republicans battle to retain majorities in Senate and House of Representatives",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-03T10:52:57+00:00"
+    },
+    {
       "title": "Thousands of Disney job cuts may be coming. Investors are asking what comes next.",
       "link": "https://www.marketwatch.com/story/thousands-of-disney-job-cuts-may-be-coming-investors-are-asking-what-comes-next-19cc0662?mod=mw_rss_topstories",
       "summary": "Reports that Walt Disney is poised to lay off thousands of workers wasn’t moving the needle for its languishing stock on Tuesday.",
@@ -1953,6 +2001,14 @@
       "title": "Stock Market Today: Stocks Mixed After Apple Earnings Disappoint",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-03-2026?mod=rss_markets_main",
       "summary": "Tech selloff pauses; oil extends losses; investors eye midterm elections",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-03T08:43:11+00:00"
+    },
+    {
+      "title": "Stock Market Today: Tech Stocks Rise Despite Apple Slump",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-03-2026?mod=rss_markets_main",
+      "summary": "Nasdaq selloff pauses as chip stocks gain and investors eye midterm elections",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-03T08:43:11+00:00"
