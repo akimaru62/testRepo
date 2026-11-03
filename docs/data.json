@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T19:47:54.116024+00:00",
+  "generated_at": "2026-11-03T20:05:51.436248+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -954,9 +954,29 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f53ee014050>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "堅調の新型｢ルークス｣は窮地の日産を支える救世主となれるのか？ 発売1年を経た販売台数から総括する | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963106?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "昨年9月に発売された日産の軽スーパーハイトワゴン｢ルークス｣。現在のところ販売は好調で､｢最も売れている日産車｣となっている。この軽自動車､窮地の日産を救える存在になるのだろうか。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-03T20:00:00+00:00"
+    },
+    {
+      "title": "An overlooked energy source could solve AI’s power crunch — and these 2 stocks are prime plays",
+      "link": "https://www.marketwatch.com/story/an-overlooked-energy-source-could-solve-ais-power-crunch-and-these-2-stocks-are-prime-plays-bc5d988a?mod=mw_rss_topstories",
+      "summary": "Geothermal technology is in the early stages of its own shale revolution, Morgan Stanley says.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-03T19:57:00+00:00"
+    },
     {
       "title": "Mark Walter in Talks to Sell Cadillac F1 Stake to Red Sox, Liverpool Owners",
       "link": "https://www.wsj.com/sports/cadillac-formula-one-mark-walter-john-henry-af86c109?mod=rss_markets_main",
@@ -966,12 +986,28 @@
       "published": "2026-11-03T19:33:00+00:00"
     },
     {
+      "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
+      "link": "https://flipper.net/pages/flipper-one",
+      "summary": "Article URL: https://flipper.net/pages/flipper-one\nComments URL: https://news.ycombinator.com/item?id=50356994\nPoints: 18\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-03T19:32:13+00:00"
+    },
+    {
       "title": "スペイン高速鉄道｢1年に2度も大事故｣の異常事態　信号システムトラブルは｢ほぼ2日に1回｣発生 | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/963220?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "スペインで10月28日､高速列車同士が衝突し､69人が死亡する大惨事となりました。スペインの高速鉄道では1月にも衝突事故が起きており､年間に2回の大事故は異常事態です。事故現場の状況､そして世界第2…",
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-03T19:30:00+00:00"
+    },
+    {
+      "title": "Introduction to Programming in ATS",
+      "link": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+      "summary": "Article URL: https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html\nComments URL: https://news.ycombinator.com/item?id=50356913\nPoints: 13\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-03T19:25:18+00:00"
     },
     {
       "title": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
