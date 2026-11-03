@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T04:47:28.461288+00:00",
+  "generated_at": "2026-11-03T05:06:04.478202+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -950,6 +950,14 @@
   ],
   "items": [
     {
+      "title": "Carl Icahn’s CVR Energy Near Over $4 Billion Deal for Marathon Refineries",
+      "link": "https://www.wsj.com/business/deals/carl-icahns-cvr-energy-near-over-4-billion-deal-for-marathon-refineries-e8487579?mod=rss_markets_main",
+      "summary": "The deal comes as global conflicts have boosted U.S. refiners’ sales.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-03T04:59:00+00:00"
+    },
+    {
       "title": "China’s Forward Earnings Outlook Continues to Soften",
       "link": "https://www.wsj.com/finance/stocks/australian-banks-outperforming-on-rotation-away-from-ai-04a0c978?mod=rss_markets_main",
       "summary": "China’s forward earnings outlook continues to soften, said BNP Paribas.",
@@ -1012,6 +1020,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-03T03:14:06+00:00"
+    },
+    {
+      "title": "Show HN: I built a little browser game to practice Vim commands",
+      "link": "https://hjkl.duy.run",
+      "summary": "I made hjkl to help myself remember Vim commands. It’s a little browser game you can play when you want to unwind and get a bit of Vim practice in.There are still a lot of commands I want to add, but I hope someone finds it useful in the meantime :)\n\nComments URL: https://news.ycombinator.com/item?id=50347552\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-03T03:10:04+00:00"
     },
     {
       "title": "Show HN: Rustable is an open source database client built in Rust",
