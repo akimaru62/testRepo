@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T14:33:38.412463+00:00",
+  "generated_at": "2026-11-03T14:48:03.288323+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -958,6 +958,46 @@
   ],
   "items": [
     {
+      "title": "タイ 輸入EVの物品税引き上げへ",
+      "link": "https://news.yahoo.co.jp/pickup/6601233?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-03T14:40:16+00:00"
+    },
+    {
+      "title": "Carl Icahn’s CVR Energy Strikes $4 Billion Deal for Two Marathon Refineries",
+      "link": "https://www.wsj.com/business/deals/carl-icahns-cvr-energy-near-over-4-billion-deal-for-marathon-refineries-e8487579?mod=rss_markets_main",
+      "summary": "The deal comes as global conflicts have boosted U.S. refiners’ sales.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-03T14:33:00+00:00"
+    },
+    {
+      "title": "Oil price extends decline to $103",
+      "link": "https://www.ft.com/content/d0ab9542-8542-4357-a534-ddbdd1a9678d?syn-25a6b1a6=1",
+      "summary": "Crude prices weaken on Tuesday following unconfirmed report of diplomatic progress in the Middle East",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-03T14:25:09+00:00"
+    },
+    {
+      "title": "Russia unleashes massive attack on Ukraine’s energy infrastructure",
+      "link": "https://www.ft.com/content/52c2f86b-46a8-4710-9c05-f186baf3827f",
+      "summary": "Power plants and substations hit in nine regions as Ukraine’s air force struggles to intercept missiles and drones",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-03T14:24:57+00:00"
+    },
+    {
+      "title": "Just a little AI resistance, as a treat",
+      "link": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
+      "summary": "Article URL: https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/\nComments URL: https://news.ycombinator.com/item?id=50352257\nPoints: 25\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-03T14:14:12+00:00"
+    },
+    {
       "title": "Oil Futures Resume Decline on Hopes for Diplomacy",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-as-market-tracks-mideast-developments-b95ca17a?mod=rss_markets_main",
       "summary": "Oil futures fell, giving up early gains, on optimism about diplomatic efforts toward an agreement between the U.S. and Iran.",
@@ -1004,6 +1044,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-03T13:31:00+00:00"
+    },
+    {
+      "title": "Anthropic's IPO Filing Warns It May Be 'Imminently' Close to RSI",
+      "link": "https://epyhia.com/anthropic-s-ipo-filing-warns-it-may-be-imminently-close-to-recursive",
+      "summary": "Article URL: https://epyhia.com/anthropic-s-ipo-filing-warns-it-may-be-imminently-close-to-recursive\nComments URL: https://news.ycombinator.com/item?id=50351712\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-03T13:26:43+00:00"
     },
     {
       "title": "It’s finally Election Day — and prediction markets may show ‘too much confidence in a good night for Democrats’",
@@ -7529,6 +7577,30 @@
       "title": "Amazon.com re-opens to Australians after backlash - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BR1VDaWdRZzBXa0V4TUdfTkVaWWZJcHB5WHBKbXBaY25qb2tsbTNyb0tlUXlURmpxSk45bEhJcWhhTEQza3M3cng5dmhXejM5bWlMVzI4ZnhzUzA?oc=5",
       "summary": "Amazon.com re-opens to Australians after backlash&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-01T07:00:00+00:00"
+    },
+    {
+      "title": "Prosecutors eye case against Nissan: Asahi - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UOTNVa0hDQ3dFdGduWWk1TVNQSHpvaHhxNFR2TjF0SlZXbzJ6Zm1TeHUyOURPR2FzbDY3OGkyNGx0SVQ4MzZVcTJPS2o5V0pwQk9aRmlPTmxRV28?oc=5",
+      "summary": "Prosecutors eye case against Nissan: Asahi&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-01T07:00:00+00:00"
+    },
+    {
+      "title": "Protectionist warnings sound as ASEAN leaders meet - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBISTRlaUJUUUxGT3VJR1dwTGxiOFRJYVFrak5nSXFrZV9HQVJLaUJwM185Q2huT1QwLXZqU1N3MFRyWEJmMnJFdEg0NldqRjZ2WkJCRVljVENsd3M?oc=5",
+      "summary": "Protectionist warnings sound as ASEAN leaders meet&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-01T07:00:00+00:00"
+    },
+    {
+      "title": "UK grows strongly in third-quarter, hints of tougher times ahead - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wS1NsaVJuOFl6T2Q5RGxJQjZTVzFjNmFYNzFhSi0wbjBLTWUzS2d2emtfd3NUQzJsUVZzYmljLTBldDgzXzRsY00yUzVSeURnMFc1MVJWQzhwTEU?oc=5",
+      "summary": "UK grows strongly in third-quarter, hints of tougher times ahead&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-11-01T07:00:00+00:00"
