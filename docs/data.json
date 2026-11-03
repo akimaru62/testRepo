@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T15:47:54.669944+00:00",
+  "generated_at": "2026-11-03T16:05:34.038842+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -958,12 +958,68 @@
   ],
   "items": [
     {
+      "title": "Arnis turns any place on Earth into a Minecraft world",
+      "link": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
+      "summary": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone.\nThe post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "category": "開発者向け",
+      "published": "2026-11-03T16:00:00+00:00"
+    },
+    {
+      "title": "Precious Metals Fall Back Amid Oil Volatility",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-better-investor-sentiment-5fe76e34?mod=rss_markets_main",
+      "summary": "Precious metals pulled back from the previous session’s gains as a volatile oil market kept alive concerns about inflation and higher interest rates.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-03T16:00:00+00:00"
+    },
+    {
+      "title": "Quili AI",
+      "link": "https://www.quili.ai/",
+      "summary": "Article URL: https://www.quili.ai/\nComments URL: https://news.ycombinator.com/item?id=50353475\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-03T15:49:02+00:00"
+    },
+    {
+      "title": "The State of Longevity: The healthmaxxing economy is here",
+      "link": "https://www.a16z.news/p/the-state-of-longevity",
+      "summary": "Article URL: https://www.a16z.news/p/the-state-of-longevity\nComments URL: https://news.ycombinator.com/item?id=50353465\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-03T15:48:31+00:00"
+    },
+    {
       "title": "The Texas governor’s race might be a make-or-break contest for a wobbling AI trade",
       "link": "https://www.marketwatch.com/story/the-texas-governors-race-might-be-a-make-or-break-contest-for-a-wobbling-ai-trade-7764aa29?mod=mw_rss_topstories",
       "summary": "Democrats are favored to take both the House and Senate in Tuesday’s U.S. midterm election, but there is another race to which artificial-intelligence investors should be paying close attention.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-03T15:44:00+00:00"
+    },
+    {
+      "title": "Are the Fridges Ok?",
+      "link": "https://arethefridgesok.org/",
+      "summary": "Article URL: https://arethefridgesok.org/\nComments URL: https://news.ycombinator.com/item?id=50353387\nPoints: 9\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-03T15:41:52+00:00"
+    },
+    {
+      "title": "No Brother of Mine Will Play the Flute",
+      "link": "https://homosabiens.substack.com/p/no-brother-of-mine-will-play-the",
+      "summary": "Article URL: https://homosabiens.substack.com/p/no-brother-of-mine-will-play-the\nComments URL: https://news.ycombinator.com/item?id=50353360\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-03T15:40:04+00:00"
+    },
+    {
+      "title": "AI is destroying my CS degree",
+      "link": "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/",
+      "summary": "Article URL: https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/\nComments URL: https://news.ycombinator.com/item?id=50353300\nPoints: 21\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-03T15:35:06+00:00"
     },
     {
       "title": "Trump says US will end military aid to Israel by end of the year",
@@ -1068,6 +1124,22 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-03T15:01:00+00:00"
+    },
+    {
+      "title": "Handles are the better pointers (2018)",
+      "link": "https://floooh.github.io/2018/06/17/handles-vs-pointers.html",
+      "summary": "Article URL: https://floooh.github.io/2018/06/17/handles-vs-pointers.html\nComments URL: https://news.ycombinator.com/item?id=50352767\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-03T14:54:30+00:00"
+    },
+    {
+      "title": "Mac at Any Scale",
+      "link": "https://namespace.so/blog/mac-at-any-scale",
+      "summary": "Article URL: https://namespace.so/blog/mac-at-any-scale\nComments URL: https://news.ycombinator.com/item?id=50352758\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-03T14:53:42+00:00"
     },
     {
       "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
