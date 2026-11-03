@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T15:33:29.586725+00:00",
+  "generated_at": "2026-11-03T15:47:54.669944+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -958,6 +958,30 @@
   ],
   "items": [
     {
+      "title": "The Texas governor’s race might be a make-or-break contest for a wobbling AI trade",
+      "link": "https://www.marketwatch.com/story/the-texas-governors-race-might-be-a-make-or-break-contest-for-a-wobbling-ai-trade-7764aa29?mod=mw_rss_topstories",
+      "summary": "Democrats are favored to take both the House and Senate in Tuesday’s U.S. midterm election, but there is another race to which artificial-intelligence investors should be paying close attention.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-03T15:44:00+00:00"
+    },
+    {
+      "title": "Trump says US will end military aid to Israel by end of the year",
+      "link": "https://www.ft.com/content/2f1a826a-5d98-47ba-be3f-5d21edce89c8?syn-25a6b1a6=1",
+      "summary": "President makes surprise announcement to halt $4bn annual funding, which has featured prominently in midterm campaigning",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-03T15:32:31+00:00"
+    },
+    {
+      "title": "Marshall Wace and Millennium hit as hedge funds suffer in October’s AI rout",
+      "link": "https://www.ft.com/content/fae029f1-f03e-4509-852e-396fa4863271?syn-25a6b1a6=1",
+      "summary": "Wall Street’s tech correction and bond market turbulence spark losses for sector",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-03T15:21:33+00:00"
+    },
+    {
       "title": "松井監督、熱心に打撃指導　恩師譲りの「擬音」も―プロ野球・巨人",
       "link": "https://www.jiji.com/jc/article?k=2026110300631&g=spo&m=rss",
       "summary": "",
@@ -1006,6 +1030,22 @@
       "published": "2026-11-03T15:17:28.011101+00:00"
     },
     {
+      "title": "Tiny Basic for Arduino",
+      "link": "https://dilshan.github.io/tiny-basic/",
+      "summary": "Article URL: https://dilshan.github.io/tiny-basic/\nComments URL: https://news.ycombinator.com/item?id=50353073\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-03T15:17:07+00:00"
+    },
+    {
+      "title": "Only 0.5% of 383,000 CVEs are ever exploited in real-world attacks",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/",
+      "summary": "Article URL: https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/\nComments URL: https://news.ycombinator.com/item?id=50353072\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-03T15:17:02+00:00"
+    },
+    {
       "title": "5 questions to ask if your boss offers you a buyout, as Microsoft did with 60,000 employees",
       "link": "https://www.marketwatch.com/story/5-questions-to-ask-if-your-boss-offers-you-a-buyout-as-microsoft-did-with-60-000-employees-03d037a5?mod=mw_rss_topstories",
       "summary": "Two days after Microsoft asked more than a quarter of its workers if they’d take a buyout, it reported $45.2 billion in capital spending in a single quarter, most of it for AI.",
@@ -1028,6 +1068,22 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-03T15:01:00+00:00"
+    },
+    {
+      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "link": "https://news.ycombinator.com/item?id=50352757",
+      "summary": "My company is pretty paranoid about leaking IP to the frontier labs through prompts, so we've all been diligent about disabling data sharing in Codex/Claude Code/etc. But yesterday my coworkers and I noticed that the setting had been silently reenabled in Codex. None of us knowingly opted back in.You can check your settings here: https://chatgpt.com/settings/data-controls. Look for \"Improve the model for everyone\".Curious if this is an isolated issue or something more widespread.EDIT: looks like this has been noted before https://news.ycombinator.com/item?id=49643556EDIT: apparently you can also turn off data sharing here: https://privacy.openai.com/policies?modal=take-control\n\nComments URL: https://news.ycombinator.com/item?id=50352757\nPoints: 17\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-03T14:53:41+00:00"
+    },
+    {
+      "title": "The AI Bubble Monitor",
+      "link": "https://cepr.net/publications/ai-bubble-monitor/",
+      "summary": "Article URL: https://cepr.net/publications/ai-bubble-monitor/\nComments URL: https://news.ycombinator.com/item?id=50352727\nPoints: 12\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-03T14:51:31+00:00"
     },
     {
       "title": "How common are national exit taxes?",
