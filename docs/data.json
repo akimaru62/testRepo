@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T07:05:54.160370+00:00",
+  "generated_at": "2026-11-03T07:18:36.273276+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -946,9 +946,29 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7fafe0050050>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "豪中銀、政策金利４．８５％に　１８年ぶり高水準",
+      "link": "https://www.jiji.com/jc/article?k=2026110300432&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-03T07:18:23.810625+00:00"
+    },
+    {
+      "title": "【速報】サッカーのアジア・カップ、来年１２月に延期",
+      "link": "https://www.jiji.com/jc/article?k=2026110300439&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-03T07:18:23.810595+00:00"
+    },
     {
       "title": "トヨタの豊田章男会長に旭日大綬章　「もっといいクルマ」商品力強化",
       "link": "https://www.asahi.com/articles/ASVC323S8VC3ULFA009M.html?ref=rss",
