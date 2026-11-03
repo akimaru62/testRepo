@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T07:33:28.666791+00:00",
+  "generated_at": "2026-11-03T07:47:52.745558+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -954,12 +954,52 @@
   ],
   "items": [
     {
+      "title": "U.S. Treasury Yields Rise as Markets Await Midterm Election Results",
+      "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-rise-as-markets-await-midterm-election-results-ddbae162?mod=rss_markets_main",
+      "summary": "Treasury yields rose in early European trade as U.S. voters go to the polls in the midterm elections Tuesday, while oil prices rebounded slightly from their sharp fall on Monday.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-03T07:44:00+00:00"
+    },
+    {
+      "title": "【組織の重大欠陥】侵入口も原因も不明､2カ月半放置された理由も調査中…GMOは明らかに優先順位を間違えている | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963399?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "GMOインターネットグループの熊谷正寿代表が､不正アクセス事件を巡り初めて公の場で謝罪。しかし3時間半に及ぶ会見では､被害の核心や再発防止策よりも自身の人生観やAI時代の難しさに焦点が当てられました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-03T07:37:00+00:00"
+    },
+    {
+      "title": "uBlock Origin filter to block autoplay videos in TechCrunch",
+      "link": "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
+      "summary": "Article URL: https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html\nComments URL: https://news.ycombinator.com/item?id=50349155\nPoints: 10\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-03T07:36:47+00:00"
+    },
+    {
       "title": "サッカー・アジア杯、来年１２月に延期　森保監督が最後の指揮予定",
       "link": "https://www.jiji.com/jc/article?k=2026110300439&g=spo&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-03T07:33:24.427867+00:00"
+    },
+    {
+      "title": "Oil prices steady at $106 after sharp declines on US-Iran hopes",
+      "link": "https://www.ft.com/content/d0ab9542-8542-4357-a534-ddbdd1a9678d?syn-25a6b1a6=1",
+      "summary": "Crude prices stabilise on Tuesday as traders await developments in the Middle East",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-03T07:32:45+00:00"
+    },
+    {
+      "title": "【詳細解説】最初の侵入口も原因も不明…GMOグループ3時間半謝罪会見で判明した｢優先順位の倒錯｣と｢組織の重大欠陥｣ | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963394?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "3時間半の会見で明らかになったのは､原因究明や具体的対策よりも創業者個人の想いばかりでした。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-03T07:30:00+00:00"
     },
     {
       "title": "豪中銀、政策金利４．８５％に　１８年ぶり高水準",
