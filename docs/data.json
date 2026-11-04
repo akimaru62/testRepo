@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T23:32:48.909325+00:00",
+  "generated_at": "2026-11-04T23:47:43.723227+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -961,6 +961,14 @@
     }
   ],
   "items": [
+    {
+      "title": "Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg",
+      "link": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/",
+      "summary": "You can now migrate existing Apache Hive datasets in Amazon S3 to fully managed Apache Iceberg tables in Amazon S3 Tables, with no pipelines to build or compute to provision, while production workloads keep running.",
+      "source": "AWS ブログ (AWS)",
+      "category": "テクノロジー",
+      "published": "2026-11-04T23:34:52+00:00"
+    },
     {
       "title": "対イラン作戦に終結圧力　トランプ氏、軍事・外交で行き詰まり―米中間選挙",
       "link": "https://www.jiji.com/jc/article?k=2026110401036&g=int&m=rss",
