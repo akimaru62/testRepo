@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T19:18:13.211023+00:00",
+  "generated_at": "2026-11-04T19:33:47.910056+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -978,6 +978,14 @@
       "published": "2026-11-04T18:57:00+00:00"
     },
     {
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "link": "https://www.ricursive.com/ripple",
+      "summary": "Article URL: https://www.ricursive.com/ripple\nComments URL: https://news.ycombinator.com/item?id=50369925\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T18:53:29+00:00"
+    },
+    {
       "title": "Conductor Is Joining Meta",
       "link": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta",
       "summary": "Article URL: https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta\nComments URL: https://news.ycombinator.com/item?id=50369840\nPoints: 5\n# Comments: 3",
@@ -1056,6 +1064,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-04T18:29:00+00:00"
+    },
+    {
+      "title": "バンス副大統領、共和党敗北は「イラン戦争が原因」 トランプ氏と一線 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV3ZxaVBsZHlSa3FSWThvOTFiQnBkZ2xyWXBRR2dzMFI3UngwREQwVkhFRjVyODVyeE5Pem5VanR6MC1YS2NzajNuYlhJRzg5VEhfTlVseW5OX0ZYN2MtSS1XY3JmSzJVU2o2eXJmMFR5YjNDWVpPN1VpTmhBRFJTSHhvM2pKdw?oc=5",
+      "summary": "バンス副大統領、共和党敗北は「イラン戦争が原因」 トランプ氏と一線&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-04T18:22:13+00:00"
     },
     {
       "title": "Benchfmt.rs: Bringing Go's benchmarking and benchstat workflow to Rust",
