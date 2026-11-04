@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T10:47:34.810365+00:00",
+  "generated_at": "2026-11-04T11:05:46.821780+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -962,12 +962,28 @@
   ],
   "items": [
     {
+      "title": "U.S. jobless claims jump to nearly 1 million - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52VUpiUlhzcFp1eG5LSlNyVWxtejN5VmNIUjV0eEozTG5MQTYxaFFRUW5YR2JCbHBGMDJ0aXF5RWRpWVEyRnMwbXpSTjdXY3JYZXNCR3VraTZEbFE?oc=5",
+      "summary": "U.S. jobless claims jump to nearly 1 million&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-04T11:03:36+00:00"
+    },
+    {
       "title": "バンス副大統領地元で共和敗北　激戦州も次々民主に―米中間選挙",
       "link": "https://www.jiji.com/jc/article?k=2026110400120&g=int&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-04T10:47:30.043845+00:00"
+    },
+    {
+      "title": "Dollar, Treasury Yields Fall as Democratic Sweep Could Reduce Rate-Rise Prospects",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-amid-focus-on-u-s-midterms-143da6ea?mod=rss_markets_main",
+      "summary": "The DXY dollar index fell 0.5% to 101.317. The Democratic sweep in the U.S. midterm elections could reduce the prospect of further rate rises by the Fed, weakening the currency, XM said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-04T10:47:00+00:00"
     },
     {
       "title": "神戸阪急の新館東ビル、27年春に営業終了　無印良品など移設検討",
@@ -1088,6 +1104,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-04T10:10:49+00:00"
+    },
+    {
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "link": "https://news.ycombinator.com/item?id=50363461",
+      "summary": "If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sessions. These chat transcripts may even be read by human reviewers. Although Google claims to disconnect them from your account when human-reviewed, they explicitly warn not to enter confidential information.https://support.google.com/gemini/answer/16836988“[Gemini app activity] is used to improve Google services for everyone, including by training generative AI models, if your Keep Activity setting is on.“https://support.google.com/gemini/answer/13594961?hl=en#human_review“A subset of chats are reviewed by human reviewers”https://support.google.com/gemini/answer/13594961?hl=en#pn_retain_data“Chats reviewed by human reviewers [...] are not deleted when you delete your activity. Instead, they are retained for up to three years.”https://support.google.com/gemini/answer/13594961?hl=en#pn_data_usage“Please don’t enter confidential information that you wouldn’t want a reviewer to see or Google to use to improve our services, including machine-learning technologies.”To disable their training on your chat sessions, you need to turn off “Keep activity” in Gemini’s settings. Turning that off means you’ll lose any chat session after 72 hours.I learned this too late, thinking that having a paid subscription = not being turned into the product. Apparently paying is not enough.Thank you to this user on HN for mentioning in another thread: https://news.ycombinator.com/item?id=50355424\n\nComments URL: https://news.ycombinator.com/item?id=50363461\nPoints: 13\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T10:10:27+00:00"
     },
     {
       "title": "Growth Implications of Democratic Sweep Key For Dollar Outlook",
@@ -1949,6 +1973,14 @@
       "title": "Wall Street climbs as oil stocks rally - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tNWJfVWY0VFdRcGRVZFpTNHB1bHpZZFVIYmZaOVlwVEVlaTFxR0NEN3B3dTlhTEV6OHZ0ZGJGM1FTRDVrSkhDU3BfcXVnOTMzN3gzZVJoZnBDdkU?oc=5",
       "summary": "Wall Street climbs as oil stocks rally&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-04T04:52:00+00:00"
+    },
+    {
+      "title": "Stocks post biggest drop in three months - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QQ21QaG1veUdLU2lRemxDR213cmxpWU5abVNLZUJQLWlLX19CdmNEQm1WSm1IVnNORmN4R0NObmNYRFlCQVM3S18zX0hIMGdFZE5XeGd4V2RkMTQ?oc=5",
+      "summary": "Stocks post biggest drop in three months&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-11-04T04:52:00+00:00"
@@ -8693,6 +8725,14 @@
       "title": "Africa business: five stories making headlines - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoNnI5UnFQbGJRYlRfbFNHLVNsVkgwYTA0SHJydXZoUnlid1o4ZlZVTUczTGhrNWhkRlVzQjRqTnRaSkY5M3owV0NITzNqbXRZVlhvNzZuNTNsRHhGbnk5TDdEVmlWQQ?oc=5",
       "summary": "Africa business: five stories making headlines&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-02T08:00:00+00:00"
+    },
+    {
+      "title": "Volkswagen's profit halves, deliveries recovering - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXUVc0NGVTelE1LTFrQk41Q3p6X3lBdnZqdGFEellmRTRTTEVsSndBUFlJa213LUVZRDNRWlRIZlcxN2NxWklndDllS0tMWG9DOE1mRG5TMklIUlk?oc=5",
+      "summary": "Volkswagen's profit halves, deliveries recovering&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-11-02T08:00:00+00:00"
