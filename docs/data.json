@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T21:04:29.537637+00:00",
+  "generated_at": "2026-11-04T21:17:39.024260+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -962,12 +962,132 @@
   ],
   "items": [
     {
+      "title": "首相動静（１１月４日）",
+      "link": "https://www.jiji.com/jc/article?k=2026110400214&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-04T21:17:34.339717+00:00"
+    },
+    {
+      "title": "ハリボテだった「強い米国」　極まる富と力の集中、修復の兆しどこに",
+      "link": "https://www.asahi.com/articles/ASVC43DN2VC4ULFA01YM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-04T21:17:34.021570+00:00"
+    },
+    {
+      "title": "情報流出にあったら…金銭で補償してもらえる？　額はどう決まるのか",
+      "link": "https://www.asahi.com/articles/ASVC32V2KVC3ULFA02HM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-04T21:17:34.021554+00:00"
+    },
+    {
+      "title": "北米HV好調、中国は苦戦…トヨタ中間決算きょう発表　今後の展望は",
+      "link": "https://www.asahi.com/articles/ASVC32GTZVC3ULFA01TM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-04T21:17:34.021523+00:00"
+    },
+    {
+      "title": "Hospital stocks rallied while drugmakers brace for scrutiny. Here’s what the Democratic wave means for healthcare.",
+      "link": "https://www.marketwatch.com/story/hospital-stocks-rally-while-drugmakers-brace-for-scrutiny-heres-what-the-democratic-wave-means-for-healthcare-625b79f3?mod=mw_rss_topstories",
+      "summary": "The Democratic victory in the midterm elections could be a huge boon to the nation’s largest hospitals.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-04T21:10:00+00:00"
+    },
+    {
+      "title": "Billionaires aren’t off the hook for higher taxes, even if they did dodge California’s wealth tax",
+      "link": "https://www.marketwatch.com/story/billionaires-arent-off-the-hook-for-higher-taxes-even-if-they-did-dodge-californias-wealth-tax-a73f9045?mod=mw_rss_topstories",
+      "summary": "Silicon Valley spent big to kill California’s wealth tax — but incoming Democrats are eyeing a national fight.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-04T21:10:00+00:00"
+    },
+    {
+      "title": "【岩国高校】時代を刻んだ卒業生ファイル#15《朝ドラ『ブラッサム』モデルの作家･宇野千代､サッカーの岩政大樹…》 | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961918?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "山口県岩国市にある県立岩国高校は､146年の伝統と数多くの著名人輩出歴を誇ります。宇野千代や大庭みな子をはじめとした作家から､五輪金メダリスト､経済界･学術界の第一線で活躍する卒業生まで､多彩な人材…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-04T21:05:00+00:00"
+    },
+    {
+      "title": "民主党圧勝で高まる〈AI規制への警戒〉は過剰反応なのか？日経平均3000円超一時急落…巨額投資を支える｢循環資金｣の穴 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963576?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2026年米中間選挙で民主党が歴史的圧勝を遂げる中､AI投資規制への懸念から日経平均が急落しました。株価はトランプ氏の敗北宣言で一時持ち直しましたが､AIを取り巻く不安定な金融環境や規制の行方は予断…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-04T21:00:00+00:00"
+    },
+    {
+      "title": "｢投機の円買いで円高｣論に死角あり…混乱のフランスと日本､どちらがより脆弱か？目をそらしていないか｢実需の円売り｣ | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963476?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "アメリカ中間選挙を背景に揺れるドル円相場。投機筋の円買いが進む中､市場では円高への反転か円安再開かで意見が割れています。歴史的な円ロング積み上げとフランス混乱の影響､日本経済の脆弱性にどう向き合うべ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-04T21:00:00+00:00"
+    },
+    {
+      "title": "〈きょう求刑〉洋上風力汚職裁判で浮かぶ政策決定の舞台裏…三菱商事3海域独占への怨嗟と官民協議会をめぐる黒い霧 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963428?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "洋上風力をめぐって贈賄の見返りに国会質問を行わせたとする洋上風力汚職事件の裁判で、きょう11月5日、検察から論告求刑が行われる。受託収賄罪で秋本真利元衆議院議員が、贈賄罪で日本風力開発の塚脇正幸元社…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-04T21:00:00+00:00"
+    },
+    {
+      "title": "〈6年連続シェア1位〉日焼け止め｢ビオレUV｣の伸ばし方､脱･季節商品と価格バランスに込めた花王の矜持 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963269?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "花王が日用品の中で成長領域に位置づけるのが､日焼け止めです。日焼け止めはレジャー時だけでなく､通勤や通学といった日常生活にも欠かせない存在となっています。｢ビオレUV｣シリーズが成長できている背景に…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-04T21:00:00+00:00"
+    },
+    {
+      "title": "｢黒衣から脱却したい｣…三菱HCキャピタル･久井大樹社長が見据える｢リースの次｣と新たな成長戦略 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963246?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "――リース会社の業容は、以前とは様変わりしています。リース業界は世の中から「過小評価」されている。実際、業務は「縁の下の力持ち」のような役割が多いために認知度が低い。IR（投資家向け広報）でも、事業…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-04T21:00:00+00:00"
+    },
+    {
+      "title": "\"永遠の化学物質\"PFAS､アメリカでは100億ドル超の和解事例も日本では有害性評価一致せず膠着状態 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962794?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "「現時点ではPFOAによる健康被害が生じているとは認識していません」。今年6月に開催された定時株主総会で、ダイキン工業の竹中直文社長はそう強調した。ダイキンの淀川製作所（大阪府摂津市）の周辺の地下水…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-04T21:00:00+00:00"
+    },
+    {
+      "title": "福岡の｢81歳の宇宙人｣が焼く《行列が絶えない絶品ハンバーガー》､国内や海外にも\"弟子\"が増える背景 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962649?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "福岡市の西公園。そこには行列の絶えないハンバーガー屋さんがあります。｢今屋のハンバーガー｣の店主､81歳の今崎さんに話を聞きました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-04T21:00:00+00:00"
+    },
+    {
       "title": "Oil Futures Fall As Democrats Win U.S. Congress",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-fall-as-u-s-midterm-results-unfold-0e45fbe8?mod=rss_markets_main",
       "summary": "Oil futures fell after the Democrats won control of the U.S. Congress, raising hopes for a settlement to the Middle East conflict, while diplomatic efforts continued in the region.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-04T20:59:00+00:00"
+    },
+    {
+      "title": "‘Rupert does not want to be with a loser’: Murdoch’s media empire cools on Trump",
+      "link": "https://www.ft.com/content/ead0309f-537a-4cc1-9d65-a3b9de01e69d?syn-25a6b1a6=1",
+      "summary": "Fox News hosts question Iran war strategy while New York Post has ‘Blue Tsunami’ on front page after Republicans’ defeat",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-04T20:58:24+00:00"
     },
     {
       "title": "AstraZeneca Made $10 Billion Offer for Rhythm Pharmaceuticals",
@@ -984,6 +1104,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-04T20:47:00+00:00"
+    },
+    {
+      "title": "Residential Proxies Detected on White House Network",
+      "link": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "summary": "Article URL: https://layer3intel.com/blog/residential-proxies-white-house-network\nComments URL: https://news.ycombinator.com/item?id=50371246\nPoints: 30\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T20:45:18+00:00"
     },
     {
       "title": "絶好調の経済は台湾統一地方選挙にどう影響するのか…与野党にバラマキ合戦気配ある中で頼政権が進める新たな統治戦略 | 政治・経済・投資 | 東洋経済オンライン",
@@ -3821,6 +3949,14 @@
       "title": "Stock Market Today: Dow Jumps More Than 1,500 Points, Oil Slides After Democrats Sweep Congress",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-04-2026?mod=rss_markets_main",
       "summary": "Crude drops 8% on hopes of Iran war ending; Nasdaq, S&amp;P 500 rally",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-04T03:22:53+00:00"
+    },
+    {
+      "title": "Stock Market Today: Dow Jumps to Best Day in 18 Months, Oil Slides",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-04-2026?mod=rss_markets_main",
+      "summary": "After Democrats win midterms, crude drops 8.7% on hopes of Iran war ending",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-04T03:22:53+00:00"
