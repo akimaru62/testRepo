@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T00:13:45.970801+00:00",
+  "generated_at": "2026-11-04T00:39:01.691363+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -962,6 +962,38 @@
   ],
   "items": [
     {
+      "title": "国債金利情報(令和8年11月2日)",
+      "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-04T00:30:00+00:00"
+    },
+    {
+      "title": "Polls begin to close in high-stakes vote for control of US Congress",
+      "link": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
+      "summary": "Republicans and Democrats in battle for Senate and House of Representatives",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-04T00:27:11+00:00"
+    },
+    {
+      "title": "自治体システム移行費巡り調査へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601258?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-04T00:20:10+00:00"
+    },
+    {
+      "title": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
+      "link": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
+      "summary": "The chip maker is showing “real” revenue from AI, shrugging off sustainability concerns and leading to an upbeat forecast.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-04T00:17:00+00:00"
+    },
+    {
       "title": "８０００メートル峰に６座追加？　ネパール提案、観光振興狙い",
       "link": "https://www.jiji.com/jc/article?k=2026110300420&g=int&m=rss",
       "summary": "",
@@ -1205,6 +1237,14 @@
       "title": "Psychic cat picks winner of World Cup opener - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtM1FCYXpDOG5wVUlIalJrcHNLaXNqdklxUHVTak1IeUV0cU9RTFNEU29RekE3Ry13dGVjT2s1NWZXQXhTMDY0eUFfdmdEZVJ3V0otcVo1TjE4VHM?oc=5",
       "summary": "Psychic cat picks winner of World Cup opener&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-03T23:15:31+00:00"
+    },
+    {
+      "title": "BP bets on electric car switch with UK's Chargemaster - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12dmdUSmZ0a0Q1bE9qZ050d3RRT2hZZHRoZ2RkZ29zQWxHX0pKTUEwU1NYX3AxamZNb2tKTXZvRVFjU0dFMWx6LUVZam9icUtaYUxzX1hGVHA3dms?oc=5",
+      "summary": "BP bets on electric car switch with UK's Chargemaster&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-11-03T23:15:31+00:00"
@@ -9925,6 +9965,14 @@
       "title": "Obama on the GOP: \"This is not normal\" - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rcGNMaFBhRC0yOXZRTy1rVzhJYnRfMHZKdHlXbmd1QlVQOXBDSWZJczUwRGZTR3lhTmhORHFJQWZma2d4T21taDdPZGg4WEs4ZGR5aDFtelM2ZGc?oc=5",
       "summary": "Obama on the GOP: \"This is not normal\"&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-01T07:00:00+00:00"
+    },
+    {
+      "title": "German economy past worst, but rebound fragile - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90cEY1TGg3cWlZbFVScjRHTlRHdGxmN3J1Y0xLVFdpZFduV0ZUT1ktd1VSXzJ0OUZCcXk2cWFlckt2M0hkd0tieWQ3a1lFRTdGVk5rOTJLazVLaVE?oc=5",
+      "summary": "German economy past worst, but rebound fragile&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-11-01T07:00:00+00:00"
