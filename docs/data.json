@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T11:05:46.821780+00:00",
+  "generated_at": "2026-11-04T11:19:28.151143+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -962,12 +962,52 @@
   ],
   "items": [
     {
+      "title": "拳銃奪い自ら撃つ　休暇中の警察官、意識不明―埼玉県警",
+      "link": "https://www.jiji.com/jc/article?k=2026110401097&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-04T11:19:23.352750+00:00"
+    },
+    {
+      "title": "The AI trade has been ‘sold to death’ but Goldman strategist highlights silver lining from Democratic sweep",
+      "link": "https://www.marketwatch.com/story/the-ai-trade-has-been-sold-to-death-but-goldman-strategist-highlights-silver-lining-from-democratic-sweep-3d1d6f07?mod=mw_rss_topstories",
+      "summary": "Corporate decision makers may decide to accelerate their plans to expand compute capacity and take advantage of the status quo rather than risk a new administration and different rules in 2029",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-04T11:10:00+00:00"
+    },
+    {
+      "title": "Google to Invest $15 Billion in Malaysia Over Two Years",
+      "link": "https://www.wsj.com/tech/google-to-invest-15-billion-in-malaysia-over-two-years-0c7400dd?mod=rss_markets_main",
+      "summary": "Alphabet’s Google will invest $15 billion in Malaysia over 2027 and 2028 to expand its digital infrastructure, develop local talent and support clean-energy and water initiatives.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-04T11:06:00+00:00"
+    },
+    {
       "title": "U.S. jobless claims jump to nearly 1 million - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52VUpiUlhzcFp1eG5LSlNyVWxtejN5VmNIUjV0eEozTG5MQTYxaFFRUW5YR2JCbHBGMDJ0aXF5RWRpWVEyRnMwbXpSTjdXY3JYZXNCR3VraTZEbFE?oc=5",
       "summary": "U.S. jobless claims jump to nearly 1 million&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-11-04T11:03:36+00:00"
+    },
+    {
+      "title": "RTX 5090 Street Prices Top $9k as Nvidia GPU Costs Climb",
+      "link": "https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb",
+      "summary": "Article URL: https://aroundprague.cz/en/news/us/rtx-5090-street-prices-top-9-000-as-nvidia-gpu-costs-climb\nComments URL: https://news.ycombinator.com/item?id=50363861\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T11:02:23+00:00"
+    },
+    {
+      "title": "Europe hails Democrats’ US midterm victory as a rebuke of Trumpism",
+      "link": "https://www.ft.com/content/97070d8f-ce2d-4873-8c70-cc8338f7ce1c?syn-25a6b1a6=1",
+      "summary": "Leaders say result should continue moves to de-risk reliance on Washington",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-04T10:48:26+00:00"
     },
     {
       "title": "バンス副大統領地元で共和敗北　激戦州も次々民主に―米中間選挙",
@@ -984,6 +1024,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-04T10:47:00+00:00"
+    },
+    {
+      "title": "Told to reboot a server, it destroyed systemd, destroyed containers, ran random",
+      "link": "https://github.com/openai/codex/issues/59060",
+      "summary": "Article URL: https://github.com/openai/codex/issues/59060\nComments URL: https://news.ycombinator.com/item?id=50363717\nPoints: 10\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T10:43:51+00:00"
     },
     {
       "title": "神戸阪急の新館東ビル、27年春に営業終了　無印良品など移設検討",
