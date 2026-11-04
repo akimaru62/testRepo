@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T22:17:56.156716+00:00",
+  "generated_at": "2026-11-04T22:33:39.201259+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -962,6 +962,14 @@
   ],
   "items": [
     {
+      "title": "WSJ Dollar Index Falls 0.30% to 96.94",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-amid-focus-on-u-s-midterms-143da6ea?mod=rss_markets_main",
+      "summary": "The WSJ Dollar Index fell 0.3%, down five of the past six trading days.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-04T22:23:00+00:00"
+    },
+    {
       "title": "【速報】ＮＹ株、１５００ドル超高　中間選挙終了や原油安で",
       "link": "https://www.jiji.com/jc/article?k=2026110500182&g=int&m=rss",
       "summary": "",
@@ -1024,6 +1032,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-04T22:03:00+00:00"
+    },
+    {
+      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+      "link": "https://icode4.coffee/?p=1746",
+      "summary": "Article URL: https://icode4.coffee/?p=1746\nComments URL: https://news.ycombinator.com/item?id=50372164\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T22:01:49+00:00"
     },
     {
       "title": "《ゴジラ-0.0》公開初日から｢前作超え｣！\"苦境の邦画実写\"で早くも\"興収100億超え\"が期待される納得の理由 | ライフ | 東洋経済オンライン",
@@ -1491,6 +1507,14 @@
     },
     {
       "title": "How Democrats pulled off the blue wave in maps and charts",
+      "link": "https://www.ft.com/content/f27626ac-8427-45d7-a995-a8dfe8d01bd9?syn-25a6b1a6=1",
+      "summary": "Party on track for largest swing in their favour in House elections in more than 75 years",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-04T19:12:33+00:00"
+    },
+    {
+      "title": "Poor and Hispanic voters fuel blue wave",
       "link": "https://www.ft.com/content/f27626ac-8427-45d7-a995-a8dfe8d01bd9?syn-25a6b1a6=1",
       "summary": "Party on track for largest swing in their favour in House elections in more than 75 years",
       "source": "Financial Times",
@@ -10797,6 +10821,14 @@
       "title": "Nasdaq closes at record high - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzNXpPaDFqeGhqT0ktNWk2WkNDSG0xeGdaWkVzUG9rZnp3RVZOZl96MTVtVHJ4TjB4emR0TXc0OTNXWG9lQlNfazlIMldwSk1xd0FjSG52VmZvcm8?oc=5",
       "summary": "Nasdaq closes at record high&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-02T08:00:00+00:00"
+    },
+    {
+      "title": "VW to EU: let's go even lower on emissions - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtWjd4MU1aSTJUWFJEd1hFVlFQZ0o5Q0w5a3NXenRmd0ZNVnZZTlhWeUVuRDNPazVLMFVQOEZqRHZOVG5CS20tYlZKSm5TZElNQ1RsVnJSbGR1YW8?oc=5",
+      "summary": "VW to EU: let's go even lower on emissions&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-11-02T08:00:00+00:00"
