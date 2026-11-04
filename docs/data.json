@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T10:33:51.803652+00:00",
+  "generated_at": "2026-11-04T10:47:34.810365+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -962,6 +962,14 @@
   ],
   "items": [
     {
+      "title": "バンス副大統領地元で共和敗北　激戦州も次々民主に―米中間選挙",
+      "link": "https://www.jiji.com/jc/article?k=2026110400120&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-04T10:47:30.043845+00:00"
+    },
+    {
       "title": "神戸阪急の新館東ビル、27年春に営業終了　無印良品など移設検討",
       "link": "https://www.asahi.com/articles/ASVC43546VC4PIHB00WM.html?ref=rss",
       "summary": "",
@@ -992,6 +1000,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-04T10:25:00+00:00"
+    },
+    {
+      "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "summary": "Article URL: https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai\nComments URL: https://news.ycombinator.com/item?id=50363554\nPoints: 4\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T10:23:34+00:00"
     },
     {
       "title": "知事選も民主躍進　共和牙城テキサスで現職敗北―米中間選挙",
@@ -1090,6 +1106,22 @@
       "published": "2026-11-04T10:03:00+00:00"
     },
     {
+      "title": "‘A deep sense of deceit’: Young Republicans reckon with US midterms rout",
+      "link": "https://www.ft.com/content/ec6029c3-3ec2-4948-8b69-298e3b10399f?syn-25a6b1a6=1",
+      "summary": "President’s foreign policy and scandals blamed for crushing defeat by New York Young Republican Club members",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-04T10:00:09+00:00"
+    },
+    {
+      "title": "Incident with Pull Requests, Git Operations and Issues",
+      "link": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+      "summary": "Article URL: https://www.githubstatus.com/incidents/smtdswd1h2w4\nComments URL: https://news.ycombinator.com/item?id=50363378\nPoints: 33\n# Comments: 15",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T10:00:06+00:00"
+    },
+    {
       "title": "令和８年秋の叙勲・褒章受章者について公表しました。",
       "link": "https://www.fsa.go.jp/news/r8/sonota/20261104/20261104.html",
       "summary": "",
@@ -1136,6 +1168,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-04T09:41:00+00:00"
+    },
+    {
+      "title": "Osewa – An open-source alternative to SSH and Mosh",
+      "link": "https://osewa.dev/",
+      "summary": "Article URL: https://osewa.dev/\nComments URL: https://news.ycombinator.com/item?id=50363193\nPoints: 15\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T09:34:44+00:00"
     },
     {
       "title": "米政治の再編進む　三牧聖子・同志社大大学院教授―米中間選挙・識者談話",
@@ -1237,6 +1277,14 @@
       "title": "Nvidia DGX Spark encrypted firmware slows inference speed to 35% on Linux",
       "link": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
       "summary": "Article URL: https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop\nComments URL: https://news.ycombinator.com/item?id=50362905\nPoints: 30\n# Comments: 9",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T08:46:29+00:00"
+    },
+    {
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "link": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "summary": "Article URL: https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop\nComments URL: https://news.ycombinator.com/item?id=50362905\nPoints: 53\n# Comments: 23",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-04T08:46:29+00:00"
@@ -2165,6 +2213,14 @@
       "title": "Stock Market Today: Stock Futures Turn Positive as Investors Weigh Democratic Sweep",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-04-2026?mod=rss_markets_main",
       "summary": "Contracts tied to S&amp;P 500 reverse their initial drop",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-04T03:22:53+00:00"
+    },
+    {
+      "title": "Stock Market Today: Stock Futures Rebound as Investors Weigh Democratic Sweep",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-04-2026?mod=rss_markets_main",
+      "summary": "Dow futures jump, reversing initial knee-jerk reaction",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-04T03:22:53+00:00"
