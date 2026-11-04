@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T17:17:50.841498+00:00",
+  "generated_at": "2026-11-04T17:33:25.956742+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -962,6 +962,38 @@
   ],
   "items": [
     {
+      "title": "Oil Price Falls Further After Vance Blames GOP Losses on Iran War",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-fall-as-u-s-midterm-results-unfold-0e45fbe8?mod=rss_markets_main",
+      "summary": "Crude oil extended losses—with prices down more than 8%—after Vice President JD Vance blamed Republican losses on the Middle East war.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-04T17:25:00+00:00"
+    },
+    {
+      "title": "U.S. Stocks Jump After Democrats Sweep Congress",
+      "link": "https://www.wsj.com/finance/investing/stock-futures-edge-lower-treasurys-strengthen-after-democratic-sweep-f2198d07?mod=rss_markets_main",
+      "summary": "U.S. stocks are surging as investors react to a blue wave that puts Democrats in control of both chambers of Congress.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-04T17:23:00+00:00"
+    },
+    {
+      "title": "Hospital stocks rally while drugmakers brace for scrutiny. Here’s what the Democratic wave means for healthcare.",
+      "link": "https://www.marketwatch.com/story/hospital-stocks-rally-while-drugmakers-brace-for-scrutiny-heres-what-the-democratic-wave-means-for-healthcare-625b79f3?mod=mw_rss_topstories",
+      "summary": "The Democratic victory in the midterm elections could be a huge boon to the nation’s largest hospitals.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-04T17:19:00+00:00"
+    },
+    {
+      "title": "Progress on provable inference for large language models",
+      "link": "https://www.anthropic.com/research/provable-inference",
+      "summary": "Article URL: https://www.anthropic.com/research/provable-inference\nComments URL: https://news.ycombinator.com/item?id=50368626\nPoints: 15\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T17:17:46+00:00"
+    },
+    {
       "title": "米貿易赤字、０．７％減　輸入最高も輸出伸びが上回る―９月",
       "link": "https://www.jiji.com/jc/article?k=2026110401272&g=int&m=rss",
       "summary": "",
@@ -1141,6 +1173,22 @@
       "title": "Sports File: The return of Australian pro leagues - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HcmRLQnY5SzFCcXRiSGhDdVZlVlA0SmFUQXFzNlJxQ21wNmZIYkpXb0tPNTV2NG4zS3pzc3FmbF9LYy15cW1VdGFvYzA1NnkweF9ubUx5eERfTjg?oc=5",
       "summary": "Sports File: The return of Australian pro leagues&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-04T15:30:14+00:00"
+    },
+    {
+      "title": "Quarantined with your kids? Try 37 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kb29fOFhESTdDaXJPNGJ0djlNZE5NWUlUM0dxZVVEZHc1QzV4b095VHVMTUJYSDMzSlNxT1hIZUxaT29TRW04c1RhX0tjenV6aFBhV2hRSWRKSTg?oc=5",
+      "summary": "Quarantined with your kids? Try 37&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-04T15:30:14+00:00"
+    },
+    {
+      "title": "AstraZeneca to make billion COVID vaccine doses if tests succeed - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kMFNPUTFIdjZ4Y2hsNVZ0dFVZLVVVYVVCeFlrSVQwYnpaZks0UWc3TzNxMW9acy1YaDFZWlMzYXkxVDlzMzQxOWFKaW91YThib0swNWxFNkVIY00?oc=5",
+      "summary": "AstraZeneca to make billion COVID vaccine doses if tests succeed&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-11-04T15:30:14+00:00"
@@ -1333,6 +1381,14 @@
       "title": "Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent (2016)",
       "link": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
       "summary": "Article URL: https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/\nComments URL: https://news.ycombinator.com/item?id=50366522\nPoints: 62\n# Comments: 9",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T15:01:44+00:00"
+    },
+    {
+      "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+      "link": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+      "summary": "Article URL: https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/\nComments URL: https://news.ycombinator.com/item?id=50366522\nPoints: 110\n# Comments: 35",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-04T15:01:44+00:00"
@@ -1555,6 +1611,14 @@
     },
     {
       "title": "The midterms have already cost Musk more than $60bn — and counting",
+      "link": "https://www.ft.com/content/9a8d4922-74dd-4149-bb28-a15f719ca836",
+      "summary": "🎻",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-04T13:23:30+00:00"
+    },
+    {
+      "title": "The midterms have already cost Musk close to $30bn",
       "link": "https://www.ft.com/content/9a8d4922-74dd-4149-bb28-a15f719ca836",
       "summary": "🎻",
       "source": "Financial Times",
