@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T16:18:14.004236+00:00",
+  "generated_at": "2026-11-04T16:33:28.681030+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -978,6 +978,14 @@
       "published": "2026-11-04T16:18:09.602222+00:00"
     },
     {
+      "title": "'It's just vape, nail, charity shops': Can anything save UK high street?",
+      "link": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham\nComments URL: https://news.ycombinator.com/item?id=50367653\nPoints: 11\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T16:11:33+00:00"
+    },
+    {
       "title": "U.S. Crude Oil Stockpiles Post Fifth Straight Weekly Drop",
       "link": "https://www.wsj.com/finance/commodities-futures/u-s-crude-oil-stockpiles-post-fifth-straight-weekly-drop-96cefc7d?mod=rss_markets_main",
       "summary": "Commercial crude oil stocks fell by 865,000 barrels, while distillate stocks fell to their lowest level in more than two decades, the EIA said.",
@@ -1040,6 +1048,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-04T15:28:31+00:00"
+    },
+    {
+      "title": "Show HN: I built a tool that prices a prebuilt PC part by part",
+      "link": "https://pcdealcheck.com/",
+      "summary": "I've missed out on an awesome computer that I could use for a project because figuring out value took too long. Users paste a listing and receive a value grade, dated component estimates and a shareable report. AI reads the listing but my custom built price engine determines the grade (updated every day). Self financed and working now. Looking for feedback re: scoring, interface, and if its helpful. https://www.youtube.com/watch?v=Tpft--x3WlI\n\nComments URL: https://news.ycombinator.com/item?id=50366929\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T15:25:33+00:00"
     },
     {
       "title": "Evergreen: A Provably Safe Systems Language",
