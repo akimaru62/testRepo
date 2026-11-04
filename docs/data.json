@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T08:06:44.793770+00:00",
+  "generated_at": "2026-11-04T08:21:32.395653+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -970,6 +970,54 @@
       "published": "2026-11-04T10:00:00+00:00"
     },
     {
+      "title": "インフレで「青い津波」　渡辺靖・慶応大教授―米中間選挙・識者談話",
+      "link": "https://www.jiji.com/jc/article?k=2026110400878&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-04T08:21:26.967662+00:00"
+    },
+    {
+      "title": "「普通の人々の勝利」　民主党躍進、支持者喜び爆発―米中間選挙",
+      "link": "https://www.jiji.com/jc/article?k=2026110400796&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-04T08:21:26.967651+00:00"
+    },
+    {
+      "title": "米国民が戦争に反対　攻撃再開で「悪夢見る」と警告―イラン国会議長・米中間選挙",
+      "link": "https://www.jiji.com/jc/article?k=2026110400866&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-04T08:21:26.967616+00:00"
+    },
+    {
+      "title": "European Chip Stocks Edge Higher Despite Democratic Sweep",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-flat-supported-by-financial-airline-stocks-87443383?mod=rss_markets_main",
+      "summary": "European semiconductor companies were in green territory after strong results from chip designer AMD, even as investors weighed the implications of a Democratic sweep for the AI trade.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-04T08:18:00+00:00"
+    },
+    {
+      "title": "Stock Futures Edge Lower, Treasurys Strengthen After Democratic Sweep",
+      "link": "https://www.wsj.com/finance/investing/stock-futures-edge-lower-treasurys-strengthen-after-democratic-sweep-f2198d07?mod=rss_markets_main",
+      "summary": "U.S. stock futures were slightly lower and Treasurys strengthened after the Democrats delivered a resounding win in the midterm elections.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-04T08:17:00+00:00"
+    },
+    {
+      "title": "Stocks edge lower as investors digest Democratic sweep",
+      "link": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1",
+      "summary": "Traders bet Democrats could slow AI infrastructure build-out central to economic growth",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-04T08:02:39+00:00"
+    },
+    {
       "title": "日本銀行が受入れている担保の残高（10月末）",
       "link": "http://www.boj.or.jp/statistics/boj/other/col/col2610.xlsx",
       "summary": "",
@@ -1026,12 +1074,28 @@
       "published": "2026-11-04T07:44:52+00:00"
     },
     {
+      "title": "The lost malloc()",
+      "link": "https://napcakes.nekoweb.org/posts/malloc/",
+      "summary": "Article URL: https://napcakes.nekoweb.org/posts/malloc/\nComments URL: https://news.ycombinator.com/item?id=50362466\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T07:37:30+00:00"
+    },
+    {
       "title": "【まとめてわかる】株価の動き、上下両院の議席数　不透明感が和らぐ",
       "link": "https://www.asahi.com/articles/ASVBX1FLHVBXUQIP002M.html?ref=rss",
       "summary": "",
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-04T07:33:14.276255+00:00"
+    },
+    {
+      "title": "Democrats Rout GOP",
+      "link": "https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump",
+      "summary": "Article URL: https://www.nytimes.com/live/2026/11/03/us/midterms-2026-election-day-trump\nComments URL: https://news.ycombinator.com/item?id=50362418\nPoints: 25\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T07:27:15+00:00"
     },
     {
       "title": "東証続落 半導体関連株中心に売り",
@@ -1051,6 +1115,14 @@
     },
     {
       "title": "Four takeaways from the midterm results",
+      "link": "https://www.ft.com/content/2bfbe464-f070-44bb-a761-fecad1cde4d4?syn-25a6b1a6=1",
+      "summary": "Democrats record broad gains from almost all demographic groups",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-04T07:21:14+00:00"
+    },
+    {
+      "title": "Five takeaways from the midterm results",
       "link": "https://www.ft.com/content/2bfbe464-f070-44bb-a761-fecad1cde4d4?syn-25a6b1a6=1",
       "summary": "Democrats record broad gains from almost all demographic groups",
       "source": "Financial Times",
