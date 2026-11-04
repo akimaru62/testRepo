@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T20:18:05.670203+00:00",
+  "generated_at": "2026-11-04T20:33:19.313630+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -962,6 +962,22 @@
   ],
   "items": [
     {
+      "title": "Oil prices are in freefall now that the Democratic sweep is ‘rewriting the Iran playbook’",
+      "link": "https://www.marketwatch.com/story/oil-prices-are-in-freefall-now-that-the-democratic-sweep-is-rewriting-the-iran-playbook-aa437b85?mod=mw_rss_topstories",
+      "summary": "Oil dropped Wednesday, putting prices on track for their largest one-week decline since 2020.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-04T20:28:00+00:00"
+    },
+    {
+      "title": "The midterm election results are redrawing the map for AI data centers",
+      "link": "https://www.marketwatch.com/story/the-midterm-election-results-are-redrawing-the-map-for-ai-data-centers-8625dc0c?mod=mw_rss_topstories",
+      "summary": "U.S. data-center spending won’t drop a lot, but watch for delays, relocations and increased expenses for individual projects",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-04T20:21:00+00:00"
+    },
+    {
       "title": "「書道」無形文化遺産へ　ユネスコ評価機関が登録勧告―文化庁",
       "link": "https://www.jiji.com/jc/article?k=2026110500120&g=soc&m=rss",
       "summary": "",
@@ -970,12 +986,36 @@
       "published": "2026-11-04T20:18:00.499552+00:00"
     },
     {
+      "title": "Treasury Yields Down Following Democrats Midterm Win",
+      "link": "https://www.wsj.com/finance/investing/two-year-treasury-yield-falls-to-two-month-low-as-democrats-sweep-midterm-elections-79fb1f8e?mod=rss_markets_main",
+      "summary": "Treasury yields fell after the Democratic party’s overwhelming win in the U.S. midterm elections.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-04T20:18:00+00:00"
+    },
+    {
+      "title": "As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction",
+      "link": "https://www.marketwatch.com/story/as-vistra-and-other-energy-stocks-slide-some-analysts-warn-of-an-excessive-knee-jerk-reaction-aece0737?mod=mw_rss_topstories",
+      "summary": "Energy stocks have already been under pressure, and newly elected officials may not slow the data-center boom as much as feared.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-04T20:17:00+00:00"
+    },
+    {
       "title": "Microsoft and Amazon combine for a $400 billion market-cap boost — and these factors show why",
       "link": "https://www.marketwatch.com/story/microsoft-and-amazon-combine-for-a-400-billion-market-cap-boost-and-these-factors-show-why-6655d1a9?mod=mw_rss_topstories",
       "summary": "Microsoft and Amazon shares are rising sharply on Wednesday, with one portfolio manager noting that a cloud-supply crunch could help the companies raise prices.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-04T20:04:00+00:00"
+    },
+    {
+      "title": "Insects Don't Swarm at LED Lights",
+      "link": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+      "summary": "Article URL: https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/\nComments URL: https://news.ycombinator.com/item?id=50370610\nPoints: 12\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T19:50:23+00:00"
     },
     {
       "title": "Gold Recovers $4,000 Level as Oil Prices Fall",
@@ -1173,6 +1213,14 @@
       "title": "A New Go API for JSON",
       "link": "https://go.dev/blog/jsonv2",
       "summary": "Article URL: https://go.dev/blog/jsonv2\nComments URL: https://news.ycombinator.com/item?id=50369106\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T17:52:11+00:00"
+    },
+    {
+      "title": "A new Go API for JSON",
+      "link": "https://go.dev/blog/jsonv2",
+      "summary": "Article URL: https://go.dev/blog/jsonv2\nComments URL: https://news.ycombinator.com/item?id=50369106\nPoints: 107\n# Comments: 29",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-04T17:52:11+00:00"
@@ -1501,6 +1549,14 @@
       "title": "Pierre Computer is being acquired by OpenAI",
       "link": "https://twitter.com/pierrecomputer/status/2117999036175188183",
       "summary": "Article URL: https://twitter.com/pierrecomputer/status/2117999036175188183\nComments URL: https://news.ycombinator.com/item?id=50366863\nPoints: 10\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T15:21:21+00:00"
+    },
+    {
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "link": "https://openai.com/index/openai-to-acquire-pierre/",
+      "summary": "https://twitter.com/pierrecomputer/status/211799903617518818...\n\nComments URL: https://news.ycombinator.com/item?id=50366863\nPoints: 79\n# Comments: 32",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-04T15:21:21+00:00"
