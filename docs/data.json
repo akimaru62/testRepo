@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T16:05:55.506400+00:00",
+  "generated_at": "2026-11-04T16:18:14.004236+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -962,6 +962,38 @@
   ],
   "items": [
     {
+      "title": "ＮＹ株反落、１９７ドル安　中間選挙の結果待ち",
+      "link": "https://www.jiji.com/jc/article?k=2026110400154&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-04T16:18:09.602263+00:00"
+    },
+    {
+      "title": "ＮＹダウが取引開始直後に１０００ドル超上昇した",
+      "link": "https://www.jiji.com/jc/article?k=2026110401297&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-04T16:18:09.602222+00:00"
+    },
+    {
+      "title": "U.S. Crude Oil Stockpiles Post Fifth Straight Weekly Drop",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-crude-oil-stockpiles-post-fifth-straight-weekly-drop-96cefc7d?mod=rss_markets_main",
+      "summary": "Commercial crude oil stocks fell by 865,000 barrels, while distillate stocks fell to their lowest level in more than two decades, the EIA said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-04T16:11:00+00:00"
+    },
+    {
+      "title": "The U.S. economy is barreling ahead — but there’s one big problem",
+      "link": "https://www.marketwatch.com/story/the-u-s-economy-is-barreling-ahead-but-theres-one-big-problem-6d62e3b3?mod=mw_rss_topstories",
+      "summary": "The largest part of the U.S. economy grew at a rapid pace just ahead of the holiday shopping season, but business leaders were not in a festive mood due to stubborn inflation.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-04T16:05:00+00:00"
+    },
+    {
       "title": "Democrats ready Trump probes and affordability measures",
       "link": "https://www.ft.com/content/1b492f63-85b4-472c-9bbd-f741a1dfdb0b?syn-25a6b1a6=1",
       "summary": "Even with control of both the Senate and the House, Democratic legislation could still be obstructed by presidential veto",
@@ -1000,6 +1032,14 @@
       "source": "CNBC",
       "category": "海外金融",
       "published": "2026-11-04T15:28:54+00:00"
+    },
+    {
+      "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "summary": "Article URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/\nComments URL: https://news.ycombinator.com/item?id=50366971\nPoints: 12\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T15:28:31+00:00"
     },
     {
       "title": "Evergreen: A Provably Safe Systems Language",
@@ -1141,6 +1181,14 @@
       "title": "Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent",
       "link": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
       "summary": "Article URL: https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/\nComments URL: https://news.ycombinator.com/item?id=50366522\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T15:01:44+00:00"
+    },
+    {
+      "title": "Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent (2016)",
+      "link": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+      "summary": "Article URL: https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/\nComments URL: https://news.ycombinator.com/item?id=50366522\nPoints: 62\n# Comments: 9",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-04T15:01:44+00:00"
