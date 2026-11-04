@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T01:47:36.999742+00:00",
+  "generated_at": "2026-11-04T02:06:50.479920+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -968,6 +968,30 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-04T10:00:00+00:00"
+    },
+    {
+      "title": "共和、民主が争う　上下両院の多数派焦点―米中間選挙、開票始まる",
+      "link": "https://www.jiji.com/jc/article?k=2026110400118&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-04T02:06:43.931066+00:00"
+    },
+    {
+      "title": "【まとめてわかる】日経平均一時1500円下げ　注目3州で民主勝利",
+      "link": "https://www.asahi.com/articles/ASVBX1FLHVBXUQIP002M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-04T02:06:43.683776+00:00"
+    },
+    {
+      "title": "Democrats clinch battleground Senate races in Georgia and North Carolina",
+      "link": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
+      "summary": "High-stakes midterm election doubles as referendum on Donald Trump’s presidency",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-04T01:37:19+00:00"
     },
     {
       "title": "【開票速報】ジョージア州、民主党オソフ氏勝利　次期大統領に期待も",
@@ -2888,6 +2912,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-03T12:59:00+00:00"
+    },
+    {
+      "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+      "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+      "summary": "Article URL: https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/\nComments URL: https://news.ycombinator.com/item?id=50351463\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-03T12:58:43+00:00"
     },
     {
       "title": "Show HN: Kvittas, an Expense Splitting App",
