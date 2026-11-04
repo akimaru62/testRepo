@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T21:17:39.024260+00:00",
+  "generated_at": "2026-11-04T21:33:04.009237+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -962,6 +962,38 @@
   ],
   "items": [
     {
+      "title": "Dow scores its best day in 18 months in a broad relief rally after Democrats sweep to power in Congress",
+      "link": "https://www.marketwatch.com/story/dow-scores-its-best-day-in-18-months-in-a-broad-relief-rally-after-democrats-sweep-to-power-in-congress-d7348fc0?mod=mw_rss_topstories",
+      "summary": "Stocks surged, oil prices plunged and bond yields fell Wednesday on optimism around a quicker end to the Iran war now that Democrats have clinched control of Congress.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-04T21:29:00+00:00"
+    },
+    {
+      "title": "U.S. Stocks Rally on Divided Government as AI Wobbles Continue",
+      "link": "https://www.wsj.com/finance/investing/u-s-stocks-rally-on-divided-government-as-ai-wobbles-continue-1a679abe?mod=rss_markets_main",
+      "summary": "Stocks surged as oil prices tumbled and traders bet a divided government would be good for business, offsetting ongoing unease about artificial-intelligence bets.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-04T21:25:00+00:00"
+    },
+    {
+      "title": "Big Tech is driving a historic divide in the U.S. stock market",
+      "link": "https://www.marketwatch.com/story/wall-street-veteran-says-these-are-some-of-the-most-unbelievable-charts-he-has-ever-seen-2c78e677?mod=mw_rss_topstories",
+      "summary": "A historic divergence has split the U.S. stock market: The benchmark S&amp;P 500 index has tumbled into deeply oversold territory even as nearly half of its constituent stocks remained decidedly overbought.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-04T21:23:00+00:00"
+    },
+    {
+      "title": "The Blue Wave Sets Off a Potential Regime Change in Markets",
+      "link": "https://www.wsj.com/politics/elections/the-winners-and-losers-on-wall-street-from-the-election-earthquake-55ff9cd4?mod=rss_markets_main",
+      "summary": "U.S. stock indexes surge on hope that legislative gridlock, an AI slowdown and checks on presidential power will mark the start of a new era for the economy.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-04T21:21:00+00:00"
+    },
+    {
       "title": "首相動静（１１月４日）",
       "link": "https://www.jiji.com/jc/article?k=2026110400214&g=pol&m=rss",
       "summary": "",
@@ -994,6 +1026,14 @@
       "published": "2026-11-04T21:17:34.021523+00:00"
     },
     {
+      "title": "Apple cements its status as tech’s biggest heavyweight with the stock’s best day in over a year",
+      "link": "https://www.marketwatch.com/story/apple-cements-its-status-as-techs-biggest-heavyweight-with-the-stocks-best-day-in-over-a-year-c7fd9e6f?mod=mw_rss_topstories",
+      "summary": "Investors are flocking to Apple as a safe haven as AI infrastructure names come under pressure from midterm election results",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-04T21:17:00+00:00"
+    },
+    {
       "title": "Hospital stocks rallied while drugmakers brace for scrutiny. Here’s what the Democratic wave means for healthcare.",
       "link": "https://www.marketwatch.com/story/hospital-stocks-rally-while-drugmakers-brace-for-scrutiny-heres-what-the-democratic-wave-means-for-healthcare-625b79f3?mod=mw_rss_topstories",
       "summary": "The Democratic victory in the midterm elections could be a huge boon to the nation’s largest hospitals.",
@@ -1008,6 +1048,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-04T21:10:00+00:00"
+    },
+    {
+      "title": "Everything is an AI scam now",
+      "link": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
+      "summary": "Article URL: https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/\nComments URL: https://news.ycombinator.com/item?id=50371508\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T21:05:19+00:00"
     },
     {
       "title": "【岩国高校】時代を刻んだ卒業生ファイル#15《朝ドラ『ブラッサム』モデルの作家･宇野千代､サッカーの岩政大樹…》 | キャリア・教育 | 東洋経済オンライン",
@@ -1096,6 +1144,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-04T20:57:00+00:00"
+    },
+    {
+      "title": "AR guitar with just a laptop and scissors",
+      "link": "https://www.arguitar.com/",
+      "summary": "Article URL: https://www.arguitar.com/\nComments URL: https://news.ycombinator.com/item?id=50371370\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T20:54:34+00:00"
     },
     {
       "title": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
@@ -1640,6 +1696,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-11-04T16:00:04+00:00"
+    },
+    {
+      "title": "Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads",
+      "link": "https://azure.microsoft.com/en-us/blog/predicting-and-detecting-failures-how-azure-strengthens-reliability-for-mission-critical-workloads/",
+      "summary": "Azure Failure Prediction and Detection (AFPD) helps reduce interruptions by predicting hardware failures, moving eligible workloads, and notifying customers when action is needed. See what that means for SAP on Azure and other mission-critical workloads.\nThe post Predicting and detecting failures: How Azure strengthens reliability for mission-critical workloads appeared first on Microsoft Azure Blog.",
+      "source": "Azure ブログ",
+      "category": "テクノロジー",
+      "published": "2026-11-04T16:00:00+00:00"
     },
     {
       "title": "Democrats ready Trump probes and affordability measures",
