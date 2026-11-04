@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T15:33:40.746405+00:00",
+  "generated_at": "2026-11-04T15:47:55.051361+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -978,6 +978,30 @@
       "published": "2026-11-04T15:28:54+00:00"
     },
     {
+      "title": "Pierre Computer is being acquired by OpenAI",
+      "link": "https://twitter.com/pierrecomputer/status/2117999036175188183",
+      "summary": "Article URL: https://twitter.com/pierrecomputer/status/2117999036175188183\nComments URL: https://news.ycombinator.com/item?id=50366863\nPoints: 10\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T15:21:21+00:00"
+    },
+    {
+      "title": "Adding Window Functions to a Spreadsheet",
+      "link": "https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/",
+      "summary": "Article URL: https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/\nComments URL: https://news.ycombinator.com/item?id=50366860\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T15:21:12+00:00"
+    },
+    {
+      "title": "Coffee's new status symbol is a machine without plastic",
+      "link": "https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free",
+      "summary": "Article URL: https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free\nComments URL: https://news.ycombinator.com/item?id=50366853\nPoints: 8\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T15:20:49+00:00"
+    },
+    {
       "title": "米の敵対姿勢変わらず　イラン最高指導者、攻撃再開で「大規模な対応」",
       "link": "https://www.jiji.com/jc/article?k=2026110400866&g=int&m=rss",
       "summary": "",
@@ -1146,6 +1170,14 @@
       "published": "2026-11-04T14:39:00+00:00"
     },
     {
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "link": "https://news.ycombinator.com/item?id=50366117",
+      "summary": "I'm curious how people on HN are using AI day to day, and came up with a list of questions I thought could be interesting to know. No need to answer every question of course, just wanted to get a gut feel how people are using AI.1) What AI subscriptions are you personally paying for? (Claude, ChatGPT/Codex, Cursor, etc)- Which tiers?- Have you purchased multiple subscriptions from the same provider (eg two Claude accounts)?2) Are you using models outside (or instead) of those subscriptions? For example, pay-as-you-go APIs, OpenRouter, or locally hosted models.- Which models and providers?3) What coding harnesses and interfaces are you using? Are you sticking with the default CLIs or IDE integrations, or using alternatives like OpenCode, Pi, Aider, Muse Code, or custom-built harnesses?- What made you switch harnesses (if you switched)?4) Are you using any agent orchestration or swarm tools?- For example, Munder Difflin, Gas Town, Ruflo, or something custom.5) Are you using broader agent platforms like OpenClaw / Hermes Agent / Grok bot / Dots / Muse?- If you are using them, what are your main use cases?-----I know my workflow has differed significantly from a year ago, and so it would be interesting to capture a snapshot today of what people are using and why.\n\nComments URL: https://news.ycombinator.com/item?id=50366117\nPoints: 11\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T14:37:22+00:00"
+    },
+    {
       "title": "U.S. Treasury Keeps Coupon Auction Sizes Unchanged",
       "link": "https://www.wsj.com/finance/investing/u-s-treasury-keeps-coupon-auction-sizes-unchanged-e6f71d43?mod=rss_markets_main",
       "summary": "The U.S. Treasury said Wednesday that it plans to keep long-term borrowing levels unchanged in coming months.",
@@ -1200,6 +1232,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-04T13:55:00+00:00"
+    },
+    {
+      "title": "Mocktastic: A Meshtastic Node on Arduino",
+      "link": "https://github.com/Vapmuz/Mocktastic",
+      "summary": "Article URL: https://github.com/Vapmuz/Mocktastic\nComments URL: https://news.ycombinator.com/item?id=50365516\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T13:51:52+00:00"
     },
     {
       "title": "Meta Seeks to Raise $9.2 Billion in Debut Euro Bond Sale",
