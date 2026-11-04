@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T23:17:56.620683+00:00",
+  "generated_at": "2026-11-04T23:32:48.909325+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -994,6 +994,14 @@
       "published": "2026-11-04T23:17:51.817482+00:00"
     },
     {
+      "title": "Successful People (2013)",
+      "link": "https://blog.samaltman.com/successful-people",
+      "summary": "Article URL: https://blog.samaltman.com/successful-people\nComments URL: https://news.ycombinator.com/item?id=50372660\nPoints: 5\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T23:01:19+00:00"
+    },
+    {
       "title": "｢知られたら離れていく｣47歳婚活男性が明かした過去に､相手女性が出した結論　\"どこまで話すか\"問われる婚活現場 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/962949?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "恋愛経験がないまま婚活を始め､ようやく真剣交際に進んだ47歳の男性。ところが成婚目前､彼女は｢結婚は取りやめにしたい｣と言い出します。彼女が結婚できない理由､そのとき彼が明かした過去とは――。",
@@ -1048,6 +1056,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-04T22:30:00+00:00"
+    },
+    {
+      "title": "Less Popular Than Coal",
+      "link": "https://www.argmin.net/p/less-popular-than-coal",
+      "summary": "Article URL: https://www.argmin.net/p/less-popular-than-coal\nComments URL: https://news.ycombinator.com/item?id=50372360\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T22:26:24+00:00"
     },
     {
       "title": "WSJ Dollar Index Falls 0.30% to 96.94",
@@ -1434,6 +1450,14 @@
       "published": "2026-11-04T20:58:24+00:00"
     },
     {
+      "title": "Death Comes for XSLT",
+      "link": "https://dbushell.com/2026/11/03/xslt-rip/",
+      "summary": "Article URL: https://dbushell.com/2026/11/03/xslt-rip/\nComments URL: https://news.ycombinator.com/item?id=50371408\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T20:57:10+00:00"
+    },
+    {
       "title": "AstraZeneca Made $10 Billion Offer for Rhythm Pharmaceuticals",
       "link": "https://www.wsj.com/health/pharma/astrazeneca-made-10-billion-offer-for-rhythm-pharmaceuticals-6f261471?mod=rss_markets_main",
       "summary": "Rhythm specializes in treatments for metabolic conditions and severe obesity.",
@@ -1528,6 +1552,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-04T20:41:00+00:00"
+    },
+    {
+      "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+      "link": "https://github.com/gauge-sh/gauge-cli",
+      "summary": "Hi HN, I’m Evan from Gauge. We’re open-sourcing our CLI to recursively improve your docs for coding agents. The CLI includes a local execution backend, so you don't need an account to try it. Explainer video here: https://youtu.be/zhLUlIKB1MgThe CLI supports a hillclimbing loop:- set up tasks for coding agents that would need your docs, like 'set up Gauge CI checks'- run the tasks- analyze session transcripts for friction or failures- create variants of your docs to resolve the issues- re-run the tasks with the doc variants injected (transparently, at the same hostname)- repeat until you have a variant that resolves the issuesThe same loop supports hillclimbing your Skills, CLI, and other agent-facing surfaces.We started out 2 years ago building open-source developer tools (like Tach https://github.com/tach-org/tach), then pivoted to AI Search optimization, and are now focused on the intersection of the two spaces. We were already working with awesome devtool companies, and they were the first ones to ask us how to optimize for Claude Code and Codex. We realized this would be something that eventually every company needs to do. Our CLI provides primitives for docs/devrel/eng teams to measure, analyze, and improve how coding agents use their product.The design boils down to two components: VMs and a network gateway.The VMs are straightforward, we want the agents to be highly privileged within their environment so that they are representative of developers' coding agents. Each VM generally comes with the agent harness itself, language toolchains, and a git repository.The network gateway is where we terminate TLS and swap in variants of your docs transparently. The gateway also handles credential replacement, so agents see placeholders and can't exfiltrate keys.The CLI comes with a 'local' execution backend (inference is still remote). For VMs, it uses Docker containers, and the network gateway is mitmproxy running in a sidecar container for each session.We've used the hillclimbing loop internally to find and fix coding agent issues like mistaken pricing, inaccurate product limitations, and repeated workarounds. We saw coding agents report that Gauge only supports Claude Code and Codex, traced it back to the web pages they fetched, and fixed the behavior (we support Pi, OpenCode, and Antigravity as well). For Clerk, we helped shift coding agents from their legacy 'keyless' mode to their new 'clerk init' command. They were able to validate a pre-release change to their SDK's error messages using Gauge, then saw a 3x increase in coding agents using 'clerk init' post-deploy.Due to the 'static' nature of AI models, we've realized that closed-loop optimization techniques are now possible for essentially all software products. The same agent can be simulated over and over, meaning that a high-fidelity testing environment is all you need. Achieving the best results boils down to high-quality analysis (finding generalizable friction and objections) and paired experiments (vary only the content, measure the downstream change in behavior).The repo is here: https://github.com/gauge-sh/gauge-cli and you can start using the CLI with: npm i -g @withgauge/cliWe also have documentation and a quickstart here: https://docs.withgauge.com/agents/guides/cliIf you point a coding agent at those pages, it should guide you through the initial setup - let us know if it doesn't! The intention is for your agent to run some sensible evaluations and find at least one point of friction you can fix.We'd love to know from HN: Has anyone tried to DIY this locally, or built something in-house at their company? Is this an improvement? If not, what would need to change?\n\nComments URL: https://news.ycombinator.com/item?id=50371090\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T20:31:30+00:00"
     },
     {
       "title": "【朝日新聞が1万字回答（第1回）】朝刊部数は20年前の4割まで激減､デジタルも伸び悩み…新聞経営の厳しい現実 | ビジネス | 東洋経済オンライン",
@@ -1784,6 +1816,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-04T18:24:16+00:00"
+    },
+    {
+      "title": "Conductor is joining Meta",
+      "link": "https://www.conductor.build/announcement",
+      "summary": "Article URL: https://www.conductor.build/announcement\nComments URL: https://news.ycombinator.com/item?id=50369503\nPoints: 71\n# Comments: 127",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T18:22:40+00:00"
     },
     {
       "title": "バンス副大統領、共和党敗北は「イラン戦争が原因」 トランプ氏と一線 - Reuters",
