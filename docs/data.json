@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T18:33:47.678239+00:00",
+  "generated_at": "2026-11-05T18:47:35.609160+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -965,6 +965,22 @@
     }
   ],
   "items": [
+    {
+      "title": "How TUI scales threat modeling for 100+ teams with Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/architecture/how-tui-scales-threat-modeling-for-100-teams-with-amazon-bedrock/",
+      "summary": "Learn how TUI, the world's leading tourism group, built an AI-powered threat modeling system on Amazon Bedrock and Amazon Bedrock AgentCore to scale security assessments across more than 100 product teams, cutting threat modeling time by up to 70% while applying security standards consistently.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-11-05T18:45:07+00:00"
+    },
+    {
+      "title": "Comex Gold Settles 1.02% Higher at $4102.50",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-flat-after-midterm-linked-rebound-2d7cca6a?mod=rss_markets_main",
+      "summary": "Gold settled 1% higher and silver rose 0.2%, with both metals up for a second-consecutive session.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-05T18:41:00+00:00"
+    },
     {
       "title": "Goldman’s Exclusive Club of Partners Welcomes an Influx from Wealth Management",
       "link": "https://www.wsj.com/finance/banking/goldmans-exclusive-club-of-partners-welcomes-an-influx-from-wealth-management-ebe2e32a?mod=rss_markets_main",
