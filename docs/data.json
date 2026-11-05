@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T05:18:26.915291+00:00",
+  "generated_at": "2026-11-05T05:33:51.160548+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -966,6 +966,22 @@
   ],
   "items": [
     {
+      "title": "NTTドコモ、全国で通信障害　不正アクセスの影響か「確認中」",
+      "link": "https://www.asahi.com/articles/ASVC51JL6VC5ULFA00SM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-05T05:33:45.652308+00:00"
+    },
+    {
+      "title": "トヨタの中間決算、3年ぶり営業増益　3月期の利益見通しは上方修正",
+      "link": "https://www.asahi.com/articles/ASVC43GV9VC4ULFA01QM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-05T05:33:45.652272+00:00"
+    },
+    {
       "title": "改造車向けに不正車検容疑　経営者ら逮捕―警視庁",
       "link": "https://www.jiji.com/jc/article?k=2026110500539&g=soc&m=rss",
       "summary": "",
@@ -982,12 +998,84 @@
       "published": "2026-11-05T05:18:22.204569+00:00"
     },
     {
+      "title": "Asian tech stocks slide on post-midterm AI fears",
+      "link": "https://www.ft.com/content/21755495-c68a-45a9-90d8-64f698cd1952?syn-25a6b1a6=1",
+      "summary": "Concerns mount that Democratic control of Congress will slow data centre build-out",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-05T05:12:51+00:00"
+    },
+    {
       "title": "「ふるさとチョイス」で寄付、6日再開へ　不正アクセスで一時停止",
       "link": "https://www.asahi.com/articles/ASVC51D75VC5ULFA00BM.html?ref=rss",
       "summary": "",
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-05T05:05:51.485773+00:00"
+    },
+    {
+      "title": "Democrats look to reshape America after historic midterm victories",
+      "link": "https://www.ft.com/content/9a4a7357-f783-462f-b5d3-9852daf0f328?syn-25a6b1a6=1",
+      "summary": "Party promises dramatic change in the wake of its ‘blue wave’",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-05T05:00:25+00:00"
+    },
+    {
+      "title": "Morning in America, twilight in the markets",
+      "link": "https://www.ft.com/content/d21e2a87-191b-447d-b81b-edcf7bc2f007",
+      "summary": "Astonishing midterm election results will not repeal the turn of business and financial cycles",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-05T05:00:16+00:00"
+    },
+    {
+      "title": "Russia deepened Iran support with missile launcher deal",
+      "link": "https://www.ft.com/content/19ec7782-9f22-4101-ba55-da88860310bc?syn-25a6b1a6=1",
+      "summary": "Moscow increased military aid for Tehran despite strains from Ukraine war",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-05T05:00:16+00:00"
+    },
+    {
+      "title": "UBS slashes spending on consultants as Credit Suisse project winds down",
+      "link": "https://www.ft.com/content/b024d943-4b2f-4481-bbcb-ed551db2a8dd?syn-25a6b1a6=1",
+      "summary": "Swiss bank cuts external advisers’ bill by more than $800mn and axes 5,500 jobs as integration nears completion",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-05T05:00:16+00:00"
+    },
+    {
+      "title": "Microsoft rejects multibillion-dollar AI deal with UK’s Nscale",
+      "link": "https://www.ft.com/content/668e6ef8-88a1-4bef-8664-8f495baf09f8?syn-25a6b1a6=1",
+      "summary": "Fresh blow ahead of start-up’s IPO as tech giant turns down option to more than double Texas data centre contract",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-05T05:00:16+00:00"
+    },
+    {
+      "title": "A&O Shearman invests $1.1bn in AI",
+      "link": "https://www.ft.com/content/b832654a-79d1-4db0-9de8-d1a65251539d?syn-25a6b1a6=1",
+      "summary": "The ‘magic circle’ firm has told lawyers each practice area must commit at least 3% of billable time to creating AI tools",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-05T05:00:16+00:00"
+    },
+    {
+      "title": "The next US presidential race has begun",
+      "link": "https://www.ft.com/content/a7fe8e95-bd9a-4cd7-a308-f156073cd074?syn-25a6b1a6=1",
+      "summary": "The Republicans and Democrats positioning themselves for a run at the Oval Office in 2028",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-05T05:00:07+00:00"
+    },
+    {
+      "title": "Republicans paid the price for Trump’s failed policies",
+      "link": "https://www.ft.com/content/800da770-639b-406c-a46a-a30552aa1128",
+      "summary": "The president promised — but did not deliver — more manufacturing jobs and higher employment rates for native-born Americans",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-05T05:00:07+00:00"
     },
     {
       "title": "アメリカ国民はトランプ外交に｢ノー｣を突きつけた…民主党大勝のねじれ議会が追及を始める親ロシア政策の裏側 | 政治・経済・投資 | 東洋経済オンライン",
