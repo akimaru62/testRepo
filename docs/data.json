@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T21:48:01.169254+00:00",
+  "generated_at": "2026-11-05T22:05:04.954699+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -962,9 +962,37 @@
     {
       "url": "https://news.yahoo.co.jp/rss/topics/business.xml",
       "error": "500 Server Error: Internal Server Error for url: https://news.yahoo.co.jp/rss/topics/business.xml"
+    },
+    {
+      "url": "https://azure.microsoft.com/ja-jp/blog/feed/",
+      "error": "HTTPSConnectionPool(host='azure.microsoft.com', port=443): Read timed out. (read timeout=15)"
     }
   ],
   "items": [
+    {
+      "title": "｢危険な薬剤｣を使った美容クリニック…患者のカルテに抱いた\"違和感\"　｢リーガルドック 医療弁護士アラタの証明｣（第2話 ①） | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963125?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "手術ミスやカルテの改ざんが疑われても、医療の専門知識を持たない患者が、その事実を明らかにするのは容易ではない。そんな医療過誤訴訟に挑むのが、医師免許と弁護士資格を併せ持つ新多千智だ。医学と法律、2つ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-05T22:00:00+00:00"
+    },
+    {
+      "title": "患者に訴えられた美容整形クリニック院長の悲惨な末路　｢リーガルドック 医療弁護士アラタの証明｣（第2話 ②） | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962941?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "手術ミスやカルテの改ざんが疑われても、医療の専門知識を持たない患者が、その事実を明らかにするのは容易ではない。そんな医療過誤訴訟に挑むのが、医師免許と弁護士資格を併せ持つ新多千智だ。医学と法律、2つ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-05T22:00:00+00:00"
+    },
+    {
+      "title": "Nasdaq drops into correction territory — here’s what typically happens next",
+      "link": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
+      "summary": "Nasdaq’s slide into correction territory puts its history of recoveries in focus. Here's what history shows.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-11-05T21:57:33+00:00"
+    },
     {
       "title": "日本製のEV排除に危機感　EU優遇策に修正要求　高市首相も直談判",
       "link": "https://www.asahi.com/articles/ASVC54J5TVC5UHBI024M.html?ref=rss",
@@ -979,6 +1007,22 @@
       "summary": "S&amp;P 500 lost an estimated $2.9 trillion in market capitalization, the largest one-day loss of market value on record",
       "source": "MarketWatch",
       "category": "海外金融",
+      "published": "2026-11-05T21:45:00+00:00"
+    },
+    {
+      "title": "｢安けりゃいいわけじゃない｣｢舌バカ向け弁当｣との声まで…バズ連発｢ローソンの弁当｣3日間食べまくった\"意外な結論\" | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963407?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ローソンの｢一点突破すぎ｣弁当シリーズを徹底検証した本記事。数々の\"クレイジー\"弁当を自炊で再現する試みに始まり､各商品の味やコスパ､値引きの実情までリアルにレポートします。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-05T21:45:00+00:00"
+    },
+    {
+      "title": "｢消費者をバカにしてる｣｢日本は貧しくなった｣の声も…≪ローソンの激安弁当≫あえて自作＆対抗した35歳独身男性の顛末 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963406?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ローソンが登場させた\"クレイジーな弁当\"は､具材を一品に絞った｢一点突破すぎ｣シリーズ。安さを追求した斬新さはSNSで論争を呼びつつ､発売早々に完売するほどの反響を集めました。そんな一点突破弁当を自…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
       "published": "2026-11-05T21:45:00+00:00"
     },
     {
