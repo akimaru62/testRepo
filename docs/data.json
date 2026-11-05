@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T01:18:57.977997+00:00",
+  "generated_at": "2026-11-05T01:34:06.675819+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -966,6 +966,30 @@
   ],
   "items": [
     {
+      "title": "国有林野事業債務管理特別会計の借入金の入札予定（令和8年11月5日公表）",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/rinya-offer261105.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-05T01:30:00+00:00"
+    },
+    {
+      "title": "5年利付国債（11月債）の発行予定額等（令和8年11月5日公表）",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20261105.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-05T01:30:00+00:00"
+    },
+    {
+      "title": "10年利付国債（第384回）の入札発行（令和8年11月5日入札）",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20261105.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-05T01:30:00+00:00"
+    },
+    {
       "title": "日本が決勝進出　Ｕ１７女子Ｗ杯サッカー",
       "link": "https://www.jiji.com/jc/article?k=2026110500279&g=spo&m=rss",
       "summary": "",
@@ -1102,6 +1126,14 @@
       "published": "2026-11-04T23:35:44+00:00"
     },
     {
+      "title": "Images 2.6",
+      "link": "https://openai.com/index/introducing-images-2-6/",
+      "summary": "Article URL: https://openai.com/index/introducing-images-2-6/\nComments URL: https://news.ycombinator.com/item?id=50372945\nPoints: 71\n# Comments: 53",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T23:35:44+00:00"
+    },
+    {
       "title": "Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg",
       "link": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/",
       "summary": "You can now migrate existing Apache Hive datasets in Amazon S3 to fully managed Apache Iceberg tables in Amazon S3 Tables, with no pipelines to build or compute to provision, while production workloads keep running.",
@@ -1113,6 +1145,14 @@
       "title": "Local privilege escalation vulnerabilities in Linux",
       "link": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
       "summary": "Article URL: https://openai.com/index/a-thousand-fewer-paths-to-root/\nComments URL: https://news.ycombinator.com/item?id=50372929\nPoints: 13\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T23:33:14+00:00"
+    },
+    {
+      "title": "A thousand fewer paths to root",
+      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "summary": "Article URL: https://openai.com/index/a-thousand-fewer-paths-to-root/\nComments URL: https://news.ycombinator.com/item?id=50372929\nPoints: 65\n# Comments: 48",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-04T23:33:14+00:00"
