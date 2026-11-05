@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T23:47:43.723227+00:00",
+  "generated_at": "2026-11-05T00:13:51.484204+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -962,12 +962,68 @@
   ],
   "items": [
     {
+      "title": "ＡＩ使い３Ｄで事故再現　交通規制伴う見分不要に―新システム導入へ予算要求・警視庁",
+      "link": "https://www.jiji.com/jc/article?k=2026110401050&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-05T00:13:46.665973+00:00"
+    },
+    {
+      "title": "航空再編を左右する「ドル箱」発着枠の行方　カギ握る「市場の番人」",
+      "link": "https://www.asahi.com/articles/ASVC42W76VC4UTIL022M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-05T00:13:46.485671+00:00"
+    },
+    {
+      "title": "元自衛官が《軍の対空戦闘》になぞらえる\"人との距離感\"の正解　人間関係の悩みの9割は｢あいさつ｣で解決できる！ | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962201?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "人間関係の悩みの多くは､実は相手との実際のトラブルではなく､｢妄想｣や根拠のない不安から生まれています。しかし､そんな不安を一瞬で払拭する最強の武器が｢あいさつ｣。敵か味方かわからない関係を､自らの…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-05T00:00:00+00:00"
+    },
+    {
+      "title": "日銀当座預金増減要因（11月見込み）",
+      "link": "http://www.boj.or.jp/statistics/boj/fm/juqp/juqp2611.xlsx",
+      "summary": "",
+      "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-11-04T23:50:00+00:00"
+    },
+    {
+      "title": "金融政策決定会合議事要旨（9月17、18日開催分）",
+      "link": "http://www.boj.or.jp/mopo/mpmsche_minu/minu_2026/g260918.pdf",
+      "summary": "",
+      "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-11-04T23:50:00+00:00"
+    },
+    {
+      "title": "Introducing Images 2.6",
+      "link": "https://openai.com/index/introducing-images-2-6/",
+      "summary": "Article URL: https://openai.com/index/introducing-images-2-6/\nComments URL: https://news.ycombinator.com/item?id=50372945\nPoints: 14\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T23:35:44+00:00"
+    },
+    {
       "title": "Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg",
       "link": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/",
       "summary": "You can now migrate existing Apache Hive datasets in Amazon S3 to fully managed Apache Iceberg tables in Amazon S3 Tables, with no pipelines to build or compute to provision, while production workloads keep running.",
       "source": "AWS ブログ (AWS)",
       "category": "テクノロジー",
       "published": "2026-11-04T23:34:52+00:00"
+    },
+    {
+      "title": "Local privilege escalation vulnerabilities in Linux",
+      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "summary": "Article URL: https://openai.com/index/a-thousand-fewer-paths-to-root/\nComments URL: https://news.ycombinator.com/item?id=50372929\nPoints: 13\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T23:33:14+00:00"
     },
     {
       "title": "対イラン作戦に終結圧力　トランプ氏、軍事・外交で行き詰まり―米中間選挙",
