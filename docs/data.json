@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T00:13:51.484204+00:00",
+  "generated_at": "2026-11-05T00:40:01.664735+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -961,6 +961,38 @@
     }
   ],
   "items": [
+    {
+      "title": "Asian Currencies Mixed, But May Be Supported by Mild Risk Appetite",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-but-may-be-supported-by-mild-risk-appetite-8643f952?mod=rss_markets_main",
+      "summary": "Asian currencies were mixed against the dollar in early trade, but may be supported by mild appetite for risk assets.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-05T00:35:00+00:00"
+    },
+    {
+      "title": "Gold Flat After Midterm-Linked Rebound",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-flat-after-midterm-linked-rebound-2d7cca6a?mod=rss_markets_main",
+      "summary": "Gold was flat in early Asian trade, taking a breather after rebounding as oil slumped and the dollar softened in the wake of the U.S. midterms.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-05T00:32:00+00:00"
+    },
+    {
+      "title": "国債金利情報(令和8年11月4日)",
+      "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-05T00:30:00+00:00"
+    },
+    {
+      "title": "Nikkei Rises 0.7%, Led by Auto, Pharma Stocks",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-7-led-by-auto-pharma-stocks-f42def12?mod=rss_markets_main",
+      "summary": "Japanese stocks were higher after the Democratic sweep of U.S. Congress boosted expectations for a quick end to the Iran conflict, leading to sharply lower oil prices overnight.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-05T00:27:00+00:00"
+    },
     {
       "title": "ＡＩ使い３Ｄで事故再現　交通規制伴う見分不要に―新システム導入へ予算要求・警視庁",
       "link": "https://www.jiji.com/jc/article?k=2026110401050&g=soc&m=rss",
@@ -2325,6 +2357,14 @@
       "title": "Coffee's new status symbol is a machine without plastic",
       "link": "https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free",
       "summary": "Article URL: https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free\nComments URL: https://news.ycombinator.com/item?id=50366853\nPoints: 8\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-04T15:20:49+00:00"
+    },
+    {
+      "title": "A wave of plastic-free coffee pods and machines",
+      "link": "https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free",
+      "summary": "Article URL: https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free\nComments URL: https://news.ycombinator.com/item?id=50366853\nPoints: 39\n# Comments: 61",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-04T15:20:49+00:00"
