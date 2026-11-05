@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T13:06:05.672890+00:00",
+  "generated_at": "2026-11-05T13:17:52.621393+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -966,6 +966,54 @@
   ],
   "items": [
     {
+      "title": "英中銀、３年ぶり利上げ",
+      "link": "https://www.jiji.com/jc/article?k=2026110500801&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-05T13:17:47.370948+00:00"
+    },
+    {
+      "title": "共和大敗で不協和音　バンス副大統領、トランプ氏と一線―米中間選挙",
+      "link": "https://www.jiji.com/jc/article?k=2026110500655&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-05T13:17:47.370934+00:00"
+    },
+    {
+      "title": "高市首相は米中間選挙を受け、日米関係強化のためトランプ大統領と連携すると述べた。",
+      "link": "https://www.jiji.com/jc/article?k=2026110501010&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-05T13:17:47.370925+00:00"
+    },
+    {
+      "title": "ロシア、ＪＴ資産を管理下に　たばこ大手として初",
+      "link": "https://www.jiji.com/jc/article?k=2026110501153&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-05T13:17:47.370915+00:00"
+    },
+    {
+      "title": "「サイバー救援隊」創設へ　政府緊急対策、６日決定",
+      "link": "https://www.jiji.com/jc/article?k=2026110500942&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-05T13:17:47.370900+00:00"
+    },
+    {
+      "title": "ロシア大統領は日本たばこ産業（ＪＴ）のロシア国内資産をロシア企業の一時管理下に移すことを命じた",
+      "link": "https://www.jiji.com/jc/article?k=2026110501146&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-05T13:17:47.370867+00:00"
+    },
+    {
       "title": "英中銀、政策金利4.00%に　3年3カ月ぶり利上げ、インフレ加速",
       "link": "https://www.asahi.com/articles/ASVC53RCQVC5UHBI01HM.html?ref=rss",
       "summary": "",
@@ -1132,6 +1180,14 @@
       "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-11-05T11:45:00+00:00"
+    },
+    {
+      "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+      "link": "https://www.openssh.org/releasenotes.html#10.6p2",
+      "summary": "Article URL: https://www.openssh.org/releasenotes.html#10.6p2\nComments URL: https://news.ycombinator.com/item?id=50377976\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-05T11:40:30+00:00"
     },
     {
       "title": "Midterms Set Stage for Debt-Ceiling Clash",
