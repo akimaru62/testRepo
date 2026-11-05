@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T14:19:10.952468+00:00",
+  "generated_at": "2026-11-05T14:34:04.972506+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -966,12 +966,28 @@
   ],
   "items": [
     {
+      "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
+      "link": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
+      "summary": "In a CNBC interview, the policymaker expressed concern over inflation and said monetary policy will need to adjust.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-11-05T14:29:28+00:00"
+    },
+    {
       "title": "日本製紙、熊本地震で被災した八代工場の生産再開断念　工場は存続へ",
       "link": "https://www.asahi.com/articles/ASVC54HGHVC5ULFA02HM.html?ref=rss",
       "summary": "",
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-05T14:19:04.092830+00:00"
+    },
+    {
+      "title": "MCP Explained",
+      "link": "https://mcp-explained.com/",
+      "summary": "Article URL: https://mcp-explained.com/\nComments URL: https://news.ycombinator.com/item?id=50379249\nPoints: 10\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-05T14:08:35+00:00"
     },
     {
       "title": "日本製紙 八代工場の紙生産断念へ",
@@ -1086,6 +1102,14 @@
       "published": "2026-11-05T12:59:00+00:00"
     },
     {
+      "title": "Why This Obscure Audio Codec Is a Perfect Fit for the N64",
+      "link": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+      "summary": "Article URL: https://phoboslab.org/log/2026/11/n64-ulc-codec\nComments URL: https://news.ycombinator.com/item?id=50378508\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-05T12:51:48+00:00"
+    },
+    {
       "title": "Stocks making the biggest moves premarket: Shake Shack, Wendy's, Peloton, Unity Software & more",
       "link": "https://www.cnbc.com/2026/11/05/stocks-making-the-biggest-moves-premarket-shak-wen-pton-u.html",
       "summary": "These are the stocks posting the largest moves in early trading.",
@@ -1116,6 +1140,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-05T12:43:00+00:00"
+    },
+    {
+      "title": "Vivaldi 8.3 for Desktop: make bad ads sad",
+      "link": "https://vivaldi.com/blog/vivaldi-on-desktop-8-3/",
+      "summary": "Article URL: https://vivaldi.com/blog/vivaldi-on-desktop-8-3/\nComments URL: https://news.ycombinator.com/item?id=50378398\nPoints: 10\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-05T12:39:12+00:00"
     },
     {
       "title": "Interest rates could go ‘significantly higher’ if oil prices keep climbing — even if the Iran war ends soon",
@@ -1609,6 +1641,14 @@
       "title": "Stock Market Today: AI Stocks Under Pressure as Investors Pivot to Other Trades",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026?mod=rss_markets_main",
       "summary": "Chipmaker Qualcomm's earnings disappoint",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-05T09:25:53+00:00"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Opens Lower as Investors Reassess Positions",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026?mod=rss_markets_main",
+      "summary": "Rotation knocks shares of chipmakers and data-center suppliers, boosts Dow",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-05T09:25:53+00:00"
@@ -9209,6 +9249,14 @@
       "title": "Breakingviews TV: Breaking big - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBycV9HeWlndm5jcnBITklONGRRNElrVnJPc1ZwTzJfa0R4YktwZXhmcHhSOFB4bFdFcllLV1A3b3JZWGJ6c1dCTzU1MEgyc1Y2OEhjb0tmLXRNams?oc=5",
       "summary": "Breakingviews TV: Breaking big&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-03T08:00:00+00:00"
+    },
+    {
+      "title": "Streep, Hanks and Spielberg discuss political drama, The Post. - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zVDlkeEM0SWhyT1lmR0tpMjBRR1dLeENxZ3hXaVQxYnpzTEc4YjJNNk9Rckk2emZnaGZ2ak45dk03NWoxdHdvbVVMVE5VaksyYlo1QU4yNzZlTmc?oc=5",
+      "summary": "Streep, Hanks and Spielberg discuss political drama, The Post.&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-11-03T08:00:00+00:00"
