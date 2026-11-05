@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T11:33:11.080030+00:00",
+  "generated_at": "2026-11-05T11:47:47.043248+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -966,6 +966,30 @@
   ],
   "items": [
     {
+      "title": "NTTドコモ、不正アクセスで情報流出　携帯番号など最大30万件",
+      "link": "https://www.asahi.com/articles/ASVC51JL6VC5ULFA00SM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-05T11:47:42.880518+00:00"
+    },
+    {
+      "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+      "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+      "summary": "“In the wake of the midterm elections, how many Americans are living in poverty?”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-05T11:45:00+00:00"
+    },
+    {
+      "title": "Midterms Set Stage for Debt-Ceiling Clash",
+      "link": "https://www.wsj.com/finance/investing/apple-can-be-an-expensive-ai-safe-haven-15014fb9?mod=rss_markets_main",
+      "summary": "Some of the best analysis and insight on investing, the wealth-management business and more.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-05T11:32:00+00:00"
+    },
+    {
       "title": "Will AI Throttle the Retirement Money Machine?",
       "link": "https://www.wsj.com/finance/investing/will-ai-throttle-the-retirement-money-machine-81d5b52d?mod=rss_markets_main",
       "summary": "Plus, Big Tech’s election silver lining.",
@@ -1004,6 +1028,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-05T11:17:17.012354+00:00"
+    },
+    {
+      "title": "Awesome repositories are no longer awesome",
+      "link": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
+      "summary": "Article URL: https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/\nComments URL: https://news.ycombinator.com/item?id=50377821\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-05T11:16:51+00:00"
     },
     {
       "title": "Britain's 'chippies' under threat from plastic deluge - charity - Reuters",
@@ -1146,6 +1178,14 @@
       "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-to-eight-week-lows-as-markets-digest-midterm-results-7effce3e?mod=rss_markets_main",
       "summary": "Bond markets cheered the prospect of fiscal restraint in the U.S., as the election result could lead to political gridlock, with a Republican President and Democrat-controlled Congress.",
       "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-05T10:15:00+00:00"
+    },
+    {
+      "title": "Toyota’s stock rallies after the company lowered sales guidance. Here’s how rare that is.",
+      "link": "https://www.marketwatch.com/story/toyota-stock-rallies-after-company-lowered-sales-guidance-heres-how-rare-that-is-c3d6c9bf?mod=mw_rss_topstories",
+      "summary": "Toyota Motor on Thursday saw an odd combination of a powerful stock-market gain after lowering its annual sales forecast.",
+      "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-05T10:15:00+00:00"
     },
