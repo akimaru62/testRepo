@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T00:40:01.664735+00:00",
+  "generated_at": "2026-11-05T00:51:28.342429+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -958,6 +958,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/rss/topics/business.xml",
+      "error": "500 Server Error: Internal Server Error for url: https://news.yahoo.co.jp/rss/topics/business.xml"
     }
   ],
   "items": [
