@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T16:33:29.519876+00:00",
+  "generated_at": "2026-11-05T16:48:22.539074+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -966,12 +966,52 @@
   ],
   "items": [
     {
+      "title": "Gold Futures Extend Post-Midterm Gains",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-flat-after-midterm-linked-rebound-2d7cca6a?mod=rss_markets_main",
+      "summary": "Gold futures added to the previous day’s gains with U.S. yields falling and the dollar steady after post-midterm losses.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-05T16:39:00+00:00"
+    },
+    {
+      "title": "Treasury, European Bond Yields Tumble as Markets Lifted by U.S. Democrats’ Victory",
+      "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-to-eight-week-lows-as-markets-digest-midterm-results-7effce3e?mod=rss_markets_main",
+      "summary": "Yields on long-dated Treasurys, German Bunds and U.K. gilts fell to multiweek lows following the Democrats’ gains in U.S. midterm elections and a consequent sharp fall in oil prices.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-05T16:37:00+00:00"
+    },
+    {
+      "title": "U.S. Natural Gas Inventories Rise By 77 Billion Cubic Feet",
+      "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-slides-mirroring-oil-in-aftermath-of-democratic-sweep-70661a9a?mod=rss_markets_main",
+      "summary": "Natural gas futures remained lower after data showed U.S. inventories increased by more than usual last week.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-05T16:33:00+00:00"
+    },
+    {
+      "title": "Nasdaq tumbles as chip rout intensifies after midterms",
+      "link": "https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1",
+      "summary": "AI trade under pressure as investors weigh possible impact of ‘blue wave’ on sectors favoured by Trump administration",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-05T16:24:55+00:00"
+    },
+    {
       "title": "The year’s most successful stock-market trades are unraveling — perhaps for good",
       "link": "https://www.marketwatch.com/story/the-years-most-successful-stock-market-trades-are-unraveling-perhaps-for-good-45f7a0dd?mod=mw_rss_topstories",
       "summary": "Wall Street’s top trades of 2026 are coming undone as a violent rotation rattles the U.S. stock market.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-05T16:23:00+00:00"
+    },
+    {
+      "title": "My psychophysics as a bilateral cochlear implant user",
+      "link": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+      "summary": "Article URL: https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf\nComments URL: https://news.ycombinator.com/item?id=50381033\nPoints: 6\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-05T16:21:12+00:00"
     },
     {
       "title": "消費減税、６日にも衆院通過　与野党、高市首相出席で合意",
@@ -1006,6 +1046,14 @@
       "published": "2026-11-05T16:06:00+00:00"
     },
     {
+      "title": "Motorola Signature 27 with GrapheneOS support",
+      "link": "https://motorolanews.com/motorola-signature-27-2/",
+      "summary": "Article URL: https://motorolanews.com/motorola-signature-27-2/\nComments URL: https://news.ycombinator.com/item?id=50380810\nPoints: 23\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-05T16:01:34+00:00"
+    },
+    {
       "title": "Accessibility statements now have a home on GitHub",
       "link": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
       "summary": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes.\nThe post Accessibility statements now have a home on GitHub appeared first on The GitHub Blog.",
@@ -1022,12 +1070,28 @@
       "published": "2026-11-05T16:00:00+00:00"
     },
     {
+      "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
+      "link": "https://github.com/AGGIB/Stroq",
+      "summary": "Article URL: https://github.com/AGGIB/Stroq\nComments URL: https://news.ycombinator.com/item?id=50380704\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-05T15:54:41+00:00"
+    },
+    {
       "title": "Nasdaq tumbles 6% as chip rout intensifies after midterms",
       "link": "https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1",
       "summary": "AI trade remains in the spotlight as investors weigh possible impact of ‘blue wave’ on sectors favoured by Trump administration",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-05T15:53:03+00:00"
+    },
+    {
+      "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
+      "link": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
+      "summary": "Article URL: https://kadhar.dev/blog/multi-agent-systems-from-scratch\nComments URL: https://news.ycombinator.com/item?id=50380658\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-05T15:51:57+00:00"
     },
     {
       "title": "European stocks overtake Wall Street following Democratic sweep",
@@ -1046,6 +1110,22 @@
       "published": "2026-11-05T15:35:47+00:00"
     },
     {
+      "title": "Exporting tables from a SQL Server backup (.bak) to Parquet without restoring it",
+      "link": "https://blog.arpe.io/fastbcp-1-6-export-sql-server-backup-to-parquet",
+      "summary": "Article URL: https://blog.arpe.io/fastbcp-1-6-export-sql-server-backup-to-parquet\nComments URL: https://news.ycombinator.com/item?id=50380410\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-05T15:33:49+00:00"
+    },
+    {
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "link": "https://openai.com/index/updated-model-spec/",
+      "summary": "Article URL: https://openai.com/index/updated-model-spec/\nComments URL: https://news.ycombinator.com/item?id=50380365\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-05T15:31:43+00:00"
+    },
+    {
       "title": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
       "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
       "summary": "“I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”",
@@ -1060,6 +1140,22 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-05T15:28:44+00:00"
+    },
+    {
+      "title": "Offline survival assistant – local LLM and Kiwix, runs from a USB stick",
+      "link": "https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md",
+      "summary": "Article URL: https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md\nComments URL: https://news.ycombinator.com/item?id=50380273\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-05T15:25:36+00:00"
+    },
+    {
+      "title": "We can do better than line-buffered output",
+      "link": "https://nullprogram.com/blog/2026/11/05/",
+      "summary": "Article URL: https://nullprogram.com/blog/2026/11/05/\nComments URL: https://news.ycombinator.com/item?id=50380268\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-05T15:25:22+00:00"
     },
     {
       "title": "レームダック化したトランプ氏、中間選挙後も波乱の火種か",
