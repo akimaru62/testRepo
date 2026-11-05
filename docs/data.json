@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T20:17:47.683403+00:00",
+  "generated_at": "2026-11-05T20:33:33.198155+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -965,6 +965,62 @@
     }
   ],
   "items": [
+    {
+      "title": "【朝日新聞が1万字回答（第2回）】｢記事を量産するモデルから転換｣全国取材網を守る苦闘､地方報道はどう変わる | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963198?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "――国内外の取材網は20年前と比べてどう変わり、記事づくりにどのような影響が出ていますか。今後の再編方針もお聞かせください。20年前と現在を比べると、国内外の取材環境は大きく変わった。インターネット…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-05T20:30:00+00:00"
+    },
+    {
+      "title": "【平将明･自民サイバー本部長に聞く(中)】｢約80億円要求｣GMOへの攻撃…国にできることは､経営者の責任は | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963169?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "――GMOインターネットグループの「お名前.com デスクトップクラウド」が不正アクセスを受け、利用者のFX取引口座が不正に操作される被害も出ました。攻撃者は同社に約80億円を要求しました。この事案…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-05T20:30:00+00:00"
+    },
+    {
+      "title": "｢詳しい人がいない｣で済ませてはいけない　中小企業が外部のセキュリティサービスを使う前に決めておくべきこと | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963092?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "セキュリティ専門人材の確保が難しい今､外部サービスの活用は避けて通れない。しかし､任せきりでは十分な対策にはならない。本記事では､SOCや脆弱性診断､CSIRT支援の違いや､最低限社内に残すべき判断…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-05T20:30:00+00:00"
+    },
+    {
+      "title": "Inside GitHub’s new Git storage architecture",
+      "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works.\nThe post Inside GitHub&#8217;s new Git storage architecture appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "category": "開発者向け",
+      "published": "2026-11-05T20:23:21+00:00"
+    },
+    {
+      "title": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
+      "link": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
+      "summary": "The tax brackets at the heart of Americans’ income-tax bills will be adjusting at a steeper level in 2027 compared to this year, underscoring inflation’s rekindled presence.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-05T20:22:00+00:00"
+    },
+    {
+      "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
+      "link": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
+      "summary": "Democratic winners and progressive lawmakers are calling for tougher limits on AI and data centers after the 2026 midterm elections.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-11-05T20:17:16+00:00"
+    },
+    {
+      "title": "｢トランプ惨敗｣で高市首相に迫る試練､米中ロの頭越し\"大胆ディール\"で日本だけがG7で孤立する\"悪夢シナリオ\" | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963696?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "アメリカ中間選挙で共和党が歴史的敗北を喫し､トランプ大統領の求心力が低下。日本外交も大きな岐路を迎えています。高市首相の手腕が問われる1カ月が始まります。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-05T20:15:00+00:00"
+    },
     {
       "title": "Goodbye from Salon",
       "link": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
