@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T15:47:54.065679+00:00",
+  "generated_at": "2026-11-05T16:21:04.952422+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -966,6 +966,78 @@
   ],
   "items": [
     {
+      "title": "消費減税、６日にも衆院通過　与野党、高市首相出席で合意",
+      "link": "https://www.jiji.com/jc/article?k=2026110400334&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-05T16:20:58.850436+00:00"
+    },
+    {
+      "title": "A record number of first-time home buyers now pay in cash. Here’s where they get the money.",
+      "link": "https://www.marketwatch.com/story/a-record-10-of-first-time-home-buyers-now-pay-in-cash-heres-where-they-get-the-money-70f2e656?mod=mw_rss_topstories",
+      "summary": "All-cash buyers are becoming more common, despite a housing market that’s been struggling with affordability issues.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-05T16:15:00+00:00"
+    },
+    {
+      "title": "This pancreatic cancer treatment is on track for ‘one of the best drug launches of all time’",
+      "link": "https://www.marketwatch.com/story/this-pancreatic-cancer-treatment-is-on-track-for-one-of-the-best-drug-launches-of-all-time-37bf86ce?mod=mw_rss_topstories",
+      "summary": "Revolution Medicines’ brand-new treatment brought in  far higher sales than expected in its first few weeks on the market.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-05T16:12:00+00:00"
+    },
+    {
+      "title": "Micron, Sandisk and other AI stocks are falling hard: ‘Investors don’t like uncertainty.’",
+      "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
+      "summary": "Wall Street is digesting the prospect of a slower AI buildout in the wake of the midterm-election results.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-05T16:06:00+00:00"
+    },
+    {
+      "title": "Accessibility statements now have a home on GitHub",
+      "link": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
+      "summary": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes.\nThe post Accessibility statements now have a home on GitHub appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "category": "開発者向け",
+      "published": "2026-11-05T16:00:00+00:00"
+    },
+    {
+      "title": "An Anthropic IPO when the AI trade is this turbulent? Goodspeed!",
+      "link": "https://www.marketwatch.com/story/an-anthropic-ipo-when-the-ai-trade-is-this-turbulent-godspeed-08ca0496?mod=mw_rss_topstories",
+      "summary": "Wall Street takes a harder look at AI costs after historic midterm results. Plus, the upside to Apple’s lack of artificial-intelligence spending.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-05T16:00:00+00:00"
+    },
+    {
+      "title": "Nasdaq tumbles 6% as chip rout intensifies after midterms",
+      "link": "https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1",
+      "summary": "AI trade remains in the spotlight as investors weigh possible impact of ‘blue wave’ on sectors favoured by Trump administration",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-05T15:53:03+00:00"
+    },
+    {
+      "title": "European stocks overtake Wall Street following Democratic sweep",
+      "link": "https://www.ft.com/content/1ca182d6-8d16-4ddb-98fb-cf933b4c3073?syn-25a6b1a6=1",
+      "summary": "Stoxx 600 index ahead of S&amp;P 500 for this year as US stocks tumble and investors bet White House policymaking will be constrained",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-05T15:42:12+00:00"
+    },
+    {
+      "title": "AI backlash threatens trillion-dollar data centre boom, say tech leaders",
+      "link": "https://www.ft.com/content/32fd4450-5880-437d-9bd9-df13289ada24?syn-25a6b1a6=1",
+      "summary": "Executives at FT’s Future of AI summit admit tech industry has fuelled hostility towards its own expansion",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-05T15:35:47+00:00"
+    },
+    {
       "title": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
       "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
       "summary": "“I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”",
@@ -1020,6 +1092,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-05T15:18:12.948755+00:00"
+    },
+    {
+      "title": "Nordstjernen, Northstar, Southstar: minimalist webbrowsers in C and Rust",
+      "link": "https://nordstjernen.org/",
+      "summary": "Article URL: https://nordstjernen.org/\nComments URL: https://news.ycombinator.com/item?id=50380170\nPoints: 3\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-05T15:17:31+00:00"
     },
     {
       "title": "Oil Futures Recover Some Lost Ground",
@@ -1873,6 +1953,14 @@
       "title": "Stock Market Today: Nasdaq Sinks as Investors Ditch Chip, Data-Center Stocks",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026?mod=rss_markets_main",
       "summary": "Tech-heavy index drops 4%; Dow gives up some post-election gains",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-05T09:25:53+00:00"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Sinks 5% as Investors Ditch Chip, Data-Center Stocks",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026?mod=rss_markets_main",
+      "summary": "Tech-heavy index enters correction territory; Dow drops more than 1,000 points",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-05T09:25:53+00:00"
