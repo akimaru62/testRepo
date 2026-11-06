@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T09:19:17.631822+00:00",
+  "generated_at": "2026-11-06T09:33:50.535967+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -978,6 +978,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f6f8b2c5be0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -1020,6 +1024,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-06T15:00:00+00:00"
+    },
+    {
+      "title": "相次ぐ情報漏洩に政府が緊急対策パッケージ　どんな内容？効果は？",
+      "link": "https://www.asahi.com/articles/ASVC612Z8VC6ULFA02MM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-06T09:33:45.655251+00:00"
+    },
+    {
+      "title": "京成電鉄が28年に運賃改定へ　京成上野―成田空港間は180円増に",
+      "link": "https://www.asahi.com/articles/ASVC6313VVC6ULFA033M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-06T09:33:45.655219+00:00"
     },
     {
       "title": "畑岡奈紗が単独首位浮上　ＴＯＴＯ女子ゴルフ",
@@ -1273,6 +1293,14 @@
       "title": "Stock Market Today: Global Stocks Swoon as Selloff Spreads",
       "link": "https://www.wsj.com/livecoverage/october-jobs-report-stock-market-11-06-2026?mod=rss_markets_main",
       "summary": "Nasdaq futures calm while Dow is poised for another bruising day",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-06T07:48:13+00:00"
+    },
+    {
+      "title": "Stock Market Today: AI Stocks Set to Stage Rebound After Brutal Week for Nasdaq",
+      "link": "https://www.wsj.com/livecoverage/october-jobs-report-stock-market-11-06-2026?mod=rss_markets_main",
+      "summary": "Tech futures recover while Dow is poised for another bruising day; Asian indexes swoon",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-06T07:48:13+00:00"
