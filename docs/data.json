@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T03:33:31.293873+00:00",
+  "generated_at": "2026-11-06T03:47:37.241217+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -970,9 +970,21 @@
     {
       "url": "https://www.mof.go.jp/news.rss",
       "error": "404 Client Error: Not Found for url: https://www.mof.go.jp/news.rss"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "404 Client Error: Not Found for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Taiwan Dollar Weakens on AI Selloff, Foreign Equity Outflows",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-diminishing-risk-appetite-might-weigh-84b91434?mod=rss_markets_main",
+      "summary": "The Taiwan dollar briefly weakened past the key level of 33 per U.S. dollar early Friday for the first time since April 2025, weighed down by the AI selloff and foreign equity outflows.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-06T03:36:00+00:00"
+    },
     {
       "title": "消費減税、衆院通過へ　高市首相、給付対象「３割以上」",
       "link": "https://www.jiji.com/jc/article?k=2026110600299&g=pol&m=rss",
@@ -1030,6 +1042,14 @@
       "published": "2026-11-06T03:19:48.041954+00:00"
     },
     {
+      "title": "Nvidia Kubernetes Engine (NVKE)",
+      "link": "https://github.com/dsx-ai-factory/nvke",
+      "summary": "Article URL: https://github.com/dsx-ai-factory/nvke\nComments URL: https://news.ycombinator.com/item?id=50387738\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T03:16:26+00:00"
+    },
+    {
       "title": "U.S. Stock Market Will Likely Struggle to Regain October Peak",
       "link": "https://www.wsj.com/finance/stocks/nikkei-falls-5-9-dragged-by-chip-stocks-d8937761?mod=rss_markets_main",
       "summary": "The U.S. equity market will likely struggle to regain its early October peak anytime soon, even if fears around the U.S. political outlook prove overdone, Capital Economics said.",
@@ -1070,12 +1090,36 @@
       "published": "2026-11-06T03:00:00+00:00"
     },
     {
+      "title": "Claude was faster and cheaper. We took the scenic route anyway",
+      "link": "https://blog.grainulation.org/verify-then-vote/",
+      "summary": "Article URL: https://blog.grainulation.org/verify-then-vote/\nComments URL: https://news.ycombinator.com/item?id=50387623\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T02:59:39+00:00"
+    },
+    {
+      "title": "Closed AI models dominate the price-performance frontier",
+      "link": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+      "summary": "Article URL: https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/\nComments URL: https://news.ycombinator.com/item?id=50387546\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T02:49:56+00:00"
+    },
+    {
       "title": "ピザーラ Dr.STONEコラボで謝罪",
       "link": "https://news.yahoo.co.jp/pickup/6601507?source=rss",
       "summary": "",
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-06T02:49:07+00:00"
+    },
+    {
+      "title": "Castration extends life span in mice",
+      "link": "https://www.science.org/content/article/castration-extends-life-span-surprising-way-mouse-study-suggests",
+      "summary": "Article URL: https://www.science.org/content/article/castration-extends-life-span-surprising-way-mouse-study-suggests\nComments URL: https://news.ycombinator.com/item?id=50387470\nPoints: 5\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T02:38:29+00:00"
     },
     {
       "title": "Asian tech stocks sink",
