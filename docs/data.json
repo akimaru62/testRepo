@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T18:21:08.888174+00:00",
+  "generated_at": "2026-11-06T18:33:27.232847+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1014,6 +1014,14 @@
       "published": "2026-11-06T18:15:00+00:00"
     },
     {
+      "title": "Memorilla: Latent Semantic Memory for LLMs",
+      "link": "https://arxiv.org/abs/2610.21375",
+      "summary": "Article URL: https://arxiv.org/abs/2610.21375\nComments URL: https://news.ycombinator.com/item?id=50395919\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T18:03:33+00:00"
+    },
+    {
       "title": "You’re fired! But you can keep the laptop and insurance. And here’s $10,000.",
       "link": "https://www.marketwatch.com/story/layoffs-with-dignity-why-these-tech-firms-are-offering-free-laptops-and-linkedin-premium-28750d39?mod=mw_rss_topstories",
       "summary": "Some tech companies are giving more generous severance packages, but here’s what to keep in mind.",
@@ -1060,6 +1068,30 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-06T17:59:59+00:00"
+    },
+    {
+      "title": "Perplexity launches AI agents for work",
+      "link": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+      "summary": "Article URL: https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work\nComments URL: https://news.ycombinator.com/item?id=50395866\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T17:59:41+00:00"
+    },
+    {
+      "title": "Pliny – Letters – Book 7 Letter 27 (On Ghosts)",
+      "link": "https://vroma.org/vromans/hwalker/Pliny/Pliny07-27-E.html?utm",
+      "summary": "Article URL: https://vroma.org/vromans/hwalker/Pliny/Pliny07-27-E.html?utm\nComments URL: https://news.ycombinator.com/item?id=50395833\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T17:57:40+00:00"
+    },
+    {
+      "title": "Flawless UI-UX Skill 1.0.0",
+      "link": "https://github.com/smokeeaasd/flawless-ui-ux/releases/tag/v1.0.0",
+      "summary": "Article URL: https://github.com/smokeeaasd/flawless-ui-ux/releases/tag/v1.0.0\nComments URL: https://news.ycombinator.com/item?id=50395747\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T17:52:34+00:00"
     },
     {
       "title": "DraftKings’ expensive bet on prediction markets is crushing its stock",
@@ -1203,6 +1235,14 @@
       "summary": "Gold futures were lower after two days of gains following the U.S. midterm elections, while showing little negative reaction to October’s big U.S. payrolls number.",
       "source": "WSJ マーケット",
       "category": "海外金融",
+      "published": "2026-11-06T16:49:00+00:00"
+    },
+    {
+      "title": "GPU-Accelerated Weight Teleportation",
+      "link": "https://humansand.ai/blog/gpu-accelerated-weight-teleportation",
+      "summary": "Article URL: https://humansand.ai/blog/gpu-accelerated-weight-teleportation\nComments URL: https://news.ycombinator.com/item?id=50394837\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
       "published": "2026-11-06T16:49:00+00:00"
     },
     {
@@ -1556,6 +1596,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-06T13:38:43+00:00"
+    },
+    {
+      "title": "Bomb threats target media and flights as email warns ‘this is only the beginning’",
+      "link": "https://www.ft.com/content/f7167042-33d7-423a-89dd-4f379a437c15?syn-25a6b1a6=1",
+      "summary": "Campaign of intimidation continues a week before 50 European leaders are due to attend two major summits in Dublin",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-06T13:37:00+00:00"
     },
     {
       "title": "Gemini Omni 1.2 Flash",
