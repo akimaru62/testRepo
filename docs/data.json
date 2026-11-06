@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T19:33:28.190957+00:00",
+  "generated_at": "2026-11-06T19:47:42.382735+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -998,12 +998,44 @@
   ],
   "items": [
     {
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "link": "https://pwn.ai/blog/firecracker-escape",
+      "summary": "Article URL: https://pwn.ai/blog/firecracker-escape\nComments URL: https://news.ycombinator.com/item?id=50397219\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T19:33:38+00:00"
+    },
+    {
+      "title": "My first and last telegram was from Rebecca West",
+      "link": "https://thelampmagazine.com/blog/rebecca-wests-nightingale",
+      "summary": "Article URL: https://thelampmagazine.com/blog/rebecca-wests-nightingale\nComments URL: https://news.ycombinator.com/item?id=50397176\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T19:30:00+00:00"
+    },
+    {
       "title": "Precious Metals Post Weekly Gains",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-continues-to-rise-amid-better-risk-sentiment-e2d133ff?mod=rss_markets_main",
       "summary": "Precious metals gave back some gains from the previous two sessions but ended the week higher as stepped-up diplomatic efforts in the Middle East and the Democrats’ midterm election win sent oil prices lower, tempering some inflation concerns.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-06T19:25:00+00:00"
+    },
+    {
+      "title": "Democrats launching congressional investigations into SpaceXAI, META and Apple",
+      "link": "https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/",
+      "summary": "Article URL: https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/\nComments URL: https://news.ycombinator.com/item?id=50397102\nPoints: 14\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T19:24:24+00:00"
+    },
+    {
+      "title": "Restaurant Delivery Payment-Skimming Campaign",
+      "link": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+      "summary": "Article URL: https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming\nComments URL: https://news.ycombinator.com/item?id=50397017\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T19:19:27+00:00"
     },
     {
       "title": "「魅せるサービス、質高める」　最年少表彰の仏料理マネジャー―現代の名工",
@@ -1020,6 +1052,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-06T19:17:43.543097+00:00"
+    },
+    {
+      "title": "Replit rebuilt its sandbox engine with microVMs",
+      "link": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
+      "summary": "Article URL: https://frontier.replit.com/sandbox-engine-microvms-part-1/\nComments URL: https://news.ycombinator.com/item?id=50396834\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T19:06:10+00:00"
     },
     {
       "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
