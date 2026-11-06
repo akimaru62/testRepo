@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T15:17:31.933378+00:00",
+  "generated_at": "2026-11-06T15:33:43.342200+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1022,6 +1022,14 @@
       "published": "2026-11-06T17:00:00+00:00"
     },
     {
+      "title": "These three stars need to align before investors rush back into stocks, Bank of America strategist says",
+      "link": "https://www.marketwatch.com/story/these-three-stars-need-to-align-before-investors-rush-back-into-stocks-bank-of-america-strategist-says-52879caa?mod=mw_rss_topstories",
+      "summary": "Despite the steep drop in equity markets this week, investors should wait for several developments in other asset markets before rushing back into stocks, Michael Hartnett said.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-06T15:27:00+00:00"
+    },
+    {
       "title": "米メディア、勝てば「サプライズ」　田嶋氏のＦＩＦＡ会長選立候補報じる",
       "link": "https://www.jiji.com/jc/article?k=2026110601257&g=spo&m=rss",
       "summary": "",
@@ -1070,6 +1078,14 @@
       "published": "2026-11-06T15:05:00+00:00"
     },
     {
+      "title": "FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control",
+      "link": "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air",
+      "summary": "Article URL: https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air\nComments URL: https://news.ycombinator.com/item?id=50393183\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T15:03:24+00:00"
+    },
+    {
       "title": "米10月雇用16.5万人増 予想上回る",
       "link": "https://news.yahoo.co.jp/pickup/6601587?source=rss",
       "summary": "",
@@ -1078,12 +1094,36 @@
       "published": "2026-11-06T15:03:11+00:00"
     },
     {
+      "title": "RIP Cybertruck. You Were Unloved, Unwanted, and Utterly Absurd",
+      "link": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
+      "summary": "Article URL: https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/\nComments URL: https://news.ycombinator.com/item?id=50393154\nPoints: 10\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T15:01:38+00:00"
+    },
+    {
       "title": "障がい者等に配慮した取組みに関するアンケート調査の結果（令和８年３月末時点）について公表しました。",
       "link": "https://www.fsa.go.jp/news/r8/ginkou/20261106/20261106.html",
       "summary": "",
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-06T15:00:00+00:00"
+    },
+    {
+      "title": "Ask HN: What in the world is taking Ubuntu so long?",
+      "link": "https://news.ycombinator.com/item?id=50393105",
+      "summary": "Ubuntu has CVE-2026-98432 marked as a 9.8, but yet it's coming up on a week with no update to fix it.  It's still marked as \"work in progress\" (though at least now they've listed a mitigation):https://ubuntu.com/security/CVE-2026-98432I've had mitigations in place for a week, but this response is really shaking my confidence in Ubuntu.  I'm just trying to understand what is going on with Ubuntu.  Do they have too many kernels (that page is loooong), do they not have enough automation in the build/test pipeline, are their engineers overwhelmed?We are moving into a world where there are going to be vastly more security issues; if you can't keep up now, where are you going to be in the next 6 months?For a long time keeping on top of OS updates has been a huge part of keeping the attackers at bay.    However, the world is changing.\n\nComments URL: https://news.ycombinator.com/item?id=50393105\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T14:58:33+00:00"
+    },
+    {
+      "title": "Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)",
+      "link": "https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/",
+      "summary": "Article URL: https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/\nComments URL: https://news.ycombinator.com/item?id=50393089\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T14:57:16+00:00"
     },
     {
       "title": "AI Stocks Rebound After Brutal Week for Nasdaq",
