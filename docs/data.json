@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T23:47:23.161864+00:00",
+  "generated_at": "2026-11-06T00:13:40.335731+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -970,6 +970,70 @@
   ],
   "items": [
     {
+      "title": "日仏首脳が電話会談した",
+      "link": "https://www.jiji.com/jc/article?k=2026110500951&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-06T00:13:34.398663+00:00"
+    },
+    {
+      "title": "ANA幹部「国内線、今後も苦しい材料多い」　語った打開策と展望",
+      "link": "https://www.asahi.com/articles/ASVC53554VC5ULFA01NM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-06T00:13:33.912597+00:00"
+    },
+    {
+      "title": "How OrderServ achieved up to 64% cost savings with multi-tenant ECS",
+      "link": "https://aws.amazon.com/blogs/architecture/how-orderserv-achieved-up-to-64-cost-savings-with-multi-tenant-ecs/",
+      "summary": "See how Cognizant and AWS Professional Services transformed the OrderServ food-ordering platform into a multi-tenant SaaS offering on shared Amazon ECS, cutting compute costs up to 64%, reducing scaling time from minutes to seconds, and lowering authentication costs by 80%.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-11-06T00:09:41+00:00"
+    },
+    {
+      "title": "いまこそ企業人がAI倫理を問うべき理由　善き社会のために､AIに何を任せ､人に何を残すのか | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962769?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "生成AIの進化により､企業は業務やサービスそのものをAIを前提に再設計する時代に入りました。単なる効率化を超え､｢どこまでAIに任せ､どこに人間ならではの価値を残すのか｣という判断が不可欠に。AI倫…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-06T00:00:00+00:00"
+    },
+    {
+      "title": "How to Keep These Wild Market Moves From Hijacking Your Financial Future",
+      "link": "https://www.wsj.com/finance/investing/how-to-keep-these-wild-market-moves-from-hijacking-your-financial-future-71ecb216?mod=rss_markets_main",
+      "summary": "The stunning election results make it more important than ever to stick with your investing playbook.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-06T00:00:00+00:00"
+    },
+    {
+      "title": "9月の実質賃金 9カ月連続プラス",
+      "link": "https://news.yahoo.co.jp/pickup/6601493?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-05T23:53:08+00:00"
+    },
+    {
+      "title": "Cloudflare’s stock mounts a big comeback after fastest sales surge in nearly 4 years",
+      "link": "https://www.marketwatch.com/story/cloudflares-stock-mounts-a-big-comeback-after-fastest-sales-surge-in-nearly-4-years-d80d994d?mod=mw_rss_topstories",
+      "summary": "Demand for automated AI protection is on the rise — and manifesting in Cloudflare’s earnings results.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-05T23:50:00+00:00"
+    },
+    {
+      "title": "Here are the 2027 capital-gains tax rates for each income level",
+      "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
+      "summary": "How much will you pay in capital-gains taxes next year? The IRS just released this crucial  information.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-05T23:48:00+00:00"
+    },
+    {
       "title": "9月の実質賃金2.2%増　9カ月連続のプラス　名目賃金の伸び続く",
       "link": "https://www.asahi.com/articles/ASVC53HP0VC5ULFA01VM.html?ref=rss",
       "summary": "",
@@ -1040,6 +1104,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-05T23:15:00+00:00"
+    },
+    {
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html\nComments URL: https://news.ycombinator.com/item?id=50385870\nPoints: 21\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-05T23:09:57+00:00"
     },
     {
       "title": "毎日の｢ゲームやめなさい！｣が､子どものゲーム時間を増やしている…叫ぶ親ほど気づかない《心の作用･反作用》の怖さ | ライフ | 東洋経済オンライン",
