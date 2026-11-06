@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T20:05:29.274903+00:00",
+  "generated_at": "2026-11-06T20:18:05.653907+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -997,6 +997,46 @@
     }
   ],
   "items": [
+    {
+      "title": "優れた燃費に軽快な走り､余裕ある空間…現代的SUVなのに｢グランデ パンダ ハイブリッド｣に漂う往年のフィアット感 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962735?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2026年に日本上陸を果たしたフィアット｢グランデ パンダ ハイブリッド｣。軽快な走りや20km/L超の燃費､歴史とデザインの融合が魅力の新型コンパクトクロスオーバーです。最新モデルながら､なぜ\"あ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-06T20:00:00+00:00"
+    },
+    {
+      "title": "HN: CloneGuard – scan a repo for credential-stealing tricks before you run it",
+      "link": "https://github.com/tharun208/cloneguard",
+      "summary": "Article URL: https://github.com/tharun208/cloneguard\nComments URL: https://news.ycombinator.com/item?id=50397435\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T19:49:27+00:00"
+    },
+    {
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "summary": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution\nComments URL: https://news.ycombinator.com/item?id=50397429\nPoints: 18\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T19:48:51+00:00"
+    },
+    {
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
+      "link": "https://openai.com/index/partnering-with-hacktron/",
+      "summary": "Article URL: https://openai.com/index/partnering-with-hacktron/\nComments URL: https://news.ycombinator.com/item?id=50397341\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T19:41:59+00:00"
+    },
+    {
+      "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
+      "link": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
+      "summary": "Hi there :)Around a month ago, I released LDraw Nova, an agentic toolset for assembling LEGO CAD models by generating LDraw source code files.For more details, here's the Show HN post:https://news.ycombinator.com/item?id=49937916From the comments, I got the impression that there was quite an interest in seeing not only AI-generated LEGO models, but also AI-animated LEGO ones.I took a look at results from past experiments, and found it feasible to use agentic LLMs for:- analyzing the LDraw source code for LEGO models\n- reverse-engineer! the mechanisms present by reading the descriptions and sequence for the parts there\n- and then, animate them via Blender!This new project I'm presenting, LDraw Mecha, is the end result and proof that can be done:- Read specially annotated LDraw LEGO models .mpd source files\n- Infer the model structure in terms of submodels\n- Select from those the ones that are mechanisms\n- Plan animations\n- Execute them in BlenderIn summary, from an initial .mpd source file, get a rigged and animated version for the model as a Blender (.blend) file.See the results here:- Repo (v0.5.0): https://github.com/anteloc/ldraw-mecha/tree/v0.5.0\n- Gallery: https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/GALLERY.m...\n- Process: https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/PROCESS.m...This project is very unusual, I'd really appreciate some feedback from the community.Cheers!\n\nComments URL: https://news.ycombinator.com/item?id=50397325\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T19:41:20+00:00"
+    },
     {
       "title": "As the Japanese Countryside Empties Out, Wildlife Is Disappearing",
       "link": "https://e360.yale.edu/digest/japan-depopulation-biodiversity",
