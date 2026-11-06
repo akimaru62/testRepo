@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T17:47:44.722281+00:00",
+  "generated_at": "2026-11-06T18:07:45.076378+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -990,6 +990,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f23fdbb5be0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -1000,6 +1004,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-06T18:15:00+00:00"
+    },
+    {
+      "title": "You’re fired! But you can keep the laptop and insurance. And here’s $10,000.",
+      "link": "https://www.marketwatch.com/story/layoffs-with-dignity-why-these-tech-firms-are-offering-free-laptops-and-linkedin-premium-28750d39?mod=mw_rss_topstories",
+      "summary": "Some tech companies are giving more generous severance packages, but here’s what to keep in mind.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-06T18:03:00+00:00"
     },
     {
       "title": "採用,職員を募集しています。（モニタリング高度化に係るシステムに関する業務に従事する専門調査員（非常勤職員））",
@@ -1018,6 +1030,54 @@
       "published": "2026-11-06T18:00:00+00:00"
     },
     {
+      "title": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
+      "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+      "summary": "Math may be cold and unemotional — but finances are not.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-06T18:00:00+00:00"
+    },
+    {
+      "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
+      "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+      "summary": "Analysts warn of further volatility ahead, although there are two new factors that work in the AI trade’s favor.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-06T18:00:00+00:00"
+    },
+    {
+      "title": "DraftKings’ expensive bet on prediction markets is crushing its stock",
+      "link": "https://www.marketwatch.com/story/draftkings-expensive-bet-on-prediction-markets-is-crushing-its-stock-277bee0d?mod=mw_rss_topstories",
+      "summary": "Shares of the online betting platform slid more than 26% on Friday, as analysts worry about regulation and competition.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-06T17:51:00+00:00"
+    },
+    {
+      "title": "Partner Who Was Poised to Lead Weil Gotshal Is Joining Kirkland & Ellis",
+      "link": "https://www.wsj.com/business/partner-who-was-poised-to-lead-weil-gotshal-is-joining-kirkland-ellis-d1b6ff23?mod=rss_markets_main",
+      "summary": "Ramona Nee, a star private-equity lawyer, will work for a firm whose scale she wanted to emulate.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-06T17:51:00+00:00"
+    },
+    {
+      "title": "What’s next for your portfolio after the decline in Big Tech stocks?",
+      "link": "https://www.marketwatch.com/story/whats-next-for-your-portfolio-after-the-decline-in-big-tech-stocks-2873452f?mod=mw_rss_topstories",
+      "summary": "Also in Weekend Reads: Ideas for generating investment income, new tax brackets, buying a home with cash and advice from the Moneyist.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-06T17:47:00+00:00"
+    },
+    {
+      "title": "Tesla’s Cybertruck is a masterclass in failing upwards",
+      "link": "https://www.ft.com/content/675d9559-acb0-49a0-8108-f7dc433176fc?syn-25a6b1a6=1",
+      "summary": "Musk wasn’t so hot when it came to selling a pick-up truck, but he still knows how to sell himself",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-06T17:38:41+00:00"
+    },
+    {
       "title": "Treasury Yields Rise on Strong Jobs Data",
       "link": "https://www.wsj.com/finance/investing/u-s-treasurys-little-changed-markets-await-employment-data-88f3f2b6?mod=rss_markets_main",
       "summary": "Treasury yields rose on robust U.S. labor data and ahead of next week’s inflation reports, while safe-haven buying kept borrowing costs near recent lows in Germany.",
@@ -1032,6 +1092,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-06T17:23:03+00:00"
+    },
+    {
+      "title": "Anthropic IPO valuation talks drop to $1.3T",
+      "link": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors",
+      "summary": "Article URL: https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors\nComments URL: https://news.ycombinator.com/item?id=50395318\nPoints: 26\n# Comments: 8",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T17:21:15+00:00"
     },
     {
       "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
@@ -1589,6 +1657,14 @@
       "title": "Tesla winds down Cybertruck production after years of poor sales in few markets",
       "link": "https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv",
       "summary": "Article URL: https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv\nComments URL: https://news.ycombinator.com/item?id=50391456\nPoints: 20\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T12:13:51+00:00"
+    },
+    {
+      "title": "Tesla to wind down Cybertruck production",
+      "link": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817\nComments URL: https://news.ycombinator.com/item?id=50391456\nPoints: 301\n# Comments: 901",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-06T12:13:51+00:00"
