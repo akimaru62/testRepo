@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T23:32:57.251252+00:00",
+  "generated_at": "2026-11-06T23:47:49.221194+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -998,12 +998,28 @@
   ],
   "items": [
     {
+      "title": "A Berkshire Hathaway Electric Utility Wants a Historic Rate Hike in California",
+      "link": "https://www.wsj.com/business/energy-oil/a-berkshire-hathaway-electric-utility-wants-a-historic-rate-hike-in-california-b7a0cc70?mod=rss_markets_main",
+      "summary": "Pacific Power is asking state regulators to approve a 57% rate increase that would boost the typical residential power bill by $120 a month.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-06T23:33:00+00:00"
+    },
+    {
       "title": "JTのロシア事業、非製造会社3社も現地管理下に　新たな大統領令で",
       "link": "https://www.asahi.com/articles/ASVC67R8PVC6UHBI004M.html?ref=rss",
       "summary": "",
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-06T23:32:52.555284+00:00"
+    },
+    {
+      "title": "道路に放り出された鶏が《その場にうずくまる》異様な光景…ひよこの体重を\"50日で60倍にする\"養鶏業のリアル | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963652?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2026年10月､宮城県大崎市の国道で､たくさんの鶏がトラックの積荷から道路に放り出されました。驚くのは､その多くがその場にうずくまっていたことです。鶏たちは普段どんな環境で育てられているのでしょう…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-06T23:30:00+00:00"
     },
     {
       "title": "The Wild Week That Brought AI Investors to the Brink",
@@ -1074,6 +1090,14 @@
       "link": "https://toyokeizai.net/articles/-/962635?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "｢子どもがスマホをやめないのは親の責任？｣そんな不安やイライラの根底には､親自身の自己肯定感が大きく関わっているといいます。子どもと自分を責めてしまう悪循環を断ち切るための視点と､心が楽になる具体的…",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-06T23:00:00+00:00"
+    },
+    {
+      "title": "GMO謝罪会見　現場で記者が見た“違和感”",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/07/news006.html",
+      "summary": "謝罪の場での理念説明、壇上での社員への叱責――。GMOインターネットグループの不正アクセスに関する説明会では、ガバナンスの構造的な不全が露呈した。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-11-06T23:00:00+00:00"
     },
@@ -1588,6 +1612,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-06T19:17:43.543097+00:00"
+    },
+    {
+      "title": "Building the next generation of multimodal AI experiences with fal in Microsoft Foundry",
+      "link": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/building-the-next-generation-of-multimodal-ai-experiences-with-fal-in-microsoft-/4570032",
+      "summary": "Microsoft and fal partner to expand video generation in Microsoft Foundry, helping developers bring creative ideas into enterprise applications.\nThe post Building the next generation of multimodal AI experiences with fal in Microsoft Foundry appeared first on Microsoft Azure Blog.",
+      "source": "Azure ブログ",
+      "category": "テクノロジー",
+      "published": "2026-11-06T19:08:44+00:00"
     },
     {
       "title": "Replit rebuilt its sandbox engine with microVMs",
