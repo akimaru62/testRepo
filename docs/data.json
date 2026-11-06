@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T00:39:39.993301+00:00",
+  "generated_at": "2026-11-06T00:52:40.522276+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -995,6 +995,14 @@
       "summary": "働き方改革で残業が減り､自由な時間が増えても､｢やりたいことがない｣と休日を持て余す人は少なくありません。日本人に無趣味な人が多い背景には､趣味に対するある\"思い込み\"があるそう。人生を謳歌している…",
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
+      "published": "2026-11-06T00:30:00+00:00"
+    },
+    {
+      "title": "国債金利情報(令和8年11月5日)",
+      "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
       "published": "2026-11-06T00:30:00+00:00"
     },
     {
@@ -2105,6 +2113,14 @@
       "title": "Nasdaq drops the most since pandemic as Democratic ‘blue wave’ upends AI bets",
       "link": "https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1",
       "summary": "Investors fear newly elected politicians up and down the US will seek to slow data centre development in blow to tech stocks",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-05T16:59:34+00:00"
+    },
+    {
+      "title": "Asia shares sell off after Nasdaq drops most since pandemic",
+      "link": "https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1",
+      "summary": "Investors fear newly elected US politicians will seek to slow data centre development in blow to tech stocks and AI boom",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-05T16:59:34+00:00"
