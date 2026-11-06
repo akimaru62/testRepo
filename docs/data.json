@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T00:13:40.335731+00:00",
+  "generated_at": "2026-11-06T00:39:39.993301+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -966,9 +966,45 @@
     {
       "url": "https://azure.microsoft.com/ja-jp/blog/feed/",
       "error": "HTTPSConnectionPool(host='azure.microsoft.com', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://www.mof.go.jp/news.rss",
+      "error": "404 Client Error: Not Found for url: https://www.mof.go.jp/news.rss"
     }
   ],
   "items": [
+    {
+      "title": "日経平均が一時4千円下落　AI投資に懸念　NYダウも下落",
+      "link": "https://www.asahi.com/articles/ASVC57R9CVC5SFVU0NRM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-06T00:39:27.171084+00:00"
+    },
+    {
+      "title": "日経平均 一時4000円以上値下がり",
+      "link": "https://news.yahoo.co.jp/pickup/6601497?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-06T00:32:15+00:00"
+    },
+    {
+      "title": "無趣味な50代が休日を持て余す本当の原因…｢フィギュア大人買い｣や｢昆虫採集｣で人生を謳歌できる納得すぎるワケ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962281?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "働き方改革で残業が減り､自由な時間が増えても､｢やりたいことがない｣と休日を持て余す人は少なくありません。日本人に無趣味な人が多い背景には､趣味に対するある\"思い込み\"があるそう。人生を謳歌している…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-06T00:30:00+00:00"
+    },
+    {
+      "title": "Gold Continues to Rise Amid Better Risk Sentiment",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-continues-to-rise-amid-better-risk-sentiment-e2d133ff?mod=rss_markets_main",
+      "summary": "Gold gained in early Asian trade amid better risk sentiment. There are increased hopes that a Democratic-led Congress will be able to fight inflation more effectively, said ANZ Research.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-06T00:25:00+00:00"
+    },
     {
       "title": "日仏首脳が電話会談した",
       "link": "https://www.jiji.com/jc/article?k=2026110500951&g=flash&m=rss",
@@ -992,6 +1028,14 @@
       "source": "AWS ブログ (アーキテクチャ)",
       "category": "開発者向け",
       "published": "2026-11-06T00:09:41+00:00"
+    },
+    {
+      "title": "Inkling 2 Small",
+      "link": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-small/\nComments URL: https://news.ycombinator.com/item?id=50386338\nPoints: 14\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T00:00:24+00:00"
     },
     {
       "title": "いまこそ企業人がAI倫理を問うべき理由　善き社会のために､AIに何を任せ､人に何を残すのか | ビジネス | 東洋経済オンライン",
@@ -1056,6 +1100,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-05T23:33:12.581903+00:00"
+    },
+    {
+      "title": "Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data",
+      "link": "https://www.fgc.org.br/comunicado",
+      "summary": "Article URL: https://www.fgc.org.br/comunicado\nComments URL: https://news.ycombinator.com/item?id=50386104\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-05T23:32:36+00:00"
     },
     {
       "title": "｢なぜかお腹だけ痩せない｣3つの\"明確な理由\"をトレーナーが解説　最短で結果を出すのは\"驚くほどシンプルな正攻法\"だ | ライフ | 東洋経済オンライン",
@@ -1248,6 +1300,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-05T22:15:00+00:00"
+    },
+    {
+      "title": "Xerox in talks for deal with Japan's Fujifilm - WSJ - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NUUhicU01UGloR3dwbGI1c291RjZhSHI0Sm9qMmdVQ19TRHM4UmJuVWVPdWZvTVV3LVMtZnM4c0R1N2l3dlFRbFo1dE1UZWt6eTM2aUh2QXMxRjA?oc=5",
+      "summary": "Xerox in talks for deal with Japan's Fujifilm - WSJ&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-05T22:11:43+00:00"
     },
     {
       "title": "｢危険な薬剤｣を使った美容クリニック…患者のカルテに抱いた\"違和感\"　｢リーガルドック 医療弁護士アラタの証明｣（第2話 ①） | ライフ | 東洋経済オンライン",
