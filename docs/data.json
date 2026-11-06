@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T01:18:48.011246+00:00",
+  "generated_at": "2026-11-06T01:34:39.546339+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -973,6 +973,22 @@
     }
   ],
   "items": [
+    {
+      "title": "国庫短期証券（第1419回）の発行予定額等",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20261106.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-06T01:20:00+00:00"
+    },
+    {
+      "title": "国庫短期証券（第1417回）の入札発行",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20261106.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-06T01:20:00+00:00"
+    },
     {
       "title": "日経平均の下げ幅が１６００円を超え、５カ月半ぶりに６万円を割り込んだ",
       "link": "https://www.jiji.com/jc/article?k=2026110600269&g=flash&m=rss",
@@ -2174,6 +2190,14 @@
       "published": "2026-11-05T17:00:00+00:00"
     },
     {
+      "title": "Stop treating agents as one-off projects and start running them as a continuous discipline",
+      "link": "https://azure.microsoft.com/en-us/blog/stop-treating-agents-as-one-off-projects-and-start-running-them-as-a-continuous-discipline/",
+      "summary": "AI must be selected, architected, and managed as a continuous business discipline, not a series of isolated projects.\nThe post Stop treating agents as one-off projects and start running them as a continuous discipline appeared first on Microsoft Azure Blog.",
+      "source": "Azure ブログ",
+      "category": "テクノロジー",
+      "published": "2026-11-05T17:00:00+00:00"
+    },
+    {
       "title": "Nasdaq tumbles in chaotic trading as Democratic ‘blue wave’ sparks AI fears",
       "link": "https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1",
       "summary": "Investors fear newly elected politicians up and down the US will seek to slow data centre development in blow to tech stocks",
@@ -2355,6 +2379,14 @@
       "summary": "Wall Street takes a harder look at AI costs after historic midterm results. Plus, the upside to Apple’s lack of artificial-intelligence spending.",
       "source": "MarketWatch",
       "category": "海外金融",
+      "published": "2026-11-05T16:00:00+00:00"
+    },
+    {
+      "title": "Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200",
+      "link": "https://azure.microsoft.com/en-us/blog/designing-azure-silicon-on-azure-silicon-eda-workloads-on-cobalt-200/",
+      "summary": "Discover how Microsoft is accelerating electronic design automation (EDA) workloads with Azure Cobalt 200 VMs. Explore early performance results demonstrating faster simulation, verification, and static timing analysis, along with the benefits of scalable cloud infrastructure for silicon design and development.\nThe post Designing Azure silicon on Azure silicon: EDA workloads on Cobalt 200 appeared first on Microsoft Azure Blog.",
+      "source": "Azure ブログ",
+      "category": "テクノロジー",
       "published": "2026-11-05T16:00:00+00:00"
     },
     {
