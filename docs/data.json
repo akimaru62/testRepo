@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T16:18:53.193395+00:00",
+  "generated_at": "2026-11-06T16:33:29.526222+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1026,6 +1026,22 @@
       "published": "2026-11-06T17:00:00+00:00"
     },
     {
+      "title": "Hims & Hers struck a GLP-1 deal with Lilly. Its stock is rallying.",
+      "link": "https://www.marketwatch.com/story/hims-hers-struck-a-glp-1-deal-with-lilly-its-stock-is-rallying-d06ebe60?mod=mw_rss_topstories",
+      "summary": "As part of the agreement, Hims said it won’t compound GLP-1 medications like Zepbound in the future.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-06T16:29:00+00:00"
+    },
+    {
+      "title": "Layoffs with dignity? Why these tech companies are offering free laptops and LinkedIn Premium.",
+      "link": "https://www.marketwatch.com/story/layoffs-with-dignity-why-these-tech-firms-are-offering-free-laptops-and-linkedin-premium-28750d39?mod=mw_rss_topstories",
+      "summary": "Some tech companies are giving more generous severance packages, but here’s what to keep in mind.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-06T16:27:00+00:00"
+    },
+    {
       "title": "「ゴジラ」ゆかりの海底地形、地質遺産に　海保調査で発見",
       "link": "https://www.jiji.com/jc/article?k=2026110601275&g=soc&m=rss",
       "summary": "",
@@ -1122,6 +1138,14 @@
       "published": "2026-11-06T15:09:00+00:00"
     },
     {
+      "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+      "link": "https://github.com/zalando-incubator/agentic-identity-broker",
+      "summary": "Hi HN, I’m Jan. I am co-author of the Agentic Identity Broker (AIB), an MIT-licensed OAuth2 broker in the Zalando Incubator, that lets a user give an AI agent scoped, revocable access to MCP services.The broker solves three major challenges that are especially relevant in corporate environments: (A) Enable users to delegate workloads to agents without providing the agents all the user’s tokens. (B) Connect fragmented identity and authorization systems. (C) Centralize tool approvals and audit logging.We built AIB to fill an infrastructure gap in our own agent platform. At this moment in time, IETF working groups are still finalizing standards for agent identity, and vendors are still turning the necessary infrastructure into off-the-shelf products. We needed that infrastructure today.How it works: the user consents once per agent and service. The broker stores the third-party tokens encrypted. At request time a gateway (e.g. Agentgateway) does RFC 8693 token exchange. Agents never see user tokens and MCP servers only implement tools and don’t need to care about all the OAuth 2.1 plumbing.AIB is v0.1 and runs in production, bringing together hundreds of our agents with dozens of internal and external MCP servers.To try it locally: clone the repo, run \"just compose-up-detached\".The current features focus on on-behalf-of (OBO) use cases, where human actors delegate to agents. Next we are looking to also support headless agents, where agents are invoked by machines. Intent-based authorization is yet another package on our roadmap. If you’ve built either, or have feedback on the UI/UX, I’d like to hear from you!\n\nComments URL: https://news.ycombinator.com/item?id=50393235\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T15:07:47+00:00"
+    },
+    {
       "title": "Norway’s Oil Fund Reaches $224.5 Million Settlement With KPMG Over SVB Collapse",
       "link": "https://www.wsj.com/finance/banking/norway-oil-fund-reaches-224-5-million-settlement-with-kpmg-over-silicon-valley-bank-collapse-e0cc9045?mod=rss_markets_main",
       "summary": "Norges Bank Investment Management and co-lead plaintiff Sjunde AP-fonden, Sweden’s state pension fund, reached a $224.5 million settlement in principle.",
@@ -1157,6 +1181,14 @@
       "title": "RIP Cybertruck. You Were Unloved, Unwanted, and Utterly Absurd",
       "link": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
       "summary": "Article URL: https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/\nComments URL: https://news.ycombinator.com/item?id=50393154\nPoints: 10\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T15:01:38+00:00"
+    },
+    {
+      "title": "RIP Cybertruck",
+      "link": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
+      "summary": "Article URL: https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/\nComments URL: https://news.ycombinator.com/item?id=50393154\nPoints: 139\n# Comments: 154",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-06T15:01:38+00:00"
@@ -2165,6 +2197,14 @@
       "title": "Chomsky and the Two Cultures of Statistical Learning",
       "link": "https://www.norvig.com/chomsky.html",
       "summary": "Article URL: https://www.norvig.com/chomsky.html\nComments URL: https://news.ycombinator.com/item?id=50389570\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T08:18:36+00:00"
+    },
+    {
+      "title": "Chomsky and the Two Cultures of Statistical Learning (2011)",
+      "link": "https://www.norvig.com/chomsky.html",
+      "summary": "Article URL: https://www.norvig.com/chomsky.html\nComments URL: https://news.ycombinator.com/item?id=50389570\nPoints: 53\n# Comments: 25",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-06T08:18:36+00:00"
@@ -8146,6 +8186,14 @@
       "published": "2026-11-04T14:49:45+00:00"
     },
     {
+      "title": "Amid controversy, Turkey opens 'world's largest airport' - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NUXlpcF9QdmhHM0tvbEZyY3hwYVJJZVp1b3p2dUhiOG13RnFvOUdyZVM4OTdMRzlSRmlsdEsxa0ZLN2xvQUQyNXRuRnRyRGJyakVsTWh5cFctWUk?oc=5",
+      "summary": "Amid controversy, Turkey opens 'world's largest airport'&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-04T14:49:45+00:00"
+    },
+    {
       "title": "Big Tech’s $500 billion spending spree leaves a lot less for shareholders",
       "link": "https://www.marketwatch.com/story/big-techs-500-billion-spending-spree-leaves-a-lot-less-for-shareholders-4ed57fb5?mod=mw_rss_topstories",
       "summary": "AI is changing the bargain between large technology companies and their shareholders,",
@@ -9901,6 +9949,14 @@
       "title": "Tech leads Wall Street lower - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kYm1xY29wSEhuRS1lNEpHS1ZFQTlMX2tBekF3VlhCa1NYc2s3RjA1NVMwcHBnWDhfdTNYT3c2VmNyOUUxVHVWRDZIMDVyaEZMQmhud2RUNVdWNDQ?oc=5",
       "summary": "Tech leads Wall Street lower&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-04T03:52:20+00:00"
+    },
+    {
+      "title": "Dozens feared trapped by India building collapse - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DVWJ5ZXlsdUVTdWYyNk9CX3N0S1VVd3hjYi1yaXB2UHJPSlZhUEdtS3N4UnpmRW5pUno2VUJFVndvc3JJb1lmeVdvXzJyelR1dW1CN1BSSlZEZU0?oc=5",
+      "summary": "Dozens feared trapped by India building collapse&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-11-04T03:52:20+00:00"
