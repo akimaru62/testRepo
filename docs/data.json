@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T04:33:13.389020+00:00",
+  "generated_at": "2026-11-06T04:47:54.326831+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -974,6 +974,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "404 Client Error: Not Found for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
