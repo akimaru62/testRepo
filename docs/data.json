@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T16:05:53.804836+00:00",
+  "generated_at": "2026-11-06T16:18:53.193395+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -986,6 +986,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f23fdbb5be0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -1020,6 +1024,30 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-06T17:00:00+00:00"
+    },
+    {
+      "title": "「ゴジラ」ゆかりの海底地形、地質遺産に　海保調査で発見",
+      "link": "https://www.jiji.com/jc/article?k=2026110601275&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-06T16:18:48.862713+00:00"
+    },
+    {
+      "title": "１０月の米雇用、１６万５０００人増　予想大幅超過、失業率４．１％",
+      "link": "https://www.jiji.com/jc/article?k=2026110601267&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-06T16:18:48.862662+00:00"
+    },
+    {
+      "title": "Cybertruck’s run comes to an end as Musk kills off pricey pet project",
+      "link": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
+      "summary": "The Cybertruck failed to catch on with car buyers due to high prices and some notable recalls.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-06T16:17:00+00:00"
     },
     {
       "title": "【講演】植田総裁「日本の経常収支黒字と企業行動の変容」（IMF）",
