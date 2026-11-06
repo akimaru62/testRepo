@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T17:04:47.253911+00:00",
+  "generated_at": "2026-11-06T17:17:50.161039+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1018,12 +1018,44 @@
       "published": "2026-11-06T18:00:00+00:00"
     },
     {
+      "title": "‘We’re losing to cottage cheese’: The protein-maxxing craze is hurting cream cheese sales",
+      "link": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
+      "summary": "U.S. cottage cheese sales have more than doubled from levels seen in 2021.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-06T17:14:00+00:00"
+    },
+    {
+      "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
+      "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "summary": "Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-11-06T17:09:53+00:00"
+    },
+    {
+      "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
+      "link": "https://up.codes/careers?utm_source=HN",
+      "summary": "Article URL: https://up.codes/careers?utm_source=HN\nComments URL: https://news.ycombinator.com/item?id=50395043\nPoints: 0\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T17:03:33+00:00"
+    },
+    {
       "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第３回）の議事次第について公表しました。",
       "link": "https://www.fsa.go.jp/singi/singi_kinyu/seityousikin_wg/gijishidai/20261109.html",
       "summary": "",
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-06T17:00:00+00:00"
+    },
+    {
+      "title": "First steps in bare-metal programming using UEFI",
+      "link": "https://kevinboone.me/efitest_index.html",
+      "summary": "Article URL: https://kevinboone.me/efitest_index.html\nComments URL: https://news.ycombinator.com/item?id=50394855\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T16:50:29+00:00"
     },
     {
       "title": "Gold Futures Pull Back After Post-Midterm Gains",
@@ -1072,6 +1104,22 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-06T16:17:00+00:00"
+    },
+    {
+      "title": "Scriptable GeoDNS: Leaving AWS for Bunny",
+      "link": "https://vincent.bernat.ch/en/blog/2026-bunny-geodns",
+      "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-bunny-geodns\nComments URL: https://news.ycombinator.com/item?id=50394292\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T16:15:03+00:00"
+    },
+    {
+      "title": "Promethevs: Full DeepSeek-v4.1-Flash-1017, locally, on 12GB of VRAM",
+      "link": "https://github.com/Magnvs7/Promethevs",
+      "summary": "Article URL: https://github.com/Magnvs7/Promethevs\nComments URL: https://news.ycombinator.com/item?id=50394288\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-06T16:14:47+00:00"
     },
     {
       "title": "【講演】植田総裁「日本の経常収支黒字と企業行動の変容」（IMF）",
