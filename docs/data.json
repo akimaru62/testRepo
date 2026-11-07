@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T21:04:03.154509+00:00",
+  "generated_at": "2026-11-07T21:17:17.852736+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1006,6 +1006,54 @@
   ],
   "items": [
     {
+      "title": "イスラエル大統領は、野党党首アイゼンコット氏に組閣を指示すると発表した",
+      "link": "https://www.jiji.com/jc/article?k=2026110800114&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-07T21:17:12.639056+00:00"
+    },
+    {
+      "title": "野党党首に組閣指示へ　イスラエル大統領",
+      "link": "https://www.jiji.com/jc/article?k=2026110800117&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-07T21:17:12.639033+00:00"
+    },
+    {
+      "title": "首相動静（１１月７日）",
+      "link": "https://www.jiji.com/jc/article?k=2026110700254&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-07T21:17:12.639009+00:00"
+    },
+    {
+      "title": "【そもそも解説】空き家管理の頻度、経費は　全国900万戸超の実態",
+      "link": "https://www.asahi.com/articles/ASVC344J7VC3OIPE00GM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-07T21:17:12.434220+00:00"
+    },
+    {
+      "title": "隣の空き家、解体してくれたら…市独自の「あっせん」制度、効果は",
+      "link": "https://www.asahi.com/articles/ASVC245KGVC2OIPE001M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-07T21:17:12.434208+00:00"
+    },
+    {
+      "title": "国宝天守を望む人気の城下町、悩みは「空き家」　始まった新たな対策",
+      "link": "https://www.asahi.com/articles/ASVC24DWDVC2OIPE003M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-07T21:17:12.434174+00:00"
+    },
+    {
       "title": "あぁついに〈AI半導体株バブル〉が完全に崩壊し始めた…その証拠はキオクシアよりも､あの優良株の暴落だ | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/964009?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "世界同時株安の波が､歴史的な選挙敗北をきっかけに本格化しています。株価は単なる調整ではなく､\"バブルの崩壊\"が現実となったのでしょうか。優良株までも投げ売られ､市場全体に波及し始めた今､その動きをど…",
@@ -1060,6 +1108,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-07T21:00:00+00:00"
+    },
+    {
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again\nComments URL: https://news.ycombinator.com/item?id=50407882\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-07T20:45:32+00:00"
     },
     {
       "title": "Second-guessing my adviser: Is an annuity the right move in this market?",
