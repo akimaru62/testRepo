@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T18:17:41.351856+00:00",
+  "generated_at": "2026-11-07T18:33:09.886212+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1002,6 +1002,30 @@
   ],
   "items": [
     {
+      "title": "What I run on my $10 USD OpenStick, Linux, Homelab",
+      "link": "https://blog.bosscher.ch/posts/openstick/",
+      "summary": "Article URL: https://blog.bosscher.ch/posts/openstick/\nComments URL: https://news.ycombinator.com/item?id=50406670\nPoints: 10\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-07T18:12:12+00:00"
+    },
+    {
+      "title": "The End of AI Frontiers",
+      "link": "https://hunch.net/?p=13764006",
+      "summary": "Article URL: https://hunch.net/?p=13764006\nComments URL: https://news.ycombinator.com/item?id=50406589\nPoints: 11\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-07T18:04:07+00:00"
+    },
+    {
+      "title": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
+      "link": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/",
+      "summary": "Article URL: https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/\nComments URL: https://news.ycombinator.com/item?id=50406563\nPoints: 11\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-07T18:02:17+00:00"
+    },
+    {
       "title": "French far-left presidential hopeful pledges ‘revolutionary’ remaking of society",
       "link": "https://www.ft.com/content/5cb562ec-5493-4ff3-bd2d-99cc9cacfa73?syn-25a6b1a6=1",
       "summary": "Jean-Luc Mélenchon stages show of force with 20,000-strong rally as widespread protests boost his momentum",
@@ -1010,12 +1034,28 @@
       "published": "2026-11-07T17:42:41+00:00"
     },
     {
+      "title": "Five Memorable Books About Programming",
+      "link": "https://prog21.dadgum.com/19.html",
+      "summary": "Article URL: https://prog21.dadgum.com/19.html\nComments URL: https://news.ycombinator.com/item?id=50406319\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-07T17:30:49+00:00"
+    },
+    {
       "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
       "link": "https://github.com/hedgerow-dev/coldframe",
       "summary": "I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would try against a convincing fake.To learn more about this I built a honeypot that resembled perfectly the Danfoss AK-SM 800A and Dixell XWEB interfaces. Both of them are recognized on Shodan as real ones (an not as honeypots). It’s one Python file using only the standard library, and it builds on eppser/danfoss-ak-sm-decoy and public research by Synacktiv, Claroty and Ironhackers.Things that were fun to get right:- Matching real units. I used Shodan records of real devices to match header order, page titles, certificate fields and TLS versions. The Danfoss persona sends nginx headers in the same order as a real AK-SM 800A. The Dixell persona sends no Server header and pads its page to exactly 8,202 bytes.- Recognising exploit attempts. It recognises CVE-2025-41450, the Danfoss “code of the day” login bypass, and records whether the submitted code is correct for today. It also tags attempts targeting three other Danfoss CVEs and the XWEB vulnerabilities.- Letting them in. Default logins open a fake store dashboard with defrost buttons, so you see the second move, not just the first. Nothing behind it is real.Two instances have been live for a day. So far they’ve only seen generic scanners and Shodan’s crawler, which is called refrigerator.census.shodan.io.Feedback welcome, especially from anyone who has seen these devices in the field!\n\nComments URL: https://news.ycombinator.com/item?id=50406292\nPoints: 10\n# Comments: 0",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-07T17:27:30+00:00"
+    },
+    {
+      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "link": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "summary": "Article URL: https://maxxbench.unlap.ai/research/why-maxxbench/\nComments URL: https://news.ycombinator.com/item?id=50406222\nPoints: 14\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-07T17:19:00+00:00"
     },
     {
       "title": "愛知で震度５強",
@@ -1072,6 +1112,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-07T16:22:59+00:00"
+    },
+    {
+      "title": "Every processor die anyone has photographed and given away",
+      "link": "https://sheets.works/data-viz/cpu-dies",
+      "summary": "Article URL: https://sheets.works/data-viz/cpu-dies\nComments URL: https://news.ycombinator.com/item?id=50405782\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-07T16:21:36+00:00"
     },
     {
       "title": "福島で震度３",
