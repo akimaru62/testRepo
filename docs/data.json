@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T02:47:27.374526+00:00",
+  "generated_at": "2026-11-07T03:05:45.542598+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -994,6 +994,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -1004,6 +1008,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-07T02:37:46+00:00"
+    },
+    {
+      "title": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
+      "link": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1",
+      "summary": "American intelligence warned the tech boss was involved with executive recruited by China to gather information on US group",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-07T02:33:26+00:00"
     },
     {
       "title": "電気絶縁用セパレーター専業のニッポン高度紙工業が｢AIサーバー向けの需要爆増｣で上方修正  | 政治・経済・投資 | 東洋経済オンライン",
