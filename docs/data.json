@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T16:17:56.006315+00:00",
+  "generated_at": "2026-11-07T16:33:10.682852+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1002,6 +1002,14 @@
   ],
   "items": [
     {
+      "title": "I attend free meals hosted by people promoting annuities. I’ve no intention of buying any. Should I stop going?",
+      "link": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
+      "summary": "“Salespeople typically push annuities, Medicare plans and estate-planning services.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-07T16:30:00+00:00"
+    },
+    {
       "title": "福島で震度３",
       "link": "https://www.jiji.com/jc/article?k=2026110700471&g=soc&m=rss",
       "summary": "",
@@ -1016,6 +1024,14 @@
       "source": "CNBC",
       "category": "海外金融",
       "published": "2026-11-07T16:02:33+00:00"
+    },
+    {
+      "title": "Google Described Its Agent Sandbox. I Built One with Firecracker and Measured It",
+      "link": "https://antonau.tech/posts/2026/11/agents-microvm-firecracker/",
+      "summary": "Article URL: https://antonau.tech/posts/2026/11/agents-microvm-firecracker/\nComments URL: https://news.ycombinator.com/item?id=50405649\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-07T16:01:40+00:00"
     },
     {
       "title": "You follow the rules for smart stock trading. But are they the right rules?",
@@ -1040,6 +1056,22 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-07T15:17:40.508911+00:00"
+    },
+    {
+      "title": "Ask HN: How did you convince family and friends to join your XMPP/Matrix server?",
+      "link": "https://news.ycombinator.com/item?id=50405250",
+      "summary": "I love open-source software and open protocols, but my family and friends primarily communicate through SMS for exactly the reasons in https://xkcd.com/2365/Whenever XMPP or Matrix threads pop up on HN, several commenters casually mention their \"friends and family XMPP (or Matrix) server.\"How did you convince friends and family to move away from SMS/WhatsApp and replace it with a niche messaging app?My family and friends aren't hardcore nerdy, but they're more tech-savvy than average. Their needs in messaging are mainly pragmatic: they want ease of use, reliability, and fun features. They don't care that much about privacy, decentralization, or extensibility (though I care about those things a lot).I've been experimenting with self-hosting XMPP and Matrix servers and clients in the past week, and the UX is even worse than I expected. It seems like all the clients either imitate Slack, imitate Discord, or imitate hot garbage. I haven't seen any that try to be a simple, friendly replacement for SMS. I'm a software developer who uses computers all day, and I find the UX for most of the clients incredibly hard to use.The only angle I could see to pitch XMPP/Matrix to people for non-philosophical reasons are that there's a more consistent experience across iOS/Android. The biggest shortcoming I think is visible to regular users is that there's feature degradation and missing information when iOS users have SMS conversations with Android users, especially in group chats.For people who have successfully won family and friends to XMPP or Matrix, what was your pitch? What do you recommend others do to make XMPP or Matrix an attractive experience for a regular person?\n\nComments URL: https://news.ycombinator.com/item?id=50405250\nPoints: 11\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-07T15:14:40+00:00"
+    },
+    {
+      "title": "The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf]",
+      "link": "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf",
+      "summary": "Article URL: https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf\nComments URL: https://news.ycombinator.com/item?id=50404747\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-07T14:18:45+00:00"
     },
     {
       "title": "スパイ罪男性、来月中旬出所　３年６月の刑期満了へ―中国",
