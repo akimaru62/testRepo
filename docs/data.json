@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T22:04:18.739984+00:00",
+  "generated_at": "2026-11-07T22:17:46.972581+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1002,9 +1002,53 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7475a0a25be0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://azure.microsoft.com/updates/feed/",
+      "error": "403 Client Error: Forbidden for url: https://azure.microsoft.com/en-us/updates?id=feed"
     }
   ],
   "items": [
+    {
+      "title": "日本、ウェールズに敗れる　反撃遅く７点差―ラグビー",
+      "link": "https://www.jiji.com/jc/article?k=2026110800143&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-07T22:17:41.521587+00:00"
+    },
+    {
+      "title": "愛知で震度５強、津波なし",
+      "link": "https://www.jiji.com/jc/article?k=2026110800027&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-07T22:17:41.521572+00:00"
+    },
+    {
+      "title": "中心市街で銃乱射、６人死亡　実行犯は極右思想傾倒か―ポーランド南部",
+      "link": "https://www.jiji.com/jc/article?k=2026110800135&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-07T22:17:41.521546+00:00"
+    },
+    {
+      "title": "中古品買い取り店、なぜ増えた？　強引な取引や価格を巡りトラブルも",
+      "link": "https://www.asahi.com/articles/ASVC44QQTVC4ULFA015M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-07T22:17:41.126109+00:00"
+    },
+    {
+      "title": "都心の2億円マンション「後妻に相続させる」遺言に実子が「待った」",
+      "link": "https://www.asahi.com/articles/ASVBX10ZGVBXULLI00MM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-07T22:17:41.126075+00:00"
+    },
     {
       "title": "｢湯沢のリゾマン｣温泉･プール付きで300万円台も！かつての｢負動産｣に移住者が集まり\"富動産\"に化けた理由 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/963812?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -1492,6 +1536,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-07T15:14:40+00:00"
+    },
+    {
+      "title": "Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack",
+      "link": "https://www.retrosongbird.com/",
+      "summary": "Article URL: https://www.retrosongbird.com/\nComments URL: https://news.ycombinator.com/item?id=50405172\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-07T15:06:54+00:00"
     },
     {
       "title": "The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf]",
