@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T02:47:54.317212+00:00",
+  "generated_at": "2026-11-08T03:06:48.675730+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1006,9 +1006,21 @@
     {
       "url": "https://azure.microsoft.com/updates/feed/",
       "error": "403 Client Error: Forbidden for url: https://azure.microsoft.com/en-us/updates?id=feed"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "藤堂高虎だけではない！秀長を支え続けて\"家臣団トップの給与\"が与えられた､超有能な｢最強の側近｣ | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963264?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "連載｢秀吉を天下人にした男､豊臣秀長の実像｣の第47回は秀長を支えた個性豊かなシゴデキ家臣たちについて真山知幸氏が解説します。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-08T03:00:00+00:00"
+    },
     {
       "title": "｢マンジャロ｣のイーライリリー､大幅上方修正の裏側 \"肥満薬は富裕層だけ\"ではなかった | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/963240?utm_source=rss&utm_medium=http&utm_campaign=link_back",
