@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T11:32:45.637929+00:00",
+  "generated_at": "2026-11-08T11:47:11.002374+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1014,6 +1014,14 @@
   ],
   "items": [
     {
+      "title": "Person of Interest",
+      "link": "https://krthr.co/person-of-interest/",
+      "summary": "Article URL: https://krthr.co/person-of-interest/\nComments URL: https://news.ycombinator.com/item?id=50412318\nPoints: 13\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-08T11:23:28+00:00"
+    },
+    {
       "title": "免税「リファンド方式」開始　訪日客向け、過去に追徴課税も―国税庁、転売抑制に期待",
       "link": "https://www.jiji.com/jc/article?k=2026110800119&g=soc&m=rss",
       "summary": "",
@@ -1046,6 +1054,14 @@
       "published": "2026-11-08T10:56:43+00:00"
     },
     {
+      "title": "JIT bitmap text rendering for microcontrollers",
+      "link": "https://linebender.org/blog/jit-bitmap-text/",
+      "summary": "Article URL: https://linebender.org/blog/jit-bitmap-text/\nComments URL: https://news.ycombinator.com/item?id=50412072\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-08T10:42:15+00:00"
+    },
+    {
       "title": "Don’t Trust the Market’s Knee-Jerk Reaction to the Midterms",
       "link": "https://www.wsj.com/finance/stocks/dont-trust-the-markets-knee-jerk-reaction-to-the-midterms-8702b17c?mod=rss_markets_main",
       "summary": "There are usually good reasons for politically driven trades. Yet they often prove catastrophic once the postelection hype settles down.",
@@ -1060,6 +1076,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-08T10:30:00+00:00"
+    },
+    {
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "link": "https://github.com/synchopate/llama-modchip",
+      "summary": "Article URL: https://github.com/synchopate/llama-modchip\nComments URL: https://news.ycombinator.com/item?id=50411961\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-08T10:22:04+00:00"
     },
     {
       "title": "「親世代ぎりぎり」即時帰国を　拉致家族ら集会に８００人―東京",
