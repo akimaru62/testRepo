@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T04:06:00.874078+00:00",
+  "generated_at": "2026-11-08T04:18:44.848732+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1014,6 +1014,30 @@
   ],
   "items": [
     {
+      "title": "福井の山林に女性遺体　交際相手か、「殺害し遺棄」―監禁容疑で４９歳男逮捕・石川県警",
+      "link": "https://www.jiji.com/jc/article?k=2026110800228&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-08T04:18:38.899982+00:00"
+    },
+    {
+      "title": "米半導体大手トップと「恋愛関係」　女性スパイ、中国当局が雇用―英紙",
+      "link": "https://www.jiji.com/jc/article?k=2026110800226&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-08T04:18:38.899946+00:00"
+    },
+    {
+      "title": "攻撃者なき漏洩？ サイト閲覧時の個人情報や行動、知らぬ間に外部へ",
+      "link": "https://www.asahi.com/articles/ASVC71W0KVC7ULZU001M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-08T04:18:38.579868+00:00"
+    },
+    {
       "title": "愛知で震度５強　３０年ぶり、２１人重軽傷―気象庁「南海トラフと違う」",
       "link": "https://www.jiji.com/jc/article?k=2026110800027&g=soc&m=rss",
       "summary": "",
@@ -1028,6 +1052,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-08T03:19:44.140829+00:00"
+    },
+    {
+      "title": "Goodbye Claude, Hello Pi",
+      "link": "https://caleb.software/posts/claude-to-pi.html",
+      "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html\nComments URL: https://news.ycombinator.com/item?id=50410107\nPoints: 4\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-08T03:11:48+00:00"
     },
     {
       "title": "藤堂高虎だけではない！秀長を支え続けて\"家臣団トップの給与\"が与えられた､超有能な｢最強の側近｣ | キャリア・教育 | 東洋経済オンライン",
@@ -1068,6 +1100,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-08T02:21:51.189436+00:00"
+    },
+    {
+      "title": "Consumer brain wave headsets threaten privacy",
+      "link": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+      "summary": "Article URL: https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F\nComments URL: https://news.ycombinator.com/item?id=50409856\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-08T02:02:38+00:00"
     },
     {
       "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
