@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T10:17:30.028452+00:00",
+  "generated_at": "2026-11-08T10:33:09.673160+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1046,6 +1046,14 @@
       "published": "2026-11-08T10:10:00+00:00"
     },
     {
+      "title": "GitHub Down Again?",
+      "link": "https://github.com/torvalds/linux",
+      "summary": "Article URL: https://github.com/torvalds/linux\nComments URL: https://news.ycombinator.com/item?id=50411818\nPoints: 21\n# Comments: 11",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-08T09:56:07+00:00"
+    },
+    {
       "title": "緑茶飲料に逆風 麦茶など存在感",
       "link": "https://news.yahoo.co.jp/pickup/6601821?source=rss",
       "summary": "",
@@ -1084,6 +1092,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-08T09:17:37.271559+00:00"
+    },
+    {
+      "title": "I'm Rewriting IBM SPSS Statistics in 100% Safe Rust, Alone",
+      "link": "https://github.com/kobaltgit/StatCraft",
+      "summary": "Article URL: https://github.com/kobaltgit/StatCraft\nComments URL: https://news.ycombinator.com/item?id=50411522\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-08T08:53:43+00:00"
     },
     {
       "title": "Agent memory needs its OpenTelemetry moment",
