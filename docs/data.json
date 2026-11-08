@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T23:17:47.603002+00:00",
+  "generated_at": "2026-11-08T23:33:15.610481+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1014,12 +1014,36 @@
   ],
   "items": [
     {
+      "title": "トランプ氏、対イラン交渉進展なら再攻撃の可能性「非常に低い」　外交を優先姿勢",
+      "link": "https://www.jiji.com/jc/article?k=2026110900129&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-08T23:33:10.680568+00:00"
+    },
+    {
+      "title": "CEOと工作員の関係 NVIDIA調査",
+      "link": "https://news.yahoo.co.jp/pickup/6601868?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-08T23:28:44+00:00"
+    },
+    {
       "title": "イスラエル大統領、野党党首に組閣指示　反ネタニヤフ陣営結集へ連立交渉",
       "link": "https://www.jiji.com/jc/article?k=2026110900137&g=int&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-08T23:17:41.734309+00:00"
+    },
+    {
+      "title": "Netflix 増収増益でリストラの訳",
+      "link": "https://news.yahoo.co.jp/pickup/6601865?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-08T23:17:17+00:00"
     },
     {
       "title": "A new setback for the AI trade: Nvidia’s board is probing CEO Huang’s relationship with alleged spy",
@@ -1060,6 +1084,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-08T22:36:03+00:00"
+    },
+    {
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "link": "https://ketchup3d.github.io/app/",
+      "summary": "Article URL: https://ketchup3d.github.io/app/\nComments URL: https://news.ycombinator.com/item?id=50418176\nPoints: 14\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-08T22:35:35+00:00"
     },
     {
       "title": "市場は｢アメリカ共和党大敗｣で何を恐れたのか？｢今回の株価急落はバブル崩壊ではない｣と言える｢6つのポイント｣ | 政治・経済・投資 | 東洋経済オンライン",
@@ -1188,6 +1220,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-08T21:29:00+00:00"
+    },
+    {
+      "title": "Show HN: SafeScript, a safe version of JavaScript for executing untrusted code",
+      "link": "https://github.com/SafeScript/safescript",
+      "summary": "Article URL: https://github.com/SafeScript/safescript\nComments URL: https://news.ycombinator.com/item?id=50417478\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-08T21:26:33+00:00"
     },
     {
       "title": "Ask HN: What are you working on? (November 2026)",
