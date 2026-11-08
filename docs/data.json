@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T22:32:51.721749+00:00",
+  "generated_at": "2026-11-08T22:47:19.078667+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1014,6 +1014,30 @@
   ],
   "items": [
     {
+      "title": "市場は｢アメリカ共和党大敗｣で何を恐れたのか？｢今回の株価急落はバブル崩壊ではない｣と言える｢6つのポイント｣ | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964032?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "アメリカ中間選挙後､市場は共和党の大敗で大きく揺れましたが､投資家が本当に恐れているのは政策変更よりも｢政治的不確実性｣です。筆者があげる｢6つのポイント｣とは？",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-08T22:30:00+00:00"
+    },
+    {
+      "title": "｢銀行です｣の電話から始まる巨額詐欺､AIで社長や弁護士の声まで偽造される時代に企業が備えるべきこと | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963721?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "国際的な犯罪グループによる｢ボイスフィッシング｣が拡大し､AI技術を駆使した巧妙な詐欺が企業を脅かしている。声の信用が揺らぐ今､銀行や上司を名乗る電話が本物かどうか､どのように見抜けばいいのか？",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-08T22:30:00+00:00"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "link": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+      "summary": "Article URL: https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company\nComments URL: https://news.ycombinator.com/item?id=50418016\nPoints: 19\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-08T22:20:09+00:00"
+    },
+    {
       "title": "ドラマ「ＶＩＶＡＮＴ」人気で、早くもロケ地「巡礼」　アゼルバイジャン",
       "link": "https://www.jiji.com/jc/article?k=2026110700329&g=soc&m=rss",
       "summary": "",
@@ -1058,6 +1082,38 @@
       "link": "https://toyokeizai.net/articles/-/963857?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "波瀾万丈な人生を歩んできた40代漫画家･ポメさん。母の虐待､20代の結婚と離婚､そして浮気･暴力を伴う壮絶な修羅場――何度も｢想定外｣に見舞われながらも､やがてその経験が憧れの漫画家への道を切り開き…",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-08T22:00:00+00:00"
+    },
+    {
+      "title": "「勝手に社外AIを使う」エース社員に困っています……どうすべき？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/09/news038.html",
+      "summary": "「会社の“公認AI”では物足りない」――社員が「シャドーAI」を使っている場合、“禁止令”を出すだけで解決する問題なのか。AI活用を推進するために企業はどう対応すればよいのか。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-08T22:00:00+00:00"
+    },
+    {
+      "title": "“おいしい魚”を届けられないかも──スシロー、漁業の危機にどう挑む？　富士通とタッグ、AIで「海を解剖」するワケ",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/09/news039.html",
+      "summary": "スシロー、クロシオ水産、富士通などが手を組み、海洋テックを生かした養殖に挑戦している。舞台は、高知県の宿毛湾。異業種連携で、水産業の課題を解決できるのか。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-08T22:00:00+00:00"
+    },
+    {
+      "title": "イオンが進める“思いっきり偏った”経営候補の人材選び　何を重視する？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/09/news007.html",
+      "summary": "次世代リーダーの同質化をどう防ぐか。イオンはAIに創業理念を学ばせ、候補者を選ぶ新たな仕組みを導入した。10年後の検証も見据えた持続可能な人材戦略に迫る。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-08T22:00:00+00:00"
+    },
+    {
+      "title": "意思疎通に難？　技術が分かるから強い？――研究者に事業開発させるべきか否か、NEC・イビデンの回答は……",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/09/news040.html",
+      "summary": "技術はあるのに「事業化の壁」を越えられない……。この課題に直面したNECとイビデンは、独自の取り組みで成長領域を模索している。AIをどう生かすか。研究者に事業開発を任せるべきか。両社のキーパーソンが語り合った。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-11-08T22:00:00+00:00"
     },
