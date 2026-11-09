@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T11:47:31.458748+00:00",
+  "generated_at": "2026-11-09T12:08:30.199239+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1028,6 +1028,30 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-09T14:00:00+00:00"
+    },
+    {
+      "title": "無印良品ネットストア、不正ログイン27万件　氏名や住所が流出か",
+      "link": "https://www.asahi.com/articles/ASVC93Q9HVC9ULFA018M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-09T12:08:24.907923+00:00"
+    },
+    {
+      "title": "They Led an Energy Department Overhaul. Now They Plan to Build Data Centers.",
+      "link": "https://www.wsj.com/business/energy-oil/they-led-an-energy-department-overhaul-now-they-plan-to-build-data-centers-914f47c2?mod=rss_markets_main",
+      "summary": "Mavria, founded by three veterans of Trump’s Energy Department, has raised money at a $1 billion valuation to build modular data centers that can be shipped by truck.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-09T12:00:00+00:00"
+    },
+    {
+      "title": "ニトリ、最大3762万件の情報流出か　「ニトリネット」注文データなど不正アクセスの可能性",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/09/news085.html",
+      "summary": "ニトリホールディングスは11月9日、同社が管理するシステムが第三者からの不正アクセスを受け、サーバ上に保有する最大3762万件の個人情報が外部へ流出した可能性があると発表した。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-09T11:45:00+00:00"
     },
     {
       "title": "ニトリ、個人情報が最大3762万件流出の恐れ　不正アクセスで",
