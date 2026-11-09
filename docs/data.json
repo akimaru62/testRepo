@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T17:05:28.757496+00:00",
+  "generated_at": "2026-11-09T17:18:14.997564+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1018,9 +1018,21 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x74664b6a5fd0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "Canada Taps Senior Bridgewater Executive to Run Sovereign Wealth Fund",
+      "link": "https://www.wsj.com/world/americas/canada-taps-senior-bridgewater-executive-to-run-sovereign-wealth-fund-d1e3a284?mod=rss_markets_main",
+      "summary": "Karen Karniol-Tambour’s appointment marks the next step in Prime Minister Mark Carney’s effort to jump start the construction of so-called national projects, and help promising domestic startups expand.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-09T17:13:00+00:00"
+    },
     {
       "title": "「経済価値ベースのソルベンシー規制に関する告示の一部改正（案）」について公表しました。",
       "link": "https://www.fsa.go.jp/news/r8/hoken/20261109/20261109.html",
