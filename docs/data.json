@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T18:07:28.308354+00:00",
+  "generated_at": "2026-11-09T18:33:11.954144+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1026,6 +1026,54 @@
   ],
   "items": [
     {
+      "title": "コミッショナー公示（９日）　プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026110900738&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-09T18:33:07.075395+00:00"
+    },
+    {
+      "title": "ＡＩの開発を手掛けるサカナＡＩが、株式上場の準備に入った",
+      "link": "https://www.jiji.com/jc/article?k=2026110901036&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-09T18:33:07.075354+00:00"
+    },
+    {
+      "title": "Think the bond market is broken? History says a massive turnaround could be coming.",
+      "link": "https://www.marketwatch.com/story/think-the-bond-market-is-broken-history-says-a-massive-turnaround-could-be-coming-dfaae450?mod=mw_rss_topstories",
+      "summary": "Bond investors would do well to remember that it’s often darkest before the dawn.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-09T18:26:00+00:00"
+    },
+    {
+      "title": "Hot U.S. inflation hasn’t cooled off. Rising consumer prices to keep Fed rate hike on track.",
+      "link": "https://www.marketwatch.com/story/hot-u-s-inflation-hasnt-cooled-off-rising-consumer-prices-to-keep-fed-rate-hike-on-track-926c44b0?mod=mw_rss_topstories",
+      "summary": "Rising prices point to the Fed increasing borrowing costs before Christmas.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-09T18:16:00+00:00"
+    },
+    {
+      "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
+      "link": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
+      "summary": "Goldman CEO David Solomon says investor appetite for AI infrastructure remains strong despite a reset in AI stocks and political uncertainty around data centers.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-11-09T18:14:47+00:00"
+    },
+    {
+      "title": "His, mine or ours? I’m 53 and not sure how to handle merging finances with my long-term partner.",
+      "link": "https://www.marketwatch.com/story/his-mine-or-ours-im-53-and-not-sure-how-to-handle-merging-finances-with-my-long-term-partner-4c34c914?mod=mw_rss_topstories",
+      "summary": "The ‘split’ you discuss should be more about estate planning than contemplating a future divorce",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-09T18:08:00+00:00"
+    },
+    {
       "title": "AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more (November 9, 2026)",
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentcore-runtime-v2-amazon-dynamodb-bulk-put-items-and-more-november-9-2026/",
       "summary": "Most of the cost of adopting something new isn’t the new thing, it’s the move. Moving a Hive table to Apache Iceberg has typically meant weeks of engineering work. Last week, Amazon S3 Tables turned that into three steps: start, sync as often as you need, complete. The source stays writable except for a few […]",
@@ -1064,6 +1112,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-09T17:41:00+00:00"
+    },
+    {
+      "title": "Going back two years on Hacker News is like entering another, better universe",
+      "link": "https://news.ycombinator.com/front?day=2024-11-08",
+      "summary": "Article URL: https://news.ycombinator.com/front?day=2024-11-08\nComments URL: https://news.ycombinator.com/item?id=50428724\nPoints: 77\n# Comments: 34",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-09T17:36:20+00:00"
     },
     {
       "title": "There is no one at Nvidia who would be ready to replace Jensen Huang",
@@ -1493,6 +1549,14 @@
       "title": "Children of Men: The Future Is a Mirror for the Present",
       "link": "https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/",
       "summary": "Article URL: https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/\nComments URL: https://news.ycombinator.com/item?id=50425303\nPoints: 20\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-09T13:27:01+00:00"
+    },
+    {
+      "title": "Children of Men: The future is a mirror for the present",
+      "link": "https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/",
+      "summary": "Article URL: https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/\nComments URL: https://news.ycombinator.com/item?id=50425303\nPoints: 90\n# Comments: 77",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-09T13:27:01+00:00"
