@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T12:47:50.304519+00:00",
+  "generated_at": "2026-11-09T13:05:57.134827+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1030,6 +1030,14 @@
       "published": "2026-11-09T14:00:00+00:00"
     },
     {
+      "title": "麻生コンクリ JIS認証取り消し",
+      "link": "https://news.yahoo.co.jp/pickup/6601959?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-09T12:56:57+00:00"
+    },
+    {
       "title": "Amex Goes After a Sports-Mad Crowd With Fanatics Credit Card",
       "link": "https://www.wsj.com/personal-finance/amex-goes-after-a-sports-mad-crowd-with-fanatics-credit-card-588466a4?mod=rss_markets_main",
       "summary": "American Express is partnering with Fanatics to offer a co-branded credit card that lets people earn FanCash, the sports platform’s loyalty currency.",
@@ -1044,6 +1052,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-09T12:39:00+00:00"
+    },
+    {
+      "title": "Humans will never again create a project like Wikipedia",
+      "link": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
+      "summary": "Article URL: https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia\nComments URL: https://news.ycombinator.com/item?id=50424704\nPoints: 32\n# Comments: 13",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-09T12:30:20+00:00"
     },
     {
       "title": "Oil Slides More Than 3% as Trump Downplays Prospect of New Iran Strikes",
@@ -1158,12 +1174,28 @@
       "published": "2026-11-09T11:45:00+00:00"
     },
     {
+      "title": "Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+      "link": "https://github.com/samir-sarwar/samir-vllm",
+      "summary": "Article URL: https://github.com/samir-sarwar/samir-vllm\nComments URL: https://news.ycombinator.com/item?id=50424199\nPoints: 11\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-09T11:36:55+00:00"
+    },
+    {
       "title": "ニトリ、個人情報が最大3762万件流出の恐れ　不正アクセスで",
       "link": "https://www.asahi.com/articles/ASVC93QC0VC9ULFA01GM.html?ref=rss",
       "summary": "",
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-09T11:33:17.677336+00:00"
+    },
+    {
+      "title": "What is malloc doing, anyway?",
+      "link": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
+      "summary": "Article URL: https://benmandrew.com/articles/what-is-malloc-doing-anyway\nComments URL: https://news.ycombinator.com/item?id=50424157\nPoints: 13\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-09T11:31:05+00:00"
     },
     {
       "title": "Ginux: A New Kernel Runs Linux Userspace, Made via Human-Directed AI Engineering",
