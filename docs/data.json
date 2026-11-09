@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T17:47:11.054689+00:00",
+  "generated_at": "2026-11-09T18:07:28.308354+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1026,6 +1026,38 @@
   ],
   "items": [
     {
+      "title": "AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more (November 9, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentcore-runtime-v2-amazon-dynamodb-bulk-put-items-and-more-november-9-2026/",
+      "summary": "Most of the cost of adopting something new isn’t the new thing, it’s the move. Moving a Hive table to Apache Iceberg has typically meant weeks of engineering work. Last week, Amazon S3 Tables turned that into three steps: start, sync as often as you need, complete. The source stays writable except for a few […]",
+      "source": "AWS ブログ (AWS)",
+      "category": "テクノロジー",
+      "published": "2026-11-09T17:55:26+00:00"
+    },
+    {
+      "title": "How the world became too reliant on Jensen Huang",
+      "link": "https://www.ft.com/content/509596ae-e981-4a31-80ec-d016ca01aa3b?syn-25a6b1a6=1",
+      "summary": "The chief executive’s travails are a reminder that a single point of failure is never a good thing for a big company",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-09T17:52:01+00:00"
+    },
+    {
+      "title": "Ozempic, Zepbound and other GLP-1 drugs have a possible risk of vision loss",
+      "link": "https://www.marketwatch.com/story/ozempic-zepbound-and-other-glp-1-drugs-have-a-possible-risk-of-vision-loss-b3738f36?mod=mw_rss_topstories",
+      "summary": "Several medical studies have found that people taking GLP-1 medications have an elevated risk for nonarteritic anterior ischemic optic neuropathy, or NAION.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-09T17:52:00+00:00"
+    },
+    {
+      "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
+      "link": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
+      "summary": "Article URL: https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/\nComments URL: https://news.ycombinator.com/item?id=50428801\nPoints: 15\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-09T17:42:55+00:00"
+    },
+    {
       "title": "U.S. Stocks Jump Despite Nvidia Slide",
       "link": "https://www.wsj.com/finance/stocks/stock-futures-treasurys-steady-but-nvidia-slides-premarket-on-huang-probe-31deea55?mod=rss_markets_main",
       "summary": "U.S. stocks rallied, even as Nvidia’s shares fell after the company’s board launched an investigation into Chief Executive Jensen Huang.",
@@ -1261,6 +1293,14 @@
       "title": "I Saw Your HN Comment",
       "link": "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/",
       "summary": "Article URL: https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/\nComments URL: https://news.ycombinator.com/item?id=50426582\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-09T15:01:03+00:00"
+    },
+    {
+      "title": "I saw your HN comment",
+      "link": "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/",
+      "summary": "Article URL: https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/\nComments URL: https://news.ycombinator.com/item?id=50426582\nPoints: 310\n# Comments: 225",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-09T15:01:03+00:00"
