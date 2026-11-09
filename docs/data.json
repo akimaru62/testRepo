@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T09:33:06.329795+00:00",
+  "generated_at": "2026-11-09T09:47:37.403801+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1030,12 +1030,28 @@
       "published": "2026-11-09T14:00:00+00:00"
     },
     {
+      "title": "Stock Futures, Treasurys Steady But Nvidia Slides Premarket on Huang Probe",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-treasurys-steady-but-nvidia-slides-premarket-on-huang-probe-31deea55?mod=rss_markets_main",
+      "summary": "Shares in Nvidia fell close to 5% premarket after the company said it was launching an investigation into Huang’s relationship with an executive suspected of working for Chinese intelligence.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-09T09:41:00+00:00"
+    },
+    {
       "title": "石破、小渕氏ら戒告処分　採決棄権、参院への影響警戒―自民",
       "link": "https://www.jiji.com/jc/article?k=2026110900659&g=pol&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-09T09:33:01.374415+00:00"
+    },
+    {
+      "title": "Sterling Looks Overvalued Vs. Euro",
+      "link": "https://www.wsj.com/finance/currencies/new-zealand-dollar-climbs-as-traders-await-election-result-033c6116?mod=rss_markets_main",
+      "summary": "The pound was flat against the euro and ING said sterling might struggle to rise further against the EU’s single currency.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-09T09:32:00+00:00"
     },
     {
       "title": "元高校生の１９歳男に懲役１８年　保育士女性殺害―鹿児島地裁",
@@ -1156,6 +1172,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-09T08:24:32.187519+00:00"
+    },
+    {
+      "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+      "link": "https://news.ycombinator.com/item?id=50422628",
+      "summary": "The agent running on a remote machine can authenticate using your local SSH credentials.That means it can push to your private repos on GitHub, for example.Proof: https://github.com/openai/codex/pull/28131#discussion_r3410013180\n\nComments URL: https://news.ycombinator.com/item?id=50422628\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-09T08:17:49+00:00"
     },
     {
       "title": "Asian Equities Mostly Rebound, Though Sentiment Remains Fragile",
