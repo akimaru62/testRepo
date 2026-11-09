@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T22:33:14.349229+00:00",
+  "generated_at": "2026-11-09T22:48:01.514443+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1022,9 +1022,37 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x74664b6a5fd0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     }
   ],
   "items": [
+    {
+      "title": "個人向け国債人気 発行額8兆円超",
+      "link": "https://news.yahoo.co.jp/pickup/6601981?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-09T22:43:16+00:00"
+    },
+    {
+      "title": "Trump hails ‘positive momentum’ towards ending Iran war",
+      "link": "https://www.ft.com/content/4a75299e-a705-493f-91a7-07d3b87ecc4e?syn-25a6b1a6=1",
+      "summary": "Comments by US president come after calls with regional leaders and a meeting with the Qatari prime minister",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-09T22:42:58+00:00"
+    },
+    {
+      "title": "WSJ Dollar Index Falls 0.46% to 97.07",
+      "link": "https://www.wsj.com/finance/currencies/new-zealand-dollar-climbs-as-traders-await-election-result-033c6116?mod=rss_markets_main",
+      "summary": "The WSJ Dollar Index fell 0.5%, snapping a two-trading-day winning streak.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-09T22:36:00+00:00"
+    },
     {
       "title": "NYダウ1100ドル超上昇、原油は下落　エヌビディアは4％超安に",
       "link": "https://www.asahi.com/articles/ASVC977LHVC9UHBI001M.html?ref=rss",
