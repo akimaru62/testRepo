@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T20:33:32.956492+00:00",
+  "generated_at": "2026-11-09T20:47:57.047125+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1026,6 +1026,30 @@
   ],
   "items": [
     {
+      "title": "U.S. Natural Gas Futures Rise on Colder Weather Outlook",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-pick-up-as-cold-spell-emerges-5c225329?mod=rss_markets_main",
+      "summary": "U.S. natural gas futures posted sharp gains as a coming cold spell, although expected to be short-lived, prompted a bout of short-covering.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-09T20:46:00+00:00"
+    },
+    {
+      "title": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
+      "link": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
+      "summary": "Tuesday’s CPI inflation report and a heavy lineup of Federal Reserve speakers could test the rotation trade’s resilience",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-09T20:42:00+00:00"
+    },
+    {
+      "title": "Transforming fleet analytics for Novus Hi-Tech through agentic AI",
+      "link": "https://aws.amazon.com/blogs/architecture/transforming-fleet-analytics-for-novus-hi-tech-through-agentic-ai/",
+      "summary": "Learn how Novus Hi-Tech, with the AWS Prototyping and AI Customer Engineering (PACE) team, built FleetGPT, an agentic AI solution on Amazon Bedrock that turns fleet IoT data into real-time safety interventions through natural language querying, automated investigation, and AI-powered driver voice calls, cutting road-behavior violations by 46% and drowsiness alerts by 55%.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-11-09T20:34:35+00:00"
+    },
+    {
       "title": "KKR’s Nuttall Says Firm to Be Cautious With AI Bets",
       "link": "https://www.wsj.com/pro/private-equity/kkr-profit-rises-on-fee-related-earnings-growth-4a62dcfb?mod=rss_markets_main",
       "summary": "The alternative-asset manager reported higher-than-expected third-quarter profit while telling investors its AI exposure is limited.",
@@ -1061,6 +1085,14 @@
       "title": "November 2026 Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
       "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
       "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2\nComments URL: https://news.ycombinator.com/item?id=50431144\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-09T20:04:55+00:00"
+    },
+    {
+      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+      "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2\nComments URL: https://news.ycombinator.com/item?id=50431144\nPoints: 11\n# Comments: 2",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-09T20:04:55+00:00"
