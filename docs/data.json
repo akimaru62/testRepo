@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T05:06:10.252369+00:00",
+  "generated_at": "2026-11-09T05:19:22.812726+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1014,6 +1014,22 @@
   ],
   "items": [
     {
+      "title": "トランプ米大統領、報道官打診は「冗談だった」　格闘技団体トップに",
+      "link": "https://www.jiji.com/jc/article?k=2026110900434&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-09T05:19:18.589008+00:00"
+    },
+    {
+      "title": "China’s producer prices hit four-year high",
+      "link": "https://www.ft.com/content/085c4610-143a-47ad-b546-0587695294b5?syn-25a6b1a6=1",
+      "summary": "Weak domestic demand weighs on the world’s second-largest economy even as energy crisis drives up costs",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-09T05:09:46+00:00"
+    },
+    {
       "title": "Asian stocks rebound after AI rout",
       "link": "https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b?syn-25a6b1a6=1",
       "summary": "Declines last week had pushed many indices into bear market territory",
@@ -1036,6 +1052,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-09T04:33:00+00:00"
+    },
+    {
+      "title": "KDDIはなぜ自動運転タクシーに注力するのか　堺市のデータセンターを活用、2028年に商用化目指す",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/09/news054.html",
+      "summary": "KDDIが自動運転タクシー事業に本格参入している。newmoなどと連携し、2028年に大阪府堺市での商用化を目指す。堺市のデータセンターや通信技術をどう生かすのか。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-09T04:32:00+00:00"
     },
     {
       "title": "黒字リストラ 中高年が残る条件は",
@@ -1937,6 +1961,14 @@
       "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
       "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
       "summary": "Article URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc\nComments URL: https://news.ycombinator.com/item?id=50416158\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-08T19:20:32+00:00"
+    },
+    {
+      "title": "Outlook.com is rejecting email from domains without DMARC",
+      "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "summary": "Article URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc\nComments URL: https://news.ycombinator.com/item?id=50416158\nPoints: 316\n# Comments: 224",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-08T19:20:32+00:00"
