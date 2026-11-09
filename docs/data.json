@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T13:33:17.067970+00:00",
+  "generated_at": "2026-11-09T13:48:08.721904+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1010,6 +1010,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x726569c89fd0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -1030,11 +1034,35 @@
       "published": "2026-11-09T14:00:00+00:00"
     },
     {
+      "title": "エヌビディアに一大スキャンダル発生､シンガポールのテクノロジー企業｢メガスピード｣との取引を巡る問題点とは？ | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964171?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "エヌビディアに前例のないスキャンダルが発生。中国スパイ疑惑とCEOの不倫問題､さらには国家安全保障まで巻き込む重大な危機に発展しています。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-09T13:35:00+00:00"
+    },
+    {
+      "title": "Treasury Yields Largely Steady After Last Week’s Trading",
+      "link": "https://www.wsj.com/finance/gilts-outperform-eurozone-peers-as-oil-prices-drop-500fe046?mod=rss_markets_main",
+      "summary": "Treasury yields pared earlier gains as the fall in oil prices accelerated.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-09T13:32:00+00:00"
+    },
+    {
       "title": "Retirement is now part of the affordability crisis. Politicians should pay attention.",
       "link": "https://www.marketwatch.com/story/retirement-is-now-part-of-the-affordability-crisis-politicians-should-pay-attention-2923b2d7?mod=mw_rss_topstories",
       "summary": "Americans are more concerned about retirement than ever, and some of their biggest fears can’t be fixed by individual behavior alone.",
       "source": "MarketWatch",
       "category": "海外金融",
+      "published": "2026-11-09T13:30:00+00:00"
+    },
+    {
+      "title": "エヌビディアCEOの不倫相手アリス･フアン氏とは何者か？創業30年の歴史の中で最大の危機とも言える事態に | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964172?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "世界的半導体企業エヌビディアが創業以来最大の危機に直面しています。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
       "published": "2026-11-09T13:30:00+00:00"
     },
     {
