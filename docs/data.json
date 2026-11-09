@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T19:17:59.756942+00:00",
+  "generated_at": "2026-11-09T19:33:31.095700+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1026,6 +1026,46 @@
   ],
   "items": [
     {
+      "title": "JR東海｢女性パーサー6人｣が作った駅弁の出来栄え　｢東京案vs大阪案｣一歩も譲らぬメニュー議論も | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963241?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢かわいい駅弁を作りたい｣――そんな想いから始まった6人の女性パーサーたちの奮闘。健康志向や彩り､ボリュームにまでこだわり尽くし誕生した｢Kawaiiえきべん｣は､まさに新幹線旅の新定番を目指します…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-09T19:30:00+00:00"
+    },
+    {
+      "title": "Jensen Huang’s Affair Rings Alarm Bells for Nvidia Investors",
+      "link": "https://www.wsj.com/finance/stocks/jensen-huangs-affair-rings-alarm-bells-for-nvidia-investors-03e79135?mod=rss_markets_main",
+      "summary": "Even if the woman Huang had an affair with isn’t a spy, a relationship with an executive of a major customer should matter to shareholders.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-09T19:30:00+00:00"
+    },
+    {
+      "title": "U.S. Stocks Leap Despite Nvidia Slide",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-treasurys-steady-but-nvidia-slides-premarket-on-huang-probe-31deea55?mod=rss_markets_main",
+      "summary": "U.S. stocks jumped, even as Nvidia’s shares sank after the company’s board launched an investigation into CEO Jensen Huang.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-09T19:29:00+00:00"
+    },
+    {
+      "title": "What employers should do to build a pipeline of talented Gen Z workers",
+      "link": "https://www.marketwatch.com/story/what-employers-should-do-to-build-a-pipeline-of-talented-gen-z-workers-31c0e9b9?mod=mw_rss_topstories",
+      "summary": "Employers can do more to support career and technical education programs.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-09T19:28:00+00:00"
+    },
+    {
+      "title": "Opinion | The U.K. Aims Sanctions at Israel, Hits the Cayman Islands",
+      "link": "https://www.wsj.com/opinion/the-u-k-aims-sanctions-at-israel-hits-the-cayman-islands-f06de832?mod=rss_markets_main",
+      "summary": "Measures against the Jewish state’s banks could damage the financial-services industry in the British territory.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-09T19:28:00+00:00"
+    },
+    {
       "title": "日越首脳は重要鉱物を巡る協力の加速で一致した",
       "link": "https://www.jiji.com/jc/article?k=2026110900928&g=flash&m=rss",
       "summary": "",
@@ -1058,12 +1098,28 @@
       "published": "2026-11-09T18:56:00+00:00"
     },
     {
+      "title": "Show HN: Someone Was Here – Find out who used your Mac while you were away",
+      "link": "https://someonewashere.app/",
+      "summary": "Someone Was Here takes a photo of whoever uses your Mac while you're away, whether you left it unlocked or they know your password, and sends their photo to your iPhone if the face isn't yours.I built Someone Was Here as a menu bar app making use of Apple Vision and a local face recognition run via Core ML. It all runs locally on your Mac with no tracking or ads.Real-time remote alerts are available via one-time $4.99 lifetime purchase via the free companion iPhone/iPad app, Pushover, ntfy, Telegram or a webhook.\n\nComments URL: https://news.ycombinator.com/item?id=50429812\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-09T18:50:56+00:00"
+    },
+    {
       "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
       "link": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
       "summary": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term.",
       "source": "CNBC",
       "category": "海外金融",
       "published": "2026-11-09T18:46:01+00:00"
+    },
+    {
+      "title": "E-means: 10x faster k-means at equal loss",
+      "link": "https://e-means.github.io/",
+      "summary": "Article URL: https://e-means.github.io/\nComments URL: https://news.ycombinator.com/item?id=50429734\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-09T18:45:43+00:00"
     },
     {
       "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
@@ -1112,6 +1168,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-09T18:31:21+00:00"
+    },
+    {
+      "title": "Nuance Labs",
+      "link": "https://app.nuancelabs.ai/try",
+      "summary": "Article URL: https://app.nuancelabs.ai/try\nComments URL: https://news.ycombinator.com/item?id=50429477\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-09T18:28:00+00:00"
     },
     {
       "title": "Too many men suffering in silence, national health report finds (Canada)",
