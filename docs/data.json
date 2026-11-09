@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T06:53:33.362696+00:00",
+  "generated_at": "2026-11-09T07:06:23.551375+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1118,12 +1118,28 @@
       "published": "2026-11-09T05:00:25+00:00"
     },
     {
+      "title": "EU sues IBM and partners over troubled border system",
+      "link": "https://www.ft.com/content/eacea609-d571-4725-b795-a1afd5c3c301?syn-25a6b1a6=1",
+      "summary": "Lawsuit filed in Estonia relates to repeated delays in developing Entry/Exit System",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-09T05:00:16+00:00"
+    },
+    {
       "title": "Asian stocks rebound after AI rout",
       "link": "https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b?syn-25a6b1a6=1",
       "summary": "Declines last week had pushed many indices into bear market territory",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-09T04:54:20+00:00"
+    },
+    {
+      "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+      "link": "https://github.com/OmniJev/Flide",
+      "summary": "Decision models need their own inference engine.So we developed Flide, a high-performance and exact inference engine for Jev-like decision models.Flide achieves up to a 9.5x speedup over vLLM and SGLang.It now supports 30+ popular local Jev-like decision models.Start to make your decision immediately:pip install flide\n\nComments URL: https://news.ycombinator.com/item?id=50421155\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-09T04:43:12+00:00"
     },
     {
       "title": "India Stocks Could Gain From AI Rotation After U.S. Midterms",
