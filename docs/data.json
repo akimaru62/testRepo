@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T20:05:40.364526+00:00",
+  "generated_at": "2026-11-09T20:17:42.229876+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1026,6 +1026,22 @@
   ],
   "items": [
     {
+      "title": "〔ＮＹ金〕反発、４１１４．５０ドル　２週間ぶり高値（９日）",
+      "link": "https://www.jiji.com/jc/article?k=2026111000105&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-09T20:17:35.965395+00:00"
+    },
+    {
+      "title": "How DeepL keeps closest-exit routing during maintenance with AWS Cloud WAN",
+      "link": "https://aws.amazon.com/blogs/architecture/how-deepl-keeps-closest-exit-routing-during-maintenance-with-aws-cloud-wan/",
+      "summary": "DeepL runs a multi-Region hybrid network across multiple AWS Regions and AWS Direct Connect locations. See how DeepL drains a single Direct Connect link for planned maintenance without packet loss or cross-Region rerouting, using AWS Cloud WAN and an on-premises AS_PATH prepend so every other Region keeps its closest-exit routing.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-11-09T20:15:09+00:00"
+    },
+    {
       "title": "信頼される｢CSR企業ランキング｣企業統治＋社会性部門　満点で1位のNTTに続く同率2位の5社はどこか | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/963915?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "企業の社会的責任（CSR）とガバナンスに優れた企業は､今や｢信頼される会社｣の新たな基準となっています。第20回CSR企業ランキングのなかから企業統治＋社会性部門のランキングを紹介する。",
@@ -1048,6 +1064,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-09T19:35:16+00:00"
+    },
+    {
+      "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
+      "link": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
+      "summary": "Article URL: https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges\nComments URL: https://news.ycombinator.com/item?id=50430585\nPoints: 17\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-09T19:33:09+00:00"
     },
     {
       "title": "U.S., Eurozone Bond Yields Rise Ahead of Inflation, Rates Outlook",
@@ -1280,6 +1304,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-09T18:08:00+00:00"
+    },
+    {
+      "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+      "link": "https://github.com/Dodaios/ste80-humanizer",
+      "summary": "Article URL: https://github.com/Dodaios/ste80-humanizer\nComments URL: https://news.ycombinator.com/item?id=50429144\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-09T18:05:44+00:00"
     },
     {
       "title": "Show HN: Write GitHub Actions in any language: Loopt",
