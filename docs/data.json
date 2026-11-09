@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T18:47:36.281161+00:00",
+  "generated_at": "2026-11-09T19:04:05.677198+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1026,6 +1026,38 @@
   ],
   "items": [
     {
+      "title": "Comex Gold Settles 1.00% Higher at $4105.00",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-mixed-signals-00565ca1?mod=rss_markets_main",
+      "summary": "Gold settled 1% higher and silver rose 1.5%, with both metals up three of the past four sessions.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-09T18:56:00+00:00"
+    },
+    {
+      "title": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
+      "link": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
+      "summary": "Prediction markets traders price relatively low odds that the Nvidia CEO will depart in the near term.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-11-09T18:46:01+00:00"
+    },
+    {
+      "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+      "link": "https://meowdisplay.app/",
+      "summary": "Hey HN and Cats, thank you for checking this out!Github:\nhttps://github.com/raiseCatError/meowdisplayMeowDisplay is my take on the control your Mac from your phone scene. Available on iPhones, iPads and Macs, with Android rn in closed testing.The website has interactive illustrative demos if you'd like to see the app demonstrated.I think MeowDisplay does a few things differently, some of which I prefer and you might too.Such as Window view: allowing multiple tabs in split-screen type panes. Traditional Mirror/Extend views exist as alternatives. \nFloating windows: coming in the 2.1 release.Touch input approaches: Direct Touch(Classic or Natural), experimental Smart Touch, and Trackpad mode alongside Apple Pencil support. Doesn't sacrifice display space for a trackpad, use all of the phone's screen with your preferred mode.Stage Peek: shows a scrollable and searchable list of your Mac's windows on your phone along with an app drawer when you hold and pull on the left edge of your screen.It's free and open source so you can try it and see if it's for you without having to commit to it or anything.EDIT: I've used MeowDisplay during development whilst I was travelling between cities, left my acbook at home clamshell, powered, external display attached, and used it for small tasks remotely, it was pretty reliable even on a 5G network on a moving bus.Meow,\nJai\n\nComments URL: https://news.ycombinator.com/item?id=50429636\nPoints: 8\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-09T18:39:22+00:00"
+    },
+    {
+      "title": "DeepX claims inference up to 100B parameters at less than 5 W",
+      "link": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
+      "summary": "Article URL: https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/\nComments URL: https://news.ycombinator.com/item?id=50429545\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-09T18:33:58+00:00"
+    },
+    {
       "title": "コミッショナー公示（９日）　プロ野球",
       "link": "https://www.jiji.com/jc/article?k=2026110900738&g=spo&m=rss",
       "summary": "",
@@ -1048,6 +1080,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-09T18:33:00+00:00"
+    },
+    {
+      "title": "France accuses Iran of cyber attacks on supermarket refrigerators",
+      "link": "https://www.ft.com/content/176ad787-59af-4900-9efc-8b6f9a247255?syn-25a6b1a6=1",
+      "summary": "Islamic Revolutionary Guard Corps named in prosecution over incidents that destroyed food and triggered fires",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-09T18:31:21+00:00"
     },
     {
       "title": "Too many men suffering in silence, national health report finds (Canada)",
@@ -1114,6 +1154,14 @@
       "published": "2026-11-09T18:08:00+00:00"
     },
     {
+      "title": "Show HN: Write GitHub Actions in any language: Loopt",
+      "link": "https://github.com/preloopdev/loopt",
+      "summary": "Loopt generates the equivalent code for your workflows in any language, then compiles it down to  your workflow files. First-party support for Rust, Python, Typescript, and Go, but it's trivial to add a new language. Check it out if you are tired of mangling YAML.\n\nComments URL: https://news.ycombinator.com/item?id=50429031\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-09T17:59:05+00:00"
+    },
+    {
       "title": "Our Smallest, Most Efficient Model: Muse Ember",
       "link": "https://research.meta.ai/blog/muse-ember",
       "summary": "Article URL: https://research.meta.ai/blog/muse-ember\nComments URL: https://news.ycombinator.com/item?id=50429024\nPoints: 22\n# Comments: 8",
@@ -1144,6 +1192,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-09T17:52:00+00:00"
+    },
+    {
+      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+      "link": "https://www.watched.earth",
+      "summary": "hey HN, i built this because i wanted to know what had actually photographed my street.type in any place and it finds every satellite that passed over it in the last 7 days (SGP4 on the CelesTrak catalog, runs in your browser in about half a second), then pulls the real Sentinel-2 / Landsat / NASA images from those passes.some fun bits:\n- the pass search can't skip a pass. checked it against a brute force on poles, the antimeridian and tiny swaths: 0 missed\n- all ~17k objects in orbit are drawn on the GPU, solving Kepler's equation every frame\n- Sentinel-2 timestamps are often 5-10 min off from when the sat actually crosses your spot, which was a fun one to figure outit only says \"watched\" if a real image exists, and it doesn't store your location.code: https://github.com/dev-Armaan/satelliteswould love feedback, especially on what data sources to add\n\nComments URL: https://news.ycombinator.com/item?id=50428907\nPoints: 9\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-09T17:51:31+00:00"
     },
     {
       "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
