@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T15:05:58.458719+00:00",
+  "generated_at": "2026-11-09T15:18:40.785930+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1030,6 +1030,54 @@
       "published": "2026-11-09T17:00:00+00:00"
     },
     {
+      "title": "浅見俊雄さん死去　元日本サッカー協会審判委員長",
+      "link": "https://www.jiji.com/jc/article?k=2026110901029&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-09T15:18:35.613351+00:00"
+    },
+    {
+      "title": "記録メモ（２日目）　大相撲九州場所",
+      "link": "https://www.jiji.com/jc/article?k=2026110900826&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-09T15:18:35.613338+00:00"
+    },
+    {
+      "title": "東芝の萩原、攻守で貢献　社会人野球日本選手権",
+      "link": "https://www.jiji.com/jc/article?k=2026110901044&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-09T15:18:35.613324+00:00"
+    },
+    {
+      "title": "ＦＡ申請が締め切り　森下暢仁、床田寛樹、坂倉将吾ら行使―プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026110900996&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-09T15:18:35.613304+00:00"
+    },
+    {
+      "title": "温暖化対策強化を協議　気温上昇の影響顕在化で―ＣＯＰ３１開幕",
+      "link": "https://www.jiji.com/jc/article?k=2026110900528&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-09T15:18:35.613257+00:00"
+    },
+    {
+      "title": "Nvidia Stock Slides After Chip Maker Opens Probe",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-treasurys-steady-but-nvidia-slides-premarket-on-huang-probe-31deea55?mod=rss_markets_main",
+      "summary": "Stocks advanced, with the Dow gaining more than 600 points, while Nvidia’s shares fell  after the company launched an investigation into Chief Executive Officer Jensen Huang.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-09T15:10:00+00:00"
+    },
+    {
       "title": "リニア名古屋駅 完成は2033年以降",
       "link": "https://news.yahoo.co.jp/pickup/6601970?source=rss",
       "summary": "",
@@ -1057,6 +1105,14 @@
       "title": "Zebkit – Chromium's engine as a library you link, not a runtime you live in",
       "link": "https://github.com/ikey4u/zebkit",
       "summary": "Article URL: https://github.com/ikey4u/zebkit\nComments URL: https://news.ycombinator.com/item?id=50426207\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-09T14:34:00+00:00"
+    },
+    {
+      "title": "Zebkit – Chromium as an embeddable library",
+      "link": "https://github.com/ikey4u/zebkit",
+      "summary": "Article URL: https://github.com/ikey4u/zebkit\nComments URL: https://news.ycombinator.com/item?id=50426207\nPoints: 20\n# Comments: 10",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-09T14:34:00+00:00"
@@ -1145,6 +1201,14 @@
       "title": "Alleged Chinese spy linked to Nvidia chief pitched AI chips deals to investors",
       "link": "https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d?syn-25a6b1a6=1",
       "summary": "Alice Huang boasted of having access to Nvidia GPUs and her connection to Alibaba in bid to secure investment for major data centre project",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-09T13:50:36+00:00"
+    },
+    {
+      "title": "Alleged Chinese spy linked to Nvidia chief pitched AI chip deals to investors",
+      "link": "https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d?syn-25a6b1a6=1",
+      "summary": "Alice Huang boasted of having access to Nvidia GPUs and her connection to Alibaba",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-09T13:50:36+00:00"
