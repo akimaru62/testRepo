@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T17:33:21.767697+00:00",
+  "generated_at": "2026-11-09T17:47:11.054689+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1026,6 +1026,14 @@
   ],
   "items": [
     {
+      "title": "U.S. Stocks Jump Despite Nvidia Slide",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-treasurys-steady-but-nvidia-slides-premarket-on-huang-probe-31deea55?mod=rss_markets_main",
+      "summary": "U.S. stocks rallied, even as Nvidia’s shares fell after the company’s board launched an investigation into Chief Executive Jensen Huang.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-09T17:41:00+00:00"
+    },
+    {
       "title": "There is no one at Nvidia who would be ready to replace Jensen Huang",
       "link": "https://www.marketwatch.com/story/there-is-no-one-at-nvidia-who-would-be-ready-to-replace-jensen-huang-816cc405?mod=mw_rss_topstories",
       "summary": "Nvidia’s CEO has an “outsize role and unclear succession.”",
@@ -1072,6 +1080,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-09T16:37:52+00:00"
+    },
+    {
+      "title": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
+      "link": "https://news.ycombinator.com/item?id=50427934",
+      "summary": "Hi HN, I’m Shayan and a few months ago I started building a DB Client DBDelve with a focus on performance and just making something that feels good to use (in the spirit of Zed, Ghostty, and other tools that just feel pleasant to use).For my workflow I’ve always looked for performance, especially since some time ago I had a really outdated machine and any kind of bloat was really noticeable, I remember using DBeaver and it just crashing on me multiple times, I also had to use postGIS which just made it worse. I migrated all my essential dev tools to use the ones with performance in mind (Zed, Ghostty etc) but the only thing that was missing was DB Client. The main choices everyone has are DBeaver which is a memory hog and an overkill for most of the tasks imo. The other options like Datagrid, Beekeeper, TablePlus are either electron based so bloated and memory hogs or paid and closed-source.DBDelve 0.3.6 against DBeaver 25.3.1 on the same Postgres table, median of 5 runs each (2026-10-11, M1 Pro, 32 GB). Times are from the action to the rows rendered.                            DBDelve   DBeaver\n  Launch                    1.1 s     5.2 s\n  Idle memory               133 MB    606 MB\n  1,000-row query           0.21 s    1.96 s\n  1M rows, time             56 s      208 s\n  1M rows, memory [1]       4.9 GB    17 GB\n\n[1] The whole 1M-row, 100-column table pulled into memory on purpose, with the row limit off. Not a normal use case; DBeaver's heap limit had to be raised manually for the benchmark.Scrolling perf with 1 million rows loaded with 100 columns each: https://youtu.be/V2MOhJYFqIEIt has most of the features most devs would need for 90% of their workflow plus some more I thought would be a nice touch:\nReadonly, read-write and Full Access modes\nGlass themes (If you’re into them, I am)\nKeyboard focused with every keybinding customizable\nOrganization of connections into projectsMe and some other folks have been daily driving it for more than a month now and most good feedback comes on it having a really simple UI to navigate, very stable for its age and the performance of course. I’m also sharing here because those people tell me this has potential to grow so I’m trying my hand at distributing it.Just want to give a huge shoutout here to the Zed team for GPUI, it's a breeze to work with if you just get through them not updating the crate officially on crates.io but the community has found the solutions for it, you just have to dig deep for it. It performs extremely well and just the HTML-like structure of it, makes it easy to understand for someone from a web dev background and agents are very good at writing it too. GPUI component also solves a lot of problems with having a good component library we can use. I think for anyone starting a GPUI project now, GPUI-kit makes a lot of sense, it just bundles GPUI, GPUI-component together and has some optimizations adding retained mode which is experimental but could provide a lot of benefit, so think all things considered it should be the default way.The major optimization I did was just lowering the memory overhead by using packed rows which reduced the memory usage by 40% on large datasets (8.1GB to 4.9GB on a 4GB table loaded in app), everything else came bundled in with Rust and GPUI mostly or they just made it very easy.Limitations:\nIt's not signed and notarized, identity verification from apple's side has been a nightmare but it should be signed soon.\nDon’t expect feature parity with more mature clients for now, the general direction of this right now is the zed way of adding features in but after making sure the core workflows are done with a high quality.Do give it a try, you can import your connections from dbeaver and tableplus.https://github.com/ShayanAbbas1/dbdelve\n\nComments URL: https://news.ycombinator.com/item?id=50427934\nPoints: 9\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-09T16:36:38+00:00"
     },
     {
       "title": "Why renters are obsessed with these $300 ‘boneless couches’",
@@ -1165,6 +1181,14 @@
       "title": "Crypto foundation demanded employees endorse suicide pledge",
       "link": "https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/",
       "summary": "Article URL: https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/\nComments URL: https://news.ycombinator.com/item?id=50426899\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-09T15:23:57+00:00"
+    },
+    {
+      "title": "Cryptocurrency lawsuit: Ethereum Foundation required \"suicide pledge\"",
+      "link": "https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/",
+      "summary": "Article URL: https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/\nComments URL: https://news.ycombinator.com/item?id=50426899\nPoints: 63\n# Comments: 62",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-09T15:23:57+00:00"
