@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T13:48:08.721904+00:00",
+  "generated_at": "2026-11-09T14:06:16.145005+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1014,6 +1014,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x726569c89fd0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Read timed out. (read timeout=15)"
     }
   ],
   "items": [
@@ -1026,12 +1030,36 @@
       "published": "2026-11-09T17:00:00+00:00"
     },
     {
+      "title": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
+      "link": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+      "summary": "The fallout from the board’s new investigation could become “a longer-lasting problem for the company,” analysts say",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-09T14:01:00+00:00"
+    },
+    {
       "title": "気候変動リスク産官学連携ネットワーク公開シンポジウム～気候関連開示からレジリエンス強化への実践～の開催について公表しました。",
       "link": "https://www.fsa.go.jp/news/r8/sonota/20261109.html",
       "summary": "",
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-09T14:00:00+00:00"
+    },
+    {
+      "title": "A failed trial for a heart drug casts shadow over rivals developing similar therapies",
+      "link": "https://www.marketwatch.com/story/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-developing-similar-therapies-2d9bd79f?mod=mw_rss_topstories",
+      "summary": "The full data from the closely watched clinical trial showed that the drug had no cardiovascular benefit even though it reduced Lp(a) levels.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-09T13:54:00+00:00"
+    },
+    {
+      "title": "Alleged Chinese spy linked to Nvidia chief pitched AI chips deals to investors",
+      "link": "https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d?syn-25a6b1a6=1",
+      "summary": "Alice Huang boasted of having access to Nvidia GPUs and her connection to Alibaba in bid to secure investment for major data centre project",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-09T13:50:36+00:00"
     },
     {
       "title": "エヌビディアに一大スキャンダル発生､シンガポールのテクノロジー企業｢メガスピード｣との取引を巡る問題点とは？ | 政治・経済・投資 | 東洋経済オンライン",
