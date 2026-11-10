@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T07:33:12.294556+00:00",
+  "generated_at": "2026-11-10T07:47:36.755315+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1046,6 +1046,22 @@
       "published": "2026-11-10T10:00:00+00:00"
     },
     {
+      "title": "情報漏洩対策でブロッキングの法的課題を検討　総務省が会議設置",
+      "link": "https://www.asahi.com/articles/ASVCB23WXVCBULFA016M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-10T07:47:32.124006+00:00"
+    },
+    {
+      "title": "企業の対策不足、国民につけ？　漏洩対策でブロッキング、ずれた処方",
+      "link": "https://www.asahi.com/articles/ASVCB1H37VCBULFA005M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-10T07:47:32.123976+00:00"
+    },
+    {
       "title": "Adnoc Gas Still Evaluating Options to Bypass Strait of Hormuz",
       "link": "https://www.wsj.com/business/energy-oil/adnoc-gas-still-evaluating-options-to-bypass-strait-of-hormuz-3f833140?mod=rss_markets_main",
       "summary": "EXCLUSIVE: The company’s chief executive says Adnoc Gas has been examining ways to reduce its reliance on the strait, and one option it has considered is an LNG export facility on the country’s east coast.",
@@ -1164,6 +1180,14 @@
       "source": "財務省",
       "category": "公的機関",
       "published": "2026-11-10T06:15:00+00:00"
+    },
+    {
+      "title": "ClickHouse Acquires Xata",
+      "link": "https://xata.io/blog/xata-is-joining-clickhouse",
+      "summary": "Article URL: https://xata.io/blog/xata-is-joining-clickhouse\nComments URL: https://news.ycombinator.com/item?id=50436706\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-10T06:14:51+00:00"
     },
     {
       "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
