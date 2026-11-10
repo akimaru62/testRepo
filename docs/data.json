@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T17:47:34.069027+00:00",
+  "generated_at": "2026-11-10T18:05:33.044813+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1038,6 +1038,22 @@
   ],
   "items": [
     {
+      "title": "Git security vulnerabilities announced",
+      "link": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
+      "summary": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know.\nThe post Git security vulnerabilities announced appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "category": "開発者向け",
+      "published": "2026-11-10T18:00:00+00:00"
+    },
+    {
+      "title": "Anthropic Founders’ Stakes Are Worth $18 Billion Apiece at IPO Price",
+      "link": "https://www.wsj.com/finance/anthropic-founders-stakes-are-worth-18-billion-apiece-at-ipo-price-2c746365?mod=rss_markets_main",
+      "summary": "The seven insiders are each set to sell around $250 million worth of shares and keep total voting control.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-10T17:54:00+00:00"
+    },
+    {
       "title": "Stocks Fall as Inflation Remains Elevated",
       "link": "https://www.wsj.com/finance/stocks/global-stocks-strengthen-as-oil-dips-below-90-a-barrel-557620e0?mod=rss_markets_main",
       "summary": "Stocks traded lower after data showed that inflation in October cooled from the month before, but still overshot expectations.",
@@ -1337,6 +1353,14 @@
       "title": "The Death Knell of Digital Search",
       "link": "https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search",
       "summary": "Article URL: https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search\nComments URL: https://news.ycombinator.com/item?id=50441074\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-10T14:41:36+00:00"
+    },
+    {
+      "title": "The death knell of digital search",
+      "link": "https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search",
+      "summary": "Article URL: https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search\nComments URL: https://news.ycombinator.com/item?id=50441074\nPoints: 37\n# Comments: 44",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-10T14:41:36+00:00"
@@ -1862,6 +1886,14 @@
       "published": "2026-11-10T10:47:18+00:00"
     },
     {
+      "title": "What constant surveillance is doing to children and parents",
+      "link": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/",
+      "summary": "https://archive.is/opw0i, https://wallhop.io/https://www.theatlantic.com/magazine/2026...\n\nComments URL: https://news.ycombinator.com/item?id=50438480\nPoints: 107\n# Comments: 94",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-10T10:47:18+00:00"
+    },
+    {
       "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
       "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
       "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
@@ -2238,6 +2270,14 @@
       "published": "2026-11-10T09:04:39+00:00"
     },
     {
+      "title": "Queens Public Library under ransomware attack",
+      "link": "https://connect.queenslibrary.org/",
+      "summary": "Article URL: https://connect.queenslibrary.org/\nComments URL: https://news.ycombinator.com/item?id=50437790\nPoints: 155\n# Comments: 100",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-10T09:04:39+00:00"
+    },
+    {
       "title": "Top Federal Reserve official considers largest rate rise since 2022",
       "link": "https://www.ft.com/content/72abed21-6043-4b2b-81b1-f3a2547da5b7?syn-25a6b1a6=1",
       "summary": "Governor Christopher Waller says policymakers should weigh a 50-basis-point move if US inflation fails to slow",
@@ -2257,6 +2297,14 @@
       "title": "Fossil CO2 emissions decrease by 0.4% in 2026",
       "link": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
       "summary": "Article URL: https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/\nComments URL: https://news.ycombinator.com/item?id=50437752\nPoints: 8\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-10T08:59:41+00:00"
+    },
+    {
+      "title": "Fossil CO2 emissions decrease in 2026",
+      "link": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
+      "summary": "Article URL: https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/\nComments URL: https://news.ycombinator.com/item?id=50437752\nPoints: 120\n# Comments: 154",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-10T08:59:41+00:00"
@@ -2433,6 +2481,14 @@
       "title": "M John Harrison becomes first science fiction author to win the Booker prize",
       "link": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
       "summary": "Article URL: https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize\nComments URL: https://news.ycombinator.com/item?id=50437242\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-10T07:40:52+00:00"
+    },
+    {
+      "title": "M John Harrison becomes first science fiction author to win the Booker",
+      "link": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
+      "summary": "Article URL: https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize\nComments URL: https://news.ycombinator.com/item?id=50437242\nPoints: 60\n# Comments: 59",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-10T07:40:52+00:00"
