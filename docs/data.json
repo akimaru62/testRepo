@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T08:33:33.750203+00:00",
+  "generated_at": "2026-11-10T08:47:41.857078+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1050,12 +1050,28 @@
       "published": "2026-11-10T10:00:00+00:00"
     },
     {
+      "title": "SoftBank posts unexpected $7bn loss on data centre writedown",
+      "link": "https://www.ft.com/content/5ceed157-0016-4822-a272-8b607911da5e?syn-25a6b1a6=1",
+      "summary": "AI-focused Japanese group blames first quarterly loss in nearly two years on ‘evolving requirements’ in US projects",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-10T08:33:19+00:00"
+    },
+    {
       "title": "European Indexes Rise Sharply as Oil Slides",
       "link": "https://www.wsj.com/finance/stocks/nikkei-rises-2-8-led-by-bank-machinery-stocks-c0a653b1?mod=rss_markets_main",
       "summary": "European stock indexes opened higher, buoyed by lower oil prices.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-10T08:25:00+00:00"
+    },
+    {
+      "title": "US removes planes from second UK military base after Iran threat",
+      "link": "https://www.ft.com/content/c2992864-c0ab-4e38-b47a-5c2c1e3cb056?syn-25a6b1a6=1",
+      "summary": "Move follows September security incident at RAF Fairford",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-10T08:24:56+00:00"
     },
     {
       "title": "玉木氏、消費税法案の修正要求　「住民税減税が不可欠」",
@@ -1192,6 +1208,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-10T07:22:00+00:00"
+    },
+    {
+      "title": "Fireworks AI security breach impacts Notion and their customers",
+      "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+      "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor\nComments URL: https://news.ycombinator.com/item?id=50437106\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-10T07:19:38+00:00"
     },
     {
       "title": "巨人、横浜高の織田翔希に指名あいさつ　本人は同席せず―プロ野球",
