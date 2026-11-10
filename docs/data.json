@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T00:13:00.004789+00:00",
+  "generated_at": "2026-11-10T00:38:20.787423+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1030,6 +1030,38 @@
   ],
   "items": [
     {
+      "title": "ホンダ、米国で新工場建設を発表　4700億円投じ、HV生産増強",
+      "link": "https://www.asahi.com/articles/ASVCB004MVCBULFA002M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-10T00:38:15.416531+00:00"
+    },
+    {
+      "title": "Gold Edges Lower as Investors Await Key U.S. Inflation Data",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-as-investors-await-key-u-s-inflation-data-d4a0623a?mod=rss_markets_main",
+      "summary": "Gold edged lower in early Asian trade. The precious metal has gained some momentum as lower oil prices and a rebound in equity markets boosted risk appetite, ANZ Research said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-10T00:35:00+00:00"
+    },
+    {
+      "title": "国債金利情報(令和8年11月9日)",
+      "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-10T00:30:00+00:00"
+    },
+    {
+      "title": "Nikkei Rises 2.8%, Led by Bank, Machinery Stocks",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-2-8-led-by-bank-machinery-stocks-c0a653b1?mod=rss_markets_main",
+      "summary": "Japanese stocks were higher in early trade as concerns eased about an escalation in the Middle East conflict, pulling oil prices lower overnight.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-10T00:19:00+00:00"
+    },
+    {
       "title": "タイヤが将来足りなくなる？　ブリヂストンが注目する「第2の植物」",
       "link": "https://www.asahi.com/articles/ASVC63FWKVC6ULFA03CM.html?ref=rss",
       "summary": "",
@@ -1044,6 +1076,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-10T00:00:00+00:00"
+    },
+    {
+      "title": "Trump’s Board of Peace warns of  ‘immediate humanitarian emergency’ in Gaza",
+      "link": "https://www.ft.com/content/20dc125b-02e0-4bee-be43-16aa7f8185d9?syn-25a6b1a6=1",
+      "summary": "The organisation says flooding has left Palestinians in unsafe conditions, with Israel allowing insufficient aid into the territory",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-09T23:51:16+00:00"
     },
     {
       "title": "貸出・預金動向（10月）",
@@ -1140,6 +1180,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-09T23:14:29+00:00"
+    },
+    {
+      "title": "Fable 5.2 one-shotted my nephew's dream game",
+      "link": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+      "summary": "Article URL: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game\nComments URL: https://news.ycombinator.com/item?id=50433659\nPoints: 47\n# Comments: 22",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-09T23:08:13+00:00"
     },
     {
       "title": "NYダウ1100ドル超上昇、原油は下落　エヌビディアは4%超安に",
@@ -1329,6 +1377,14 @@
       "title": "TPUs",
       "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
       "summary": "Article URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/\nComments URL: https://news.ycombinator.com/item?id=50432831\nPoints: 26\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-09T21:56:57+00:00"
+    },
+    {
+      "title": "TPU 8tx and TPU 8i Max",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/\nComments URL: https://news.ycombinator.com/item?id=50432831\nPoints: 175\n# Comments: 29",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-09T21:56:57+00:00"
@@ -1793,6 +1849,14 @@
       "title": "E-means: 10x faster k-means at equal loss",
       "link": "https://e-means.github.io/",
       "summary": "Article URL: https://e-means.github.io/\nComments URL: https://news.ycombinator.com/item?id=50429734\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-09T18:45:43+00:00"
+    },
+    {
+      "title": "E-means: Outperforming k-means in one-tenth the epochs",
+      "link": "https://e-means.github.io/",
+      "summary": "Article URL: https://e-means.github.io/\nComments URL: https://news.ycombinator.com/item?id=50429734\nPoints: 254\n# Comments: 16",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-09T18:45:43+00:00"
