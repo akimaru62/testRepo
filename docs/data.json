@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T09:19:05.517543+00:00",
+  "generated_at": "2026-11-10T09:33:38.050160+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1030,6 +1030,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7a302e342a50>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://www.mof.go.jp/news.rss",
+      "error": "HTTPSConnectionPool(host='www.mof.go.jp', port=443): Read timed out. (read timeout=15)"
     }
   ],
   "items": [
@@ -1048,6 +1052,30 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-10T10:00:00+00:00"
+    },
+    {
+      "title": "日経平均の終値、6万円台回復　AI半導体に買い、原油下落も好感",
+      "link": "https://www.asahi.com/articles/ASVCB0460VCBULFA004M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-10T09:33:17.680481+00:00"
+    },
+    {
+      "title": "Eurozone Bond Yields Slide, Treasury Yields Seek Direction Ahead of CPI Data",
+      "link": "https://www.wsj.com/economy/central-banking/treasury-yields-edge-up-ahead-of-u-s-inflation-data-7a55db79?mod=rss_markets_main",
+      "summary": "Treasury yields were little changed on Tuesday as investors awaited U.S. consumer-price inflation data for October, while eurozone bond yields fell sharply as oil prices retreated.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-10T09:24:00+00:00"
+    },
+    {
+      "title": "ソフトバンクG 中間赤字に転落",
+      "link": "https://news.yahoo.co.jp/pickup/6602065?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-10T09:19:46+00:00"
     },
     {
       "title": "小野田経済安保相「新しい戦い方に対応」　重要土地法改正案が審議入り",
@@ -1088,6 +1116,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-10T09:04:39+00:00"
+    },
+    {
+      "title": "Top Federal Reserve official considers largest rate rise since 2022",
+      "link": "https://www.ft.com/content/72abed21-6043-4b2b-81b1-f3a2547da5b7?syn-25a6b1a6=1",
+      "summary": "Governor Christopher Waller says policymakers should weigh a 50-basis-point move if US inflation fails to slow",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-10T09:00:09+00:00"
     },
     {
       "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
@@ -1931,6 +1967,14 @@
     },
     {
       "title": "Japan can tell the world what really matters when prepping",
+      "link": "https://www.ft.com/content/559a8eeb-0e91-4920-8321-5066f81ea015?syn-25a6b1a6=1",
+      "summary": "Telling people to stock up is one thing but the Japanese know that building a stockpile of civil credibility requires greater effort",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-10T00:47:30+00:00"
+    },
+    {
+      "title": "The high price of Japan’s disaster-proof society",
       "link": "https://www.ft.com/content/559a8eeb-0e91-4920-8321-5066f81ea015?syn-25a6b1a6=1",
       "summary": "Telling people to stock up is one thing but the Japanese know that building a stockpile of civil credibility requires greater effort",
       "source": "Financial Times",
