@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T16:33:15.138728+00:00",
+  "generated_at": "2026-11-10T16:47:36.483493+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1038,6 +1038,14 @@
   ],
   "items": [
     {
+      "title": "Tailscale's DNS IPv6 spells out \"Tailscale\"",
+      "link": "https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/",
+      "summary": "Article URL: https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/\nComments URL: https://news.ycombinator.com/item?id=50442691\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-10T16:34:45+00:00"
+    },
+    {
       "title": "U.S. gas prices fall below $4 for the first time since July",
       "link": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
       "summary": "Americans may finally find some relief at the pump.",
@@ -1060,6 +1068,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-10T16:18:52.025464+00:00"
+    },
+    {
+      "title": "Alice Huang’s tangled web of connections",
+      "link": "https://www.ft.com/content/3238d92b-4074-478d-a7f2-d78b9e154fc7?syn-25a6b1a6=1",
+      "summary": "Executive alleged to be Chinese spy who had affair with Nvidia chief had already built career alongside a man with a history of crossing regulators",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-10T16:17:20+00:00"
     },
     {
       "title": "Blender 5.3 released with Gaussian Splat support",
