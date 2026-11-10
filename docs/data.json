@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T12:34:17.154696+00:00",
+  "generated_at": "2026-11-10T12:47:31.918980+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1038,6 +1038,22 @@
   ],
   "items": [
     {
+      "title": "Nvidia couldn’t derail the stock market’s rally. Hot inflation might.",
+      "link": "https://www.marketwatch.com/story/nvidia-couldnt-derail-the-stock-markets-rally-hot-inflation-might-8a572024?mod=mw_rss_topstories",
+      "summary": "A Fed official raises the prospect of a half-a-percentage-point rate hike. Plus, fresh valuation focus on Anthropic’s blockbuster IPO.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-10T12:33:00+00:00"
+    },
+    {
+      "title": "Anthropic officially sets the stage for an IPO valuing the company north of $1 trillion",
+      "link": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
+      "summary": "Anthropic could raise up to $63 billion in an IPO expected to take place next week.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-10T12:32:00+00:00"
+    },
+    {
       "title": "Anthropic officially sets the stage for an IPO valuing the company north of $1 billion",
       "link": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
       "summary": "Anthropic could raise up to $63 billion in an IPO expected to take place next week.",
@@ -1084,6 +1100,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-10T12:22:32.331565+00:00"
+    },
+    {
+      "title": "AlphaProof Code",
+      "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "summary": "Article URL: https://deepmind.google/blog/introducing-alphaproof-code/\nComments URL: https://news.ycombinator.com/item?id=50439193\nPoints: 35\n# Comments: 13",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-10T12:11:12+00:00"
     },
     {
       "title": "Anthropic plans to raise up to $64bn in IPO",
@@ -1425,6 +1449,14 @@
       "title": "Stock Market Today: Oil Prices Fall on Trump Iran Comments; Investors Await CPI Report",
       "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-11-10-2026?mod=rss_markets_main",
       "summary": "Nvidia stock on course to recover some losses",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-10T10:01:59+00:00"
+    },
+    {
+      "title": "Inflation Report Today: Oil Prices Fall on Trump Iran Comments; Investors Await CPI Report",
+      "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-11-10-2026?mod=rss_markets_main",
+      "summary": "Nvidia shares flat premarket; stocks steady after Monday rally",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-10T10:01:59+00:00"
@@ -3487,6 +3519,14 @@
     },
     {
       "title": "Jensen Huang and Nvidia’s ‘key man’ risk",
+      "link": "https://www.ft.com/content/1c033a7e-ea9e-4509-8e9b-7a0df283d6ee?syn-25a6b1a6=1",
+      "summary": "Some of the leading AI companies are dangerously reliant on single executives",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-09T18:17:15+00:00"
+    },
+    {
+      "title": "Nvidia’s ‘key man’ risk",
       "link": "https://www.ft.com/content/1c033a7e-ea9e-4509-8e9b-7a0df283d6ee?syn-25a6b1a6=1",
       "summary": "Some of the leading AI companies are dangerously reliant on single executives",
       "source": "Financial Times",
