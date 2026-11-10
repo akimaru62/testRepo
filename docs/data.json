@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T16:47:36.483493+00:00",
+  "generated_at": "2026-11-10T17:04:33.355022+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1037,6 +1037,22 @@
     }
   ],
   "items": [
+    {
+      "title": "Self-service regional failover with Amazon Application Recovery Controller Region Switch and centralized ingress controls",
+      "link": "https://aws.amazon.com/blogs/architecture/self-service-regional-failover-with-amazon-application-recovery-controller-region-switch-and-centralized-ingress-controls/",
+      "summary": "Application teams in regulated enterprises can execute self-service regional failover with Amazon Application Recovery Controller (ARC) Region Switch, even behind centrally managed ingress proxy fleets. Learn how Transit Gateway peering, Route 53 Private Hosted Zones, and VPC Lattice preserve security controls while removing cross-team coordination during DR.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-11-10T16:48:09+00:00"
+    },
+    {
+      "title": ".name Grandfathered",
+      "link": "https://neil.fraser.name/news/2026/11/10/",
+      "summary": "Article URL: https://neil.fraser.name/news/2026/11/10/\nComments URL: https://news.ycombinator.com/item?id=50442736\nPoints: 26\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-10T16:37:44+00:00"
+    },
     {
       "title": "Tailscale's DNS IPv6 spells out \"Tailscale\"",
       "link": "https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/",
@@ -2089,6 +2105,14 @@
       "title": "Caption glasses help hard-of-hearing theatregoers - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vdU9tZXVpZk5xYXR6ZElnTTQxSldDZGF2WFluYVg5ZzFUNjJkclUxSTR0TmJrUHM0ajJDb05FTFBBS0VvZ1MwTHZ0UHBPblpMdDhITHZXRHBvLTg?oc=5",
       "summary": "Caption glasses help hard-of-hearing theatregoers&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-10T09:28:07+00:00"
+    },
+    {
+      "title": "Global markets: stocks rebound, but sources say Tencent Music to delay IPO - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uTzZiTmRmdFZPN1ROVEpLdmtyVTBZM0RSWDlJcGNhVVdJbmFZWkVzVmxxbHVxeDFfN2Rubk1ESk5NOVhvcjRyQ0Q5RGpPZHQ5YkpHLUZxZ3hJbmc?oc=5",
+      "summary": "Global markets: stocks rebound, but sources say Tencent Music to delay IPO&nbsp;&nbsp;Reuters",
       "source": "ロイター",
       "category": "報道機関",
       "published": "2026-11-10T09:28:07+00:00"
