@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T08:22:17.188828+00:00",
+  "generated_at": "2026-11-10T08:33:33.750203+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1026,6 +1026,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7a302e342a50>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -1044,6 +1048,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-10T10:00:00+00:00"
+    },
+    {
+      "title": "European Indexes Rise Sharply as Oil Slides",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-2-8-led-by-bank-machinery-stocks-c0a653b1?mod=rss_markets_main",
+      "summary": "European stock indexes opened higher, buoyed by lower oil prices.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-10T08:25:00+00:00"
     },
     {
       "title": "玉木氏、消費税法案の修正要求　「住民税減税が不可欠」",
@@ -1244,6 +1256,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-10T07:12:00+00:00"
+    },
+    {
+      "title": "Too big to fire",
+      "link": "https://www.ft.com/content/e1c37583-0b76-48ab-96b7-8e7da453fa88?syn-25a6b1a6=1",
+      "summary": "Should Jensen Huang stay or go?",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-10T07:10:16+00:00"
     },
     {
       "title": "日経平均、2営業日ぶり6万円台　AI半導体に買い、原油下落も好感",
