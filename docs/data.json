@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T17:04:33.355022+00:00",
+  "generated_at": "2026-11-10T17:17:42.274258+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1037,6 +1037,22 @@
     }
   ],
   "items": [
+    {
+      "title": "Opinion | Building Wealth Requires More Than Charity",
+      "link": "https://www.wsj.com/opinion/building-wealth-requires-more-than-charity-974700f4?mod=rss_markets_main",
+      "summary": "Handouts can’t scale to a whole nation. A market-based path to ownership can.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-10T17:12:00+00:00"
+    },
+    {
+      "title": "AMD's Zen 6 Family: Feeding the Beast",
+      "link": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+      "summary": "Article URL: https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast\nComments URL: https://news.ycombinator.com/item?id=50443090\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-10T17:02:32+00:00"
+    },
     {
       "title": "Self-service regional failover with Amazon Application Recovery Controller Region Switch and centralized ingress controls",
       "link": "https://aws.amazon.com/blogs/architecture/self-service-regional-failover-with-amazon-application-recovery-controller-region-switch-and-centralized-ingress-controls/",
