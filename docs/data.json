@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T14:05:57.064103+00:00",
+  "generated_at": "2026-11-10T14:18:13.859534+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1038,6 +1038,46 @@
   ],
   "items": [
     {
+      "title": "１０月の米消費者物価、０．４％上昇",
+      "link": "https://www.jiji.com/jc/article?k=2026111001234&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-10T14:18:08.317978+00:00"
+    },
+    {
+      "title": "１０月の米消費者物価指数は前月比０．４％上昇した",
+      "link": "https://www.jiji.com/jc/article?k=2026111001233&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-10T14:18:08.317966+00:00"
+    },
+    {
+      "title": "米アンソロピック、１０兆円調達へ　市場予想大幅に下回る",
+      "link": "https://www.jiji.com/jc/article?k=2026111001196&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-10T14:18:08.317929+00:00"
+    },
+    {
+      "title": "もう終わりやで 明石ダコ深刻不漁",
+      "link": "https://news.yahoo.co.jp/pickup/6602095?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-10T14:12:10+00:00"
+    },
+    {
+      "title": "Gold Falls on Fed Governor Hawkish Remarks, Inflation Data",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-as-investors-await-key-u-s-inflation-data-d4a0623a?mod=rss_markets_main",
+      "summary": "Gold prices reversed course after Federal Reserve governor Waller said he was leaning toward supporting a quarter-point interest-rate increase.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-10T14:05:00+00:00"
+    },
+    {
       "title": "Bitcoin Falls to 11-Week Low After Higher-Than-Expected U.S. Inflation Data",
       "link": "https://www.wsj.com/articles/dollar-weakens-ahead-of-u-s-inflation-data-c7cddfbe?mod=rss_markets_main",
       "summary": "Bitcoin fell to an 11-week low after higher-than-expected U.S. inflation data for October.",
@@ -1052,6 +1092,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-10T13:52:24+00:00"
+    },
+    {
+      "title": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
+      "link": "https://neuracryption.com/research",
+      "summary": "Article URL: https://neuracryption.com/research\nComments URL: https://news.ycombinator.com/item?id=50440359\nPoints: 13\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-10T13:51:51+00:00"
     },
     {
       "title": "万博のEVバス補助金 返還は半分",
@@ -1212,6 +1260,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-10T12:22:32.331565+00:00"
+    },
+    {
+      "title": "What's new in the .NET 11 runtime",
+      "link": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+      "summary": "Article URL: https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime\nComments URL: https://news.ycombinator.com/item?id=50439284\nPoints: 22\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-10T12:20:07+00:00"
     },
     {
       "title": "AlphaProof Code",
