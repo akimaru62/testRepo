@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T16:18:57.047993+00:00",
+  "generated_at": "2026-11-10T16:33:15.138728+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1038,6 +1038,22 @@
   ],
   "items": [
     {
+      "title": "U.S. gas prices fall below $4 for the first time since July",
+      "link": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
+      "summary": "Americans may finally find some relief at the pump.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-11-10T16:29:09+00:00"
+    },
+    {
+      "title": "Why stocks are falling and the 10-year Treasury yield is back near 5% after Tuesday’s inflation report",
+      "link": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
+      "summary": "“I don’t think they should be raising another 25 basis points,” one portfolio manager said about the Federal Reserve’s benchmark interest rate.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-10T16:28:00+00:00"
+    },
+    {
       "title": "１１日からＦＡ交渉　森下、床田、坂倉ら１０人公示―プロ野球",
       "link": "https://www.jiji.com/jc/article?k=2026111000868&g=spo&m=rss",
       "summary": "",
@@ -1046,12 +1062,28 @@
       "published": "2026-11-10T16:18:52.025464+00:00"
     },
     {
+      "title": "Blender 5.3 released with Gaussian Splat support",
+      "link": "https://www.blender.org/download/releases/5-3/",
+      "summary": "Article URL: https://www.blender.org/download/releases/5-3/\nComments URL: https://news.ycombinator.com/item?id=50442426\nPoints: 16\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-10T16:15:43+00:00"
+    },
+    {
       "title": "Gemini 4 Carbon is now available",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
       "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/\nComments URL: https://news.ycombinator.com/item?id=50442303\nPoints: 10\n# Comments: 0",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-10T16:07:15+00:00"
+    },
+    {
+      "title": "Top Fed official considers largest rate rise since 2022",
+      "link": "https://www.ft.com/content/72abed21-6043-4b2b-81b1-f3a2547da5b7?syn-25a6b1a6=1",
+      "summary": "Governor Christopher Waller says policymakers should weigh a 50bp move if US inflation fails to slow",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-10T16:03:45+00:00"
     },
     {
       "title": ".NET 11",
@@ -1068,6 +1100,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-10T16:01:00+00:00"
+    },
+    {
+      "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
+      "link": "https://text.npr.org/nx-s1-6029641",
+      "summary": "Article URL: https://text.npr.org/nx-s1-6029641\nComments URL: https://news.ycombinator.com/item?id=50442202\nPoints: 29\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-10T15:59:34+00:00"
     },
     {
       "title": "I’m Always Wrong About Gold. You Probably Are, Too.",
@@ -1092,6 +1132,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-10T15:46:00+00:00"
+    },
+    {
+      "title": "US, Russia and Ukraine resume talks on ending war",
+      "link": "https://www.ft.com/content/352539b3-41fd-4418-a171-43975897ec0e?syn-25a6b1a6=1",
+      "summary": "Expectations of a breakthrough are low because Vladimir Putin shows no sign of wanting to halt the conflict",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-10T15:43:34+00:00"
     },
     {
       "title": "Smart home devices should work without the internet",
@@ -1132,6 +1180,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-10T15:18:10.793475+00:00"
+    },
+    {
+      "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+      "link": "https://tinyvalencia.com/",
+      "summary": "Article URL: https://tinyvalencia.com/\nComments URL: https://news.ycombinator.com/item?id=50441518\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-10T15:12:16+00:00"
     },
     {
       "title": "Monthly US inflation higher than expected in October",
