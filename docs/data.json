@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T19:17:52.975573+00:00",
+  "generated_at": "2026-11-10T19:33:25.360531+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1038,6 +1038,38 @@
   ],
   "items": [
     {
+      "title": "Corporate America is making a trillion-dollar mistake about retirement",
+      "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+      "summary": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-10T19:29:00+00:00"
+    },
+    {
+      "title": "Stocks Fall as Inflation Comes in Hotter Than Expected",
+      "link": "https://www.wsj.com/finance/stocks/global-stocks-strengthen-as-oil-dips-below-90-a-barrel-557620e0?mod=rss_markets_main",
+      "summary": "Stocks traded lower after data showed that inflation in October cooled from the month before, but still overshot expectations.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-10T19:25:00+00:00"
+    },
+    {
+      "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
+      "link": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
+      "summary": "It’s one thing for money to shift between stocks,  but it’s another thing for customers to shift their supplier relationships.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-10T19:17:00+00:00"
+    },
+    {
+      "title": "Weil partners approve plan to shut down law firm",
+      "link": "https://www.ft.com/content/7088e087-c688-485a-8e8d-efb6b75bc571?syn-25a6b1a6=1",
+      "summary": "Dissolution of nearly century-old firm formalised after a series of defections plunged it into crisis",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-10T19:11:51+00:00"
+    },
+    {
       "title": "Treasuries slide as ‘hot’ inflation sparks bets on Fed rate rise",
       "link": "https://www.ft.com/content/8b564134-dea6-4272-8ede-e0b12ef5aebd?syn-25a6b1a6=1",
       "summary": "Two-year government bond yields soar most since 2024 as October consumer price growth tops forecasts",
@@ -1129,6 +1161,14 @@
       "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
       "link": "https://claude.com/resources/articles/sheets-whiteboards-data",
       "summary": "Article URL: https://claude.com/resources/articles/sheets-whiteboards-data\nComments URL: https://news.ycombinator.com/item?id=50443716\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-10T17:55:07+00:00"
+    },
+    {
+      "title": "An Open Field Guide to Inference Engineering",
+      "link": "https://docs.modelplane.ai/guides/inference-guide",
+      "summary": "Article URL: https://docs.modelplane.ai/guides/inference-guide\nComments URL: https://news.ycombinator.com/item?id=50443714\nPoints: 8\n# Comments: 1",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-10T17:55:07+00:00"
