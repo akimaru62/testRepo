@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T17:17:16.205323+00:00",
+  "generated_at": "2026-11-11T17:33:15.865435+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1074,6 +1074,14 @@
       "published": "2026-11-11T17:13:00+00:00"
     },
     {
+      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+      "link": "https://news.ycombinator.com/item?id=50455811",
+      "summary": "Hi HN, we’re Alan and Akshay from Pomerado (https://pomerado.ai/). We connect your agents to any website by turning sites into deterministic, self-healing APIs in minutes, fully self-serve.Agents are no longer limited by their intelligence, but rather by their ability to interact with systems. Airlines, banks, e-commerce, insurance portals, government sites, and legacy portals all lack APIs or MCPs and are common parts of personal assistant or business workflows. Agents instead rely on browser automation or computer use, which can be slow, expensive, and unreliable. And even if computer use were perfect, most companies have banned it out of security and compliance concerns.We discovered this problem while tinkering with our own personal assistants. When OpenClaw came out, we wanted to “live our lives through our agents” and have them do everything for us. We soon found their usefulness was restricted by what tools they could connect to. For example, when trying to book flights, they fell back on computer use, which failed to checkout. These issues got magnified on repeated workflows, like searching many airlines at once.Pomerado started off as a project to improve these personal assistant workflows. As we started building, we realized that just-in-time tool creation could have significant applications for AI builders in legacy verticals.We’re ex-McKinsey and Scale AI, where we drove agent deployments in healthcare, professional services, and telecom. Each time, the biggest bottleneck was getting agents to interface well with legacy websites and apps.Pomerado is what we built. It’s a self-serve platform where devs can create APIs for any website (even those they don’t own), in minutes. Users (or their coding agents) provide a short natural language description, answer a few questions about their workflow, and receive a MCP in less than an hour. Future tool calls use the deterministic MCP, which usually returns results in 5-30 seconds.Here’s a walkthrough of our product: https://youtu.be/Bi4jci7rgHoIn practice:- Our agent opens a browser, explores the website, and performs the requested task once by writing HTTP requests or a Playwright script. This example run establishes how to navigate the website, interact with the relevant controls, and obtain the desired result. If any additional user input is needed (e.g., login, clarification) the agent will ask the user over MCP.- Afterwards, the agent uses the example run, along with all of the data it recorded, to create a generalizable and repeatable API. Throughout this process, a separate Guardian model reviews the coding agent’s calls against a set of guardrails. We also run a battery of tests with synthetic inputs to ensure that the API is generalized and not overfit to one input. A final publication agent ensures that the integration publishes a reasonable and generalized input/output schema- We also handle sites that require authentication and 2FA. For authentication, we pass off to a deterministic sign-in process to ensure the model and our recorders never read customer credentials. Users can store 2FA TOTP seeds or link their account to a Pomerado phone number for us to autofill 2FA for them as well- If future runs fail, a maintenance job is kicked off to repair and improve the tool. The maintenance job can fix broken steps (e.g., a renamed button), add additional functionality (e.g., searching for business class flights in addition to economy), or add new guardrails (e.g., reservation dates must be in the future). We’ve even seen people improve tools by just saying “please make this faster”Unlike computer use, our MCPs are deterministic at runtime, which makes them much faster and cheaper. By taking slightly longer to do a task the first time, you reap the benefits much more in the future. It’s a great fit for repeated, high-volume tasks you want your agent to do.We’d love to have you try it! We have both an open-source (MIT) (https://github.com/Pomerado/pomerado) and a free hosted version (https://app.pomerado.ai).So far, users of Pomerado include:- A personal trainer using agents to prepare workouts and message clients. Before Pomerado, agents couldn’t login and use the site reliably, so this was all manual- Car dealerships connecting their Grok Bots to legacy dealer systems, including marketplaces, CRMs, and ERPs. Dealers switched from computer use, which could take 1hr+- Personal assistants using Pomerado to integrate with a broad range of consumer websitesPlease ask any questions or share any feedback in the comments, thanks!\n\nComments URL: https://news.ycombinator.com/item?id=50455811\nPoints: 2\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-11T17:11:56+00:00"
+    },
+    {
       "title": "Need money for a down payment? More employers are offering to help.",
       "link": "https://www.marketwatch.com/story/need-money-for-a-down-payment-more-employers-are-offering-to-help-59c57da3?mod=mw_rss_topstories",
       "summary": "The rise in home-buying help from employers “speaks volumes about how difficult buying a home has become, even for people with steady jobs.”",
@@ -1106,6 +1114,14 @@
       "published": "2026-11-11T17:00:00+00:00"
     },
     {
+      "title": "Faster Retrieval for Better, More Efficient RAG",
+      "link": "https://machinelearning.apple.com/research/faster-retrieval",
+      "summary": "Article URL: https://machinelearning.apple.com/research/faster-retrieval\nComments URL: https://news.ycombinator.com/item?id=50455633\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-11T16:57:45+00:00"
+    },
+    {
       "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
       "link": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
       "summary": "Article URL: https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/\nComments URL: https://news.ycombinator.com/item?id=50455394\nPoints: 9\n# Comments: 0",
@@ -1136,6 +1152,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-11T16:18:39.283080+00:00"
+    },
+    {
+      "title": "Multiple remote code execution vulnerabilities in danfoss sm-800A",
+      "link": "https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a",
+      "summary": "Article URL: https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a\nComments URL: https://news.ycombinator.com/item?id=50455031\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-11T16:08:14+00:00"
     },
     {
       "title": "The hardest notes to find on the guitar fretboard",
@@ -1200,6 +1224,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-11T15:39:44+00:00"
+    },
+    {
+      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+      "link": "https://github.com/FrigadeHQ/yogurt",
+      "summary": "Hey HN, I’m Eric and I want to share an OSS project that I’ve been building in my free time. Yogurt is a free, MIT licensed desktop app that uses on-device AI models to transcribe, summarize, and chat with your meetings.Similar to Granola, Yogurt runs in the background and does not join your calls. But unlike Granola, Yogurt is open-source, free to use, and private. Your meeting transcripts, call recordings, and summaries never leave your computer.As small OSS models have gotten faster and more powerful, Yogurt seemed like a pretty obvious win for privacy and cost conscious folks. You do not need a frontier model to summarize meeting notes or answer questions about them. And if you want to make your notes available to a frontier model, you can just share it with Anthropic, OpenAI, etc. directly via Yogurt’s local MCP server. There’s no need to use a paid cloud service as a middleman.I tried some of the most popular OSS note taking tools, and most were missing features like calendar integration, MCP server, etc. or required you to connect or create an account. And more than that, they didn’t feel polished enough for it to be something I actually wanted to use daily, and so I built Yogurt to scratch that itch. I spent a lot of time fine-tuning every UI interaction/animation and optimizing the model calls to get the most out of your hardware + make it snappy.To support Windows/Mac/Linux, I decided to go with Electron. I use whisper.cpp for transcription and Apple’s on-device SpeechAnalyzer if your system supports it. For call summaries and questions, I use a local open weight LLM that automatically gets downloaded and set up based on what your hardware can handle without your cooling fans firing off like crazy (this part uses llama.cpp).I’ve spent a lot of time working on details like echo detection/reduction, global/folder/local level search respectively, and auto-end recordings. Hope this is useful for any of you who have held out on using AI note tools for privacy or cost reasons, or for folks using cloud tools who want to switch to something free and open source that still feels great to use.Would love to hear what you think about the onboarding and note taking experience :)\n\nComments URL: https://news.ycombinator.com/item?id=50454625\nPoints: 10\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-11T15:33:06+00:00"
     },
     {
       "title": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade",
