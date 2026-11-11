@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T14:33:28.259984+00:00",
+  "generated_at": "2026-11-11T14:47:56.347643+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1066,6 +1066,14 @@
       "published": "2026-11-11T17:00:00+00:00"
     },
     {
+      "title": "US tech stocks gain as AI trade revives",
+      "link": "https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1",
+      "summary": "Better than expected CoreWeave results and the prospect of a higher IPO valuation for Anthropic boost sentiment after last week’s sell-off",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-11T14:31:18+00:00"
+    },
+    {
       "title": "Crude Futures Pick Up After Heavy Selling",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-as-middle-east-risks-linger-53d39c2e?mod=rss_markets_main",
       "summary": "Oil futures picked up after sliding to two-month lows on optimism about a possible negotiated solution to the U.S.-Iran conflict.",
@@ -1130,6 +1138,22 @@
       "published": "2026-11-11T14:15:00+00:00"
     },
     {
+      "title": "RAF Fairford incident partly directed from New York jail, US claims",
+      "link": "https://www.ft.com/content/687acbbb-6296-4030-a1a0-c07936a6c9db?syn-25a6b1a6=1",
+      "summary": "US indictment links alleged plot to attack British air base to wider campaign across Europe targeting Jewish sites",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-11T14:14:04+00:00"
+    },
+    {
+      "title": "Atuin Threads: All your agent sessions on every machine",
+      "link": "https://blog.atuin.sh/threads-agent-sessions/",
+      "summary": "Article URL: https://blog.atuin.sh/threads-agent-sessions/\nComments URL: https://news.ycombinator.com/item?id=50453637\nPoints: 9\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-11T14:10:46+00:00"
+    },
+    {
       "title": "ドコモ、5Gサービスの通信障害が復旧　機器へのアクセス集中が原因",
       "link": "https://www.asahi.com/articles/ASVCC108NVCCULFA00TM.html?ref=rss",
       "summary": "",
@@ -1178,6 +1202,14 @@
       "published": "2026-11-11T13:36:00+00:00"
     },
     {
+      "title": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
+      "link": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
+      "summary": "No internet connection needed. Uses a locally-installed compiler for assembly generation.\n\nComments URL: https://news.ycombinator.com/item?id=50453229\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-11T13:34:24+00:00"
+    },
+    {
       "title": "Saudi oil production rebounds close to prewar levels",
       "link": "https://www.ft.com/content/c844b957-3c98-43a3-b02e-2d0f5368bd49?syn-25a6b1a6=1",
       "summary": "Output higher than average before Iran conflict as kingdom keeps exports flowing despite attacks on shipping and energy infrastructure",
@@ -1200,6 +1232,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-11T13:21:00+00:00"
+    },
+    {
+      "title": "EventSourcingDB 1.3.0 Is Available",
+      "link": "https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available",
+      "summary": "Article URL: https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available\nComments URL: https://news.ycombinator.com/item?id=50453080\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-11T13:19:45+00:00"
     },
     {
       "title": "西川「必死に頑張る」　アジアプロ野球",
@@ -2083,6 +2123,14 @@
     },
     {
       "title": "Inside Ken Griffin’s $5bn Miami takeover",
+      "link": "https://www.ft.com/content/592a8b23-6095-42ba-bff6-2ec3b61ede65?syn-25a6b1a6=1",
+      "summary": "The billionaire wanted to mould his ideal city — and found his clout went further in Florida",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-11T05:00:02+00:00"
+    },
+    {
+      "title": "Ken Griffin’s dream city",
       "link": "https://www.ft.com/content/592a8b23-6095-42ba-bff6-2ec3b61ede65?syn-25a6b1a6=1",
       "summary": "The billionaire wanted to mould his ideal city — and found his clout went further in Florida",
       "source": "Financial Times",
