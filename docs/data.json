@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T01:17:26.748453+00:00",
+  "generated_at": "2026-11-11T01:34:12.538885+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1041,6 +1041,22 @@
     }
   ],
   "items": [
+    {
+      "title": "20年利付国債（11月債）の発行予定額等（令和8年11月11日公表）",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20261111.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-11T01:30:00+00:00"
+    },
+    {
+      "title": "国庫短期証券（第1420回）の発行予定額等",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20261111.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-11T01:20:00+00:00"
+    },
     {
       "title": "Ｇ７外相会合が閉幕　米長官「外交変わらず」",
       "link": "https://www.jiji.com/jc/article?k=2026111100222&g=int&m=rss",
@@ -2376,6 +2392,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-10T15:06:01+00:00"
+    },
+    {
+      "title": "Show HN: Aircad – Professional drafting and 3D modeling in the browser",
+      "link": "https://aircad.com",
+      "summary": "Aircad is a professional CAD system running in the browser with deep AI integration. It includes professional grade drafting and documentation tools, NURBS-based solid modeling, and a lot more. You can make professional quality design documents with it. It is all integrated behind a scripting API that can do anything you can do in the interface and also perform complex modeling operations efficiently. It reads and writes file formats like DXF, DWG, STEP, and 3DM.I built Aircad because I was frustrated with what was out there. Current CAD tools are expensive and slow to improve. New features barely move the needle. With Aircad, you have fast, powerful geometry tools for just about anything, from conceptual models to your final design.The newer generation of web-based CAD isn’t comprehensive enough to complete a project or is slower than existing desktop products because it sends performance-sensitive work to a server (OnShape), or isn’t designed to scale to real work in a collaborative setting (many \"toy\" CAD tools).Current CAD collaboration workflows are fragile, costly, and complex. They’re file-based and separate the design artifacts (eg PDFs) from the source. Collaboration is often an expensive add-on that raises your subscription, is hard to learn, and feels unnatural. Aircad builds it in: version history, drawing comparison, forking, and realtime collaboration.AI in most CAD tools is tacked on as a plug-in instead of being deeply integrated, and those plug-ins are often inefficient, hard to adopt, and costly. Aircad has a built-in AI agent and a comprehensive scripting API with a stage-and-commit workflow, so you know exactly what is happening during a complex change. You can use AI to write new scripts and commands that extend Aircad with repeatable, shareable workflows.\n\nComments URL: https://news.ycombinator.com/item?id=50441350\nPoints: 9\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-10T15:01:19+00:00"
     },
     {
       "title": "The Hardest Tarball?",
