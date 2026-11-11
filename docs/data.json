@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T23:33:34.196544+00:00",
+  "generated_at": "2026-11-11T23:47:37.117980+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1054,11 +1054,27 @@
   ],
   "items": [
     {
+      "title": "Scott Colom wins historic Senate race in Mississippi",
+      "link": "https://www.ft.com/content/ed93bd25-3ae4-4845-ac2e-ccb6e9c741e6?syn-25a6b1a6=1",
+      "summary": "Democrat becomes the first Black man to represent the state since reconstruction",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-11T23:31:55+00:00"
+    },
+    {
       "title": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
       "link": "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories",
       "summary": "The government may have lost a month of inflation data, but don’t expect your credit card’s annual percentage rate to decline because of it.",
       "source": "MarketWatch",
       "category": "海外金融",
+      "published": "2026-11-11T23:30:00+00:00"
+    },
+    {
+      "title": "ヘアカラーは｢染めて終わり｣ではない？　髪色の多様化で注目される｢カラー後ケア｣､メーカー各社の新戦略 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964249?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "髪色は今や個性を表現する大切なツール。しかし､理想のカラーを叶えても色落ちやダメージに悩む人は多いもの。近年は｢染めた後｣のヘアケアや技術に注目が集まり､白髪ぼかしやカラーシャンプーなど選択肢が拡大…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
       "published": "2026-11-11T23:30:00+00:00"
     },
     {
@@ -1068,6 +1084,14 @@
       "source": "AWS ブログ (アーキテクチャ)",
       "category": "開発者向け",
       "published": "2026-11-11T23:25:00+00:00"
+    },
+    {
+      "title": "Modern Web Guidance 1.0: The web platform expertise your coding agent is missing",
+      "link": "https://developer.chrome.com/blog/modern-web-guidance-v1",
+      "summary": "Article URL: https://developer.chrome.com/blog/modern-web-guidance-v1\nComments URL: https://news.ycombinator.com/item?id=50460398\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-11T23:22:29+00:00"
     },
     {
       "title": "エヌビディアがCEO解任準備 報道",
@@ -1126,10 +1150,34 @@
       "published": "2026-11-11T23:15:00+00:00"
     },
     {
+      "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+      "link": "https://github.com/tylertms/Stela",
+      "summary": "Article URL: https://github.com/tylertms/Stela\nComments URL: https://news.ycombinator.com/item?id=50460154\nPoints: 5\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-11T23:02:38+00:00"
+    },
+    {
       "title": "｢AIに\"中学生らしく書いて\"と指示｣教員が｢もう見抜けない｣とお手上げ ｢全面禁止論｣に納得も現場が直面する残酷な現実 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/963951?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "生成AIをめぐる議論が続く教育現場。しかし一方で､生徒たちはすでにAIを巧みに使いこなし､教師も｢見抜けない｣と語ります。",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-11T23:00:00+00:00"
+    },
+    {
+      "title": "NTT社長が警告　「AIで省人化」では成長できない――では、どうする？　すかいらーく、キーエンスに学ぶ勝ち筋",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/12/news011.html",
+      "summary": "人口減少に伴い、市場が縮小する日本で、AIを単なる省人化のために使うだけでは、企業は成長し続けられない。NTTの島田明CEOが説くAI経営の戦略と実践論に迫る。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-11T23:00:00+00:00"
+    },
+    {
+      "title": "広がるAIデータセンター「日本は世界2～3位の市場に」　設備を担う大手バーティブ幹部が見据える、2030年のAI事情",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/12/news013.html",
+      "summary": "生成AIの普及でデータセンターの設計思想が変化している。データセンター設備大手、Vertivの幹部らが捉えた市場動向から、日本のAIインフラの最前線を追う。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-11-11T23:00:00+00:00"
     },
