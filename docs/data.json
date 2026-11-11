@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T16:47:44.988470+00:00",
+  "generated_at": "2026-11-11T17:04:53.228693+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1066,6 +1066,22 @@
       "published": "2026-11-11T17:00:00+00:00"
     },
     {
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "link": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "summary": "Article URL: https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/\nComments URL: https://news.ycombinator.com/item?id=50455394\nPoints: 9\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-11T16:38:44+00:00"
+    },
+    {
+      "title": "Why aren't we shipping faster now?",
+      "link": "https://cabird.com/talks/shipping-faster/",
+      "summary": "Article URL: https://cabird.com/talks/shipping-faster/\nComments URL: https://news.ycombinator.com/item?id=50455332\nPoints: 17\n# Comments: 10",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-11T16:33:28+00:00"
+    },
+    {
       "title": "米ロ・ウクライナ、領土交渉難航か　２日目終了、捕虜交換で進展",
       "link": "https://www.jiji.com/jc/article?k=2026111100183&g=int&m=rss",
       "summary": "",
@@ -1074,12 +1090,28 @@
       "published": "2026-11-11T16:18:39.283080+00:00"
     },
     {
+      "title": "The hardest notes to find on the guitar fretboard",
+      "link": "https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard",
+      "summary": "Article URL: https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard\nComments URL: https://news.ycombinator.com/item?id=50454995\nPoints: 6\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-11T16:05:18+00:00"
+    },
+    {
       "title": "Anthropic’s IPO roadshow kicks off — and the big money is already lining up",
       "link": "https://www.marketwatch.com/story/anthropics-ipo-roadshow-kicks-off-and-the-big-money-is-already-lining-up-7cdd4f8b?mod=mw_rss_topstories",
       "summary": "Despite nagging concerns over the AI trade, Anthropic’s IPO is reportedly seeing very strong demand.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-11T16:03:00+00:00"
+    },
+    {
+      "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+      "link": "https://github.com/klad-app/klad",
+      "summary": "I've been developing applications for a long time and have turned to game development as well lately. One of the things that frustrated me the most was that using AI agents for game development is very annoying in the art department. Your only options right now are to either use an image genAI model and roll the dice every time you want to make an edit, or have your agent draw with something like vectors.I was looking for an application that would allow me to ask an agent to make a first draft of whatever art I needed with actual brushes, and then be able to go in myself and edit every last stroke or layer that it created.Klad is that application. Written in Rust, it can be fully controlled by an agent through the CLI, and every function is available in a nice UI as well: a brush engine, frame-by-frame animation (and bones/IK), vectors, text layers, colours, layer effects, infinite undo (even after re-opening the file!),…Why I think it's useful for a wider audience: Adobe showed agents editing Photoshop files at MAX this week, with a private beta planned for early 2027.Klad is built on the same core idea, with editable paint strokes as core architecture, and it works today.Clone the repo to try it out: https://github.com/klad-app/kladYou can basically point Claude to the repo, ask it to build it, and pick up the drawing skills. Then ask it to make any drawing you want! (After that, you or the agent can change absolutely every brush stroke in the app again, which makes edits a breeze.)The quality of the drawings really depends on the agent you use. I have tried it with Claude Fable 5.2 since it came out on Monday, and the drawings are already quite impressive. I'm confident that this will only improve.I use it every day on Mac, so that definitely works well. It builds on Linux too (tablet pen pressure still needs some work there). Windows builds in CI, I haven't used it there myself yet but I have some reports that it works perfectly fine.Coming up next is support for pixel art. I'm in the testing phase with this right now, and I expect it to go live in the repo sometime this weekend.Klad is source-available rather than open source: free to build and use for individuals and small companies, and I plan to sell pre-built binaries later, the way Aseprite does. The file format, CLI reference and agent skill are MIT.What I want to hear from people who try it: Can your agent work out the CLI without help, and where does it get confused? Can you go in and change one of its strokes easily?The command reference and guides are available at https://klad.studioI'll be here answering any questions about the technical side as well, as it's a pretty interesting challenge to build a performant engine with editable brush strokes that render as paint.\n\nComments URL: https://news.ycombinator.com/item?id=50454951\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-11T16:00:50+00:00"
     },
     {
       "title": "Humanoid robot start-up backed by Eric Trump in talks to supply IDF",
@@ -1104,6 +1136,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-11T15:54:42+00:00"
+    },
+    {
+      "title": "The Computer Graphics Book of Knowledge",
+      "link": "https://www.cs.cmu.edu/~ph/nyit/masson/history.htm",
+      "summary": "Article URL: https://www.cs.cmu.edu/~ph/nyit/masson/history.htm\nComments URL: https://news.ycombinator.com/item?id=50454823\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-11T15:50:02+00:00"
     },
     {
       "title": "Thousands of schools in Italy, Scotland and Ireland receive bomb threats",
