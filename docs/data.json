@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T22:33:15.074027+00:00",
+  "generated_at": "2026-11-11T22:47:32.455491+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1054,12 +1054,36 @@
   ],
   "items": [
     {
+      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+      "link": "https://www.mcmillen.dev/sigbovik/",
+      "summary": "Article URL: https://www.mcmillen.dev/sigbovik/\nComments URL: https://news.ycombinator.com/item?id=50459745\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-11T22:34:23+00:00"
+    },
+    {
+      "title": "Nvidia Is Preparing to Oust Nvidia CEO Jensen Huang",
+      "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "summary": "Article URL: https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad\nComments URL: https://news.ycombinator.com/item?id=50459703\nPoints: 29\n# Comments: 9",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-11T22:31:06+00:00"
+    },
+    {
       "title": "懸命に働くは美徳51% 読売調査",
       "link": "https://news.yahoo.co.jp/pickup/6602243?source=rss",
       "summary": "",
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-11T22:30:24+00:00"
+    },
+    {
+      "title": "1年経った《ダウンタウンプラス》｢会員維持は大変…｣｢2人揃った新コンテンツはあるのか｣キーマン語る\"本音とこれから\" | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964203?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "昨年からスタートした､ダウンタウンの配信サービス･DOWNTOWN+（ダウンタウンプラス）。1年経ったことで課題も見えてきたようです。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-11T22:30:00+00:00"
     },
     {
       "title": "WSJ Dollar Index Rises 0.44% to 97.97",
@@ -1138,6 +1162,22 @@
       "link": "https://toyokeizai.net/articles/-/963887?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "AIに何でも相談する若手が増えている中､職場での｢報連相｣はどうあるべきでしょうか。最先端の｢AI上司｣は､役に立つのでしょうか。取材から明らかになった､若手とマネジャーの本音とは？",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-11T22:00:00+00:00"
+    },
+    {
+      "title": "みずほFGは解雇せず5000人をAIで再配置　自治体は同じことをできるのか？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/12/news007.html",
+      "summary": "AIの普及をきっかけに日本企業で人的資源を再配置する動きが本格化している。事務職などの「支援活動」をAIに置き換え、余った人員は顧客に直接価値を届ける「主活動」に配置転換する動きが進む。同じことは自治体の組織でも当てはまるのか。自治体における「AI時代の人的配置」について考える。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-11T22:00:00+00:00"
+    },
+    {
+      "title": "栗山英樹氏が語る“担がれるリーダー“の条件　大切にする「一つの約束事」とは？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/12/news005.html",
+      "summary": "組織の都合ではなく「その人にとってプラスかマイナスか」。北海道日本ハムファイターズCBO（チーフ・ベースボール・オフィサー）の栗山英樹氏が決断の際に心掛けてきた基準だ。これからのリーダーの在り方、部下を信じて任せる覚悟、相手の心に届く言葉とは。栗山氏の発言から読み解く。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-11-11T22:00:00+00:00"
     },
@@ -2849,6 +2889,14 @@
       "title": "Stock Market Today: CoreWeave Shares Jump, Re-Energizing the AI Trade",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-11-2026?mod=rss_markets_main",
       "summary": "Cloud provider's latest update reassured investors; Nasdaq rises 2%",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-11T08:21:53+00:00"
+    },
+    {
+      "title": "Stock Market Today: Nvidia Stocks Slides as Board Considers Ousting CEO",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-11-2026?mod=rss_markets_main",
+      "summary": "Tech giant's shares drop 8% afterhours with Jensen Huang's future at the company unclear",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-11T08:21:53+00:00"
