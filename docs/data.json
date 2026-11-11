@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T00:13:25.650710+00:00",
+  "generated_at": "2026-11-11T00:39:23.534434+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1042,6 +1042,54 @@
   ],
   "items": [
     {
+      "title": "トヨタが米国で軽トラック発売へ　最高時速は40キロの「低速車両」",
+      "link": "https://www.asahi.com/articles/ASVCB7W8CVCBUHBI001M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-11T00:39:17.911550+00:00"
+    },
+    {
+      "title": "Gold Edges Higher in Likely Technical Rebound",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-in-likely-technical-rebound-f73bdc8f?mod=rss_markets_main",
+      "summary": "Gold edged higher in early Asian trade in a likely technical rebound after tumbling overnight.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-11T00:32:00+00:00"
+    },
+    {
+      "title": "記憶力で勝る30代にはこれで勝負! 脳の専門家が明かす､40～50代にかけてピークを迎える《中年ならでは》の脳の力 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963846?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "脳は､生涯にわたって成長し続けます。死ぬまで未完成であると言ってもいいでしょう――。そう語る脳内科医の加藤俊徳氏によれば､実は脳の力は30歳からが本番で､ピークは45〜55歳。脳の8つの特性を理解し…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-11T00:30:00+00:00"
+    },
+    {
+      "title": "国債金利情報(令和8年11月10日)",
+      "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-11T00:30:00+00:00"
+    },
+    {
+      "title": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more",
+      "link": "https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6=1",
+      "summary": "Claude maker’s listing price expected to rise after strong demand from investors",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-11T00:27:38+00:00"
+    },
+    {
+      "title": "Nikkei Flat, Supported by Bank, Pharma Stocks",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-flat-supported-by-bank-pharma-stocks-2c6e1b38?mod=rss_markets_main",
+      "summary": "Japan’s Nikkei Stock Average was flat at 60451.02 as gains in bank and pharmaceutical shares offset losses in technology and machinery stocks.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-11T00:25:00+00:00"
+    },
+    {
       "title": "維新アクセル、戸惑う自民　原潜・非核三原則、集約難航も―安保３文書、与党協議スタート",
       "link": "https://www.jiji.com/jc/article?k=2026111001061&g=pol&m=rss",
       "summary": "",
@@ -1056,6 +1104,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-11T00:13:20.162866+00:00"
+    },
+    {
+      "title": "US House blocks Pete Hegseth impeachment",
+      "link": "https://www.ft.com/content/38100c3c-af0d-440b-8350-823c5e8c80d9?syn-25a6b1a6=1",
+      "summary": "Congressional effort to unseat Donald Trump’s defence secretary over conduct of Iran war fails at first hurdle",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-11T00:01:42+00:00"
     },
     {
       "title": "CoreWeave plans multibillion-dollar chip-backed debt deal",
@@ -1088,6 +1144,14 @@
       "source": "日本銀行",
       "category": "公的機関",
       "published": "2026-11-10T23:50:00+00:00"
+    },
+    {
+      "title": "The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)",
+      "link": "https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md",
+      "summary": "Article URL: https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md\nComments URL: https://news.ycombinator.com/item?id=50447900\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-10T23:41:41+00:00"
     },
     {
       "title": "「稼ぐ」マンション管理組合増加",
@@ -1250,12 +1314,28 @@
       "published": "2026-11-10T22:17:56+00:00"
     },
     {
+      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+      "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "summary": "Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update\nComments URL: https://news.ycombinator.com/item?id=50447074\nPoints: 135\n# Comments: 44",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-10T22:17:56+00:00"
+    },
+    {
       "title": "15周年で変わった｢LINE｣既読をつけずに読む･送信後の編集･通話の録音まで､新機能を一挙解説 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/963720?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "15周年を迎え､多彩な新機能で進化を続けるLINE。注目は｢既読｣をつけずに内容が読めるスクロールプレビューや､送信済みメッセージの編集など､コミュニケーションをより柔軟にする機能群だ。LINEラボ…",
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-10T22:15:00+00:00"
+    },
+    {
+      "title": "$30M Raised to Redo the CPU",
+      "link": "https://tendrils.co/blog/2026-11-10/30m-raised",
+      "summary": "Article URL: https://tendrils.co/blog/2026-11-10/30m-raised\nComments URL: https://news.ycombinator.com/item?id=50447036\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-10T22:14:03+00:00"
     },
     {
       "title": "Alibaba’s Chip Unit Files for Hong Kong Listing",
@@ -1717,6 +1797,14 @@
       "title": "Toyota brand Scion is back and it's going to sell a kei truck in America",
       "link": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
       "summary": "Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/\nComments URL: https://news.ycombinator.com/item?id=50445401\nPoints: 21\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-10T19:50:46+00:00"
+    },
+    {
+      "title": "Scion is back and is going to sell a kei truck in America",
+      "link": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "summary": "Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/\nComments URL: https://news.ycombinator.com/item?id=50445401\nPoints: 297\n# Comments: 212",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-10T19:50:46+00:00"
@@ -2949,6 +3037,14 @@
       "title": "Stock Market Today: Yields Jump as Inflation Comes in Hotter Than Expected",
       "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-11-10-2026?mod=rss_markets_main",
       "summary": "Nvidia stock falls for second straight day; Dow edges lower",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-10T10:01:59+00:00"
+    },
+    {
+      "title": "Stock Market News, November 10, 2026: Yields Jump as Inflation Comes in Hotter Than Expected",
+      "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-11-10-2026?mod=rss_markets_main",
+      "summary": "Nvidia stock slides again; CoreWeave stock gains afterhours",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-10T10:01:59+00:00"
