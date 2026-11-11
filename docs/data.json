@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T18:06:05.017312+00:00",
+  "generated_at": "2026-11-11T18:19:05.651223+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1046,9 +1046,37 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7831c01f3230>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x76ec5f613a10>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "公取委、アマゾンの改善計画認定　出品価格の条件緩和へ―各国の先駆けに",
+      "link": "https://www.jiji.com/jc/article?k=2026111100683&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-11T18:19:00.379861+00:00"
+    },
+    {
+      "title": "Oracle’s stock is totally misunderstood and should be a ‘go-to’ AI play, says this analyst",
+      "link": "https://www.marketwatch.com/story/oracles-stock-is-totally-misunderstood-and-should-be-a-go-to-ai-play-says-this-analyst-2a87e80d?mod=mw_rss_topstories",
+      "summary": "A Bernstein analyst thinks two key investor concerns will soon subside.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-11T18:13:00+00:00"
+    },
+    {
+      "title": "Nato should take the ‘offensive’ against Russia, says Sedwill",
+      "link": "https://www.ft.com/content/83dba705-b3cd-426b-92d2-096ac895c702?syn-25a6b1a6=1",
+      "summary": "Former UK national security adviser makes reference to all domains, including land, sea, air, cyber and space",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-11T17:28:09+00:00"
+    },
     {
       "title": "防衛力変革で「侵攻拒否」　装備品の増産体制強化―３文書改定",
       "link": "https://www.jiji.com/jc/article?k=2026111100417&g=pol&m=rss",
@@ -1304,6 +1332,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-11T14:31:18+00:00"
+    },
+    {
+      "title": "Ukraine peace talks end with prisoner swap but no breakthrough",
+      "link": "https://www.ft.com/content/39254048-0d84-47b8-bb97-4b9d9e1f2b92?syn-25a6b1a6=1",
+      "summary": "US-Russia-Ukraine talks took place in Abu Dhabi after a roughly 9-month hiatus owing to war in Iran",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-11T14:30:50+00:00"
     },
     {
       "title": "Crude Futures Pick Up After Heavy Selling",
