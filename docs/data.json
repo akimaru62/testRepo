@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T23:47:16.490794+00:00",
+  "generated_at": "2026-11-11T00:13:25.650710+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1034,9 +1034,61 @@
     {
       "url": "https://www.mof.go.jp/news.rss",
       "error": "HTTPSConnectionPool(host='www.mof.go.jp', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7c19f4bc70e0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "維新アクセル、戸惑う自民　原潜・非核三原則、集約難航も―安保３文書、与党協議スタート",
+      "link": "https://www.jiji.com/jc/article?k=2026111001061&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-11T00:13:20.162909+00:00"
+    },
+    {
+      "title": "遊覧船、定員１．７倍で航行か　中学修学旅行で貸し切り中―海保が捜査、船長ら聴取―長崎・壱岐島沖",
+      "link": "https://www.jiji.com/jc/article?k=2026111001021&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-11T00:13:20.162866+00:00"
+    },
+    {
+      "title": "CoreWeave plans multibillion-dollar chip-backed debt deal",
+      "link": "https://www.ft.com/content/fa5c5bdc-c2b0-4fab-8951-0526a4608773?syn-25a6b1a6=1",
+      "summary": "AI infrastructure group turns to asset-backed debt and customer pre-payments for financing",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-11T00:01:29+00:00"
+    },
+    {
+      "title": "生成AIの利用者は｢大卒･大都市･大企業｣に偏っている―AIを使えるかどうかが､評価と所得を分けていく | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962169?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "職場で生成AIを業務に使っている人は､働く人の24.2％にとどまる。しかもその利用者は､大卒以上､大都市圏､大企業に偏っている。使える人と使えない人の差は､やがて評価や所得の差へとつながっていく。こ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-11T00:00:00+00:00"
+    },
+    {
+      "title": "The $26 Million Cyberheist Rocking a Small New Jersey Town",
+      "link": "https://www.wsj.com/us-news/the-26-million-cyberheist-rocking-a-small-new-jersey-town-bbe2ae6d?mod=rss_markets_main",
+      "summary": "In historic Cranbury, residents are confronting local leaders over missing money that wasn’t disclosed until after the election.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-11T00:00:00+00:00"
+    },
+    {
+      "title": "マネーストック（10月）",
+      "link": "http://www.boj.or.jp/statistics/money/ms/ms2610.pdf",
+      "summary": "",
+      "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-11-10T23:50:00+00:00"
+    },
     {
       "title": "「稼ぐ」マンション管理組合増加",
       "link": "https://news.yahoo.co.jp/pickup/6602118?source=rss",
