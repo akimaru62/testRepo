@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T19:33:22.677396+00:00",
+  "generated_at": "2026-11-11T19:47:48.648072+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1054,12 +1054,52 @@
   ],
   "items": [
     {
+      "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
+      "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+      "summary": "“I have a net worth of $2.3 million and my only debt is a 15-year mortgage.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-11T19:41:00+00:00"
+    },
+    {
+      "title": "Nasdaq Jumps After CoreWeave Re-Energizes AI Trade",
+      "link": "https://www.wsj.com/finance/commodities-futures/nasdaq-futures-rally-as-ai-optimism-returns-af100e62?mod=rss_markets_main",
+      "summary": "Tech stocks are rallying after upbeat earnings from CoreWeave eased investors’ fears about the AI trade.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-11T19:36:00+00:00"
+    },
+    {
+      "title": "相鉄駅長に聞く横浜園芸博｢玄関駅｣の日常風景　やや地味な瀬谷駅､\"会場最寄り\"で存在感高まるか | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964028?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2027年3月に横浜市で開幕する｢国際園芸博覧会｣。その玄関口となる駅の1つが相鉄線の瀬谷駅です。小田急江ノ島線と接続する隣の大和駅などと比べると今は地味な存在ですが､これからどう変化していくのでし…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-11T19:30:00+00:00"
+    },
+    {
       "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
       "link": "https://termsheetplease.com/",
       "summary": "Article URL: https://termsheetplease.com/\nComments URL: https://news.ycombinator.com/item?id=50457230\nPoints: 10\n# Comments: 0",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-11T19:12:16+00:00"
+    },
+    {
+      "title": "Jensen Huang Must Resign",
+      "link": "https://www.economist.com/leaders/2026/11/11/jensen-huang-must-resign",
+      "summary": "Article URL: https://www.economist.com/leaders/2026/11/11/jensen-huang-must-resign\nComments URL: https://news.ycombinator.com/item?id=50457197\nPoints: 30\n# Comments: 19",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-11T19:09:53+00:00"
+    },
+    {
+      "title": "Retirement Savings Are Fueling the AI Bubble",
+      "link": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
+      "summary": "Article URL: https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/\nComments URL: https://news.ycombinator.com/item?id=50457164\nPoints: 11\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-11T19:06:43+00:00"
     },
     {
       "title": "Test your applications against AWS locally with AWS Emulator",
