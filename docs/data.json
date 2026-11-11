@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T08:47:50.030822+00:00",
+  "generated_at": "2026-11-11T09:06:02.907928+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1078,6 +1078,30 @@
       "published": "2026-11-11T13:18:00+00:00"
     },
     {
+      "title": "石破氏らの「退席」で攻勢強める野党　消費減税法案、参院で審議入り",
+      "link": "https://www.asahi.com/articles/ASVCC2PZHVCCUTFK00KM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-11T09:05:58.234932+00:00"
+    },
+    {
+      "title": "クロマグロ国際会議、増枠分めぐり日韓で対立　合意できず協議継続へ",
+      "link": "https://www.asahi.com/articles/ASVCC2S2VVCCULFA00SM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-11T09:05:58.234920+00:00"
+    },
+    {
+      "title": "豚まん発祥「老祥記」本店が改装オープン　神戸・南京町で111年",
+      "link": "https://www.asahi.com/articles/ASVCC2QTKVCCPIHB00JM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-11T09:05:58.234890+00:00"
+    },
+    {
       "title": "KKR, Germany’s RWE Invest $16 Billion in U.K. Wind-Power Projects",
       "link": "https://www.wsj.com/business/deals/rwe-kkr-join-forces-on-16-billion-of-u-k-wind-power-projects-4b489bce?mod=rss_markets_main",
       "summary": "Both parties will develop, construct and operate the Vanguard West and East projects in the British North Sea, which rank among the U.K.’s largest offshore-wind developments.",
@@ -1404,6 +1428,14 @@
       "source": "財務省",
       "category": "公的機関",
       "published": "2026-11-11T05:00:00+00:00"
+    },
+    {
+      "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+      "link": "https://github.com/adrbn/bo2-mac",
+      "summary": "I grew up with Black Ops 2 and wanted to see if I could make it work on my 2020 MacBook Pro. So I used Claude Opus 5.5 to create a tool that converts your copy of the game (from Steam) to a native ARM64 Mac app, with almost 60fps in all areas. The whole game is statically recompilated ahead-of-time (AOT) and does not use any emulator whatsoever, be it Wine, Crossover or Rosetta. The best thing is the performance, although some heat issues are still to fix. You get to play the whole Campaign, local Multiplayer (with bots) and local Zombies (all DLCs maps; you need to have them in your Steam library obviously) at about 60fps. Split-screen was not in the PC version, but I've been working on it lately; it's coming soon! LAN mode is on the roadmap for later too :)\n\nComments URL: https://news.ycombinator.com/item?id=50449891\nPoints: 14\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-11T04:56:47+00:00"
     },
     {
       "title": "Protecting SSH Keys with macOS Secure Enclave",
