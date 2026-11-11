@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T22:05:09.088745+00:00",
+  "generated_at": "2026-11-11T22:17:40.454139+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1054,6 +1054,54 @@
   ],
   "items": [
     {
+      "title": "ガザの医療整備に約３億円供与　日本政府とＷＨＯが署名",
+      "link": "https://www.jiji.com/jc/article?k=2026111200118&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-11T22:17:34.861711+00:00"
+    },
+    {
+      "title": "イタリアと英国、学校に爆破予告相次ぐ　一部避難、「組織的攻撃」か",
+      "link": "https://www.jiji.com/jc/article?k=2026111200115&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-11T22:17:34.861685+00:00"
+    },
+    {
+      "title": "石油元売り、そろって最高益　それでも「脱・中東」投資に慎重な理由",
+      "link": "https://www.asahi.com/articles/ASVCC3FZ8VCCULFA02CM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-11T22:17:34.480080+00:00"
+    },
+    {
+      "title": "U.S. Stocks Gain After CoreWeave Update Eases Some AI Concerns",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-coreweave-update-eases-some-ai-worries-f8bfbaa7?mod=rss_markets_main",
+      "summary": "U.S. stocks rose after CoreWeave’s earnings update quelled worries that AI profits would not come soon enough to cover infrastructure debt burdens.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-11T22:07:00+00:00"
+    },
+    {
+      "title": "Jensen Huang Said to Have Had Relationship with Nvidia Executive",
+      "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html\nComments URL: https://news.ycombinator.com/item?id=50459321\nPoints: 18\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-11T22:03:58+00:00"
+    },
+    {
+      "title": "上司ブチ切れ！20代社員がAIの助言どおり｢言い訳せず秒で報告｣して大災難…それでも｢まずはAIに報連相｣が正解の理由 | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963887?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "AIに何でも相談する若手が増えている中､職場での｢報連相｣はどうあるべきでしょうか。最先端の｢AI上司｣は､役に立つのでしょうか。取材から明らかになった､若手とマネジャーの本音とは？",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-11T22:00:00+00:00"
+    },
+    {
       "title": "Investors Run Back to AI Stocks, Less Than a Week After a Historic Selloff",
       "link": "https://www.wsj.com/finance/stocks/investors-run-back-to-ai-stocks-less-than-a-week-after-a-historic-selloff-854483e8?mod=rss_markets_main",
       "summary": "CoreWeave, an AI data-center operator, delivered strong results late Tuesday. Tech stocks roared back the next morning.",
@@ -1135,6 +1183,14 @@
     },
     {
       "title": "ExxonMobil launched legal challenge to EU carbon capture rules",
+      "link": "https://www.ft.com/content/377d2ae5-112f-411f-bfc1-5e498948cb7b?syn-25a6b1a6=1",
+      "summary": "US oil company invokes investment treaty to challenge Brussels’ green regulations and seek suspension of timing requirements",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-11T21:26:48+00:00"
+    },
+    {
+      "title": "ExxonMobil launches legal challenge to EU carbon capture rules",
       "link": "https://www.ft.com/content/377d2ae5-112f-411f-bfc1-5e498948cb7b?syn-25a6b1a6=1",
       "summary": "US oil company invokes investment treaty to challenge Brussels’ green regulations and seek suspension of timing requirements",
       "source": "Financial Times",
@@ -2052,6 +2108,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-11T14:02:11+00:00"
+    },
+    {
+      "title": "Asset Manager’s Insurers Dogged by Fraud at 777 Partners",
+      "link": "https://www.wsj.com/pro/bankruptcy/asset-managers-insurers-dogged-by-fraud-at-777-partners-9e3245cf?mod=rss_markets_main",
+      "summary": "Insurance holding company A-CAP funded investment firm 777 before its collapse, leaving insurer balance sheets with illiquid bets that have drawn regulators’ attention.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-11T14:00:00+00:00"
     },
     {
       "title": "I asked every TV manufacturer 17 questions about how they spy on you",
