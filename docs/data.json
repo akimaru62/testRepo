@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T06:39:04.265289+00:00",
+  "generated_at": "2026-11-11T06:47:44.226067+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1038,9 +1038,37 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7c19f4bc70e0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://azure.microsoft.com/ja-jp/blog/feed/",
+      "error": "503 Server Error: Service Unavailable for url: https://azure.microsoft.com/ja-jp/blog/feed/"
     }
   ],
   "items": [
+    {
+      "title": "アマゾンが予想外の打診、公取委が頼ったドイツ　攻防2年の舞台裏",
+      "link": "https://www.asahi.com/articles/ASVCC0SKNVCCUTIL024M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-11T06:47:38.829456+00:00"
+    },
+    {
+      "title": "アマゾン通販サイトこう変わる　逆に「低価格競争で質低下」の懸念も",
+      "link": "https://www.asahi.com/articles/ASVCC0Q3DVCCUTIL01VM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-11T06:47:38.829439+00:00"
+    },
+    {
+      "title": "アマゾン、出品者に値下げ強要疑いで通販サイト変更へ　公取委が認定",
+      "link": "https://www.asahi.com/articles/ASVCC0NVKVCCUTIL01TM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-11T06:47:38.829403+00:00"
+    },
     {
       "title": "高級腕時計窃盗容疑で男逮捕　中野ブロードウェイ、試着し逃走―警視庁",
       "link": "https://www.jiji.com/jc/article?k=2026111100549&g=soc&m=rss",
