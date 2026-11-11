@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T23:18:13.397315+00:00",
+  "generated_at": "2026-11-11T23:33:34.196544+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1054,6 +1054,30 @@
   ],
   "items": [
     {
+      "title": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
+      "link": "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories",
+      "summary": "The government may have lost a month of inflation data, but don’t expect your credit card’s annual percentage rate to decline because of it.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-11T23:30:00+00:00"
+    },
+    {
+      "title": "How Zillow runs 100 million daily notifications on AWS Step Functions",
+      "link": "https://aws.amazon.com/blogs/architecture/how-zillow-runs-100-million-daily-notifications-on-aws-step-functions/",
+      "summary": "Zillow sends more than 100 million personalized notifications a day, each as a short-lived AWS Step Functions Express workflow. See how the Comms Experience team replaced more than 10 campaign generators with one configuration-driven orchestration platform and a library of reusable content modules.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-11-11T23:25:00+00:00"
+    },
+    {
+      "title": "エヌビディアがCEO解任準備 報道",
+      "link": "https://news.yahoo.co.jp/pickup/6602248?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-11T23:20:47+00:00"
+    },
+    {
       "title": "「違憲状態」解決策見えず　参院１票の格差、合区に限界",
       "link": "https://www.jiji.com/jc/article?k=2026111101006&g=pol&m=rss",
       "summary": "",
@@ -1092,6 +1116,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-11T23:18:08.783696+00:00"
+    },
+    {
+      "title": "《毛沢東選集》が中国の若者の間でなぜかブームに…｢努力しても報われない｣若者たちから\"共感を集める\"理由 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963892?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "中国の若者の間でひそかなブームになっているという『毛沢東選集』。いったいなぜなのでしょうか。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-11T23:15:00+00:00"
     },
     {
       "title": "｢AIに\"中学生らしく書いて\"と指示｣教員が｢もう見抜けない｣とお手上げ ｢全面禁止論｣に納得も現場が直面する残酷な現実 | ライフ | 東洋経済オンライン",
