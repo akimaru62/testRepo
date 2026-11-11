@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T22:17:40.454139+00:00",
+  "generated_at": "2026-11-11T22:33:15.074027+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1054,6 +1054,22 @@
   ],
   "items": [
     {
+      "title": "懸命に働くは美徳51% 読売調査",
+      "link": "https://news.yahoo.co.jp/pickup/6602243?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-11T22:30:24+00:00"
+    },
+    {
+      "title": "WSJ Dollar Index Rises 0.44% to 97.97",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-soften-after-u-s-cpi-data-boosts-dollar-26f03632?mod=rss_markets_main",
+      "summary": "The WSJ Dollar Index rose 0.4%, up for two consecutive trading days.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-11T22:29:00+00:00"
+    },
+    {
       "title": "ガザの医療整備に約３億円供与　日本政府とＷＨＯが署名",
       "link": "https://www.jiji.com/jc/article?k=2026111200118&g=pol&m=rss",
       "summary": "",
@@ -1076,6 +1092,30 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-11T22:17:34.480080+00:00"
+    },
+    {
+      "title": "Lock Your GitHub Actions",
+      "link": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "summary": "Article URL: https://hugovk.dev/blog/2026/lock-github-actions/\nComments URL: https://news.ycombinator.com/item?id=50459485\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-11T22:16:41+00:00"
+    },
+    {
+      "title": "なぜ青島俊作は｢警察を辞めなかった｣のか…28歳Z世代が『踊る大捜査線』に見た､転職が当たり前の令和に欠けている視点 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963471?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ドラマ『踊る大捜査線』は､警察組織という\"会社\"の縮図を舞台に､個人が信念を貫きながら仲間と共に変化を起こしていく姿を描いています。昭和･平成の名作をZ世代の視点で再考すると､今あらためて組織と私た…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-11T22:15:00+00:00"
+    },
+    {
+      "title": "なぜ『踊る大捜査線』の青島と違い､『サ道』の男たちは職場の外に仲間を求めるのか…Z世代が読み解く令和の\"居場所\"論 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963470?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "配信サービスの普及で昭和･平成の名作ドラマが再評価される今､Z世代の批評家･ドラジさんが｢サ道｣に着目。サウナを舞台に､人と人との緩やかなつながりや､孤独を和らげるサードプレイスの力を検証します。現…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-11T22:15:00+00:00"
     },
     {
       "title": "U.S. Stocks Gain After CoreWeave Update Eases Some AI Concerns",
