@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T18:47:32.964526+00:00",
+  "generated_at": "2026-11-11T19:04:40.780549+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1054,6 +1054,38 @@
   ],
   "items": [
     {
+      "title": "Test your applications against AWS locally with AWS Emulator",
+      "link": "https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/",
+      "summary": "AWS Emulator is a free, open-source local emulator in Rust that lets developers test applications against nearly every AWS service on their own machine using the same CLI and SDK commands, with fidelity measured against real AWS behavior.",
+      "source": "AWS ブログ (AWS)",
+      "category": "テクノロジー",
+      "published": "2026-11-11T19:00:44+00:00"
+    },
+    {
+      "title": "Comex Gold Settles 0.71% Lower at $3992.00",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-in-likely-technical-rebound-f73bdc8f?mod=rss_markets_main",
+      "summary": "Comex gold for November delivery fell 0.7% to $3992.00 a troy ounce, down for two consecutive sessions.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-11T18:56:00+00:00"
+    },
+    {
+      "title": "Nvidia is spending more than ever on Washington lobbying. It may not stop Congress from limiting China chip sales now.",
+      "link": "https://www.marketwatch.com/story/nvidia-is-spending-more-than-ever-on-washington-lobbying-it-still-may-not-be-able-to-stop-congress-from-limiting-its-china-chip-sales-now-d4c34c66?mod=mw_rss_topstories",
+      "summary": "‘There’s no question that Congress is going to push for a complete ban on the sale of advanced semiconductors into China,’ says a former U.S. ambassador to Beijing",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-11T18:48:00+00:00"
+    },
+    {
+      "title": "The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia",
+      "link": "https://www.wsj.com/business/nvidia-short-seller-culper-jensen-huang-0e0cec38?mod=rss_markets_main",
+      "summary": "For six months, no one really noticed Culper Research’s report. All that changed this week.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-11T18:47:00+00:00"
+    },
+    {
       "title": "Nvidia is spending more than ever on Washington lobbying. It still may not be able to stop Congress from limiting its China chip sales now.",
       "link": "https://www.marketwatch.com/story/nvidia-is-spending-more-than-ever-on-washington-lobbying-it-still-may-not-be-able-to-stop-congress-from-limiting-its-china-chip-sales-now-d4c34c66?mod=mw_rss_topstories",
       "summary": "‘There’s no question that Congress is going to push for a complete ban on the sale of advanced semiconductors into China,’ says a former U.S. ambassador to Beijing",
@@ -1068,6 +1100,14 @@
       "source": "CNBC",
       "category": "海外金融",
       "published": "2026-11-11T18:28:59+00:00"
+    },
+    {
+      "title": "AWS Emulator and the engineer's job when agents write the code",
+      "link": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
+      "summary": "Article URL: https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html\nComments URL: https://news.ycombinator.com/item?id=50456740\nPoints: 9\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-11T18:28:31+00:00"
     },
     {
       "title": "AWS Finally Built Its Own AWS Emulator",
@@ -1193,6 +1233,14 @@
       "title": "Why aren't we shipping faster now?",
       "link": "https://cabird.com/talks/shipping-faster/",
       "summary": "Article URL: https://cabird.com/talks/shipping-faster/\nComments URL: https://news.ycombinator.com/item?id=50455332\nPoints: 17\n# Comments: 10",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-11T16:33:28+00:00"
+    },
+    {
+      "title": "AI, activity, and outcomes in software engineering",
+      "link": "https://cabird.com/talks/shipping-faster/",
+      "summary": "https://www.youtube.com/watch?v=0wumMeZsNsI\n\nComments URL: https://news.ycombinator.com/item?id=50455332\nPoints: 54\n# Comments: 74",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-11T16:33:28+00:00"
