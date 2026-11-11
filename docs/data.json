@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T12:08:17.046957+00:00",
+  "generated_at": "2026-11-11T12:23:43.278759+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1082,6 +1082,46 @@
       "published": "2026-11-11T13:18:00+00:00"
     },
     {
+      "title": "侍ジャパン井口監督「優勝する」　アジアプロ野球、１２日開幕",
+      "link": "https://www.jiji.com/jc/article?k=2026111101049&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-11T12:23:37.776046+00:00"
+    },
+    {
+      "title": "天皇ご一家、皇宮警察武道大会に　創立１４０周年を記念―皇居",
+      "link": "https://www.jiji.com/jc/article?k=2026111100891&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-11T12:23:37.776015+00:00"
+    },
+    {
+      "title": "EU、ダークパターン禁止やインフルエンサーの「広告｣表示義務化へ",
+      "link": "https://www.asahi.com/articles/ASVCC3SY7VCCULZU00CM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-11T12:23:37.550593+00:00"
+    },
+    {
+      "title": "Nvidia’s valuation tumbles to a 15-year low. A bargain or a falling knife?",
+      "link": "https://www.marketwatch.com/story/nvidias-valuation-tumbles-to-a-15-year-low-a-bargain-or-a-falling-knife-2ebf6085?mod=mw_rss_topstories",
+      "summary": "The AI giant now trades at a discount to the S&amp;P 500, by one measure. Plus, CoreWeave’s answer to its debt problem and a Veterans Day breather for bonds.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-11T12:16:00+00:00"
+    },
+    {
+      "title": "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
+      "link": "https://news.ycombinator.com/item?id=50452404",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=50452404\nPoints: 0\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-11T12:00:35+00:00"
+    },
+    {
       "title": "Market angst is driving investors into low-volatility stocks as AI trade stumbles",
       "link": "https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories",
       "summary": "Anxiety in the U.S. stock market has surged amid a sharp selloff in artificial intelligence names and stubbornly high bond yields.",
@@ -1200,6 +1240,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-11T10:54:00+00:00"
+    },
+    {
+      "title": "Using voltage glitching to unleash the A100 in my mining card",
+      "link": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+      "summary": "Article URL: https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/\nComments URL: https://news.ycombinator.com/item?id=50451903\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-11T10:48:40+00:00"
     },
     {
       "title": "US tech stocks set to extend rebound after CoreWeave results",
@@ -1469,6 +1517,14 @@
       "title": "Stock Market Today: Tech Stocks Poised to Rise After CoreWeave Earnings",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-11-2026?mod=rss_markets_main",
       "summary": "Cloud provider has been at center of AI jitters but its earnings met expectations",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-11T08:21:53+00:00"
+    },
+    {
+      "title": "Stock Market Today: Tech Stocks Poised to Jump After CoreWeave Earnings",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-11-2026?mod=rss_markets_main",
+      "summary": "Cloud provider has been at center of AI jitters; its latest update reassured investors",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-11T08:21:53+00:00"
