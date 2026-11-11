@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T09:47:32.250846+00:00",
+  "generated_at": "2026-11-11T10:05:56.600201+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1042,6 +1042,10 @@
     {
       "url": "https://azure.microsoft.com/ja-jp/blog/feed/",
       "error": "503 Server Error: Service Unavailable for url: https://azure.microsoft.com/ja-jp/blog/feed/"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7831c01f3230>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
@@ -1076,6 +1080,54 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-11T13:18:00+00:00"
+    },
+    {
+      "title": "ドコモ、5Gサービスの通信障害ほぼ復旧　詳しい原因は調査中",
+      "link": "https://www.asahi.com/articles/ASVCC108NVCCULFA00TM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-11T10:05:51.774023+00:00"
+    },
+    {
+      "title": "Tiger Woods has another private, 18-hole golf destination in the works — this one for Long Island’s Gold Coast",
+      "link": "https://www.marketwatch.com/story/tiger-woods-has-another-private-18-hole-golf-destination-in-the-works-this-one-for-long-islands-gold-coast-7e8e669c?mod=mw_rss_topstories",
+      "summary": "Golf legend Tiger Woods is heading up a new private golf destination on the North Shore of Long Island in Brookville, N.Y.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-11T10:03:00+00:00"
+    },
+    {
+      "title": "Gold’s Outlook Remains Compelling in Long Term k",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-in-likely-technical-rebound-f73bdc8f?mod=rss_markets_main",
+      "summary": "Gold was higher. Julius Baer said the metal remained compelling in the long term, and that inflationary pressure in the U.S. should ease next year, allowing the Fed to be less aggressive than currently feared.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-11T10:00:00+00:00"
+    },
+    {
+      "title": "Among full-size SUVs, the 2027 Ford Expedition is worth a look for its spacious seating and mighty engine",
+      "link": "https://www.marketwatch.com/story/among-full-size-suvs-the-2027-ford-expedition-is-worth-a-look-for-its-spacious-seating-and-mighty-engine-2c169852?mod=mw_rss_topstories",
+      "summary": "The Ford Expedition has modern tech, a big third row, clever features, and a muscular engine, adding up to make it our favorite full-size SUV.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-11T09:59:00+00:00"
+    },
+    {
+      "title": "子の不登校で離職 防ぐ企業の制度",
+      "link": "https://news.yahoo.co.jp/pickup/6602206?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-11T09:55:26+00:00"
+    },
+    {
+      "title": "Dollar Rises to Four-Week High, Further Gains Subject to Stronger Pricing of 50Bp Fed Hike",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-soften-after-u-s-cpi-data-boosts-dollar-26f03632?mod=rss_markets_main",
+      "summary": "The dollar rose to a four-week high against basket of currencies on increased bets for a 25bp Fed interest-rate hike. DHF Capital S.A. said further dollar gains might require stronger bets on a larger, half-point move.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-11T09:55:00+00:00"
     },
     {
       "title": "石破氏らの退席、自民の乱れ突く野党　消費減税法案、参院で審議入り",
