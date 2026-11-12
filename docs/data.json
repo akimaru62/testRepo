@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T21:47:43.592780+00:00",
+  "generated_at": "2026-11-12T22:05:11.739871+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1062,12 +1062,76 @@
   ],
   "items": [
     {
+      "title": "Oil Futures Rebound as Trump Shrugs Off Need for Iran Deal",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-resumes-decline-as-risk-premium-fades-bcdc7fc5?mod=rss_markets_main",
+      "summary": "Oil futures rose after President Trump said the U.S. doesn’t need to reach a deal with Iran, adding risk premium back into the market despite the recent increase in supply from the Middle East.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-12T22:02:00+00:00"
+    },
+    {
+      "title": "｢監督の長所と短所が鮮明に表れている｣《ゴジラ-0.0》が公開6日で興収25億円超え大ヒットなのに酷評も続出するワケ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964451?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "映画｢ゴジラ-0.0｣が国内外で記録的な大ヒットを果たしています。映像技術の革新が高く評価される一方､人間ドラマの演出で評価が割れているわけとは…。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-12T22:00:00+00:00"
+    },
+    {
+      "title": "｢僕がドレスで…｣新郎新婦からの珍しい注文にデザイナーはどう応える？ 漫画｢ぬいの式日｣（第2巻 第8話）　 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962557?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "天才ウエディングドレスデザイナー、愛と哀しみの仕事人生（ワーク・アズ・ライフ）！うろんな雑居ビルが立ち並ぶ大阪・ミナミに、志々田 縫のアトリエはある。誰も見たことのないドレスを生み出す才能を持ちなが…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-12T22:00:00+00:00"
+    },
+    {
+      "title": "エヌビディアCEO辞任 動揺広がる",
+      "link": "https://news.yahoo.co.jp/pickup/6602361?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-12T21:59:48+00:00"
+    },
+    {
+      "title": "Am I overpaying for health insurance? How to answer the key question this open-enrollment season.",
+      "link": "https://www.marketwatch.com/story/am-i-overpaying-for-health-insurance-how-to-answer-the-key-question-this-open-enrollment-season-2d00ed55?mod=mw_rss_topstories",
+      "summary": "More people want to understand the fine print on plans this year, financial planners say.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-12T21:55:00+00:00"
+    },
+    {
+      "title": "Modular regression testing framework built on AWS for large-scale systems",
+      "link": "https://aws.amazon.com/blogs/architecture/modular-regression-testing-framework-built-on-aws-for-large-scale-systems/",
+      "summary": "Regression testing must catch behavior changes before they reach production, yet synthetic tests miss real-world edge cases. This post walks through a modular framework, built on AWS, that replays a sample of production traffic against new code and automatically gates deployments on the fraction of results that match production.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-11-12T21:51:43+00:00"
+    },
+    {
+      "title": "The 10 best stocks for a year-end momentum trade",
+      "link": "https://www.marketwatch.com/story/the-10-best-stocks-for-a-year-end-momentum-trade-8d4cf8f7?mod=mw_rss_topstories",
+      "summary": "Why December is the best month of the year for momentum strategies",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-12T21:50:00+00:00"
+    },
+    {
       "title": "ロングセラーの油性ペン　「何にでも書ける」を災害時にも生かしたい",
       "link": "https://www.asahi.com/articles/ASVCD22J9VCDPLFA002M.html?ref=rss",
       "summary": "",
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-12T21:47:36.168527+00:00"
+    },
+    {
+      "title": "コンビニおにぎりが《300円の大台》を気づけば突破…35歳貧乏男性がローソンとセブンの｢高級おにぎり｣を再現した結末 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964331?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "物価高騰が続く中､コンビニのおにぎりにも\"高級化\"の波が。かつて庶民派だった昆布や鮭も200円超え､イクラや牛すき焼きは300円超えも珍しくありません。35歳貧乏ライターの筆者が､自作で対抗してみま…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-12T21:45:00+00:00"
     },
     {
       "title": "Jensen Huang’s Exit Will Test AI’s Stocks, and Great-Man Theory",
@@ -1132,6 +1196,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-12T21:15:00+00:00"
+    },
+    {
+      "title": "Foundation Models Framework (macOS)",
+      "link": "https://developer.apple.com/foundation-models-framework/",
+      "summary": "Article URL: https://developer.apple.com/foundation-models-framework/\nComments URL: https://news.ycombinator.com/item?id=50474361\nPoints: 29\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T21:13:26+00:00"
     },
     {
       "title": "Nvidia Tumbles as its CEO Jensen Huang Departs Amid Multiplying Scandals",
@@ -1462,6 +1534,14 @@
       "published": "2026-11-12T19:12:00+00:00"
     },
     {
+      "title": "Vibes Don't Maintain",
+      "link": "https://roll.bybacon.com/2026/10/14/vibes-dont-maintain.html",
+      "summary": "Article URL: https://roll.bybacon.com/2026/10/14/vibes-dont-maintain.html\nComments URL: https://news.ycombinator.com/item?id=50472506\nPoints: 16\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T19:06:29+00:00"
+    },
+    {
       "title": "Distributed Ray Tracer",
       "link": "https://ray.hatchet.run",
       "summary": "Article URL: https://ray.hatchet.run\nComments URL: https://news.ycombinator.com/item?id=50472505\nPoints: 10\n# Comments: 0",
@@ -1569,6 +1649,14 @@
       "title": "Outlook is down, and so is Microsoft's status page",
       "link": "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/",
       "summary": "Article URL: https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/\nComments URL: https://news.ycombinator.com/item?id=50471731\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T18:20:48+00:00"
+    },
+    {
+      "title": "Service degradation on Microsoft 365",
+      "link": "https://status.cloud.microsoft/",
+      "summary": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-affe...https://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft...https://downdetector.com/status/microsoft-365/\n\nComments URL: https://news.ycombinator.com/item?id=50471731\nPoints: 300\n# Comments: 313",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-12T18:20:48+00:00"
