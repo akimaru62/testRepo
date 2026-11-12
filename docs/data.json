@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T21:04:48.233332+00:00",
+  "generated_at": "2026-11-12T21:17:27.047885+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1062,6 +1062,54 @@
   ],
   "items": [
     {
+      "title": "ロイター通信によると、米政権高官はラトニック商務長官の更迭を議論している",
+      "link": "https://www.jiji.com/jc/article?k=2026111300163&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-12T21:17:21.503558+00:00"
+    },
+    {
+      "title": "首相動静（１１月１２日）",
+      "link": "https://www.jiji.com/jc/article?k=2026111200165&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-12T21:17:21.503535+00:00"
+    },
+    {
+      "title": "米商務長官の更迭議論　政権高官、スパイ疑惑巡り非難―報道",
+      "link": "https://www.jiji.com/jc/article?k=2026111300166&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-12T21:17:21.503494+00:00"
+    },
+    {
+      "title": "Nvidia Tumbles as its CEO Jensen Huang Departs Amid Multiplying Scandals",
+      "link": "https://www.wsj.com/finance/stocks/nvidia-tumbles-as-its-ceo-jensen-huang-departs-amid-multiplying-scandals-d380df1f?mod=rss_markets_main",
+      "summary": "Plus, competitors AMD and Broadcom advance and yields rise.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-12T21:11:00+00:00"
+    },
+    {
+      "title": "The S&P 500 is shrugging off Nvidia’s selloff this week. Here’s what’s keeping the rest of the market afloat.",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
+      "summary": "Investors have been forced to look up from the poster child of the artificial-intelligence trade and remember the other stocks on the board.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-12T21:08:00+00:00"
+    },
+    {
+      "title": "｢ナッツでも､フルーツでもない｣腸の名医がヨーグルトに入れる\"まさかの食材\"→腸がよみがえる食べ方のルール | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964103?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢腸は第二の脳｣とも呼ばれ､全身の健康やメンタル､美容にまで影響をもたらします。しかし多くの人が腸の不調を軽視しがちです。順天堂大学の小林弘幸教授は､腸を根本から育て直す｢腸育｣が人生を好転させる鍵…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-12T21:05:00+00:00"
+    },
+    {
       "title": "「アップル会長しかいない」　エヌビディアＣＥＯ後任―トランプ米大統領",
       "link": "https://www.jiji.com/jc/article?k=2026111300039&g=int&m=rss",
       "summary": "",
@@ -1194,6 +1242,22 @@
       "link": "https://toyokeizai.net/articles/-/964221?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "国際舞台で存在感を放つ韓国のK-POPや日本のアニメ。一方で台湾が世界に誇るのはTSMCなどの最先端技術です。しかし､｢台湾を好きになる理由｣は果たしてどれほど浸透しているのでしょうか。今､文化の力…",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-12T20:30:00+00:00"
+    },
+    {
+      "title": "マイナンバー情報、約150円で売買も――サイバー攻撃時「すぐに事業を止める」覚悟はあるか　問われる経営の責任",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/13/news020.html",
+      "summary": "企業へのサイバー攻撃や情報漏えいが相次ぐ中、AIによって攻撃の効率化も進んでいる。技術的な防御だけでなく、経営層の理解や意思決定の仕組み、被害発生後の事業復旧まで見据えた体制づくりが必要だ。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-12T20:30:00+00:00"
+    },
+    {
+      "title": "期待の中堅社員が突然消える！？　「サイレント離職」をどう防ぐか、制度より大切なのは……",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/13/news011.html",
+      "summary": "期待の30代中堅が前触れなく辞める「サイレント離職」が広がっている。調査では社員の約7割が不満を「言っても無駄」と諦め、相談窓口すら機能していない実態が浮き彫りに。制度や窓口に頼るだけでは防げない離職を止める、現場上司の「半径3メートル」の関わりとは。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-11-12T20:30:00+00:00"
     },
@@ -2807,6 +2871,14 @@
     },
     {
       "title": "Nvidia Live Updates: Chip Giant’s Stock Tumbles After Jensen Huang Exit",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026?mod=rss_markets_main",
+      "summary": "Investors weigh how much Nvidia (and the AI trade) is worth without Huang",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-12T07:42:54+00:00"
+    },
+    {
+      "title": "Nvidia Live Updates: Chip Giant’s Stock Falls 4% After Jensen Huang Exit",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026?mod=rss_markets_main",
       "summary": "Investors weigh how much Nvidia (and the AI trade) is worth without Huang",
       "source": "WSJ マーケット",
