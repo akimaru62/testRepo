@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T05:17:58.906339+00:00",
+  "generated_at": "2026-11-12T05:33:38.520120+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1082,6 +1082,30 @@
       "published": "2026-11-12T05:05:43.881349+00:00"
     },
     {
+      "title": "EU and UK set to delay 10% tariff on electric cars",
+      "link": "https://www.ft.com/content/b6c31ee9-0837-4fb0-83d9-a0e70100d0a3?syn-25a6b1a6=1",
+      "summary": "European carmakers had warned the levy would make them more vulnerable to Chinese competition",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-12T05:00:21+00:00"
+    },
+    {
+      "title": "France signals support for Spain’s ECB presidential candidate",
+      "link": "https://www.ft.com/content/b0d03a62-a75d-41f9-bac3-1518cefe400a?syn-25a6b1a6=1",
+      "summary": "Pablo Hernández de Cos’s bid gains momentum as Paris and Berlin eye package deal on central bank leadership",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-12T05:00:21+00:00"
+    },
+    {
+      "title": "Growth investing or gambling?",
+      "link": "https://www.ft.com/content/92eb0eca-aee8-45af-b336-7a9a20da0a64?syn-25a6b1a6=1",
+      "summary": "The current extreme risk-taking in equity markets might present a once-in-a-career investment opportunity",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-12T05:00:12+00:00"
+    },
+    {
       "title": "タマホーム不正請求巡り 全店調査",
       "link": "https://news.yahoo.co.jp/pickup/6602294?source=rss",
       "summary": "",
@@ -1320,6 +1344,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-12T02:55:28+00:00"
+    },
+    {
+      "title": "Show HN: Ramasite, a Self-Contained Laravel/Filament/SQLite CMS",
+      "link": "https://github.com/DaleFranks/ramasite",
+      "summary": "I'm new here, and little nervous about posting, but here goes.I'm not a newbie. I started programming in BASIC when my dad bought home a TRS-80 Model I in 1980, when I was 16. Other than a 9-year stint as active duty military, I've spent 46 years either personally or professionally working in tech. I've programmed in RPG using punch cards for an IBM /System360, and COBOL on a DEC pdp 11/34. I've worked professionally with VB, C#, SQL Server, ColdFusion, PHP, and more. I've seen a lot of technologies come and go. So this ain't the first time I've jogged around this track.Here's the problem I wanted to solve: I hate WordPress. I mean, as a concept, it's fine, but I used to have a fairly popular motorcycle blog on WP that got trashed by hackers. I've also run into that problem with customers. When hackers find a wordpress site, they just bang on it like a drum. It's a pain. It's also a pain just to manage it, with a wild-west plugin system where plugins constantly fall in and out of compatibility. I'm also not a huge fan of PHP, but since it comes stock with pretty much every shared hosting service, where a lot of my web work is done, it's kind of the default for doing web stuff.Back in about 2006 or so, I built my own blogging software, which I called .Blog, as an ASP.NET deal in C#. It took me about 6 months to build, start to finish. I didn't have time to keep up with it, which is why I defaulted back to WP sometime around 2014. I migrated to Grav when I ran across it (I guess around 2020 or so), and I liked that. But Grav ran into some issues, and development on it really slowed.In the past year or so, the company I work for has been delving into using Claude Code, and I got an idea. What if I could just use Claude Code to build a CMS that has everything I want, and nothing I don't?This project is the result of that idea. I designed the specifications for what I wanted it to do, and let Claude Code handle the actual code writing. I started with a flat-file, markdown-based flat-file CMS, and iterated on that. Fiddling around with markdown files and folders started to get tedious, so I moved towards SQLite as the back-end, to create a system as self-contained and easy to use as possible.  This project is, I think, the final result of that idea. This project, from start to finish, took about 2 weeks to build using Laravel/Filament/PHP with Claude Code, compared to the 6 months it took to build .Blog by hand, 20 years ago.Cripes, I'm old.Personally, I'm pretty pleased with how this project turned out. I'm running two public websites on it. I'd be interested to hear what others think.\n\nComments URL: https://news.ycombinator.com/item?id=50462469\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T02:53:22+00:00"
     },
     {
       "title": "Lean Grimoire",
