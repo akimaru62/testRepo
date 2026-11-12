@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T17:05:06.694237+00:00",
+  "generated_at": "2026-11-12T17:17:54.521616+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1058,12 +1058,44 @@
   ],
   "items": [
     {
+      "title": "米大統領は、フアン氏が「素晴らしい仕事をしてきた」と評し、後任はアップルのクック会長しかいないと主張した",
+      "link": "https://www.jiji.com/jc/article?k=2026111300038&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-12T17:17:49.518196+00:00"
+    },
+    {
+      "title": "フアン氏後任にアップル会長推す　トランプ米大統領",
+      "link": "https://www.jiji.com/jc/article?k=2026111300039&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-12T17:17:49.518163+00:00"
+    },
+    {
+      "title": "Gold Futures Extend Losses as Dollar, Yields Rise",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-dims-amid-rising-fed-rate-hike-expectations-22fab6f0?mod=rss_markets_main",
+      "summary": "Gold futures retreated further from the $4,000 level as U.S. yields and the dollar rose.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-12T17:10:00+00:00"
+    },
+    {
       "title": "The bond market now has an even bigger fear than the AI fallout",
       "link": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
       "summary": "The sharp selloff in tech stocks made Treasurys look more attractive in recent weeks, but another big driver of yields is emerging.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-12T17:00:00+00:00"
+    },
+    {
+      "title": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
+      "link": "https://www.easel.sh/blog/lambda-web-functions-idle-memory",
+      "summary": "Article URL: https://www.easel.sh/blog/lambda-web-functions-idle-memory\nComments URL: https://news.ycombinator.com/item?id=50470445\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T16:59:26+00:00"
     },
     {
       "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
