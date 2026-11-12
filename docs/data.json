@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T19:17:53.053298+00:00",
+  "generated_at": "2026-11-12T19:33:26.093969+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1062,6 +1062,14 @@
   ],
   "items": [
     {
+      "title": "Inside an enterprise AI agent: A governed, observable loop architecture",
+      "link": "https://aws.amazon.com/blogs/architecture/inside-an-enterprise-ai-agent-a-governed-observable-loop-architecture/",
+      "summary": "This post lays out a five-layer reference architecture for governed, observable enterprise AI agents on AWS: an API gateway, a five-phase agent runtime, a knowledge and state tier, platform services, and a cross-cutting trust and control framework. Each layer maps to managed AWS services, with the design patterns worth copying and the mistakes to avoid.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-11-12T19:31:28+00:00"
+    },
+    {
       "title": "山口茜、奥原希望ら８強　バドミントン",
       "link": "https://www.jiji.com/jc/article?k=2026111200912&g=spo&m=rss",
       "summary": "",
@@ -1084,6 +1092,22 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-12T19:12:00+00:00"
+    },
+    {
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "link": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/\nComments URL: https://news.ycombinator.com/item?id=50472490\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T19:05:33+00:00"
+    },
+    {
+      "title": "Apify Security Incident",
+      "link": "https://status.apify.com/incidents/sxd1dj5j6749",
+      "summary": "Article URL: https://status.apify.com/incidents/sxd1dj5j6749\nComments URL: https://news.ycombinator.com/item?id=50472323\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T18:56:11+00:00"
     },
     {
       "title": "Gemini 4 Hydrogen and Orchestrator",
