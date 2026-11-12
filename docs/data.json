@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T17:47:43.292702+00:00",
+  "generated_at": "2026-11-12T18:06:30.583161+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1054,9 +1054,29 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x78ec8c3bbe00>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+      "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+      "summary": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-11-12T17:59:26+00:00"
+    },
+    {
+      "title": "U.S. Crude-Oil Stockpiles Post Unexpected Weekly Build",
+      "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-post-unexpected-weekly-build-9058e7ae?mod=rss_markets_main",
+      "summary": "Commercial crude-oil inventories rose by 4.7 million barrels to 414.4 million barrels, the EIA said. Inventories were expected to have fallen by 700,000 barrels, according to a Wall Street Journal survey of analysts.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-12T17:58:00+00:00"
+    },
     {
       "title": "Nvidia Shareholders Won’t Miss Jensen Huang for Long",
       "link": "https://www.wsj.com/finance/stocks/nvidia-shareholders-wont-miss-jensen-huang-for-long-13429e31?mod=rss_markets_main",
