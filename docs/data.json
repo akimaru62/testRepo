@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T16:05:58.715707+00:00",
+  "generated_at": "2026-11-12T16:19:46.200724+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1058,12 +1058,44 @@
   ],
   "items": [
     {
+      "title": "米エヌビディアは、フアンＣＥＯが辞任したと発表した",
+      "link": "https://www.jiji.com/jc/article?k=2026111201133&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-12T16:19:42.309369+00:00"
+    },
+    {
+      "title": "暫定ＣＥＯにクレス氏　米エヌビディア",
+      "link": "https://www.jiji.com/jc/article?k=2026111201166&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-12T16:19:42.309335+00:00"
+    },
+    {
+      "title": "カプセルトイで「笠間焼」　地元応援のオンリーワン企業めざし進化中",
+      "link": "https://www.asahi.com/articles/ASVCC2J1SVCCUJHB00JM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-12T16:19:42.128551+00:00"
+    },
+    {
       "title": "Medicare at age 50? What ‘Medicare for more’ could mean for American workers.",
       "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
       "summary": "It’s not “Medicare for All,” but a new bill would lower the Medicare age to 50, expanding coverage for 60 million adults",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-12T16:00:00+00:00"
+    },
+    {
+      "title": "Jensen jeopardy will roil the AI industry",
+      "link": "https://www.ft.com/content/42bfcbcb-7121-492b-8e1d-0aceacd093e2?syn-25a6b1a6=1",
+      "summary": "The Nvidia boss’s departure could deepen the technological rift between Washington and Beijing",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-12T15:56:31+00:00"
     },
     {
       "title": "Home sales plummet to lowest level since ‘Great Recession’ as prices hit all-time high",
@@ -1098,12 +1130,36 @@
       "published": "2026-11-12T15:30:49+00:00"
     },
     {
+      "title": "Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games",
+      "link": "https://fable52.games",
+      "summary": "Article URL: https://fable52.games\nComments URL: https://news.ycombinator.com/item?id=50469007\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T15:30:01+00:00"
+    },
+    {
       "title": "‘He calls my plans a fantasy’: My husband says we can’t afford our $200,000-a-year dream retirement. I think he’s cheap.",
       "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
       "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-12T15:26:00+00:00"
+    },
+    {
+      "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+      "link": "https://github.com/chocoford/ExcalidrawZ",
+      "summary": "Article URL: https://github.com/chocoford/ExcalidrawZ\nComments URL: https://news.ycombinator.com/item?id=50468944\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T15:25:52+00:00"
+    },
+    {
+      "title": "I'm making LLMs work on small and old devices",
+      "link": "https://github.com/hyperionaidev/smolmaxxing/",
+      "summary": "Article URL: https://github.com/hyperionaidev/smolmaxxing/\nComments URL: https://news.ycombinator.com/item?id=50468888\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T15:23:10+00:00"
     },
     {
       "title": "気付いた「スケート愛」　マリニン、最悪の五輪経て―フィギュア男子",
@@ -1146,6 +1202,22 @@
       "published": "2026-11-12T15:18:35.529166+00:00"
     },
     {
+      "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
+      "link": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
+      "summary": "Article URL: https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/\nComments URL: https://news.ycombinator.com/item?id=50468720\nPoints: 5\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T15:14:52+00:00"
+    },
+    {
+      "title": "Roadside investigations of psyllids, ants and eucs",
+      "link": "https://bencology.bearblog.dev/eucalypt-psyllids-meat-ants/",
+      "summary": "Article URL: https://bencology.bearblog.dev/eucalypt-psyllids-meat-ants/\nComments URL: https://news.ycombinator.com/item?id=50468687\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T15:13:06+00:00"
+    },
+    {
       "title": "These home buyers bought their first house with help from their employer. ‘Why not jump at the chance?’",
       "link": "https://www.marketwatch.com/story/need-money-for-a-down-payment-more-employers-are-offering-to-help-59c57da3?mod=mw_rss_topstories",
       "summary": "The rise in home-buying help from employers “speaks volumes about how difficult buying a home has become, even for people with steady jobs.”",
@@ -1184,6 +1256,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-12T14:32:51+00:00"
+    },
+    {
+      "title": "Running web sites makes me not want to",
+      "link": "https://lowkey.party/running-web-sites-makes-me-not-want-to",
+      "summary": "Article URL: https://lowkey.party/running-web-sites-makes-me-not-want-to\nComments URL: https://news.ycombinator.com/item?id=50467869\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T14:30:38+00:00"
     },
     {
       "title": "PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC 2 Released",
@@ -1480,6 +1560,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-12T12:55:00+00:00"
+    },
+    {
+      "title": "Migration to rich countries falls under strict visa rules",
+      "link": "https://www.ft.com/content/9ef2ed1e-5a67-4b28-8939-0c8e07ac6444?syn-25a6b1a6=1",
+      "summary": "Inflows drop for second consecutive year as governments bring in tougher rules for workers, students and refugees, OECD finds",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-12T12:30:50+00:00"
     },
     {
       "title": "Nvidia’s Jensen Huang crisis tests how much of the AI industry depends on one man",
