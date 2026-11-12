@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T14:47:40.885500+00:00",
+  "generated_at": "2026-11-12T15:05:36.449112+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1058,6 +1058,14 @@
   ],
   "items": [
     {
+      "title": "Home sales plummet to lowest level since the Great Recession as buyers flee the market",
+      "link": "https://www.marketwatch.com/story/home-sales-plummet-to-lowest-level-since-the-great-recession-as-buyers-flee-the-market-624e6270?mod=mw_rss_topstories",
+      "summary": "Home sales fell in October to a 16-year low as buyers bolted from the housing market in the face of 7% mortgage rates.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-12T15:01:00+00:00"
+    },
+    {
       "title": "スパイ疑惑、ＣＥＯ辞任に発展　「ＡＩ一強」に暗雲―米エヌビディア",
       "link": "https://www.jiji.com/jc/article?k=2026111200865&g=int&m=rss",
       "summary": "",
@@ -1136,6 +1144,22 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-12T14:12:37+00:00"
+    },
+    {
+      "title": "Trump threatens to double tariffs on Mexico over illegal immigration",
+      "link": "https://www.ft.com/content/b4bb6e99-97c8-4392-a227-b7b74853ba26?syn-25a6b1a6=1",
+      "summary": "US president says levies will increase if trade partner does nothing to stop illegal crossings",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-12T14:12:20+00:00"
+    },
+    {
+      "title": "Libreagi – Save OSS Models",
+      "link": "https://libreagi.com/",
+      "summary": "Article URL: https://libreagi.com/\nComments URL: https://news.ycombinator.com/item?id=50467439\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T14:11:58+00:00"
     },
     {
       "title": "Jensen Huang built Nvidia into a behemoth. His resignation puts the entire AI boom in jeopardy.",
@@ -1938,6 +1962,14 @@
       "published": "2026-11-12T07:42:54+00:00"
     },
     {
+      "title": "Nvidia Live Updates: Chip Giant’s Stock Tumbles After Jensen Huang Exit",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026?mod=rss_markets_main",
+      "summary": "Investors weigh how much Nvidia (and the AI trade) is worth without Huang",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-12T07:42:54+00:00"
+    },
+    {
       "title": "Dollar Stays Near 19-Month High on Rate-Rise Prospects",
       "link": "https://www.wsj.com/finance/currencies/yen-hitting-160-to-dollar-again-wont-be-surprising-f82f47e6?mod=rss_markets_main",
       "summary": "The dollar remained elevated after reaching a 19-month high against a basket of currencies overnight.",
@@ -2144,6 +2176,14 @@
       "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-11-12T06:10:00+00:00"
+    },
+    {
+      "title": "Nvidia shares tumble on Huang exit",
+      "link": "https://www.ft.com/content/b4a0f3d9-f075-47ea-9a85-77cdade9a06f?syn-25a6b1a6=1",
+      "summary": "",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-12T05:57:00+00:00"
     },
     {
       "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
