@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T16:33:07.629997+00:00",
+  "generated_at": "2026-11-12T16:47:33.882482+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1120,6 +1120,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-12T15:40:00+00:00"
+    },
+    {
+      "title": "Show HN: A self-hosted PHP platform combining CMS, e-commerce and more, built-in",
+      "link": "https://getvale.org",
+      "summary": "We used WordPress ourselves but struggled with ongoing maintenance. So we built an internal alternative CMS that met our needs. After two years of development, we decided to make it open source.You can try the live demo (credentials included), explore the source code, and read the documentation here:Try live demo: https://getvale.org/try-vale\nSource: https://github.com/MIDILLI-Tech/vale/\nDocs: https://docs.getvale.orgIf you have any feedback, comments, or questions, I'd be happy to answer them!\n\nComments URL: https://news.ycombinator.com/item?id=50469123\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T15:35:54+00:00"
     },
     {
       "title": "フアンＣＥＯが辞任　中国女性との不貞疑惑受け―米エヌビディア",
