@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T18:32:46.184245+00:00",
+  "generated_at": "2026-11-12T18:47:58.346843+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1062,12 +1062,36 @@
   ],
   "items": [
     {
+      "title": "円下落、約2カ月半ぶりに一時160円台　米国の利上げ観測強まりで",
+      "link": "https://www.asahi.com/articles/ASVCD62W2VCDUHBI04NM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-12T18:47:43.361476+00:00"
+    },
+    {
+      "title": "U.S. inflation is already bad enough. It might get worse.",
+      "link": "https://www.marketwatch.com/story/u-s-inflation-is-already-bad-enough-it-might-get-worse-bae54da9?mod=mw_rss_topstories",
+      "summary": "Federal Reserve Chairman Kevin Warsh has vowed the Fed will smite high inflation — but the death blows won’t come fast or easy.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-12T18:39:00+00:00"
+    },
+    {
       "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
       "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
       "summary": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
       "source": "CNBC",
       "category": "海外金融",
       "published": "2026-11-12T18:26:52+00:00"
+    },
+    {
+      "title": "Rust 1.100.0",
+      "link": "https://github.com/rust-lang/rust/releases/tag/1.100.0",
+      "summary": "Article URL: https://github.com/rust-lang/rust/releases/tag/1.100.0\nComments URL: https://news.ycombinator.com/item?id=50471793\nPoints: 50\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T18:24:06+00:00"
     },
     {
       "title": "Outlook is down, and so is Microsoft's status page",
@@ -1100,6 +1124,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-12T18:17:13+00:00"
+    },
+    {
+      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+      "link": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+      "summary": "We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: https://agentrun.ai/blog/introducing-agentrun-run-smarter-ag....It includes what we originally built for our own agent harness:- Self-improving agents \n- Web-grounded workflows \n- A range of sandboxes and computer environments \n- Thousands of tools and integrations \n- Detailed analytics on how your agents behaveYou can bring your own agent. AgentRun works with Pi, Claude Agents, Codex, OpenCode, and any other harness that supports ACP.You can self-host it (see 1-click install on Render) with an OpenRouter key, or try the hosted version at console.agentrun.ai.We’d love feedback, especially on the architecture (see README), or anything we may be missing to make it useful to you.\n\nComments URL: https://news.ycombinator.com/item?id=50471650\nPoints: 9\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T18:15:48+00:00"
     },
     {
       "title": "Nvidia’s stock is on sale after Jensen Huang’s exit. But is the selloff just beginning?",
