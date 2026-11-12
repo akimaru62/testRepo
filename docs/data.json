@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T18:20:18.677537+00:00",
+  "generated_at": "2026-11-12T18:32:46.184245+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1062,12 +1062,44 @@
   ],
   "items": [
     {
+      "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+      "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+      "summary": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-11-12T18:26:52+00:00"
+    },
+    {
+      "title": "Outlook is down, and so is Microsoft's status page",
+      "link": "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/",
+      "summary": "Article URL: https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/\nComments URL: https://news.ycombinator.com/item?id=50471731\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T18:20:48+00:00"
+    },
+    {
       "title": "米エヌビディアによると、コレット・クレスＣＦＯが暫定ＣＥＯを兼務する",
       "link": "https://www.jiji.com/jc/article?k=2026111201159&g=flash&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-12T18:20:14.172904+00:00"
+    },
+    {
+      "title": "The 2027 401(k) limits are here. See how much more you can save next year.",
+      "link": "https://www.marketwatch.com/story/the-2027-401-k-limits-are-here-see-how-much-more-you-can-save-next-year-d525768c?mod=mw_rss_topstories",
+      "summary": "Defined-contribution plans are getting a bump. IRA savers are not.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-12T18:19:00+00:00"
+    },
+    {
+      "title": "Ask HN: Microsoft/Azure Outage?",
+      "link": "https://news.ycombinator.com/item?id=50471668",
+      "summary": "For the past 5 minutes all of our Microsoft Cloud connections are down. Anyone else? The Status page won't even load.\n\nComments URL: https://news.ycombinator.com/item?id=50471668\nPoints: 15\n# Comments: 10",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T18:17:13+00:00"
     },
     {
       "title": "Nvidia’s stock is on sale after Jensen Huang’s exit. But is the selloff just beginning?",
@@ -1084,6 +1116,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-12T18:08:00+00:00"
+    },
+    {
+      "title": "US home sales fall to lowest level since 2010 as mortgage rates soar",
+      "link": "https://www.ft.com/content/1e08661e-1db0-4ff7-8236-77254bb05790?syn-25a6b1a6=1",
+      "summary": "Higher borrowing costs deepen housing market slump as interest rates weigh on transactions",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-12T18:03:44+00:00"
     },
     {
       "title": "Gemini 4 Hydrogen",
