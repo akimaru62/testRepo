@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T20:33:33.677822+00:00",
+  "generated_at": "2026-11-12T20:47:48.036032+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1532,6 +1532,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-12T16:59:26+00:00"
+    },
+    {
+      "title": "Show HN: Apron Chat Protocol",
+      "link": "https://apron.chat/",
+      "summary": "Hi HN friends, you might remember me from such projects as ssh.chat!I come bringing a new kind of chat protocol that I've been working on since I spent quite a lot of time exploring the 14 other competing standards we've come up with in the past few decades.I'm hoping that Apron will better reflect our needs beyond 2026, which I expect will move more and more toward semi-private chats rather than global social networks.Come say hi on the live public demo: https://web.apron.chat\n\nComments URL: https://news.ycombinator.com/item?id=50470343\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T16:52:31+00:00"
     },
     {
       "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
