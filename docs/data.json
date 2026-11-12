@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T15:48:04.339987+00:00",
+  "generated_at": "2026-11-12T16:05:58.715707+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1058,6 +1058,22 @@
   ],
   "items": [
     {
+      "title": "Medicare at age 50? What ‘Medicare for more’ could mean for American workers.",
+      "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
+      "summary": "It’s not “Medicare for All,” but a new bill would lower the Medicare age to 50, expanding coverage for 60 million adults",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-12T16:00:00+00:00"
+    },
+    {
+      "title": "Home sales plummet to lowest level since ‘Great Recession’ as prices hit all-time high",
+      "link": "https://www.marketwatch.com/story/home-sales-plummet-to-lowest-level-since-the-great-recession-as-buyers-flee-the-market-624e6270?mod=mw_rss_topstories",
+      "summary": "Home sales fell in October to a 16-year low as buyers bolted from the housing market in the face of 7% mortgage rates.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-12T15:52:00+00:00"
+    },
+    {
       "title": "What really happens during Medicare counseling",
       "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
       "summary": "Open enrollment can bring unexpected challenges for seniors.",
@@ -1072,6 +1088,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-12T15:33:22.439783+00:00"
+    },
+    {
+      "title": "European leaders reject Russian push to overhaul continent’s security",
+      "link": "https://www.ft.com/content/8d28a5be-af56-421f-a33d-779a0fcc7ad4?syn-25a6b1a6=1",
+      "summary": "‘Europe needs to pay attention’, warns Zelenskyy after Abu Dhabi talks",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-12T15:30:49+00:00"
     },
     {
       "title": "‘He calls my plans a fantasy’: My husband says we can’t afford our $200,000-a-year dream retirement. I think he’s cheap.",
@@ -1269,6 +1293,14 @@
       "title": "Jane Street – Our software engineering interviews are changing (a little)",
       "link": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
       "summary": "Article URL: https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/\nComments URL: https://news.ycombinator.com/item?id=50467297\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T14:05:28+00:00"
+    },
+    {
+      "title": "Our software engineering interviews are changing (a little)",
+      "link": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/",
+      "summary": "Article URL: https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/\nComments URL: https://news.ycombinator.com/item?id=50467297\nPoints: 52\n# Comments: 28",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-12T14:05:28+00:00"
@@ -3856,6 +3888,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-11T19:30:00+00:00"
+    },
+    {
+      "title": "Pulling the Lever in a Subway Problem",
+      "link": "https://www.jefftk.com/p/pulling-the-lever-in-a-subway-problem",
+      "summary": "Article URL: https://www.jefftk.com/p/pulling-the-lever-in-a-subway-problem\nComments URL: https://news.ycombinator.com/item?id=50457344\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-11T19:22:09+00:00"
     },
     {
       "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
