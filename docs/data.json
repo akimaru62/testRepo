@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T23:33:18.761121+00:00",
+  "generated_at": "2026-11-12T23:48:04.478424+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1062,6 +1062,30 @@
   ],
   "items": [
     {
+      "title": "丸亀製麺の値下げ 「逆張り」真髄",
+      "link": "https://news.yahoo.co.jp/pickup/6602372?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-12T23:36:10+00:00"
+    },
+    {
+      "title": "親子旅で9歳の息子に刺さりまくった｢地味すぎる｣中国東北部の観光地　巨大な川もヨーグルトも凍るマイナス30度の世界 | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963122?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢一番よかった旅行先はどこ？｣そんな問いかけに､息子が迷わず挙げる\"ハルビン\"。一見地味な観光地に見える都市でも､蓋を開ければマイナス30度の極限状態ならではの楽しみが満載。旅先での\"思わぬハプニン…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-12T23:30:00+00:00"
+    },
+    {
+      "title": "AI boom will lift Nvidia even after Huang’s exit, investors say",
+      "link": "https://www.ft.com/content/ecb2b4ed-1b61-4c8a-a2e7-a6f9c85a59ff?syn-25a6b1a6=1",
+      "summary": "Shares largely recovered by close of market Thursday as shareholders bought the dip and looked to group’s future without CEO",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-12T23:26:26+00:00"
+    },
+    {
       "title": "トランプ氏、イランと「合意不要」　バンス氏は汚職対策専念を",
       "link": "https://www.jiji.com/jc/article?k=2026111300237&g=int&m=rss",
       "summary": "",
@@ -1102,10 +1126,26 @@
       "published": "2026-11-12T23:17:27.804712+00:00"
     },
     {
+      "title": "Why You Should Expect an AI Crash",
+      "link": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
+      "summary": "Article URL: https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash\nComments URL: https://news.ycombinator.com/item?id=50475735\nPoints: 18\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T23:08:31+00:00"
+    },
+    {
       "title": "AIで\"仕事量が減る\"時代の子育て､いまからできる｢子どもの教育｣で意識したい《2つのポイント》 | キャリア・教育 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/964047?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "AIで人の仕事量など､日常生活ががらりと変わりつつある中､子供を育てるうえでどのような考えが大切になってくるのでしょうか。",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-12T23:00:00+00:00"
+    },
+    {
+      "title": "“慎重派“の弥生が汎用AIツールとの連携へ　freee、マネフォに続く「MCP対応」、各社の「会計×AI」の戦略は？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/13/news031.html",
+      "summary": "弥生は12月以降、クラウド会計ソフト「弥生会計 Next」をAI連携規格「MCP」に対応させる予定だ。外部の汎用AIツールから仕訳が可能になる一方、リスクも生まれる。同社はAIとの適切な距離感をどのように考えるのか。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-11-12T23:00:00+00:00"
     },
@@ -1500,6 +1540,14 @@
       "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-11-12T21:00:00+00:00"
+    },
+    {
+      "title": "Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay",
+      "link": "https://github.com/cerulion-inc/cerulion",
+      "summary": "Hey HN! I'm Lakshay. Raveen and I have built Cerulion, a ROS2-compatible robotics runtime written in Rust. We've worked hard on lowering IPC transport latencies without making the single process tradeoff or forcing POD message types. These fast multi-process graphs can then be resimmed deterministically, and existing ROS2 nodes/launch files can run unmodified alongside native Cerulion Rust/Python code. Installation and quickstart (with a one-shot prompt for your favorite coding agent) here at the repo README: https://github.com/cerulion-inc/cerulionI worked on off-road autonomy during my PhD at MIT, and we kept running into inter-process latency in ROS (2 lidars and 6 cameras). Loaned messages need POD types, which nukes standard, vendor-agnostic Image/PointCloud2. We ended up running some hot paths in a brittle single process, which made debugging a nightmare. I'm sure you've seen the heisenbugs ROS-based stacks can produce, with no way to easily reproduce the consumption order or interleaving of callbacks. Valuable data of runtime failures on the robot was hard to use effectively without deterministic reproducibility.This is what we fix. Cerulion bags record per-input reads and scheduler traces alongside message content in standard MCAPs. cerulion bag play --resim all --verify re-executes node code on the recorded schedule and compares each byte for exact matches or within defined tolerances. Exit 0 is a match, 1 shows the first topic/frame that diverges, 6 shows schedule divergence and --report gives an optional CI verdict. Eligible ROS2 processes can replay deterministically as well.Here's the data loop:1. Run: Dependency-ordered level-based DAG scheduler with periodic/data/sync triggers, I/O deadlines, backpressure, and automatic profiling for process partitioning. Each node by default free-runs in its own process while preserving deterministic replay. Live runs pause/resume, and UMWAIT/WFE parks idle consumers on CPUs that support it. Wall-clock reads and runtime thread spawns in user code rejected at compile time by macros.ROS 2 is supported with rmw_cerulion for Foxy, Humble, Jazzy and Lyrical, that lets you run ROS2 nodes/launch files unmodified in the same graph as native Cerulion nodes. LD_PRELOAD gives ROS2 code shared memory loans through std::vector/std::string. cerulion ros2 attach folds in already-running ROS2 robots, and cerulion ros2 run/launch lets you run existing ROS2 workspaces on Cerulion without any additional setup (with an optional automatic migrate suggested that rewrites C++ publish sites).2. Move: iceoryx2 shared memory with no serialization, no payload copy and no payload-sized allocation, including for variable-length messages like sensor_msgs/Image and PointCloud2. Round trip latency for a 1MiB sensor_msgs/Image between two processes is 4.08µs p50, with a tight tail of 7.38µs p99 (under 2x p50), with recording on. This is default Cerulion, against 10.95 ms for default ROS 2 Jazzy. Cerulion's p50 and p99 stay flat from 64B to 16 MiB.3. Capture: With this round-trip latency, there are no tradeoffs, not for process isolation and not for bagging. We can afford always-on or event-based logging. Flashback is our robot dashcam: keeps ~30s of all logs and message contents in memory and saves it automatically on process crashes, topic stalls or declared incidents/manual triggers.4. Reach: A free account lets you pair robots and desks, letting all your devices find each other with no config, IP addresses or discovery chatter. Pubsub is authenticated and on-demand, with signed grants that the robot verifies offline. We use Iroh to hole-punch or relay over WAN, and mDNS over LAN to transmit data using QUIC. Remote topics mirror into local shared memory, and each device has a single network gateway.5. Diagnose: cerulion doctor scans for compile/run-time issues (better than Windows Troubleshooter I promise) and suggests fixes. Hindsight is an early access MCP to let agents analyze your bags.To get started: go to the repo, install Cerulion with the curl one-liner, and paste the prompt in Claude Code/Codex: https://github.com/cerulion-inc/cerulion#quickstart-run-reco.... Or shift your own gears, it's all in the repo that you should star!The CLI needs a free account, which we use to make device pairing as easy as AirDrop USED to be ;) Everything runs on Linux (x86_64/ARM64), macOS and Android (JNI), with more platforms coming.We'd love to hear your feedback! If you run ROS 2 on a real robot, point this at your stack and tell us what breaks.Docs: https://docs.cerulion.comSite: https://cerulion.com\n\nComments URL: https://news.ycombinator.com/item?id=50474106\nPoints: 1\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T20:53:04+00:00"
     },
     {
       "title": "Scale distributed AI workloads with Ray and Anyscale on Amazon EC2",
