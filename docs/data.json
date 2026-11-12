@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T22:33:38.690102+00:00",
+  "generated_at": "2026-11-12T22:47:18.987837+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1094,6 +1094,14 @@
       "published": "2026-11-12T22:33:33.430854+00:00"
     },
     {
+      "title": "｢和訳して｣で思考停止する子､AI使って爆伸びする子の差　東大生の8割が使う陰で広がる｢学び方の格差｣ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963952?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "生成AIは学び方次第で大きな成果の差を生む新たな学習ツールです。答えを受け取るだけでなく､AIとの対話を通じて自分の思考を深めるにはどうすれば良いのでしょうか？",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-12T22:30:00+00:00"
+    },
+    {
       "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
       "link": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
       "summary": "Fed Chair Warsh’s quiet style of communicating interest-rate policy has led to more volatile markets.",
@@ -1142,12 +1150,52 @@
       "published": "2026-11-12T22:00:00+00:00"
     },
     {
+      "title": "HIS、店舗接客にAI導入で「成約率5ポイント上昇」　“検索迷子“の客を救った仕組みとは？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/13/news010.html",
+      "summary": "旅行大手のエイチ・アイ・エスがAI活用で成果を上げている。店頭での成約率を高めた接客支援ツールやAIアバターなど、新たな顧客体験を生み出す取り組みの狙いと成果を取材した。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-12T22:00:00+00:00"
+    },
+    {
+      "title": "“脱Microsoft”進むか　「月額が高過ぎ」「クラウド依存」に挑む、独自オフィス製品の戦い方",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/13/news024.html",
+      "summary": "“デジタル小作人”として海外企業にITツールの利用料を払い続ける日本企業。しかし今、脱Microsoftを実現する企業が登場している。独自のオフィス製品を手掛けるSynologyの戦い方とは。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-12T22:00:00+00:00"
+    },
+    {
+      "title": "ふくおかFG、AIがベテランの“勘と例外処理”をヒアリング　「元営業」が仕掛ける銀行変革のリアル",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/13/news017.html",
+      "summary": "ふくおかFGがAIを活用した業務変革を加速させている。現場での小さな成功体験を足がかりに、業務全体の再設計を目指す「AIファースト経営」へ挑む同行の取り組みに迫る。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-12T22:00:00+00:00"
+    },
+    {
+      "title": "なぜゾーホーは「広告を載せない」のか？　情報漏えいを防ぐ「独自の設計」、AI研究責任者に聞く",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/13/news021.html",
+      "summary": "企業で機密情報の漏えいが相次いでいる。業務効率化とデータ保護の板挟みになる中、インドのゾーホーは、無料版でも広告を載せず「顧客データをAI学習に一切使わない」設計を敷く。自社データを競合へ流出させず、安全にAIを活用する防衛術を、同社AI研究責任者のラムプラカーシュ・ラーマムールティー氏に聞いた。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-12T22:00:00+00:00"
+    },
+    {
       "title": "エヌビディアCEO辞任 動揺広がる",
       "link": "https://news.yahoo.co.jp/pickup/6602361?source=rss",
       "summary": "",
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-12T21:59:48+00:00"
+    },
+    {
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "link": "https://unemploymentlabs.com/checkpoint-forensics",
+      "summary": "Article URL: https://unemploymentlabs.com/checkpoint-forensics\nComments URL: https://news.ycombinator.com/item?id=50474883\nPoints: 29\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T21:56:11+00:00"
     },
     {
       "title": "Am I overpaying for health insurance? How to answer the key question this open-enrollment season.",
@@ -1257,6 +1305,14 @@
       "title": "Foundation Models Framework (macOS)",
       "link": "https://developer.apple.com/foundation-models-framework/",
       "summary": "Article URL: https://developer.apple.com/foundation-models-framework/\nComments URL: https://news.ycombinator.com/item?id=50474361\nPoints: 29\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T21:13:26+00:00"
+    },
+    {
+      "title": "Foundation Models framework",
+      "link": "https://developer.apple.com/foundation-models-framework/",
+      "summary": "Article URL: https://developer.apple.com/foundation-models-framework/\nComments URL: https://news.ycombinator.com/item?id=50474361\nPoints: 45\n# Comments: 7",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-12T21:13:26+00:00"
