@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T19:04:21.529925+00:00",
+  "generated_at": "2026-11-12T19:17:53.053298+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1062,6 +1062,38 @@
   ],
   "items": [
     {
+      "title": "山口茜、奥原希望ら８強　バドミントン",
+      "link": "https://www.jiji.com/jc/article?k=2026111200912&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-12T19:17:48.372409+00:00"
+    },
+    {
+      "title": "Nvidia’s stock selloff may be just beginning, even after shedding 30% from its peak",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-sale-after-jensen-huangs-exit-but-is-the-selloff-just-beginning-84121513?mod=mw_rss_topstories",
+      "summary": "While shares of Nvidia look cheap on paper and on the charts, Wall Street analysts see more volatility ahead.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-12T19:15:00+00:00"
+    },
+    {
+      "title": "The prostate-cancer screening rules just changed. Here’s when men should get tested.",
+      "link": "https://www.marketwatch.com/story/the-prostate-cancer-screening-rules-just-changed-heres-when-men-should-get-tested-894418bb?mod=mw_rss_topstories",
+      "summary": "The American Cancer Society now recommends most men get their first PSA test when they turn 50. Black men and other men considered high risk should start screening at age 45.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-12T19:12:00+00:00"
+    },
+    {
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "link": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "summary": "Article URL: https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/\nComments URL: https://news.ycombinator.com/item?id=50472260\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T18:52:01+00:00"
+    },
+    {
       "title": "Another Winner From the Midterms: Crusaders Against Insurance Companies",
       "link": "https://www.wsj.com/finance/another-winner-from-the-midterms-crusaders-against-insurance-companies-36adf244?mod=rss_markets_main",
       "summary": "California’s incoming insurance commissioner wants to impose profit caps on home and auto insurers.",
@@ -1086,6 +1118,14 @@
       "published": "2026-11-12T18:47:43.361476+00:00"
     },
     {
+      "title": "Nvidia sends a painful message on how to value a CEO",
+      "link": "https://www.ft.com/content/610fc69e-51ae-4f7a-8e48-c2ce42860ff4?syn-25a6b1a6=1",
+      "summary": "More clarity about why founders matter — and how much — should help everyone",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-12T18:40:46+00:00"
+    },
+    {
       "title": "U.S. inflation is already bad enough. It might get worse.",
       "link": "https://www.marketwatch.com/story/u-s-inflation-is-already-bad-enough-it-might-get-worse-bae54da9?mod=mw_rss_topstories",
       "summary": "Federal Reserve Chairman Kevin Warsh has vowed the Fed will smite high inflation — but the death blows won’t come fast or easy.",
@@ -1108,6 +1148,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-12T18:24:06+00:00"
+    },
+    {
+      "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+      "link": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+      "summary": "Article URL: https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/\nComments URL: https://news.ycombinator.com/item?id=50471761\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T18:22:22+00:00"
     },
     {
       "title": "Outlook is down, and so is Microsoft's status page",
