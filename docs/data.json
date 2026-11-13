@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T19:17:35.103866+00:00",
+  "generated_at": "2026-11-13T19:32:51.034678+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1066,6 +1066,38 @@
   ],
   "items": [
     {
+      "title": "Gold, Silver Futures Post Weekly Losses",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-in-technical-rebound-10e4e211?mod=rss_markets_main",
+      "summary": "Gold futures held their ground in choppy trading as a below-estimate U.S. producer price reading and steadying oil prices ease inflation concerns that sank the metals the previous session.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-13T19:29:00+00:00"
+    },
+    {
+      "title": "US securities watchdog plans to loosen rules for executive pay disclosure",
+      "link": "https://www.ft.com/content/de634392-47bd-4a21-938a-77620aeb3d17?syn-25a6b1a6=1",
+      "summary": "Only CEOs and CFOs would be required to disclose pay packages under Securities and Exchange Commission’s proposal",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-13T19:20:46+00:00"
+    },
+    {
+      "title": "Washington’s efforts to block Beijing’s access to Nvidia chips could spark a ‘short-lived U.S.-China trade war’ that rattles markets",
+      "link": "https://www.marketwatch.com/story/washingtons-efforts-to-block-beijings-access-to-nvidia-chips-could-spark-a-short-lived-u-s-china-trade-war-that-rattles-markets-83078d84?mod=mw_rss_topstories",
+      "summary": "Meanwhile, top officials from Nvidia and the Commerce Department face a series of congressional hearings next month.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-13T19:19:00+00:00"
+    },
+    {
+      "title": "Opinion | Congressional Insider Trading Isn’t as Common as You Think",
+      "link": "https://www.wsj.com/opinion/congressional-insider-trading-isnt-as-common-as-you-think-637d5563?mod=rss_markets_main",
+      "summary": "As with Mr. Pelosi’s Alphabet options, many insider-trading claims fall apart under scrutiny.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-13T19:18:00+00:00"
+    },
+    {
       "title": "‘Strangely calming and unnerving’: How Microsoft’s massive outage upended the corporate workday",
       "link": "https://www.marketwatch.com/story/strangely-calming-and-unnerving-how-microsofts-massive-outage-upended-the-corporate-workday-9a78d000?mod=mw_rss_topstories",
       "summary": "A widespread Outlook outage delayed a corporate earnings report, and left users scrambling to submit their schoolwork or find alternate forms of communication.",
@@ -1104,6 +1136,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-13T18:46:00+00:00"
+    },
+    {
+      "title": "The avalanche that hit math is coming for AI development",
+      "link": "https://www.dwarkesh.com/p/rsi",
+      "summary": "Article URL: https://www.dwarkesh.com/p/rsi\nComments URL: https://news.ycombinator.com/item?id=50487854\nPoints: 13\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T18:39:42+00:00"
     },
     {
       "title": "Microsoft points to ‘broad recovery and stability’ after widespread Outlook outage",
