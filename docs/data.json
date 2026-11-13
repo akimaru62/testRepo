@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T20:05:27.796186+00:00",
+  "generated_at": "2026-11-13T20:18:12.030513+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1066,6 +1066,14 @@
   ],
   "items": [
     {
+      "title": "参政「演説妨害防止法案」を提出",
+      "link": "https://www.jiji.com/jc/article?k=2026111301075&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-13T20:18:06.656707+00:00"
+    },
+    {
       "title": "U.S. Stocks Decline as Nvidia Shares Slide Again",
       "link": "https://www.wsj.com/finance/stocks/stock-futures-lower-as-investors-look-to-u-s-inflation-data-5b1b5988?mod=rss_markets_main",
       "summary": "U.S. stocks declined as the tumult surrounding Jensen Huang’s ouster from Nvidia continues to cloud the outlook for the AI trade.",
@@ -1098,6 +1106,22 @@
       "published": "2026-11-13T19:41:26+00:00"
     },
     {
+      "title": "Anthropic’s Amodei ‘not super fussed’ about market turmoil ahead of IPO",
+      "link": "https://www.ft.com/content/4b7b83d7-7fea-4ce2-bfe3-4f2cf75b1d82?syn-25a6b1a6=1",
+      "summary": "AI lab’s chief executive brushes off tech stock turbulence less than a week before  planned $1.5tn listing",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-13T19:41:26+00:00"
+    },
+    {
+      "title": "Someone's Impersonating This Blog",
+      "link": "https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/",
+      "summary": "Article URL: https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/\nComments URL: https://news.ycombinator.com/item?id=50488664\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T19:41:09+00:00"
+    },
+    {
       "title": "Budget airlines are going upscale with first-class seats and faster wifi",
       "link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
       "summary": "Forget no-frills: Frontier and JetBlue are chasing luxury flyers, and Wall Street is buying in.",
@@ -1120,6 +1144,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-13T19:29:00+00:00"
+    },
+    {
+      "title": "Found: A protein that drives ageing without unleashing inflammation",
+      "link": "https://www.nature.com/articles/d41586-026-03638-3",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-03638-3\nComments URL: https://news.ycombinator.com/item?id=50488470\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T19:25:21+00:00"
     },
     {
       "title": "Perplexity Decider v1.3: Training, eval, and use cases",
@@ -1202,6 +1234,14 @@
       "published": "2026-11-13T18:46:00+00:00"
     },
     {
+      "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+      "link": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+      "summary": "Article URL: https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas\nComments URL: https://news.ycombinator.com/item?id=50487864\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T18:40:44+00:00"
+    },
+    {
       "title": "The avalanche that hit math is coming for AI development",
       "link": "https://www.dwarkesh.com/p/rsi",
       "summary": "Article URL: https://www.dwarkesh.com/p/rsi\nComments URL: https://news.ycombinator.com/item?id=50487854\nPoints: 13\n# Comments: 1",
@@ -1232,6 +1272,14 @@
       "source": "CNBC",
       "category": "海外金融",
       "published": "2026-11-13T18:32:47+00:00"
+    },
+    {
+      "title": "Microsoft outage gives customers a crash course in dependence on Redmond",
+      "link": "https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805",
+      "summary": "Article URL: https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805\nComments URL: https://news.ycombinator.com/item?id=50487688\nPoints: 23\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T18:29:16+00:00"
     },
     {
       "title": "Microsoft says services experiencing ‘broad recovery’ after global outage",
