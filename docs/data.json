@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T09:19:50.625800+00:00",
+  "generated_at": "2026-11-13T09:33:15.122385+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1062,6 +1062,54 @@
   ],
   "items": [
     {
+      "title": "支援金、勤労者５割対象　高市首相表明、子２人世帯で最大６万円―消費減税法案、参院委で審議",
+      "link": "https://www.jiji.com/jc/article?k=2026111300707&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-13T09:33:10.096383+00:00"
+    },
+    {
+      "title": "不正会計のニデック、年内の臨時株主総会見送り　業績報告が「困難」",
+      "link": "https://www.asahi.com/articles/ASVCF31PQVCFPLFA00RM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-13T09:33:09.692208+00:00"
+    },
+    {
+      "title": "GMO、不正アクセスで30億円計上へ　信用低下、金融で顧客離れも",
+      "link": "https://www.asahi.com/articles/ASVCF2VLBVCFULFA00QM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-13T09:33:09.692199+00:00"
+    },
+    {
+      "title": "東京市場も一時1ドル＝160円台に　約2カ月半ぶりの円安水準",
+      "link": "https://www.asahi.com/articles/ASVCF2SLRVCFULFA01QM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-13T09:33:09.692167+00:00"
+    },
+    {
+      "title": "Stock Futures Lower as Investors Look to U.S. Inflation Data",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-lower-as-investors-look-to-u-s-inflation-data-5b1b5988?mod=rss_markets_main",
+      "summary": "Stock futures fell as the fallout from Nvidia’s leadership change continued to hang over markets, while longer-dated Treasurys continued to sell off ahead of key U.S. inflation data.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-13T09:28:00+00:00"
+    },
+    {
+      "title": "損保3社タマホーム保険販売停止へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602444?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-13T09:19:53+00:00"
+    },
+    {
       "title": "自維国共、議席占有率アップ　衆院比例３１減で試算",
       "link": "https://www.jiji.com/jc/article?k=2026111200814&g=pol&m=rss",
       "summary": "",
@@ -1094,12 +1142,28 @@
       "published": "2026-11-13T09:19:45.552948+00:00"
     },
     {
+      "title": "The Dawn of the Data Intelligence Engineer",
+      "link": "https://motherduck.com/blog/the-data-intelligence-engineer/",
+      "summary": "Article URL: https://motherduck.com/blog/the-data-intelligence-engineer/\nComments URL: https://news.ycombinator.com/item?id=50480480\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T09:08:18+00:00"
+    },
+    {
       "title": "Dollar Could Take Another Leg Higher After Strong Rally",
       "link": "https://www.wsj.com/finance/currencies/french-political-and-fiscal-uncertainty-could-weigh-on-euro-c7deca5f?mod=rss_markets_main",
       "summary": "The DXY dollar index was flat after reaching a 19-month high Thursday. ING said the index could rise further toward the next resistance level of 104.600 which would be consistent with the euro falling to $1.0880.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-13T09:05:00+00:00"
+    },
+    {
+      "title": "Global oil markets swing to surplus as Gulf shipments rebound",
+      "link": "https://www.ft.com/content/20b68fe2-9d60-4c0c-b714-1f3e03015823?syn-25a6b1a6=1",
+      "summary": "IEA analysts warn it will take months to rebuild stockpiles depleted by conflict",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-13T09:04:06+00:00"
     },
     {
       "title": "London’s Miners Drop as Oil Traders Weigh Iran War Outlook",
@@ -1204,6 +1268,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-13T07:47:28.702540+00:00"
+    },
+    {
+      "title": "TSMC Hacked",
+      "link": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm",
+      "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm\nComments URL: https://news.ycombinator.com/item?id=50479721\nPoints: 19\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T07:39:55+00:00"
     },
     {
       "title": "Chinese AI sell-off deepens over fears of tougher Nvidia chip restrictions",
