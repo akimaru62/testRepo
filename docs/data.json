@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T05:17:24.799387+00:00",
+  "generated_at": "2026-11-13T05:33:27.668524+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1062,6 +1062,14 @@
   ],
   "items": [
     {
+      "title": "佐川急便、マイクロソフト障害でサービスに不具合　配送は影響なし",
+      "link": "https://www.asahi.com/articles/ASVCF1QQBVCFULFA01MM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-13T05:33:22.655533+00:00"
+    },
+    {
       "title": "日米協調の7月円買い介入、米政府は794億円　日本側の1.4%",
       "link": "https://www.asahi.com/articles/ASVCF1691VCFUHBI00XM.html?ref=rss",
       "summary": "",
@@ -1078,12 +1086,36 @@
       "published": "2026-11-13T05:05:29.420719+00:00"
     },
     {
+      "title": "Russia loses almost half a million lives in Ukraine war",
+      "link": "https://www.ft.com/content/7377e093-d58e-4303-853a-5aa82b6a747e?syn-25a6b1a6=1",
+      "summary": "Data from statistical agency points to vast toll of progress by Moscow’s forces on a few small fronts",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-13T05:00:27+00:00"
+    },
+    {
+      "title": "Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A",
+      "link": "https://github.com/pharma2a/pharma2a",
+      "summary": "I'm a pharmacist in France and a nerd. I built an open source protocol based on A2A, Called PharmA2A. Why, because normally I order directly from more than hundred of suppliers, by phone mails or on the web forms. \nThe idea is to automatise orders of selling and buying between pharmacies and their suppliers. \nSince 12 November, PharmA2A is live on GH. \nIs anyone of you is using A2A in real life ?\n\nComments URL: https://news.ycombinator.com/item?id=50478543\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T04:58:53+00:00"
+    },
+    {
       "title": "システム障害に伴うメール受信不具合のお知らせ",
       "link": "https://www.mof.go.jp/public_relations/ohter/2026111301.html",
       "summary": "",
       "source": "財務省",
       "category": "公的機関",
       "published": "2026-11-13T04:55:00+00:00"
+    },
+    {
+      "title": "IceWM",
+      "link": "https://ice-wm.org/",
+      "summary": "Article URL: https://ice-wm.org/\nComments URL: https://news.ycombinator.com/item?id=50478515\nPoints: 10\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T04:54:53+00:00"
     },
     {
       "title": "Chuck Schumer faces challenge for Senate leadership from rival Democrat",
@@ -2684,6 +2716,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-12T18:01:48+00:00"
+    },
+    {
+      "title": "Here Are the New Contribution Limits for 401(k)s and IRAs in 2027",
+      "link": "https://www.wsj.com/personal-finance/retirement/here-are-the-new-contribution-limits-for-401-k-s-and-iras-in-2027-40fe1db2?mod=rss_markets_main",
+      "summary": "High earners in their early 60s can get up to $86,750 in these plans.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-12T18:01:00+00:00"
     },
     {
       "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
