@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T00:13:18.346054+00:00",
+  "generated_at": "2026-11-13T00:40:33.857424+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1062,6 +1062,30 @@
   ],
   "items": [
     {
+      "title": "国債金利情報(令和8年11月12日)",
+      "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-13T00:30:00+00:00"
+    },
+    {
+      "title": "GitHub availability report: October 2026",
+      "link": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
+      "summary": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services.\nThe post GitHub availability report: October 2026 appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "category": "開発者向け",
+      "published": "2026-11-13T00:20:16+00:00"
+    },
+    {
+      "title": "Nikkei Rises 1.1%, Led by Chip Stocks",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-1-led-by-chip-stocks-eb2ed881?mod=rss_markets_main",
+      "summary": "Japanese stocks were higher, led by chip-related stocks, despite continued uncertainty over the U.S. and Japanese monetary policies.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-13T00:19:00+00:00"
+    },
+    {
       "title": "プーチン氏、外国軍派遣容認せず　ウクライナ和平巡り米特使と会談",
       "link": "https://www.jiji.com/jc/article?k=2026111300252&g=int&m=rss",
       "summary": "",
@@ -1076,6 +1100,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-13T00:13:12.976494+00:00"
+    },
+    {
+      "title": "Nvidia chief Jensen Huang toppled by revelations of extramarital affairs",
+      "link": "https://www.ft.com/content/83474218-387c-4f93-a27b-ffdfee624029?syn-25a6b1a6=1",
+      "summary": "Departure marks stunning end to three-decade tenure of executive who built chip company into an engine of the AI boom",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-13T00:07:33+00:00"
     },
     {
       "title": "US cannot reach a deal to end Ukraine war without Europe, says Kushner",
@@ -1252,6 +1284,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-12T22:50:43+00:00"
+    },
+    {
+      "title": "Outlook Down, Microsoft Teams and Office may be impacted",
+      "link": "https://status.cloud.microsoft/m365/referrer=serviceStatusRedirect",
+      "summary": "Article URL: https://status.cloud.microsoft/m365/referrer=serviceStatusRedirect\nComments URL: https://news.ycombinator.com/item?id=50475505\nPoints: 13\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T22:47:24+00:00"
     },
     {
       "title": "Kalshi cuts ties to Donald Trump Jr after Democrats’ midterm sweep",
