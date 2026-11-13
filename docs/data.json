@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T17:33:23.999255+00:00",
+  "generated_at": "2026-11-13T17:47:37.491089+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1102,6 +1102,14 @@
       "published": "2026-11-13T17:01:00+00:00"
     },
     {
+      "title": "Apify Was Hacked",
+      "link": "https://status.apify.com/incidents/sxd1dj5j6749",
+      "summary": "Article URL: https://status.apify.com/incidents/sxd1dj5j6749\nComments URL: https://news.ycombinator.com/item?id=50486258\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T16:55:59+00:00"
+    },
+    {
       "title": "AI believers hold the line after Nvidia ructions",
       "link": "https://www.ft.com/content/750e4304-7287-432a-8ac1-36db40d0d968?syn-25a6b1a6=1",
       "summary": "Stock market bulls largely shrug off concerns about the concentration of risk",
@@ -1396,6 +1404,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-13T14:26:00+00:00"
+    },
+    {
+      "title": "CERN Built the Large Hadron Collider's Next-Gen Magnets",
+      "link": "https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets",
+      "summary": "Article URL: https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets\nComments URL: https://news.ycombinator.com/item?id=50483959\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T14:25:46+00:00"
     },
     {
       "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
