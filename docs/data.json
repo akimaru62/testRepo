@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T02:47:37.308684+00:00",
+  "generated_at": "2026-11-13T03:06:15.140097+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1062,6 +1062,30 @@
   ],
   "items": [
     {
+      "title": "灯油の利用者支援や電気ガス料金補助に6519億円、閣議決定　政府",
+      "link": "https://www.asahi.com/articles/ASVCF0TQFVCFULFA00PM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-13T03:06:09.877189+00:00"
+    },
+    {
+      "title": "《藤井聡太から初めてタイトルを奪った男》伊藤匠が語る\"藤井聡太の異質さ\"…同い年の棋士が見た｢王者の正体｣ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962502?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "初めて藤井聡太の手からタイトルを奪い取った男､伊藤匠。同い年の天才棋士2人の運命は､幼少期から複雑に絡み合ってきました。｢藤井さんがいなかったら､棋士になれていたかも分からない｣と語る伊藤が見た､藤…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-13T03:00:00+00:00"
+    },
+    {
+      "title": "冬の電気・ガスなど支援 6500億円",
+      "link": "https://news.yahoo.co.jp/pickup/6602397?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-13T02:50:29+00:00"
+    },
+    {
       "title": "親日家トップ退任が日本企業に与える影響は、エヌビディアCEO辞任",
       "link": "https://www.asahi.com/articles/ASVCF0HJ5VCFULFA02TM.html?ref=rss",
       "summary": "",
@@ -1116,6 +1140,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-13T02:30:00+00:00"
+    },
+    {
+      "title": "Africa's solar revolution is vast and speedy",
+      "link": "https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy",
+      "summary": "Article URL: https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy\nComments URL: https://news.ycombinator.com/item?id=50477331\nPoints: 19\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T02:28:15+00:00"
     },
     {
       "title": "尾崎官房副長官はマイクロソフトの大規模障害の影響で政府の情報システム基盤に障害が発生していると明らかにした",
@@ -1444,6 +1476,14 @@
       "source": "財務省",
       "category": "公的機関",
       "published": "2026-11-12T23:50:00+00:00"
+    },
+    {
+      "title": "Adding RSA Support to swift-nio-ssh",
+      "link": "https://lograker.app/blog/swift-nio-ssh-rsa-support",
+      "summary": "Hi, author here. I needed to support RSA .pem keys to support SSH access to older Amazon EC2 instances, but swift-nio-ssh deliberately doesn't support them, so I had to roll my own and ran into a few gotchas worth noting and sharing. Long story short: There's a fork (complete with the latest security advisories) available of swift-no-ssh with said RSA support now and the blog post describes the changes. Happy to answer any questions!\n\nComments URL: https://news.ycombinator.com/item?id=50476069\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T23:44:19+00:00"
     },
     {
       "title": "丸亀製麺の値下げ 「逆張り」真髄",
