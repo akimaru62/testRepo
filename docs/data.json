@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T17:47:37.491089+00:00",
+  "generated_at": "2026-11-13T18:05:58.787095+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1062,12 +1062,28 @@
   ],
   "items": [
     {
+      "title": "I am turning 18 next month and want to start investing. What do I do first?",
+      "link": "https://www.marketwatch.com/story/i-am-turning-18-next-month-and-want-to-start-investing-what-do-i-do-first-75370ff3?mod=mw_rss_topstories",
+      "summary": "“I have not tried investing before.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-13T17:56:00+00:00"
+    },
+    {
       "title": "U.S. Stocks Fall as Nvidia Shares Slide Again",
       "link": "https://www.wsj.com/finance/stocks/stock-futures-lower-as-investors-look-to-u-s-inflation-data-5b1b5988?mod=rss_markets_main",
       "summary": "U.S. stocks fell as the tumult surrounding Jensen Huang’s ouster from Nvidia continues to cloud the outlook for the AI trade.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-13T17:31:00+00:00"
+    },
+    {
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths\nComments URL: https://news.ycombinator.com/item?id=50486748\nPoints: 9\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T17:30:10+00:00"
     },
     {
       "title": "\"LibreOffice works 365 days a year. Just saying.\"",
