@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T01:17:50.234098+00:00",
+  "generated_at": "2026-11-13T01:34:17.649503+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1062,6 +1062,54 @@
   ],
   "items": [
     {
+      "title": "メール立ち上がらず、コパイロットは「考え中」　チームズは利用可能",
+      "link": "https://www.asahi.com/articles/ASVCF04T9VCFUTIL003M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-13T01:34:13.496778+00:00"
+    },
+    {
+      "title": "流動性供給(第465回)入札の発行予定額等",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20261113.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-13T01:30:00+00:00"
+    },
+    {
+      "title": "Oil Slips Again as Traders Weigh Diplomacy Hopes",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-slips-again-as-traders-weigh-diplomacy-hopes-808f1641?mod=rss_markets_main",
+      "summary": "Oil prices slipped in Asia, surrendering gains made after comments from Trump saying the U.S. no longer needs a deal with Iran.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-13T01:28:00+00:00"
+    },
+    {
+      "title": "Gold Edges Higher in Technical Rebound",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-in-technical-rebound-10e4e211?mod=rss_markets_main",
+      "summary": "Gold edged higher in a likely technical rebound after falling overnight.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-13T01:24:00+00:00"
+    },
+    {
+      "title": "国庫短期証券（第1421回）の発行予定額等",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20261113.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-13T01:20:00+00:00"
+    },
+    {
+      "title": "国庫短期証券（第1419回）の入札発行",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20261113.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-13T01:20:00+00:00"
+    },
+    {
       "title": "熊本地震、復興基金に５２０億円　高市首相",
       "link": "https://www.jiji.com/jc/article?k=2026111300304&g=pol&m=rss",
       "summary": "",
@@ -1782,6 +1830,14 @@
       "published": "2026-11-12T20:45:00+00:00"
     },
     {
+      "title": "Announcement: Conductor Is Back",
+      "link": "https://twitter.com/charlieholtz/status/2120973052024598620",
+      "summary": "Article URL: https://twitter.com/charlieholtz/status/2120973052024598620\nComments URL: https://news.ycombinator.com/item?id=50473888\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T20:37:55+00:00"
+    },
+    {
       "title": "Trump signals end to vice-president’s Iran peace deal push",
       "link": "https://www.ft.com/content/3c1727bb-2966-4e5c-808b-873d14854fa2?syn-25a6b1a6=1",
       "summary": "President says US does not need an agreement with Tehran as he directs JD Vance to focus on domestic concerns",
@@ -2081,6 +2137,14 @@
       "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
       "link": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
       "summary": "Article URL: https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/\nComments URL: https://news.ycombinator.com/item?id=50471761\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-12T18:22:22+00:00"
+    },
+    {
+      "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+      "link": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+      "summary": "Article URL: https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/\nComments URL: https://news.ycombinator.com/item?id=50471761\nPoints: 140\n# Comments: 18",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-12T18:22:22+00:00"
