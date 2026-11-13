@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T20:18:12.030513+00:00",
+  "generated_at": "2026-11-13T20:33:10.689185+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1066,6 +1066,22 @@
   ],
   "items": [
     {
+      "title": "How Thermo Fisher Scientific built AI-powered patient matching on AWS",
+      "link": "https://aws.amazon.com/blogs/architecture/how-thermo-fisher-scientific-built-ai-powered-patient-matching-on-aws/",
+      "summary": "Learn how Thermo Fisher Scientific built an AI-powered patient-matching platform on AWS, modernizing its clinical trial recruitment data foundation and using AWS Countdown Premium to de-risk the production launch.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-11-13T20:26:58+00:00"
+    },
+    {
+      "title": "Jensen Huang was a ‘China salesman’ for Nvidia. His exit is weighing on Chinese tech stocks.",
+      "link": "https://www.marketwatch.com/story/jensen-huang-was-a-china-salesman-for-nvidia-his-exit-is-weighing-on-chinese-tech-stocks-e46351e4?mod=mw_rss_topstories",
+      "summary": "The former Nvidia CEO was an ‘influential voice’ for selling chips to Chinese companies, but now investors are preparing for more restrictions, experts say.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-13T20:19:00+00:00"
+    },
+    {
       "title": "参政「演説妨害防止法案」を提出",
       "link": "https://www.jiji.com/jc/article?k=2026111301075&g=pol&m=rss",
       "summary": "",
@@ -1096,6 +1112,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-13T20:00:00+00:00"
+    },
+    {
+      "title": "No AI Slop: A Manifesto",
+      "link": "https://www.slopmanifesto.com/",
+      "summary": "Article URL: https://www.slopmanifesto.com/\nComments URL: https://news.ycombinator.com/item?id=50488769\nPoints: 20\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T19:51:56+00:00"
     },
     {
       "title": "Anthropic’s Dario Amodei ‘not super fussed’ about market turmoil",
@@ -1144,6 +1168,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-13T19:29:00+00:00"
+    },
+    {
+      "title": "Technology as a Search Problem",
+      "link": "https://www.construction-physics.com/p/technology-as-a-search-problem",
+      "summary": "Article URL: https://www.construction-physics.com/p/technology-as-a-search-problem\nComments URL: https://news.ycombinator.com/item?id=50488490\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T19:27:15+00:00"
     },
     {
       "title": "Found: A protein that drives ageing without unleashing inflammation",
