@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T12:34:35.607438+00:00",
+  "generated_at": "2026-11-13T12:47:54.147170+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1062,6 +1062,14 @@
   ],
   "items": [
     {
+      "title": "マイクロソフト大規模障害、解消せず　一部回復も不具合続く、７０カ国以上に影響か",
+      "link": "https://www.jiji.com/jc/article?k=2026111301024&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-13T12:47:48.779307+00:00"
+    },
+    {
       "title": "中間決算会見、明暗分けたサイバー攻撃　危機感にも追い風にも",
       "link": "https://www.asahi.com/articles/ASVCF1VLCVCFULFA027M.html?ref=rss",
       "summary": "",
@@ -1113,6 +1121,14 @@
       "title": "\"Doomsday: Friday, 13 November, A.D. 2026 (1960)",
       "link": "https://www.science.org/doi/10.1126/science.132.3436.1291",
       "summary": "Article URL: https://www.science.org/doi/10.1126/science.132.3436.1291\nComments URL: https://news.ycombinator.com/item?id=50482379\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T12:10:24+00:00"
+    },
+    {
+      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "link": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+      "summary": "Article URL: https://www.science.org/doi/10.1126/science.132.3436.1291\nComments URL: https://news.ycombinator.com/item?id=50482379\nPoints: 38\n# Comments: 5",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-13T12:10:24+00:00"
@@ -1340,6 +1356,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-13T10:30:00+00:00"
+    },
+    {
+      "title": "Llama.cpp: 6.5x faster prompt processing on Arm with a NEON kernel",
+      "link": "https://github.com/hardwiredagent/silicon-forge-arm-neon-study",
+      "summary": "Article URL: https://github.com/hardwiredagent/silicon-forge-arm-neon-study\nComments URL: https://news.ycombinator.com/item?id=50481354\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T10:28:36+00:00"
     },
     {
       "title": "Claude Is Down",
