@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T18:18:13.614482+00:00",
+  "generated_at": "2026-11-13T18:33:40.031234+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1062,12 +1062,44 @@
   ],
   "items": [
     {
+      "title": "Microsoft says services experiencing ‘broad recovery’ after global outage",
+      "link": "https://www.ft.com/content/025b2769-bca8-4a74-b9f5-5d7ad7da32c7?syn-25a6b1a6=1",
+      "summary": "German government says it ‘anticipates a very big impact’ on economy",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-13T18:25:15+00:00"
+    },
+    {
+      "title": "The epic $29 trillion battle for Social Security has begun",
+      "link": "https://www.marketwatch.com/story/the-epic-29-trillion-battle-for-social-security-has-begun-a5e57f5a?mod=mw_rss_topstories",
+      "summary": "The future of Social Security affects everyone. Too many people aren’t paying attention.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-13T18:25:00+00:00"
+    },
+    {
+      "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+      "link": "https://isometricsf.com/",
+      "summary": "Technical Write-up: https://www.justinchavez.com/blog/isometric-sf-how/Hi HN! Showcasing this fun project. I took 1300 square miles of the SF Bay Area from Google Photorealistic 3D Tiles and transformed them into a cohesive pixel map. It's really fun to explore and stumble upon various famous landmarks like Apple Park, Palace of Fine Arts, or UC Berkeley.The technicals involve using Nano Banana 2 to train a Qwen-Image-Edit 2511 LoRA which is used to prototype the style and generation methods. For final map I used Qwen to train a Klein 4B LoRA which reproduced the style at 1/4 of the cost. More details in the blog post.Let me know what you think! I really enjoyed this process of fine-tuning smaller open source models.If I did the map with Nano Banana 2 it would have cost around 7k USD!Credit for the idea goes to Isometric NYC.\n\nComments URL: https://news.ycombinator.com/item?id=50487228\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T17:58:37+00:00"
+    },
+    {
       "title": "I am turning 18 next month and want to start investing. What do I do first?",
       "link": "https://www.marketwatch.com/story/i-am-turning-18-next-month-and-want-to-start-investing-what-do-i-do-first-75370ff3?mod=mw_rss_topstories",
       "summary": "“I have not tried investing before.”",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-13T17:56:00+00:00"
+    },
+    {
+      "title": "After 600 experiments, here's what I discovered about JEPA world models",
+      "link": "https://haddyalchaer.com/jepa",
+      "summary": "Article URL: https://haddyalchaer.com/jepa\nComments URL: https://news.ycombinator.com/item?id=50487185\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T17:55:28+00:00"
     },
     {
       "title": "U.S. Stocks Fall as Nvidia Shares Slide Again",
@@ -1086,12 +1118,28 @@
       "published": "2026-11-13T17:30:10+00:00"
     },
     {
+      "title": "Concurrent Shell Command Queues",
+      "link": "https://emmer.dev/blog/concurrent-shell-command-queues/",
+      "summary": "Article URL: https://emmer.dev/blog/concurrent-shell-command-queues/\nComments URL: https://news.ycombinator.com/item?id=50486521\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T17:13:01+00:00"
+    },
+    {
       "title": "\"LibreOffice works 365 days a year. Just saying.\"",
       "link": "https://twitter.com/LibreOffice/status/2121205272479998268",
       "summary": "Article URL: https://twitter.com/LibreOffice/status/2121205272479998268\nComments URL: https://news.ycombinator.com/item?id=50486482\nPoints: 13\n# Comments: 0",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-13T17:09:58+00:00"
+    },
+    {
+      "title": "Gnomon. Git for Postgres data, built for agents",
+      "link": "https://github.com/bitsinfra/gnomon",
+      "summary": "Article URL: https://github.com/bitsinfra/gnomon\nComments URL: https://news.ycombinator.com/item?id=50486480\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T17:09:52+00:00"
     },
     {
       "title": "How low does Nvidia’s stock need to go before it’s a screaming bargain?",
