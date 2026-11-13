@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T19:04:49.011588+00:00",
+  "generated_at": "2026-11-13T19:17:35.103866+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1082,6 +1082,14 @@
       "published": "2026-11-13T18:59:00+00:00"
     },
     {
+      "title": "Microsoft outage exposes global reliance on core tech providers",
+      "link": "https://www.ft.com/content/f385935b-2bb4-4e34-8127-16517e8ceecb?syn-25a6b1a6=1",
+      "summary": "Impact of global incident affects users ranging from banks and governments to county sheriffs and pharmacies",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-13T18:55:13+00:00"
+    },
+    {
       "title": "Comex Gold Ends the Week 4.55% Lower at $3879.70",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-in-technical-rebound-10e4e211?mod=rss_markets_main",
       "summary": "Gold edged higher Friday, while silver settled down 1.9%. For the week, both metals posted losses.",
@@ -1104,6 +1112,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Models can now transmit viruses in weight-space",
+      "link": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
+      "summary": "Article URL: https://www.alphaxiv.org/abs/2611.weight-space-misfolding\nComments URL: https://news.ycombinator.com/item?id=50487762\nPoints: 12\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T18:33:35+00:00"
     },
     {
       "title": "Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker",
@@ -1130,6 +1146,22 @@
       "published": "2026-11-13T18:25:00+00:00"
     },
     {
+      "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+      "link": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+      "summary": "Article URL: https://toninoble.com/post/ctrlc-ctrlv-ctrlcve\nComments URL: https://news.ycombinator.com/item?id=50487605\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T18:23:49+00:00"
+    },
+    {
+      "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
+      "link": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
+      "summary": "Article URL: https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/\nComments URL: https://news.ycombinator.com/item?id=50487522\nPoints: 35\n# Comments: 11",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T18:18:37+00:00"
+    },
+    {
       "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
       "link": "https://isometricsf.com/",
       "summary": "Technical Write-up: https://www.justinchavez.com/blog/isometric-sf-how/Hi HN! Showcasing this fun project. I took 1300 square miles of the SF Bay Area from Google Photorealistic 3D Tiles and transformed them into a cohesive pixel map. It's really fun to explore and stumble upon various famous landmarks like Apple Park, Palace of Fine Arts, or UC Berkeley.The technicals involve using Nano Banana 2 to train a Qwen-Image-Edit 2511 LoRA which is used to prototype the style and generation methods. For final map I used Qwen to train a Klein 4B LoRA which reproduced the style at 1/4 of the cost. More details in the blog post.Let me know what you think! I really enjoyed this process of fine-tuning smaller open source models.If I did the map with Nano Banana 2 it would have cost around 7k USD!Credit for the idea goes to Isometric NYC.\n\nComments URL: https://news.ycombinator.com/item?id=50487228\nPoints: 5\n# Comments: 0",
@@ -1152,6 +1184,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-13T17:55:28+00:00"
+    },
+    {
+      "title": "OpenAI disbands its robotics team as its general models start running robots",
+      "link": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+      "summary": "Article URL: https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/\nComments URL: https://news.ycombinator.com/item?id=50487184\nPoints: 27\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T17:55:23+00:00"
     },
     {
       "title": "U.S. Stocks Fall as Nvidia Shares Slide Again",
@@ -1181,6 +1221,14 @@
       "title": "\"LibreOffice works 365 days a year. Just saying.\"",
       "link": "https://twitter.com/LibreOffice/status/2121205272479998268",
       "summary": "Article URL: https://twitter.com/LibreOffice/status/2121205272479998268\nComments URL: https://news.ycombinator.com/item?id=50486482\nPoints: 13\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T17:09:58+00:00"
+    },
+    {
+      "title": "LibreOffice actually works 365 days a year",
+      "link": "https://twitter.com/LibreOffice/status/2121205272479998268",
+      "summary": "Article URL: https://twitter.com/LibreOffice/status/2121205272479998268\nComments URL: https://news.ycombinator.com/item?id=50486482\nPoints: 485\n# Comments: 172",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-13T17:09:58+00:00"
@@ -1437,6 +1485,14 @@
       "title": "Palmfrets, Minnesota guitarist's invention, strikes a new chord",
       "link": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
       "summary": "Article URL: https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord\nComments URL: https://news.ycombinator.com/item?id=50484650\nPoints: 8\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T15:08:07+00:00"
+    },
+    {
+      "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
+      "link": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
+      "summary": "https://palmfrets.com/\n\nComments URL: https://news.ycombinator.com/item?id=50484650\nPoints: 55\n# Comments: 43",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-13T15:08:07+00:00"
