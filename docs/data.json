@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T07:18:20.254537+00:00",
+  "generated_at": "2026-11-13T07:33:48.212586+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1062,6 +1062,22 @@
   ],
   "items": [
     {
+      "title": "【記者会見】浅田審議委員（長崎、11月12日分）",
+      "link": "http://www.boj.or.jp/about/press/kaiken_2026/kk261113a.pdf",
+      "summary": "",
+      "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-11-13T07:30:00+00:00"
+    },
+    {
+      "title": "French Political And Fiscal Uncertainty Could Weigh on Euro",
+      "link": "https://www.wsj.com/finance/currencies/french-political-and-fiscal-uncertainty-could-weigh-on-euro-c7deca5f?mod=rss_markets_main",
+      "summary": "The euro rose against the dollar after reaching a 19-month low on Thursday. Commerzbank said France’s fiscal concerns and political uncertainty could weaken the currency.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-13T07:30:00+00:00"
+    },
+    {
       "title": "【独自】１２月の強化試合を断念　森保監督、今月の指揮が最後―サッカー日本代表",
       "link": "https://www.jiji.com/jc/article?k=2026111300394&g=spo&m=rss",
       "summary": "",
@@ -1100,6 +1116,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-13T07:09:00+00:00"
+    },
+    {
+      "title": "財政制度分科会（令和8年11月13日開催）資料一覧",
+      "link": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/proceedings/material/20261113zaiseia.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-13T07:00:00+00:00"
     },
     {
       "title": "【独自】タマホームの保険金不正請求問題で新展開､火災保険の新規販売停止措置を損保大手が検討 | ビジネス | 東洋経済オンライン",
@@ -1148,6 +1172,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-13T06:21:00+00:00"
+    },
+    {
+      "title": "Global Microsoft Outage",
+      "link": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
+      "summary": "Article URL: https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk\nComments URL: https://news.ycombinator.com/item?id=50479098\nPoints: 15\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T06:18:23+00:00"
     },
     {
       "title": "Microsoft races to restore services after global outage",
@@ -1204,6 +1236,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-13T05:10:27+00:00"
+    },
+    {
+      "title": "Microsoft Outlook/365 still down after 12 hours",
+      "link": "https://twitter.com/MSFT365Status/status/2121079061774491735",
+      "summary": "Article URL: https://twitter.com/MSFT365Status/status/2121079061774491735\nComments URL: https://news.ycombinator.com/item?id=50478609\nPoints: 26\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T05:08:23+00:00"
     },
     {
       "title": "アウトルック使用率6割強　大規模障害、今できることと日ごろの備え",
