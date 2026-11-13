@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T18:47:24.508300+00:00",
+  "generated_at": "2026-11-13T19:04:49.011588+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1058,9 +1058,45 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x78ec8c3bbe00>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x772dd52e01a0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "‘Strangely calming and unnerving’: How Microsoft’s massive outage upended the corporate workday",
+      "link": "https://www.marketwatch.com/story/strangely-calming-and-unnerving-how-microsofts-massive-outage-upended-the-corporate-workday-9a78d000?mod=mw_rss_topstories",
+      "summary": "A widespread Outlook outage delayed a corporate earnings report, and left users scrambling to submit their schoolwork or find alternate forms of communication.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-13T19:01:00+00:00"
+    },
+    {
+      "title": "What really happens during Medicare open enrollment? High stakes and lots of uncertainty.",
+      "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
+      "summary": "Open enrollment can bring unexpected challenges for seniors.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-13T18:59:00+00:00"
+    },
+    {
+      "title": "Comex Gold Ends the Week 4.55% Lower at $3879.70",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-in-technical-rebound-10e4e211?mod=rss_markets_main",
+      "summary": "Gold edged higher Friday, while silver settled down 1.9%. For the week, both metals posted losses.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-13T18:50:00+00:00"
+    },
+    {
+      "title": "Anthropic Chief Tells Jamie Dimon He Hopes IPO Will ‘Underpromise and Overdeliver’",
+      "link": "https://www.wsj.com/finance/anthropic-chief-tells-jamie-dimon-he-hopes-ipo-will-underpromise-and-overdeliver-1ba2dd71?mod=rss_markets_main",
+      "summary": "The artificial-intelligence giant, which is expected to begin trading Thursday, is targeting a valuation of roughly $1.33 trillion or more.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-13T18:46:00+00:00"
+    },
     {
       "title": "Microsoft points to ‘broad recovery and stability’ after widespread Outlook outage",
       "link": "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories",
@@ -1068,6 +1104,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-13T18:38:00+00:00"
+    },
+    {
+      "title": "Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker",
+      "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+      "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family’s financial ties to the chipmaker.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-11-13T18:32:47+00:00"
     },
     {
       "title": "Microsoft says services experiencing ‘broad recovery’ after global outage",
