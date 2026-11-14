@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:32:59.661193+00:00",
+  "generated_at": "2026-11-14T14:47:37.275475+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1104,6 +1104,38 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-14T14:09:25+00:00"
+    },
+    {
+      "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+      "link": "https://github.com/paul-nameless/agweb",
+      "summary": "Article URL: https://github.com/paul-nameless/agweb\nComments URL: https://news.ycombinator.com/item?id=50497147\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-14T14:08:12+00:00"
+    },
+    {
+      "title": "Show HN: Lampka – a Windows PDF reader whose dark mode keeps figures in colour",
+      "link": "https://lampka.app/",
+      "summary": "Article URL: https://lampka.app/\nComments URL: https://news.ycombinator.com/item?id=50497141\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-14T14:06:56+00:00"
+    },
+    {
+      "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+      "link": "https://github.com/FURSOY/fursoy-cpu",
+      "summary": "Article URL: https://github.com/FURSOY/fursoy-cpu\nComments URL: https://news.ycombinator.com/item?id=50497137\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-14T14:06:34+00:00"
+    },
+    {
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "link": "https://gitlab.com/snipedbywifi/terminactory",
+      "summary": "Hey HN readers!I'm snipedbywifi (https://gitlab.com/snipedbywifi), and i've been working on terminactory. Please try it out if you'd like to play a cozy factory game while waiting for long agent tasks to finish!The game is a factory game (overused niche, i know xD), but runs in your terminal. Reason i built it? glad you asked: So basically, it started off with me wanting a terminal-native factory game. Me and the modern 5.5 claude models made a base for the game that I liked, and then i went ham adding features / fixing some minor flaws (like adding claude code hooks so you recieve \"telegrams\" [the agent's responses], so you can review progress directly in-game). (yes, I had heavy AI assistance, disclaimer!!!)Right now, the game has basic factory features you'd expect from a game like this (build stuff, delete stuff, measure how much you're earning, basic selection tools), along with a few more.. \"unexpected\" features. This includes a fake in-game browser that has a wiki, fake forums, some fun bits of lore, some more lore, a LOT more lore, and a research graph that shows how many items or how much RP (research points) you'd need to unlock something, and some more QOL features.If anyone actually has this issue / want of a terminal-based game that runs alongside your agents so you don't doomscroll, do you have any suggestions, or additional ideas I could add?It's hosted on GitLab, soo, that's one additional thing i'd like to mentionThanks for reading!! snipedbywifi(p.s. first HN post lol)\n(p.s. p.s. there's a lot of hidden lore in the game, so.. lore-divers? you might like it?)\n\nComments URL: https://news.ycombinator.com/item?id=50497132\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-14T14:05:54+00:00"
     },
     {
       "title": "U.S. air travel could take days to recover after FAA’s lifting of rare nationwide ground stop",
