@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:17:35.872433+00:00",
+  "generated_at": "2026-11-14T14:32:59.661193+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1098,6 +1098,14 @@
       "published": "2026-11-14T14:17:30.247568+00:00"
     },
     {
+      "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+      "link": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+      "summary": "Article URL: https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/\nComments URL: https://news.ycombinator.com/item?id=50497155\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-14T14:09:25+00:00"
+    },
+    {
       "title": "U.S. air travel could take days to recover after FAA’s lifting of rare nationwide ground stop",
       "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
       "summary": "Homeland Security Secretary Markwayne Mullin says “zero evidence” of cyberattack, while high jet-fuel costs mean fewer flights available to travelers seeking to rebook.",
@@ -1114,12 +1122,28 @@
       "published": "2026-11-14T14:00:00+00:00"
     },
     {
+      "title": "Italy fines Meta $887M over Android users' data access",
+      "link": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+      "summary": "Article URL: https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/\nComments URL: https://news.ycombinator.com/item?id=50497009\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-14T13:48:06+00:00"
+    },
+    {
       "title": "Washington can start delivering on affordability by rejecting Trump’s tariffs",
       "link": "https://www.marketwatch.com/story/washington-can-start-delivering-on-affordability-by-rejecting-trumps-tariffs-8f2c76fd?mod=mw_rss_topstories",
       "summary": "Americans voted against policies that drove up their costs. Will policymakers ignore them?",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-14T13:30:00+00:00"
+    },
+    {
+      "title": "Advancing science and engineering with Antigravity's /teamwork",
+      "link": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "summary": "Article URL: https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/\nComments URL: https://news.ycombinator.com/item?id=50496811\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-14T13:20:43+00:00"
     },
     {
       "title": "遅咲き藤青雲、勢い十分　弟弟子と切磋琢磨―大相撲九州場所",
