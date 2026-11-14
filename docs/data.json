@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T05:05:18.542385+00:00",
+  "generated_at": "2026-11-14T05:17:59.211288+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1078,12 +1078,28 @@
   ],
   "items": [
     {
+      "title": "エヌビディア問題「話題にならない」　米中首脳会談前に米政府高官",
+      "link": "https://www.asahi.com/articles/ASVCG1DXJVCGUHBI011M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-14T05:17:52.876695+00:00"
+    },
+    {
       "title": "２人死亡ひき逃げで４９歳男逮捕　過失運転致死容疑―神奈川県警",
       "link": "https://www.jiji.com/jc/article?k=2026111400285&g=soc&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-14T04:18:49.057795+00:00"
+    },
+    {
+      "title": "Run Cloudflare Workers Anywhere",
+      "link": "https://openorange.dev/",
+      "summary": "Article URL: https://openorange.dev/\nComments URL: https://news.ycombinator.com/item?id=50493731\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-14T03:58:32+00:00"
     },
     {
       "title": "全米の航空機、一時離陸停止　通信障害か、数時間後に解除",
