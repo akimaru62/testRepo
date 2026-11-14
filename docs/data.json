@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T18:17:49.202132+00:00",
+  "generated_at": "2026-11-14T18:33:13.897926+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1082,6 +1082,14 @@
   ],
   "items": [
     {
+      "title": "The VHDL standard's float package gets sqrt(2) wrong",
+      "link": "https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg",
+      "summary": "Article URL: https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg\nComments URL: https://news.ycombinator.com/item?id=50499188\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-14T17:58:58+00:00"
+    },
+    {
       "title": "The lonely labor of caregiving: ‘You shouldn’t have to be rich to take care of the people you love’",
       "link": "https://www.marketwatch.com/story/if-you-could-change-one-thing-about-caregiving-what-would-it-be-8b20be29?mod=mw_rss_topstories",
       "summary": "“Take Me Home” offers a view of how one family faces caregiving issues and finds solutions.",
@@ -1104,6 +1112,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-14T17:43:10+00:00"
+    },
+    {
+      "title": "Will We Put Data Centers in Space?",
+      "link": "https://www.forethought.org/research/will-we-really-put-data-centers-in-space",
+      "summary": "Article URL: https://www.forethought.org/research/will-we-really-put-data-centers-in-space\nComments URL: https://news.ycombinator.com/item?id=50498945\nPoints: 4\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-14T17:35:33+00:00"
     },
     {
       "title": "米軍大尉、酒気帯び容疑で逮捕　未明の自宅外での飲酒禁止中―沖縄県警",
