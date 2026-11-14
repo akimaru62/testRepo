@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T08:05:51.547315+00:00",
+  "generated_at": "2026-11-14T08:19:17.936170+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1074,9 +1074,29 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7cb1823d02f0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "飯島宏明が単独首位守る　シニアゴルフ",
+      "link": "https://www.jiji.com/jc/article?k=2026111400339&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-14T08:19:14.028067+00:00"
+    },
+    {
+      "title": "日本、全勝で決勝進出　１６得点、豪州にコールド勝ち―アジアプロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026111400334&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-14T08:19:14.028022+00:00"
+    },
     {
       "title": "大規模障害が全面復旧　顧客に混乱「深く謝罪」―米マイクロソフト",
       "link": "https://www.jiji.com/jc/article?k=2026111400326&g=int&m=rss",
