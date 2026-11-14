@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T19:03:55.083959+00:00",
+  "generated_at": "2026-11-14T19:17:29.186477+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1082,6 +1082,22 @@
   ],
   "items": [
     {
+      "title": "山口茜、渡辺航貴ら決勝進出　バドミントン",
+      "link": "https://www.jiji.com/jc/article?k=2026111400410&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-14T19:17:24.525464+00:00"
+    },
+    {
+      "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+      "link": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
+      "summary": "Article URL: https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379\nComments URL: https://news.ycombinator.com/item?id=50499723\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-14T18:56:47+00:00"
+    },
+    {
       "title": "The VHDL standard's float package gets sqrt(2) wrong",
       "link": "https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg",
       "summary": "Article URL: https://github.com/lmtlssss/speedrunpapi/tree/main/hardware/audit/ieee-float-pkg\nComments URL: https://news.ycombinator.com/item?id=50499188\nPoints: 4\n# Comments: 0",
@@ -1104,6 +1120,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-14T17:50:00+00:00"
+    },
+    {
+      "title": "US IRS free online tax filing open source repo",
+      "link": "https://github.com/IRS-Public/direct-file",
+      "summary": "Article URL: https://github.com/IRS-Public/direct-file\nComments URL: https://news.ycombinator.com/item?id=50499083\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-14T17:48:20+00:00"
     },
     {
       "title": "A Family Tree of Software Job Titles",
