@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T01:34:29.527504+00:00",
+  "generated_at": "2026-11-14T01:47:42.518747+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1070,9 +1070,29 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "502 Server Error: Bad Gateway for url: https://hnrss.org/frontpage"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "１９日に米中ロ首脳会談　史上初、核軍縮やイラン協議―ウクライナ取り上げず・米高官",
+      "link": "https://www.jiji.com/jc/article?k=2026111400226&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-14T01:47:29.245924+00:00"
+    },
+    {
+      "title": "ニデック、半期報告書の提出延期を検討　会計処理の作業に遅れ",
+      "link": "https://www.asahi.com/articles/ASVCG0F4FVCGPLFA001M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-14T01:47:28.810310+00:00"
+    },
     {
       "title": "「銀だこ」曲がり角 赤字転落なぜ",
       "link": "https://news.yahoo.co.jp/pickup/6602520?source=rss",
@@ -1130,6 +1150,14 @@
       "published": "2026-11-14T01:17:23.619821+00:00"
     },
     {
+      "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
+      "link": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
+      "summary": "Article URL: https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html\nComments URL: https://news.ycombinator.com/item?id=50492456\nPoints: 24\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-14T01:10:22+00:00"
+    },
+    {
       "title": "Hawaii DOT: All West Coast flights halted by SpaceX debris after FAA ground stop",
       "link": "https://www.hawaiinewsnow.com/2026/11/14/dot-all-west-coast-flights-halted-by-spacex-debris-after-faa-ground-stop/",
       "summary": "Article URL: https://www.hawaiinewsnow.com/2026/11/14/dot-all-west-coast-flights-halted-by-spacex-debris-after-faa-ground-stop/\nComments URL: https://news.ycombinator.com/item?id=50492450\nPoints: 21\n# Comments: 2",
@@ -1184,6 +1212,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-14T00:45:45+00:00"
+    },
+    {
+      "title": "Show HN: Light control for MacBook charger status light (open-source)",
+      "link": "https://github.com/Getterbetter/ember/releases/tag/v1.0.1",
+      "summary": "For anyone who wants to control their MacBook charger light. For me, my MacBook lives in my bedroom most nights on charge and the light is quite bright. Config allows on/off automation with time, focus status, or persistently on/off. Open to features / suggestions via Github\n\nComments URL: https://news.ycombinator.com/item?id=50492269\nPoints: 5\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-14T00:44:58+00:00"
     },
     {
       "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
