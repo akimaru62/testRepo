@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T02:07:29.860666+00:00",
+  "generated_at": "2026-11-14T02:21:16.478095+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1078,6 +1078,22 @@
   ],
   "items": [
     {
+      "title": "西郷真央、勝みなみが４位　米女子ゴルフ",
+      "link": "https://www.jiji.com/jc/article?k=2026111400254&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-14T02:21:12.877900+00:00"
+    },
+    {
+      "title": "大規模障害、復旧進む　根本原因は対処―米マイクロソフト",
+      "link": "https://www.jiji.com/jc/article?k=2026111400263&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-14T02:21:12.877843+00:00"
+    },
+    {
       "title": "ニデック半期報告書 提出延期検討",
       "link": "https://news.yahoo.co.jp/pickup/6602523?source=rss",
       "summary": "",
@@ -1100,6 +1116,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-14T02:00:00+00:00"
+    },
+    {
+      "title": "US aviation regulator lifts order that grounded thousands of flights",
+      "link": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
+      "summary": "Airports had halted take-offs because of a temporary ‘telecommunications outage’",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-14T01:57:52+00:00"
     },
     {
       "title": "１９日に米中ロ首脳会談　史上初、核軍縮やイラン協議―ウクライナ取り上げず・米高官",
@@ -1308,6 +1332,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-14T00:12:59.589117+00:00"
+    },
+    {
+      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+      "link": "https://unsloth.ai/docs/models/qwen3.8",
+      "summary": "Article URL: https://unsloth.ai/docs/models/qwen3.8\nComments URL: https://news.ycombinator.com/item?id=50491980\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-14T00:06:04+00:00"
     },
     {
       "title": "First Strike",
