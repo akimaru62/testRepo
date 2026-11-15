@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T07:33:34.806576+00:00",
+  "generated_at": "2026-11-15T07:47:26.957247+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1184,6 +1184,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-15T06:08:04.314644+00:00"
+    },
+    {
+      "title": "Disk encryption on NetBSD – achieving secrecy",
+      "link": "https://netbsd.org/~nia/disk-encrypt/",
+      "summary": "Article URL: https://netbsd.org/~nia/disk-encrypt/\nComments URL: https://news.ycombinator.com/item?id=50504277\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-15T05:29:54+00:00"
     },
     {
       "title": "スペースＸのスターシップが帰還、「完全回収」はならず　本体は計画通り「キャッチ」",
