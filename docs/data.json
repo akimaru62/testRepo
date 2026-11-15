@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T19:17:46.244612+00:00",
+  "generated_at": "2026-11-15T19:32:58.042818+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1102,12 +1102,28 @@
   ],
   "items": [
     {
+      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+      "link": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1",
+      "summary": "Tech supporters lobby chipmaker’s board to reinstate former CEO after he resigned following affair with alleged Chinese spy",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-15T19:03:41+00:00"
+    },
+    {
       "title": "Eclipse Mosquitto – An open source MQTT broker",
       "link": "https://github.com/eclipse-mosquitto/mosquitto",
       "summary": "Article URL: https://github.com/eclipse-mosquitto/mosquitto\nComments URL: https://news.ycombinator.com/item?id=50509416\nPoints: 3\n# Comments: 0",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-15T18:36:40+00:00"
+    },
+    {
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "link": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+      "summary": "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html\nComments URL: https://news.ycombinator.com/item?id=50509411\nPoints: 18\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-15T18:36:10+00:00"
     },
     {
       "title": "Diamondback nears $5bn deal to expand drilling in oil-rich Permian Basin",
