@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T20:47:30.944541+00:00",
+  "generated_at": "2026-11-15T21:04:11.817943+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1098,9 +1098,85 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7e01f96c4440>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "信金･信組｢実質自己資本比率｣ワーストランキング…巨額含み損で31先が最低所要水準4％割れ､株式含み益の有無で明暗 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964713?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "規制上の自己資本比率は健全に見えても、保有する国債などの含み損（評価損）を反映すると、一転して危険水域に――。全国の信用金庫・信用組合が、巨額の含み損処理という難題に直面している。その主な原因は、過…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-15T21:00:00+00:00"
+    },
+    {
+      "title": "ギャル系ブランド｢ANAP｣の経営混乱に透けるアパレルの苦悩…調査報告書が明らかにした\"ガバナンス不全\"の実態 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964627?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "平成の時代を駆け抜けたギャル系ブランドは、再起できるのか。アパレルブランド「ANAP」を展開するANAPホールディングス（HD）は10月23日、2025年8月期に買収事業の減損損失を計上した経緯をめ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-15T21:00:00+00:00"
+    },
+    {
+      "title": "【独自検証】アクセンチュアと会津若松のタッグは成功か失敗か…｢スマートシティ15年史｣が突きつける地域DXのリアル | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964402?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "総合コンサル大手のアクセンチュアが、15年という年月をかけて取り組むプロジェクトがある。福島県会津若松市におけるスマートシティ構想だ。2011年3月の東日本大震災発生後、アクセンチュアは被災地支援に…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-15T21:00:00+00:00"
+    },
+    {
+      "title": "頭金0円で渋谷に家を買い､1200万円かけて\"超パステル部屋\"にリノベ―30代男性が語る｢もっと自分にうぬぼれていい｣ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964396?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "カワイイを追求し､築約50年のマンションを1200万円かけてドリーミーにリノベした30代プロダクトマネージャーのひとり暮らし。個性的な空間の裏には､SNSと原宿カルチャーに影響を受けた人生観がありま…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-15T21:00:00+00:00"
+    },
+    {
+      "title": "スーパーが食料品減税を歓迎しない理由…｢2年間で4度揺れる消費｣で直面する難しい経営判断 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964367?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "「食料品が減税分そのまま安くなるのなら、家計にとっては大助かりだ」。10月下旬、東京都中野区のスーパーで買い物をしていた女性（46）は期待を口にした。物価高を受け、自宅近くの店だけでなく、多少遠くて…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-15T21:00:00+00:00"
+    },
+    {
+      "title": "｢高知で養殖カンパチが大量死｣衝撃被害で冬の食卓はどうなる…サンマ､秋鮭､カキも不漁\"何かがおかしい\"漁業危機の恐怖 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964727?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "高知県須崎市の野見湾で発生したカンパチ大量死は､白点病による大規模な被害となり､養殖産業や地域経済に深刻な影響を及ぼしています。天然･養殖問わず､海の異変が食卓の｢季節感｣さえ脅かす今､私たちにでき…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-15T20:45:00+00:00"
+    },
+    {
+      "title": "AI使用を拒むアメリカの学校にグーグルが\"究極の脅し\" 教育関係者は子どものAIへの関わり方をコントロールしたいが… | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964618?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "グーグルは、学校の管理者がAIツールの利用を明示的に認めない限り、アメリカの小・中・高等学校で広く使われている同社のソフトウェアで来年初めからAIツールを無効にすると11月3日に発表した。同社幹部は…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-15T20:45:00+00:00"
+    },
+    {
+      "title": "分断が進む世界でのエネルギー需要の見通しは？､石油･ガス大手シェルの専門家が語る｢3つのシナリオ｣とその読み解き | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964567?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "──シェルは今年1月、「The 2026 Energy Security Scenarios──Challenges to the transition（2026年エネルギー安全保障シナリオ──トラ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-15T20:45:00+00:00"
+    },
+    {
+      "title": "〈撤退･赤字事業の技術を結集〉新しい\"カシオらしさ\"を体現するAIロボットやイヤホンでつかんだ再成長への手応え | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964214?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "AIペットロボットの｢モフリン｣や､聞こえづらさを解消するカフ型イヤホン｢earU｣。カシオ計算機は､事業撤退や縮小を経た技術を新商品へ転用し､成熟市場からの脱却を図っています。数々の事業からの撤退…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-15T20:45:00+00:00"
+    },
     {
       "title": "エヌビディア､不倫問題だけでは見えないアリス･フアンの驚きの正体…中国で2.4兆円規模のデータセンター投資の新事実 | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/964820?utm_source=rss&utm_medium=http&utm_campaign=link_back",
