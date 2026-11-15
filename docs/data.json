@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T06:08:08.790298+00:00",
+  "generated_at": "2026-11-15T06:23:59.030168+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1082,9 +1082,61 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://www.asahi.com/rss/asahi/business.rdf",
+      "error": "403 Client Error: Forbidden for url: https://www.asahi.com/rss/asahi/business.rdf"
     }
   ],
   "items": [
+    {
+      "title": "桑木志帆が優勝、初の年間女王　伊藤園女子ゴルフ",
+      "link": "https://www.jiji.com/jc/article?k=2026111500157&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-15T06:23:55.489348+00:00"
+    },
+    {
+      "title": "金正恩氏の最側近がモスクワ入り　中ロと連携強化―北朝鮮代表団",
+      "link": "https://www.jiji.com/jc/article?k=2026111500161&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-15T06:23:55.489340+00:00"
+    },
+    {
+      "title": "死亡女児、あざ５０カ所以上　母「夫が暴力」、逮捕前の聴取に―虐待常態化か・大阪府警",
+      "link": "https://www.jiji.com/jc/article?k=2026111500166&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-15T06:23:55.489329+00:00"
+    },
+    {
+      "title": "イタリア、次期戦闘機開発へのドイツ参画に「反対」　オブザーバーを提案―報道",
+      "link": "https://www.jiji.com/jc/article?k=2026111500070&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-15T06:23:55.489314+00:00"
+    },
+    {
+      "title": "「ＮＡＴＯ加盟と引き換えにドンバス撤退を」　米から打診とゼレンスキー氏",
+      "link": "https://www.jiji.com/jc/article?k=2026111500163&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-15T06:23:55.489276+00:00"
+    },
+    {
+      "title": "東京自由が丘「らしさ」消えた?",
+      "link": "https://news.yahoo.co.jp/pickup/6602670?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-15T06:15:25+00:00"
+    },
     {
       "title": "今平周吾、２年ぶりＶで１１勝目　最終日は濃霧で中止―ＶＩＳＡ太平洋ゴルフ",
       "link": "https://www.jiji.com/jc/article?k=2026111500130&g=spo&m=rss",
