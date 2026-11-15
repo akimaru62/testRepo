@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T06:36:34.411518+00:00",
+  "generated_at": "2026-11-15T06:47:20.092255+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -5736,6 +5736,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-13T05:33:22.655533+00:00"
+    },
+    {
+      "title": "Memory Safety Bugs in Rust Standard Library",
+      "link": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
+      "summary": "Article URL: https://forge-blog.github.io/posts/rust-std-memory-safety/\nComments URL: https://news.ycombinator.com/item?id=50478701\nPoints: 42\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-13T05:22:08+00:00"
     },
     {
       "title": "日米協調の7月円買い介入、米政府は794億円　日本側の1.4%",
