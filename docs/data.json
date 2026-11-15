@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T16:05:25.461280+00:00",
+  "generated_at": "2026-11-15T16:17:50.047583+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1090,9 +1090,37 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "松山市長選で、中野泰誠（なかの・たいせい）氏の初当選が確実となった",
+      "link": "https://www.jiji.com/jc/article?k=2026111500379&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-15T16:17:38.228430+00:00"
+    },
+    {
+      "title": "首里城正殿、内部を報道公開　令和の復元、装飾新たに―沖縄",
+      "link": "https://www.jiji.com/jc/article?k=2026111600002&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-15T16:17:38.228412+00:00"
+    },
+    {
+      "title": "松山市長に中野泰誠氏初当選　１６年ぶり新人対決制す",
+      "link": "https://www.jiji.com/jc/article?k=2026111500380&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-15T16:17:38.228377+00:00"
+    },
     {
       "title": "Emacs Is My Browser",
       "link": "https://joshblais.com/blog/emacs-as-my-browser/",
