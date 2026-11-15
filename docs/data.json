@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T19:04:10.431143+00:00",
+  "generated_at": "2026-11-15T19:17:46.244612+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1101,6 +1101,14 @@
     }
   ],
   "items": [
+    {
+      "title": "Eclipse Mosquitto – An open source MQTT broker",
+      "link": "https://github.com/eclipse-mosquitto/mosquitto",
+      "summary": "Article URL: https://github.com/eclipse-mosquitto/mosquitto\nComments URL: https://news.ycombinator.com/item?id=50509416\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-15T18:36:40+00:00"
+    },
     {
       "title": "Diamondback nears $5bn deal to expand drilling in oil-rich Permian Basin",
       "link": "https://www.ft.com/content/a56fc76f-af32-45b2-8ae1-d5e211cb9643?syn-25a6b1a6=1",
