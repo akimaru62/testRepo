@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T02:07:30.261031+00:00",
+  "generated_at": "2026-11-15T02:22:05.040305+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1078,9 +1078,21 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7cb1823d02f0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "遺産相続の主導権狙う、きょうだい間の「親の囲い込み」　使い込みも",
+      "link": "https://www.asahi.com/articles/ASVC411ZXVC4ULLI005M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-15T02:21:53.383555+00:00"
+    },
     {
       "title": "寒い夜は火鍋に挑戦！家でできるレシピを漢方薬剤師が紹介　いつもの鍋にもひと工夫\"冷えと乾燥から体を守る\"食材9選 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/964549?utm_source=rss&utm_medium=http&utm_campaign=link_back",
