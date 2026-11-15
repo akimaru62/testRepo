@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T16:17:50.047583+00:00",
+  "generated_at": "2026-11-15T16:33:02.670375+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1120,6 +1120,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-15T16:17:38.228377+00:00"
+    },
+    {
+      "title": "Show HN: A tiny macOS app that turns off the MacBook display [free license]",
+      "link": "https://blackoutapp.io/",
+      "summary": "Hi, I made a tiny app that lets you turn off the MacBook screen when you work on external monitors.It does NOT just dim the brightness to zero, the screen is actually turned off via the Apple hardware API, the according desktop is removed, so you have a clean \"one big monitor\" setup.- Safe fallback if you turn off the external monitor(s), unplug the monitor cable(s), the app crashes or anything else happens. \n- Keyboard, touchpad and TouchID still work fine.\n- Automatic restart. 2 Megabyte size.\n- Totally niche, I know, but it helps me to concentrate.The app is commercial ($9 once), but everybody who DMs me here gets a *FREE* lifetime license, and everybody who uses in the feedback form (to report if the apps works on your setup) gets a free lifetime license too.Thanks ;)https://blackoutapp.io\n\nComments URL: https://news.ycombinator.com/item?id=50507722\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-15T15:37:52+00:00"
     },
     {
       "title": "Emacs Is My Browser",
