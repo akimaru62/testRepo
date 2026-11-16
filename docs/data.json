@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T17:47:37.066870+00:00",
+  "generated_at": "2026-11-16T18:06:32.629188+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1114,9 +1114,45 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7299462d4ad0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "AWS Weekly Roundup: AWS Nitro Sandboxes, AWS Emulator, and more (November 16, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-nitro-sandboxes-aws-emulator-and-more-november-16-2026/",
+      "summary": "A second delivery of the same message can reveal more about an application than its happy-path demo. I like tools that make those cases easier to investigate while a change is still small. Last week’s launch of AWS Emulator brings part of that work onto your own machine: developers and coding agents can exercise AWS […]",
+      "source": "AWS ブログ (AWS)",
+      "category": "テクノロジー",
+      "published": "2026-11-16T17:55:46+00:00"
+    },
+    {
+      "title": "Major U.S. Stock Indexes Slide as Nvidia Fallout Continues to Ripple Through Markets",
+      "link": "https://www.wsj.com/finance/investing/stock-futures-slip-ahead-of-pivotal-week-for-ai-trade-with-nvidia-anthropic-in-focus-c1768330?mod=rss_markets_main",
+      "summary": "Tech stocks led markets lower as the fallout from a spying scandal at Nvidia continued to unfold.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-16T17:55:00+00:00"
+    },
+    {
+      "title": "How will AI shake up the economy? Warsh says the Fed is starting to figure that out.",
+      "link": "https://www.marketwatch.com/story/how-will-ai-shake-up-the-economy-warsh-says-the-fed-is-starting-to-figure-that-out-a72f80c4?mod=mw_rss_topstories",
+      "summary": "The Federal Reserve staff is in the early days of developing various scenarios of how artificial intelligence’s growing role in business and daily life will impact the economy, Fed Chairman Kevin Warsh said Monday.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-16T17:53:00+00:00"
+    },
+    {
+      "title": "Nvidia board not considering reinstating Jensen Huang as chief executive",
+      "link": "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1",
+      "summary": "Co-founder of chipmaker resigned following extramarital affair with executive at Singapore-based customer",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-16T17:47:11+00:00"
+    },
     {
       "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
       "link": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
