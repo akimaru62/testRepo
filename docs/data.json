@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T22:17:33.714522+00:00",
+  "generated_at": "2026-11-16T22:33:17.106007+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1146,9 +1146,21 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "世界限定99台､価格は約3500万円…創業家が手がける\"最後のアルピナ\"｢BMW ALPINA B8 GT｣を走らせてわかったこと | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964020?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "1965年創業のアルピナがBMW傘下となり､｢BMWアルピナ｣として再出発の節目を迎えた今､最終仕様として世界限定99台で発売された｢B8 GT｣。最後のアルピナは何が違うのか､走らせてわかった真実…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-16T22:30:00+00:00"
+    },
     {
       "title": "米大統領、フアン氏復帰「異議ない」　エヌビディア前ＣＥＯ",
       "link": "https://www.jiji.com/jc/article?k=2026111700173&g=int&m=rss",
@@ -1180,6 +1192,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-16T22:17:28.282554+00:00"
+    },
+    {
+      "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+      "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+      "summary": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-11-16T22:14:47+00:00"
     },
     {
       "title": "｢もう受験が終わった子｣と｢これからが本番の子｣が同じ教室に…親の常識が通じない大学入試\"三極化\"の正体 | ライフ | 東洋経済オンライン",
@@ -1793,6 +1813,14 @@
       "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
       "link": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
       "summary": "Article URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda\nComments URL: https://news.ycombinator.com/item?id=50521045\nPoints: 202\n# Comments: 97",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T18:31:30+00:00"
+    },
+    {
+      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+      "link": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+      "summary": "Article URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda\nComments URL: https://news.ycombinator.com/item?id=50521045\nPoints: 628\n# Comments: 480",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-16T18:31:30+00:00"
