@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T23:33:22.771304+00:00",
+  "generated_at": "2026-11-16T23:47:32.857653+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1158,6 +1158,14 @@
   ],
   "items": [
     {
+      "title": "United Airlines resolves system outage that delayed flights Monday",
+      "link": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories",
+      "summary": "The outage came just days after an FAA ground stop disrupted air travel nationally.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-16T23:42:00+00:00"
+    },
+    {
       "title": "ＥＵ、「ロシアで最も裕福な女性」に制裁　１１３個人・団体を追加指定",
       "link": "https://www.jiji.com/jc/article?k=2026111700215&g=int&m=rss",
       "summary": "",
@@ -1166,12 +1174,28 @@
       "published": "2026-11-16T23:33:16.867926+00:00"
     },
     {
+      "title": "｢月々1万円以下なら｣に脳がだまされるサブスクのカラクリ…一括払いより｢年6000円高い｣のに､月額払いを選んでいる人も | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963205?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "月額980円なら手軽に感じても､年間総額を見ると高く感じる――この不思議な心理の裏には､行動経済学が指摘する｢脳のクセ｣が潜んでいます。なぜ私たちは月額表示だと支出への抵抗が薄れるのでしょうか？サブ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-16T23:30:00+00:00"
+    },
+    {
       "title": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
       "link": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories",
       "summary": "Druckenmiller’s family office unloaded AMD and Sandisk shares in the third quarter.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-16T23:28:00+00:00"
+    },
+    {
+      "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
+      "link": "https://github.com/0nelight/sutra-os",
+      "summary": "Article URL: https://github.com/0nelight/sutra-os\nComments URL: https://news.ycombinator.com/item?id=50525052\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T23:25:41+00:00"
     },
     {
       "title": "ＥＵ、ロシアの「最も裕福な女性」に制裁　１１３個人・団体を追加指定",
@@ -1236,6 +1260,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-16T23:00:00+00:00"
+    },
+    {
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "summary": "Article URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/\nComments URL: https://news.ycombinator.com/item?id=50524736\nPoints: 18\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T22:58:20+00:00"
     },
     {
       "title": "US will say \"no\" to global ban on killer robots",
