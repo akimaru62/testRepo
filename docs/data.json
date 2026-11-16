@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T19:47:43.080929+00:00",
+  "generated_at": "2026-11-16T20:05:46.505880+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1122,9 +1122,29 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x792ed21b4ad0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "Announcing updates to the AWS Well-Architected Framework",
+      "link": "https://aws.amazon.com/blogs/architecture/announcing-updates-to-the-aws-well-architected-framework-3/",
+      "summary": "Updates to the AWS Well-Architected Framework reorganize it into Well-Architected Cloud Foundations and Well-Architected Cloud Workloads, add new best practices, and bring the general availability of the AWS Well-Architected Agent for analyzing workloads and guiding remediation.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-11-16T20:03:26+00:00"
+    },
+    {
+      "title": "住民が株と配当で稼いでいる自治体ランキング…5位は愛知県名古屋市､4位は東京都世田谷区､ではトップ3は？ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964970?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "株式の売却益や配当所得が最も多い自治体はどこか――最新の総務省データに基づきランキングを作成しました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-16T20:00:00+00:00"
+    },
     {
       "title": "Bond-market volatility is exploding higher. It could be the new normal for investors.",
       "link": "https://www.marketwatch.com/story/bond-market-volatility-is-exploding-higher-it-could-be-the-new-normal-for-investors-7c24a763?mod=mw_rss_topstories",
@@ -1156,6 +1176,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-16T19:30:00+00:00"
+    },
+    {
+      "title": "How to Intercept HTTP/3 Traffic: QUIC and Qpack",
+      "link": "https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/",
+      "summary": "Article URL: https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/\nComments URL: https://news.ycombinator.com/item?id=50521870\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T19:29:17+00:00"
     },
     {
       "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
@@ -1244,6 +1272,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-16T18:12:48+00:00"
+    },
+    {
+      "title": "FBI says Artex AI open-source hacking tool used to breach networks",
+      "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "summary": "Article URL: https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/\nComments URL: https://news.ycombinator.com/item?id=50520796\nPoints: 16\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T18:12:21+00:00"
     },
     {
       "title": "Show HN: Fakemetrics.com – \"build in public\" like a superstar",
@@ -1340,6 +1376,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-16T17:27:46+00:00"
+    },
+    {
+      "title": "How Billions in Safe Insurance Money Is Being Bet on A.I. Debt",
+      "link": "https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html\nComments URL: https://news.ycombinator.com/item?id=50520148\nPoints: 23\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T17:25:35+00:00"
     },
     {
       "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
