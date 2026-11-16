@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T22:05:09.109345+00:00",
+  "generated_at": "2026-11-16T22:17:33.714522+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1142,9 +1142,45 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "米大統領、フアン氏復帰「異議ない」　エヌビディア前ＣＥＯ",
+      "link": "https://www.jiji.com/jc/article?k=2026111700173&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-16T22:17:28.282603+00:00"
+    },
+    {
+      "title": "米中ロ、共同コミュニケ発表へ　ロシア高官「大戦で同盟関係」―米ロ会談実施、１８日は中ロも",
+      "link": "https://www.jiji.com/jc/article?k=2026111700161&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-16T22:17:28.282596+00:00"
+    },
+    {
+      "title": "ＡＩ導入、金融政策に影響　生産性期待もリスク警戒―米ＦＲＢ議長",
+      "link": "https://www.jiji.com/jc/article?k=2026111700169&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-16T22:17:28.282584+00:00"
+    },
+    {
+      "title": "トランプ氏「正恩氏と会談するかも」　「習主席次第」、ロシアも同調",
+      "link": "https://www.jiji.com/jc/article?k=2026111700165&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-16T22:17:28.282554+00:00"
+    },
     {
       "title": "｢もう受験が終わった子｣と｢これからが本番の子｣が同じ教室に…親の常識が通じない大学入試\"三極化\"の正体 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/964551?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -1242,7 +1278,23 @@
       "published": "2026-11-16T21:30:00+00:00"
     },
     {
+      "title": "OpenCode Browse",
+      "link": "https://opencode.ai/product/browse",
+      "summary": "Article URL: https://opencode.ai/product/browse\nComments URL: https://news.ycombinator.com/item?id=50523459\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T21:20:37+00:00"
+    },
+    {
       "title": "Chevron nears $5bn deal for Blackstone-backed oil group in US Gulf",
+      "link": "https://www.ft.com/content/92e1c14a-f836-40b0-8d9e-0ed1c1d2fea9?syn-25a6b1a6=1",
+      "summary": "Oil major pulls ahead of rival bidders for Beacon Offshore Energy as it expands deepwater production",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-16T21:20:03+00:00"
+    },
+    {
+      "title": "Chevron nears $5bn deal for Blackstone-backed oil producer in US Gulf",
       "link": "https://www.ft.com/content/92e1c14a-f836-40b0-8d9e-0ed1c1d2fea9?syn-25a6b1a6=1",
       "summary": "Oil major pulls ahead of rival bidders for Beacon Offshore Energy as it expands deepwater production",
       "source": "Financial Times",
@@ -1304,6 +1356,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-16T21:16:00+00:00"
+    },
+    {
+      "title": "Optimizely Compromised",
+      "link": "https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/",
+      "summary": "Article URL: https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/\nComments URL: https://news.ycombinator.com/item?id=50523300\nPoints: 23\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T21:08:38+00:00"
     },
     {
       "title": "My Quest to push native Three.js quality match AAA Game Engines",
@@ -1488,6 +1548,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-16T20:45:00+00:00"
+    },
+    {
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "link": "https://www.cs.cmu.edu/learn/",
+      "summary": "Article URL: https://www.cs.cmu.edu/learn/\nComments URL: https://news.ycombinator.com/item?id=50522980\nPoints: 39\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T20:43:36+00:00"
     },
     {
       "title": "The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled.",
