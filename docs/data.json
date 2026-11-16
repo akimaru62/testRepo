@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T21:17:54.912590+00:00",
+  "generated_at": "2026-11-16T21:33:37.823707+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1138,9 +1138,21 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "｢明日までにもう一案！｣無茶振りに上司に限界…真面目社員が下した\"禁断の決断\"と翌朝のまさかの\"豹変\" | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964289?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "真面目で仕事はできるものの、“何かがどうしようもなくズレている”若手社員、真締真一（まじめ・しんいち）。その教育係に任命された先輩の柔木美和（やわらき・みわ）は、彼に何かと翻弄される毎日を送っていま…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-16T21:30:00+00:00"
+    },
     {
       "title": "ＥＵ、日本製冷延鋼板に反ダンピング関税　１７日から、５カ国・地域対象",
       "link": "https://www.jiji.com/jc/article?k=2026111700150&g=int&m=rss",
@@ -1188,6 +1200,22 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-16T21:17:50.336995+00:00"
+    },
+    {
+      "title": "Customers of Chase, Bank of America and other U.S. banks report service outages",
+      "link": "https://www.marketwatch.com/story/customers-of-chase-bank-of-america-and-other-u-s-banks-report-service-outages-18fe23b8?mod=mw_rss_topstories",
+      "summary": "Some customers are saying they can’t access their accounts or their unable to withdraw funds.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-16T21:16:00+00:00"
+    },
+    {
+      "title": "My Quest to push native Three.js quality match AAA Game Engines",
+      "link": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
+      "summary": "Article URL: https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs\nComments URL: https://news.ycombinator.com/item?id=50523291\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T21:07:43+00:00"
     },
     {
       "title": "受診遅れで2日後死亡…月収5万円の男性が陥った盲点　中間層世帯も\"治療費を払えない\"？　内科医が教える《相談先》 | ライフ | 東洋経済オンライン",
@@ -1276,6 +1304,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-16T20:49:00+00:00"
+    },
+    {
+      "title": "OpenAI sued by California over 80 ‘loss of control’ incidents",
+      "link": "https://www.ft.com/content/1e18af77-d434-4871-81cc-b0e74a0e97bd?syn-25a6b1a6=1",
+      "summary": "State’s attorney-general claims hacking by rogue AI models is the ‘predictable result of an internal culture that prioritises growth over safety’",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-16T20:48:37+00:00"
     },
     {
       "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
@@ -1396,6 +1432,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-16T20:25:00+00:00"
+    },
+    {
+      "title": "Chemistry Is Geometry",
+      "link": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+      "summary": "Article URL: https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry\nComments URL: https://news.ycombinator.com/item?id=50522643\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T20:22:18+00:00"
     },
     {
       "title": "Chevron nears roughly $5bn deal for Blackstone-backed oil producer in US gulf",
