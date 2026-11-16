@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T20:32:56.637837+00:00",
+  "generated_at": "2026-11-16T20:47:50.101881+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1126,9 +1126,53 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "‘So sad, and so true’: Has your family talked about SNL’s ‘Sister’ sketch yet?",
+      "link": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
+      "summary": "The late-night comedy sketch does the impossible by making female caregivers feel seen.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-16T20:46:00+00:00"
+    },
+    {
+      "title": "The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled.",
+      "link": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
+      "summary": "The regulator told Summit Therapeutics that the lung-cancer drug needs to prove it can help people live longer.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-16T20:41:00+00:00"
+    },
+    {
+      "title": "《個人情報流出》｢60日経過で泣き寝入り!?｣ クレカが\"闇リスト\"入りも…悪用される前にやりたいたった2つの対策 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964653?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "個人情報漏洩が2億6000万人分──自身も被害者かもしれない現実に､ただパスワードを変えるだけでは安心できません。不正利用は巧妙化し､低額決済やフィッシングも横行。いま必要なのは｢気づく仕組み｣と賢…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-16T20:30:00+00:00"
+    },
+    {
+      "title": "Oil Prices Retreat as Market Digests Global Surplus Expectations",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-rise-as-fresh-attacks-renew-middle-east-supply-concerns-bee22d97?mod=rss_markets_main",
+      "summary": "Oil prices fell as traders weighed expectations of a global supply surplus against renewed threats to Middle Eastern oil shipments.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-16T20:30:00+00:00"
+    },
+    {
+      "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+      "link": "https://news.ycombinator.com/item?id=50522776",
+      "summary": "Hi HN! We’re Arsh and Max, founders of Axonnic (https://axonnic.com). We’ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, while leaving the hands bare. It’s used to record human movement and generate training data for dextrous robots.Here’s a demo video: https://youtube.com/shorts/xBrocTc9cfAWe’ve found that electromyography (EMG) is a much better way to train robots than by video alone because video only captures movement, not muscle activity or the effort behind the movement. A useful signal can be present even when the hand barely moves; just maintaining a grip involves muscle activation. The subtle muscle movements that can barely be picked up in video are the most important details for activities like sewing and delicate assembly.The sleeve has 64 channels of surface electromyography, or EMG. Electrodes on the skin detect electrical activity from muscles in the forearm. We distribute sensors across the forearm so as to not overfit to one muscle group. We synchronize EMG with hand tracking to train a model that predicts finger joint angles, then we run the decoder solely from EMG, adding in fingertip force estimates that have been calibrated from finger presses on force sensors.When the user takes the sleeve off then puts it back on again, the electrode positions change, so we run tests over separate wearings. In one case, we ran a 215-second recording, four days after training, without any recalibration, and compared the results with Apple Vision Pro hand tracking. The result was just 6.9° error across 20 joint angles. We’ve published the measurements and evaluation details here: https://axonnic.com/benchmarks.We faced many challenges doing recordings in factories, including wireless interference and unreliable off-the-shelf hardware. This led to some bad recordings and the need to repeat data collection. For that reason, we’re developing our own electronics that use a wired PCB design that will eliminate interference and timing inconsistencies.Axonnic grew out of Max's EMG research at Oxford. We looked at using the technology for computer control, then we thought a more promising use-case was in capturing the effort involved in skilled manual tasks. This technology could be described as a computer to human interface. Where computers gain insight and learn from human skills. Sewing particularly stood out because the material deforms and the operator is constantly adjusting grip and tension.Maxim has an Oxford MBiol and conducted research on high-density surface EMG. He previously built internal tools at Skyscanner and worked at Voxblock across PCB development and supply chain. Arsh studied medicine at Oxford and has research experience applying machine learning to medical imaging, alongside software and robotics projects. Together we have built the sleeve, decoding software and data-collection system and tested them in industrial settings.So far we have the tech being used to record sewing and other manual tasks at a European manufacturer, which signed an LOI for support with robotic implementation. We have also collected construction demonstrations involving electricians, plumbers and demolition work. These are pilot and data-collection examples. Separately, our public demos include controlling a Proception robotic hand from forearm EMG.If you’ve done any of your own trials for training robots for manual tasks, we’d love to hear about what tasks you were trying to train for and how the trials went. We’re happy to discuss the hardware, calibration and models here in the comments. Thanks!https://axonnic.com\n\nComments URL: https://news.ycombinator.com/item?id=50522776\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T20:29:48+00:00"
+    },
     {
       "title": "Opinion | Can Nvidia Thrive Without Jensen Huang?",
       "link": "https://www.wsj.com/opinion/can-nvidia-thrive-without-jensen-huang-5b0001d5?mod=rss_markets_main",
@@ -1440,6 +1484,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-16T17:27:46+00:00"
+    },
+    {
+      "title": "Warsh says AI boom could help sustain ‘substantially higher’ US growth",
+      "link": "https://www.ft.com/content/0431ca7c-5bef-4ffa-a4bd-aa29354eb691?syn-25a6b1a6=1",
+      "summary": "Innovation sparked by the technology has potential to support level of GDP above long-run average without stoking inflation",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-16T17:26:53+00:00"
     },
     {
       "title": "How Billions in Safe Insurance Money Is Being Bet on A.I. Debt",
@@ -2232,6 +2284,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-16T10:52:09.034566+00:00"
+    },
+    {
+      "title": "EU renews push for global AI rules after midterms weaken Trump",
+      "link": "https://www.ft.com/content/f2ea4f22-32ba-4795-971d-2a4bbb0143fb?syn-25a6b1a6=1",
+      "summary": "Brussels hopes an international deal is more attainable after voters’ rebuke to US president",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-16T10:37:38+00:00"
     },
     {
       "title": "Here’s how much the stock market could crumble if AI is a bubble that bursts, according to former White House economist",
