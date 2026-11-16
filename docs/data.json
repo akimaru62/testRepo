@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T18:47:48.941920+00:00",
+  "generated_at": "2026-11-16T19:04:49.271645+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1122,6 +1122,22 @@
   ],
   "items": [
     {
+      "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies",
+      "link": "https://www.marketwatch.com/story/micron-amd-and-other-ai-stocks-fall-as-the-chip-sectors-selloff-intensifies-48e38bdf?mod=mw_rss_topstories",
+      "summary": "Investors are jittery about Nvidia’s upcoming earnings and whether the company will scale back its financing of the AI ecosystem.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-16T18:54:00+00:00"
+    },
+    {
+      "title": "US Banks report outages in latest tech hiccup",
+      "link": "https://nypost.com/2026/11/16/business/outages-hit-chase-bank-of-america-and-wells-fargo-customers/",
+      "summary": "Article URL: https://nypost.com/2026/11/16/business/outages-hit-chase-bank-of-america-and-wells-fargo-customers/\nComments URL: https://news.ycombinator.com/item?id=50521357\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T18:53:00+00:00"
+    },
+    {
       "title": "Comex Gold Settles 0.83% Lower at $3847.40",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-ticks-up-but-prices-stay-weak-94c91bd2?mod=rss_markets_main",
       "summary": "Gold and silver settled at new 52-week lows, with gold down 0.8% and silver falling 4.6%.",
@@ -1152,6 +1168,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-16T18:12:48+00:00"
+    },
+    {
+      "title": "Show HN: Fakemetrics.com – \"build in public\" like a superstar",
+      "link": "https://fakemetrics.com/",
+      "summary": "Hi HN, I am Tigran (github.com/tigranbs)\nI made Fakemetrics.com as a fun experiment while testing how well Claude Opus can build pixel-identical UIs. It turned out it wasn't as easy as just prompting it, but I spent time building the system so it works almost every time.\nAnd I am pretty sure you are seeing a bunch of people posting weekend vibe-coded apps and saying \"$50K/month after quitting my McDonnalds job...\". Well, even my friend tried to fake it a few months back.\nSo, I kinda did this fakemetrics.com as an experiment to see how well I can have the system that clones UIs, and packaged that as a very simple (I think) usable product for the people that want to be a superstar \"build in public\" type of a person with no revenue, but a perfect Stripe user growth screenshot.\nUseful? - Probably not that much\nFun? - YES!!\nThe best part is that Claude, ChatGPT, or Grok models aren't that good at UI clones by default, but with fakemetrics.com I kinda made a system that produces near-identical results from screenshots fairly fast. That was worth learning!\nLet me know what you think? Should I move on with the UI cloning as an open-source product?\n\nComments URL: https://news.ycombinator.com/item?id=50520741\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T18:08:04+00:00"
     },
     {
       "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
