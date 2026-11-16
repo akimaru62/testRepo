@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T14:37:33.264286+00:00",
+  "generated_at": "2026-11-16T14:54:14.825103+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1146,6 +1146,14 @@
       "published": "2026-11-16T14:35:00+00:00"
     },
     {
+      "title": "US tech stocks open lower amid Nvidia fallout",
+      "link": "https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1",
+      "summary": "Chipmaker falls 2.2% in early trading and CoreWeave drops 4.6% as AI jitters continue",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-16T14:33:13+00:00"
+    },
+    {
       "title": "Oil Futures Start Week Lower on Outlook for Global Surplus",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-as-supply-surplus-prospects-offset-mideast-tensions-9105d9bf?mod=rss_markets_main",
       "summary": "Crude futures fell with the market digesting estimates for global supply to turn to a surplus, while the Middle East conflict simmered with attacks on tankers and other targets.",
@@ -1224,6 +1232,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-16T13:20:00+00:00"
+    },
+    {
+      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+      "link": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+      "summary": "Article URL: https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026\nComments URL: https://news.ycombinator.com/item?id=50517321\nPoints: 10\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T13:18:22+00:00"
     },
     {
       "title": "The FDA declined to approve one of biotech’s most closely watched cancer drugs",
