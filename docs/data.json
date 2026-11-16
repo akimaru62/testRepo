@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T22:33:17.106007+00:00",
+  "generated_at": "2026-11-16T22:47:53.015895+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1150,9 +1150,37 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball",
+      "link": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories",
+      "summary": "The dollar recently climbed to its strongest level in a year and a half.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-16T22:46:00+00:00"
+    },
+    {
+      "title": "Commerce Department Rule Aims to Further Limit Chip Shipments to China",
+      "link": "https://www.wsj.com/world/asia/commerce-department-rule-aims-to-further-limit-chip-shipments-to-china-c6244c33?mod=rss_markets_main",
+      "summary": "Plus, Trump said he might meet with Kim Jong Un this week, and Kalshi bought a securities firm to expand into stock trading.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-16T22:35:00+00:00"
+    },
+    {
+      "title": "Berkshire upped its bet on a beleaguered U.S. housing market, while souring on these bank stocks",
+      "link": "https://www.marketwatch.com/story/berkshire-upped-its-bet-on-a-beleaguered-u-s-housing-market-while-souring-on-these-bank-stocks-2e8de402?mod=mw_rss_topstories",
+      "summary": "Berkshire Hathaway stepped up its investments in the U.S. housing market last quarter, nearly doubling its stake in home builder Lennar.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-16T22:33:00+00:00"
+    },
     {
       "title": "世界限定99台､価格は約3500万円…創業家が手がける\"最後のアルピナ\"｢BMW ALPINA B8 GT｣を走らせてわかったこと | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/964020?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -1160,6 +1188,30 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-16T22:30:00+00:00"
+    },
+    {
+      "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
+      "link": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
+      "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-11-16T22:22:52+00:00"
+    },
+    {
+      "title": "United Airlines has a widespread system outage",
+      "link": "https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff",
+      "summary": "Article URL: https://apnews.com/article/united-airlines-outage-5a5e5f75bb07f11ffb8750901f0076ff\nComments URL: https://news.ycombinator.com/item?id=50524260\nPoints: 13\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T22:22:18+00:00"
+    },
+    {
+      "title": "How to Break into Security, Ptacek Edition",
+      "link": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+      "summary": "Article URL: https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/\nComments URL: https://news.ycombinator.com/item?id=50524225\nPoints: 25\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T22:19:23+00:00"
     },
     {
       "title": "米大統領、フアン氏復帰「異議ない」　エヌビディア前ＣＥＯ",
@@ -1202,10 +1254,26 @@
       "published": "2026-11-16T22:14:47+00:00"
     },
     {
+      "title": "United Airlines Widespread System Outage",
+      "link": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+      "summary": "Article URL: https://www.cnn.com/2026/11/16/us/united-airlines-outage\nComments URL: https://news.ycombinator.com/item?id=50524165\nPoints: 30\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T22:14:38+00:00"
+    },
+    {
       "title": "｢もう受験が終わった子｣と｢これからが本番の子｣が同じ教室に…親の常識が通じない大学入試\"三極化\"の正体 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/964551?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "大学受験の世界は､単に｢入りやすさ｣で分けられるほど単純ではありません。難関大･多様な入試方式･定員割れ大学…実は3つの層に分かれ､それぞれに異なる準備や選び方が求められます。親や受験生が本当に知る…",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-16T22:00:00+00:00"
+    },
+    {
+      "title": "メルカリが「赤いボタンを1画面に1つ」しか置かない理由　ユーザーを迷わせないUI設計",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/17/news009.html",
+      "summary": "撮影から梱包、コンビニ発送まで多くの手作業を伴うメルカリの取引。それでも利用者が迷わず操作できる背景には、情報が過密になりがちな日本のECサイトとは一線を画す「1画面に主要な行動は1つ」「メインの赤いボタンは1つだけ」という明快な設計原則がある。200～300画面を週1回以上更新するなか、デジタル上の顧客体験（CX）を高め続ける手法を、開発・デザイン両責任者に聞いた。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-11-16T22:00:00+00:00"
     },
