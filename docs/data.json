@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T21:05:00.580643+00:00",
+  "generated_at": "2026-11-16T21:17:54.912590+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1134,9 +1134,133 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "ＥＵ、日本製冷延鋼板に反ダンピング関税　１７日から、５カ国・地域対象",
+      "link": "https://www.jiji.com/jc/article?k=2026111700150&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-16T21:17:50.677715+00:00"
+    },
+    {
+      "title": "フアン氏復帰検討せず　米エヌビディア取締役会―報道",
+      "link": "https://www.jiji.com/jc/article?k=2026111700154&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-16T21:17:50.677705+00:00"
+    },
+    {
+      "title": "ロシア報道官、日ロ首脳会談「否定せず」　邦人記者の解放要求も",
+      "link": "https://www.jiji.com/jc/article?k=2026111700148&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-16T21:17:50.677691+00:00"
+    },
+    {
+      "title": "首相動静（１１月１６日）",
+      "link": "https://www.jiji.com/jc/article?k=2026111600124&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-16T21:17:50.677679+00:00"
+    },
+    {
+      "title": "女性働く飲食店の客か　逮捕の男、自ら１１０番も―中野強殺・警視庁",
+      "link": "https://www.jiji.com/jc/article?k=2026111700149&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-16T21:17:50.677652+00:00"
+    },
+    {
+      "title": "プルデンシャル、自腹カレンダーで「朝令暮改」現場は経営に不信感",
+      "link": "https://www.asahi.com/articles/ASVCJ3V8WVCJULFA00ZM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-16T21:17:50.336995+00:00"
+    },
+    {
+      "title": "受診遅れで2日後死亡…月収5万円の男性が陥った盲点　中間層世帯も\"治療費を払えない\"？　内科医が教える《相談先》 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964927?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "月収5万円で一人暮らしの60代男性が､病院を受診できず､入院から2日後に亡くなりました。物価高のなか､医療費を理由に受診をためらうのは他人事ではありません。治療費が払えないとき､どこに頼ったらいいの…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-16T21:05:00+00:00"
+    },
+    {
+      "title": "Nvidia investors will be clamoring for these answers during a historic earnings call",
+      "link": "https://www.marketwatch.com/story/nvidia-investors-will-be-clamoring-for-answers-to-these-questions-during-the-companys-hotly-anticipated-earnings-call-a49ec19d?mod=mw_rss_topstories",
+      "summary": "There’s a lot that Nvidia investors want to know about the post-Jensen Huang era — although management is likely to be tight-lipped on the topic of succession.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-16T21:05:00+00:00"
+    },
+    {
+      "title": "Crypto Stuck Near Multimonth Lows After Sluggish Weekend",
+      "link": "https://www.wsj.com/finance/currencies/crypto-off-to-downbeat-start-this-week-after-selloff-abeb286e?mod=rss_markets_main",
+      "summary": "Crypto started the week on a downbeat note with both Bitcoin and Ethereum trading around key support levels as risk appetite remains constrained.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-16T21:05:00+00:00"
+    },
+    {
+      "title": "Nasdaq sinks 2.7% in gloomy start to pivotal week for AI trade",
+      "link": "https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1",
+      "summary": "US chip stocks fall as Nvidia sustains fresh bout of selling pressure",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-16T21:02:17+00:00"
+    },
+    {
+      "title": "40年間｢555円｣だった名物そばを､いきなり｢1110円｣に…《赤字続きの駅食堂》が\"約2倍の値上げ\"を決断した理由 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964932?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢ご縁がありますように｣との願いを込め､長年555円で提供されてきた｢福縁阡そば｣。しかし今年､ついに価格を2倍に引き上げました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-16T21:00:00+00:00"
+    },
+    {
+      "title": "利用客10人《山奥の秘境駅》の駅そばに海外からも客が来る…｢店の床は元ホーム｣｢窓のすぐ横を列車が走る｣驚きの実態 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964931?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "広島県の小さな無人駅｢備後矢野駅｣。1日10人ほどの利用者に対し､全国､海外からも人が訪れます。人里離れた地へ､なぜ多くの人が足を運ぶのか。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-16T21:00:00+00:00"
+    },
+    {
+      "title": "アンソロピック､公益性重視で\"独特なガバナンス\"の全容――カギを握る｢5種類の株｣､オープンAIの二の舞いを防げるか？ | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964649?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "公益目的の企業｢パブリック･ベネフィット･コーポレーション｣として､独自のガバナンス構造を採用。｢5種類の株式｣と多層的な監督機能を駆使した仕組みと､その狙いを読み解きます。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-16T21:00:00+00:00"
+    },
+    {
+      "title": "中国高速鉄道が｢世界最速｣時速400kmの商業運転へ　第15次5カ年計画期間中に目指すと発展改革委が表明 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964620?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "中国が2026年からの第15次5カ年計画期間中に高速鉄道で世界最速となる時速400kmの商業運転を開始する方針を明らかにしました。国家の威信をかけたプロジェクトになりますが､実際にこの速度で運転可能…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-16T21:00:00+00:00"
+    },
+    {
+      "title": "〈永遠の実験場か〉｢サグラダ･ファミリア化｣する会津若松スマートシティ構想…国費注入とアクセンチュア依存の行方 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964424?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "コンサル大手・アクセンチュアによる支援の下、徐々に実績を積み重ねてきた福島県会津若松市のスマートシティ構想（構想が動き出した2011年以降の詳細な経緯は前編記事を参照）。しかし、サービスを提供する企…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-16T21:00:00+00:00"
+    },
     {
       "title": "Nvidia investors will be clamoring for answers to these questions during the company’s hotly anticipated earnings call",
       "link": "https://www.marketwatch.com/story/nvidia-investors-will-be-clamoring-for-answers-to-these-questions-during-the-companys-hotly-anticipated-earnings-call-a49ec19d?mod=mw_rss_topstories",
@@ -1152,6 +1276,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-16T20:49:00+00:00"
+    },
+    {
+      "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+      "link": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/\nComments URL: https://news.ycombinator.com/item?id=50523025\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T20:48:08+00:00"
     },
     {
       "title": "Caltech professor no longer grades homework's because everyone uses AI",
@@ -1234,6 +1366,14 @@
       "published": "2026-11-16T20:30:00+00:00"
     },
     {
+      "title": "なぜ、トライアルは店内サイネージを大量設置するのか　「品川駅をベンチマークにした」リテールメディア戦略",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/17/news019.html",
+      "summary": "トライアルは購買データを活用したリテールメディアを推進している。PB商品で来店客1000人当たり何個売れたかを示すPI値が1.5倍になった事例もあるという。メーカーとともに購買を生み出す仕組みや、今後の展開を聞いた。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-16T20:30:00+00:00"
+    },
+    {
       "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
       "link": "https://news.ycombinator.com/item?id=50522776",
       "summary": "Hi HN! We’re Arsh and Max, founders of Axonnic (https://axonnic.com). We’ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, while leaving the hands bare. It’s used to record human movement and generate training data for dextrous robots.Here’s a demo video: https://youtube.com/shorts/xBrocTc9cfAWe’ve found that electromyography (EMG) is a much better way to train robots than by video alone because video only captures movement, not muscle activity or the effort behind the movement. A useful signal can be present even when the hand barely moves; just maintaining a grip involves muscle activation. The subtle muscle movements that can barely be picked up in video are the most important details for activities like sewing and delicate assembly.The sleeve has 64 channels of surface electromyography, or EMG. Electrodes on the skin detect electrical activity from muscles in the forearm. We distribute sensors across the forearm so as to not overfit to one muscle group. We synchronize EMG with hand tracking to train a model that predicts finger joint angles, then we run the decoder solely from EMG, adding in fingertip force estimates that have been calibrated from finger presses on force sensors.When the user takes the sleeve off then puts it back on again, the electrode positions change, so we run tests over separate wearings. In one case, we ran a 215-second recording, four days after training, without any recalibration, and compared the results with Apple Vision Pro hand tracking. The result was just 6.9° error across 20 joint angles. We’ve published the measurements and evaluation details here: https://axonnic.com/benchmarks.We faced many challenges doing recordings in factories, including wireless interference and unreliable off-the-shelf hardware. This led to some bad recordings and the need to repeat data collection. For that reason, we’re developing our own electronics that use a wired PCB design that will eliminate interference and timing inconsistencies.Axonnic grew out of Max's EMG research at Oxford. We looked at using the technology for computer control, then we thought a more promising use-case was in capturing the effort involved in skilled manual tasks. This technology could be described as a computer to human interface. Where computers gain insight and learn from human skills. Sewing particularly stood out because the material deforms and the operator is constantly adjusting grip and tension.Maxim has an Oxford MBiol and conducted research on high-density surface EMG. He previously built internal tools at Skyscanner and worked at Voxblock across PCB development and supply chain. Arsh studied medicine at Oxford and has research experience applying machine learning to medical imaging, alongside software and robotics projects. Together we have built the sleeve, decoding software and data-collection system and tested them in industrial settings.So far we have the tech being used to record sewing and other manual tasks at a European manufacturer, which signed an LOI for support with robotic implementation. We have also collected construction demonstrations involving electricians, plumbers and demolition work. These are pilot and data-collection examples. Separately, our public demos include controlling a Proception robotic hand from forearm EMG.If you’ve done any of your own trials for training robots for manual tasks, we’d love to hear about what tasks you were trying to train for and how the trials went. We’re happy to discuss the hardware, calibration and models here in the comments. Thanks!https://axonnic.com\n\nComments URL: https://news.ycombinator.com/item?id=50522776\nPoints: 3\n# Comments: 0",
@@ -1285,6 +1425,14 @@
       "title": "Rust Changed Me as a Developer",
       "link": "https://blog.startifact.com/posts/how-rust-changed-me/",
       "summary": "Article URL: https://blog.startifact.com/posts/how-rust-changed-me/\nComments URL: https://news.ycombinator.com/item?id=50522563\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T20:16:50+00:00"
+    },
+    {
+      "title": "Rust changed me as a developer",
+      "link": "https://blog.startifact.com/posts/how-rust-changed-me/",
+      "summary": "Article URL: https://blog.startifact.com/posts/how-rust-changed-me/\nComments URL: https://news.ycombinator.com/item?id=50522563\nPoints: 8\n# Comments: 0",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-16T20:16:50+00:00"
@@ -2507,6 +2655,14 @@
     },
     {
       "title": "Stock Market Today: Nasdaq Slides as Nvidia Drama Continues",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-16-2026?mod=rss_markets_main",
+      "summary": "U.S. moves to crack down on overseas players accessing advanced AI chips remotely; bitcoin under pressure",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-16T10:00:37+00:00"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Slides 2.5% as Nvidia Drama Continues",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-16-2026?mod=rss_markets_main",
       "summary": "U.S. moves to crack down on overseas players accessing advanced AI chips remotely; bitcoin under pressure",
       "source": "WSJ マーケット",
