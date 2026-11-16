@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T02:08:28.489038+00:00",
+  "generated_at": "2026-11-16T02:24:26.384785+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1130,6 +1130,46 @@
       "published": "2026-11-16T10:00:00+00:00"
     },
     {
+      "title": "中井亜美がＧＰ連勝、ファイナルへ　今季世界最高得点―スケートアメリカ",
+      "link": "https://www.jiji.com/jc/article?k=2026111600169&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-16T02:24:22.183487+00:00"
+    },
+    {
+      "title": "正木智也、満点回答の豪打　１番で大会５本塁打―アジアプロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026111500362&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-16T02:24:22.183451+00:00"
+    },
+    {
+      "title": "レストランの星の数はどうやって決まる？　口コミか専門家の評価か",
+      "link": "https://www.asahi.com/articles/ASVCB038QVCBOXIE003M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-16T02:24:21.824027+00:00"
+    },
+    {
+      "title": "ドコモ、5Gサービスで通信障害、今月3度目　音声通話などに支障",
+      "link": "https://www.asahi.com/articles/ASVCJ0P5PVCJULFA003M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-16T02:24:21.823997+00:00"
+    },
+    {
+      "title": "Nvidia’s Days as an Open Checkbook for the AI Economy Are Numbered",
+      "link": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388?mod=rss_markets_main",
+      "summary": "Interim CEO Colette Kress is expected to rein in deals after a stretch in which Nvidia aggressively financed computing deals and startup investments.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-16T02:21:00+00:00"
+    },
+    {
       "title": "フアン前ＣＥＯ、復帰模索か　米政権には抜本的刷新の声―エヌビディア",
       "link": "https://www.jiji.com/jc/article?k=2026111600076&g=int&m=rss",
       "summary": "",
@@ -1146,12 +1186,28 @@
       "published": "2026-11-16T02:05:00+00:00"
     },
     {
+      "title": "Hong Kong developer New World’s shares tumble 47% on $3.2bn rights issue plan",
+      "link": "https://www.ft.com/content/9daa3a26-c49c-4c94-91af-0d4c2116d2e4?syn-25a6b1a6=1",
+      "summary": "Ailing property group to offer new stock at 80% discount as it moves to slash debts",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-16T02:01:43+00:00"
+    },
+    {
       "title": "The Month That Rocked the AI Trade and Rewired Wall Street",
       "link": "https://www.wsj.com/finance/stocks/the-month-that-rocked-the-ai-trade-and-rewired-wall-street-f33d3af3?mod=rss_markets_main",
       "summary": "An election-night U-turn and a spy scandal were plotlines in a frenetic stretch of trading that halted the ‘no-brainer’ investing era.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-16T02:00:00+00:00"
+    },
+    {
+      "title": "Dffy: A fast terminal-native Git diff viewer, written in Rust",
+      "link": "https://github.com/amalucelli/dffy",
+      "summary": "Article URL: https://github.com/amalucelli/dffy\nComments URL: https://news.ycombinator.com/item?id=50513077\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T01:52:19+00:00"
     },
     {
       "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年11月13日(金曜日))",
@@ -1426,6 +1482,14 @@
       "published": "2026-11-15T23:00:11+00:00"
     },
     {
+      "title": "Preserving 30 years of Salon journalism",
+      "link": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+      "summary": "Article URL: https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/\nComments URL: https://news.ycombinator.com/item?id=50511806\nPoints: 73\n# Comments: 18",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-15T23:00:11+00:00"
+    },
+    {
       "title": "存在感が薄い\"非モテ\"でも\"モテ系\"に変わる…コミュニケーション研究の第一人者が教える｢視線｣と｢観察力｣のコツ | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/963339?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "初対面で一気に距離を縮めるカギは､科学的に裏付けられた｢視線｣と｢観察力｣にあるようです。\"見つめすぎ\"も\"見なさすぎ\"もNGな日本人特有の視線術や､｢モテ系｣の観察ポイントを徹底解説します。",
@@ -1541,6 +1605,14 @@
       "title": "Old Bitly Links Are Being Hijacked",
       "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
       "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/\nComments URL: https://news.ycombinator.com/item?id=50511395\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-15T22:11:43+00:00"
+    },
+    {
+      "title": "Old Bitly links are being hijacked",
+      "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/\nComments URL: https://news.ycombinator.com/item?id=50511395\nPoints: 176\n# Comments: 93",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-15T22:11:43+00:00"
@@ -1933,6 +2005,14 @@
       "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
       "link": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
       "summary": "Article URL: https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html\nComments URL: https://news.ycombinator.com/item?id=50509023\nPoints: 11\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-15T17:53:31+00:00"
+    },
+    {
+      "title": "Crows make decisions faster than we can",
+      "link": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html\nComments URL: https://news.ycombinator.com/item?id=50509023\nPoints: 173\n# Comments: 125",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-15T17:53:31+00:00"
