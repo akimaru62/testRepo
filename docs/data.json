@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T08:54:59.832086+00:00",
+  "generated_at": "2026-11-16T09:08:43.067067+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1138,6 +1138,14 @@
       "published": "2026-11-16T10:00:00+00:00"
     },
     {
+      "title": "Oil Prices Rise as Fresh Attacks Renew Middle East Supply Concerns",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-rise-as-fresh-attacks-renew-middle-east-supply-concerns-bee22d97?mod=rss_markets_main",
+      "summary": "Oil prices rose Monday as traders weighed renewed attacks across the Middle East and threats to oil shipments through the Strait of Hormuz against expectations of a global supply surplus.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-16T08:57:00+00:00"
+    },
+    {
       "title": "Euro Faces Further Falls Against Stronger Dollar",
       "link": "https://www.wsj.com/finance/currencies/singapore-dollar-consolidates-but-may-be-weighed-by-risk-off-sentiment-1a00f31b?mod=rss_markets_main",
       "summary": "The euro was flat against the dollar after reaching a 19-month low.  ING said the euro was at risk of falling below support at $1.10 as the dollar continued to strengthen on expectations for further Fed rate rises.",
@@ -2072,6 +2080,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-15T23:55:41+00:00"
+    },
+    {
+      "title": "Parcel: A desktop mail client for Linux, built with Zig",
+      "link": "https://tangled.org/rockorager.dev/parcel",
+      "summary": "Article URL: https://tangled.org/rockorager.dev/parcel\nComments URL: https://news.ycombinator.com/item?id=50512218\nPoints: 28\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-15T23:54:39+00:00"
     },
     {
       "title": "Johnson & Johnson looking to buy eye disease biotech for up to $3.4bn",
