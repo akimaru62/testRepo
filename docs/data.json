@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T20:47:50.101881+00:00",
+  "generated_at": "2026-11-16T21:05:00.580643+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1130,9 +1130,45 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "Nvidia investors will be clamoring for answers to these questions during the company’s hotly anticipated earnings call",
+      "link": "https://www.marketwatch.com/story/nvidia-investors-will-be-clamoring-for-answers-to-these-questions-during-the-companys-hotly-anticipated-earnings-call-a49ec19d?mod=mw_rss_topstories",
+      "summary": "There’s a lot that Nvidia investors want to know about the post-Jensen Huang era — although management is likely to be tight-lipped on the topic of succession.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-16T20:55:00+00:00"
+    },
+    {
+      "title": "Rare-earth stocks sink deeper into the red. Here’s the latest catalyst.",
+      "link": "https://www.marketwatch.com/story/rare-earth-stocks-sinks-deeper-into-the-red-heres-the-latest-catalyst-3033c8d0?mod=mw_rss_topstories",
+      "summary": "Shares of Trump-backed USA Rare Earth slides 10% as analysts push out their sales estimates.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-16T20:49:00+00:00"
+    },
+    {
+      "title": "Caltech professor no longer grades homework's because everyone uses AI",
+      "link": "https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11",
+      "summary": "Article URL: https://www.businessinsider.com/ai-math-class-university-homework-caltech-careers-2026-11\nComments URL: https://news.ycombinator.com/item?id=50523022\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T20:47:53+00:00"
+    },
+    {
+      "title": "Treasury Yields Slip to Start Busy Week",
+      "link": "https://www.wsj.com/finance/-63dc4bbf?mod=rss_markets_main",
+      "summary": "Treasury yields started the week declining, as Fed Chairman Warsh refrained from giving hints about the path of interest rates.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-16T20:47:00+00:00"
+    },
     {
       "title": "‘So sad, and so true’: Has your family talked about SNL’s ‘Sister’ sketch yet?",
       "link": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
@@ -1140,6 +1176,38 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-16T20:46:00+00:00"
+    },
+    {
+      "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
+      "link": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
+      "summary": "The late-night comedy sketch does the impossible by making female caregivers feel seen.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-16T20:46:00+00:00"
+    },
+    {
+      "title": "日本独自規格｢レベル2＋＋｣とは何か――スバルが目指す\"手の届く\"高度運転支援の現在地 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964881?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "SUBARU（以下､スバル）が自社テストコースで実施した､次世代技術に関する説明会の中で､近い将来の市場導入を検討している新しい｢アイサイト｣を体験。自動運転レベル2の領域である､先進運転支援システ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-16T20:45:00+00:00"
+    },
+    {
+      "title": "アメリカから世界に広がる｢オリガルヒ支配｣の秩序…富と権力を手にした政治家とテック富豪たちが世界を不安定にする | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964705?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢オリガルヒ｣とは一部の国や人物の問題ではなく､今や世界全体の新たな秩序を担う存在です。巨額の富と権力が融合し､国家の枠を超えた影響力を持つ彼らは､私たちの未来にどのような変化をもたらすのでしょうか。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-16T20:45:00+00:00"
+    },
+    {
+      "title": "食料品減税で｢スマートレジ特需｣は再来するか…781億円の政府支援あってもスマレジやリクルートが慎重な理由 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964086?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2027年4月から2年間、食料品の消費税率を8％から1％へ引き下げる政府の関連法案が、臨時国会で審議されている。11月6日には法案が衆議院で可決された。まだ参議院での採決を残すが、成立すれば食料品を…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-16T20:45:00+00:00"
     },
     {
       "title": "The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled.",
@@ -1212,6 +1280,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-16T20:17:00+00:00"
+    },
+    {
+      "title": "Rust Changed Me as a Developer",
+      "link": "https://blog.startifact.com/posts/how-rust-changed-me/",
+      "summary": "Article URL: https://blog.startifact.com/posts/how-rust-changed-me/\nComments URL: https://news.ycombinator.com/item?id=50522563\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T20:16:50+00:00"
     },
     {
       "title": "Treasury Yields Fall, German Bunds’ Tick Higher",
