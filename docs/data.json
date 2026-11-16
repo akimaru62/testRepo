@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T18:33:07.606143+00:00",
+  "generated_at": "2026-11-16T18:47:48.941920+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1122,12 +1122,36 @@
   ],
   "items": [
     {
+      "title": "Comex Gold Settles 0.83% Lower at $3847.40",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-ticks-up-but-prices-stay-weak-94c91bd2?mod=rss_markets_main",
+      "summary": "Gold and silver settled at new 52-week lows, with gold down 0.8% and silver falling 4.6%.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-16T18:44:00+00:00"
+    },
+    {
+      "title": "Russia aims for ‘joint statement’ from trilateral summit with US and China",
+      "link": "https://www.ft.com/content/e567ba7d-c53a-47a2-a361-3b8a107fcdef?syn-25a6b1a6=1",
+      "summary": "Thursday’s unprecedented meeting of Donald Trump, Xi Jinping and Vladimir Putin has drawn intense international attention",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-16T18:19:17+00:00"
+    },
+    {
       "title": "Software is breaking down at a systemic level",
       "link": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
       "summary": "Article URL: https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/\nComments URL: https://news.ycombinator.com/item?id=50520866\nPoints: 17\n# Comments: 4",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-16T18:17:17+00:00"
+    },
+    {
+      "title": "OpenAI: Strengthening the fight against online child sexual abuse",
+      "link": "https://openai.com/index/strengthening-online-child-safety/",
+      "summary": "Article URL: https://openai.com/index/strengthening-online-child-safety/\nComments URL: https://news.ycombinator.com/item?id=50520804\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T18:12:48+00:00"
     },
     {
       "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
@@ -274207,6 +274231,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2023-09-11T10:02:37+00:00"
+    },
+    {
+      "title": "6482.T - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT09DUWpxei1sVml3TXFtWjQ4RWpYaVJmSFlMUXNoYVU2UFk0akxlODFCb2VuY1pmSFZ1OW1GeGhfa0pRYVN0WmtNQi11SG1QRUNyanZzdDVWS1A5MVJmc21LUWJ5Y1VDNk1UUUpOTGxzT0hoYlh6ZllEcHB3ZTVYVFh3?oc=5",
+      "summary": "6482.T - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2023-09-08T09:01:01+00:00"
     },
     {
       "title": "000725.SZ - | Stock Price & Latest News - Reuters",
