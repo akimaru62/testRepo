@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T19:17:21.587661+00:00",
+  "generated_at": "2026-11-16T19:33:33.803742+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1118,9 +1118,29 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7299462d4ad0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x792ed21b4ad0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "地方私鉄の｢元東急電車｣最新車両との意外な差　車内デザインや｢シートの硬さ｣を実際に体験 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964104?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "かつて首都圏を駆け抜けた東急電鉄の名車たちが､今は秩父のローカル線で第二の人生を歩んでいます。引退を惜しんだ記憶は､地方での活躍という新たな物語へ。なぜ彼らは地方に渡ったのか―その背景と現地の空気を…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-16T19:30:00+00:00"
+    },
+    {
+      "title": "Gold Futures Settle at New 52-Week Low",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-ticks-up-but-prices-stay-weak-94c91bd2?mod=rss_markets_main",
+      "summary": "Gold futures settled at their lowest level in more than a year as the U.S. dollar extended gains.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-16T19:30:00+00:00"
+    },
     {
       "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
       "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
