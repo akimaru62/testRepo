@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T18:20:22.451791+00:00",
+  "generated_at": "2026-11-16T18:33:07.606143+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1122,6 +1122,22 @@
   ],
   "items": [
     {
+      "title": "Software is breaking down at a systemic level",
+      "link": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
+      "summary": "Article URL: https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/\nComments URL: https://news.ycombinator.com/item?id=50520866\nPoints: 17\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T18:17:17+00:00"
+    },
+    {
+      "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
+      "link": "https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/",
+      "summary": "Article URL: https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/\nComments URL: https://news.ycombinator.com/item?id=50520697\nPoints: 6\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T18:04:55+00:00"
+    },
+    {
       "title": "AWS Weekly Roundup: AWS Nitro Sandboxes, AWS Emulator, and more (November 16, 2026)",
       "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-nitro-sandboxes-aws-emulator-and-more-november-16-2026/",
       "summary": "A second delivery of the same message can reveal more about an application than its happy-path demo. I like tools that make those cases easier to investigate while a change is still small. Last week’s launch of AWS Emulator brings part of that work onto your own machine: developers and coding agents can exercise AWS […]",
@@ -1168,6 +1184,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-16T17:47:11+00:00"
+    },
+    {
+      "title": "Aristotle Expands into Rust",
+      "link": "https://www.harmonic.fun/news/aristotle-rust-verification/",
+      "summary": "Article URL: https://www.harmonic.fun/news/aristotle-rust-verification/\nComments URL: https://news.ycombinator.com/item?id=50520270\nPoints: 14\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T17:34:41+00:00"
     },
     {
       "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
@@ -1264,6 +1288,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-16T16:25:00+00:00"
+    },
+    {
+      "title": "Frame – 31.5\" color ePaper display",
+      "link": "https://trmnl.com/blog/introducing-frame",
+      "summary": "Article URL: https://trmnl.com/blog/introducing-frame\nComments URL: https://news.ycombinator.com/item?id=50519354\nPoints: 10\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T16:23:22+00:00"
     },
     {
       "title": "Jolt – Clojure that speaks C",
