@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T16:33:39.683754+00:00",
+  "generated_at": "2026-11-16T16:48:09.301423+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1420,6 +1420,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-16T14:17:53+00:00"
+    },
+    {
+      "title": "The Active Directory Era Is Finally Over",
+      "link": "https://infisical.com/blog/active-directory-machine-identity",
+      "summary": "Article URL: https://infisical.com/blog/active-directory-machine-identity\nComments URL: https://news.ycombinator.com/item?id=50517815\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T14:15:31+00:00"
     },
     {
       "title": "Show HN: Coral – Open-source gateway where agents write their own tools",
