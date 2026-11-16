@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T00:16:42.005272+00:00",
+  "generated_at": "2026-11-16T00:51:36.884773+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1106,6 +1106,62 @@
   ],
   "items": [
     {
+      "title": "7-9月の実質GDP、年0.1%減　4期ぶりのマイナス成長",
+      "link": "https://www.asahi.com/articles/ASVCJ00NBVCJKJLA001M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-16T00:51:31.858809+00:00"
+    },
+    {
+      "title": "実質GDP、1年ぶりマイナス　個人消費が不振、スーパーなど影響",
+      "link": "https://www.asahi.com/articles/ASVCJ026QVCJULFA00VM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-16T00:51:31.858773+00:00"
+    },
+    {
+      "title": "Asian Currencies Consolidate, But May Be Weighed by Risk-Off Sentiment",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-bf41acaa?mod=rss_markets_main",
+      "summary": "Asian currencies consolidated against the dollar, but may be weighed by risk-off sentiment.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-16T00:46:00+00:00"
+    },
+    {
+      "title": "コンテナホテル8年で145店舗 背景",
+      "link": "https://news.yahoo.co.jp/pickup/6602759?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-16T00:42:07+00:00"
+    },
+    {
+      "title": "国債金利情報(令和8年11月13日)",
+      "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-16T00:30:00+00:00"
+    },
+    {
+      "title": "そごう・西武大規模改装に400億円",
+      "link": "https://news.yahoo.co.jp/pickup/6602755?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-16T00:25:56+00:00"
+    },
+    {
+      "title": "7-9月期実質GDP 4期ぶりマイナス",
+      "link": "https://news.yahoo.co.jp/pickup/6602758?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-16T00:24:20+00:00"
+    },
+    {
       "title": "フランス、ベルギーが８強　サッカー欧州ネーションズＬ",
       "link": "https://www.jiji.com/jc/article?k=2026111600117&g=spo&m=rss",
       "summary": "",
@@ -1136,6 +1192,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-16T00:00:00+00:00"
+    },
+    {
+      "title": "Mini.nvim Is Now on Tangled",
+      "link": "https://tangled.org/nvim-mini.org/mini.nvim",
+      "summary": "Article URL: https://tangled.org/nvim-mini.org/mini.nvim\nComments URL: https://news.ycombinator.com/item?id=50512231\nPoints: 11\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-15T23:55:41+00:00"
     },
     {
       "title": "Johnson & Johnson looking to buy eye disease biotech for up to $3.4bn",
