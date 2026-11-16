@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T10:35:22.021597+00:00",
+  "generated_at": "2026-11-16T10:52:21.925750+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1102,6 +1102,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -1112,6 +1116,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-16T17:00:00+00:00"
+    },
+    {
+      "title": "マンション、1年以内の投機取引に増税へ　税率約10%上乗せ検討",
+      "link": "https://www.asahi.com/articles/ASVCJ3DYSVCJULFA015M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-16T10:52:09.034566+00:00"
     },
     {
       "title": "Here’s how much the stock market could crumble if AI is a bubble that bursts, according to former White House economist",
@@ -1144,6 +1156,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-16T10:30:00+00:00"
+    },
+    {
+      "title": "Ukraine strikes Crimean Bridge in record drone attack",
+      "link": "https://www.ft.com/content/cf57a196-bcbc-4605-a977-73fa0498aeed?syn-25a6b1a6=1",
+      "summary": "Russia’s defence ministry said it intercepted or destroyed largest number of drones since beginning of war in past 24 hours",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-16T10:29:11+00:00"
     },
     {
       "title": "定数削減、１７日審議入り　衆院委、与野党が合意",
