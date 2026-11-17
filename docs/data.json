@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T07:05:59.447979+00:00",
+  "generated_at": "2026-11-17T07:19:41.100909+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1178,9 +1178,45 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "国民民主・玉木氏「バナナのたたき売り」と批判　消費減税、支援金拡大に反対",
+      "link": "https://www.jiji.com/jc/article?k=2026111700659&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-17T07:19:35.460046+00:00"
+    },
+    {
+      "title": "「抑え江夏」、球界に革命　才能に知性備えた左腕―江夏豊さん死去",
+      "link": "https://www.jiji.com/jc/article?k=2026111700720&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-17T07:19:35.460031+00:00"
+    },
+    {
+      "title": "５０カ所超のあざ、短期間に集中か　２週間前、目立った傷なし―大阪女児死亡",
+      "link": "https://www.jiji.com/jc/article?k=2026111700142&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-17T07:19:35.460013+00:00"
+    },
+    {
+      "title": "「ＡＩの銀行」持続可能か　業界後ろ盾の消失懸念―米エヌビディア",
+      "link": "https://www.jiji.com/jc/article?k=2026111700271&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-17T07:19:35.459958+00:00"
+    },
     {
       "title": "Asian Stocks Fall as U.S. Moves to Tighten Chip Curbs",
       "link": "https://www.wsj.com/finance/stocks/asia-stocks-fall-as-u-s-commerce-department-cracks-down-on-chip-shipments-689af812?mod=rss_markets_main",
