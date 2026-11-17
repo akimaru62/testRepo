@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T18:20:34.651896+00:00",
+  "generated_at": "2026-11-17T18:33:20.159533+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1194,9 +1194,45 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     }
   ],
   "items": [
+    {
+      "title": "Corporate-Card Startup Ramp Raising Funds at $70 Billion Valuation",
+      "link": "https://www.wsj.com/finance/corporate-card-startup-ramp-raising-funds-at-70-billion-valuation-631b071a?mod=rss_markets_main",
+      "summary": "The financing round is the fast-growing company’s third fundraise in a year.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-17T18:31:00+00:00"
+    },
+    {
+      "title": "How much more money could you earn if you had a financial adviser? Here’s what research shows",
+      "link": "https://www.marketwatch.com/story/how-much-more-money-could-you-earn-if-you-had-a-financial-adviser-heres-what-research-shows-d0c0119d?mod=mw_rss_topstories",
+      "summary": "There can be a financial advantage to an adviser in some circumstances, but it often depends on what type of investor you are.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-17T18:30:00+00:00"
+    },
+    {
+      "title": "Maintainers don’t need more AI bug reports. They need fixes.",
+      "link": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
+      "summary": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half.\nThe post Maintainers don&#8217;t need more AI bug reports. They need fixes.  appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "category": "開発者向け",
+      "published": "2026-11-17T18:29:29+00:00"
+    },
+    {
+      "title": "Building the Agent Host Protocol for sessions that continue across devices",
+      "link": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+      "summary": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud.\nThe post Building the Agent Host Protocol for sessions that continue across devices appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "category": "開発者向け",
+      "published": "2026-11-17T18:20:40+00:00"
+    },
     {
       "title": "日ロ首脳、中国で接触見通し　高市首相、邦人記者の解放要求へ",
       "link": "https://www.jiji.com/jc/article?k=2026111700894&g=pol&m=rss",
