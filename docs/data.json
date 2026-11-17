@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T17:33:31.419868+00:00",
+  "generated_at": "2026-11-17T17:47:43.780846+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1198,6 +1198,22 @@
   ],
   "items": [
     {
+      "title": "As stocks struggle, bonds are finally helping investors play defense again. There’s just one problem.",
+      "link": "https://www.marketwatch.com/story/as-stocks-struggle-bonds-are-finally-helping-investors-play-defense-again-theres-just-one-problem-94c8a1d8?mod=mw_rss_topstories",
+      "summary": "For the first time since March, bonds are actually helping to offset some of the losses investors have been feeling in their stock portfolios lately.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-17T17:40:00+00:00"
+    },
+    {
+      "title": "Why Salesforce’s stock is leading S&P 500 decliners amid tech jitters",
+      "link": "https://www.marketwatch.com/story/why-salesforces-stock-is-leading-s-p-500-decliners-amid-tech-jitters-17510caf?mod=mw_rss_topstories",
+      "summary": "A series of technology outages has investors concerned that software companies could prove “particularly vulnerable” to AI misuse, an analyst says.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-17T17:36:00+00:00"
+    },
+    {
       "title": "フィリピン大統領、協力拡大訴え　「国際法基盤に」―東アジアサミット",
       "link": "https://www.jiji.com/jc/article?k=2026111700650&g=pol&m=rss",
       "summary": "",
@@ -1334,6 +1350,14 @@
       "published": "2026-11-17T16:24:57+00:00"
     },
     {
+      "title": "Jensen Huang Posts on X",
+      "link": "https://twitter.com/JensenHuang/status/2122726005219737649",
+      "summary": "Article URL: https://twitter.com/JensenHuang/status/2122726005219737649\nComments URL: https://news.ycombinator.com/item?id=50533723\nPoints: 21\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-17T16:23:55+00:00"
+    },
+    {
       "title": "米中会談、台湾も議題か　「習氏が提起」とトランプ氏",
       "link": "https://www.jiji.com/jc/article?k=2026111701249&g=int&m=rss",
       "summary": "",
@@ -1388,6 +1412,14 @@
       "source": "AWS ブログ (アーキテクチャ)",
       "category": "開発者向け",
       "published": "2026-11-17T16:03:22+00:00"
+    },
+    {
+      "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+      "link": "https://github.com/RunanywhereAI/trnrt",
+      "summary": "Hi HN, Sanchit here from RunAnywhere (YC W26). We just open-sourced TrnRT: Trainium RunTime, our inference engine for AWS Trainium. We started 3 weeks back, and currently we’re able to serve and run GLM 5.3 flash (FP8) on AWS trn2.48xlarge, and will bring more models support soon. It’s open to contributions :)What it does today:- Serves 2 instances of GLM-5.3 flash on a single box, 8 trn2 with a cache aware router.- Can process 3.57M TPM (tokens per minute) on SemiAnalysis's AgentX benchmarks.- Runs decode as one NKI kernel per layer half, or for the 11 sparse-attention layers fuses both blocks into a single kernel, for faster performance.We started working on Trn2 because we wanted to explore it and see if we can come close to beating it’s performance in terms of cost efficiency compared to H100/H200. A big MoE with 1M context window such as GLM-5.3 flash requires a lot of memory, and memory/tb on a trn2.48xlarge costs less than half compared to 8x h200 on AWS, and hence we wanted to experiment with it and now we’re sharing some early results.But AWS's own stack didn't support the model: vLLM Neuron's latest release did not register any GLM model, and NxDI, AWS's own distributed inference framework, is no longer under active development. We also saw the drop of SGLang Neuron implementation yesterday, but there is no good support for Trn2, which is the only chip available for public use right now.We ran semiAnalysis's AgentX benchmarks, which replays real coding agent sessions:- 1 box served 28.9 RPM(requests per minute) with 32 agents at batch 12 (also known as concurrency)-The P50 TTFT with a cached prompt at 16 agents is ~1.24 seconds with a decode of 35.9 tps.Initially, the recurrence in one kda (linear attention) layer was ~2% of the layer's attention time at batch 1, and the rest was projections, transposes and XLA glue between small kernels.So we wrote the megakernel so that it covers the whole layer in 2 kernel dispatch, which made decode 25% faster at batch 8.The sparse attention kernel keep a layer’s working weights in SBUF, distributing weighted streaming across the cores and handling the interchip communication withinThere’s an approximation in the sparse-attention prefill, affecting about 1.2% of block selections.You can refer to the write-up for the profiling results:https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-mega...Please give it a try yourself on a trn2.48xlarge and reproduce the AgentX results by following the steps in docs/RESULTS.md. Happy to collaborate and hear any feedback.Deploying high performant dedicated inference at lab like performance and half the price for open models such as the GLM-5.3 family, Kimi K3, Deepseek flash etc. is how we make money. You can talk to us regarding the same at founders@runanywhere.ai.We hope you find this useful. If you are working with Trainium or have experience with NKI kernels, we'd love to get your honest feedback. Feel free to share the models you want support for next, and we welcome any contributions to the repository.\n\nComments URL: https://news.ycombinator.com/item?id=50533270\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-17T16:01:04+00:00"
     },
     {
       "title": "Investors Press for Answers From Nvidia, Where ‘Everything Has Changed’",
