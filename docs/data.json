@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T18:47:52.920923+00:00",
+  "generated_at": "2026-11-17T19:04:40.986934+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1224,6 +1224,14 @@
       "source": "GitHub Blog",
       "category": "開発者向け",
       "published": "2026-11-17T18:29:29+00:00"
+    },
+    {
+      "title": "MAI Code 2 and Code 2 Flash",
+      "link": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "summary": "Article URL: https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/\nComments URL: https://news.ycombinator.com/item?id=50535885\nPoints: 31\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-17T18:25:13+00:00"
     },
     {
       "title": "Building the Agent Host Protocol for sessions that continue across devices",
