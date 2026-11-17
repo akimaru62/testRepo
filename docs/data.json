@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T13:33:22.463592+00:00",
+  "generated_at": "2026-11-17T13:47:48.744987+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1250,6 +1250,22 @@
       "published": "2026-11-17T14:00:00+00:00"
     },
     {
+      "title": "U.S. retail sales slow just ahead of the holiday shopping season. A hint of trouble?",
+      "link": "https://www.marketwatch.com/story/u-s-retail-sales-slow-just-ahead-of-the-holiday-shopping-season-a-hint-of-trouble-a89c9f98?mod=mw_rss_topstories",
+      "summary": "Sales at U.S. retailers rose just slightly in October after two months of big increases, suggesting households took a breather before the start of the holiday shopping season.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-17T13:41:00+00:00"
+    },
+    {
+      "title": "Nasdaq Futures Rise as Investors Look to Nvidia Earnings",
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-slip-as-investors-look-to-nvidia-earnings-1007fe69?mod=rss_markets_main",
+      "summary": "Nasdaq futures rose amid a global stock selloff, as investors brace for Nvidia’s first earnings report without Jensen Huang.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-17T13:36:00+00:00"
+    },
+    {
       "title": "日米豪印、哨戒機演習実施へ",
       "link": "https://www.jiji.com/jc/article?k=2026111701182&g=pol&m=rss",
       "summary": "",
@@ -1352,6 +1368,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-17T12:23:40.874869+00:00"
+    },
+    {
+      "title": "Regulatory Capture by Anthropic Through METR",
+      "link": "https://nitter.cf/kevinnbass/status/2099621874279817638",
+      "summary": "Article URL: https://nitter.cf/kevinnbass/status/2099621874279817638\nComments URL: https://news.ycombinator.com/item?id=50530450\nPoints: 9\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-17T12:21:57+00:00"
     },
     {
       "title": "AI grapples with the return of the Antichrist",
@@ -4256,6 +4280,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-16T13:51:38+00:00"
+    },
+    {
+      "title": "Why sending notifications is a nightmare for engineers",
+      "link": "https://notifkit.dev/articles/why-notification-systems-are-a-nightmare",
+      "summary": "Article URL: https://notifkit.dev/articles/why-notification-systems-are-a-nightmare\nComments URL: https://news.ycombinator.com/item?id=50517558\nPoints: 10\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T13:46:12+00:00"
     },
     {
       "title": "Amazon's Discount Illusion: 1 in 3 \"Deals\" Offered No Savings– 1 in 10 Cost More",
