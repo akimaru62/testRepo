@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T07:47:28.944576+00:00",
+  "generated_at": "2026-11-17T08:06:54.709034+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1186,9 +1186,109 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "イベント,「Japan Fintech Week 2027」の開催について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/sonota/20261113/japanfintechweek.html",
+      "summary": "",
+      "source": "金融庁",
+      "category": "公的機関",
+      "published": "2026-11-17T17:00:00+00:00"
+    },
+    {
+      "title": "国際関係,金融安定理事会による「クロスボーダー送金の改善に向けたG20ロードマップ：2026年統合進捗報告書」について公表しました。",
+      "link": "https://www.fsa.go.jp/inter/fsf/20261117/261117.html",
+      "summary": "",
+      "source": "金融庁",
+      "category": "公的機関",
+      "published": "2026-11-17T17:00:00+00:00"
+    },
+    {
+      "title": "金融審議会「ディスクロージャーワーキング・グループ」（第７回）議事次第について公表しました。",
+      "link": "https://www.fsa.go.jp/singi/singi_kinyu/disclosure_wg/shiryou/20261118.html",
+      "summary": "",
+      "source": "金融庁",
+      "category": "公的機関",
+      "published": "2026-11-17T17:00:00+00:00"
+    },
+    {
+      "title": "IOSCO(証券監督者国際機構) 常設委員会議長・副議長選出について公表しました。",
+      "link": "https://www.fsa.go.jp/inter/ios/20261117/20261117.html",
+      "summary": "",
+      "source": "金融庁",
+      "category": "公的機関",
+      "published": "2026-11-17T17:00:00+00:00"
+    },
+    {
+      "title": "採用,職員を募集しています。（金融モニタリング業務（各種リスク管理態勢）に従事する職員）",
+      "link": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-10/ginnsyou-10.html",
+      "summary": "",
+      "source": "金融庁",
+      "category": "公的機関",
+      "published": "2026-11-17T14:00:00+00:00"
+    },
+    {
+      "title": "採用,職員を募集しています。（金融モニタリング業務（マネー・ローンダリング・テロ資金供与対策）に従事する職員）",
+      "link": "https://www.fsa.go.jp/common/recruit/r8/ginnsyou-12/ginnsyou-12.html",
+      "summary": "",
+      "source": "金融庁",
+      "category": "公的機関",
+      "published": "2026-11-17T14:00:00+00:00"
+    },
+    {
+      "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年11月13日）について掲載しました。",
+      "link": "https://www.fsa.go.jp/common/conference/minister/2026b/20261113-1.html",
+      "summary": "",
+      "source": "金融庁",
+      "category": "公的機関",
+      "published": "2026-11-17T14:00:00+00:00"
+    },
+    {
+      "title": "金融安定理事会による「クロスボーダー送金の改善に向けたG20ロードマップ：2026年統合進捗報告書」の公表について",
+      "link": "http://www.boj.or.jp/intl_finance/meeting/group/gro261117a.htm",
+      "summary": "",
+      "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-11-17T08:00:00+00:00"
+    },
+    {
+      "title": "財政投融資分科会（令和8年11月17日開催）資料一覧",
+      "link": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/material/zaitoa20261117.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-17T08:00:00+00:00"
+    },
+    {
+      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年11月17日(火曜日))",
+      "link": "https://www.mof.go.jp/public_relations/conference/my20261117.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-17T08:00:00+00:00"
+    },
+    {
+      "title": "駅そばを倍に値上げ 決断した75歳",
+      "link": "https://news.yahoo.co.jp/pickup/6602919?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-17T07:59:05+00:00"
+    },
+    {
+      "title": "Eurozone Bond Yields Edge Lower; EU Commission’s Autumn Forecast Awaited",
+      "link": "https://www.wsj.com/finance/jgbs-rise-tracking-gains-in-u-s-treasurys-79322f27?mod=rss_markets_main",
+      "summary": "Eurozone government bond yields edged lower in opening trade with the German ZEW economic sentiment indicator and EU Commission’s autumn forecasts being potential movers during the day.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-17T07:56:00+00:00"
+    },
     {
       "title": "過剰なデータ崇拝が社会を壊す　歴史家が考える「測りすぎ」のわな",
       "link": "https://www.asahi.com/articles/ASVCB4CTRVCBUHMC00FM.html?ref=rss",
@@ -1196,6 +1296,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-17T07:47:18.689865+00:00"
+    },
+    {
+      "title": "Dollar Rally Pauses Ahead of Data, Fed Speeches",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-61059d88?mod=rss_markets_main",
+      "summary": "The DXY dollar index traded flat, stabilizing after rising to a 19-month high against a basket of currencies overnight.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-17T07:47:00+00:00"
     },
     {
       "title": "国民民主・玉木氏「バナナのたたき売り」と批判　消費減税、支援金拡大に反対",
@@ -1542,6 +1650,14 @@
       "published": "2026-11-17T03:20:09.702006+00:00"
     },
     {
+      "title": "Show HN: Pulsar – cross-harness agent to agent communication and messaging",
+      "link": "https://github.com/yocontra/pulsar",
+      "summary": "Article URL: https://github.com/yocontra/pulsar\nComments URL: https://news.ycombinator.com/item?id=50526967\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-17T03:18:53+00:00"
+    },
+    {
       "title": "《藤井聡太へ3つの質問》絶対王者が正しい手を捨て｢勝負師に変わる｣瞬間…魂を揺さぶった\"加藤一二三九段との一手\" | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/962514?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "藤井聡太が発する､慎重で抽象的な言葉たち。その奥に秘められた｢勝負師｣としての本質や､AIの出現を経て変化した盤面の\"景色\"､そして忘れ得ぬ対局で感じた\"棋士の信念\"に迫ります。",
@@ -1633,6 +1749,14 @@
       "title": "Tokendoctor – the same Claude Code for up to 38% less",
       "link": "https://github.com/localixai/tokendoctor",
       "summary": "Article URL: https://github.com/localixai/tokendoctor\nComments URL: https://news.ycombinator.com/item?id=50526584\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-17T02:19:50+00:00"
+    },
+    {
+      "title": "Tokendoctor – See what your Claude Code use overpays",
+      "link": "https://github.com/localixai/tokendoctor",
+      "summary": "Article URL: https://github.com/localixai/tokendoctor\nComments URL: https://news.ycombinator.com/item?id=50526584\nPoints: 20\n# Comments: 9",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-17T02:19:50+00:00"
