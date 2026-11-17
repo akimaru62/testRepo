@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T04:47:39.551765+00:00",
+  "generated_at": "2026-11-17T05:05:21.569725+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1162,9 +1162,21 @@
     {
       "url": "https://www.mof.go.jp/news.rss",
       "error": "503 Server Error: Service Unavailable for url: https://www.mof.go.jp/news.rss"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "Asian tech stocks follow Wall Street lower as Nvidia results loom",
+      "link": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1",
+      "summary": "Investors fret over tighter US chip export controls and potential slowdown in AI data centre build-out",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-17T04:48:34+00:00"
+    },
     {
       "title": "新潟のホームセンターに公取委が警告　取引先から1千人超を無償派遣",
       "link": "https://www.asahi.com/articles/ASVCK0DV6VCKUTIL00QM.html?ref=rss",
