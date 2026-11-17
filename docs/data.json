@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T02:47:50.925662+00:00",
+  "generated_at": "2026-11-17T03:06:37.990741+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1162,6 +1162,14 @@
   ],
   "items": [
     {
+      "title": "《藤井聡太へ3つの質問》絶対王者が正しい手を捨て｢勝負師に変わる｣瞬間…魂を揺さぶった\"加藤一二三九段との一手\" | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962514?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "藤井聡太が発する､慎重で抽象的な言葉たち。その奥に秘められた｢勝負師｣としての本質や､AIの出現を経て変化した盤面の\"景色\"､そして忘れ得ぬ対局で感じた\"棋士の信念\"に迫ります。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-17T03:00:00+00:00"
+    },
+    {
       "title": "Singapore Dollar Weakens Slightly on Risk-Off Sentiment",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-61059d88?mod=rss_markets_main",
       "summary": "The Singapore dollar weakened slightly against its U.S. counterpart in the Asian session.",
@@ -1234,6 +1242,14 @@
       "published": "2026-11-17T02:22:34.204535+00:00"
     },
     {
+      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+      "link": "https://support.apple.com/en-us/149699",
+      "summary": "Article URL: https://support.apple.com/en-us/149699\nComments URL: https://news.ycombinator.com/item?id=50526560\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-17T02:17:04+00:00"
+    },
+    {
       "title": "Mem Is Shutting Down",
       "link": "https://get.mem.ai/blog/mem-is-shutting-down",
       "summary": "Article URL: https://get.mem.ai/blog/mem-is-shutting-down\nComments URL: https://news.ycombinator.com/item?id=50526537\nPoints: 8\n# Comments: 1",
@@ -1288,6 +1304,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-17T01:47:32+00:00"
+    },
+    {
+      "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat\nComments URL: https://news.ycombinator.com/item?id=50526264\nPoints: 16\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-17T01:35:16+00:00"
     },
     {
       "title": "Show HN: 1.499x speedup and 28.5% dynamic energy drop on A40 via BF16 tiling",
