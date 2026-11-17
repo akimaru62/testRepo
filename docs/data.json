@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T15:48:01.500936+00:00",
+  "generated_at": "2026-11-17T16:06:38.667840+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1190,6 +1190,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -1226,6 +1230,22 @@
       "published": "2026-11-17T17:00:00+00:00"
     },
     {
+      "title": "How Rakbank built centralized observability at scale with Amazon OpenSearch Service",
+      "link": "https://aws.amazon.com/blogs/architecture/how-rakbank-built-centralized-observability-at-scale-with-amazon-opensearch-service/",
+      "summary": "Rakbank re-platformed logging for its retail digital banking workloads on a cross-account, Multi-AZ Amazon OpenSearch Service design that ingests ~150 GB/day through Fluent Bit, using hot/UltraWarm/cold tiering and Amazon S3 archival for 7-year compliance retention and ~55% cost savings over an all-hot cluster.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-11-17T16:03:22+00:00"
+    },
+    {
+      "title": "Investors Press for Answers From Nvidia, Where ‘Everything Has Changed’",
+      "link": "https://www.wsj.com/finance/stocks/investors-press-for-answers-from-nvidia-where-everything-has-changed-9fa681ce?mod=rss_markets_main",
+      "summary": "The chip maker captivated Wall Street for its vital role in the AI economy. Now it must prove its semiconductors, and not Jensen Huang, are what make it indispensable.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-17T16:00:00+00:00"
+    },
+    {
       "title": "リニア中央新幹線の開業時期　JR東海、年内の見通し公表を断念へ",
       "link": "https://www.asahi.com/articles/ASVCK544CVCKULFA037M.html?ref=rss",
       "summary": "",
@@ -1248,6 +1268,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-17T15:35:00+00:00"
+    },
+    {
+      "title": "A.I. Just Blew Up a Key Tenet of Computer Science",
+      "link": "https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html\nComments URL: https://news.ycombinator.com/item?id=50532786\nPoints: 11\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-17T15:33:48+00:00"
     },
     {
       "title": "日本、パラグアイに敗れる　森保監督の最終戦飾れず―サッカー国際親善試合",
@@ -1368,6 +1396,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-17T15:01:00+00:00"
+    },
+    {
+      "title": "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+      "link": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+      "summary": "Article URL: https://runta.com/blog/introducing-frontierharness-eval-v1-1/\nComments URL: https://news.ycombinator.com/item?id=50532191\nPoints: 8\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-17T14:53:43+00:00"
     },
     {
       "title": "SpaceX got a vote of confidence from Nvidia ahead of Jensen Huang’s exit",
