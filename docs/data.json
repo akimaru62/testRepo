@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T08:47:53.290459+00:00",
+  "generated_at": "2026-11-17T09:06:12.841744+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1250,6 +1250,22 @@
       "published": "2026-11-17T14:00:00+00:00"
     },
     {
+      "title": "スカイマーク、羽田枠積み増し狙う　三輪社長「圧倒的に強い空港」",
+      "link": "https://www.asahi.com/articles/ASVCK2SDFVCKPLFA00FM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-17T09:06:07.539494+00:00"
+    },
+    {
+      "title": "鳥の生食 宮崎・鹿児島で聞いた声",
+      "link": "https://news.yahoo.co.jp/pickup/6602925?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-17T09:01:49+00:00"
+    },
+    {
       "title": "SKハイニックス、中小企業に設備開放　韓国半導体の競争力底上げへ",
       "link": "https://www.asahi.com/articles/ASVCK2GPKVCKUHBI009M.html?ref=rss",
       "summary": "",
@@ -1272,6 +1288,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-17T08:39:00+00:00"
+    },
+    {
+      "title": "Stocks slide as Nvidia results loom",
+      "link": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1",
+      "summary": "Investors fret over tighter US chip export controls and potential slowdown in AI data centre build-out",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-17T08:36:16+00:00"
     },
     {
       "title": "風太「最高齢」、ファンら祝福　２３歳レッサーパンダ、ギネス認定―千葉",
@@ -2165,6 +2189,14 @@
       "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
       "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
       "summary": "Article URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/\nComments URL: https://news.ycombinator.com/item?id=50524736\nPoints: 18\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-16T22:58:20+00:00"
+    },
+    {
+      "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
+      "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "summary": "Article URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/\nComments URL: https://news.ycombinator.com/item?id=50524736\nPoints: 578\n# Comments: 412",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-16T22:58:20+00:00"
