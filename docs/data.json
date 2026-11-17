@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T02:22:40.393773+00:00",
+  "generated_at": "2026-11-17T02:33:27.799348+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1154,9 +1154,29 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "コメダがタイ初出店 朝から行列",
+      "link": "https://news.yahoo.co.jp/pickup/6602885?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-17T02:28:36+00:00"
+    },
+    {
+      "title": "Japanese Equities Market’s Performance Likely to Broaden, Goldman Sachs Says",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-9-dragged-by-chip-financial-stocks-0445db62?mod=rss_markets_main",
+      "summary": "The Japanese equities market’s performance is likely to broaden from here, two analysts at Goldman Sachs Research said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-17T02:26:00+00:00"
+    },
     {
       "title": "ロシア機が領空侵犯か　福岡・沖ノ島周辺で",
       "link": "https://www.jiji.com/jc/article?k=2026111700368&g=pol&m=rss",
