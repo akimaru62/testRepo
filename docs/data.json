@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T17:05:43.415480+00:00",
+  "generated_at": "2026-11-17T17:17:55.492553+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1198,6 +1198,38 @@
   ],
   "items": [
     {
+      "title": "フィリピン大統領、協力拡大訴え　「国際法基盤に」―東アジアサミット",
+      "link": "https://www.jiji.com/jc/article?k=2026111700650&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-17T17:17:50.279743+00:00"
+    },
+    {
+      "title": "Kalshi to Halt Bets That Are Based on Trump’s Remarks",
+      "link": "https://www.wsj.com/politics/policy/kalshi-to-halt-bets-that-are-based-on-trumps-remarks-71bbc94b?mod=rss_markets_main",
+      "summary": "The company is planning to indefinitely pause contracts that allow users to place bets on what the president might say on certain dates.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-17T17:13:00+00:00"
+    },
+    {
+      "title": "The latest tech failure: U.S. classified national security communications network",
+      "link": "https://www.marketwatch.com/story/the-latest-tech-failure-u-s-classified-national-security-communications-network-ad271899?mod=mw_rss_topstories",
+      "summary": "A reported outage of a classified U.S. communications network has become the latest in a growing string of technology disruptions impacting consumers, businesses and the government.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-17T17:12:00+00:00"
+    },
+    {
+      "title": "Four Continents, Four New AWS Heroes: Closing Out 2026",
+      "link": "https://aws.amazon.com/blogs/aws/four-continents-four-new-aws-heroes-closing-out-2026/",
+      "summary": "As AWS re:Invent is around the corner, we’re proud to recognize a new group of AWS Heroes. Every Hero finds their own way to give back, whether through sharing what they know, bringing people together, or building tools that help others succeed. What they have in common is a genuine commitment to supporting the builders […]",
+      "source": "AWS ブログ (AWS)",
+      "category": "テクノロジー",
+      "published": "2026-11-17T17:06:43+00:00"
+    },
+    {
       "title": "If you own a Nasdaq-100 fund, you’ll own Anthropic shares after 15 trading days — whether you want to or not",
       "link": "https://www.marketwatch.com/story/if-you-own-a-nasdaq-100-fund-youll-own-anthropic-shares-after-15-trading-days-whether-you-want-to-or-not-19b08485?mod=mw_rss_topstories",
       "summary": "Anthropic’s suppliers are buying $26 billion worth of stock at the IPO price because they want to. Some funds will be forced to buy, and at a potentially worse price.",
@@ -1212,6 +1244,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-17T17:02:00+00:00"
+    },
+    {
+      "title": "YC wrote software to run our internship expo – and an 8-bit SIM to show it off",
+      "link": "https://news.ycombinator.com/item?id=50534429",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=50534429\nPoints: 0\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-17T17:00:24+00:00"
     },
     {
       "title": "イベント,「Japan Fintech Week 2027」の開催について公表しました。",
@@ -1316,6 +1356,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-17T16:12:22+00:00"
+    },
+    {
+      "title": "Charles Schwab website goes down",
+      "link": "https://www.businessinsider.com/charles-scwab-website-outage-reports-2026-11",
+      "summary": "Article URL: https://www.businessinsider.com/charles-scwab-website-outage-reports-2026-11\nComments URL: https://news.ycombinator.com/item?id=50533366\nPoints: 13\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-17T16:05:42+00:00"
     },
     {
       "title": "How Rakbank built centralized observability at scale with Amazon OpenSearch Service",
@@ -1529,6 +1577,14 @@
       "title": "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
       "link": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
       "summary": "Article URL: https://runta.com/blog/introducing-frontierharness-eval-v1-1/\nComments URL: https://news.ycombinator.com/item?id=50532191\nPoints: 8\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-17T14:53:43+00:00"
+    },
+    {
+      "title": "What is the best harness for each model?",
+      "link": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+      "summary": "Article URL: https://runta.com/blog/introducing-frontierharness-eval-v1-1/\nComments URL: https://news.ycombinator.com/item?id=50532191\nPoints: 119\n# Comments: 51",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-17T14:53:43+00:00"
