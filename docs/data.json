@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T05:47:23.731105+00:00",
+  "generated_at": "2026-11-17T06:09:00.481243+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1170,9 +1170,45 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "中小企業の賃上げ率4.52%、際立つ防衛的賃上げ　日商・東商調査",
+      "link": "https://www.asahi.com/articles/ASVCK1V7MVCKULFA001M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-17T06:08:55.691698+00:00"
+    },
+    {
+      "title": "〈核兵器削減〉は米中ロ首脳会談でどこまで進むか？トランプが7年前から描いていた｢3カ国核軍縮構想｣の紆余曲折 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965062?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2026年11月､世界の核兵器削減を巡り､アメリカ･トランプ大統領､中国･習近平国家主席､ロシア･プーチン大統領が深圳で歴史的な首脳会談を行います。新たな脅威と課題を前に､3大国は合意へと歩み寄れる…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-17T06:00:00+00:00"
+    },
+    {
+      "title": "人事異動（令和８年１１月１７日-所管法人役員の任命）",
+      "link": "https://www.mof.go.jp/about_mof/introduction/personnel/transfers/2026.11.17.pdf",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-17T06:00:00+00:00"
+    },
+    {
+      "title": "Xi and Canada’s Carney slash tariffs as China courts middle powers",
+      "link": "https://www.ft.com/content/3a8dbdda-1645-4b62-b64b-7da5de611d53?syn-25a6b1a6=1",
+      "summary": "Ottawa’s efforts to hedge against US pressure risk creating dependency on Beijing, analysts warn",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-17T05:44:36+00:00"
+    },
     {
       "title": "そりゃ\"国政政党\"として認識されないわ… ｢再結集｣が｢再分裂｣につながりかねない民主改革が直面する\"雲散霧消\"の危機 | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965077?utm_source=rss&utm_medium=http&utm_campaign=link_back",
