@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T07:19:41.100909+00:00",
+  "generated_at": "2026-11-17T07:33:28.068137+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1182,6 +1182,10 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
@@ -1216,6 +1220,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-17T07:19:35.459958+00:00"
+    },
+    {
+      "title": "Japan proposes ‘Asian IEA’ to manage oil stockpiles",
+      "link": "https://www.ft.com/content/208b3dff-5d7a-4250-989a-821fb70fb896?syn-25a6b1a6=1",
+      "summary": "Tokyo hopes joint reserves would insulate import-dependent region against future energy shocks",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-17T07:01:23+00:00"
     },
     {
       "title": "Asian Stocks Fall as U.S. Moves to Tighten Chip Curbs",
@@ -1285,6 +1297,14 @@
       "title": "How DB lost its bet on Putin’s Russia",
       "link": "https://www.ft.com/content/bf775dda-4148-49f9-a8b4-a4a02f44207e?syn-25a6b1a6=1",
       "summary": "Compliance staff had raised concerns as executives pushed for profits, growth and new business with Russian oligarchs",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-17T06:00:06+00:00"
+    },
+    {
+      "title": "German lender processed $582mn of suspicious payments linked to Epstein",
+      "link": "https://www.ft.com/content/72ac6fee-55f3-4db5-a1e3-873ef39c0b96?syn-25a6b1a6=1",
+      "summary": "Figure revealed by internal documents is substantially higher than previously known",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-17T06:00:06+00:00"
