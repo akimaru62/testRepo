@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T05:05:21.569725+00:00",
+  "generated_at": "2026-11-17T05:18:09.108787+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1166,9 +1166,53 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "ドイツなど欧州５カ国、不法移民をルワンダに　来年施設開所で合意、批判も",
+      "link": "https://www.jiji.com/jc/article?k=2026111700470&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-17T05:18:05.003272+00:00"
+    },
+    {
+      "title": "前橋市の住宅街にクマ２頭　車に飛び乗り、５０代男性がけが",
+      "link": "https://www.jiji.com/jc/article?k=2026111700562&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-17T05:18:05.003247+00:00"
+    },
+    {
+      "title": "江夏豊さん死去、７８歳　「伝説の左腕」「江夏の２１球」―プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026111700558&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-17T05:18:05.003210+00:00"
+    },
+    {
+      "title": "Asia Stocks Fall as U.S. Commerce Department Cracks Down on Chip Shipments",
+      "link": "https://www.wsj.com/finance/stocks/asia-stocks-fall-as-u-s-commerce-department-cracks-down-on-chip-shipments-689af812?mod=rss_markets_main",
+      "summary": "The move exacerbated investor concerns over the artificial-intelligence boom and spurring risk-off sentiment.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-17T05:11:00+00:00"
+    },
+    {
+      "title": "Tech sell-off deepens as Nvidia results loom",
+      "link": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1",
+      "summary": "Investors fret over tighter US chip export controls and potential slowdown in AI data centre build-out",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-17T05:06:24+00:00"
+    },
     {
       "title": "Asian tech stocks follow Wall Street lower as Nvidia results loom",
       "link": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1",
