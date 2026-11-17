@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T19:17:43.536927+00:00",
+  "generated_at": "2026-11-17T19:33:30.251046+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1202,6 +1202,22 @@
   ],
   "items": [
     {
+      "title": "Stocks Dip Ahead of Nvidia Earnings",
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-slip-as-investors-look-to-nvidia-earnings-1007fe69?mod=rss_markets_main",
+      "summary": "Stocks are under pressure ahead of a big day for Nvidia, with the chip maker’s interim CEO set to address Wall Street after last week’s dramatic ouster of co-founder Jensen Huang.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-17T19:27:00+00:00"
+    },
+    {
+      "title": "These charts show investor fears run even deeper than the stock market’s decline suggests",
+      "link": "https://www.marketwatch.com/story/these-charts-show-investor-fears-run-even-deeper-than-the-stock-markets-decline-suggests-924e2647?mod=mw_rss_topstories",
+      "summary": "The yen’s recent strengthening, particularly against the Australian dollar, suggests investors are unwinding risky bets.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-17T19:22:00+00:00"
+    },
+    {
       "title": "安保、輸出管理の委員会新設　米エヌビディア取締役会",
       "link": "https://www.jiji.com/jc/article?k=2026111701247&g=int&m=rss",
       "summary": "",
@@ -1224,6 +1240,38 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-17T19:01:43+00:00"
+    },
+    {
+      "title": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks?",
+      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "summary": "“Real estate here in Florida seems to be presenting some interesting opportunities.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-17T19:00:00+00:00"
+    },
+    {
+      "title": "Solid 2.0",
+      "link": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+      "summary": "Article URL: https://www.solidjs.com/blog/solid-2-0-the-long-hold/\nComments URL: https://news.ycombinator.com/item?id=50536387\nPoints: 22\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-17T18:56:17+00:00"
+    },
+    {
+      "title": "Purism Launches Librem 5 v2, a RISC-V Phone to Empower People",
+      "link": "https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/",
+      "summary": "Article URL: https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/\nComments URL: https://news.ycombinator.com/item?id=50536031\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-17T18:34:10+00:00"
+    },
+    {
+      "title": "Phrack 73 Released",
+      "link": "https://phrack.org/issues/73/introduction_md",
+      "summary": "Article URL: https://phrack.org/issues/73/introduction_md\nComments URL: https://news.ycombinator.com/item?id=50535992\nPoints: 18\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-17T18:31:25+00:00"
     },
     {
       "title": "Corporate-Card Startup Ramp Raising Funds at $70 Billion Valuation",
@@ -1296,6 +1344,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-17T18:20:30.796456+00:00"
+    },
+    {
+      "title": "Not Everything Needs an LLM",
+      "link": "https://newsletter.posthog.com/p/decision-models",
+      "summary": "Article URL: https://newsletter.posthog.com/p/decision-models\nComments URL: https://news.ycombinator.com/item?id=50535740\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-17T18:16:18+00:00"
     },
     {
       "title": "Kalshi Halts Bets That Are Based on Trump’s Remarks",
