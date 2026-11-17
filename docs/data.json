@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T17:17:55.492553+00:00",
+  "generated_at": "2026-11-17T17:33:31.419868+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1206,6 +1206,14 @@
       "published": "2026-11-17T17:17:50.279743+00:00"
     },
     {
+      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+      "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+      "summary": "Article URL: https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/\nComments URL: https://news.ycombinator.com/item?id=50534664\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-17T17:13:57+00:00"
+    },
+    {
       "title": "Kalshi to Halt Bets That Are Based on Trump’s Remarks",
       "link": "https://www.wsj.com/politics/policy/kalshi-to-halt-bets-that-are-based-on-trumps-remarks-71bbc94b?mod=rss_markets_main",
       "summary": "The company is planning to indefinitely pause contracts that allow users to place bets on what the president might say on certain dates.",
@@ -1228,6 +1236,14 @@
       "source": "AWS ブログ (AWS)",
       "category": "テクノロジー",
       "published": "2026-11-17T17:06:43+00:00"
+    },
+    {
+      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104bn",
+      "link": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf?syn-25a6b1a6=1",
+      "summary": "US chipmaker changed its reporting methods as revenues booked through the city-state surged 70 per cent",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-17T17:06:32+00:00"
     },
     {
       "title": "If you own a Nasdaq-100 fund, you’ll own Anthropic shares after 15 trading days — whether you want to or not",
@@ -1444,6 +1460,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-17T15:33:26.207434+00:00"
+    },
+    {
+      "title": "How Jensen Huang’s family shaped Nvidia’s Megaspeed dealings",
+      "link": "https://www.ft.com/content/65ff066f-a81c-4d24-95da-73c2d7b83a27?syn-25a6b1a6=1",
+      "summary": "Daughter and son-in-law come under scrutiny as board launches probe over company’s links to Megaspeed",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-17T15:33:25+00:00"
     },
     {
       "title": "Antfly learned to stop worrying and love Apache 2.0",
