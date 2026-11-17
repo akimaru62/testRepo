@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T18:06:22.221330+00:00",
+  "generated_at": "2026-11-17T18:20:34.651896+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1198,6 +1198,22 @@
   ],
   "items": [
     {
+      "title": "日ロ首脳、中国で接触見通し　高市首相、邦人記者の解放要求へ",
+      "link": "https://www.jiji.com/jc/article?k=2026111700894&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-17T18:20:31.015977+00:00"
+    },
+    {
+      "title": "エヌビディア前CEO「復帰できれば光栄」　不倫で辞任後、初の声明",
+      "link": "https://www.asahi.com/articles/ASVCK5VYJVCKUHBI02QM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-17T18:20:30.796456+00:00"
+    },
+    {
       "title": "Kalshi Halts Bets That Are Based on Trump’s Remarks",
       "link": "https://www.wsj.com/politics/policy/kalshi-to-halt-bets-that-are-based-on-trumps-remarks-71bbc94b?mod=rss_markets_main",
       "summary": "The company acted after regulators ordered it to halt contracts predicting the president’s public statements over concerns they could be manipulated.",
@@ -1214,6 +1230,14 @@
       "published": "2026-11-17T17:56:00+00:00"
     },
     {
+      "title": "iCloud, App Store, and other Apple services hit by ongoing outage",
+      "link": "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/",
+      "summary": "Article URL: https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/\nComments URL: https://news.ycombinator.com/item?id=50535268\nPoints: 13\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-17T17:49:01+00:00"
+    },
+    {
       "title": "Dow Slides Ahead of Nvidia Earnings",
       "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-slip-as-investors-look-to-nvidia-earnings-1007fe69?mod=rss_markets_main",
       "summary": "Stocks were under pressure ahead of a big day for Nvidia, with the chip maker’s interim chief executive set to address Wall Street after last week’s dramatic ouster of co-founder Jensen Huang.",
@@ -1222,12 +1246,28 @@
       "published": "2026-11-17T17:49:00+00:00"
     },
     {
+      "title": "Apple Services Down",
+      "link": "https://downdetector.com/status/apple-support/",
+      "summary": "Article URL: https://downdetector.com/status/apple-support/\nComments URL: https://news.ycombinator.com/item?id=50535238\nPoints: 27\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-17T17:47:14+00:00"
+    },
+    {
       "title": "GPT‑6.2 Astra and Sol",
       "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
       "summary": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/\nComments URL: https://news.ycombinator.com/item?id=50535230\nPoints: 100\n# Comments: 23",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-17T17:46:43+00:00"
+    },
+    {
+      "title": "Who Builds the Machines That Build the Machines?",
+      "link": "https://read.corematter.com/p/section-232-us-machine-tools",
+      "summary": "Article URL: https://read.corematter.com/p/section-232-us-machine-tools\nComments URL: https://news.ycombinator.com/item?id=50535208\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-17T17:45:39+00:00"
     },
     {
       "title": "As stocks struggle, bonds are finally helping investors play defense again. There’s just one problem.",
@@ -1268,6 +1308,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-17T17:13:00+00:00"
+    },
+    {
+      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "link": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+      "summary": "Article URL: https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf\nComments URL: https://news.ycombinator.com/item?id=50534631\nPoints: 14\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-17T17:12:06+00:00"
     },
     {
       "title": "The latest tech failure: U.S. classified national security communications network",
