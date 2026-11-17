@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T16:06:38.667840+00:00",
+  "generated_at": "2026-11-17T16:19:47.048692+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1230,6 +1230,30 @@
       "published": "2026-11-17T17:00:00+00:00"
     },
     {
+      "title": "米中会談、台湾も議題か　「習氏が提起」とトランプ氏",
+      "link": "https://www.jiji.com/jc/article?k=2026111701249&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-17T16:19:42.131913+00:00"
+    },
+    {
+      "title": "対潜哨戒演習、２７年実施　日米豪印首脳、中国を念頭―サイバー協力強化",
+      "link": "https://www.jiji.com/jc/article?k=2026111700657&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-17T16:19:42.131901+00:00"
+    },
+    {
+      "title": "日本ハム、外国人４選手と契約合意　プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026111600830&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-17T16:19:42.131861+00:00"
+    },
+    {
       "title": "How Rakbank built centralized observability at scale with Amazon OpenSearch Service",
       "link": "https://aws.amazon.com/blogs/architecture/how-rakbank-built-centralized-observability-at-scale-with-amazon-opensearch-service/",
       "summary": "Rakbank re-platformed logging for its retail digital banking workloads on a cross-account, Multi-AZ Amazon OpenSearch Service design that ingests ~150 GB/day through Fluent Bit, using hot/UltraWarm/cold tiering and Amazon S3 archival for 7-year compliance retention and ~55% cost savings over an all-hot cluster.",
@@ -1260,6 +1284,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-17T15:39:00+00:00"
+    },
+    {
+      "title": "Highly classified US national security communications network goes down",
+      "link": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+      "summary": "Article URL: https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down\nComments URL: https://news.ycombinator.com/item?id=50532849\nPoints: 34\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-17T15:38:28+00:00"
     },
     {
       "title": "Oil Futures Gain on Continued Shipping Risks",
