@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T16:19:47.048692+00:00",
+  "generated_at": "2026-11-17T16:33:22.456830+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1254,6 +1254,14 @@
       "published": "2026-11-17T16:19:42.131861+00:00"
     },
     {
+      "title": "Jensen Huang says he is prepared to return as Nvidia CEO",
+      "link": "https://www.ft.com/content/e265542c-25d9-4a82-8cb7-e4a4b641cdda?syn-25a6b1a6=1",
+      "summary": "First public remarks since scandal erupted come despite the chipmaker’s board signalling it has no intention of reinstating the co-founder",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-17T16:12:22+00:00"
+    },
+    {
       "title": "How Rakbank built centralized observability at scale with Amazon OpenSearch Service",
       "link": "https://aws.amazon.com/blogs/architecture/how-rakbank-built-centralized-observability-at-scale-with-amazon-opensearch-service/",
       "summary": "Rakbank re-platformed logging for its retail digital banking workloads on a cross-account, Multi-AZ Amazon OpenSearch Service design that ingests ~150 GB/day through Fluent Bit, using hot/UltraWarm/cold tiering and Amazon S3 archival for 7-year compliance retention and ~55% cost savings over an all-hot cluster.",
@@ -1268,6 +1276,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-17T16:00:00+00:00"
+    },
+    {
+      "title": "US tech stocks tumble ahead of Nvidia results",
+      "link": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1",
+      "summary": "Nasdaq 100 down 2.1% after volatile run of trading",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-17T15:58:19+00:00"
     },
     {
       "title": "リニア中央新幹線の開業時期　JR東海、年内の見通し公表を断念へ",
