@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T05:47:54.980249+00:00",
+  "generated_at": "2026-11-18T06:08:50.803199+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1210,12 +1210,28 @@
   ],
   "items": [
     {
+      "title": "Why Fibonacci?",
+      "link": "https://www.evilgeniuslabs.org/why-fibonacci",
+      "summary": "Article URL: https://www.evilgeniuslabs.org/why-fibonacci\nComments URL: https://news.ycombinator.com/item?id=50542264\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T05:35:02+00:00"
+    },
+    {
       "title": "Asian Equities Mixed as Investors Parse Nvidia’s Quarterly Results, Guidance",
       "link": "https://www.wsj.com/finance/asian-equities-mixed-as-investors-parse-nvidias-results-guidance-7041c3ea?mod=rss_markets_main",
       "summary": "Investors have been monitoring how Nvidia could perform without Jensen Huang, the only CEO the company had ever had until his resignation last week.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-18T05:33:00+00:00"
+    },
+    {
+      "title": "I had AI read my field",
+      "link": "https://science.caseyhandmer.com/physics/",
+      "summary": "Article URL: https://science.caseyhandmer.com/physics/\nComments URL: https://news.ycombinator.com/item?id=50542217\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T05:26:41+00:00"
     },
     {
       "title": "Suica新キャラは「紫のうさぎ」",
