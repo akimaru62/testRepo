@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T04:47:50.068849+00:00",
+  "generated_at": "2026-11-18T05:05:58.095578+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1202,9 +1202,29 @@
     {
       "url": "https://azure.microsoft.com/ja-jp/blog/feed/",
       "error": "HTTPSConnectionPool(host='azure.microsoft.com', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7cc0eb365550>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "決算好調のエヌビディア、フアン氏退任後のAI業界への資金供給は？",
+      "link": "https://www.asahi.com/articles/ASVCL1DVXVCLUHBI00FM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-18T05:05:52.510861+00:00"
+    },
+    {
+      "title": "格差拡大の時代に考えたい､実態のない｢お金｣がわたしたちの世界を動かす最大の原動力になったのはなぜなのか | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964794?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "お金はわたしたちの日常を動かす最大の原動力です。しかし､その本質や信頼の重要性について､真剣に考えたことはあるでしょうか？　ノーベル賞経済学者も推薦する『22世紀の貪欲論』は､お金が持つ力と､その裏…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-18T05:00:00+00:00"
+    },
     {
       "title": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
       "link": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
