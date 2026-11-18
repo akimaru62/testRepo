@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T17:05:20.920350+00:00",
+  "generated_at": "2026-11-18T17:17:08.161812+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1234,12 +1234,60 @@
   ],
   "items": [
     {
+      "title": "高市首相はロシアのプーチン大統領と意見交換した",
+      "link": "https://www.jiji.com/jc/article?k=2026111900016&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-18T17:17:04.049169+00:00"
+    },
+    {
+      "title": "高市首相、ロシア大統領と意見交換",
+      "link": "https://www.jiji.com/jc/article?k=2026111900021&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-18T17:17:04.049138+00:00"
+    },
+    {
+      "title": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks and buy real estate?",
+      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "summary": "“Real estate here in Florida seems to be presenting some interesting opportunities.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-18T17:15:00+00:00"
+    },
+    {
+      "title": "Gold, Silver Extend Losses as Copper Slides",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-treads-water-as-fed-dollar-keep-weighing-3f6439e8?mod=rss_markets_main",
+      "summary": "Metals futures are setting new lows for the year, with gold and silver dragged down in part by the slide in copper.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-18T17:09:00+00:00"
+    },
+    {
+      "title": "Democrats nominate Hakeem Jeffries as US House Speaker",
+      "link": "https://www.ft.com/content/9d0998cf-ffb8-4fe4-9f85-0c403b1966f9?syn-25a6b1a6=1",
+      "summary": "56-year-old on track to become first Black lawmaker to lead lower chamber of Congress",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-18T17:05:39+00:00"
+    },
+    {
       "title": "US tech lower after Nvidia results",
       "link": "https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1",
       "summary": "Chip group raises forecast and new chief says ‘it’s business as usual’ after revelations of Huang’s affairs triggered sell-off",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-18T16:41:32+00:00"
+    },
+    {
+      "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
+      "link": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
+      "summary": "Article URL: https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO\nComments URL: https://news.ycombinator.com/item?id=50548485\nPoints: 9\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T16:41:22+00:00"
     },
     {
       "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
@@ -1256,6 +1304,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-18T16:30:00+00:00"
+    },
+    {
+      "title": "Software Factory builds 30 complex open source libraries in a month",
+      "link": "https://recursiveai.org/blog/what-my-software-factory-built/",
+      "summary": "Article URL: https://recursiveai.org/blog/what-my-software-factory-built/\nComments URL: https://news.ycombinator.com/item?id=50548281\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T16:26:42+00:00"
     },
     {
       "title": "Copper at Lowest Since April Amid AI Market Turmoil, Chinese Demand Concerns",
@@ -1354,6 +1410,14 @@
       "published": "2026-11-18T15:57:00+00:00"
     },
     {
+      "title": "Ratwires – The Graffiti Wall of the Internet",
+      "link": "https://ratwire.space/",
+      "summary": "Article URL: https://ratwire.space/\nComments URL: https://news.ycombinator.com/item?id=50547813\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T15:52:01+00:00"
+    },
+    {
       "title": "AI Agents Ask Better Questions Than KPMG Accountants in Landmark Audit Trial",
       "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
       "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/\nComments URL: https://news.ycombinator.com/item?id=50547777\nPoints: 5\n# Comments: 0",
@@ -1373,6 +1437,14 @@
       "title": "Deutsche Bank",
       "link": "https://www.inside-db.com/",
       "summary": "Article URL: https://www.inside-db.com/\nComments URL: https://news.ycombinator.com/item?id=50547620\nPoints: 25\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T15:38:33+00:00"
+    },
+    {
+      "title": "Inside Deutsche Bank",
+      "link": "https://www.inside-db.com/",
+      "summary": "Article URL: https://www.inside-db.com/\nComments URL: https://news.ycombinator.com/item?id=50547620\nPoints: 180\n# Comments: 57",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-18T15:38:33+00:00"
