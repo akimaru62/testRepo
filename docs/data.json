@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T14:18:07.932488+00:00",
+  "generated_at": "2026-11-18T14:33:52.429599+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1218,9 +1218,33 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://www3.nhk.or.jp/rss/news/cat5.xml",
+      "error": "HTTPSConnectionPool(host='www3.nhk.or.jp', port=443): Max retries exceeded with url: /rss/news/cat5.xml (Caused by NameResolutionError(\"HTTPSConnection(host='www3.nhk.or.jp', port=443): Failed to resolve 'www3.nhk.or.jp' ([Errno -3] Temporary failure in name resolution)\"))"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "HTTPSConnectionPool(host='search.cnbc.com', port=443): Max retries exceeded with url: /rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664 (Caused by NameResolutionError(\"HTTPSConnection(host='search.cnbc.com', port=443): Failed to resolve 'search.cnbc.com' ([Errno -3] Temporary failure in name resolution)\"))"
     }
   ],
   "items": [
+    {
+      "title": "How high must interest rates go to cool inflation? Possibly 100 basis points or more, Fed’s Waller says.",
+      "link": "https://www.marketwatch.com/story/how-high-must-interest-rates-go-to-cool-inflation-possibly-100-basis-points-or-more-feds-waller-says-e7b41cf6?mod=mw_rss_topstories",
+      "summary": "The central bank might have to be more aggressive in order to “shock” inflation out of the system, Federal Reserve governor Christopher Waller said Wednesday.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-18T14:32:00+00:00"
+    },
+    {
+      "title": "Euro’s Weakness Continues; Eurozone Bond Yields Fall",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-d2acd03c?mod=rss_markets_main",
+      "summary": "The euro fell against the dollar, weighed by renewed  pressure on eurozone peripheral and French bonds.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-18T14:23:00+00:00"
+    },
     {
       "title": "香港の夜景ショー、２２年の歴史に幕",
       "link": "https://www.jiji.com/jc/article?k=2026111801227&g=int&m=rss",
@@ -1769,6 +1793,14 @@
       "title": "Stock Market Today: Tech Stocks Set to Rise After Nvidia Earnings Soothe AI Jitters",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026?mod=rss_markets_main",
       "summary": "Chip maker sought to reassure on its prospects without Jensen Huang",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-18T09:52:59+00:00"
+    },
+    {
+      "title": "Stock Market Today: Tech Stocks Edge Up After Nvidia Earnings Soothe AI Jitters",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026?mod=rss_markets_main",
+      "summary": "Chip giant's stock gets small boost; Dow slips",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-18T09:52:59+00:00"
