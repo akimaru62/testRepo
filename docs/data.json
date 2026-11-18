@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T15:33:32.462125+00:00",
+  "generated_at": "2026-11-18T15:47:32.016458+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1230,12 +1230,28 @@
   ],
   "items": [
     {
+      "title": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock",
+      "link": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
+      "summary": "Nvidia investors face uncertainty around CEO succession, the AI ecosystem, export controls and China.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-18T15:42:00+00:00"
+    },
+    {
       "title": "Tech outages are causing people to panic buy. Costco is benefitting",
       "link": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
       "summary": "Shoppers are spending more at Costco as tech outages turn into a race to get emergency goods",
       "source": "CNBC",
       "category": "海外金融",
       "published": "2026-11-18T15:22:24+00:00"
+    },
+    {
+      "title": "Pre-auth RCE in Nginx HTTP/2 handling",
+      "link": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "summary": "Article URL: https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities\nComments URL: https://news.ycombinator.com/item?id=50547374\nPoints: 17\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T15:19:55+00:00"
     },
     {
       "title": "「民主主義の時代は終わった」ＮＺ最大都市の市長、中国の一党支配体制を称賛",
@@ -1316,6 +1332,22 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-18T14:56:52+00:00"
+    },
+    {
+      "title": "The x86 CPU: From 4004 to 486",
+      "link": "https://pikuma.com/blog/history-of-x86-4004-to-486",
+      "summary": "Article URL: https://pikuma.com/blog/history-of-x86-4004-to-486\nComments URL: https://news.ycombinator.com/item?id=50546967\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T14:47:53+00:00"
+    },
+    {
+      "title": "A Primer on Fourier Series",
+      "link": "https://arxiv.org/abs/2510.18203",
+      "summary": "Article URL: https://arxiv.org/abs/2510.18203\nComments URL: https://news.ycombinator.com/item?id=50546922\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T14:44:33+00:00"
     },
     {
       "title": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
