@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T20:05:43.240247+00:00",
+  "generated_at": "2026-11-18T20:18:03.606525+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1242,6 +1242,30 @@
   ],
   "items": [
     {
+      "title": "ネパール閣僚「資金確保に苦労」　国際社会に支援拡充訴え―ＣＯＰ３１",
+      "link": "https://www.jiji.com/jc/article?k=2026111900101&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-18T20:17:56.858838+00:00"
+    },
+    {
+      "title": "オンライン会議で使うワイヤレスイヤホンに潜む盗聴リスク､私物任せがヤバい──更新管理でも防げないセキュリティ問題 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965044?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ワイヤレスイヤホンが盗聴や不正アクセスの危険に──アップデートでは防ぎきれない脆弱性､企業や組織として､どう管理･対策すべきなのか。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-18T20:15:00+00:00"
+    },
+    {
+      "title": "Resilience testing your agents on Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/architecture/resilience-testing-your-agents-on-amazon-bedrock-agentcore/",
+      "summary": "When an AI agent's tools fail or return corrupted data, does it fail safe or confidently fabricate an answer? Learn how to inject tool-level faults (cancelled calls, corrupted responses, stripped fields) into a Strands agent on Amazon Bedrock AgentCore using AWS Fault Injection Service, and build the observability to tell a safe failure from a silent one.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-11-18T20:06:14+00:00"
+    },
+    {
       "title": "｢成長スピードを意図的に落とす｣ブラックサンダーを再成長へ導いた35歳新社長の泥臭い組織改革と決断 | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/961161?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "経営未経験で社長に就任し､危機に瀕した有楽製菓の再建に挑んだ河合辰信氏。短期的利益よりも\"社員の心\"を動かす泥臭い組織改革で､V字回復を果たした秘訣とは？迷った時こそワクワクする選択が未来を拓く――…",
@@ -1256,6 +1280,22 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-18T19:59:00+00:00"
+    },
+    {
+      "title": "Citi settles sex harassment case alleging threats to managing director",
+      "link": "https://www.ft.com/content/1e37b3de-6691-4edc-a3d3-e96eb73affed?syn-25a6b1a6=1",
+      "summary": "Wall Street bank resolves lawsuit filed by former markets executive who accused it of fostering a culture of sexual abuse",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-18T19:52:21+00:00"
+    },
+    {
+      "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
+      "link": "https://www.radixark.com/blog/daisyrose-27b",
+      "summary": "Article URL: https://www.radixark.com/blog/daisyrose-27b\nComments URL: https://news.ycombinator.com/item?id=50551046\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T19:39:16+00:00"
     },
     {
       "title": "AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances",
