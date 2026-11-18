@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T20:33:16.402843+00:00",
+  "generated_at": "2026-11-18T20:47:33.854835+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1242,6 +1242,102 @@
   ],
   "items": [
     {
+      "title": "Aderant modernizes analytics data pipeline with Apache Iceberg and AWS Lambda",
+      "link": "https://aws.amazon.com/blogs/architecture/aderant-modernizes-analytics-data-pipeline-with-apache-iceberg-and-aws-lambda/",
+      "summary": "Learn how Aderant modernized the data pipeline behind its Stridyn legal analytics platform with Apache Iceberg, AWS Lambda, and AWS Glue, moving from 15-minute batch cycles to an event-driven medallion architecture that processes change data capture events in single-digit seconds for 700 tenants, with 10-26x faster queries and 77 percent lower cost.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-11-18T20:46:08+00:00"
+    },
+    {
+      "title": "〈貿易赤字10兆円〉の2027年がやってくる…確実に｢輸出は減り､輸入は増える｣､円の行方は原油高次第＝中東次第 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965252?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "10月の貿易収支は4765億円の赤字となり､輸出入ともに過去最高額を記録しました。半導体需要や原油高､円安が要因となり､今後も貿易赤字が拡大する公算が高まっています。2027年にはどう展望すべきなの…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-18T20:45:00+00:00"
+    },
+    {
+      "title": "食料品減税なら｢逆風｣の外食業界に活路はあるか…中食･内食との消費税率差が拡大､持ち帰り強化にもハードル | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964639?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "「既存店の客数は前年同期比で5％ほど落ち込むだろう」。居酒屋チェーン「庄や」などを展開する大庄の野間信護副社長は、食料品の消費税減税が実施された場合の影響をそう見込む。2027年4月から2年間、食料…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-18T20:45:00+00:00"
+    },
+    {
+      "title": "日本オラクル･三澤社長が \"自社サーバー9割\"のレガシー市場に見いだす勝算…米本社｢受注100兆円｣でも株価低迷のなぜ？ | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964637?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "――アメリカ本社は、契約済みの受注残が2026年8月末時点で約100兆円になったと発表しています。背景に何があるのでしょうか？AI（人工知能）の演算処理が膨らんだときに、絶対に遅延を起こさせないネッ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-18T20:45:00+00:00"
+    },
+    {
+      "title": "家族3人で7018円､3歳以下はサラダバー無料…3世代の家族客でにぎわう｢ステーキのあさくま｣のファミリー向けの\"実力値\" | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964420?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "家族3世代で楽しめる老舗レストラン｢ステーキのあさくま｣。かつては業績悪化に苦しんだものの､サラダバーの豪華さと本格的なハンバーグやステーキを武器にV字回復。その実力を実食レポートでご紹介します。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-18T20:45:00+00:00"
+    },
+    {
+      "title": "｢防衛は儲かる産業に｣撤退100社超から再参入の波も…元装備庁長官が明かすAI筆頭に伸びる6分野と､契約制度の急所 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964006?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "――インタビューの第1回では「防衛産業は儲からない」ことが企業撤退の背景だったと指摘されました。企業の姿勢は変わりましたか。この20年余りで100社を超える企業が防衛分野から撤退した。だが最近は予算…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-18T20:45:00+00:00"
+    },
+    {
+      "title": "Nvidia accelerates pay rises as interim CEO seeks to lift staff morale",
+      "link": "https://www.ft.com/content/9ee78a67-fcab-4e43-bee7-09c9244e76b8?syn-25a6b1a6=1",
+      "summary": "Colette Kress addresses ‘all-hands’ meeting as departed founder Jensen Huang manoeuvres for a return",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-18T20:40:19+00:00"
+    },
+    {
+      "title": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI",
+      "link": "https://www.marketwatch.com/story/google-turns-to-a-volcano-and-rock-melting-technology-in-a-wild-new-bid-to-power-ai-fbbe57ef?mod=mw_rss_topstories",
+      "summary": "Google’s agreement with Quaise is “a bet on a first-of-a-kind technology,” according to a Bernstein analyst.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-18T20:39:00+00:00"
+    },
+    {
+      "title": "How United Airlines streams database changes to Apache Iceberg with Amazon Data Firehose",
+      "link": "https://aws.amazon.com/blogs/architecture/how-united-airlines-streams-database-changes-to-apache-iceberg-with-amazon-data-firehose/",
+      "summary": "United Airlines built a near-real-time change data capture pipeline that replicates reference data from Amazon Aurora MySQL to open Apache Iceberg tables using AWS DMS, Amazon Kinesis Data Streams, and Amazon Data Firehose. This post shows how to reproduce the serverless, multi-engine analytics pattern with AWS CloudFormation.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-11-18T20:37:39+00:00"
+    },
+    {
+      "title": "Treasury Yields Fall Despite Hawkish Fed Expectations",
+      "link": "https://www.wsj.com/finance/jgbs-edge-lower-ahead-of-20-year-auction-91707090?mod=rss_markets_main",
+      "summary": "Treasury yields slipped even as policymakers touted the possibility of a fast increase in U.S. interest rates.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-18T20:34:00+00:00"
+    },
+    {
+      "title": "｢AIの仕業｣なのか？ 情報流出の公表急増…自社も被害に遭った元NISC幹部のIIJ社長が挙げる3つの要因 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964886?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "――不正アクセスの被害公表件数が夏以降に急増しています。足元で被害の公表件数が急増しているのは事実だが、攻撃そのものが夏以降に急激に増えたのかというと、そうは言い切れないと思う。警察庁の調査によると…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-18T20:30:00+00:00"
+    },
+    {
+      "title": "なぜBMWはあえて｢セダン｣に力を入れるのか？ 新型｢3シリーズ｣とEV版｢i3｣の南仏試乗で見えた独自路線 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964838?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "BMW｢3シリーズ｣が2026年9月にフルモデルチェンジした。眼目はバリエーションの豊富さ。ガソリン車に加えて､ピュアEVもラインナップされた。11月初旬にさっそく､南仏でテストドライブした…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-18T20:30:00+00:00"
+    },
+    {
       "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work to play — and some companies are making the game’s release a holiday",
       "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
       "summary": "After waiting 13 years for this videogame, almost one-fifth of workers are said to be taking Thursday off to play ‘Grand Theft Auto VI’ when it drops",
@@ -1384,6 +1480,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-18T19:03:00+00:00"
+    },
+    {
+      "title": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
+      "link": "https://tin.computer/blog/fake-ai-crawler-secrets-scanners",
+      "summary": "Article URL: https://tin.computer/blog/fake-ai-crawler-secrets-scanners\nComments URL: https://news.ycombinator.com/item?id=50550461\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T18:53:17+00:00"
     },
     {
       "title": "Genie 4 is now available",
