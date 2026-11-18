@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T16:33:21.038057+00:00",
+  "generated_at": "2026-11-18T16:48:13.684282+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1226,9 +1226,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "HTTPSConnectionPool(host='search.cnbc.com', port=443): Max retries exceeded with url: /rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664 (Caused by NameResolutionError(\"HTTPSConnection(host='search.cnbc.com', port=443): Failed to resolve 'search.cnbc.com' ([Errno -3] Temporary failure in name resolution)\"))"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x75750ff09940>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "US tech lower after Nvidia results",
+      "link": "https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1",
+      "summary": "Chip group raises forecast and new chief says ‘it’s business as usual’ after revelations of Huang’s affairs triggered sell-off",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-18T16:41:32+00:00"
+    },
+    {
+      "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
+      "link": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
+      "summary": "Shoppers are spending more at Costco as tech outages turn into a race to get emergency goods.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-11-18T16:33:14+00:00"
+    },
     {
       "title": "CoreWeave’s stock drops as Nvidia talks up a ‘disciplined’ approach to financing",
       "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
@@ -1270,7 +1290,23 @@
       "published": "2026-11-18T16:04:00+00:00"
     },
     {
+      "title": "Worried investors are paying a premium for these stocks — some with as much as 49% upside, analysts say",
+      "link": "https://www.marketwatch.com/story/worried-investors-are-paying-up-for-these-stocks-some-with-up-to-49-upside-analysts-say-ea8f2c6f?mod=mw_rss_topstories",
+      "summary": "Defensive sectors have beaten the S&amp;P 500 by a wide margin in recent months, even though they are priced much higher relative to earnings estimates than the index.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-18T16:04:00+00:00"
+    },
+    {
       "title": "Oracle’s stock is ridiculously cheap even under the most gloomy scenarios, analyst says",
+      "link": "https://www.marketwatch.com/story/oracles-stock-is-ridiculously-cheap-even-under-the-most-gloomy-scenarios-analyst-says-630d30ec?mod=mw_rss_topstories",
+      "summary": "Even if you assume Oracle’s AI data-center business disappears while its debt remains, Oracle shares are still trading lower than they should, according to new analysis from Bernstein.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-18T15:57:00+00:00"
+    },
+    {
+      "title": "Oracle’s stock is ridiculously cheap even in the most gloomy scenarios, analyst says",
       "link": "https://www.marketwatch.com/story/oracles-stock-is-ridiculously-cheap-even-under-the-most-gloomy-scenarios-analyst-says-630d30ec?mod=mw_rss_topstories",
       "summary": "Even if you assume Oracle’s AI data-center business disappears while its debt remains, Oracle shares are still trading lower than they should, according to new analysis from Bernstein.",
       "source": "MarketWatch",
