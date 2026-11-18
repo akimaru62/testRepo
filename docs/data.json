@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T13:05:30.656636+00:00",
+  "generated_at": "2026-11-18T13:17:57.474993+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1210,9 +1210,69 @@
     {
       "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
       "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/rss/topics/business.xml",
+      "error": "500 Server Error: Internal Server Error for url: https://news.yahoo.co.jp/rss/topics/business.xml"
     }
   ],
   "items": [
+    {
+      "title": "期限までに送検せず、釈放　覚醒剤事件の男―福岡県警",
+      "link": "https://www.jiji.com/jc/article?k=2026111801189&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-18T13:17:53.166908+00:00"
+    },
+    {
+      "title": "習氏、首脳外交を展開　ＡＰＥＣ会議が開幕―中国・深セン",
+      "link": "https://www.jiji.com/jc/article?k=2026111800187&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-18T13:17:53.166895+00:00"
+    },
+    {
+      "title": "政府広報に批判殺到　「陰謀論」ユーチューバー起用",
+      "link": "https://www.jiji.com/jc/article?k=2026111801024&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-18T13:17:53.166871+00:00"
+    },
+    {
+      "title": "中国、高市首相への冷遇際立つ　トランプ氏には異例の出迎え",
+      "link": "https://www.jiji.com/jc/article?k=2026111801181&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-18T13:17:53.166845+00:00"
+    },
+    {
+      "title": "エヌビディア創業者と不倫疑惑アリス氏、日本にも会社設立　中国報道",
+      "link": "https://www.asahi.com/articles/ASVCL419JVCLKJHL00GM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-18T13:17:53.092030+00:00"
+    },
+    {
+      "title": "Textron Selling Industrial Segment to Kingswood Capital for $1.2 Billion",
+      "link": "https://www.wsj.com/business/deals/textron-selling-industrial-segment-to-kingswood-capital-for-1-2-billion-5caba969?mod=rss_markets_main",
+      "summary": "The signed a definitive sale agreement with an affiliate of Kingswood Capital Management that will see it bring in net cash proceeds of roughly $1.1 billion after tax and transaction-related expenses.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-18T13:11:00+00:00"
+    },
+    {
+      "title": "The only way out of populism is through it",
+      "link": "https://www.ft.com/content/e71273dd-2748-4396-bb62-e75307105596?syn-25a6b1a6=1",
+      "summary": "The lesson of Britain and America is that bad ideas have to be tested to destruction",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-18T13:04:25+00:00"
+    },
     {
       "title": "Measles cases in the U.S. are at a 35-year high. Here’s the staggering cost of these outbreaks for all Americans.",
       "link": "https://www.marketwatch.com/story/measles-cases-in-the-u-s-are-at-a-35-year-high-heres-the-staggering-cost-of-falling-vaccination-rates-for-americans-e80a7ac6?mod=mw_rss_topstories",
@@ -1244,6 +1304,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-18T12:46:00+00:00"
+    },
+    {
+      "title": "US tech outages blamed on rush to fix bugs found by AI",
+      "link": "https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1",
+      "summary": "Experts say a race to patch software flaws likely created instability in computer systems at Microsoft, JPMorgan, the FAA and others",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-18T12:44:53+00:00"
     },
     {
       "title": "いじめ被害の男子高校生自殺　「重大事態」認定、調査中に―岩手",
