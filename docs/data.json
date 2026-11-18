@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T16:18:09.716985+00:00",
+  "generated_at": "2026-11-18T16:33:21.038057+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1230,6 +1230,30 @@
   ],
   "items": [
     {
+      "title": "CoreWeave’s stock drops as Nvidia talks up a ‘disciplined’ approach to financing",
+      "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
+      "summary": "Nvidia interim CEO Colette Kress said neoclouds are “increasingly important,” but added the company will take “a very strong look” at the customers it helps with financing.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-18T16:30:00+00:00"
+    },
+    {
+      "title": "Copper at Lowest Since April Amid AI Market Turmoil, Chinese Demand Concerns",
+      "link": "https://www.wsj.com/finance/commodities-futures/copper-at-lowest-since-april-amid-ai-market-turmoil-chinese-demand-concerns-4325361e?mod=rss_markets_main",
+      "summary": "Copper prices tumbled below $13,000 a metric ton as a stronger U.S. dollar, growing concerns over Chinese industrial demand and a selloff in AI-related stocks overshadowed tightening supplies of the metal.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-18T16:26:00+00:00"
+    },
+    {
+      "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
+      "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
+      "summary": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are expected to hold a rare trilateral meeting on Thursday.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-11-18T16:14:10+00:00"
+    },
+    {
       "title": "高市首相、習国家主席と握手　ＡＰＥＣ出席へ初訪中",
       "link": "https://www.jiji.com/jc/article?k=2026111800129&g=pol&m=rss",
       "summary": "",
@@ -1276,6 +1300,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-18T15:35:44+00:00"
+    },
+    {
+      "title": "NGINX2Root by Xint – From Nginx visitor to root of the server host",
+      "link": "https://nginx2root.com/",
+      "summary": "Article URL: https://nginx2root.com/\nComments URL: https://news.ycombinator.com/item?id=50547423\nPoints: 11\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T15:24:17+00:00"
     },
     {
       "title": "Tech outages are causing people to panic buy. Costco is benefitting",
