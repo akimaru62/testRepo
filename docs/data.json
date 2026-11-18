@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T19:04:23.375012+00:00",
+  "generated_at": "2026-11-18T19:17:45.057718+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1242,12 +1242,44 @@
   ],
   "items": [
     {
+      "title": "熊本県で震度５弱",
+      "link": "https://www.jiji.com/jc/article?k=2026111900068&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-18T19:17:38.912755+00:00"
+    },
+    {
+      "title": "Fed minutes show growing unease about the outlook for inflation",
+      "link": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
+      "summary": "At the October meeting, there was some discussion of an aggressive rate hike at the Federal Reserve’s December meeting.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-18T19:12:00+00:00"
+    },
+    {
       "title": "高市首相、ロシア大統領と意見交換　７年ぶり直接対話、記者解放要求",
       "link": "https://www.jiji.com/jc/article?k=2026111900021&g=pol&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-18T19:04:19.355713+00:00"
+    },
+    {
+      "title": "AI Boom Seen as Supporting Dollar in Coming Months",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-d2acd03c?mod=rss_markets_main",
+      "summary": "The dollar strengthened and massive investment in AI is supporting it, Deutsche Bank analysts said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-18T19:03:00+00:00"
+    },
+    {
+      "title": "Genie 4 is now available",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/\nComments URL: https://news.ycombinator.com/item?id=50550415\nPoints: 19\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T18:49:51+00:00"
     },
     {
       "title": "Block DNS threats with Infoblox rules in Amazon Route 53 Resolver DNS Firewall",
@@ -1280,6 +1312,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-18T18:27:54+00:00"
+    },
+    {
+      "title": "Scottish HTTP Codes",
+      "link": "https://underwood.network/http/scots.html",
+      "summary": "Article URL: https://underwood.network/http/scots.html\nComments URL: https://news.ycombinator.com/item?id=50550062\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T18:26:19+00:00"
     },
     {
       "title": "１９日に米中ロ首脳会談　トランプ氏到着を習氏出迎え―核軍縮、歴史認識焦点",
@@ -1458,6 +1498,14 @@
       "published": "2026-11-18T17:05:13+00:00"
     },
     {
+      "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+      "link": "https://news.ycombinator.com/item?id=50548660",
+      "summary": "Hi HN, we're Shane, Sam, and Abhi.Almost two years ago, we shared Mastra, our open-source TypeScript agent framework, on Show HN: https://news.ycombinator.com/item?id=43103073. It got a few hundred upvotes; a couple of weeks later our downloads had doubled, and we were off to the races.Today we're sharing Mastra Factory, the open-source software factory we built to help maintain Mastra itself.At Mastra, we now average nearly 4M downloads per week, and with Factory our team now merges hundreds of PRs a week across the mastra-ai GitHub org. Last week, Factory opened and merged 238 PRs, alongside 630 merged PRs from humans.There's a lot of debate about what a software factory is. For us Factory is a configurable agentic kanban board that's @-taggable in Slack.Under the hood, it uses Mastra’s durable agents for long-running sessions, our conversational memory system, a markdown based wiki with source citations to incorporate company knowledge, signals that subscribe to PR comments wired up into sessions, and a customizable cloud sandbox with our coding harness (working on supporting Claude Code, Codex etc).When we started out, we modeled Factory around our existing workflow-oriented process (triage, plan, build, review, shipped). Three months later, we find ourselves mostly driving it through Slack vs a web UI.We’ve seen more senior engineers kick off sessions in parallel (“triage the 20 oldest issues and let’s evaluate…”). We’re using bug and vuln scanners now, and we’ve closed our repo to outside contributors, asking folks to write detailed issue repros instead.You can get started with `npm create factory`.It’s fully open-source, so you can run it entirely on your infra (we also offer a hosted version). Comment here, we would love to know what you think!\n\nComments URL: https://news.ycombinator.com/item?id=50548660\nPoints: 17\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T16:53:42+00:00"
+    },
+    {
       "title": "Pikuma: Fundamentals of Computer Science and Mathematics",
       "link": "https://pikuma.com/",
       "summary": "Article URL: https://pikuma.com/\nComments URL: https://news.ycombinator.com/item?id=50548633\nPoints: 8\n# Comments: 0",
@@ -1573,6 +1621,14 @@
       "title": "CVE-2026-99312: KVM Guest-to-Host Escape",
       "link": "https://www.terra.security/blog/kvm-guest-to-host-escape",
       "summary": "Article URL: https://www.terra.security/blog/kvm-guest-to-host-escape\nComments URL: https://news.ycombinator.com/item?id=50548004\nPoints: 14\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T16:06:21+00:00"
+    },
+    {
+      "title": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
+      "link": "https://www.cve.org/CVERecord?id=CVE-2026-99312",
+      "summary": "Article URL: https://www.cve.org/CVERecord?id=CVE-2026-99312\nComments URL: https://news.ycombinator.com/item?id=50548004\nPoints: 132\n# Comments: 80",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-18T16:06:21+00:00"
