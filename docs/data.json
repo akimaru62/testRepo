@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T05:18:07.567900+00:00",
+  "generated_at": "2026-11-18T05:33:39.422074+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1210,6 +1210,14 @@
   ],
   "items": [
     {
+      "title": "Suica新キャラは「紫のうさぎ」",
+      "link": "https://news.yahoo.co.jp/pickup/6603031?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-18T05:18:31+00:00"
+    },
+    {
       "title": "比例３１減、各党が意見表明　「民意反映弱まる」「国民と約束」―衆院特別委",
       "link": "https://www.jiji.com/jc/article?k=2026111800132&g=pol&m=rss",
       "summary": "",
@@ -1226,12 +1234,28 @@
       "published": "2026-11-18T05:18:03.132480+00:00"
     },
     {
+      "title": "Putin pushes ‘Eurasian’ order ahead of meeting with Xi and Trump",
+      "link": "https://www.ft.com/content/ef5dab0d-7335-4dc6-9e44-254bdd9cdc06?syn-25a6b1a6=1",
+      "summary": "Russian president lashes out at western powers in rare address to global CEOs in China",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-18T05:10:43+00:00"
+    },
+    {
       "title": "決算好調のエヌビディア、フアン氏退任後のAI業界への資金供給は？",
       "link": "https://www.asahi.com/articles/ASVCL1DVXVCLUHBI00FM.html?ref=rss",
       "summary": "",
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-18T05:05:52.510861+00:00"
+    },
+    {
+      "title": "Anthropic IPO set to redraw venture capital’s power rankings",
+      "link": "https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?syn-25a6b1a6=1",
+      "summary": "Small group of lesser-known firms primed for returns at multiples that would surpass larger, blue-chip rivals",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-18T05:00:26+00:00"
     },
     {
       "title": "The good and the bad of climate policy",
@@ -1242,9 +1266,25 @@
       "published": "2026-11-18T05:00:16+00:00"
     },
     {
+      "title": "Wall Street expects corporate earnings growth to halve next year",
+      "link": "https://www.ft.com/content/74fdac03-bd9b-4e68-9e6e-dc023eb47be9?syn-25a6b1a6=1",
+      "summary": "Analysts forecast profit growth will dip to 16% globally from 33.5% as pace of AI capex expansion slows",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-18T05:00:16+00:00"
+    },
+    {
       "title": "Getting sucked back into the Brexit debate will not help growth",
       "link": "https://www.ft.com/content/ec3d676e-9ded-47fb-969d-c1b9ce0c0aba",
       "summary": "Constitutional issues become all-consuming, relegating important priorities like defence, social care or local government reform",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-18T05:00:07+00:00"
+    },
+    {
+      "title": "AI asked ‘better questions’ than KPMG accountants in pilot audit",
+      "link": "https://www.ft.com/content/5168b3e9-75d0-4be0-9ccd-d327d6b16c05?syn-25a6b1a6=1",
+      "summary": "Big Four firm used AI agents to review financial statements of a FTSE 250 company, but human intervention was needed",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-18T05:00:07+00:00"
