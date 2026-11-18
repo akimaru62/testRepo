@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T14:05:33.011821+00:00",
+  "generated_at": "2026-11-18T14:18:07.932488+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1222,12 +1222,52 @@
   ],
   "items": [
     {
+      "title": "香港の夜景ショー、２２年の歴史に幕",
+      "link": "https://www.jiji.com/jc/article?k=2026111801227&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-18T14:18:03.673556+00:00"
+    },
+    {
+      "title": "Anthropic wants everyday investors to be part of its IPO. Those investors have their doubts.",
+      "link": "https://www.marketwatch.com/story/anthropic-wants-everyday-investors-to-be-part-of-its-ipo-some-are-not-buying-it-43576d2d?mod=mw_rss_topstories",
+      "summary": "“It’s total hype and kind of inflated expectations.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-18T14:09:00+00:00"
+    },
+    {
+      "title": "U.S. Natural Gas Futures Gain on More Supportive Weather",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-gain-on-more-supportive-weather-245b9223?mod=rss_markets_main",
+      "summary": "U.S. natural gas futures gained, adding to the previous day’s gains, as cooler weather forecasts improved the near-term demand outlook.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-18T14:08:00+00:00"
+    },
+    {
+      "title": "The AI power scramble is in full force. Which companies really stand to profit?",
+      "link": "https://www.marketwatch.com/story/the-ai-power-scramble-is-in-full-force-which-companies-really-stand-to-profit-f719619c?mod=mw_rss_topstories",
+      "summary": "Big Tech is inking deals with traditional power companies, but investors need to look beyond the headlines.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-18T14:06:00+00:00"
+    },
+    {
       "title": "Treasury Yields Rise Amid Hawkish Fedspeak",
       "link": "https://www.wsj.com/finance/jgbs-edge-lower-ahead-of-20-year-auction-91707090?mod=rss_markets_main",
       "summary": "Treasury yields ticked higher as Fed Governor Waller reiterated his call for a supersized interest rate increase in December.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-18T14:02:00+00:00"
+    },
+    {
+      "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
+      "link": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
+      "summary": "Article URL: https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf\nComments URL: https://news.ycombinator.com/item?id=50546312\nPoints: 9\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T13:51:03+00:00"
     },
     {
       "title": "大崎電気工業にランサムウェア攻撃　スマートメーターの生産停止",
