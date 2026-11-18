@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T19:17:45.057718+00:00",
+  "generated_at": "2026-11-18T19:33:48.599006+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1242,6 +1242,22 @@
   ],
   "items": [
     {
+      "title": "Venture Global Pushes to Expand LNG Production Amid Demand Growth Expectations",
+      "link": "https://www.wsj.com/business/energy-oil/venture-global-pushes-to-expand-lng-production-amid-demand-growth-expectations-067008cf?mod=rss_markets_main",
+      "summary": "The liquefied natural gas producer is making headway on two expansion projects that will help take production capacity past 100 million metric tons a year before the end of 2030.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-18T19:27:00+00:00"
+    },
+    {
+      "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+      "link": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+      "summary": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
+      "source": "CNBC",
+      "category": "海外金融",
+      "published": "2026-11-18T19:26:32+00:00"
+    },
+    {
       "title": "熊本県で震度５弱",
       "link": "https://www.jiji.com/jc/article?k=2026111900068&g=soc&m=rss",
       "summary": "",
@@ -1757,6 +1773,14 @@
       "title": "Pre-auth RCE in Nginx HTTP/2 handling",
       "link": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
       "summary": "Article URL: https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities\nComments URL: https://news.ycombinator.com/item?id=50547374\nPoints: 17\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T15:19:55+00:00"
+    },
+    {
+      "title": "Unauthenticated remote code execution in Nginx",
+      "link": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "summary": "Article URL: https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities\nComments URL: https://news.ycombinator.com/item?id=50547374\nPoints: 579\n# Comments: 205",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-18T15:19:55+00:00"
