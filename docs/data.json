@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T19:33:48.599006+00:00",
+  "generated_at": "2026-11-18T19:47:42.828640+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1241,6 +1241,22 @@
     }
   ],
   "items": [
+    {
+      "title": "AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances",
+      "link": "https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/",
+      "summary": "AWS Lambda now supports GPU instances (G-series) for Event Functions running on Lambda Managed Instances, enabling serverless GPU workloads like machine learning inference, media processing, and rendering. Lambda handles all infrastructure tasks, including instance lifecycle, driver management, and auto scaling, while maximizing GPU utilization across concurrent requests with standard EC2 pricing plus a management fee",
+      "source": "AWS ブログ (AWS)",
+      "category": "テクノロジー",
+      "published": "2026-11-18T19:39:07+00:00"
+    },
+    {
+      "title": "Washington is scrambling to get to the bottom of the growing number of tech outages across America",
+      "link": "https://www.marketwatch.com/story/washington-is-scrambling-to-get-to-the-bottom-of-the-growing-number-of-tech-outages-across-america-66fbf299?mod=mw_rss_topstories",
+      "summary": "The Trump administration and Congress have been rushing to address the series of technology failures that have hit the U.S. over the past week, with Vice President J.D. Vance withdrawing from an event Wednesday in order to take part in meetings on the issue.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-18T19:39:00+00:00"
+    },
     {
       "title": "Venture Global Pushes to Expand LNG Production Amid Demand Growth Expectations",
       "link": "https://www.wsj.com/business/energy-oil/venture-global-pushes-to-expand-lng-production-amid-demand-growth-expectations-067008cf?mod=rss_markets_main",
