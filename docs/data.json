@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T13:33:29.095174+00:00",
+  "generated_at": "2026-11-18T13:47:46.769596+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1214,9 +1214,29 @@
     {
       "url": "https://news.yahoo.co.jp/rss/topics/business.xml",
       "error": "500 Server Error: Internal Server Error for url: https://news.yahoo.co.jp/rss/topics/business.xml"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
     }
   ],
   "items": [
+    {
+      "title": "大崎電気工業にランサムウェア攻撃　スマートメーターの生産停止",
+      "link": "https://www.asahi.com/articles/ASVCL4FGZVCLULFA025M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-18T13:47:36.162335+00:00"
+    },
+    {
+      "title": "飲み会巡る通達 NHK記者は戸惑い",
+      "link": "https://news.yahoo.co.jp/pickup/6603085?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-18T13:40:48+00:00"
+    },
     {
       "title": "Nasdaq Futures Rise as Nvidia Earnings Calm AI Fears, Attention Turns to Anthropic",
       "link": "https://www.wsj.com/finance/commodities-futures/stock-futures-rally-as-nvidia-earnings-calm-ai-trade-fears-96f51546?mod=rss_markets_main",
@@ -1224,6 +1244,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-18T13:22:00+00:00"
+    },
+    {
+      "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+      "link": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+      "summary": "Article URL: https://techstackups.com/articles/quad9-leaves-france-dns-blocking/\nComments URL: https://news.ycombinator.com/item?id=50545958\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T13:18:02+00:00"
     },
     {
       "title": "期限までに送検せず、釈放　覚醒剤事件の男―福岡県警",
@@ -1288,6 +1316,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-18T13:04:25+00:00"
+    },
+    {
+      "title": "孫正義氏が明かす、アンソロピック出資見送りの舞台裏　「僕の失敗」「あん時入れときゃよかった」",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/18/news086.html",
+      "summary": "ソフトバンクグループの孫正義会長兼社長は、日経主催イベントの対談で米Anthropicへの出資を見送ったことについて「僕の失敗の例の一つ」と明かした。同社のダリオ・アモデイCEOと直接面会し、その凄さを認めながらも、なぜ投資に踏み切らなかったのか。すでに動き出していた米OpenAIへの集中投資と、出資先の企業同士のつながりを創出する「群戦略」におけるパートナー選びのさじ加減など、孫氏の投資判断の舞台裏に迫る。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-18T13:03:00+00:00"
     },
     {
       "title": "Measles cases in the U.S. are at a 35-year high. Here’s the staggering cost of these outbreaks for all Americans.",
