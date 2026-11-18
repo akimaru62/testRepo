@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T17:17:08.161812+00:00",
+  "generated_at": "2026-11-18T17:33:18.558562+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1234,6 +1234,22 @@
   ],
   "items": [
     {
+      "title": "Rising healthcare costs push Medicare Part B premiums higher",
+      "link": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
+      "summary": "The premiums will increase by $6.50, to $209.40 a month.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-18T17:28:00+00:00"
+    },
+    {
+      "title": "It’s not too late to add U.S. energy companies to your 401(k). They’ve been making out like bandits.",
+      "link": "https://www.marketwatch.com/story/its-not-too-late-to-add-u-s-energy-companies-to-your-401-k-theyve-been-making-out-like-bandits-e77a8d6a?mod=mw_rss_topstories",
+      "summary": "Energy stocks are pretending the war is over. It isn’t.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-18T17:23:00+00:00"
+    },
+    {
       "title": "高市首相はロシアのプーチン大統領と意見交換した",
       "link": "https://www.jiji.com/jc/article?k=2026111900016&g=flash&m=rss",
       "summary": "",
@@ -1248,6 +1264,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-18T17:17:04.049138+00:00"
+    },
+    {
+      "title": "U.S. Stocks Slip After Nvidia Earnings Fail to Soothe Nerves",
+      "link": "https://www.wsj.com/finance/commodities-futures/stock-futures-rally-as-nvidia-earnings-calm-ai-trade-fears-96f51546?mod=rss_markets_main",
+      "summary": "Nvidia’s blockbuster earnings failed to give tech stocks a lift, a sign that worries about the AI trade continue to haunt investors.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-18T17:16:00+00:00"
     },
     {
       "title": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks and buy real estate?",
@@ -1274,6 +1298,14 @@
       "published": "2026-11-18T17:05:39+00:00"
     },
     {
+      "title": "Stop Deploying to ECS Just to See If Your Code Works",
+      "link": "https://metalbear.com/blog/stop-deploying-to-ecs/",
+      "summary": "Article URL: https://metalbear.com/blog/stop-deploying-to-ecs/\nComments URL: https://news.ycombinator.com/item?id=50548828\nPoints: 11\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T17:05:13+00:00"
+    },
+    {
       "title": "US tech lower after Nvidia results",
       "link": "https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1",
       "summary": "Chip group raises forecast and new chief says ‘it’s business as usual’ after revelations of Huang’s affairs triggered sell-off",
@@ -1298,6 +1330,14 @@
       "published": "2026-11-18T16:33:14+00:00"
     },
     {
+      "title": "JPMorgan seeks to revive stalled software debt sale with steep price cuts",
+      "link": "https://www.ft.com/content/16a99ff4-6060-4c81-8c4f-7e43503e4a11?syn-25a6b1a6=1",
+      "summary": "Banks turn to high-yield bond market to clear $2bn in ‘hung’ debt at double-digit yield",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-18T16:30:02+00:00"
+    },
+    {
       "title": "CoreWeave’s stock drops as Nvidia talks up a ‘disciplined’ approach to financing",
       "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
       "summary": "Nvidia interim CEO Colette Kress said neoclouds are “increasingly important,” but added the company will take “a very strong look” at the customers it helps with financing.",
@@ -1320,6 +1360,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-18T16:26:00+00:00"
+    },
+    {
+      "title": "RFC 2675: IPv6 Jumbograms",
+      "link": "https://www.rfc-editor.org/info/rfc2675/",
+      "summary": "Article URL: https://www.rfc-editor.org/info/rfc2675/\nComments URL: https://news.ycombinator.com/item?id=50548214\nPoints: 6\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T16:22:23+00:00"
     },
     {
       "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
