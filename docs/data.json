@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T18:33:13.479389+00:00",
+  "generated_at": "2026-11-18T18:47:53.671477+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1234,9 +1234,21 @@
     {
       "url": "https://cloud.google.com/blog/rss",
       "error": "503 Server Error: Service Unavailable for url: https://cloud.google.com/blog/rss"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f282a729a90>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
     }
   ],
   "items": [
+    {
+      "title": "Block DNS threats with Infoblox rules in Amazon Route 53 Resolver DNS Firewall",
+      "link": "https://aws.amazon.com/blogs/architecture/block-dns-threats-with-infoblox-rules-in-amazon-route-53-resolver-dns-firewall/",
+      "summary": "Infoblox Threat Defense is now available in preview in Amazon Route 53 Resolver DNS Firewall, providing partner-managed DNS threat intelligence. Learn how to add an Infoblox managed rule to a rule group, test it in alert mode, monitor matches, and move to blocking.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-11-18T18:35:14+00:00"
+    },
     {
       "title": "‘GTA 6’ is the biggest game ever. Take-Two’s stock, delivery apps and podcasts are along for the ride.",
       "link": "https://www.marketwatch.com/story/gta-6-is-the-biggest-game-ever-take-twos-stock-delivery-apps-and-podcasts-are-along-for-the-ride-71014bf2?mod=mw_rss_topstories",
@@ -1244,6 +1256,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-18T18:28:00+00:00"
+    },
+    {
+      "title": "‘Situational Awareness 2.0’: Leopold Aschenbrenner plots comeback",
+      "link": "https://www.ft.com/content/1fcbc6ea-1be3-44d2-b564-8ebf91181639?syn-25a6b1a6=1",
+      "summary": "25-year-old AI trader has held discussions about employing leverage again and raising funds after a historic wipeout nearly toppled his firm",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-18T18:27:54+00:00"
     },
     {
       "title": "１９日に米中ロ首脳会談　トランプ氏到着を習氏出迎え―核軍縮、歴史認識焦点",
