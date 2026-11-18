@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T18:47:53.671477+00:00",
+  "generated_at": "2026-11-18T19:04:23.375012+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1242,12 +1242,28 @@
   ],
   "items": [
     {
+      "title": "高市首相、ロシア大統領と意見交換　７年ぶり直接対話、記者解放要求",
+      "link": "https://www.jiji.com/jc/article?k=2026111900021&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-18T19:04:19.355713+00:00"
+    },
+    {
       "title": "Block DNS threats with Infoblox rules in Amazon Route 53 Resolver DNS Firewall",
       "link": "https://aws.amazon.com/blogs/architecture/block-dns-threats-with-infoblox-rules-in-amazon-route-53-resolver-dns-firewall/",
       "summary": "Infoblox Threat Defense is now available in preview in Amazon Route 53 Resolver DNS Firewall, providing partner-managed DNS threat intelligence. Learn how to add an Infoblox managed rule to a rule group, test it in alert mode, monitor matches, and move to blocking.",
       "source": "AWS ブログ (アーキテクチャ)",
       "category": "開発者向け",
       "published": "2026-11-18T18:35:14+00:00"
+    },
+    {
+      "title": "The Magic of Partial Evaluation",
+      "link": "https://jimmyhmiller.com/magic-of-partial-evaluation",
+      "summary": "Article URL: https://jimmyhmiller.com/magic-of-partial-evaluation\nComments URL: https://news.ycombinator.com/item?id=50550096\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T18:29:03+00:00"
     },
     {
       "title": "‘GTA 6’ is the biggest game ever. Take-Two’s stock, delivery apps and podcasts are along for the ride.",
@@ -1282,6 +1298,14 @@
       "published": "2026-11-18T18:18:00+00:00"
     },
     {
+      "title": "Show HN: BPM – Baby Plus Music Visualizer",
+      "link": "https://hberg.com/bpm/",
+      "summary": "While reminiscing about the dancing baby meme from the mid 90s, I decided to vibe-code this music visualizer for fun. Enjoy!\n\nComments URL: https://news.ycombinator.com/item?id=50549718\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T18:00:55+00:00"
+    },
+    {
       "title": "Who made the strawberry? 14 days of logs building a procedural fruit with agents",
       "link": "https://strawberry-methodology.pages.dev",
       "summary": "Article URL: https://strawberry-methodology.pages.dev\nComments URL: https://news.ycombinator.com/item?id=50549711\nPoints: 3\n# Comments: 0",
@@ -1304,6 +1328,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-18T17:46:00+00:00"
+    },
+    {
+      "title": "Advancing chip design with OpenAI models",
+      "link": "https://openai.com/index/advancing-chip-design-with-our-models/",
+      "summary": "Article URL: https://openai.com/index/advancing-chip-design-with-our-models/\nComments URL: https://news.ycombinator.com/item?id=50549493\nPoints: 18\n# Comments: 8",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T17:45:47+00:00"
     },
     {
       "title": "Forking TuxGuitar into a 17-EDO tab editor",
@@ -1426,6 +1458,14 @@
       "published": "2026-11-18T17:05:13+00:00"
     },
     {
+      "title": "Pikuma: Fundamentals of Computer Science and Mathematics",
+      "link": "https://pikuma.com/",
+      "summary": "Article URL: https://pikuma.com/\nComments URL: https://news.ycombinator.com/item?id=50548633\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T16:52:08+00:00"
+    },
+    {
       "title": "US tech lower after Nvidia results",
       "link": "https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1",
       "summary": "Chip group raises forecast and new chief says ‘it’s business as usual’ after revelations of Huang’s affairs triggered sell-off",
@@ -1522,6 +1562,14 @@
       "published": "2026-11-18T16:08:24+00:00"
     },
     {
+      "title": "Seven new models at scalable price-performance",
+      "link": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/\nComments URL: https://news.ycombinator.com/item?id=50548021\nPoints: 234\n# Comments: 157",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T16:08:24+00:00"
+    },
+    {
       "title": "CVE-2026-99312: KVM Guest-to-Host Escape",
       "link": "https://www.terra.security/blog/kvm-guest-to-host-escape",
       "summary": "Article URL: https://www.terra.security/blog/kvm-guest-to-host-escape\nComments URL: https://news.ycombinator.com/item?id=50548004\nPoints: 14\n# Comments: 1",
@@ -1589,6 +1637,14 @@
       "title": "AI Agents Ask Better Questions Than KPMG Accountants in Landmark Audit Trial",
       "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
       "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/\nComments URL: https://news.ycombinator.com/item?id=50547777\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T15:49:34+00:00"
+    },
+    {
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/\nComments URL: https://news.ycombinator.com/item?id=50547777\nPoints: 104\n# Comments: 55",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-18T15:49:34+00:00"
