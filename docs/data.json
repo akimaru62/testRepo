@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T16:48:13.684282+00:00",
+  "generated_at": "2026-11-18T17:05:20.920350+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1266,6 +1266,14 @@
       "published": "2026-11-18T16:26:00+00:00"
     },
     {
+      "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+      "link": "https://rshekhar.com/voyager/",
+      "summary": "Voyager 1 reached one light-day from Earth today.On the site you can:- see where both Voyagers are right now- open a nuclear battery to its 24 plutonium spheres- go into the data computer, down to a single memory chip- see how the Golden Record's cover explains how to play it- watch how Voyager 1 was fixed by radio- see which dish on Earth is listening to them, liveI also made a 4-minute film from it: https://www.youtube.com/watch?v=kpzsRo-c1_A\n\nComments URL: https://news.ycombinator.com/item?id=50548161\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T16:18:51+00:00"
+    },
+    {
       "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
       "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
       "summary": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are expected to hold a rare trilateral meeting on Thursday.",
@@ -1274,12 +1282,44 @@
       "published": "2026-11-18T16:14:10+00:00"
     },
     {
+      "title": "SuperEMeans: Making e-means 3× faster",
+      "link": "https://www.lkuffo.com/superemeans/",
+      "summary": "Article URL: https://www.lkuffo.com/superemeans/\nComments URL: https://news.ycombinator.com/item?id=50548038\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T16:09:50+00:00"
+    },
+    {
+      "title": "Microsoft AI: Seven new world-class models at scalable price-performance",
+      "link": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/\nComments URL: https://news.ycombinator.com/item?id=50548021\nPoints: 31\n# Comments: 15",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T16:08:24+00:00"
+    },
+    {
+      "title": "CVE-2026-99312: KVM Guest-to-Host Escape",
+      "link": "https://www.terra.security/blog/kvm-guest-to-host-escape",
+      "summary": "Article URL: https://www.terra.security/blog/kvm-guest-to-host-escape\nComments URL: https://news.ycombinator.com/item?id=50548004\nPoints: 14\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T16:06:21+00:00"
+    },
+    {
       "title": "高市首相、習国家主席と握手　ＡＰＥＣ出席へ初訪中",
       "link": "https://www.jiji.com/jc/article?k=2026111800129&g=pol&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-18T16:05:51.702007+00:00"
+    },
+    {
+      "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+      "link": "https://exitpath-ruddy.vercel.app/",
+      "summary": "Article URL: https://exitpath-ruddy.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=50547980\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T16:04:43+00:00"
     },
     {
       "title": "Worried investors are paying up for these stocks — some with up to 49% upside, analysts say",
@@ -1312,6 +1352,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-18T15:57:00+00:00"
+    },
+    {
+      "title": "AI Agents Ask Better Questions Than KPMG Accountants in Landmark Audit Trial",
+      "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/\nComments URL: https://news.ycombinator.com/item?id=50547777\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T15:49:34+00:00"
     },
     {
       "title": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock",
@@ -1424,6 +1472,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-18T15:07:00+00:00"
+    },
+    {
+      "title": "Pentagon chief visits Iraq as troops withdraw from Syria - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaN0ZmOTBjTy1Kb05tX1hkQURUM2Y5bFc2WmNpbDdGeDRKUVBXRDdDVnJ5THUxV3JhUzdqaGJDMXlwM3gxRG5nZjJKbEpmek5vekRpYkxJT2pzdjg?oc=5",
+      "summary": "Pentagon chief visits Iraq as troops withdraw from Syria&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-18T15:04:19+00:00"
     },
     {
       "title": "NHK飲み会通達 記者が不満漏らす",
