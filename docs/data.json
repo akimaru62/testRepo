@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T20:47:33.854835+00:00",
+  "generated_at": "2026-11-18T21:05:09.541977+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1242,6 +1242,14 @@
   ],
   "items": [
     {
+      "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
+      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-18T21:00:00+00:00"
+    },
+    {
       "title": "Aderant modernizes analytics data pipeline with Apache Iceberg and AWS Lambda",
       "link": "https://aws.amazon.com/blogs/architecture/aderant-modernizes-analytics-data-pipeline-with-apache-iceberg-and-aws-lambda/",
       "summary": "Learn how Aderant modernized the data pipeline behind its Stridyn legal analytics platform with Apache Iceberg, AWS Lambda, and AWS Glue, moving from 15-minute batch cycles to an event-driven medallion architecture that processes change data capture events in single-digit seconds for 700 tenants, with 10-26x faster queries and 77 percent lower cost.",
@@ -1344,6 +1352,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-18T20:29:00+00:00"
+    },
+    {
+      "title": "Google Gemini's \"Tasks\" Personal Assistant Is Now Free",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/\nComments URL: https://news.ycombinator.com/item?id=50551601\nPoints: 5\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T20:20:17+00:00"
     },
     {
       "title": "ネパール閣僚「資金確保に苦労」　国際社会に支援拡充訴え―ＣＯＰ３１",
