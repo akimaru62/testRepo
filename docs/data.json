@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T00:41:05.742930+00:00",
+  "generated_at": "2026-11-18T00:54:32.244125+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1246,6 +1246,14 @@
       "published": "2026-11-18T00:24:00+00:00"
     },
     {
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "link": "https://revscope.co/blog/search-seo-geo-2026/",
+      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/\nComments URL: https://news.ycombinator.com/item?id=50540178\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T00:17:58+00:00"
+    },
+    {
       "title": "「トランプ外交」不安拭えず　２年ぶりクアッドで結束確認",
       "link": "https://www.jiji.com/jc/article?k=2026111701107&g=pol&m=rss",
       "summary": "",
@@ -2134,6 +2142,30 @@
       "published": "2026-11-17T18:44:10+00:00"
     },
     {
+      "title": "Microsoft and Oracle bring agentic AI into flow of enterprise work",
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-bring-agentic-ai-into-flow-of-enterprise-work/",
+      "summary": "Our new integrations let AI agents reason across Oracle’s business-critical data.\nThe post Microsoft and Oracle bring agentic AI into flow of enterprise work appeared first on Microsoft Azure Blog.",
+      "source": "Azure ブログ",
+      "category": "テクノロジー",
+      "published": "2026-11-17T18:35:00+00:00"
+    },
+    {
+      "title": "Introducing Azure Catalyst agentic modernization and new AI infrastructure innovations",
+      "link": "https://azure.microsoft.com/en-us/blog/introducing-azure-catalyst-agentic-modernization-and-new-ai-infrastructure-innovations/",
+      "summary": "At Microsoft Ignite 2026, we’ll showcase what’s possible when models, silicon, and cloud infrastructure converge into a single, co-engineered system. By tuning the entire stack, and introducing new capabilities across isolated execution, networking, context management, and inference efficiency, we’re fundamentally improving agent speed, security, and unit economics.\nThe post Introducing Azure Catalyst agentic modernization and new AI infrastructure innovations appeared first on Microsoft Azure Blog.",
+      "source": "Azure ブログ",
+      "category": "テクノロジー",
+      "published": "2026-11-17T18:35:00+00:00"
+    },
+    {
+      "title": "Microsoft Ignite 2026: What’s new in Azure, the platform purpose-built for AI",
+      "link": "https://azure.microsoft.com/en-us/blog/microsoft-ignite-2026-whats-new-in-azure-the-platform-purpose-built-for-ai/",
+      "summary": "At Microsoft Ignite, we're sharing what's new across every layer of the platform. New capabilities spanning compute, storage, and networking let you run AI at scale with the control of your own infrastructure, without having to build, secure, and operate all of it yourself.\nThe post Microsoft Ignite 2026: What&#8217;s new in Azure, the platform purpose-built for AI appeared first on Microsoft Azure Blog.",
+      "source": "Azure ブログ",
+      "category": "テクノロジー",
+      "published": "2026-11-17T18:35:00+00:00"
+    },
+    {
       "title": "Purism Launches Librem 5 v2, a RISC-V Phone to Empower People",
       "link": "https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/",
       "summary": "Article URL: https://puri.sm/posts/purism-launches-librem-5-v2-a-risc-v-phone-to-empower-people/\nComments URL: https://news.ycombinator.com/item?id=50536031\nPoints: 5\n# Comments: 0",
@@ -2222,12 +2254,36 @@
       "published": "2026-11-17T18:20:30.796456+00:00"
     },
     {
+      "title": "Azure Cobalt 200 VMs now available, proven on real workloads and built for the agentic era",
+      "link": "https://azure.microsoft.com/en-us/blog/azure-cobalt-200-vms-now-available-proven-on-real-workloads-and-built-for-the-agentic-era/",
+      "summary": "Azure Cobalt 200 VMs bring improved performance and efficiency to cloud-native applications, databases, developer tools, and agentic AI workloads.\nThe post Azure Cobalt 200 VMs now available, proven on real workloads and built for the agentic era appeared first on Microsoft Azure Blog.",
+      "source": "Azure ブログ",
+      "category": "テクノロジー",
+      "published": "2026-11-17T18:20:00+00:00"
+    },
+    {
       "title": "Not Everything Needs an LLM",
       "link": "https://newsletter.posthog.com/p/decision-models",
       "summary": "Article URL: https://newsletter.posthog.com/p/decision-models\nComments URL: https://news.ycombinator.com/item?id=50535740\nPoints: 4\n# Comments: 0",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-17T18:16:18+00:00"
+    },
+    {
+      "title": "Continuous improvement comes to Microsoft Foundry",
+      "link": "https://azure.microsoft.com/en-us/blog/continuous-improvement-comes-to-microsoft-foundry/",
+      "summary": "Discover how continuous improvement in Microsoft Foundry helps organizations evaluate, optimize, and improve agents over time while keeping teams in control.\nThe post Continuous improvement comes to Microsoft Foundry appeared first on Microsoft Azure Blog.",
+      "source": "Azure ブログ",
+      "category": "テクノロジー",
+      "published": "2026-11-17T18:15:00+00:00"
+    },
+    {
+      "title": "Introducing the new Microsoft IQ: Putting your organization’s intelligence to work in every agent",
+      "link": "https://azure.microsoft.com/en-us/blog/introducing-the-new-microsoft-iq-putting-your-organizations-intelligence-to-work-in-every-agent/",
+      "summary": "Today, we are announcing Microsoft IQ, the enterprise context management platform that helps organizations create their own IQ. What sets an organization apart is everything around the model: its own intelligence.\nThe post Introducing the new Microsoft IQ: Putting your organization&#8217;s intelligence to work in every agent appeared first on Microsoft Azure Blog.",
+      "source": "Azure ブログ",
+      "category": "テクノロジー",
+      "published": "2026-11-17T18:05:00+00:00"
     },
     {
       "title": "Kalshi Halts Bets That Are Based on Trump’s Remarks",
@@ -3369,6 +3425,14 @@
       "title": "Nvidia Earnings Live: Chip Giant’s Revenue Comes in Strong, Stock Ticks Higher",
       "link": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-news-11-17-2026?mod=rss_markets_main",
       "summary": "Shares of Nvidia are down 10% since Jensen Huang stepped down as CEO",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-17T10:11:07+00:00"
+    },
+    {
+      "title": "Stock Market News, Nov. 17, 2026: Nvidia Lifts Guidance, Sending Stock Higher",
+      "link": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-news-11-17-2026?mod=rss_markets_main",
+      "summary": "Shares of the chip giant are down 10% since Jensen Huang stepped down as CEO",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-17T10:11:07+00:00"
