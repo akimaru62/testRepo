@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T21:17:57.463051+00:00",
+  "generated_at": "2026-11-18T21:33:16.611116+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1242,6 +1242,22 @@
   ],
   "items": [
     {
+      "title": "U.S. Stocks Mixed, Nvidia Falls, Ahead of Anthropic IPO",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-nvidia-falls-ahead-of-anthropic-ipo-c7de4692?mod=rss_markets_main",
+      "summary": "U.S. stocks ended mixed ahead of Anthropic’s initial public offering as Nvidia’s efforts to draw a line under the Jensen Huang scandal proved insufficient to stabilize its stock or quell fears about its “neocloud” customers.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-18T21:28:00+00:00"
+    },
+    {
+      "title": "What’s next for the AI trade after Nvidia’s blowout results are met with a shrug",
+      "link": "https://www.marketwatch.com/story/whats-next-for-the-ai-trade-after-nvidias-blowout-results-are-met-with-a-shrug-853c7abe?mod=mw_rss_topstories",
+      "summary": "Nvidia delivered a strong performance, but questions remain amid growing scrutiny of the company and macroeconomic factors",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-18T21:19:00+00:00"
+    },
+    {
       "title": "首相動静（１１月１８日）",
       "link": "https://www.jiji.com/jc/article?k=2026111800726&g=pol&m=rss",
       "summary": "",
@@ -1282,6 +1298,14 @@
       "published": "2026-11-18T21:17:49.716295+00:00"
     },
     {
+      "title": "US and Venezuela to expand military co-operation to target drug trafficking",
+      "link": "https://www.ft.com/content/5144ce59-b928-46ba-b6b6-d7e77eb79d5b?syn-25a6b1a6=1",
+      "summary": "In surprise trip to Caracas, Pete Hegseth says the two nations would ‘hunt’, ‘find’ and ‘kill’ ‘narcoterrorists’",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-18T21:16:06+00:00"
+    },
+    {
       "title": "データセンターが問う｢水の透明性｣､中間選挙で争点化＆規制強化アメリカの現状から日本人に知ってほしい\"AI熱の盲点\" | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965193?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "データセンターの急増に伴い､地域の水資源の｢爆飲｣が社会問題化しています。アメリカでは水利用をめぐる法規制が進んでいますが､日本の現状はどうなっているのでしょうか。",
@@ -1296,6 +1320,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-18T21:15:00+00:00"
+    },
+    {
+      "title": "Just Because You Can, Doesn't Mean You Should: Re-Evaluating Galera Node Weights",
+      "link": "https://www.percona.com/blog/just-because-you-can-doesnt-mean-you-should-re-evaluating-galera-node-weights/",
+      "summary": "Article URL: https://www.percona.com/blog/just-because-you-can-doesnt-mean-you-should-re-evaluating-galera-node-weights/\nComments URL: https://news.ycombinator.com/item?id=50552169\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T21:11:10+00:00"
     },
     {
       "title": "Comex Gold Settles 3.16% Lower at $3736.80",
