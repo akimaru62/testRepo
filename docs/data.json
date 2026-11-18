@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T21:05:09.541977+00:00",
+  "generated_at": "2026-11-18T21:17:57.463051+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1242,11 +1242,123 @@
   ],
   "items": [
     {
+      "title": "首相動静（１１月１８日）",
+      "link": "https://www.jiji.com/jc/article?k=2026111800726&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-18T21:17:50.115217+00:00"
+    },
+    {
+      "title": "ＥＵ、ウクライナに７．９兆円追加融資へ　２７年の資金不足穴埋め",
+      "link": "https://www.jiji.com/jc/article?k=2026111900123&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-18T21:17:50.115203+00:00"
+    },
+    {
+      "title": "米中首脳が会談へ　今年３回目、ＡＩ協調",
+      "link": "https://www.jiji.com/jc/article?k=2026111900115&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-18T21:17:50.115180+00:00"
+    },
+    {
+      "title": "「資本市場の番人」質をどう守る　中小監査法人、手を組んだライバル",
+      "link": "https://www.asahi.com/articles/ASVCK21TLVCKULFA00ZM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-18T21:17:49.716324+00:00"
+    },
+    {
+      "title": "ニデックに意見不表明のPwC　会計士協会の南会長がつけた注文とは",
+      "link": "https://www.asahi.com/articles/ASVCK22W0VCKULFA010M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-18T21:17:49.716295+00:00"
+    },
+    {
+      "title": "データセンターが問う｢水の透明性｣､中間選挙で争点化＆規制強化アメリカの現状から日本人に知ってほしい\"AI熱の盲点\" | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965193?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "データセンターの急増に伴い､地域の水資源の｢爆飲｣が社会問題化しています。アメリカでは水利用をめぐる法規制が進んでいますが､日本の現状はどうなっているのでしょうか。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-18T21:15:00+00:00"
+    },
+    {
+      "title": "Front Month Nymex Natural Gas Rose 5.11% to Settle at $3.3720",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-gain-on-more-supportive-weather-245b9223?mod=rss_markets_main",
+      "summary": "U.S. natural gas futures settled higher, adding to the previous day’s gains, as cooler weather forecasts improved the near-term demand outlook.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-18T21:15:00+00:00"
+    },
+    {
+      "title": "Comex Gold Settles 3.16% Lower at $3736.80",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-treads-water-as-fed-dollar-keep-weighing-3f6439e8?mod=rss_markets_main",
+      "summary": "Metals futures are setting new lows for the year, with gold and silver dragged down in part by the slide in copper.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-18T21:09:00+00:00"
+    },
+    {
       "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
       "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
       "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
       "source": "MarketWatch",
       "category": "海外金融",
+      "published": "2026-11-18T21:00:00+00:00"
+    },
+    {
+      "title": "無印良品｢最大2726万件の情報流出｣を招いたセキュリティの盲点…クレカ全桁も､最高益の裏で露呈したガバナンスの死角 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965153?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "「事業規模の拡大に伴ったガバナンス体制の構築が十分ではなかったと、痛切に反省している」「無印良品」を展開する良品計画は11月12日、不正アクセスによる顧客情報の流出事案について記者会見を開催した。登…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-18T21:00:00+00:00"
+    },
+    {
+      "title": "信金･信組の再編が新局面､地銀との合併観測も…財務データ分析と独自取材で浮上する｢業態の壁｣を超える再編10候補 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965135?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "金融関係者の間で昨年から話題となっているテーマがある。地方銀行や信用金庫、信用組合といった地域金融機関による「業態の垣根」を超える再編だ。端緒となったのが「金融機能強化法」の改正をめぐる議論だ。今年…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-18T21:00:00+00:00"
+    },
+    {
+      "title": "【激白】｢復興予算目当てなら､とっくに撤退している｣…アクセンチュア幹部が語る\"会津若松に15年投資\"のそろばん勘定 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964900?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "――アクセンチュアにとって会津若松市の位置づけとは、どのようなものでしょうか。メーカーがオートバイの試作品を作ってテストコースで走行実験を繰り返すのと同様に、アクセンチュアにとって会津若松は、未来の…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-18T21:00:00+00:00"
+    },
+    {
+      "title": "｢成金趣味｣といわれる400億円のバブル遺産ホテル…予算30億円が膨張､ゼネコンなしで建てた｢狂気｣の舞台裏 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963505?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "建設費400億円の｢ホテル川久｣は､バブル期の象徴とされSNSでも話題ですが､その華麗な舞台裏には予想外のドラマが隠されていました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-18T21:00:00+00:00"
+    },
+    {
+      "title": "古くからの温泉街で異彩を放つ《400億のバブル遺産》…柱1本1億､金箔張りの天井を持つ｢宮殿ホテル｣に泊まってみた | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963504?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "バブルの時代に400億円をかけて世界中のすばらしい建材と芸術､技術を集結して造られたホテル川久。宿泊して､朝晩の《食べ放題ビュッフェ》も利用した様子を紹介します。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-18T21:00:00+00:00"
+    },
+    {
+      "title": "【都立西高校】経済＆政官界＆スポーツ編 時代を刻んだ卒業生ファイル#17《JR東海･葛西敬之､サッカー協会･小倉純二》 | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962691?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "戦前の創立以来､多くの経済人や官僚､政治家を輩出してきた都立西高校。東大･京大合格者数の多さに加え､各界で活躍する卒業生のストーリーは､西高ならではの個性と底力を感じさせます。その伝統と今を詳しく追…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
       "published": "2026-11-18T21:00:00+00:00"
     },
     {
@@ -1342,6 +1454,22 @@
       "link": "https://toyokeizai.net/articles/-/964838?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "BMW｢3シリーズ｣が2026年9月にフルモデルチェンジした。眼目はバリエーションの豊富さ。ガソリン車に加えて､ピュアEVもラインナップされた。11月初旬にさっそく､南仏でテストドライブした…",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-18T20:30:00+00:00"
+    },
+    {
+      "title": "アサヒは購買データ、サッポロは売り場連動、フマキラーはAI　3社が挑むリテールメディアの次の一手",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/19/news032.html",
+      "summary": "リテールメディアの活用が広がる中、メーカーには広告配信にとどまらず、小売業との連携を通じて顧客との関係を深める取り組みが求められている。アサヒビール、サッポロビール、フマキラーの3社は、購買データの活用や広告と売り場の連動、AIによる顧客支援などを通じて、LTV（顧客生涯価値）の最大化を目指す。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-18T20:30:00+00:00"
+    },
+    {
+      "title": "三井物産、複雑な貿易業務でどうAI活用？　「荒くていいから作ってみる」　年間2000時間の業務を削減できたワケ",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/19/news015.html",
+      "summary": "三井物産は現場発のアイデアを起点としたAI活用を推進し、年間2000時間弱の業務削減を達成した。複雑な判断を伴う貿易実務において、どうAIを組み込んだのか。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-11-18T20:30:00+00:00"
     },
