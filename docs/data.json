@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T22:33:00.018733+00:00",
+  "generated_at": "2026-11-19T22:47:41.019154+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1262,9 +1262,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Anthropic’s IPO Mints New Millionaires",
+      "link": "https://www.wsj.com/finance/investing/anthropics-ipo-mints-new-millionaires-5dbb6289?mod=rss_markets_main",
+      "summary": "Plus, GOP Senators are suspending their push for extra military spending, and hackers leaked data from Visa, Mastercard and JPMorgan customers.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-19T22:41:00+00:00"
+    },
+    {
+      "title": "WSJ Dollar Index Rises to New 52-Week High",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-face-drag-from-fed-rate-bets-50c20e86?mod=rss_markets_main",
+      "summary": "The WSJ Dollar Index rose to a new 52-week high.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-19T22:41:00+00:00"
+    },
+    {
+      "title": "アンソロピック 初日終値約97ドル",
+      "link": "https://news.yahoo.co.jp/pickup/6603229?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-19T22:36:03+00:00"
+    },
+    {
+      "title": "｢朝一番のチャット･メール返信｣が集中力を消滅させる…カリフォルニア大研究が暴く\"仕事に追われ続ける人\"の勘違い | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964280?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "目の前の些細な選択や悩みに､一日中心が削られていませんか？ 朝のタスク選びや会議のムダ､夕方の集中力低下——実は脳の働き方を知れば､その悩みは減らせます。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-19T22:30:00+00:00"
+    },
+    {
+      "title": "RegExr: Temporarily Offline",
+      "link": "https://regexr.com/",
+      "summary": "Article URL: https://regexr.com/\nComments URL: https://news.ycombinator.com/item?id=50567374\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-19T22:27:07+00:00"
+    },
     {
       "title": "Opinion | Guess Who’s Coming to Mecca",
       "link": "https://www.wsj.com/opinion/guess-whos-coming-to-mecca-5a865bd3?mod=rss_markets_main",
@@ -1342,6 +1386,22 @@
       "link": "https://toyokeizai.net/articles/-/964735?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "書店と本がつなげる、小さな町の幸せな日常。「特別じゃない主人公たちの小さな幸せ」をどこまでも優しく温かな筆致で描く、世界累計40万部突破の連作短編コミックシリーズの最新作『特別じゃない日 時をむすぶ…",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-19T22:00:00+00:00"
+    },
+    {
+      "title": "伊藤忠が月1.3万時間削減、数千件の「二重業務」解消へ　AI推進で経営陣を動かした「定量の匂い」とは？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/20/news042.html",
+      "summary": "伊藤忠商事の“繊維部門”が、AI活用を加速させている。現場の熱意を広げ、経営層に「定量の匂い」を感じさせるなど独自の取り組みを推進。月数千件の「二重業務」解消へ挑んでいる。AI活用の裏側に迫る。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-19T22:00:00+00:00"
+    },
+    {
+      "title": "AI需要で「シェア0→50％」急成長　半導体設計のアーム社が仕掛ける“新ビジネス“の正体は？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/20/news041.html",
+      "summary": "「AI半導体といえばNVIDIA」という状況が変わるかもしれない。CPU開発を手掛ける英アームが存在感を高めている。AI需要をどう取り込もうというのか。同社の戦略を、Arm日本法人の横山崇幸社長が語った。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-11-19T22:00:00+00:00"
     },
