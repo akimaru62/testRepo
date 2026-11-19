@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T10:47:38.201112+00:00",
+  "generated_at": "2026-11-19T11:05:13.278081+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1246,6 +1246,30 @@
   ],
   "items": [
     {
+      "title": "米中ロ首脳が初会談　トランプ氏、核軍縮議論を提起―習・プーチン両氏、「戦勝国」強調",
+      "link": "https://www.jiji.com/jc/article?k=2026111900944&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-19T11:05:06.948132+00:00"
+    },
+    {
+      "title": "「エンジンエックス」「PHP」に深刻な脆弱性　政府も対応呼びかけ",
+      "link": "https://www.asahi.com/articles/ASVCM0D0JVCMULFA005M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-19T11:05:06.669832+00:00"
+    },
+    {
+      "title": "Four Ways Techruptions May Shape the Economy",
+      "link": "https://www.wsj.com/finance/investing/four-ways-techruptions-may-shape-the-economy-a848efc9?mod=rss_markets_main",
+      "summary": "Plus, the real debate at the Fed, more on Medicare for All, and could Congress cut tariffs?",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-19T10:50:00+00:00"
+    },
+    {
       "title": "「パパ怖い」「ペチンする」　死亡女児、入所施設職員に―一時帰宅中も暴行か・兵庫虐待死",
       "link": "https://www.jiji.com/jc/article?k=2026111900790&g=soc&m=rss",
       "summary": "",
@@ -1444,6 +1468,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-19T09:34:15+00:00"
+    },
+    {
+      "title": "DeepMind Employees Are Unionising",
+      "link": "https://www.gdmunion.co.uk",
+      "summary": "Article URL: https://www.gdmunion.co.uk\nComments URL: https://news.ycombinator.com/item?id=50557885\nPoints: 12\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-19T09:28:56+00:00"
     },
     {
       "title": "What's New in PHP 8.6",
