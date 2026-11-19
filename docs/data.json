@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T00:13:29.290276+00:00",
+  "generated_at": "2026-11-19T00:41:06.481348+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1242,12 +1242,84 @@
   ],
   "items": [
     {
+      "title": "アンソロピックIPO、公開価格は83ドル　評価額240兆円企業に",
+      "link": "https://www.asahi.com/articles/ASVCL7X1YVCLUHBI002M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-19T00:40:58.644573+00:00"
+    },
+    {
+      "title": "JGBs Edge Higher Amid Mixed Developments",
+      "link": "https://www.wsj.com/finance/investing/jgbs-edge-higher-amid-mixed-developments-c690e1af?mod=rss_markets_main",
+      "summary": "JGBs edged higher in price terms in Tokyo’s morning session amid mixed developments.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-19T00:38:00+00:00"
+    },
+    {
+      "title": "Nikkei Rises 0.2%, Led by Chip, Retail Stocks",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-2-led-by-chip-retail-stocks-fd10cf06?mod=rss_markets_main",
+      "summary": "Japan’s Nikkei Stock Average was 0.2% higher at 59159.40, as gains in chip and retail shares offset losses in metals, energy and bank stocks.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-19T00:34:00+00:00"
+    },
+    {
+      "title": "休むのに気まずさを感じる日本人､堂々と休むスウェーデン人…｢夕方4時半退社｣を叶える｢朝型｣の働き方 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963107?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "日本とスウェーデン､休暇をめぐる意識や職場の仕組みの違いをご存じですか？｢休むこと｣を当然の権利とする北欧。一方､日本では休みづらさや\"お客様第一\"の文化が根強く残ります。働き方を変えるヒント､その…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-19T00:30:00+00:00"
+    },
+    {
+      "title": "国債金利情報(令和8年11月18日)",
+      "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-19T00:30:00+00:00"
+    },
+    {
+      "title": "Gold Catches Breath But Stays at Over One-Year Lows",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-catches-breath-but-stays-at-over-one-year-lows-b3d16f60?mod=rss_markets_main",
+      "summary": "Gold gained 0.4% in Asian trade but remained at more than one-year lows as markets priced in rate increases from the Fed.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-19T00:29:00+00:00"
+    },
+    {
+      "title": "Asian Currencies Consolidate, But Face Drag From Fed Rate Bets",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-face-drag-from-fed-rate-bets-50c20e86?mod=rss_markets_main",
+      "summary": "Asian currencies consolidated against the dollar, but still face pressure from expectations for Fed rate increases.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-19T00:17:00+00:00"
+    },
+    {
+      "title": "ボージョレ 今年は「ふくよか」",
+      "link": "https://news.yahoo.co.jp/pickup/6603114?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-19T00:14:54+00:00"
+    },
+    {
       "title": "「Ｊａｖａ」に重大な欠陥、修正プログラム適用を呼び掛け―各国当局",
       "link": "https://www.jiji.com/jc/article?k=2026111900184&g=int&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-19T00:13:22.870325+00:00"
+    },
+    {
+      "title": "City firms told to tighten cyber defences as AI exposes vulnerabilities",
+      "link": "https://www.ft.com/content/7cd81085-95d0-4511-b640-300a2c8791ff?syn-25a6b1a6=1",
+      "summary": "Regulators publish new directions after surge in hacking attempts and $6bn theft from crypto exchange Binance",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-19T00:01:06+00:00"
     },
     {
       "title": "｢2027年に台湾侵攻｣は本当か…一人歩きする\"期限付き予言\"の陰に隠れた､開戦すれば\"やり切る\"中国の武力行使の論理 | 政治・経済・投資 | 東洋経済オンライン",
@@ -1264,6 +1336,30 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-18T23:53:49+00:00"
+    },
+    {
+      "title": "We need smart people who give a shit",
+      "link": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+      "summary": "Article URL: https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/\nComments URL: https://news.ycombinator.com/item?id=50554045\nPoints: 138\n# Comments: 55",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T23:53:49+00:00"
+    },
+    {
+      "title": "Multiple vulnerabilities in Regexp and String case conversion",
+      "link": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+      "summary": "Article URL: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/\nComments URL: https://news.ycombinator.com/item?id=50554038\nPoints: 13\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T23:52:50+00:00"
+    },
+    {
+      "title": "Software companies are trying to kill home computing",
+      "link": "https://lateblt.livejournal.com/526188.html",
+      "summary": "https://web.archive.org/web/20261118235158/https://lateblt.l...\n\nComments URL: https://news.ycombinator.com/item?id=50554010\nPoints: 40\n# Comments: 9",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T23:49:18+00:00"
     },
     {
       "title": "米国とイスラエル軍高官、対イランで対応協議",
@@ -1469,6 +1565,14 @@
       "title": "LLM Assisted Reverse Engineering",
       "link": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
       "summary": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering\nComments URL: https://news.ycombinator.com/item?id=50553225\nPoints: 15\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T22:29:13+00:00"
+    },
+    {
+      "title": "LLM assisted reverse engineering",
+      "link": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+      "summary": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering\nComments URL: https://news.ycombinator.com/item?id=50553225\nPoints: 27\n# Comments: 3",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-18T22:29:13+00:00"
@@ -2077,6 +2181,14 @@
       "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
       "link": "https://www.radixark.com/blog/daisyrose-27b",
       "summary": "Article URL: https://www.radixark.com/blog/daisyrose-27b\nComments URL: https://news.ycombinator.com/item?id=50551046\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T19:39:16+00:00"
+    },
+    {
+      "title": "DaisyRose-27B",
+      "link": "https://www.radixark.com/blog/daisyrose-27b",
+      "summary": "Article URL: https://www.radixark.com/blog/daisyrose-27b\nComments URL: https://news.ycombinator.com/item?id=50551046\nPoints: 125\n# Comments: 33",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-18T19:39:16+00:00"
