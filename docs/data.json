@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T21:17:57.370980+00:00",
+  "generated_at": "2026-11-19T21:33:19.048734+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1242,9 +1242,37 @@
     {
       "url": "https://azure.microsoft.com/ja-jp/blog/feed/",
       "error": "503 Server Error: Service Unavailable for url: https://azure.microsoft.com/ja-jp/blog/feed/"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "U.S. Stocks Slide as AI Bust Continues Despite Anthropic IPO",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-slide-as-ai-bust-continues-despite-anthropic-ipo-5a14e137?mod=rss_markets_main",
+      "summary": "U.S. stocks fell as Anthropic’s record-breaking initial public offering failed to staunch the bleeding in artificial-intelligence stocks.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-19T21:30:00+00:00"
+    },
+    {
+      "title": "Why Micron, Broadcom and other AI stocks gave up their gains Thursday",
+      "link": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
+      "summary": "The Anthropic enthusiasm has faded while China concerns have intensified.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-19T21:27:00+00:00"
+    },
+    {
+      "title": "UnitedHealth’s stock plunges after government signals crackdown on Medicare Advantage fraud",
+      "link": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
+      "summary": "The shares have tumbled 19% over the past five days over worries about stricter auditing of ‘upcoding’ and new Medicare for All proposals. Other health insurance stocks also slide.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-19T21:22:00+00:00"
+    },
     {
       "title": "「ヤルタは平和をもたらさず」　英仏独、ウクライナと連帯",
       "link": "https://www.jiji.com/jc/article?k=2026112000184&g=int&m=rss",
@@ -1284,6 +1312,22 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-19T21:17:51.460125+00:00"
+    },
+    {
+      "title": "｢返金してほしい｣の声まで…NiziU､Snow Man､Adoのライブ演出に批判が相次ぐ時代に考える｢お客様は神様です｣の意味 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965184?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "アーティストとファンの理想的な距離感とは――。NiziUのライブ企画中止や､Snow Man､Adoの公演をめぐるSNS上の賛否は､観客が\"自分好み\"をどこまで求めてよいのかという課題を浮き彫りにし…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-19T21:15:00+00:00"
+    },
+    {
+      "title": "｢えっ､1人でもいいの？｣全国160店舗の人気鍋チェーンで《ひとり鍋》を体験したら…想像以上に満足度が高かった | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964623?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "寒くなり､温かい鍋料理が恋しくなる季節。鍋料理の人気チェーン｢赤から｣では､実は｢ひとり鍋｣も鍋を楽しめるのだとか。筆者が実際に訪れ､レポートします。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-19T21:15:00+00:00"
     },
     {
       "title": "WSJ Dollar Index Rises",
@@ -1364,6 +1408,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-19T21:00:00+00:00"
+    },
+    {
+      "title": "Rebuilding my local voice assistant pipeline",
+      "link": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+      "summary": "Article URL: https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline\nComments URL: https://news.ycombinator.com/item?id=50566261\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-19T20:57:14+00:00"
     },
     {
       "title": "〈爆買い！〉個人向け国債の販売倍増､｢今が金利のピーク｣とみた個人と｢まだ上がる｣と見るプロ､どちらが正しいか？ | 政治・経済・投資 | 東洋経済オンライン",
