@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T23:04:12.418814+00:00",
+  "generated_at": "2026-11-19T23:17:58.091478+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1270,9 +1270,77 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "韓国「ＡＩ不正」疑惑の男性死亡　法学試験満点、遺書とみられるメモ",
+      "link": "https://www.jiji.com/jc/article?k=2026112000227&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-19T23:17:52.529465+00:00"
+    },
+    {
+      "title": "米中ロ、経済利害で接近　戦闘長期化でエネルギー混乱",
+      "link": "https://www.jiji.com/jc/article?k=2026111901260&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-19T23:17:52.529448+00:00"
+    },
+    {
+      "title": "ＮＹ株５万ドル割れ　アンソロ上場もＡＩ懸念",
+      "link": "https://www.jiji.com/jc/article?k=2026112000206&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-19T23:17:52.529440+00:00"
+    },
+    {
+      "title": "緊張の中、意見ぶつけ合い　会談場所はヤルタほうふつ―米中ロ首脳",
+      "link": "https://www.jiji.com/jc/article?k=2026111901191&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-19T23:17:52.529430+00:00"
+    },
+    {
+      "title": "高市首相「新ヤルタ」警戒　日中首脳会談果たせず―関係改善なお遠く",
+      "link": "https://www.jiji.com/jc/article?k=2026111901135&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-19T23:17:52.529401+00:00"
+    },
+    {
+      "title": "These were the only stocks that rose amid the stock market’s wipeout Thursday",
+      "link": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories",
+      "summary": "All 11 sectors of the S&amp;P 500 declined — 10 of them by more than 1% — but cybersecurity stocks bucked the weakness.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-19T23:11:00+00:00"
+    },
+    {
+      "title": "How Country Road Group built a pattern-driven integration solution on AWS",
+      "link": "https://aws.amazon.com/blogs/architecture/how-country-road-group-built-a-pattern-driven-integration-solution-on-aws/",
+      "summary": "Country Road Group replaced Microsoft BizTalk with a pattern-driven, serverless integration platform on AWS. Learn how its Strategic Integration Platform works across four processing lanes, and get the open-source Enterprise Integration Patterns CDK library to apply the same approach to your own middleware.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-11-19T23:07:30+00:00"
+    },
+    {
+      "title": "｢子育てをしてきた人ほど､腸を整えやすい？｣専門医が語る\"強い腸\"と\"子育て\"の意外な共通点 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965071?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "私たちの健康や心､美容､仕事のパフォーマンスまで左右する｢腸｣。便秘や腹痛を放置していませんか？腸の専門医である小林弘幸は､腸を子どものように育て直す｢腸育｣の重要性を提唱します。当たり前の生活リズ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-19T23:00:00+00:00"
+    },
     {
       "title": "Opinion | Last Week’s Outages Were Only the Start",
       "link": "https://www.wsj.com/opinion/last-weeks-outages-were-only-the-start-361c19ed?mod=rss_markets_main",
@@ -1280,6 +1348,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-19T22:57:00+00:00"
+    },
+    {
+      "title": "Court: 4th Amendment Doesn't Cover AI-Generated 'Probable Cause'",
+      "link": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
+      "summary": "Article URL: https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/\nComments URL: https://news.ycombinator.com/item?id=50567735\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-19T22:56:59+00:00"
     },
     {
       "title": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies",
@@ -1296,6 +1372,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-19T22:45:00+00:00"
+    },
+    {
+      "title": "UK and EU set to finalise deal to ‘reset’ relations",
+      "link": "https://www.ft.com/content/912a7730-2428-4d4c-8dde-9c41a99ab562?syn-25a6b1a6=1",
+      "summary": "Andy Burnham due to seal accord that will improve British trade with the bloc after dispute resolved with France",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-19T22:44:56+00:00"
     },
     {
       "title": "Anthropic’s IPO Mints New Millionaires",
@@ -2053,6 +2137,14 @@
       "title": "Anthropic hits $2T in Nasdaq debut",
       "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
       "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/\nComments URL: https://news.ycombinator.com/item?id=50562754\nPoints: 38\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-19T17:02:40+00:00"
+    },
+    {
+      "title": "Anthropic’s Nasdaq debut",
+      "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/\nComments URL: https://news.ycombinator.com/item?id=50562754\nPoints: 785\n# Comments: 1473",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-19T17:02:40+00:00"
