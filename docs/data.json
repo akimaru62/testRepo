@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T22:05:17.255170+00:00",
+  "generated_at": "2026-11-19T22:17:37.948578+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1254,9 +1254,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "トランプ米大統領、核軍縮合意「非常に難しい」　米中ロ、実現を模索",
+      "link": "https://www.jiji.com/jc/article?k=2026112000192&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-19T22:17:33.050227+00:00"
+    },
+    {
+      "title": "コメ補助金、生産性向上の支援へ転換し増額も　事実上の減反は維持",
+      "link": "https://www.asahi.com/articles/ASVCM3RPBVCMULFA008M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-19T22:17:32.959073+00:00"
+    },
+    {
+      "title": "Anthropic’s stock surges in its debut — and the rest of the market dives anyway",
+      "link": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories",
+      "summary": "All four major U.S. stock indexes are now on pace for their worst week since President Trump’s “liberation day” tariffs of April 2025",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-19T22:12:00+00:00"
+    },
     {
       "title": "「ヤルタ形式は平和もたらさず」　欧州とウクライナ結束",
       "link": "https://www.jiji.com/jc/article?k=2026112000184&g=int&m=rss",
@@ -1272,6 +1300,22 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-19T22:05:11.879678+00:00"
+    },
+    {
+      "title": "｢会社をなめてんのか｣型破りな元暴走族長が超一流企業に入社できたワケ 漫画｢サラリーマン金太郎｣（第1巻 第2話） | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964974?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "元暴走族「八州連合」のヘッドをしていた矢島金太郎がヤマト建設に入社するために上京。異色の経歴を持つ金太郎は悪戦苦闘しながらもサラリーマンとしての道を歩み、周囲の人々を熱く変えていく――！紙版だけでシ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-19T22:00:00+00:00"
+    },
+    {
+      "title": "【試し読み】\"推し作家の絵本\"が売れない…人見知り書店員が挑んだ大勝負　漫画｢特別じゃない日　時をむすぶ本｣1話 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964735?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "書店と本がつなげる、小さな町の幸せな日常。「特別じゃない主人公たちの小さな幸せ」をどこまでも優しく温かな筆致で描く、世界累計40万部突破の連作短編コミックシリーズの最新作『特別じゃない日 時をむすぶ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-19T22:00:00+00:00"
     },
     {
       "title": "Markets are sending troubling signals about the state of the economy",
