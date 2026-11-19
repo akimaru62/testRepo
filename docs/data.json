@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T22:47:41.019154+00:00",
+  "generated_at": "2026-11-19T23:04:12.418814+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1266,9 +1266,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Opinion | Last Week’s Outages Were Only the Start",
+      "link": "https://www.wsj.com/opinion/last-weeks-outages-were-only-the-start-361c19ed?mod=rss_markets_main",
+      "summary": "With AI’s power growing faster than we can keep up, we can expect a difficult two to three years.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-19T22:57:00+00:00"
+    },
+    {
+      "title": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies",
+      "link": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
+      "summary": "TurboTax maker Intuit gives investors a fresh reason to worry about legacy software companies.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-19T22:53:00+00:00"
+    },
+    {
+      "title": "｢彼のせいでみんな疲れている｣ Netflixなら排除も日本は解雇できず…超優秀だが職場を乱す30代社員に上司がとった行動 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964818?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "非常に優秀なのに､職場を萎縮させる｢ブリリアント･ジャーク｣なる人物。Netflixは排除を明言していますが､簡単に解雇できない日本ではそうはいきません。30歳の部下に悩む40歳の課長が､たどり着い…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-19T22:45:00+00:00"
+    },
     {
       "title": "Anthropic’s IPO Mints New Millionaires",
       "link": "https://www.wsj.com/finance/investing/anthropics-ipo-mints-new-millionaires-5dbb6289?mod=rss_markets_main",
