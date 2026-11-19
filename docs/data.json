@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T07:47:41.016696+00:00",
+  "generated_at": "2026-11-19T08:06:48.852472+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1246,6 +1246,30 @@
   ],
   "items": [
     {
+      "title": "Dollar Remains Elevated on U.S. Rate-Rise Prospects",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-face-drag-from-fed-rate-bets-50c20e86?mod=rss_markets_main",
+      "summary": "The dollar eased but stayed near the 19-month high reached overnight after the minutes of the Fed’s latest meeting pointed to further interest rate rises.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-19T07:52:00+00:00"
+    },
+    {
+      "title": "Eurozone Bond Yields Fall Ahead of Spanish, French Bond Auctions",
+      "link": "https://www.wsj.com/finance/investing/jgbs-edge-higher-amid-mixed-developments-c690e1af?mod=rss_markets_main",
+      "summary": "Eurozone government bond yields fell,  shrugging off interest-rate hike expectations and heavy bond supply on Thursday.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-19T07:48:00+00:00"
+    },
+    {
+      "title": "Trump greets ‘my friend’ Putin ahead of historic trilateral with Xi",
+      "link": "https://www.ft.com/content/fcf6d27b-a04c-4cef-8b03-ce2423566f1f",
+      "summary": "Meeting of three leaders looms in southern Chinese city of Shenzhen during week of high-stakes diplomacy",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-19T07:43:13+00:00"
+    },
+    {
       "title": "JTが1兆3770億円の損失計上へ ロシア管理の子会社を連結除外",
       "link": "https://www.asahi.com/articles/ASVCM25KRVCMULFA013M.html?ref=rss",
       "summary": "",
@@ -1444,6 +1468,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-19T05:18:08.260331+00:00"
+    },
+    {
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "link": "https://verialabs.com/ruby2shell/",
+      "summary": "Article URL: https://verialabs.com/ruby2shell/\nComments URL: https://news.ycombinator.com/item?id=50556287\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-19T05:09:11+00:00"
     },
     {
       "title": "Anthropic’s AI advances trigger new safety fears on eve of IPO",
