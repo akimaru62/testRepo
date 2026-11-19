@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T23:17:58.091478+00:00",
+  "generated_at": "2026-11-19T23:33:34.024558+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1274,9 +1274,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "アンソロピック上場、初日終値は17%高　時価総額は一時320兆円",
+      "link": "https://www.asahi.com/articles/ASVCM66V5VCMUHBI00VM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-19T23:33:29.296617+00:00"
+    },
+    {
+      "title": "TPG, Corpay to Buy Finance Platform BILL for About $6 Billion",
+      "link": "https://www.wsj.com/business/deals/tpg-corpay-to-buy-finance-platform-bill-for-about-6-billion-9f8be10c?mod=rss_markets_main",
+      "summary": "BILL will be acquired in a deal worth about $6 billion, with TPG set to buy a majority stake and Corpay agreeing to buy a minority interest.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-19T23:19:00+00:00"
+    },
     {
       "title": "韓国「ＡＩ不正」疑惑の男性死亡　法学試験満点、遺書とみられるメモ",
       "link": "https://www.jiji.com/jc/article?k=2026112000227&g=int&m=rss",
@@ -1316,6 +1336,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-19T23:17:52.529401+00:00"
+    },
+    {
+      "title": "Netflixが｢年2.5兆円｣の制作費を投じられる｢確実な収益｣の正体…サブスクは｢金利ゼロ｣でもしっかり儲けている | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963208?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢サブスクリプション企業は､なぜ金利なしで安定して儲かるのか？｣。Netflixが膨大な制作費を投じても揺るがない理由は､デジタルの低コスト構造やLTV最大化戦略､そして､驚異的な予測可能性にありま…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-19T23:15:00+00:00"
     },
     {
       "title": "These were the only stocks that rose amid the stock market’s wipeout Thursday",
@@ -2644,6 +2672,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-19T14:06:00+00:00"
+    },
+    {
+      "title": "The dangers of AI ‘handoverism’",
+      "link": "https://www.ft.com/content/45194ea4-4fa7-4c38-a5b2-137eb7402d57?syn-25a6b1a6=1",
+      "summary": "Even some of Silicon Valley’s most enthusiastic capitalists are alarmed about how far and fast the technology is moving",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-19T14:04:09+00:00"
     },
     {
       "title": "Thousands of Anthropic Employees and Investors Are Set to Reap Fortunes",
