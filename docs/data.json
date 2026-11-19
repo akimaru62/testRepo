@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T22:17:37.948578+00:00",
+  "generated_at": "2026-11-19T22:33:00.018733+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1258,9 +1258,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Opinion | Guess Who’s Coming to Mecca",
+      "link": "https://www.wsj.com/opinion/guess-whos-coming-to-mecca-5a865bd3?mod=rss_markets_main",
+      "summary": "The hajj increasingly draws worshippers from South and Southeast Asia.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-19T22:18:00+00:00"
+    },
     {
       "title": "トランプ米大統領、核軍縮合意「非常に難しい」　米中ロ、実現を模索",
       "link": "https://www.jiji.com/jc/article?k=2026112000192&g=int&m=rss",
@@ -1276,6 +1288,22 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-19T22:17:32.959073+00:00"
+    },
+    {
+      "title": "｢ナオキマンとは何者なのか｣ 政府が陰謀論系YouTuber起用で大波紋→\"ただの炎上\"では済まない問題の本質 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965347?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "政府が安全保障の広報に､都市伝説や陰謀論で人気のYouTuberナオキマン氏を起用し､波紋を広げています。情報の信頼性が問われる中､なぜ政府はあえて彼を選んだのでしょうか。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-19T22:15:00+00:00"
+    },
+    {
+      "title": "Synology Security Advisory",
+      "link": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+      "summary": "Article URL: https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21\nComments URL: https://news.ycombinator.com/item?id=50567209\nPoints: 11\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-19T22:13:40+00:00"
     },
     {
       "title": "Anthropic’s stock surges in its debut — and the rest of the market dives anyway",
@@ -1876,6 +1904,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-19T18:00:00+00:00"
+    },
+    {
+      "title": "AI Came for the Coders. Understanding Why Tells Us Who's Next",
+      "link": "https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html",
+      "summary": "Article URL: https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html\nComments URL: https://news.ycombinator.com/item?id=50563328\nPoints: 20\n# Comments: 14",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-19T17:43:38+00:00"
     },
     {
       "title": "Claude Fable 5.2 solves two open problems in the physics of black holes",
