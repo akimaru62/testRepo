@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T12:36:12.791102+00:00",
+  "generated_at": "2026-11-19T12:47:30.261118+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1246,6 +1246,14 @@
   ],
   "items": [
     {
+      "title": "If the AI trade unwinds, other pillars holding up the U.S. economy are ‘irrelevant,’ says Barclays",
+      "link": "https://www.marketwatch.com/story/if-the-ai-trade-unwinds-other-pillars-holding-up-the-u-s-economy-are-irrelevant-says-barclays-b6f1bdca?mod=mw_rss_topstories",
+      "summary": "The bank does not hold that the artificial-intelligence trade is collapsing, viewing today’s slowdown as a correction that can selectively be bought into.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-19T12:45:00+00:00"
+    },
+    {
       "title": "Dollar Could Stay Strong in 2027",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-face-drag-from-fed-rate-bets-50c20e86?mod=rss_markets_main",
       "summary": "The DXY dollar index fell after reaching a 19-month high of 103.974 overnight. Deutsche Bank said the currency is likely to remain higher for longer due to the positive implications of the AI boom.",
@@ -1276,6 +1284,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-19T12:21:11+00:00"
+    },
+    {
+      "title": "The AI Superintelligence Debate Has Serious Flaws",
+      "link": "https://spectrum.ieee.org/ai-superintelligence-debate",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-superintelligence-debate\nComments URL: https://news.ycombinator.com/item?id=50559140\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-19T12:17:10+00:00"
     },
     {
       "title": "Can Anthropic’s IPO do for the stock market what Nvidia’s earnings couldn’t?",
@@ -4006,6 +4022,14 @@
       "published": "2026-11-18T17:05:13+00:00"
     },
     {
+      "title": "We taught robots to carve marble sculptures",
+      "link": "https://eleanorwiesler.com/blog/robotic-stone-carving/",
+      "summary": "Article URL: https://eleanorwiesler.com/blog/robotic-stone-carving/\nComments URL: https://news.ycombinator.com/item?id=50548808\nPoints: 7\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T17:03:53+00:00"
+    },
+    {
       "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
       "link": "https://news.ycombinator.com/item?id=50548660",
       "summary": "Hi HN, we're Shane, Sam, and Abhi.Almost two years ago, we shared Mastra, our open-source TypeScript agent framework, on Show HN: https://news.ycombinator.com/item?id=43103073. It got a few hundred upvotes; a couple of weeks later our downloads had doubled, and we were off to the races.Today we're sharing Mastra Factory, the open-source software factory we built to help maintain Mastra itself.At Mastra, we now average nearly 4M downloads per week, and with Factory our team now merges hundreds of PRs a week across the mastra-ai GitHub org. Last week, Factory opened and merged 238 PRs, alongside 630 merged PRs from humans.There's a lot of debate about what a software factory is. For us Factory is a configurable agentic kanban board that's @-taggable in Slack.Under the hood, it uses Mastra’s durable agents for long-running sessions, our conversational memory system, a markdown based wiki with source citations to incorporate company knowledge, signals that subscribe to PR comments wired up into sessions, and a customizable cloud sandbox with our coding harness (working on supporting Claude Code, Codex etc).When we started out, we modeled Factory around our existing workflow-oriented process (triage, plan, build, review, shipped). Three months later, we find ourselves mostly driving it through Slack vs a web UI.We’ve seen more senior engineers kick off sessions in parallel (“triage the 20 oldest issues and let’s evaluate…”). We’re using bug and vuln scanners now, and we’ve closed our repo to outside contributors, asking folks to write detailed issue repros instead.You can get started with `npm create factory`.It’s fully open-source, so you can run it entirely on your infra (we also offer a hosted version). Comment here, we would love to know what you think!\n\nComments URL: https://news.ycombinator.com/item?id=50548660\nPoints: 17\n# Comments: 4",
@@ -4388,6 +4412,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-18T14:56:52+00:00"
+    },
+    {
+      "title": "Nintendo takes Picofly firmware down from GitHub [video]",
+      "link": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
+      "summary": "Article URL: https://www.youtube.com/watch?v=-TLCGUpoD6c\nComments URL: https://news.ycombinator.com/item?id=50547048\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-18T14:56:04+00:00"
     },
     {
       "title": "The x86 CPU: From 4004 to 486",
