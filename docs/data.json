@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T23:33:34.024558+00:00",
+  "generated_at": "2026-11-19T23:47:19.259446+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1278,9 +1278,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "アンソロピックに求められる「指数関数的な成長」　逆風下の上場",
+      "link": "https://www.asahi.com/articles/ASVCM7KZ1VCMUHBI00PM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-19T23:47:13.696380+00:00"
+    },
     {
       "title": "アンソロピック上場、初日終値は17%高　時価総額は一時320兆円",
       "link": "https://www.asahi.com/articles/ASVCM66V5VCMUHBI00VM.html?ref=rss",
@@ -1288,6 +1300,22 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-19T23:33:29.296617+00:00"
+    },
+    {
+      "title": "〈注文殺到〉アンソロピックIPOの日本募集分､募集額の3倍超となる1兆5000億円超の注文が殺到 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965422?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "米AIスタートアップ･アンソロピックのIPOが日本でも注目を集め､募集額の3倍超となる1兆5000億円超の注文が殺到しました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-19T23:33:00+00:00"
+    },
+    {
+      "title": "いくら営業の人数を増やしても利益が出ない《一生懸命なのに非効率な職場》が取り組みがちな\"不毛な努力\"の正体 | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965093?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢営業を強くする｣と聞くと人員増や研修拡充が真っ先に浮かびますが､本当に成果を生むのは\"営業生産性\"の視点でした。同じ件数を少人数で達成する会社は､いかに投資と成果を数字で捉えているのか。働き方改革…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-19T23:30:00+00:00"
     },
     {
       "title": "TPG, Corpay to Buy Finance Platform BILL for About $6 Billion",
@@ -1381,6 +1409,14 @@
       "title": "Court: 4th Amendment Doesn't Cover AI-Generated 'Probable Cause'",
       "link": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
       "summary": "Article URL: https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/\nComments URL: https://news.ycombinator.com/item?id=50567735\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-19T22:56:59+00:00"
+    },
+    {
+      "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
+      "link": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
+      "summary": "Article URL: https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/\nComments URL: https://news.ycombinator.com/item?id=50567735\nPoints: 21\n# Comments: 6",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-19T22:56:59+00:00"
