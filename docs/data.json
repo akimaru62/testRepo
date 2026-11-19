@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T11:17:27.203200+00:00",
+  "generated_at": "2026-11-19T11:33:23.215669+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1246,6 +1246,30 @@
   ],
   "items": [
     {
+      "title": "NHK ラジオで関係ない音声を放送",
+      "link": "https://news.yahoo.co.jp/pickup/6603200?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-19T11:29:30+00:00"
+    },
+    {
+      "title": "The Bond Market’s Surprising Take on the AI Trade",
+      "link": "https://www.wsj.com/finance/investing/the-bond-markets-surprising-take-on-the-ai-trade-a04e0b76?mod=rss_markets_main",
+      "summary": "Plus, stocks pop as Anthropic sets a high IPO price.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-19T11:26:00+00:00"
+    },
+    {
+      "title": "ちいかわ寿司皿 抽選配布の問題点",
+      "link": "https://news.yahoo.co.jp/pickup/6603182?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-19T11:23:53+00:00"
+    },
+    {
       "title": "ネックレス奪い男逃走　貴金属店でスプレー噴射―警視庁",
       "link": "https://www.jiji.com/jc/article?k=2026111900954&g=soc&m=rss",
       "summary": "",
@@ -1387,6 +1411,14 @@
       "summary": "Shares in the maker of the Claude chatbot are set to begin trading midday Thursday.",
       "source": "WSJ マーケット",
       "category": "海外金融",
+      "published": "2026-11-19T10:30:00+00:00"
+    },
+    {
+      "title": "金融の円滑化に向けた取組及び事業者支援の徹底について",
+      "link": "https://www.mof.go.jp/policy/financial_system/fiscal_finance/torikumi/20261117163749.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
       "published": "2026-11-19T10:30:00+00:00"
     },
     {
@@ -2023,6 +2055,22 @@
     },
     {
       "title": "Retail investors face squeeze in blockbuster Anthropic IPO",
+      "link": "https://www.ft.com/content/38c122d6-b533-4595-9554-3852c52e580f?syn-25a6b1a6=1",
+      "summary": "Frenzy for AI stocks is testing how far Wall Street will go to accommodate a new army of individual investors",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-19T05:00:17+00:00"
+    },
+    {
+      "title": "AI advances trigger new safety fears on eve of market debut",
+      "link": "https://www.ft.com/content/d8be4655-211c-49a8-bfe4-18a00b8e8619?syn-25a6b1a6=1",
+      "summary": "Group disclosed it had activated part of ‘responsible scaling policy’ it set up to ensure AI did not develop so quickly that it caused ‘catastrophic risks’",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-19T05:00:17+00:00"
+    },
+    {
+      "title": "Retail investors face squeeze in blockbuster IPO",
       "link": "https://www.ft.com/content/38c122d6-b533-4595-9554-3852c52e580f?syn-25a6b1a6=1",
       "summary": "Frenzy for AI stocks is testing how far Wall Street will go to accommodate a new army of individual investors",
       "source": "Financial Times",
