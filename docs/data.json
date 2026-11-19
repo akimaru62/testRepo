@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T16:05:34.382884+00:00",
+  "generated_at": "2026-11-19T16:19:33.311353+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1246,6 +1246,46 @@
   ],
   "items": [
     {
+      "title": "首相は記者団に対し、日本はＩＣＣを支持しており、日米で考えが異なっていると述べた",
+      "link": "https://www.jiji.com/jc/article?k=2026111901347&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-19T16:19:26.840691+00:00"
+    },
+    {
+      "title": "米アンソロピックが上場　ナスダックに、史上最大規模",
+      "link": "https://www.jiji.com/jc/article?k=2026111900897&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-19T16:19:26.840667+00:00"
+    },
+    {
+      "title": "高市首相、トランプ氏と電話会談　米中ロ受け協議",
+      "link": "https://www.jiji.com/jc/article?k=2026111901317&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-19T16:19:26.840634+00:00"
+    },
+    {
+      "title": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
+      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-19T16:15:00+00:00"
+    },
+    {
+      "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+      "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+      "summary": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-19T16:14:00+00:00"
+    },
+    {
       "title": "The best things in open source are built together",
       "link": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
       "summary": "Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion.\nThe post The best things in open source are built together appeared first on The GitHub Blog.",
@@ -1270,6 +1310,14 @@
       "published": "2026-11-19T15:52:00+00:00"
     },
     {
+      "title": "I built Cornhole News. A Hacker News inspired site for news across the Midwest",
+      "link": "https://cornholenews.news",
+      "summary": "Article URL: https://cornholenews.news\nComments URL: https://news.ycombinator.com/item?id=50561515\nPoints: 6\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-19T15:38:32+00:00"
+    },
+    {
       "title": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
       "link": "https://thedataexchange.media/pete-warden-moonshine/",
       "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/\nComments URL: https://news.ycombinator.com/item?id=50561508\nPoints: 4\n# Comments: 0",
@@ -1292,6 +1340,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-19T15:34:00+00:00"
+    },
+    {
+      "title": "Show HN: Watch weight-space programming in action with WebGPU",
+      "link": "https://tabbyml.github.io/weight-space-playground/",
+      "summary": "I wanted to build a full weight-space programming loop entirely in the browser with WebGPU: let an LLM inspect Qwen3.5-0.8B, edit its weights, evaluate, and repeat.the full loop needed too much VRAM. so I turned it into an interactive walkthrough of a concrete example: editing 0.016% of a model's weights to reduce reasoning loops, no gradient descent.Based on exp8 of “Sparks of Weight-Space Programming.”: https://news.ycombinator.com/item?id=50341174\n\nComments URL: https://news.ycombinator.com/item?id=50561436\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-19T15:32:47+00:00"
     },
     {
       "title": "Putin invites European leaders to Moscow",
@@ -1332,6 +1388,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-19T15:18:17.851938+00:00"
+    },
+    {
+      "title": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence",
+      "link": "https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/",
+      "summary": "Article URL: https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/\nComments URL: https://news.ycombinator.com/item?id=50561170\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-19T15:13:23+00:00"
     },
     {
       "title": "Anthropic IPO Lifts Mood in Markets",
@@ -1911,6 +1975,14 @@
     },
     {
       "title": "Anthropic shares indicated to open 27% higher at $105",
+      "link": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
+      "summary": "AI giant to begin trading after raising $81bn in record IPO",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-19T10:58:44+00:00"
+    },
+    {
+      "title": "Anthropic shares indicated to open 28% higher at $106",
       "link": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
       "summary": "AI giant to begin trading after raising $81bn in record IPO",
       "source": "Financial Times",
