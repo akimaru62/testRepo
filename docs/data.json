@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T21:47:43.497585+00:00",
+  "generated_at": "2026-11-19T22:05:17.255170+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1250,9 +1250,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "「ヤルタ形式は平和もたらさず」　欧州とウクライナ結束",
+      "link": "https://www.jiji.com/jc/article?k=2026112000184&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-19T22:05:12.147797+00:00"
+    },
+    {
+      "title": "アンソロピック上場、初日終値は17％高　時価総額は一時320兆円",
+      "link": "https://www.asahi.com/articles/ASVCM66V5VCMUHBI00VM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-19T22:05:11.879678+00:00"
+    },
+    {
+      "title": "Markets are sending troubling signals about the state of the economy",
+      "link": "https://www.marketwatch.com/story/markets-are-sending-troubling-signals-about-the-state-of-the-economy-8043f20e?mod=mw_rss_topstories",
+      "summary": "A number of recession trades have started to emerge, even as economic data has largely held up.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-19T21:57:00+00:00"
+    },
     {
       "title": "旧姓で銀行口座はなぜ開けないの？　女性の感じた壁、銀行側の説明は",
       "link": "https://www.asahi.com/articles/ASVCL3F5SVCLUTFL00SM.html?ref=rss",
@@ -1267,6 +1295,22 @@
       "summary": "There are only 20 companies in the world with a market capitalization of $669 billion or higher",
       "source": "MarketWatch",
       "category": "海外金融",
+      "published": "2026-11-19T21:45:00+00:00"
+    },
+    {
+      "title": "｢さすがに腹が立ちましたが､図星でした｣元V系ギタリストのSmartHR課長（44）が30代で\"会社員デビュー\"した顛末 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965200?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ヴィジュアル系インサイドセールスを名乗る､SmartHRの堤貴宏さんは､かつて全国を巡った人気バンドの元ギタリスト。V系バンドマンは､いかに営業課長になったのか…半生を聞きました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-19T21:45:00+00:00"
+    },
+    {
+      "title": "｢そんな中途半端な格好で表に出るの？｣妻の檄でピンク髪…元バンドマンが\"ヴィジュアル系\"の営業課長になるまで | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965199?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ヴィジュアル系バンドマンから大企業向けインサイドセールスの課長へ――堤貴宏さんが異色の経歴を生かして歩んだキャリアは､挫折と挑戦に満ちていました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
       "published": "2026-11-19T21:45:00+00:00"
     },
     {
@@ -1404,6 +1448,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-19T21:02:09+00:00"
+    },
+    {
+      "title": "Australian PM to meet Xi Jinping as iron ore tensions loom",
+      "link": "https://www.ft.com/content/ddbf0f75-047a-421a-87c0-3e60bf42ed22?syn-25a6b1a6=1",
+      "summary": "Prime Minister Anthony Albanese to hold bilateral talks with China’s president on Friday",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-19T21:00:10+00:00"
     },
     {
       "title": "Treasury Yields Slip as Risk-Off Mode Survives Anthropic’s IPO",
