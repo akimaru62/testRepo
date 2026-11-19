@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T14:47:50.755520+00:00",
+  "generated_at": "2026-11-19T15:05:42.419098+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1246,12 +1246,60 @@
   ],
   "items": [
     {
+      "title": "Anthropic IPO Lifts Mood in Markets",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-rise-as-optimism-improves-ahead-of-anthropic-trading-debut-ecdfbb2f?mod=rss_markets_main",
+      "summary": "The tech-heavy Nasdaq composite jumped n expectations of a pop in Anthropic trading, after the Claude maker pulled off a record-breaking initial public offering. The S&amp;P 500 also climbed, setting up a day of gains after five consecutive down sessions.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-19T15:03:00+00:00"
+    },
+    {
+      "title": "Trump says Americans should ‘relax’ as Washington scrambles to get to the bottom of outages",
+      "link": "https://www.marketwatch.com/story/washington-is-scrambling-to-get-to-the-bottom-of-the-growing-number-of-tech-outages-across-america-66fbf299?mod=mw_rss_topstories",
+      "summary": "The Trump administration and Congress have been rushing to address the series of technology failures that have hit the U.S. over the past week, with Vice President J.D. Vance withdrawing from an event Wednesday in order to take part in meetings on the issue.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-19T15:01:00+00:00"
+    },
+    {
+      "title": "Why Micron, Intel and other AI stocks are getting a lift on Thursday",
+      "link": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
+      "summary": "Anthropic’s IPO is one big reason — but there’s also optimism about Texas’s data-center landscape and a new buyback program from optical company Coherent.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-19T14:52:00+00:00"
+    },
+    {
+      "title": "KKR Invests in India Renewables Business Run by Petronas-Backed Gentari",
+      "link": "https://www.wsj.com/pro/private-equity/kkr-invests-in-india-renewables-business-run-by-petronas-backed-gentari-a096348c?mod=rss_markets_main",
+      "summary": "Investment firm KKR made a minority investment in a renewable-energy platform in India run by Gentari, an entity established by Malaysia’s national oil and gas company.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-19T14:51:00+00:00"
+    },
+    {
+      "title": "Anthropic is coming to your 401(k). Love it or hate it, AI is becoming a bigger part of your financial plan.",
+      "link": "https://www.marketwatch.com/story/anthropic-is-coming-to-your-401-k-love-it-or-hate-it-ai-is-becoming-a-bigger-part-of-your-financial-plan-2e9ae533?mod=mw_rss_topstories",
+      "summary": "A number of public pension plans already have a stake in Anthropic.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-19T14:48:00+00:00"
+    },
+    {
       "title": "米アンソロピックが上場、810億ドル記録的調達　主要AI専業で初",
       "link": "https://www.asahi.com/articles/ASVCM3TFTVCMUHBI004M.html?ref=rss",
       "summary": "",
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-19T14:47:45.462359+00:00"
+    },
+    {
+      "title": "Germany and Austria Call for European Control of TikTok",
+      "link": "https://www.techcentral.ie/germany-and-austria-call-for-european-control-of-tiktok/",
+      "summary": "Article URL: https://www.techcentral.ie/germany-and-austria-call-for-european-control-of-tiktok/\nComments URL: https://news.ycombinator.com/item?id=50560795\nPoints: 9\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-19T14:44:50+00:00"
     },
     {
       "title": "Evonik Shares Tumble After BASF Ends Takeover Efforts",
@@ -1284,6 +1332,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-19T14:29:00+00:00"
+    },
+    {
+      "title": "OpenAI still has a WebRTC Problem",
+      "link": "https://moq.dev/blog/webrtc-is-still-the-problem/",
+      "summary": "Article URL: https://moq.dev/blog/webrtc-is-still-the-problem/\nComments URL: https://news.ycombinator.com/item?id=50560461\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-19T14:20:08+00:00"
     },
     {
       "title": "UN court rules Myanmar committed genocide in landmark verdict",
@@ -1356,6 +1412,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-19T13:47:00+00:00"
+    },
+    {
+      "title": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "summary": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-19T13:46:00+00:00"
     },
     {
       "title": "Dodgers Owner Walter Faces Probe From State Regulator That Says It Was ‘Misled’",
@@ -1705,6 +1769,14 @@
       "title": "Anthropic to make Wall Street debut after record IPO",
       "link": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
       "summary": "First trades in Claude maker will provide a key signal of investors’ continued appetite for AI",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-19T10:58:44+00:00"
+    },
+    {
+      "title": "Anthropic shares indicated to open 20% higher at $100",
+      "link": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
+      "summary": "AI giant to begin trading after raising $81bn in record IPO",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-19T10:58:44+00:00"
