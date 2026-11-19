@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T09:19:36.332177+00:00",
+  "generated_at": "2026-11-19T09:33:31.461436+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1340,6 +1340,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-19T08:47:35.801748+00:00"
+    },
+    {
+      "title": "Distributed, high-performance blob storage on SQLite",
+      "link": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+      "summary": "Article URL: https://zerodha.tech/blog/high-performance-distributed-blob-storage/\nComments URL: https://news.ycombinator.com/item?id=50557537\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-19T08:39:45+00:00"
     },
     {
       "title": "This closely-watched guru just sold everything",
