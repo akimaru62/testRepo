@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T06:09:05.660722+00:00",
+  "generated_at": "2026-11-19T06:27:09.288734+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1238,9 +1238,53 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7f282a729a90>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://azure.microsoft.com/ja-jp/blog/feed/",
+      "error": "503 Server Error: Service Unavailable for url: https://azure.microsoft.com/ja-jp/blog/feed/"
     }
   ],
   "items": [
+    {
+      "title": "不正アクセス、オールジャパンで対応　警察庁がサイバー幹部臨時全国会議",
+      "link": "https://www.jiji.com/jc/article?k=2026111900636&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-19T06:27:05.026649+00:00"
+    },
+    {
+      "title": "消費減税の財源焦点　租特見直し、中小優遇に照準―２７年度改正へ自民税調",
+      "link": "https://www.jiji.com/jc/article?k=2026111900643&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-19T06:27:05.026634+00:00"
+    },
+    {
+      "title": "戦車砲弾破裂、装着バンド原因　高温で残存、接触し爆発―大分演習場４人死傷・陸自",
+      "link": "https://www.jiji.com/jc/article?k=2026111900637&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-19T06:27:05.026616+00:00"
+    },
+    {
+      "title": "米ロ首脳が会談　１年３カ月ぶり",
+      "link": "https://www.jiji.com/jc/article?k=2026111900565&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-19T06:27:05.026584+00:00"
+    },
+    {
+      "title": "「黒」にちなんだ商品続々　今年もブラックフライデー商戦スタート",
+      "link": "https://www.asahi.com/articles/ASVCM1G8GVCMULFA00BM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-19T06:27:04.840690+00:00"
+    },
     {
       "title": "ガソリン価格、宮城が20週連続で全国最安値　12月からは補助縮小",
       "link": "https://www.asahi.com/articles/ASVCM1Q66VCMUNHB00CM.html?ref=rss",
@@ -1653,6 +1697,14 @@
       "title": "Trump meets ‘my friend’ Putin ahead of trilateral with Xi",
       "link": "https://www.ft.com/content/fcf6d27b-a04c-4cef-8b03-ce2423566f1f",
       "summary": "Historic event in southern Chinese city of Shenzhen is culmination of a week of high-stakes diplomacy",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-19T01:31:05+00:00"
+    },
+    {
+      "title": "Trump meets Xi after aside with ‘my friend’ Putin",
+      "link": "https://www.ft.com/content/fcf6d27b-a04c-4cef-8b03-ce2423566f1f",
+      "summary": "Historic trilateral summit looms in southern Chinese city of Shenzhen after week of high-stakes diplomacy",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-19T01:31:05+00:00"
