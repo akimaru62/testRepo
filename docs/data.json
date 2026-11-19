@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T17:47:55.398660+00:00",
+  "generated_at": "2026-11-19T18:06:22.053854+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1246,6 +1246,30 @@
   ],
   "items": [
     {
+      "title": "Dow Leads Stocks Lower After Anthropic Starts Trading",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-rise-as-optimism-improves-ahead-of-anthropic-trading-debut-ecdfbb2f?mod=rss_markets_main",
+      "summary": "Stocks turned lower after Anthropic began trading on the Nasdaq.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-19T18:01:00+00:00"
+    },
+    {
+      "title": "Forget data centers. The next great AI stocks are hiding in plain sight in these four sectors.",
+      "link": "https://www.marketwatch.com/story/forget-data-centers-the-next-great-ai-stocks-are-hiding-in-plain-sight-in-these-four-sectors-ee9833b1?mod=mw_rss_topstories",
+      "summary": "Stanley Druckenmiller thinks the next big winners will come from applying AI. Here are some companies worth watching.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-19T18:00:00+00:00"
+    },
+    {
+      "title": "Claude Fable 5.2 solves two open problems in the physics of black holes",
+      "link": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics\nComments URL: https://news.ycombinator.com/item?id=50563148\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-19T17:30:44+00:00"
+    },
+    {
       "title": "UnitedHealth’s stock keeps plunging after government signals crackdown on Medicare Advantage fraud",
       "link": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
       "summary": "UnitedHealth’s stock has tumbled 20% over the past five days.",
@@ -1270,9 +1294,25 @@
       "published": "2026-11-19T17:17:46.657940+00:00"
     },
     {
+      "title": "Anthropic hits $2T in Nasdaq debut",
+      "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/\nComments URL: https://news.ycombinator.com/item?id=50562754\nPoints: 38\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-19T17:02:40+00:00"
+    },
+    {
       "title": "Chrome AI Features Wasting Much Bandwidth",
       "link": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
       "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/\nComments URL: https://news.ycombinator.com/item?id=50562636\nPoints: 14\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-19T16:54:25+00:00"
+    },
+    {
+      "title": "Chrome AI features wasting much bandwidth",
+      "link": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
+      "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/\nComments URL: https://news.ycombinator.com/item?id=50562636\nPoints: 51\n# Comments: 13",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-19T16:54:25+00:00"
@@ -1406,6 +1446,14 @@
       "published": "2026-11-19T16:19:06+00:00"
     },
     {
+      "title": "Anthropic soars in Wall Street debut",
+      "link": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
+      "summary": "AI giant begins trading after raising $81bn in record IPO",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-19T16:19:06+00:00"
+    },
+    {
       "title": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
       "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
       "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
@@ -1457,6 +1505,14 @@
       "title": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
       "link": "https://thedataexchange.media/pete-warden-moonshine/",
       "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/\nComments URL: https://news.ycombinator.com/item?id=50561508\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-19T15:38:12+00:00"
+    },
+    {
+      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+      "link": "https://thedataexchange.media/pete-warden-moonshine/",
+      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/\nComments URL: https://news.ycombinator.com/item?id=50561508\nPoints: 122\n# Comments: 99",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-19T15:38:12+00:00"
@@ -1865,6 +1921,14 @@
       "title": "Unblockable communication with gravity – Science Advances",
       "link": "https://www.science.org/doi/10.1126/sciadv.aee0802",
       "summary": "Article URL: https://www.science.org/doi/10.1126/sciadv.aee0802\nComments URL: https://news.ycombinator.com/item?id=50559179\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-19T12:22:00+00:00"
+    },
+    {
+      "title": "Unblockable communication with gravity",
+      "link": "https://www.science.org/doi/10.1126/sciadv.aee0802",
+      "summary": "Article URL: https://www.science.org/doi/10.1126/sciadv.aee0802\nComments URL: https://news.ycombinator.com/item?id=50559179\nPoints: 57\n# Comments: 22",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-19T12:22:00+00:00"
@@ -2441,6 +2505,14 @@
       "title": "SSD prices will start going down the second half of next year",
       "link": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
       "summary": "Article URL: https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html\nComments URL: https://news.ycombinator.com/item?id=50557716\nPoints: 12\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-19T09:05:34+00:00"
+    },
+    {
+      "title": "SSD prices may begin to decline in the latter half of 2027",
+      "link": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
+      "summary": "Article URL: https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html\nComments URL: https://news.ycombinator.com/item?id=50557716\nPoints: 250\n# Comments: 204",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-19T09:05:34+00:00"
