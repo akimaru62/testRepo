@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T21:17:30.679650+00:00",
+  "generated_at": "2026-11-20T21:32:46.863924+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1630,9 +1630,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "U.S. Stocks Extend Plunge as AI Boom Turns to Bust",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-plunge-as-ai-boom-turns-to-bust-a2d324e7?mod=rss_markets_main",
+      "summary": "U.S. stocks plunged and an index of mega-cap technology stocks skirted bear-market territory as predictions of a speculative bust in artificial-intelligence stocks appeared to come to fruition.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T21:27:00+00:00"
+    },
+    {
+      "title": "Anthropic’s stock sees dramatic slide but manages to stay above its IPO price",
+      "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
+      "summary": "Anthropic’s inability to hold its opening stock price has been seen as “bad for the rest of tech.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T21:25:00+00:00"
+    },
     {
       "title": "欧州代表団、訪ロの用意　ウクライナ協議準備で―仏",
       "link": "https://www.jiji.com/jc/article?k=2026112100138&g=int&m=rss",
@@ -1664,6 +1684,22 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-20T21:17:26.449959+00:00"
+    },
+    {
+      "title": "Oil Futures Fall for Third Straight Week on Supply Outlook",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-edge-higher-as-traders-assess-middle-east-shipping-risks-supply-outlook-faf8f60a?mod=rss_markets_main",
+      "summary": "Oil futures settled higher Friday, but ended the week with losses as the market assessed improving global supply conditions amid continued threats to Middle Eastern oil shipments.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T21:16:00+00:00"
+    },
+    {
+      "title": "花束なし､集合写真は後列､握手は無言の10秒…APECで｢歯牙にもかけられぬ｣扱いを受けた高市首相に迫る\"外交の正念場\" | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965455?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "米中ロの\"異例の3者会談\"で､トランプ大統領の発言は中国･ロシア寄りとも受け取られ､国際秩序の変質を印象づけました。一方､冷遇された高市首相や安全保障文書改定など､日本外交の課題も浮き彫りに。日本は…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T21:15:00+00:00"
     },
     {
       "title": "Grand Theft Auto VI smashes records with $3.8bn in sales",
