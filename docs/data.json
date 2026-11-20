@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T03:47:43.598417+00:00",
+  "generated_at": "2026-11-20T04:06:05.142484+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1350,6 +1350,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1360,6 +1364,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-20T10:00:00+00:00"
+    },
+    {
+      "title": "日陰を集める遊びが､街を変える？　近視を抑えるために｢外で過ごす時間を増やす｣という新発想とは？ | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962871?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "猛暑の中､子どもに｢外で遊ぼう｣と促しても､なかなか行動にはつながりません。しかし､近視抑制には屋外で過ごす時間が大切。暑さと安全に配慮しつつ､子どもが自ら楽しみながら外に出たくなる仕掛けや遊びとは…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T04:00:00+00:00"
+    },
+    {
+      "title": "情報セキュリティ・セミナー「モノをどう見分け、どう認証するか」開催のお知らせ",
+      "link": "http://www.boj.or.jp/about/release_2026/rel261120a.htm",
+      "summary": "",
+      "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-11-20T04:00:00+00:00"
     },
     {
       "title": "中小向けの二大租特「効果ない」　維新が廃止方針　自民と議論へ",
@@ -1400,6 +1420,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-20T03:29:11+00:00"
+    },
+    {
+      "title": "M*A*S*H star David Ogden Stiers dies at age 75 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95QXdBaHNvOHZ4TjNCY3h4am01ZXJtamt2WHFna3FrUW9Va3dhYm5UX3pTNHdGTHhycXNlYWw3M2thNE4zRnctXzNmY251XzIyWHAxNEw1SjhEckk?oc=5",
+      "summary": "M*A*S*H star David Ogden Stiers dies at age 75&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-20T03:24:09+00:00"
     },
     {
       "title": "自民「人口減少踏まえ必要」　定数削減法案、衆院委で質疑",
@@ -1488,6 +1516,22 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-20T02:47:42.054766+00:00"
+    },
+    {
+      "title": "What Comes After AGI?",
+      "link": "https://institute.deepmind.com/essays/what-comes-after-agi/",
+      "summary": "Article URL: https://institute.deepmind.com/essays/what-comes-after-agi/\nComments URL: https://news.ycombinator.com/item?id=50569519\nPoints: 10\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T02:44:13+00:00"
+    },
+    {
+      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+      "link": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+      "summary": "Article URL: https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/\nComments URL: https://news.ycombinator.com/item?id=50569516\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T02:43:49+00:00"
     },
     {
       "title": "〈次の柱〉｢久世福商店｣のサンクゼールが善光寺で挑む50億円土産ビジネス…クルミ菓子で狙う｢成功の方程式｣とは | ビジネス | 東洋経済オンライン",
