@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T18:06:23.368503+00:00",
+  "generated_at": "2026-11-20T18:20:21.660102+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1578,9 +1578,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "スウェーデン大使館のノーベル賞祝賀会　そあいさんに手袋贈呈―東京",
+      "link": "https://www.jiji.com/jc/article?k=2026112001155&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T18:20:16.495386+00:00"
+    },
     {
       "title": "Why year-end portfolio rebalancing is a risky bet that bonds will beat stocks in 2027",
       "link": "https://www.marketwatch.com/story/why-year-end-portfolio-rebalancing-is-a-risky-bet-that-bonds-will-beat-stocks-in-2027-1b438892?mod=mw_rss_topstories",
@@ -1590,12 +1602,28 @@
       "published": "2026-11-20T17:49:00+00:00"
     },
     {
+      "title": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+      "link": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+      "summary": "Article URL: https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394\nComments URL: https://news.ycombinator.com/item?id=50578794\nPoints: 12\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T17:44:01+00:00"
+    },
+    {
       "title": "Tech Rout Deepens as Anthropic Stock Slides",
       "link": "https://www.wsj.com/finance/stocks/nasdaq-set-for-fresh-decline-as-ai-selloff-intensifies-e974bbb5?mod=rss_markets_main",
       "summary": "The selloff in technology stocks is intensifying, dragging the S&amp;P 500 and Dow industrials into correction territory.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-20T17:35:00+00:00"
+    },
+    {
+      "title": "Putin was the real winner at the trilateral summit",
+      "link": "https://www.ft.com/content/8f24b313-1b9a-401d-88e6-089aedc72519",
+      "summary": "The Shenzhen meeting only emboldened the Russian leader. Now Europe must lay the groundwork for serious diplomacy",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T17:33:46+00:00"
     },
     {
       "title": "宮崎友花ら準決勝進出　バドミントン・香港オープン",
