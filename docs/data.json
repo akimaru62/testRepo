@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T20:47:09.544230+00:00",
+  "generated_at": "2026-11-20T21:05:10.105883+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1622,9 +1622,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Anthropic’s IPO Bust Punctuates $4 Trillion AI Wipeout on Wall Street",
+      "link": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90?mod=rss_markets_main",
+      "summary": "A brutal selloff in stocks got worse as the week wore on, and not even the biggest IPO in history could slow it down.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T21:03:00+00:00"
+    },
+    {
+      "title": "｢キザシを見たら覆面と思え｣は本当だった！国内3300台中900台が警察車両､スズキ\"隠れた名車\"が伝説になったワケ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965401?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "中古車販売店に勤める新人・槇島ユズ。名車を愛でるだけのつもりが、熱烈なオタクトークで図らずも成約を連発！「売りたくない」と願うユズの悲鳴とは裏腹に、今日もまた一台、愛する名車が店を去っていく——。セ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T21:00:00+00:00"
+    },
+    {
+      "title": "今やお風呂で\"歯間洗浄\"まで!?—3万超え｢高級シャワーヘッド｣なぜ売れる？　好調のミラブルとリクシルに聞く | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965187?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "物価高騰が続く中､3万円を超える｢高機能シャワーヘッド｣の売れ行きが好調です。美肌や頭皮ケアを目指し技術力を競う各社の戦略､新たな市場の拡大背景とは？家族の快適さや個人の美容欲求に応える最新シャワー…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T21:00:00+00:00"
+    },
+    {
+      "title": "〈本当に強い大学ランキング〉26年版 中国･四国地方編､対象48校のトップは広島大､2位は岡山大､徳島大や山口大も上位に | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964872?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "少子化と多様な学びの広がりで変革を迫られる中､日本の大学は大きく進化しています。偏差値では測れない本当の実力を｢教育･研究力｣｢就職力｣｢財務力｣｢国際力｣で多角的に分析した最新ランキングです。国公…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T21:00:00+00:00"
+    },
+    {
+      "title": "｢おかわり15回で出禁｣SNS投稿が物議…｢店が悪い｣｢客が非常識｣意見割れる｢やまや｣実際に行って分かった\"意外な実情\" | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965398?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢ご飯おかわり自由｣を謳う天ぷらチェーンで｢15回目のおかわりを断られた｣という投稿がSNSで波紋を呼んでいます。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T20:45:00+00:00"
+    },
     {
       "title": "‘GTA 6’ has taken over. Is it too late to buy the developer’s stock?",
       "link": "https://www.marketwatch.com/story/gta-6-has-taken-over-is-it-too-late-to-buy-the-developers-stock-69a5cbc5?mod=mw_rss_topstories",
@@ -2821,6 +2865,14 @@
       "title": "Stock Market Today: Tech Rout Deepens as  Anthropic Stock Slides",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026?mod=rss_markets_main",
       "summary": "Nasdaq slides 3%; Claude maker gives up chunk of day-one gains after failing to soothe AI jitters",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T10:08:25+00:00"
+    },
+    {
+      "title": "Stock Market Today: Tech Rout Deepens as Nvidia, Anthropic Slide",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026?mod=rss_markets_main",
+      "summary": "Nasdaq tumbles 5.3%; Claude maker gives up most of its day-one gains after failing to soothe AI jitters",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-20T10:08:25+00:00"
