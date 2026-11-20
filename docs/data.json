@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T09:05:50.839443+00:00",
+  "generated_at": "2026-11-20T09:19:23.195741+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1434,6 +1434,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1444,6 +1448,38 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-20T10:00:00+00:00"
+    },
+    {
+      "title": "人口減少で「戦略庁」創設　自民、政府へ来月提言",
+      "link": "https://www.jiji.com/jc/article?k=2026112000911&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T09:19:20.224214+00:00"
+    },
+    {
+      "title": "ジェノサイド認定は「不公平」　ＩＣＪ判決受け―ミャンマー",
+      "link": "https://www.jiji.com/jc/article?k=2026112000928&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T09:19:20.224197+00:00"
+    },
+    {
+      "title": "中国と「良好でない」９３％　過去最高、親近感も低下―内閣府調査",
+      "link": "https://www.jiji.com/jc/article?k=2026112000896&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T09:19:20.224159+00:00"
+    },
+    {
+      "title": "ツルハHD シンガポール事業撤退",
+      "link": "https://news.yahoo.co.jp/pickup/6603315?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-20T09:13:59+00:00"
     },
     {
       "title": "European Tech Stocks Tumble as AI Selloff Intensifies",
@@ -1591,6 +1627,14 @@
     },
     {
       "title": "Burnham to sign EU reset deal in Brussels",
+      "link": "https://www.ft.com/content/8515b514-2067-43eb-a7f5-b5aa20ec4cc3",
+      "summary": "Deal will lead to closer ties including freer trade in food and drink and a youth experience scheme",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T07:49:41+00:00"
+    },
+    {
+      "title": "Burnham to agree EU reset deal in Brussels",
       "link": "https://www.ft.com/content/8515b514-2067-43eb-a7f5-b5aa20ec4cc3",
       "summary": "Deal will lead to closer ties including freer trade in food and drink and a youth experience scheme",
       "source": "Financial Times",
