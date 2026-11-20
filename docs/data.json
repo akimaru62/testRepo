@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T02:07:25.861128+00:00",
+  "generated_at": "2026-11-20T02:21:54.602998+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1318,6 +1318,14 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1328,6 +1336,62 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-20T10:00:00+00:00"
+    },
+    {
+      "title": "スシローＮＹ店オープン　認知度向上狙う、まずは東海岸",
+      "link": "https://www.jiji.com/jc/article?k=2026112000319&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T02:21:49.767013+00:00"
+    },
+    {
+      "title": "邦人３５人拘束、詐欺関与か　リゾート施設内に「警察署」も―ネパール",
+      "link": "https://www.jiji.com/jc/article?k=2026112000347&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T02:21:49.767005+00:00"
+    },
+    {
+      "title": "５０００人が「ミリオネア」　米アンソロピック従業員、上場で",
+      "link": "https://www.jiji.com/jc/article?k=2026112000334&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T02:21:49.766983+00:00"
+    },
+    {
+      "title": "慢性円安「通貨防衛する気あるのか」ちぐはぐ政策、ディーラーの絶望",
+      "link": "https://www.asahi.com/articles/ASVCM23CVVCMULFA00LM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T02:21:49.548668+00:00"
+    },
+    {
+      "title": "「円の価値」30年前の1/3に　円売りの地殻変動、なぜ起きた？",
+      "link": "https://www.asahi.com/articles/ASVCM351BVCMULFA00NM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T02:21:49.548661+00:00"
+    },
+    {
+      "title": "【そもそも解説】円が安くなるのはなぜ？　どうして長引いているの？",
+      "link": "https://www.asahi.com/articles/ASVCM4T8NVCMULFA028M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T02:21:49.548652+00:00"
+    },
+    {
+      "title": "10月の消費者物価、2.2%上昇　電気・ガスや灯油値上がり",
+      "link": "https://www.asahi.com/articles/ASVCN0J4KVCNULFA001M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T02:21:49.548627+00:00"
     },
     {
       "title": "楽天証券の情報流出 遺憾と金融相",
@@ -1488,6 +1552,14 @@
       "source": "AWS ブログ (アーキテクチャ)",
       "category": "開発者向け",
       "published": "2026-11-20T01:10:14+00:00"
+    },
+    {
+      "title": "Vint Cerf on why TCP/IP was never patented",
+      "link": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+      "summary": "Article URL: https://seremot.com/p/vint-cerf-on-why-tcpip-was-never\nComments URL: https://news.ycombinator.com/item?id=50568861\nPoints: 6\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T01:06:12+00:00"
     },
     {
       "title": "｢将来､何をしたいかわからない…｣ 精神科医が《自分探しで迷子になった人》に薦める\"本当の自分\"のあぶり出し方 | ライフ | 東洋経済オンライン",
