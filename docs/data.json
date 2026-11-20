@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T06:08:46.042694+00:00",
+  "generated_at": "2026-11-20T06:26:24.436035+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1386,6 +1386,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1396,6 +1400,46 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-20T10:00:00+00:00"
+    },
+    {
+      "title": "暴行映像、父のスマホに　事件時の物証、全容解明へ―両親逮捕１週間・大阪女児虐待",
+      "link": "https://www.jiji.com/jc/article?k=2026112000289&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T06:26:20.047223+00:00"
+    },
+    {
+      "title": "【まもなくライブ】残業、副業…労基法見直し、押さえておきたい論点",
+      "link": "https://www.asahi.com/articles/ASVCB1V8JVCBDIFI00XM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T06:26:19.978069+00:00"
+    },
+    {
+      "title": "令和9年度予算の編成等に関する建議",
+      "link": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_fiscal_system/report/zaiseia20261120/index.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-20T06:25:00+00:00"
+    },
+    {
+      "title": "27年卒大学生の内定率73% 高水準",
+      "link": "https://news.yahoo.co.jp/pickup/6603291?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-20T06:21:22+00:00"
+    },
+    {
+      "title": "「GTA6」発売 5日休み与えた会社",
+      "link": "https://news.yahoo.co.jp/pickup/6603292?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-20T06:16:53+00:00"
     },
     {
       "title": "決済アプリPayどん停止、個人情報25万件流出か　鹿児島銀など",
@@ -1412,6 +1456,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-20T06:08:39.803052+00:00"
+    },
+    {
+      "title": "Taiwan’s Taiex on Track for Worst Week Since 1990",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-9-dragged-by-chip-metals-stocks-0601645e?mod=rss_markets_main",
+      "summary": "Taiwan’s Taiex was on course for its worst week since 1990. The island’s benchmark index was last down 6.0%, taking its weekly loss to more than 17%.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T06:08:00+00:00"
     },
     {
       "title": "Yen Strengthens as Risk Aversion Takes Hold",
@@ -1454,7 +1506,23 @@
       "published": "2026-11-20T05:58:26+00:00"
     },
     {
+      "title": "Jujutsu Primer",
+      "link": "https://ethanlowman.com/posts/jj-primer/",
+      "summary": "Article URL: https://ethanlowman.com/posts/jj-primer/\nComments URL: https://news.ycombinator.com/item?id=50570628\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T05:46:01+00:00"
+    },
+    {
       "title": "China revels in Xi’s high-stakes bet on ‘Yalta 2.0’",
+      "link": "https://www.ft.com/content/c1c540af-f9ba-479a-8473-4b7619859453?syn-25a6b1a6=1",
+      "summary": "Trilateral summit with Donald Trump and Vladimir Putin projected Beijing’s global leadership role, analysts say",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T05:45:11+00:00"
+    },
+    {
+      "title": "China revels in Xi’s ‘Yalta 2.0’ moment",
       "link": "https://www.ft.com/content/c1c540af-f9ba-479a-8473-4b7619859453?syn-25a6b1a6=1",
       "summary": "Trilateral summit with Donald Trump and Vladimir Putin projected Beijing’s global leadership role, analysts say",
       "source": "Financial Times",
@@ -1473,6 +1541,14 @@
       "title": "Asian tech stocks fall after Anthropic IPO",
       "link": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
       "summary": "Region’s markets follow Wall Street lower despite Claude AI maker’s record listing",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T05:22:50+00:00"
+    },
+    {
+      "title": "Tech stocks fall after Anthropic IPO",
+      "link": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
+      "summary": "Asia’s markets follow Wall Street lower despite Claude AI maker’s record listing",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-20T05:22:50+00:00"
