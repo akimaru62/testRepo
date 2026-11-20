@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T02:21:54.602998+00:00",
+  "generated_at": "2026-11-20T02:33:16.641377+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1326,6 +1326,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1336,6 +1340,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-20T10:00:00+00:00"
+    },
+    {
+      "title": "〈次の柱〉｢久世福商店｣のサンクゼールが善光寺で挑む50億円土産ビジネス…クルミ菓子で狙う｢成功の方程式｣とは | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964967?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "長野市の善光寺へと続く仲見世通り。唐破風（からはふ）の屋根をいただく大正期の建物に10月8日、クルミ菓子の専門店「来瑠未堂（くるみどう）」が開店した。店内では、オニグルミの殻2500個を使ったアート…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T02:30:00+00:00"
+    },
+    {
+      "title": "楽天証券へ訴訟準備 1.5万人登録",
+      "link": "https://news.yahoo.co.jp/pickup/6603257?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-20T02:29:20+00:00"
     },
     {
       "title": "スシローＮＹ店オープン　認知度向上狙う、まずは東海岸",
@@ -2496,6 +2516,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-19T19:30:00+00:00"
+    },
+    {
+      "title": "The Xi, Trump, Putin meeting and the dawn of a post-western world",
+      "link": "https://www.ft.com/content/01dde30c-977c-4f21-8838-4c3955dfacb7?syn-25a6b1a6=1",
+      "summary": "The symbolism was the substance in Shenzhen",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-19T19:19:44+00:00"
     },
     {
       "title": "旧姓で銀行口座は開設できる？　国債売買やNISA、女性のつまずき",
