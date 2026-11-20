@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T15:05:44.187306+00:00",
+  "generated_at": "2026-11-20T15:17:48.645714+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1530,9 +1530,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "清水の北川、途中出場で結果　Ｊリーグ",
+      "link": "https://www.jiji.com/jc/article?k=2026112001243&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T15:17:43.802917+00:00"
+    },
+    {
+      "title": "大の里と若元春、２敗のトップに並ぶ　１差に熱海富士と金峰山―大相撲九州場所１３日目",
+      "link": "https://www.jiji.com/jc/article?k=2026112001053&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T15:17:43.802901+00:00"
+    },
+    {
+      "title": "好機逃さずダービー勝利　千葉、粘って後半決勝点―Ｊリーグ",
+      "link": "https://www.jiji.com/jc/article?k=2026112001250&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T15:17:43.802884+00:00"
+    },
+    {
+      "title": "長いトンネル脱出　水戸、２カ月半ぶり白星―Ｊリーグ",
+      "link": "https://www.jiji.com/jc/article?k=2026112001246&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T15:17:43.802838+00:00"
+    },
+    {
+      "title": "英ＥＵ、食品貿易などで関係強化　若者交流も拡大―首脳会議",
+      "link": "https://www.jiji.com/jc/article?k=2026112000876&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T15:17:43.802792+00:00"
+    },
     {
       "title": "Here’s what’s been proven to help GLP-1 users from losing too much muscle from the drug",
       "link": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
@@ -2105,6 +2149,14 @@
       "title": "Stock Market Today: Anthropic Stock Slides as Tech Rout Intensifies",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026?mod=rss_markets_main",
       "summary": "S&amp;P 500 heads for longest losing streak since 2020",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T10:08:25+00:00"
+    },
+    {
+      "title": "Stock Market Today: Anthropic Stock Slides Amid Tech Rout",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026?mod=rss_markets_main",
+      "summary": "Claude maker gives up chunk of day-one gains after failing to soothe AI jitters",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-20T10:08:25+00:00"
