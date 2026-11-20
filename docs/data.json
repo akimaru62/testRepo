@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T14:47:33.936959+00:00",
+  "generated_at": "2026-11-20T15:05:44.187306+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1526,9 +1526,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Here’s what’s been proven to help GLP-1 users from losing too much muscle from the drug",
+      "link": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
+      "summary": "People taking Zepbound who engage in consistent resistance training can still get stronger even if they lose some of their muscle, according to a new study.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T15:04:00+00:00"
+    },
+    {
+      "title": "Oil Futures Extend Decline on Improving Supply",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-middle-east-tensions-cdf9de83?mod=rss_markets_main",
+      "summary": "Crude futures headed for a third consecutive weekly loss with increasing supply out of the Middle East outweighing concerns about conflict in the region.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T15:00:00+00:00"
+    },
+    {
+      "title": "EV補助金受け付け終了 予算枯渇",
+      "link": "https://news.yahoo.co.jp/pickup/6603347?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-20T14:58:48+00:00"
+    },
+    {
+      "title": "Anthropic Stock Slides as Tech Rout Intensifies",
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-set-for-fresh-decline-as-ai-selloff-intensifies-e974bbb5?mod=rss_markets_main",
+      "summary": "Major indexes fell premarket, on track for their worst week since the announcement of Trump’s so-called Liberation Day tariffs upended global trade in April 2025.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T14:50:00+00:00"
+    },
+    {
+      "title": "Dollar Falls as Risk Aversion Grips Wall Street",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-38aa30b7?mod=rss_markets_main",
+      "summary": "The dollar edged lower after hype around Anthropic’s blockbuster IPO faded as markets worry about AI’s lofty ambitions.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T14:48:00+00:00"
+    },
     {
       "title": "Here’s what’s been proven to help GLP-1 users who have lost muscle from the drug",
       "link": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
