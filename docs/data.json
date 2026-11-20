@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T00:38:43.577142+00:00",
+  "generated_at": "2026-11-20T00:52:46.027643+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1290,9 +1290,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "機体とタラップに大きな段差　高市首相出迎え時、「危険」中国に批判も―ＡＰＥＣ",
+      "link": "https://www.jiji.com/jc/article?k=2026112000275&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T00:52:39.449195+00:00"
+    },
+    {
+      "title": "Opinion | The Astonishing Wealth of Anthropic",
+      "link": "https://www.wsj.com/opinion/the-astonishing-wealth-of-anthropic-a6bb9746?mod=rss_markets_main",
+      "summary": "Investors weren’t phased by doubts about AI after the Nvidia tumult.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T00:50:00+00:00"
+    },
+    {
+      "title": "10月の消費者物価指数 2.2%上昇",
+      "link": "https://news.yahoo.co.jp/pickup/6603241?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-20T00:49:54+00:00"
+    },
+    {
+      "title": "日経平均 一時2000円以上の下落",
+      "link": "https://news.yahoo.co.jp/pickup/6603246?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-20T00:39:14+00:00"
+    },
     {
       "title": "逆風下のアンソロピック上場　本業赤字で「指数関数的な成長」の重圧",
       "link": "https://www.asahi.com/articles/ASVCM7KZ1VCMUHBI00PM.html?ref=rss",
@@ -1300,6 +1336,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-20T00:38:38.343242+00:00"
+    },
+    {
+      "title": "Nikkei Falls 2.9%, Dragged by Chip, Metals Stocks",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-9-dragged-by-chip-metals-stocks-0601645e?mod=rss_markets_main",
+      "summary": "Japanese stocks were lower after Anthropic’s listing failed to boost major U.S. stock indexes overnight.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T00:38:00+00:00"
     },
     {
       "title": "国債金利情報(令和8年11月19日)",
@@ -1324,6 +1368,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-20T00:18:00+00:00"
+    },
+    {
+      "title": "Lenders aim to bar SpaceX from launching $40bn of chips into orbit",
+      "link": "https://www.ft.com/content/33b5643c-2957-4d42-9116-5e34a3c54e29?syn-25a6b1a6=1",
+      "summary": "Investors in latest semiconductor financing demand legal protection for coveted collateral",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T00:15:12+00:00"
     },
     {
       "title": "「大国の責任」に残る不安　米中ロ首脳会談",
