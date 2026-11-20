@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T05:05:37.361070+00:00",
+  "generated_at": "2026-11-20T05:18:00.704698+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1370,6 +1370,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1380,6 +1384,78 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-20T10:00:00+00:00"
+    },
+    {
+      "title": "三菱重工に段階的移管　Ｈ３ロケット打ち上げ業務",
+      "link": "https://www.jiji.com/jc/article?k=2026112000564&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T05:17:56.141231+00:00"
+    },
+    {
+      "title": "愛子さま、フクギを記念植樹　日本庭園、「実り多い滞在」―シンガポール",
+      "link": "https://www.jiji.com/jc/article?k=2026112000412&g=ryl&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T05:17:56.141218+00:00"
+    },
+    {
+      "title": "「ＦＩＦＡを良くしたい」　田嶋幸三氏、会長選出馬で抱負",
+      "link": "https://www.jiji.com/jc/article?k=2026112000566&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T05:17:56.141183+00:00"
+    },
+    {
+      "title": "Anthropic’s Wall Street stimulus fades",
+      "link": "https://www.ft.com/content/4f7cf30e-5c9a-489f-bd01-2283a6c9d0e9?syn-25a6b1a6=1",
+      "summary": "Shares of some banks and private capital groups tying their fortunes to AI have fallen this year",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T05:00:26+00:00"
+    },
+    {
+      "title": "Oil loses grip on bond markets as inflation ‘virus’ spreads",
+      "link": "https://www.ft.com/content/562e278e-1e12-49d2-b7f7-91a289ffd660?syn-25a6b1a6=1",
+      "summary": "Tight correlation between crude prices and borrowing costs has broken down",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T05:00:26+00:00"
+    },
+    {
+      "title": "Can Nvidia learn from AIG’s mistakes?",
+      "link": "https://www.ft.com/content/c1f1c0d2-466e-46b9-b346-5ce4677c55ea?syn-25a6b1a6=1",
+      "summary": "The chip giant’s role as the quasi-central bank of AI is reminiscent of the insurance company’s position before the subprime mortgage bubble",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T05:00:17+00:00"
+    },
+    {
+      "title": "Rejoining the EU would boost UK economy twice as much as Swiss-style deal",
+      "link": "https://www.ft.com/content/22c052bf-a9dc-49f3-a18b-02b5dc490635?syn-25a6b1a6=1",
+      "summary": "Much of the benefit would come from a rebound in business investment, which was damaged by Brexit-related uncertainty",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T05:00:17+00:00"
+    },
+    {
+      "title": "How pensions ate the state",
+      "link": "https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3?syn-25a6b1a6=1",
+      "summary": "Retirees are more affluent than ever in high-income countries. Why are states still giving them so much?",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T05:00:08+00:00"
+    },
+    {
+      "title": "China prepares to restart US private equity investments after pullback",
+      "link": "https://www.ft.com/content/73e7d386-c5d1-4422-8abb-adbfaf92aa0d?syn-25a6b1a6=1",
+      "summary": "Beijing’s flagship sovereign wealth fund leading push for special terms to protect against disaster scenarios to unlock funding",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T05:00:07+00:00"
     },
     {
       "title": "財政融資資金現在高（令和8年10月末）",
