@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T07:06:23.777687+00:00",
+  "generated_at": "2026-11-20T07:19:43.563638+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1402,6 +1402,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1412,6 +1416,46 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-20T10:00:00+00:00"
+    },
+    {
+      "title": "市町村・児相連携、緊急点検へ　相次ぐ児童虐待で―こども家庭庁",
+      "link": "https://www.jiji.com/jc/article?k=2026112000719&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T07:19:38.416759+00:00"
+    },
+    {
+      "title": "みらい、定数削減反対決定",
+      "link": "https://www.jiji.com/jc/article?k=2026112000697&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T07:19:38.416747+00:00"
+    },
+    {
+      "title": "「北朝鮮行き」の臆測流れる　トランプ氏帰国機内で携帯没収",
+      "link": "https://www.jiji.com/jc/article?k=2026112000777&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T07:19:38.416718+00:00"
+    },
+    {
+      "title": "【ライブ中】残業、副業…労基法見直し、押さえておきたい論点は",
+      "link": "https://www.asahi.com/articles/ASVCB1V8JVCBDIFI00XM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T07:19:38.197419+00:00"
+    },
+    {
+      "title": "Nikkei Falls 5.1% to Lowest Level Since April 9",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-9-dragged-by-chip-metals-stocks-0601645e?mod=rss_markets_main",
+      "summary": "Japan’s Nikkei Stock Average closed 5.1% lower, its lowest level since April 9. Chip and metals stocks led the declines.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T07:06:00+00:00"
     },
     {
       "title": "（論文）家計のインフレ予想の形成メカニズム：インフレ実感とインフレ経験の役割",
