@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T12:07:30.968028+00:00",
+  "generated_at": "2026-11-20T12:23:32.660752+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1482,9 +1482,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "南シナ海巡り中国外相と会話　比大統領、両国関係を「楽観」",
+      "link": "https://www.jiji.com/jc/article?k=2026112001134&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T12:23:27.947706+00:00"
+    },
+    {
+      "title": "公明、消費減税で修正案　政府拒否なら「反対」―西田幹事長",
+      "link": "https://www.jiji.com/jc/article?k=2026112001105&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T12:23:27.947680+00:00"
+    },
+    {
+      "title": "維新、防衛費７０兆円要求　安保３文書改定巡り",
+      "link": "https://www.jiji.com/jc/article?k=2026112001121&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T12:23:27.947660+00:00"
+    },
+    {
+      "title": "上海で日本人１人死亡　別の日本人１人拘束―中国",
+      "link": "https://www.jiji.com/jc/article?k=2026112001139&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T12:23:27.947624+00:00"
+    },
+    {
+      "title": "Anthropic soared in its debut as stocks tanked. Only one other IPO has done that since 1990.",
+      "link": "https://www.marketwatch.com/story/anthropic-soared-in-its-debut-as-stocks-tanked-only-one-other-ipo-has-done-that-since-1990-77b75258?mod=mw_rss_topstories",
+      "summary": "A look at what the S&amp;P 500 did after that earlier IPO. Plus, a CoreWeave co-founder’s bet on bonds, and why tech outages have people stocking up on food and cash.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T12:19:00+00:00"
+    },
     {
       "title": "投資信託で75億円の売却損、組合員8万人の配当は見送り　JAさが",
       "link": "https://www.asahi.com/articles/ASVCN3Q3YVCNTTHB002M.html?ref=rss",
@@ -1492,6 +1536,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-20T12:07:25.958052+00:00"
+    },
+    {
+      "title": "How Anthropic’s blockbuster IPO came together",
+      "link": "https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1",
+      "summary": "Fears about the AI trade did not damp enthusiasm for shares. But can the low-key company preserve its idiosyncratic culture in the glare of public markets?",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T12:02:46+00:00"
     },
     {
       "title": "Citi warns a key stock-market signal is close to flashing red",
