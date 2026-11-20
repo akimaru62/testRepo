@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T15:47:44.608661+00:00",
+  "generated_at": "2026-11-20T16:05:38.926205+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1542,9 +1542,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Investors fled to healthcare stocks for safety. Now insurance and hospital shares are plunging.",
+      "link": "https://www.marketwatch.com/story/investors-fled-to-healthcare-stocks-for-safety-now-insurance-and-hospital-shares-are-plunging-9cb6a96c?mod=mw_rss_topstories",
+      "summary": "Shares of UnitedHealth, Humana and CVS Health declined this week in light of a new Medicare for All proposal",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T15:53:00+00:00"
+    },
     {
       "title": "Nvidia’s stock heads for a stretch of weekly losses unseen since 2008",
       "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
@@ -2195,6 +2207,14 @@
     },
     {
       "title": "Stock Market Today: Anthropic Stock Slides Amid Tech Rout",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026?mod=rss_markets_main",
+      "summary": "Claude maker gives up chunk of day-one gains after failing to soothe AI jitters",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T10:08:25+00:00"
+    },
+    {
+      "title": "Stock Market Today: Anthropic Stock Slides as Tech Rout Deepens",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026?mod=rss_markets_main",
       "summary": "Claude maker gives up chunk of day-one gains after failing to soothe AI jitters",
       "source": "WSJ マーケット",
