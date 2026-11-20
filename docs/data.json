@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T16:33:43.199704+00:00",
+  "generated_at": "2026-11-20T16:47:32.793527+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1554,9 +1554,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Trump seeks Ukraine peace deal before January",
+      "link": "https://www.ft.com/content/6c1b8a64-35f9-4aba-8605-45a4abdce6b8?syn-25a6b1a6=1",
+      "summary": "US officials keen to secure agreement between Vladimir Putin and Volodymyr Zelenskyy before Democrats take over Congress",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T16:17:15+00:00"
+    },
     {
       "title": "I'll never buy Framework hardware again",
       "link": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
@@ -2014,6 +2026,14 @@
       "published": "2026-11-20T11:39:00+00:00"
     },
     {
+      "title": "Russian missile barrage damages Kyiv bridges",
+      "link": "https://www.ft.com/content/d76c0ce7-ba3b-42b3-8efa-7724cc0900d7?syn-25a6b1a6=1",
+      "summary": "Waves of attacks targeting Ukraine come on heels of trilateral meeting between US, Chinese and Russian leaders",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T11:36:38+00:00"
+    },
+    {
       "title": "高市首相、赤根氏と２４日面会　ＩＣＣ支持を発信",
       "link": "https://www.jiji.com/jc/article?k=2026112001063&g=pol&m=rss",
       "summary": "",
@@ -2249,6 +2269,14 @@
       "title": "Stock Market Today: Anthropic Stock Slides as Tech Rout Deepens",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026?mod=rss_markets_main",
       "summary": "Claude maker gives up chunk of day-one gains after failing to soothe AI jitters",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T10:08:25+00:00"
+    },
+    {
+      "title": "Stock Market Today: Tech Rout Deepens as  Anthropic Stock Slides",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026?mod=rss_markets_main",
+      "summary": "Nasdaq slides 3%; Claude maker gives up chunk of day-one gains after failing to soothe AI jitters",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-20T10:08:25+00:00"
