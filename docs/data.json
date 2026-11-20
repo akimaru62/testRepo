@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T20:17:48.803776+00:00",
+  "generated_at": "2026-11-20T20:33:24.806419+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1614,9 +1614,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Gold Falls to Nearly 15-Month Low On Interest-Rate Expectations",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-elevated-yields-strong-dollar-9ba37905?mod=rss_markets_main",
+      "summary": "Gold futures fell to their lowest level since late August of 2025 as the rout continued amid concerns that the Fed will continue raising interest rates.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T20:18:00+00:00"
+    },
     {
       "title": "天皇陛下、ペルー大統領と会見　チリ大統領夫妻とも",
       "link": "https://www.jiji.com/jc/article?k=2026112000853&g=soc&m=rss",
@@ -1640,6 +1652,22 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-20T20:17:43.141529+00:00"
+    },
+    {
+      "title": "日産｢サクラ｣販売ピークの3分の1でも見えた希望と課題――900人超データで解明｢値引き28万円時代｣の買い手像 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964972?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "手が届く価格で登場し､｢特別なクルマ｣から｢身近な選択肢｣へ変貌した日産｢サクラ｣。シニア層が中心の購入者像や､補助金と値引きが後押しする市場背景を読み解きながら､サクラがもたらした軽EVの新たな潮…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T20:15:00+00:00"
+    },
+    {
+      "title": "Inkling 2 Mini",
+      "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/\nComments URL: https://news.ycombinator.com/item?id=50581260\nPoints: 30\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T20:12:19+00:00"
     },
     {
       "title": "The tech wreck is one stock trade Trump can’t ‘TACO’ away",
