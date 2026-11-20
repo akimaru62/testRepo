@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T07:33:13.307233+00:00",
+  "generated_at": "2026-11-20T07:47:29.465269+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1410,6 +1410,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1759,6 +1763,14 @@
     },
     {
       "title": "How pensions ate the state",
+      "link": "https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3?syn-25a6b1a6=1",
+      "summary": "Retirees are more affluent than ever in high-income countries. Why are states still giving them so much?",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T05:00:08+00:00"
+    },
+    {
+      "title": "Pensions are eating everything",
       "link": "https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3?syn-25a6b1a6=1",
       "summary": "Retirees are more affluent than ever in high-income countries. Why are states still giving them so much?",
       "source": "Financial Times",
