@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T05:33:31.206625+00:00",
+  "generated_at": "2026-11-20T05:47:35.320225+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1378,6 +1378,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1388,6 +1392,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-20T10:00:00+00:00"
+    },
+    {
+      "title": "Asian Equities Tumble as AI Stock Selloff Deepens",
+      "link": "https://www.wsj.com/finance/investing/asian-equities-fall-as-anthropics-ipo-fails-to-staunch-ai-stock-selloff-c47592b0?mod=rss_markets_main",
+      "summary": "Asian equities fell Friday morning as Anthropic’s blockbuster initial public offering failed to staunch the selloff in artificial intelligence stocks.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T05:40:00+00:00"
+    },
+    {
+      "title": "Asian tech stocks fall after Anthropic IPO",
+      "link": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
+      "summary": "Region’s markets follow Wall Street lower despite Claude AI maker’s record listing",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T05:22:50+00:00"
     },
     {
       "title": "三菱重工に段階的移管　Ｈ３ロケット打ち上げ業務",
@@ -1516,6 +1536,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-20T04:15:00+00:00"
+    },
+    {
+      "title": "FFmpeg 9.1 'Gauss'",
+      "link": "https://ffmpeg.org/download.html#release_9.1",
+      "summary": "Article URL: https://ffmpeg.org/download.html#release_9.1\nComments URL: https://news.ycombinator.com/item?id=50569998\nPoints: 8\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T04:02:39+00:00"
     },
     {
       "title": "GIMP now has UI tests",
