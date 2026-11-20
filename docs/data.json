@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T03:33:02.694510+00:00",
+  "generated_at": "2026-11-20T03:47:43.598417+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1346,6 +1346,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1356,6 +1360,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-20T10:00:00+00:00"
+    },
+    {
+      "title": "中小向けの二大租特「効果ない」　維新が廃止方針　自民と議論へ",
+      "link": "https://www.asahi.com/articles/ASVCN12KHVCNULFA006M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T03:47:38.021179+00:00"
+    },
+    {
+      "title": "流動性供給(第465回)入札結果",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261120.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-20T03:35:00+00:00"
     },
     {
       "title": "【まとめてわかる】どうなる働き方　労基法の改正議論のポイント解説",
