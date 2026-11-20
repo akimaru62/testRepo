@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T07:47:29.465269+00:00",
+  "generated_at": "2026-11-20T08:07:06.000788+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1414,6 +1414,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1424,6 +1428,62 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-20T10:00:00+00:00"
+    },
+    {
+      "title": "Ｈ３打ち上げ、段階的に民間移管　来年１月の１１号機から―情報衛星搭載、三菱重工へ・ＪＡＸＡ",
+      "link": "https://www.jiji.com/jc/article?k=2026112000564&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T08:07:00.230019+00:00"
+    },
+    {
+      "title": "明治、チーズなど65品目を1～2月に値上げ　消費減税前に「先手」",
+      "link": "https://www.asahi.com/articles/ASVCN2F2CVCNULFA00HM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T08:06:59.612181+00:00"
+    },
+    {
+      "title": "初の米中ロ首脳会談は｢新ヤルタ会談｣ではなく現代版｢協商｣だ､佐藤優が読み解く首脳会談の本質と日本外交への影響 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965468?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2026年､米中ロ3首脳が深圳で初の会談を実現。｢平和に関する宣言｣は協調と利害対立の狭間を浮き彫りにしました。歴史的｢協商｣と重ねて検証される現代大国外交。その実態と日本への影響を探ります。私たち…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T08:00:00+00:00"
+    },
+    {
+      "title": "高市首相の｢外交敗北｣が露呈した米中ロ首脳会談､3大国が世界秩序を仕切る｢新ヤルタ体制｣に日本はどう立ち向かうのか | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965450?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "米中ロの首脳が初めて揃ったAPEC首脳会談。同時に米中ロ3カ国の首脳会談も行われました。世界秩序の主導権を競う大国たちの動きの中､日本は｢蚊帳の外｣となり､高市早苗首相の外交力が問われています。日本…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T08:00:00+00:00"
+    },
+    {
+      "title": "流動性供給(第465回)入札において追加発行した国債の銘柄",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261120a.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-20T08:00:00+00:00"
+    },
+    {
+      "title": "政府保有株式の概要",
+      "link": "https://www.mof.go.jp/policy/national_property/list/stocks/kabushiki/index.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-20T08:00:00+00:00"
+    },
+    {
+      "title": "OakNorth Secures U.S. Federal Reserve Clearance to Buy Community Unity Bank",
+      "link": "https://www.wsj.com/economy/central-banking/oaknorth-secures-u-s-federal-reserve-clearance-to-buy-community-unity-bank-58718919?mod=rss_markets_main",
+      "summary": "The U.K. digital bank said it would restructure its entities to meet the Federal Reserve’s requirements.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T07:51:00+00:00"
     },
     {
       "title": "決済アプリPayどん停止、情報25万件漏れた可能性　鹿児島銀など",
@@ -1482,6 +1542,14 @@
       "published": "2026-11-20T07:17:10+00:00"
     },
     {
+      "title": "\"I can tell you wrote this yourself\"",
+      "link": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
+      "summary": "Article URL: https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/\nComments URL: https://news.ycombinator.com/item?id=50571189\nPoints: 5\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T07:13:21+00:00"
+    },
+    {
       "title": "Nikkei Falls 5.1% to Lowest Level Since April 9",
       "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-9-dragged-by-chip-metals-stocks-0601645e?mod=rss_markets_main",
       "summary": "Japan’s Nikkei Stock Average closed 5.1% lower, its lowest level since April 9. Chip and metals stocks led the declines.",
@@ -1520,6 +1588,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-20T06:48:16+00:00"
+    },
+    {
+      "title": "Former YC President: \"Stop!”",
+      "link": "https://geoffralston.substack.com/p/stop",
+      "summary": "Article URL: https://geoffralston.substack.com/p/stop\nComments URL: https://news.ycombinator.com/item?id=50570984\nPoints: 17\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T06:43:08+00:00"
     },
     {
       "title": "「市場の信認は積極財政の必要条件」財政審、政権の予算編成に注文",
