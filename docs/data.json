@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T19:17:28.846444+00:00",
+  "generated_at": "2026-11-20T19:33:11.319127+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1598,9 +1598,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Alphabet just overtook Nvidia in market value for the first time in over 2 years",
+      "link": "https://www.marketwatch.com/story/alphabet-just-overtook-nvidia-in-market-value-for-the-first-time-in-over-2-years-23e296ee?mod=mw_rss_topstories",
+      "summary": "Nvidia is now the fourth most valuable U.S. company, behind Apple, Microsoft and Alphabet.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T19:23:00+00:00"
+    },
+    {
+      "title": "The Fed is too busy fighting inflation to rescue the stock market",
+      "link": "https://www.marketwatch.com/story/the-fed-is-too-busy-fighting-inflation-to-rescue-the-stock-market-11dda598?mod=mw_rss_topstories",
+      "summary": "Federal Reserve officials will continue to raise interest rates, despite the recent selloff in the stock market, as equity-market gains over the past four years dwarf the recent declines, economists said Friday.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T19:22:00+00:00"
+    },
     {
       "title": "SpaceX’s stock falls back below its IPO price — and Anthropic’s could be next",
       "link": "https://www.marketwatch.com/story/spacexs-stock-falls-back-below-its-ipo-price-and-anthropics-could-be-next-079d2a4a?mod=mw_rss_topstories",
@@ -1608,6 +1628,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-20T19:14:00+00:00"
+    },
+    {
+      "title": "ChurchTerminal – Christian News Dashboard Inspired by Hacker News",
+      "link": "https://churchterminal.com/",
+      "summary": "Article URL: https://churchterminal.com/\nComments URL: https://news.ycombinator.com/item?id=50580176\nPoints: 5\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T19:09:23+00:00"
     },
     {
       "title": "Nvidia’s stock heads for a stretch of weekly losses not seen since 2008",
@@ -1629,6 +1657,14 @@
       "title": "Burnham started the Brexit debate. He now sees the political dangers ahead",
       "link": "https://www.ft.com/content/e90b4b48-ab43-4678-9f68-f571a77f0a64?syn-25a6b1a6=1",
       "summary": "British premier is recognising perilous nature of doing deals with an EU that holds most of the cards",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T18:51:09+00:00"
+    },
+    {
+      "title": "Burnham reopened the Brexit debate. He now sees the political dangers ahead",
+      "link": "https://www.ft.com/content/e90b4b48-ab43-4678-9f68-f571a77f0a64?syn-25a6b1a6=1",
+      "summary": "UK prime minister is recognising the perilous nature of doing deals with an EU that holds most of the cards",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-20T18:51:09+00:00"
