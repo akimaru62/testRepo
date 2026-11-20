@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T22:17:26.305054+00:00",
+  "generated_at": "2026-11-20T22:33:12.436369+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1646,9 +1646,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "NYダウ900ドル安、7カ月ぶり安値　アンソロピックは8.5%安",
+      "link": "https://www.asahi.com/articles/ASVCN75TJVCNUHBI00DM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T22:33:07.405685+00:00"
+    },
+    {
+      "title": "米株式市場急落 ナスダック5%安",
+      "link": "https://news.yahoo.co.jp/pickup/6603352?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-20T22:30:18+00:00"
+    },
     {
       "title": "会期延長で交渉正念場　脱化石燃料で調整難航―ＣＯＰ３１",
       "link": "https://www.jiji.com/jc/article?k=2026112100170&g=soc&m=rss",
@@ -1672,6 +1692,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-20T22:17:20.737261+00:00"
+    },
+    {
+      "title": "｢思い出すなかでも一番つらい｣でも裁判を続けた…《日本初のセクハラ裁判》\"原告A子\"晴野まゆみさんが今､明かした真実 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964857?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "1989年､｢原告A子｣として日本初のセクハラ裁判を起こした晴野まゆみさん。全面勝訴を勝ち取りながら､心には虚しさが残ったそうです。提訴から37年､手記を出した晴野さんが振り返る､闘いの日々とは――。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T22:15:00+00:00"
     },
     {
       "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
