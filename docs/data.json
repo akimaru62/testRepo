@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T06:26:24.436035+00:00",
+  "generated_at": "2026-11-20T06:40:34.955832+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1390,6 +1390,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1400,6 +1404,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-20T10:00:00+00:00"
+    },
+    {
+      "title": "「市場の信認は積極財政の必要条件」財政審、政権の予算編成に注文",
+      "link": "https://www.asahi.com/articles/ASVCN221HVCNULFA026M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T06:40:31.153142+00:00"
+    },
+    {
+      "title": "｢ナオキマンは岸田元首相と高市首相の隠し子｣説まで…陰謀論YouTuberを起用した政府広報が招いた\"悪夢のゲーム\" | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965465?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "政府広報が都市伝説系YouTuberを起用した安全保障特集がSNS上で大炎上。その背景には､感情に訴え｢共感｣や｢恐怖｣で若者に政策を届ける国家の\"感情の統治\"戦略が見え隠れします。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T06:30:00+00:00"
     },
     {
       "title": "暴行映像、父のスマホに　事件時の物証、全容解明へ―両親逮捕１週間・大阪女児虐待",
