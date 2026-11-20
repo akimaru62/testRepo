@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T11:33:32.919390+00:00",
+  "generated_at": "2026-11-20T11:47:19.127988+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1474,9 +1474,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Gold, Silver Drop to Lowest Levels in Over a Year",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-silver-drop-to-lowest-levels-in-over-a-year-c657402c?mod=rss_markets_main",
+      "summary": "Expectations for tighter monetary policy appear to have overshadowed the typical demand for gold as a safe haven for risk-averse investors.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T11:39:00+00:00"
+    },
     {
       "title": "高市首相、赤根氏と２４日面会　ＩＣＣ支持を発信",
       "link": "https://www.jiji.com/jc/article?k=2026112001063&g=pol&m=rss",
@@ -1524,6 +1536,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-20T11:16:00+00:00"
+    },
+    {
+      "title": "Why do tech leaders sound so illogical and off-putting?",
+      "link": "https://www.theatlantic.com/technology/2026/11/silicon-valley-model-collapse/689505/",
+      "summary": "Article URL: https://www.theatlantic.com/technology/2026/11/silicon-valley-model-collapse/689505/\nComments URL: https://news.ycombinator.com/item?id=50573087\nPoints: 11\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T11:13:05+00:00"
     },
     {
       "title": "大型クロマグロ漁獲枠 25%増合意",
@@ -2385,6 +2405,14 @@
       "title": "The dangers of Nvidia’s role as AI’s quasi-central bank",
       "link": "https://www.ft.com/content/c1f1c0d2-466e-46b9-b346-5ce4677c55ea?syn-25a6b1a6=1",
       "summary": "The chip giant’s position is reminiscent of the insurance company AIG’s before the subprime mortgage bubble",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T05:00:17+00:00"
+    },
+    {
+      "title": "Why Britons can feel smugger than the French",
+      "link": "https://www.ft.com/content/b9b16f2f-f88e-454e-aa85-c131256310fe?syn-25a6b1a6=1",
+      "summary": "It’s not a competition, but if it were, the UK economy would be winning",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-20T05:00:17+00:00"
