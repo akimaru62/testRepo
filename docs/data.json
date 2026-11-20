@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T18:20:21.660102+00:00",
+  "generated_at": "2026-11-20T18:33:52.168116+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1582,6 +1582,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1624,6 +1628,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-20T17:33:46+00:00"
+    },
+    {
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "link": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/\nComments URL: https://news.ycombinator.com/item?id=50578358\nPoints: 11\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T17:21:36+00:00"
     },
     {
       "title": "宮崎友花ら準決勝進出　バドミントン・香港オープン",
