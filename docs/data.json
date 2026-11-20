@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T10:47:44.570284+00:00",
+  "generated_at": "2026-11-20T11:05:13.860129+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1462,9 +1462,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "太平洋クロマグロ、大型魚の枠は25%増　やや手頃な値段に？",
+      "link": "https://www.asahi.com/articles/ASVCN3C5YVCNULFA01RM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T11:05:10.225366+00:00"
+    },
+    {
+      "title": "Anthropic Lives Up to Wall Street Hype, but AI Doubts Linger",
+      "link": "https://www.wsj.com/finance/investing/anthropic-lives-up-to-wall-street-hype-but-ai-doubts-linger-d6a4519b?mod=rss_markets_main",
+      "summary": "Plus, Kushner floats a Ukraine peace deal that would upend U.S. policy, and the snack sailors aboard the USS George Washington can’t get enough of.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T10:59:00+00:00"
+    },
+    {
+      "title": "The Seven Charts That Explain the New Normal for Oil Prices",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-new-charts-f84ad9d7?mod=rss_markets_main",
+      "summary": "Traders and analysts say oil prices of around $85 to $95 a barrel are poised to be the reality for the foreseeable future.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T10:56:00+00:00"
+    },
+    {
+      "title": "UK says Brexit ‘reset’ deal agreed",
+      "link": "https://www.ft.com/content/8515b514-2067-43eb-a7f5-b5aa20ec4cc3",
+      "summary": "Downing Street says deal ‘is done’ but talks will continue in ‘some areas’",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T10:47:15+00:00"
+    },
     {
       "title": "ココイチ売却 米KKRに優先交渉権",
       "link": "https://news.yahoo.co.jp/pickup/6603327?source=rss",
@@ -1618,6 +1654,14 @@
       "published": "2026-11-20T09:43:45+00:00"
     },
     {
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "link": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "summary": "Article URL: https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it\nComments URL: https://news.ycombinator.com/item?id=50572355\nPoints: 9\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T09:43:19+00:00"
+    },
+    {
       "title": "Nasdaq Set for Fresh Decline as AI Selloff Intensifies",
       "link": "https://www.wsj.com/finance/stocks/nasdaq-set-for-fresh-decline-as-ai-selloff-intensifies-e974bbb5?mod=rss_markets_main",
       "summary": "Global stocks sold off and Treasurys strengthened as investor confidence in the AI trade showed signs of cracking.",
@@ -1704,6 +1748,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-20T09:13:59+00:00"
+    },
+    {
+      "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars",
+      "link": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
+      "summary": "Article URL: https://ecohustler.com/article/one-corporation-to-pollute-them-all/\nComments URL: https://news.ycombinator.com/item?id=50572116\nPoints: 9\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T09:13:09+00:00"
     },
     {
       "title": "European Tech Stocks Tumble as AI Selloff Intensifies",
@@ -2243,6 +2295,14 @@
     },
     {
       "title": "Pensions are eating everything",
+      "link": "https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3?syn-25a6b1a6=1",
+      "summary": "Retirees are more affluent than ever in high-income countries. Why are states still giving them so much?",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T05:00:08+00:00"
+    },
+    {
+      "title": "Pensions: unjust and unsustainable?",
       "link": "https://www.ft.com/content/6986a3b5-12ed-4aad-ac61-f86ded3e6fa3?syn-25a6b1a6=1",
       "summary": "Retirees are more affluent than ever in high-income countries. Why are states still giving them so much?",
       "source": "Financial Times",
