@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T03:06:15.594371+00:00",
+  "generated_at": "2026-11-20T03:19:51.736518+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1338,6 +1338,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1350,12 +1354,68 @@
       "published": "2026-11-20T10:00:00+00:00"
     },
     {
+      "title": "自民「人口減少踏まえ必要」　定数削減法案、衆院委で質疑",
+      "link": "https://www.jiji.com/jc/article?k=2026112000163&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T03:19:47.040504+00:00"
+    },
+    {
+      "title": "ホンダ、アヴァンシアを27年春に発売　新HVシステム搭載のSUV",
+      "link": "https://www.asahi.com/articles/ASVCM34M3VCMULFA02ZM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T03:19:46.703283+00:00"
+    },
+    {
       "title": "BCPだけでなかった、早期復旧のカギ　被災した半導体企業の教訓",
       "link": "https://www.asahi.com/articles/ASVCL2H3TVCLULFA02KM.html?ref=rss",
       "summary": "",
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-20T03:06:10.648863+00:00"
+    },
+    {
+      "title": "大韓民国及び中華人民共和国（香港地域及びマカオ地域を除く。）を原産地とする水酸化カリウムに対して不当廉売関税を課する期間を延長することについての答申 （令和8年11月20日）",
+      "link": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/report/20261120c_toushin.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-20T03:05:00+00:00"
+    },
+    {
+      "title": "大韓民国並びに台湾、澎湖諸島、金門及び馬祖から成る独立の関税地域を原産地とするビスフェノールＡに対して不当廉売関税を課することについての答申 （令和8年11月20日）",
+      "link": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/report/20261120b_toushin.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-20T03:04:00+00:00"
+    },
+    {
+      "title": "大韓民国及び中華人民共和国（香港地域及びマカオ地域を除く。）を原産地とする溶融亜鉛めっき鋼帯及び鋼板に対して不当廉売関税を課することについての答申 （令和8年11月20日）",
+      "link": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/report/20261120a_toushin.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-20T03:03:00+00:00"
+    },
+    {
+      "title": "関税・外国為替等審議会　関税分科会　特殊関税部会 （令和８年11月20日開催）配付資料",
+      "link": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_tokusyu/material/kanb20261120.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-20T03:02:00+00:00"
+    },
+    {
+      "title": "関税・外国為替等審議会　関税分科会（令和８年11月20日開催）配付資料",
+      "link": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-of_customs/proceedings_customs/material/kana20261120.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-20T03:01:00+00:00"
     },
     {
       "title": "e:HEVに変わるHonda Hybrid《次世代ハイブリッド第1弾》新型ラージSUV｢アヴァンシア｣はホンダの救世主になるか | ライフ | 東洋経済オンライン",
