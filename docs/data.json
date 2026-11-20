@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T00:12:46.727633+00:00",
+  "generated_at": "2026-11-20T00:38:43.577142+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1286,9 +1286,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "逆風下のアンソロピック上場　本業赤字で「指数関数的な成長」の重圧",
+      "link": "https://www.asahi.com/articles/ASVCM7KZ1VCMUHBI00PM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T00:38:38.343242+00:00"
+    },
+    {
+      "title": "国債金利情報(令和8年11月19日)",
+      "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-20T00:30:00+00:00"
+    },
+    {
+      "title": "Oil Rises Amid Middle East Tensions",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-middle-east-tensions-cdf9de83?mod=rss_markets_main",
+      "summary": "Oil rose amid Middle East tensions. A projectile launched by Yemen’s Iranian-backed Houthi rebels struck the tallest tower in Saudi Arabia’s capital on Thursday.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T00:24:00+00:00"
+    },
+    {
+      "title": "Gold Falls, Weighed by Elevated Yields, Strong Dollar",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-elevated-yields-strong-dollar-9ba37905?mod=rss_markets_main",
+      "summary": "Gold declined in Asian trade. Elevated Treasury yields and a strong dollar are raising the cost of holding the nonyielding yellow metal, said Critical Metals.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T00:18:00+00:00"
+    },
     {
       "title": "「大国の責任」に残る不安　米中ロ首脳会談",
       "link": "https://www.jiji.com/jc/article?k=2026111901222&g=int&m=rss",
@@ -1392,6 +1428,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-19T23:45:00+00:00"
+    },
+    {
+      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "link": "https://git-aarvin.github.io/mei/",
+      "summary": "Article URL: https://git-aarvin.github.io/mei/\nComments URL: https://news.ycombinator.com/item?id=50568130\nPoints: 19\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-19T23:35:35+00:00"
     },
     {
       "title": "アンソロピック上場、初日終値は17%高　時価総額は一時320兆円",
@@ -3525,6 +3569,14 @@
       "title": "Anthropic IPO Updates: AI Giant's Shares Jump, But Nasdaq, Dow Fall Again",
       "link": "https://www.wsj.com/livecoverage/anthropic-ipo-stock-market-today-11-19-2026?mod=rss_markets_main",
       "summary": "Claude maker’s shares rise more than 10% in largest IPO on record",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-19T09:34:15+00:00"
+    },
+    {
+      "title": "Stock Market News, Nov. 19, 2026: Anthropic Shares Jump, But Nasdaq, Dow Fall Again",
+      "link": "https://www.wsj.com/livecoverage/anthropic-ipo-stock-market-today-11-19-2026?mod=rss_markets_main",
+      "summary": "Claude maker’s shares rise 17% after largest IPO on record",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-19T09:34:15+00:00"
