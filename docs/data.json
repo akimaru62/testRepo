@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T10:33:15.135290+00:00",
+  "generated_at": "2026-11-20T10:47:44.570284+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1458,9 +1458,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "ココイチ売却 米KKRに優先交渉権",
+      "link": "https://news.yahoo.co.jp/pickup/6603327?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-20T10:35:37+00:00"
+    },
     {
       "title": "ユーチューバー起用「受け狙い」　政府広報、野党が問題視",
       "link": "https://www.jiji.com/jc/article?k=2026112000946&g=pol&m=rss",
