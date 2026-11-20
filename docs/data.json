@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T04:33:23.810752+00:00",
+  "generated_at": "2026-11-20T04:47:41.894541+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1362,6 +1362,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1372,6 +1376,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-20T10:00:00+00:00"
+    },
+    {
+      "title": "駅にサンドイッチ自販機 人気理由",
+      "link": "https://news.yahoo.co.jp/pickup/6603282?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-20T04:35:08+00:00"
     },
     {
       "title": "ホンダ 新型3列SUVを世界初公開",
