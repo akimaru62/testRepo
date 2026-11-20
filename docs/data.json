@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T16:05:38.926205+00:00",
+  "generated_at": "2026-11-20T16:18:00.373466+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1546,9 +1546,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Andy Burnham begins to undo Brexit with landmark EU deal",
+      "link": "https://www.ft.com/content/334b5f12-4344-4680-be04-a7554120ec60?syn-25a6b1a6=1",
+      "summary": "Brussels agreement overshadowed by dispute over university fees and questions about where the relationship goes next",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T15:57:09+00:00"
+    },
     {
       "title": "Investors fled to healthcare stocks for safety. Now insurance and hospital shares are plunging.",
       "link": "https://www.marketwatch.com/story/investors-fled-to-healthcare-stocks-for-safety-now-insurance-and-hospital-shares-are-plunging-9cb6a96c?mod=mw_rss_topstories",
