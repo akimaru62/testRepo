@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T11:17:46.100896+00:00",
+  "generated_at": "2026-11-20T11:33:32.919390+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1470,9 +1470,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "高市首相、赤根氏と２４日面会　ＩＣＣ支持を発信",
+      "link": "https://www.jiji.com/jc/article?k=2026112001063&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T11:33:28.348428+00:00"
+    },
+    {
+      "title": "Data Centers Are the Growth Engine of America’s Power Grid",
+      "link": "https://www.wsj.com/finance/investing/data-centers-are-the-growth-engine-of-americas-power-grid-e16e0eaa?mod=rss_markets_main",
+      "summary": "Some of the best analysis and insight on investing, the wealth-management business and more.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T11:25:00+00:00"
+    },
     {
       "title": "警察庁保有情報、一部開示認めず　個人情報管理簿巡る判決確定―最高裁",
       "link": "https://www.jiji.com/jc/article?k=2026112000991&g=soc&m=rss",
@@ -1496,6 +1516,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-20T11:17:40.696850+00:00"
+    },
+    {
+      "title": "Grabbing Inflation Protection Now Is a No-Brainer",
+      "link": "https://www.wsj.com/finance/investing/grabbing-inflation-protection-now-is-a-no-brainer-45a6364e?mod=rss_markets_main",
+      "summary": "Plus, the AI trade keeps deflating despite Anthropic’s strong debut.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T11:16:00+00:00"
     },
     {
       "title": "大型クロマグロ漁獲枠 25%増合意",
@@ -1522,6 +1550,14 @@
       "published": "2026-11-20T11:05:00+00:00"
     },
     {
+      "title": "Anthropic shares slide as fears over AI boom dominate",
+      "link": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
+      "summary": "Blockbuster debut from developer of Claude fails to ease concerns over historic AI capex spending",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T11:04:01+00:00"
+    },
+    {
       "title": "Anthropic Lives Up to Wall Street Hype, but AI Doubts Linger",
       "link": "https://www.wsj.com/finance/investing/anthropic-lives-up-to-wall-street-hype-but-ai-doubts-linger-d6a4519b?mod=rss_markets_main",
       "summary": "Plus, Kushner floats a Ukraine peace deal that would upend U.S. policy, and the snack sailors aboard the USS George Washington can’t get enough of.",
@@ -1541,6 +1577,14 @@
       "title": "UK says Brexit ‘reset’ deal agreed",
       "link": "https://www.ft.com/content/8515b514-2067-43eb-a7f5-b5aa20ec4cc3",
       "summary": "Downing Street says deal ‘is done’ but talks will continue in ‘some areas’",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T10:47:15+00:00"
+    },
+    {
+      "title": "UK and EU agree Brexit ‘reset’ but delivery rests on tuition fees",
+      "link": "https://www.ft.com/content/8515b514-2067-43eb-a7f5-b5aa20ec4cc3",
+      "summary": "Brussels insists Britain must cut university fees for bloc’s students",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-20T10:47:15+00:00"
@@ -1688,6 +1732,14 @@
       "source": "財務省",
       "category": "公的機関",
       "published": "2026-11-20T09:55:00+00:00"
+    },
+    {
+      "title": "What people are building, discovered through new domains",
+      "link": "https://startups.novumsignals.com/",
+      "summary": "Article URL: https://startups.novumsignals.com/\nComments URL: https://news.ycombinator.com/item?id=50572448\nPoints: 4\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T09:54:33+00:00"
     },
     {
       "title": "UK fridges secured from hackers in secret nationwide operation",
