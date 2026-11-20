@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T08:33:15.099802+00:00",
+  "generated_at": "2026-11-20T08:47:40.641622+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1426,6 +1426,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1438,12 +1442,28 @@
       "published": "2026-11-20T10:00:00+00:00"
     },
     {
+      "title": "明治「スーパーカップ」値上げへ",
+      "link": "https://news.yahoo.co.jp/pickup/6603309?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-20T08:40:19+00:00"
+    },
+    {
       "title": "日経平均、3007円安で取引終了　5万6000円台は今年4月以来",
       "link": "https://www.asahi.com/articles/ASVCN053QVCNULFA002M.html?ref=rss",
       "summary": "",
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-20T08:33:09.717561+00:00"
+    },
+    {
+      "title": "Dollar Falls Modestly as AI Stock Selloff Weighs",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-38aa30b7?mod=rss_markets_main",
+      "summary": "The dollar edged lower after Anthropic’s record-breaking IPO failed to halt selling in U.S. AI-related stocks overnight.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T08:32:00+00:00"
     },
     {
       "title": "Sterling Briefly Rises After Improved U.K. Retail Sales Data",
