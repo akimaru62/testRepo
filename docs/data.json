@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T02:47:46.906782+00:00",
+  "generated_at": "2026-11-20T03:06:15.594371+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1334,6 +1334,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1344,6 +1348,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-20T10:00:00+00:00"
+    },
+    {
+      "title": "BCPだけでなかった、早期復旧のカギ　被災した半導体企業の教訓",
+      "link": "https://www.asahi.com/articles/ASVCL2H3TVCLULFA02KM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T03:06:10.648863+00:00"
+    },
+    {
+      "title": "e:HEVに変わるHonda Hybrid《次世代ハイブリッド第1弾》新型ラージSUV｢アヴァンシア｣はホンダの救世主になるか | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965105?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "次世代ハイブリッドシステム｢Honda Hybrid｣を初搭載した3列シートSUV｢アヴァンシア｣をホンダが発表。国内のホンダ車としては最大車格となり､次世代ハイブリッド第1弾となるモデル､その狙い…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T03:00:00+00:00"
     },
     {
       "title": "ランサム集団キリン、大崎電気工業への攻撃主張　リークサイトに掲載",
