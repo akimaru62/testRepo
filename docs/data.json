@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T14:33:35.955708+00:00",
+  "generated_at": "2026-11-20T14:47:33.936959+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1522,9 +1522,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Here’s what’s been proven to help GLP-1 users who have lost muscle from the drug",
+      "link": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
+      "summary": "People taking Zepbound who engage in consistent resistance training can still get stronger even if they lose some of their muscle.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T14:44:00+00:00"
+    },
+    {
+      "title": "U.S. Natural Gas Futures Edge Up in Early Trading",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-edge-up-in-early-trading-2b513864?mod=rss_markets_main",
+      "summary": "U.S. natural gas futures edged up at the front of the curve after a pullback yesterday.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T14:33:00+00:00"
+    },
     {
       "title": "「脱化石燃料」削除に各国反発　ＣＯＰ３１、会期延長へ",
       "link": "https://www.jiji.com/jc/article?k=2026112000852&g=int&m=rss",
@@ -1542,6 +1562,14 @@
       "published": "2026-11-20T14:18:02.363741+00:00"
     },
     {
+      "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+      "link": "https://alpo.ge/remark.pdf",
+      "summary": "Article URL: https://alpo.ge/remark.pdf\nComments URL: https://news.ycombinator.com/item?id=50574968\nPoints: 14\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T14:16:21+00:00"
+    },
+    {
       "title": "Anthropic shares tumble as AI giant swept up in tech sell-off",
       "link": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
       "summary": "Shares of Claude developer under pressure in pre-market trading a day after blockbuster initial public offering",
@@ -1556,6 +1584,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-20T14:00:38+00:00"
+    },
+    {
+      "title": "Llms.txt and MCP didn't move the needle",
+      "link": "https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did",
+      "summary": "Article URL: https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did\nComments URL: https://news.ycombinator.com/item?id=50574772\nPoints: 14\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T14:00:23+00:00"
     },
     {
       "title": "These little-known investments could be among the best bargains in a crash",
