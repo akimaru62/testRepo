@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T06:48:21.411721+00:00",
+  "generated_at": "2026-11-20T07:06:23.777687+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1398,6 +1398,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1408,6 +1412,38 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-20T10:00:00+00:00"
+    },
+    {
+      "title": "（論文）家計のインフレ予想の形成メカニズム：インフレ実感とインフレ経験の役割",
+      "link": "http://www.boj.or.jp/research/wps_rev/wps_2026/wp26j12.htm",
+      "summary": "",
+      "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-11-20T07:00:00+00:00"
+    },
+    {
+      "title": "令和７年度決算の説明",
+      "link": "https://www.mof.go.jp/policy/budget/budger_workflow/account/fy2025/ke_setsumei07.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-20T07:00:00+00:00"
+    },
+    {
+      "title": "令和７年度決算の国会提出",
+      "link": "https://www.mof.go.jp/policy/budget/budger_workflow/account/fy2025/ke0811.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-20T07:00:00+00:00"
+    },
+    {
+      "title": "日経平均終値3007円安 AI巡り混乱",
+      "link": "https://news.yahoo.co.jp/pickup/6603296?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-20T06:48:16+00:00"
     },
     {
       "title": "「市場の信認は積極財政の必要条件」財政審、政権の予算編成に注文",
