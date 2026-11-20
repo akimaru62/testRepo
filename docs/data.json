@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T23:04:44.175835+00:00",
+  "generated_at": "2026-11-20T23:17:43.791095+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1658,9 +1658,69 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "米主力車「ローグ」３割ＨＶに　エンジン工場投資検討―日産幹部",
+      "link": "https://www.jiji.com/jc/article?k=2026112000747&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T23:17:39.739545+00:00"
+    },
+    {
+      "title": "トランプ氏の「本気度」疑心か　正恩氏、また応じず",
+      "link": "https://www.jiji.com/jc/article?k=2026112000742&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T23:17:39.739529+00:00"
+    },
+    {
+      "title": "相次ぐ通告、児相も把握　専門家「危機意識欠如では」―大阪女児虐待",
+      "link": "https://www.jiji.com/jc/article?k=2026112000734&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T23:17:39.739519+00:00"
+    },
+    {
+      "title": "トランプ氏、「レガシー外交」本格化　米中ロ、歴史的会談も成果乏しく",
+      "link": "https://www.jiji.com/jc/article?k=2026112000705&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T23:17:39.739508+00:00"
+    },
+    {
+      "title": "日本「法の支配」強化へ注力　米中ロ会談、定例化を警戒",
+      "link": "https://www.jiji.com/jc/article?k=2026112001015&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T23:17:39.739491+00:00"
+    },
+    {
+      "title": "与党、月内衆院通過にまい進　定数削減、野党の懸念置き去り",
+      "link": "https://www.jiji.com/jc/article?k=2026112001100&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T23:17:39.739460+00:00"
+    },
+    {
+      "title": "Opinion | Why China Wants to Control a Yacht Maker",
+      "link": "https://www.wsj.com/opinion/why-china-wants-to-control-a-yacht-maker-69ca60c7?mod=rss_markets_main",
+      "summary": "The story of Italy’s Ferretti Group points to a vulnerability in the West’s system to control investment by foreign adversaries.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T23:11:00+00:00"
+    },
     {
       "title": "きっかけはGMO、漏洩対策で通信遮断検討　初会合では慎重論相次ぐ",
       "link": "https://www.asahi.com/articles/ASVCM4D9VVCMULFA01BM.html?ref=rss",
@@ -1756,6 +1816,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-20T22:30:00+00:00"
+    },
+    {
+      "title": "Nasdaq erases all 2026 gains",
+      "link": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html\nComments URL: https://news.ycombinator.com/item?id=50583254\nPoints: 14\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T22:29:06+00:00"
     },
     {
       "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
