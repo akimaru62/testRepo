@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T22:33:12.436369+00:00",
+  "generated_at": "2026-11-20T22:47:25.889492+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1650,9 +1650,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "米中首脳、ＡＩ安全策で合意とトランプ氏　軍事利用は人間が判断",
+      "link": "https://www.jiji.com/jc/article?k=2026112100136&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T22:47:21.191133+00:00"
+    },
+    {
+      "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
+      "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
+      "summary": "A major semiconductor index just posted its worst weekly performance in 25 years.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T22:44:00+00:00"
+    },
+    {
+      "title": "These stocks were crushed the most this week as the tech wreck accelerated",
+      "link": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
+      "summary": "94% of stocks in the S&amp;P 500 declined for the week, 11 of them by at least 20%. But for now, analysts still think you can make a lot of money if you buy them.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T22:44:00+00:00"
+    },
     {
       "title": "NYダウ900ドル安、7カ月ぶり安値　アンソロピックは8.5%安",
       "link": "https://www.asahi.com/articles/ASVCN75TJVCNUHBI00DM.html?ref=rss",
@@ -1668,6 +1696,22 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-20T22:30:18+00:00"
+    },
+    {
+      "title": "｢取り乱した姉｣ 年に数回会う\"きょうだい\"がいても孤独死…トイレで亡くなった兄のゴミ屋敷で《取材を中止したワケ》 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965456?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "警察から知らされた､兄の死。久々に訪れた部屋は､ゴミで埋め尽くされた孤独な現場だった――。孤独死は身寄りのない人だけのものではなく､身近な家族でも気付けない現実がある。片付けの先に､遺族と専門業者が…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T22:30:00+00:00"
+    },
+    {
+      "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+      "link": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+      "summary": "Article URL: https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models\nComments URL: https://news.ycombinator.com/item?id=50583117\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T22:18:20+00:00"
     },
     {
       "title": "会期延長で交渉正念場　脱化石燃料で調整難航―ＣＯＰ３１",
