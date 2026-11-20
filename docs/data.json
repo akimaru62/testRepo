@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T17:47:43.070512+00:00",
+  "generated_at": "2026-11-20T18:06:23.368503+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1574,9 +1574,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Why year-end portfolio rebalancing is a risky bet that bonds will beat stocks in 2027",
+      "link": "https://www.marketwatch.com/story/why-year-end-portfolio-rebalancing-is-a-risky-bet-that-bonds-will-beat-stocks-in-2027-1b438892?mod=mw_rss_topstories",
+      "summary": "Portfolio rebalancing involves many implicit bets that investors may not even be aware of",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T17:49:00+00:00"
+    },
     {
       "title": "Tech Rout Deepens as Anthropic Stock Slides",
       "link": "https://www.wsj.com/finance/stocks/nasdaq-set-for-fresh-decline-as-ai-selloff-intensifies-e974bbb5?mod=rss_markets_main",
@@ -1616,6 +1628,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-20T17:08:56+00:00"
+    },
+    {
+      "title": "Jamie Dimon vows to claw back ‘unfair’ UK bank tax",
+      "link": "https://www.ft.com/content/4dd143d0-0b10-4bb8-ac15-e04702fa8b9a?syn-25a6b1a6=1",
+      "summary": "Boss of US lender says he will find ways to offset the increase announced by the government last month",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T17:08:46+00:00"
     },
     {
       "title": "Interest-Rate Expectations Keep Gold Under Pressure",
