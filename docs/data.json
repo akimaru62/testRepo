@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T08:22:12.549760+00:00",
+  "generated_at": "2026-11-20T08:33:15.099802+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1422,6 +1422,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1432,6 +1436,30 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-20T10:00:00+00:00"
+    },
+    {
+      "title": "日経平均、3007円安で取引終了　5万6000円台は今年4月以来",
+      "link": "https://www.asahi.com/articles/ASVCN053QVCNULFA002M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T08:33:09.717561+00:00"
+    },
+    {
+      "title": "Sterling Briefly Rises After Improved U.K. Retail Sales Data",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-38aa30b7?mod=rss_markets_main",
+      "summary": "Sterling briefly edged higher against the dollar after U.K. retail sales showed a rebound in October.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T08:31:00+00:00"
+    },
+    {
+      "title": "【独自】生命保険各社もタマホームを通じた新規保険販売を停止へ､代理店廃業方針に立ちはだかる壁 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965530?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "タマホームが関与した保険金不正請求問題をめぐって､損害保険各社に続き生命保険各社も新規販売停止を検討していていることがわかりました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T08:30:00+00:00"
     },
     {
       "title": "ロシア攻撃で外国大使館被害　窓吹き飛ぶ―ウクライナ首都",
