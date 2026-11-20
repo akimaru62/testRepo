@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T13:47:33.366445+00:00",
+  "generated_at": "2026-11-20T14:05:38.635595+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1510,9 +1510,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "These little-known investments could be among the best bargains in a crash",
+      "link": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
+      "summary": "If this stock market turmoil turns into a full-blown crash, look for low-risk investment bargains among closed-end funds.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T14:00:00+00:00"
+    },
     {
       "title": "政府職員出席、他に３回　関文科相パーティー、野党批判",
       "link": "https://www.jiji.com/jc/article?k=2026112001213&g=pol&m=rss",
@@ -1523,6 +1535,14 @@
     },
     {
       "title": "Anthropic shares slide 10% as fears over AI boom dominate",
+      "link": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
+      "summary": "Blockbuster debut from developer of Claude fails to ease concerns over historic AI capex spending",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T13:29:02+00:00"
+    },
+    {
+      "title": "Anthropic shares slide 13% as fears over AI boom dominate",
       "link": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
       "summary": "Blockbuster debut from developer of Claude fails to ease concerns over historic AI capex spending",
       "source": "Financial Times",
@@ -1667,6 +1687,14 @@
     },
     {
       "title": "How Anthropic’s blockbuster IPO came together",
+      "link": "https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1",
+      "summary": "Fears about the AI trade did not damp enthusiasm for shares. But can the low-key company preserve its idiosyncratic culture in the glare of public markets?",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T12:02:46+00:00"
+    },
+    {
+      "title": "‘A necessary evil’: how Anthropic pulled off its IPO",
       "link": "https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1",
       "summary": "Fears about the AI trade did not damp enthusiasm for shares. But can the low-key company preserve its idiosyncratic culture in the glare of public markets?",
       "source": "Financial Times",
@@ -2016,6 +2044,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-20T09:43:19+00:00"
+    },
+    {
+      "title": "Signal Is Serious About Protecting Your Privacy",
+      "link": "https://signal.org/blog/protecting-your-privacy/",
+      "summary": "Article URL: https://signal.org/blog/protecting-your-privacy/\nComments URL: https://news.ycombinator.com/item?id=50572348\nPoints: 14\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T09:42:16+00:00"
     },
     {
       "title": "Nasdaq Set for Fresh Decline as AI Selloff Intensifies",
