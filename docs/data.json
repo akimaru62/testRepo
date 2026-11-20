@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T12:36:04.102277+00:00",
+  "generated_at": "2026-11-20T12:47:40.390510+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1490,9 +1490,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Bank of America strategist warns doom loop could hit stocks with Wall Street underpricing hard-landing risks",
+      "link": "https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57?mod=mw_rss_topstories",
+      "summary": "The S&amp;P 500 is nearing a level worth buying if the U.S. avoids a recession, but one strategist warns Wall Street is underpricing the hard-landing risk as he said investors should wait before buying risky assets.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T12:43:00+00:00"
+    },
+    {
+      "title": "Oil Prices Retreat as Traders Assess Supply Outlook, Middle East Risks",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-edge-higher-as-traders-assess-middle-east-shipping-risks-supply-outlook-faf8f60a?mod=rss_markets_main",
+      "summary": "Oil prices retreated Friday, reversing initial gains as traders assessed improving global supply conditions and continued threats to Middle Eastern oil shipments.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T12:37:00+00:00"
+    },
     {
       "title": "サウジ原油 日本での備蓄3倍合意",
       "link": "https://news.yahoo.co.jp/pickup/6603336?source=rss",
@@ -1572,6 +1592,22 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-20T12:02:46+00:00"
+    },
+    {
+      "title": "Trade war with China \"on hold\" - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wdGR3UVI0QVNCbmZEUzZxVkI3Qkx1VGRMT3hZS2gyaldGaDhWcjdBbS12R0oyaWM2SjhZZS1zYVFpZzVzcXpIRjRNOFBvZnZ0RVFlVjVkb1dlTzQ?oc=5",
+      "summary": "Trade war with China \"on hold\"&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-20T11:52:31+00:00"
+    },
+    {
+      "title": "Vintage Alfa Romeo, Lego car go up for sale at Paris retro car show - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5aDNvQ01KbmlJTTY5VFRISlNvNFZxczVRZDlaLTFEQkxUbDVpR1ZZMWhjRENpbk5WWGRZMEFtUTBQWVFNbGlqYnRmcjJwYzJTWHR3NXFRcVFFX2s?oc=5",
+      "summary": "Vintage Alfa Romeo, Lego car go up for sale at Paris retro car show&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-20T11:52:31+00:00"
     },
     {
       "title": "Citi warns a key stock-market signal is close to flashing red",
@@ -1799,6 +1835,14 @@
     },
     {
       "title": "Stock Market Today: Anthropic Stock Drops as Tech Rout Intensifies",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026?mod=rss_markets_main",
+      "summary": "S&amp;P 500 heads for longest losing streak since 2020",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T10:08:25+00:00"
+    },
+    {
+      "title": "Stock Market Today: Anthropic Stock Slides as Tech Rout Intensifies",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026?mod=rss_markets_main",
       "summary": "S&amp;P 500 heads for longest losing streak since 2020",
       "source": "WSJ マーケット",
