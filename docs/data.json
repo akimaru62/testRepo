@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T01:05:58.714119+00:00",
+  "generated_at": "2026-11-20T01:17:55.815484+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1298,6 +1298,14 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1308,6 +1316,54 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-20T10:00:00+00:00"
+    },
+    {
+      "title": "ロヒンギャ迫害判決、米は賛否示さず　ＩＣＪの「政治利用」けん制",
+      "link": "https://www.jiji.com/jc/article?k=2026112000313&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T01:17:45.240053+00:00"
+    },
+    {
+      "title": "核軍縮合意「非常に難しい」　米中ロ会談、習氏と理念共有―トランプ氏",
+      "link": "https://www.jiji.com/jc/article?k=2026112000192&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T01:17:45.240039+00:00"
+    },
+    {
+      "title": "ＡＩ半導体９０万個、対中輸出承認　米政権がエヌビディア製など―下院委",
+      "link": "https://www.jiji.com/jc/article?k=2026112000300&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T01:17:45.240013+00:00"
+    },
+    {
+      "title": "日経平均、一時2800円超安　アンソロピック上場もAI市場に懸念",
+      "link": "https://www.asahi.com/articles/ASVCN053QVCNULFA002M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T01:17:45.109932+00:00"
+    },
+    {
+      "title": "日経平均 一時2800円以上値下がり",
+      "link": "https://news.yahoo.co.jp/pickup/6603248?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-20T01:12:04+00:00"
+    },
+    {
+      "title": "AI coding agents on Amazon EC2 Mac: How Cognition scales Devin for macOS",
+      "link": "https://aws.amazon.com/blogs/architecture/ai-coding-agents-on-amazon-ec2-mac-how-cognition-scales-devin-for-macos/",
+      "summary": "Cognition gave its AI software engineer, Devin, a cloud Mac. Each Devin session gets a fresh macOS VM on Amazon EC2 Mac bare metal hosts, so Devin can build, run, and test iOS and macOS apps. Learn how Cognition built it with disk snapshots, a user-space network gateway, prepared guest images, and accessibility-based control.",
+      "source": "AWS ブログ (アーキテクチャ)",
+      "category": "開発者向け",
+      "published": "2026-11-20T01:10:14+00:00"
     },
     {
       "title": "｢将来､何をしたいかわからない…｣ 精神科医が《自分探しで迷子になった人》に薦める\"本当の自分\"のあぶり出し方 | ライフ | 東洋経済オンライン",
