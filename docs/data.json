@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T17:17:32.677482+00:00",
+  "generated_at": "2026-11-20T17:33:28.716913+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1566,6 +1566,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1576,6 +1580,30 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-20T17:17:28.075474+00:00"
+    },
+    {
+      "title": "Anthropic's Plunge Deepens AI Selloff",
+      "link": "https://boamaehg.blogspot.com/2026/11/nasdaq-slides-as-anthropic-plunge-drags.html",
+      "summary": "Article URL: https://boamaehg.blogspot.com/2026/11/nasdaq-slides-as-anthropic-plunge-drags.html\nComments URL: https://news.ycombinator.com/item?id=50578289\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T17:16:44+00:00"
+    },
+    {
+      "title": "Running two PSP emulators on one Switch 2 and sharing one via GameShare",
+      "link": "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md",
+      "summary": "Article URL: https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md\nComments URL: https://news.ycombinator.com/item?id=50578233\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T17:14:03+00:00"
+    },
+    {
+      "title": "PostgreSQL 19: A hands-on tour with runnable browser examples",
+      "link": "https://certuvia.com/blog/postgres-19",
+      "summary": "Article URL: https://certuvia.com/blog/postgres-19\nComments URL: https://news.ycombinator.com/item?id=50578117\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T17:08:56+00:00"
     },
     {
       "title": "Interest-Rate Expectations Keep Gold Under Pressure",
