@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T20:05:26.016991+00:00",
+  "generated_at": "2026-11-20T20:17:48.803776+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1610,9 +1610,61 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "天皇陛下、ペルー大統領と会見　チリ大統領夫妻とも",
+      "link": "https://www.jiji.com/jc/article?k=2026112000853&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T20:17:43.639880+00:00"
+    },
+    {
+      "title": "公明「大胆な修正ない限り賛成できない」　消費減税めぐり6項目要求",
+      "link": "https://www.asahi.com/articles/ASVCN460DVCNUTFK008M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T20:17:43.141557+00:00"
+    },
+    {
+      "title": "未着工の原発計画で交付金165億円　2県3市町、40年続く事例も",
+      "link": "https://www.asahi.com/articles/ASVCM3GB9VCMPLFA005M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T20:17:43.141529+00:00"
+    },
+    {
+      "title": "The tech wreck is one stock trade Trump can’t ‘TACO’ away",
+      "link": "https://www.marketwatch.com/story/the-tech-wreck-is-one-stock-trade-trump-cant-taco-away-516b3883?mod=mw_rss_topstories",
+      "summary": "The president threatened to penalize companies that build data centers outside U.S. — but the stock market kept falling.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T20:07:00+00:00"
+    },
+    {
+      "title": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
+      "link": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
+      "summary": "‘Grand Theft Auto VI’ might be a blockbuster game, but investors are shrugging it off.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T20:03:00+00:00"
+    },
+    {
+      "title": "《楽天証券､1572万口座流出のおそれ》年収･資産･住所…｢犯罪者にとって最高の名簿｣がテスト環境に置かれたお粗末 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965411?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "年収や金融資産の情報が､氏名･住所とセットで漏洩する――。楽天証券を襲った個人情報漏洩事件は､金融機関における情報管理の姿勢を根本から問うものとなりました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T20:00:00+00:00"
+    },
     {
       "title": "Spooked by Nvidia’s turmoil? Play Grand Theft Auto VI instead of peeking at your 401(k).",
       "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
@@ -1628,6 +1680,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-20T19:43:00+00:00"
+    },
+    {
+      "title": "Winedroid – run Android apps without Android (WASM demo)",
+      "link": "https://winedroid.soham.sh/demo/",
+      "summary": "Article URL: https://winedroid.soham.sh/demo/\nComments URL: https://news.ycombinator.com/item?id=50580536\nPoints: 16\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T19:30:16+00:00"
     },
     {
       "title": "Alphabet just overtook Nvidia in market value for the first time in over 2 years",
@@ -1753,6 +1813,14 @@
       "title": "Vibecoding an Inference Chip",
       "link": "https://ankitg.me/blog/vibecoding-inference-chip/",
       "summary": "Article URL: https://ankitg.me/blog/vibecoding-inference-chip/\nComments URL: https://news.ycombinator.com/item?id=50579297\nPoints: 11\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T18:15:16+00:00"
+    },
+    {
+      "title": "Vibecoding an inference chip",
+      "link": "https://ankitg.me/blog/vibecoding-inference-chip/",
+      "summary": "Article URL: https://ankitg.me/blog/vibecoding-inference-chip/\nComments URL: https://news.ycombinator.com/item?id=50579297\nPoints: 41\n# Comments: 11",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-20T18:15:16+00:00"
