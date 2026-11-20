@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T11:05:13.860129+00:00",
+  "generated_at": "2026-11-20T11:17:46.100896+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1466,9 +1466,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "警察庁保有情報、一部開示認めず　個人情報管理簿巡る判決確定―最高裁",
+      "link": "https://www.jiji.com/jc/article?k=2026112000991&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T11:17:40.696903+00:00"
+    },
+    {
+      "title": "【速報】高市首相、ＩＣＣ赤根氏と２４日面会",
+      "link": "https://www.jiji.com/jc/article?k=2026112001063&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T11:17:40.696886+00:00"
+    },
+    {
+      "title": "中国、改めて「是正」要求　高市首相の台湾有事発言",
+      "link": "https://www.jiji.com/jc/article?k=2026112001030&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T11:17:40.696850+00:00"
+    },
+    {
+      "title": "大型クロマグロ漁獲枠 25%増合意",
+      "link": "https://news.yahoo.co.jp/pickup/6603329?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-20T11:09:13+00:00"
+    },
     {
       "title": "太平洋クロマグロ、大型魚の枠は25%増　やや手頃な値段に？",
       "link": "https://www.asahi.com/articles/ASVCN3C5YVCNULFA01RM.html?ref=rss",
@@ -1476,6 +1512,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-20T11:05:10.225366+00:00"
+    },
+    {
+      "title": "Apple seems to be building its own AI agent. This could be bad news for Meta’s Muse.",
+      "link": "https://www.marketwatch.com/story/apple-seems-to-be-building-its-own-ai-agent-this-could-be-bad-news-for-metas-muse-8d9be2a7?mod=mw_rss_topstories",
+      "summary": "Shares in Apple climbed in premarket trading after the company posted a number of job openings seeking engineers to help build an agentic artificial-intelligence system.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T11:05:00+00:00"
     },
     {
       "title": "Anthropic Lives Up to Wall Street Hype, but AI Doubts Linger",
@@ -1500,6 +1544,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-20T10:47:15+00:00"
+    },
+    {
+      "title": "The Making of Oxygene",
+      "link": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
+      "summary": "Article URL: https://jeanmicheljarre.com/aaa/the-making-of-oxygene\nComments URL: https://news.ycombinator.com/item?id=50572822\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T10:41:10+00:00"
     },
     {
       "title": "ココイチ売却 米KKRに優先交渉権",
