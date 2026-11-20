@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T17:33:28.716913+00:00",
+  "generated_at": "2026-11-20T17:47:43.070512+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1570,9 +1570,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Tech Rout Deepens as Anthropic Stock Slides",
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-set-for-fresh-decline-as-ai-selloff-intensifies-e974bbb5?mod=rss_markets_main",
+      "summary": "The selloff in technology stocks is intensifying, dragging the S&amp;P 500 and Dow industrials into correction territory.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T17:35:00+00:00"
+    },
     {
       "title": "宮崎友花ら準決勝進出　バドミントン・香港オープン",
       "link": "https://www.jiji.com/jc/article?k=2026112001251&g=spo&m=rss",
@@ -1612,6 +1624,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-20T17:05:00+00:00"
+    },
+    {
+      "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+      "link": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+      "summary": "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/\nComments URL: https://news.ycombinator.com/item?id=50577901\nPoints: 7\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T16:59:27+00:00"
     },
     {
       "title": "Citi Undercounted $35 Billion in Assets at U.K. Subsidiary",
@@ -1689,6 +1709,14 @@
       "title": "This proposed Social Security fix could add trillions to the national debt",
       "link": "https://www.marketwatch.com/story/this-proposed-social-security-fix-could-add-trillions-to-the-national-debt-17197e91?mod=mw_rss_topstories",
       "summary": "A Republican senator has a new proposal called the “Stop Scaring Seniors Act.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T15:28:00+00:00"
+    },
+    {
+      "title": "Sen. Ron Johnson’s Social Security fix could add trillions to the national debt",
+      "link": "https://www.marketwatch.com/story/this-proposed-social-security-fix-could-add-trillions-to-the-national-debt-17197e91?mod=mw_rss_topstories",
+      "summary": "Experts weigh in on the Republican senator’s proposal called the “Stop Scaring Seniors Act”",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-20T15:28:00+00:00"
@@ -1833,6 +1861,14 @@
       "title": "Anthropic shares tumble as AI giant swept up in tech sell-off",
       "link": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
       "summary": "Shares of Claude developer under pressure in pre-market trading a day after blockbuster initial public offering",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T14:01:58+00:00"
+    },
+    {
+      "title": "US tech rout deepens as Anthropic shares tumble",
+      "link": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
+      "summary": "Investors rush for havens as AI-linked stocks endure heavy wave of selling",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-20T14:01:58+00:00"
