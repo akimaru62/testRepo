@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T14:18:08.354951+00:00",
+  "generated_at": "2026-11-20T14:33:35.955708+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1518,6 +1518,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1538,6 +1542,22 @@
       "published": "2026-11-20T14:18:02.363741+00:00"
     },
     {
+      "title": "Anthropic shares tumble as AI giant swept up in tech sell-off",
+      "link": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
+      "summary": "Shares of Claude developer under pressure in pre-market trading a day after blockbuster initial public offering",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T14:01:58+00:00"
+    },
+    {
+      "title": "Maga dealmaking threatens US-brokered peace in the Balkans",
+      "link": "https://www.ft.com/content/bc10dd9a-229f-440b-821e-465864447742?syn-25a6b1a6=1",
+      "summary": "Thirty years after the Dayton peace accords, US pursues competing interests that risk deepening ethnic tensions in Bosnia",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T14:00:38+00:00"
+    },
+    {
       "title": "These little-known investments could be among the best bargains in a crash",
       "link": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
       "summary": "If this stock market turmoil turns into a full-blown crash, look for low-risk investment bargains among closed-end funds.",
@@ -1552,6 +1572,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-20T13:33:16.433349+00:00"
+    },
+    {
+      "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+      "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off\nComments URL: https://news.ycombinator.com/item?id=50574383\nPoints: 19\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T13:29:59+00:00"
     },
     {
       "title": "Anthropic shares slide 10% as fears over AI boom dominate",
@@ -1624,6 +1652,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-20T12:43:00+00:00"
+    },
+    {
+      "title": "If you stop writing code, you also get worse at reviewing it",
+      "link": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
+      "summary": "Article URL: https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/\nComments URL: https://news.ycombinator.com/item?id=50573886\nPoints: 27\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T12:41:38+00:00"
     },
     {
       "title": "Oil Prices Retreat as Traders Assess Supply Outlook, Middle East Risks",
@@ -1728,6 +1764,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-20T12:02:46+00:00"
+    },
+    {
+      "title": "Anthropic market cap in line with Alphaville’s guess",
+      "link": "https://www.ft.com/content/67938df3-a9ce-4eb8-9299-af0ab80db87b",
+      "summary": "A (very) light autopsy on our pre-IPO market cap guestimation",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T11:57:35+00:00"
     },
     {
       "title": "Trade war with China \"on hold\" - Reuters",
