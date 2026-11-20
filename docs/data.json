@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T21:47:12.295852+00:00",
+  "generated_at": "2026-11-20T22:05:04.244812+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1638,9 +1638,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "\"DX化\"なのに客が人数分の注文を暗記…コメダ珈琲店が板橋にオープン｢省人化店舗｣開業1カ月も続く\"困惑の光景\" | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965473?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "コメダ珈琲店が新たに挑戦する｢DX店舗｣が､板橋仲宿商店街にオープン。デジタル化による効率化や前会計システムなど､従来と異なる運営スタイルが導入されています。省人化や時短が狙いですが､果たして｢くつ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T22:00:00+00:00"
+    },
+    {
+      "title": "｢クソじじい｣父親に反抗する息子→元暴走族長が鉄拳制裁をしたワケ 漫画｢サラリーマン金太郎｣（第1巻 第3話） | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964975?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "元暴走族「八州連合」のヘッドをしていた矢島金太郎がヤマト建設に入社するために上京。異色の経歴を持つ金太郎は悪戦苦闘しながらもサラリーマンとしての道を歩み、周囲の人々を熱く変えていく――！紙版だけでシ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T22:00:00+00:00"
+    },
+    {
+      "title": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+      "summary": "One fund manager says the continued uncertainty makes Nvidia vulnerable to more selling, even as the stock has erased $1.16 trillion in market value in the past seven trading sessions.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T21:58:00+00:00"
+    },
+    {
+      "title": "Nasdaq Turns Red For The Year",
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-turns-red-for-the-year-46ad8118?mod=rss_markets_main",
+      "summary": "Plus, Anthropic falls back and Treasury yields plunge",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T21:50:00+00:00"
+    },
+    {
+      "title": "『紅白歌合戦』白組の演歌歌手がゼロに…｢けん玉｣三山ひろしも落選→台頭する懐メロ歌手が背負う\"日本人の心\" | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965225?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "大みそかの風物詩･紅白歌合戦から､ついに白組の演歌歌手が姿を消しました。伝統とされてきた演歌の存在感はなぜ揺らいだのでしょうか。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T21:45:00+00:00"
+    },
     {
       "title": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
       "link": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
@@ -1704,6 +1748,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-20T21:25:00+00:00"
+    },
+    {
+      "title": "Inside Anthropic’s historic IPO",
+      "link": "https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1",
+      "summary": "Can the low-key company preserve its idiosyncratic culture in the glare of public markets?",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T21:21:29+00:00"
     },
     {
       "title": "欧州代表団、訪ロの用意　ウクライナ協議準備で―仏",
@@ -1779,6 +1831,14 @@
     },
     {
       "title": "Anthropic’s IPO Bust Deepens $4 Trillion AI Wipeout on Wall Street",
+      "link": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90?mod=rss_markets_main",
+      "summary": "A brutal selloff in stocks got worse as the week wore on, and not even the biggest IPO in history could slow it down.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T21:03:00+00:00"
+    },
+    {
+      "title": "Anthropic’s IPO Bust Caps $4 Trillion AI Wipeout on Wall Street",
       "link": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90?mod=rss_markets_main",
       "summary": "A brutal selloff in stocks got worse as the week wore on, and not even the biggest IPO in history could slow it down.",
       "source": "WSJ マーケット",
@@ -2520,6 +2580,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-20T14:00:23+00:00"
+    },
+    {
+      "title": "Is Trump stuck with Iran forever?",
+      "link": "https://www.ft.com/content/2fd462dc-a8fe-412e-a05f-226f9d7a0028?syn-25a6b1a6=1",
+      "summary": "There is a good chance he will leave office with the Iranian quagmire still dragging him down",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T14:00:02+00:00"
     },
     {
       "title": "These little-known investments could be among the best bargains in a crash",
