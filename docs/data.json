@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T01:34:45.445302+00:00",
+  "generated_at": "2026-11-20T01:47:32.372043+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1310,6 +1310,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1320,6 +1324,30 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-20T10:00:00+00:00"
+    },
+    {
+      "title": "アンソロピック、史上最大規模の新規上場　初日終値17％高で好発進",
+      "link": "https://www.asahi.com/articles/ASVCM66V5VCMUHBI00VM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T01:47:28.311657+00:00"
+    },
+    {
+      "title": "This Ex-Sheriff Was on the Beat When Mark Walter Loaded Insurers With Insider Deals",
+      "link": "https://www.wsj.com/finance/regulation/this-ex-sheriff-was-on-the-beat-when-mark-walter-loaded-insurers-with-insider-deals-dbfd45d1?mod=rss_markets_main",
+      "summary": "Delaware’s insurance commissioner gave clean bills of health to Walter’s conflict-ridden insurers. Now his department says it was “intentionally misled” and is investigating.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T01:45:00+00:00"
+    },
+    {
+      "title": "空港で靴磨き 航空会社の元社長",
+      "link": "https://news.yahoo.co.jp/pickup/6603252?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-20T01:41:41+00:00"
     },
     {
       "title": "アンソロピック上場、日本での調達4700億円に4倍の投資家需要",
