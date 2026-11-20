@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T19:47:45.479448+00:00",
+  "generated_at": "2026-11-20T20:05:26.016991+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1606,9 +1606,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Spooked by Nvidia’s turmoil? Play Grand Theft Auto VI instead of peeking at your 401(k).",
+      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "summary": "If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden moves.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T19:53:00+00:00"
+    },
     {
       "title": "Stocks could face a ‘doom loop’ if Wall Street underestimates the risk of an economic downturn, strategist warns",
       "link": "https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57?mod=mw_rss_topstories",
@@ -1632,6 +1644,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-20T19:22:00+00:00"
+    },
+    {
+      "title": "GrapheneOS claims Google is now waging war against it, could lock Pixel bootload",
+      "link": "https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/",
+      "summary": "Article URL: https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/\nComments URL: https://news.ycombinator.com/item?id=50580385\nPoints: 24\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T19:21:49+00:00"
     },
     {
       "title": "SpaceX’s stock falls back below its IPO price — and Anthropic’s could be next",
