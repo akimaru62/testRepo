@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T15:33:25.670501+00:00",
+  "generated_at": "2026-11-20T15:47:44.608661+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1538,9 +1538,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Nvidia’s stock heads for a stretch of weekly losses unseen since 2008",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+      "summary": "One fund manager says the continued uncertainty makes Nvidia “vulnerable” to more selling, even as the company has erased $811 billion in market value in the past seven days.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T15:38:00+00:00"
+    },
     {
       "title": "This proposed Social Security fix could add trillions to the national debt",
       "link": "https://www.marketwatch.com/story/this-proposed-social-security-fix-could-add-trillions-to-the-national-debt-17197e91?mod=mw_rss_topstories",
@@ -1548,6 +1560,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-20T15:28:00+00:00"
+    },
+    {
+      "title": "The AI fever in markets is breaking",
+      "link": "https://www.ft.com/content/b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1?syn-25a6b1a6=1",
+      "summary": "For investors, the magic of the technology might be wearing off, with US stocks on track for one of the worst years in two decades",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T15:23:38+00:00"
     },
     {
       "title": "清水の北川、途中出場で結果　Ｊリーグ",
