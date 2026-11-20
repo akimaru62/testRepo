@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T21:05:10.105883+00:00",
+  "generated_at": "2026-11-20T21:17:30.679650+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1626,11 +1626,71 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
     {
+      "title": "欧州代表団、訪ロの用意　ウクライナ協議準備で―仏",
+      "link": "https://www.jiji.com/jc/article?k=2026112100138&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T21:17:26.619223+00:00"
+    },
+    {
+      "title": "首相動静（１１月２０日）",
+      "link": "https://www.jiji.com/jc/article?k=2026112000274&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T21:17:26.619198+00:00"
+    },
+    {
+      "title": "米中首脳、ＡＩ「共通安全策」合意　エヌビディアＣＥＯ「復帰を」―トランプ氏",
+      "link": "https://www.jiji.com/jc/article?k=2026112100136&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T21:17:26.619175+00:00"
+    },
+    {
+      "title": "起業した24歳が驚いた改姓の手続き地獄　旧姓使用で感じたことは",
+      "link": "https://www.asahi.com/articles/ASVCM3C6CVCMULLI00CM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T21:17:26.449959+00:00"
+    },
+    {
+      "title": "Grand Theft Auto VI smashes records with $3.8bn in sales",
+      "link": "https://www.ft.com/content/6648bce8-41fc-4542-8f24-ab37f8acd5d7?syn-25a6b1a6=1",
+      "summary": "Consumers have already spent more on the video game than the top-grossing movie",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T21:05:48+00:00"
+    },
+    {
+      "title": "｢誰も自分を見てくれない｣優秀な兄と比較され､どこに行っても\"あの人の弟\"…立場逆転狙った東大受験で兄がくれたもの | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965362?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢勉強ができる兄｣と比べられ､\"あのお兄さんの弟\"と呼ばれ続けた田中さん。幼少期からくすぶる劣等感と競争心､そして家族との葛藤。やがて兄の進学先を超えたいと強く願うようになった田中さんの心の変化とは。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T21:05:00+00:00"
+    },
+    {
       "title": "Anthropic’s IPO Bust Punctuates $4 Trillion AI Wipeout on Wall Street",
+      "link": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90?mod=rss_markets_main",
+      "summary": "A brutal selloff in stocks got worse as the week wore on, and not even the biggest IPO in history could slow it down.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T21:03:00+00:00"
+    },
+    {
+      "title": "Anthropic’s IPO Bust Deepens $4 Trillion AI Wipeout on Wall Street",
       "link": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90?mod=rss_markets_main",
       "summary": "A brutal selloff in stocks got worse as the week wore on, and not even the biggest IPO in history could slow it down.",
       "source": "WSJ マーケット",
@@ -1796,6 +1856,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-20T20:07:00+00:00"
+    },
+    {
+      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+      "link": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+      "summary": "Article URL: https://www.masteringemacs.org/article/announcing-dreamcoder\nComments URL: https://news.ycombinator.com/item?id=50581110\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T20:03:59+00:00"
     },
     {
       "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
