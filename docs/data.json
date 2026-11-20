@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T17:04:08.852517+00:00",
+  "generated_at": "2026-11-20T17:17:32.677482+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1562,9 +1562,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "宮崎友花ら準決勝進出　バドミントン・香港オープン",
+      "link": "https://www.jiji.com/jc/article?k=2026112001251&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T17:17:28.075474+00:00"
+    },
+    {
+      "title": "Interest-Rate Expectations Keep Gold Under Pressure",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-elevated-yields-strong-dollar-9ba37905?mod=rss_markets_main",
+      "summary": "Gold and silver fell to their lowest levels in over a year.  Expectations of Fed interest-rate increases and the strong U.S. dollar continued to weigh on precious metals.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T17:05:00+00:00"
+    },
     {
       "title": "Citi Undercounted $35 Billion in Assets at U.K. Subsidiary",
       "link": "https://www.wsj.com/finance/banking/citi-undercounted-35-billion-in-assets-at-u-k-subsidiary-f8328559?mod=rss_markets_main",
