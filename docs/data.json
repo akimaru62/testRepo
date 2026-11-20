@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T01:47:32.372043+00:00",
+  "generated_at": "2026-11-20T02:07:25.861128+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1314,6 +1314,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1324,6 +1328,30 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-20T10:00:00+00:00"
+    },
+    {
+      "title": "楽天証券の情報流出 遺憾と金融相",
+      "link": "https://news.yahoo.co.jp/pickup/6603253?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-20T02:04:19+00:00"
+    },
+    {
+      "title": "｢世界を震撼させたモンゴル帝国｣がまさかの失業対策？…《日本を襲った元寇》に隠された騎馬民族の皇帝の意外な狙い | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961380?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "鎌倉時代､日本を襲ったモンゴル帝国の日本遠征。その背後には､｢失業｣をめぐる意外な事情がありました。現代にも通じる統治と雇用の本質に迫ります。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T02:00:00+00:00"
+    },
+    {
+      "title": "金融研究所 英文機関誌 Monetary and Economic Studies（第44巻）",
+      "link": "http://www.boj.or.jp/research/imes/mes/mes_261120.htm",
+      "summary": "",
+      "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-11-20T02:00:00+00:00"
     },
     {
       "title": "アンソロピック、史上最大規模の新規上場　初日終値17％高で好発進",
