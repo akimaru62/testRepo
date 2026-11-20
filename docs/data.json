@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T09:19:23.195741+00:00",
+  "generated_at": "2026-11-20T09:33:17.713865+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1438,6 +1438,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1448,6 +1452,30 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-20T10:00:00+00:00"
+    },
+    {
+      "title": "「減税以上の値上げが起きる」消費減税めぐる地方公聴会で懸念の声",
+      "link": "https://www.asahi.com/articles/ASVCN2WFBVCNULFA004M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T09:33:13.027380+00:00"
+    },
+    {
+      "title": "公認会計士、14歳が史上最年少で合格　1687人が「狭き門」突破",
+      "link": "https://www.asahi.com/articles/ASVCN30YZVCNULFA00LM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T09:33:13.027341+00:00"
+    },
+    {
+      "title": "｢人を食べそう｣な紫うさぎが圧勝…Suica新キャラ選考でJR東日本が｢高輪ゲートウェイ｣の二の舞を避けた納得のワケ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965500?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "JR東日本の新たなSuicaキャラクターに､紫色の｢毒うさぎ｣がSNSの話題を席巻しながら選ばれました。SNS時代の公募キャラクター人気の新潮流とはーー",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T09:30:00+00:00"
     },
     {
       "title": "人口減少で「戦略庁」創設　自民、政府へ来月提言",
@@ -1472,6 +1500,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-20T09:19:20.224159+00:00"
+    },
+    {
+      "title": "British Bank Backed by Kushner’s Affinity Gets U.S. License",
+      "link": "https://www.wsj.com/economy/central-banking/oaknorth-secures-u-s-federal-reserve-clearance-to-buy-community-unity-bank-58718919?mod=rss_markets_main",
+      "summary": "OakNorth looks across the Atlantic to lend more to growing companies.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T09:18:00+00:00"
     },
     {
       "title": "ツルハHD シンガポール事業撤退",
@@ -3957,6 +3993,14 @@
       "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
       "link": "https://thedataexchange.media/pete-warden-moonshine/",
       "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/\nComments URL: https://news.ycombinator.com/item?id=50561508\nPoints: 122\n# Comments: 99",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-19T15:38:12+00:00"
+    },
+    {
+      "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
+      "link": "https://thedataexchange.media/pete-warden-moonshine/",
+      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/\nComments URL: https://news.ycombinator.com/item?id=50561508\nPoints: 238\n# Comments: 217",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-19T15:38:12+00:00"
