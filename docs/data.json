@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T08:47:40.641622+00:00",
+  "generated_at": "2026-11-20T09:05:50.839443+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1430,6 +1430,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1442,12 +1446,44 @@
       "published": "2026-11-20T10:00:00+00:00"
     },
     {
+      "title": "European Tech Stocks Tumble as AI Selloff Intensifies",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-9-dragged-by-chip-metals-stocks-0601645e?mod=rss_markets_main",
+      "summary": "European AI stocks dropped sharply as a global selloff intensified.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T09:02:00+00:00"
+    },
+    {
+      "title": "【史上最大のIPO】アンソロピック｢13兆円調達｣でスペースX超えだが…時価総額280兆円が激減しうる\"三大リスク\"の正体 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965461?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "人工知能（AI）開発大手･アンソロピックが11月19日､ナスダックに新規株式公開（IPO）を果たしました。調達額は約810億ドル（約13兆円）と､6月に上場したスペースXを超え､史上最大のIPOとな…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T09:00:00+00:00"
+    },
+    {
+      "title": "関税・外国為替等審議会 第70回外国為替等分科会議事録",
+      "link": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-foreign_exchange/proceedings/proceedings/20261118185608.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-20T09:00:00+00:00"
+    },
+    {
       "title": "明治「スーパーカップ」値上げへ",
       "link": "https://news.yahoo.co.jp/pickup/6603309?source=rss",
       "summary": "",
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-20T08:40:19+00:00"
+    },
+    {
+      "title": "White House replaces top cyber security official",
+      "link": "https://www.ft.com/content/6333f2e6-98da-4491-bd2e-30237d7bfbf5?syn-25a6b1a6=1",
+      "summary": "Kirsten Davies joins from the Pentagon to succeed Sean Cairncross after string of online outages",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T08:33:59+00:00"
     },
     {
       "title": "日経平均、3007円安で取引終了　5万6000円台は今年4月以来",
@@ -1909,6 +1945,14 @@
       "title": "Rejoining the EU would boost UK economy twice as much as Swiss-style deal",
       "link": "https://www.ft.com/content/22c052bf-a9dc-49f3-a18b-02b5dc490635?syn-25a6b1a6=1",
       "summary": "Much of the benefit would come from a rebound in business investment, which was damaged by Brexit-related uncertainty",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T05:00:17+00:00"
+    },
+    {
+      "title": "The dangers of Nvidia’s role as AI’s quasi-central bank",
+      "link": "https://www.ft.com/content/c1f1c0d2-466e-46b9-b346-5ce4677c55ea?syn-25a6b1a6=1",
+      "summary": "The chip giant’s position is reminiscent of the insurance company AIG’s before the subprime mortgage bubble",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-20T05:00:17+00:00"
