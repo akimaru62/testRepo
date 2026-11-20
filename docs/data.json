@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T09:33:17.713865+00:00",
+  "generated_at": "2026-11-20T09:48:00.778108+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1442,6 +1442,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1452,6 +1456,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-20T10:00:00+00:00"
+    },
+    {
+      "title": "カット野菜が進化 選ばれる理由",
+      "link": "https://news.yahoo.co.jp/pickup/6603322?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-20T09:43:45+00:00"
+    },
+    {
+      "title": "Nasdaq Set for Fresh Decline as AI Selloff Intensifies",
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-set-for-fresh-decline-as-ai-selloff-intensifies-e974bbb5?mod=rss_markets_main",
+      "summary": "Global stocks sold off and Treasurys strengthened as investor confidence in the AI trade showed signs of cracking.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T09:41:00+00:00"
     },
     {
       "title": "「減税以上の値上げが起きる」消費減税めぐる地方公聴会で懸念の声",
