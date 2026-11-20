@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T23:33:15.091797+00:00",
+  "generated_at": "2026-11-20T23:48:08.666665+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1666,9 +1666,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "36歳男性､資産4000万円を突破も心身に\"強烈な異変\"…仕事も節約も身が入らない｢資産形成燃え尽き症候群｣の実態 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965310?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "資産形成が当たり前となった今､コツコツと努力を重ねて大きな資産を築いた30代にも､予想外の｢燃え尽き症候群｣が忍び寄ります。FIRE熱を追い風に歩んできたAさんが､資産4000万円を達成したその先で…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T23:30:00+00:00"
+    },
     {
       "title": "米主力車「ローグ」３割ＨＶに　エンジン工場投資検討―日産幹部",
       "link": "https://www.jiji.com/jc/article?k=2026112000747&g=int&m=rss",
