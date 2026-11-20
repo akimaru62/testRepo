@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T22:47:25.889492+00:00",
+  "generated_at": "2026-11-20T23:04:44.175835+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1654,9 +1654,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "きっかけはGMO、漏洩対策で通信遮断検討　初会合では慎重論相次ぐ",
+      "link": "https://www.asahi.com/articles/ASVCM4D9VVCMULFA01BM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T23:04:37.950399+00:00"
+    },
+    {
+      "title": "マッチングアプリは\"非モテ男\"を救えなかった…日本の新婚夫婦《4組に1組が年上妻》が象徴する｢日中韓Z世代の恋愛観｣ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964611?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "経済的な不安や価値観の変化により､恋人をつくらない､つくれない若者が日中韓で増加しています。マッチングアプリが普及しているにもかかわらず､出会いの格差や未婚化はむしろ深刻化。その\"現実\"に迫ります。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T23:00:00+00:00"
+    },
+    {
+      "title": "Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street",
+      "link": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90?mod=rss_markets_main",
+      "summary": "A brutal selloff in stocks got worse as the week wore on, and not even the biggest IPO in history could slow it down.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T22:59:00+00:00"
+    },
+    {
+      "title": "スシロー なぜ米国1号店をNYに",
+      "link": "https://news.yahoo.co.jp/pickup/6603357?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-20T22:53:33+00:00"
+    },
+    {
+      "title": "WSJ Dollar Index Rises 0.42% This Week to 98.75",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-38aa30b7?mod=rss_markets_main",
+      "summary": "The WSJ Dollar Index declined 0.1%, snapping a two-trading-day winning streak.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T22:48:00+00:00"
+    },
     {
       "title": "米中首脳、ＡＩ安全策で合意とトランプ氏　軍事利用は人間が判断",
       "link": "https://www.jiji.com/jc/article?k=2026112100136&g=int&m=rss",
@@ -1688,6 +1732,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-20T22:33:07.405685+00:00"
+    },
+    {
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "link": "https://ninlive.com/",
+      "summary": "Article URL: https://ninlive.com/\nComments URL: https://news.ycombinator.com/item?id=50583274\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T22:30:47+00:00"
     },
     {
       "title": "米株式市場急落 ナスダック5%安",
