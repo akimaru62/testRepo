@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T19:04:20.641303+00:00",
+  "generated_at": "2026-11-20T19:17:28.846444+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1594,9 +1594,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "SpaceX’s stock falls back below its IPO price — and Anthropic’s could be next",
+      "link": "https://www.marketwatch.com/story/spacexs-stock-falls-back-below-its-ipo-price-and-anthropics-could-be-next-079d2a4a?mod=mw_rss_topstories",
+      "summary": "Investors may be worried that the “long-feared AI bubble-burst moment” is coming, one expert said.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T19:14:00+00:00"
+    },
+    {
+      "title": "Nvidia’s stock heads for a stretch of weekly losses not seen since 2008",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+      "summary": "One fund manager says the continued uncertainty makes Nvidia “vulnerable” to more selling, even as the company has erased over $900 billion in market value in the past seven days.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T19:04:00+00:00"
+    },
     {
       "title": "Trump is trying to stop Big Tech’s push to build data centers outside the U.S.",
       "link": "https://www.marketwatch.com/story/trump-is-trying-to-stop-big-techs-push-to-build-data-centers-outside-the-u-s-86f32f7f?mod=mw_rss_topstories",
