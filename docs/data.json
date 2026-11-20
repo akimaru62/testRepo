@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T21:32:46.863924+00:00",
+  "generated_at": "2026-11-20T21:47:12.295852+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1634,9 +1634,61 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
+      "link": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
+      "summary": "A looming oversupply problem could weigh on the stock over the next year",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T21:39:00+00:00"
+    },
+    {
+      "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
+      "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
+      "summary": "Cheap valuation multiples for memory stocks have historically been associated with peak pricing levels, according to analysts.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T21:36:00+00:00"
+    },
+    {
+      "title": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year’s peak",
+      "link": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
+      "summary": "Travelers preparing for Thanksgiving trips will find cheaper gasoline prices at the pump after months of elevated fuel prices.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T21:34:00+00:00"
+    },
+    {
+      "title": "アメリカの中間選挙で大きく崩れた｢AI楽観シナリオ｣､今後｢修正すべき重要なポイント｣はどこにあるのか | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965474?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "アメリカ中間選挙で民主党が大躍進し､テキサス州でも歴史的な政権交代が実現。これにより､データセンター建設規制が突然｢今ここ｣での課題へと変わりました。今後のAIやハイテク企業の動向､そして日本企業へ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T21:30:00+00:00"
+    },
+    {
+      "title": "｢1200億円を投じるも経営破綻｣…大阪にある《不遇の高層ビル》が実は超穴場だった！ 55階の展望台に上って驚いたワケ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965104?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2030年､夢洲にカジノを含む日本初の統合リゾートが誕生する一方で､隣接する咲洲は高層ビルがありながらもエリア全体に静けさ漂う独特の雰囲気です。筆者が実際に訪れてみたところ｢意外な穴場｣を見つけまし…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T21:30:00+00:00"
+    },
+    {
+      "title": "｢都市の限界集落？｣｢人口はピーク時の56％に減｣…大阪万博会場のすぐ隣にある《巨大ニュータウン》で見た驚きの光景 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965103?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "大阪湾に面した人工島に､｢ノーカーゾーン｣を設けたユニークな街があります。しかし､人口減少や高齢化が進み｢都市の限界集落｣と呼ばれることも。一体どんな街なのか､筆者が現地を訪ねました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T21:30:00+00:00"
+    },
     {
       "title": "U.S. Stocks Extend Plunge as AI Boom Turns to Bust",
       "link": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-plunge-as-ai-boom-turns-to-bust-a2d324e7?mod=rss_markets_main",
