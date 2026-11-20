@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T13:05:29.913783+00:00",
+  "generated_at": "2026-11-20T13:17:33.229975+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1498,9 +1498,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "【速報】関文科相、他のパーティーにも政府職員",
+      "link": "https://www.jiji.com/jc/article?k=2026112001213&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T13:17:28.112988+00:00"
+    },
+    {
+      "title": "千葉、ダービー制し３連勝　水戸は連敗止める―Ｊリーグ",
+      "link": "https://www.jiji.com/jc/article?k=2026112001207&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T13:17:28.112969+00:00"
+    },
+    {
+      "title": "維新・前原氏「中国の狭量表した」　高市首相への接遇巡り",
+      "link": "https://www.jiji.com/jc/article?k=2026112001181&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T13:17:28.112926+00:00"
+    },
+    {
+      "title": "Burnham’s EU deal in brief",
+      "link": "https://www.ft.com/content/be7924c4-8e29-4630-82f3-f94001765d37?syn-25a6b1a6=1",
+      "summary": "UK prime minister hopes Friday’s agreement is first step in a much closer post-Brexit relationship",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T12:45:08+00:00"
+    },
     {
       "title": "These 5 defense stocks are drawing millions in insider bets ahead of military-spending boom in 2027",
       "link": "https://www.marketwatch.com/story/these-5-defense-stocks-are-drawing-millions-in-insider-bets-ahead-of-military-spending-boom-in-2027-8b3b556b?mod=mw_rss_topstories",
