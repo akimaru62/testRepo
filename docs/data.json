@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T20:33:24.806419+00:00",
+  "generated_at": "2026-11-20T20:47:09.544230+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1618,9 +1618,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "‘GTA 6’ has taken over. Is it too late to buy the developer’s stock?",
+      "link": "https://www.marketwatch.com/story/gta-6-has-taken-over-is-it-too-late-to-buy-the-developers-stock-69a5cbc5?mod=mw_rss_topstories",
+      "summary": "Also in Weekend Reads: Full coverage of the Anthropic IPO, the “death cross” for small-cap stocks and advice from The Moneyist.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T20:32:00+00:00"
+    },
+    {
+      "title": "｢私の言葉を2回繰り返して｣物腰柔らかに精神削る新型カスハラも…役員に\"3分の録音\"を聞かせた『カシオ』の現場改革 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964880?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "暴言や理不尽な要求による｢カスタマーハラスメント｣への対応が企業課題となる中､カシオ計算機は早くから自社独自の対策を進めてきました。現場の声と経営をつなぎ､実際にどのような試行錯誤があったのでしょう…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T20:30:00+00:00"
+    },
+    {
+      "title": "Nvidia accounting under SEC investigation, sources say",
+      "link": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+      "summary": "Article URL: https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html\nComments URL: https://news.ycombinator.com/item?id=50581438\nPoints: 23\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T20:22:41+00:00"
+    },
+    {
+      "title": "Show HN: OpenComputer – an open source alternative to Devin",
+      "link": "https://github.com/diggerhq/opencomputer",
+      "summary": "Hi HN!Utpal here, I'm one of the founders of OpenComputer.OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure).We run the agent harness and the sandbox on the same durable VM (architecture in the docs [1]). First commit lands in 24s; the alternatives we benchmarked took 53-72s (benchmarks below [2]).Two other choices:- One VM per team, scalable horizontally. Sessions are isolated in git worktrees.\n- Session files are backed up to a repo after every turn, so any session can resume on another VM.We noticed that past ~640 session-hours a month, one always-on 4 vCPU VM is cheaper than per-session E2B sandboxes, for example. So at scale, this setup would not only be faster than current SOTA coding agents, but also more cost-efficient.Feel free to try via cloud for free [4] or self host. We would love any and all feedback, and happy to answer any questions! Full demo below [3].[1]: https://docs.opencomputer.dev/getting-started/architecture\n[2]: https://opencomputer.dev/blog/cloud-agents-as-fast-as-local/\n[3]: https://x.com/IgorZIJ/status/2121309785882591711\n[4]: https://app.opencomputer.dev\n\nComments URL: https://news.ycombinator.com/item?id=50581403\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T20:19:56+00:00"
+    },
+    {
+      "title": "Trump considering new Iran strikes as US military warns of strain on forces",
+      "link": "https://www.ft.com/content/2daf570c-189a-4362-a128-828c520b902e",
+      "summary": "Officials say indefinite deployments and potential budget cuts risk eroding readiness if conflict continues into the new year",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T20:19:49+00:00"
+    },
     {
       "title": "Gold Falls to Nearly 15-Month Low On Interest-Rate Expectations",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-falls-weighed-by-elevated-yields-strong-dollar-9ba37905?mod=rss_markets_main",
@@ -1654,6 +1698,14 @@
       "published": "2026-11-20T20:17:43.141529+00:00"
     },
     {
+      "title": "Donald Trump threatens ‘tremendous’ tax on data centres built outside US",
+      "link": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1",
+      "summary": "President says fight is about preventing Beijing from taking the lead in developing AI technology",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T20:17:29+00:00"
+    },
+    {
       "title": "日産｢サクラ｣販売ピークの3分の1でも見えた希望と課題――900人超データで解明｢値引き28万円時代｣の買い手像 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/964972?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "手が届く価格で登場し､｢特別なクルマ｣から｢身近な選択肢｣へ変貌した日産｢サクラ｣。シニア層が中心の購入者像や､補助金と値引きが後押しする市場背景を読み解きながら､サクラがもたらした軽EVの新たな潮…",
@@ -1670,12 +1722,44 @@
       "published": "2026-11-20T20:12:19+00:00"
     },
     {
+      "title": "Combatting Adversarial Distillation",
+      "link": "https://openai.com/index/combatting-adversarial-distillation/",
+      "summary": "Article URL: https://openai.com/index/combatting-adversarial-distillation/\nComments URL: https://news.ycombinator.com/item?id=50581242\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T20:11:14+00:00"
+    },
+    {
+      "title": "And Yet, It Moves",
+      "link": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
+      "summary": "Article URL: https://signoregalilei.com/2026/11/20/and-yet-it-moves/\nComments URL: https://news.ycombinator.com/item?id=50581177\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T20:07:55+00:00"
+    },
+    {
+      "title": "Reverse Engineering my cat's litter box",
+      "link": "https://master--ytulsiani.netlify.app/blog/furrytails/",
+      "summary": "Article URL: https://master--ytulsiani.netlify.app/blog/furrytails/\nComments URL: https://news.ycombinator.com/item?id=50581165\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T20:07:14+00:00"
+    },
+    {
       "title": "The tech wreck is one stock trade Trump can’t ‘TACO’ away",
       "link": "https://www.marketwatch.com/story/the-tech-wreck-is-one-stock-trade-trump-cant-taco-away-516b3883?mod=mw_rss_topstories",
       "summary": "The president threatened to penalize companies that build data centers outside U.S. — but the stock market kept falling.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-20T20:07:00+00:00"
+    },
+    {
+      "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+      "link": "https://scottaaronson.blog/?p=10344",
+      "summary": "Article URL: https://scottaaronson.blog/?p=10344\nComments URL: https://news.ycombinator.com/item?id=50581084\nPoints: 15\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T20:03:07+00:00"
     },
     {
       "title": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
