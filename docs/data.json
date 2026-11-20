@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T08:07:06.000788+00:00",
+  "generated_at": "2026-11-20T08:22:12.549760+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1418,6 +1418,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1428,6 +1432,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-20T10:00:00+00:00"
+    },
+    {
+      "title": "ロシア攻撃で外国大使館被害　窓吹き飛ぶ―ウクライナ首都",
+      "link": "https://www.jiji.com/jc/article?k=2026112000785&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T08:22:09.215267+00:00"
+    },
+    {
+      "title": "【解説動画】「もっと働きたい」はダメ？　変わる「働き方」のルール",
+      "link": "https://www.asahi.com/articles/ASVCB1V8JVCBDIFI00XM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T08:22:08.986909+00:00"
     },
     {
       "title": "Ｈ３打ち上げ、段階的に民間移管　来年１月の１１号機から―情報衛星搭載、三菱重工へ・ＪＡＸＡ",
@@ -1484,6 +1504,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-20T07:51:00+00:00"
+    },
+    {
+      "title": "Burnham to sign EU reset deal in Brussels",
+      "link": "https://www.ft.com/content/8515b514-2067-43eb-a7f5-b5aa20ec4cc3",
+      "summary": "Deal will lead to closer ties including freer trade in food and drink and a youth experience scheme",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T07:49:41+00:00"
     },
     {
       "title": "決済アプリPayどん停止、情報25万件漏れた可能性　鹿児島銀など",
