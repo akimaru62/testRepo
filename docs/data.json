@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T12:47:40.390510+00:00",
+  "generated_at": "2026-11-20T13:05:29.913783+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1494,9 +1494,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "These 5 defense stocks are drawing millions in insider bets ahead of military-spending boom in 2027",
+      "link": "https://www.marketwatch.com/story/these-5-defense-stocks-are-drawing-millions-in-insider-bets-ahead-of-military-spending-boom-in-2027-8b3b556b?mod=mw_rss_topstories",
+      "summary": "U.S. defense spending is projected to be around $1.15 trillion next year, boosting business for companies that make missiles, drones, aircraft and more",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T12:45:00+00:00"
+    },
     {
       "title": "Bank of America strategist warns doom loop could hit stocks with Wall Street underpricing hard-landing risks",
       "link": "https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57?mod=mw_rss_topstories",
@@ -1909,6 +1921,14 @@
       "title": "UK fridges secured from hackers in secret nationwide operation",
       "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
       "summary": "Article URL: https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o\nComments URL: https://news.ycombinator.com/item?id=50572430\nPoints: 10\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T09:52:20+00:00"
+    },
+    {
+      "title": "UK fridges secured from hackers",
+      "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
+      "summary": "https://www.pentestpartners.com/security-blog/the-fridge-hac...\n\nComments URL: https://news.ycombinator.com/item?id=50572430\nPoints: 67\n# Comments: 47",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-20T09:52:20+00:00"
@@ -4608,6 +4628,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-19T15:18:17.851938+00:00"
+    },
+    {
+      "title": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
+      "link": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
+      "summary": "I want to show you HippoMaps. It is a fully featured map and navigation app built on OpenStreetMap with a custom Overpass API engine for really fast search of POIs, areas and ways.My aim with HippoMaps is to get to a level where I don't need Google Maps anymore. The biggest hurdle IMHO with OSM based apps is the lack of nice and fast search (where GMaps excels at). To get there I started working on a deterministic (as in no LLMs used) parser of queries that translates them to the Overpass QL.Search queries are split into tokens and the algorithm tries to guess \"what\" you want to search and \"where\". The former comes from a word list (known brands, sports, OSM tags) and the latter from the geocoder service (Photon).You can get quite creative like \"cafes in Zurich by the Limmat\", \"peaks over 4000 m in Valais\", \"pharmacies open now in Bern\". It's good for discovering hiking trails, e.g. \"hiking trails from Arth-Goldau to Rigi Kulm\". It knows how to find stuff between two places, next to a place, near a place and so on. You can stack those as well like \"bridges over the danube in serbia 50 km from novi sad\".Except the search it has almost all of the features you would expect from a map like turn-by-turn navigation (Valhalla) with voice (Piper), public transport navigation in Europe (MOTIS), live traffic (only a few countries so far).The app is GPL-3.0: https://github.com/cdutsov/hippomapsI'm looking forward to feedback on searches that work or don't work for you + overall comments.\n\nComments URL: https://news.ycombinator.com/item?id=50561199\nPoints: 11\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-19T15:16:02+00:00"
     },
     {
       "title": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence",
