@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T19:33:11.319127+00:00",
+  "generated_at": "2026-11-20T19:47:45.479448+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1602,9 +1602,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Stocks could face a ‘doom loop’ if Wall Street underestimates the risk of an economic downturn, strategist warns",
+      "link": "https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57?mod=mw_rss_topstories",
+      "summary": "The S&amp;P 500 is nearing a level worth buying if the U.S. avoids a recession, but one strategist warns Wall Street is underpricing the hard-landing risk as he said investors should wait before buying risky assets.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T19:43:00+00:00"
+    },
     {
       "title": "Alphabet just overtook Nvidia in market value for the first time in over 2 years",
       "link": "https://www.marketwatch.com/story/alphabet-just-overtook-nvidia-in-market-value-for-the-first-time-in-over-2-years-23e296ee?mod=mw_rss_topstories",
@@ -1644,6 +1656,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-20T19:04:00+00:00"
+    },
+    {
+      "title": "’Tis the season to be grateful to China",
+      "link": "https://www.ft.com/content/3f972ef6-f945-4139-a2d0-124a5bfdf71e?syn-25a6b1a6=1",
+      "summary": "Forget the harrumphing Scrooges at COP — no other country is doing more for the climate",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T18:57:07+00:00"
     },
     {
       "title": "Trump is trying to stop Big Tech’s push to build data centers outside the U.S.",
@@ -2073,6 +2093,14 @@
       "title": "US tech rout deepens as Anthropic shares tumble",
       "link": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
       "summary": "Investors rush for havens as AI-linked stocks endure heavy wave of selling",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T14:01:58+00:00"
+    },
+    {
+      "title": "US tech stocks plummet as AI trade unravels",
+      "link": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
+      "summary": "Investors rush for havens as heavy selling sweeps Wall Street",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-20T14:01:58+00:00"
