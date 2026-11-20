@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T11:47:19.127988+00:00",
+  "generated_at": "2026-11-20T12:07:30.968028+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1478,9 +1478,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "投資信託で75億円の売却損、組合員8万人の配当は見送り　JAさが",
+      "link": "https://www.asahi.com/articles/ASVCN3Q3YVCNTTHB002M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T12:07:25.958052+00:00"
+    },
+    {
+      "title": "Citi warns a key stock-market signal is close to flashing red",
+      "link": "https://www.marketwatch.com/story/citi-warns-a-key-stock-market-signal-is-close-to-flashing-red-5cbee1c3?mod=mw_rss_topstories",
+      "summary": "Having turned risk averse more than a month ago, Citi strategists find no compelling reason to go more positive risk assets yet, despite the steep decline. If sentiment deteriorates further, buying long-duration bonds is the answer, they say.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T11:45:00+00:00"
+    },
     {
       "title": "Gold, Silver Drop to Lowest Levels in Over a Year",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-silver-drop-to-lowest-levels-in-over-a-year-c657402c?mod=rss_markets_main",
@@ -1877,6 +1897,14 @@
       "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars",
       "link": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
       "summary": "Article URL: https://ecohustler.com/article/one-corporation-to-pollute-them-all/\nComments URL: https://news.ycombinator.com/item?id=50572116\nPoints: 9\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T09:13:09+00:00"
+    },
+    {
+      "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
+      "link": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
+      "summary": "Article URL: https://ecohustler.com/article/one-corporation-to-pollute-them-all/\nComments URL: https://news.ycombinator.com/item?id=50572116\nPoints: 118\n# Comments: 60",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-20T09:13:09+00:00"
