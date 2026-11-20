@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T10:05:30.232148+00:00",
+  "generated_at": "2026-11-20T10:17:43.890592+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1450,9 +1450,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "参政、国政選挙の立候補者「帰化歴」開示へ法案　二重国籍者の出馬禁止",
+      "link": "https://www.jiji.com/jc/article?k=2026112000900&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T10:17:39.405833+00:00"
+    },
+    {
+      "title": "陰謀論扱うユーチューバー起用「説明を」　政府広報で民主改革代表",
+      "link": "https://www.jiji.com/jc/article?k=2026112000946&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T10:17:39.405791+00:00"
+    },
+    {
+      "title": "Stock Market Today: Anthropic Stock Drops as Tech Rout Intensifies",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026?mod=rss_markets_main",
+      "summary": "S&amp;P 500 heads for longest losing streak since 2020",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T10:08:25+00:00"
+    },
+    {
+      "title": "Here’s what happened next after previous times the S&P 500 losing streak reached six sessions",
+      "link": "https://www.marketwatch.com/story/heres-what-happened-next-after-previous-times-the-s-p-500-losing-streak-reached-six-sessions-13ff7704?mod=mw_rss_topstories",
+      "summary": "For markets, it’s been a week from hell — or, more accurately, the worst stretch for the S&amp;P 500 since the “Liberation Day” tariffs of 2025 — but the history of six-session losing streaks actually points to some better news ahead.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T10:08:00+00:00"
+    },
     {
       "title": "How Bear Grylls lived in the harsh conditions of his own home on an abandoned island with ‘no power, no water, no roof’",
       "link": "https://www.marketwatch.com/story/how-bear-grylls-lived-in-the-harsh-conditions-of-his-own-home-on-an-abandoned-island-with-no-power-no-water-no-roof-8c3e17c4?mod=mw_rss_topstories",
@@ -1524,6 +1560,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-20T09:24:53+00:00"
+    },
+    {
+      "title": "政府システムで「個人情報」漏えいか　7月から“非正規のアクセス”――デジタル庁の説明は？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/20/news065.html",
+      "summary": "政府のデジタル基盤「GSS」で共有していた業務ファイルが漏えいした可能性がある。デジタル庁は、個人情報が含まれている可能性があるとして、経緯を説明した。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T09:20:00+00:00"
     },
     {
       "title": "人口減少で「戦略庁」創設　自民、政府へ来月提言",
