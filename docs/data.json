@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T03:19:51.736518+00:00",
+  "generated_at": "2026-11-20T03:33:02.694510+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1342,6 +1342,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1352,6 +1356,30 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-20T10:00:00+00:00"
+    },
+    {
+      "title": "【まとめてわかる】どうなる働き方　労基法の改正議論のポイント解説",
+      "link": "https://www.asahi.com/articles/ASVCN04JDVCNULFA01VM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T03:32:58.015245+00:00"
+    },
+    {
+      "title": "国庫短期証券（第1421回）の入札結果",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/resul20261120.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-20T03:30:00+00:00"
+    },
+    {
+      "title": "GMO会見なぜ炎上 識者の指摘3点",
+      "link": "https://news.yahoo.co.jp/pickup/6603273?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-20T03:29:11+00:00"
     },
     {
       "title": "自民「人口減少踏まえ必要」　定数削減法案、衆院委で質疑",
@@ -1368,6 +1396,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-20T03:19:46.703283+00:00"
+    },
+    {
+      "title": "東海道新幹線 1日で最多504本運行",
+      "link": "https://news.yahoo.co.jp/pickup/6603269?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-20T03:19:25+00:00"
     },
     {
       "title": "BCPだけでなかった、早期復旧のカギ　被災した半導体企業の教訓",
