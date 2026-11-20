@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T22:05:04.244812+00:00",
+  "generated_at": "2026-11-20T22:17:26.305054+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1642,9 +1642,61 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "会期延長で交渉正念場　脱化石燃料で調整難航―ＣＯＰ３１",
+      "link": "https://www.jiji.com/jc/article?k=2026112100170&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T22:17:20.737324+00:00"
+    },
+    {
+      "title": "久石譲さんに名誉学位　日本人初、「卓越した貢献」―英王立音楽大",
+      "link": "https://www.jiji.com/jc/article?k=2026112100140&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T22:17:20.737304+00:00"
+    },
+    {
+      "title": "米ナスダック、５％急落　ＡＩ不安、ダウも大幅安",
+      "link": "https://www.jiji.com/jc/article?k=2026112100165&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T22:17:20.737261+00:00"
+    },
+    {
+      "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
+      "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
+      "summary": "All 11 S&amp;P 500 sectors finished more than 1% lower this week for the first time since April 2025.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T22:12:00+00:00"
+    },
+    {
+      "title": "Oil Futures Post Weekly Losses on Rising Middle East Supply",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-middle-east-tensions-cdf9de83?mod=rss_markets_main",
+      "summary": "Crude futures fell for a third straight week as increasing supply out of the Middle East outweighed concerns about continuing strikes across the region.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T22:09:00+00:00"
+    },
+    {
+      "title": "U.S. Natural Gas Futures Rise With Support From LNG Exports",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-edge-up-in-early-trading-2b513864?mod=rss_markets_main",
+      "summary": "U.S. natural gas futures recovered from the previous day’s losses and settled at the highest level since early February.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T22:04:00+00:00"
+    },
     {
       "title": "\"DX化\"なのに客が人数分の注文を暗記…コメダ珈琲店が板橋にオープン｢省人化店舗｣開業1カ月も続く\"困惑の光景\" | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965473?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -1662,12 +1714,28 @@
       "published": "2026-11-20T22:00:00+00:00"
     },
     {
+      "title": "Nvidia faces US regulator’s probe into its accounting",
+      "link": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1",
+      "summary": "Securities and Exchange Commission’s investigation adds to difficulties facing chip group after Jensen Huang’s resignation",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T21:58:08+00:00"
+    },
+    {
       "title": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
       "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
       "summary": "One fund manager says the continued uncertainty makes Nvidia vulnerable to more selling, even as the stock has erased $1.16 trillion in market value in the past seven trading sessions.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-20T21:58:00+00:00"
+    },
+    {
+      "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
+      "link": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
+      "summary": "Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Street",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T21:52:25+00:00"
     },
     {
       "title": "Nasdaq Turns Red For The Year",
@@ -1684,6 +1752,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-20T21:45:00+00:00"
+    },
+    {
+      "title": "A few hours ago Google DeepMind created a math horizon repo",
+      "link": "https://github.com/google-deepmind/math-horizon",
+      "summary": "Article URL: https://github.com/google-deepmind/math-horizon\nComments URL: https://news.ycombinator.com/item?id=50582629\nPoints: 3\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T21:42:21+00:00"
     },
     {
       "title": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
@@ -2559,6 +2635,14 @@
     },
     {
       "title": "US tech stocks plummet as AI trade unravels",
+      "link": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
+      "summary": "Investors rush for havens as heavy selling sweeps Wall Street",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T14:01:58+00:00"
+    },
+    {
+      "title": "Anthropic shares drop 9% a day after blockbuster market debut",
       "link": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
       "summary": "Investors rush for havens as heavy selling sweeps Wall Street",
       "source": "Financial Times",
