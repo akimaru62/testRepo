@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T04:06:05.142484+00:00",
+  "generated_at": "2026-11-20T04:20:19.979688+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1354,6 +1354,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1364,6 +1368,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-20T10:00:00+00:00"
+    },
+    {
+      "title": "Asian Equities Fall as Anthropic’s IPO Fails to Staunch AI Stock Selloff",
+      "link": "https://www.wsj.com/finance/investing/asian-equities-fall-as-anthropics-ipo-fails-to-staunch-ai-stock-selloff-c47592b0?mod=rss_markets_main",
+      "summary": "Asian equities fell Friday morning as Anthropic’s blockbuster initial public offering failed to staunch the selloff in artificial intelligence stocks.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T04:15:00+00:00"
     },
     {
       "title": "日陰を集める遊びが､街を変える？　近視を抑えるために｢外で過ごす時間を増やす｣という新発想とは？ | キャリア・教育 | 東洋経済オンライン",
@@ -1380,6 +1392,14 @@
       "source": "日本銀行",
       "category": "公的機関",
       "published": "2026-11-20T04:00:00+00:00"
+    },
+    {
+      "title": "Tech stocks fall as Anthropic IPO fails to stem broader AI sell-off",
+      "link": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
+      "summary": "Asian markets follow Wall Street lower despite Claude AI maker’s record listing",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T03:51:30+00:00"
     },
     {
       "title": "中小向けの二大租特「効果ない」　維新が廃止方針　自民と議論へ",
