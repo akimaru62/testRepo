@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T05:47:35.320225+00:00",
+  "generated_at": "2026-11-20T06:08:46.042694+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1382,6 +1382,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1392,6 +1396,70 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-20T10:00:00+00:00"
+    },
+    {
+      "title": "決済アプリPayどん停止、個人情報25万件流出か　鹿児島銀など",
+      "link": "https://www.asahi.com/articles/ASVCN1JSLVCNTLTB005M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T06:08:39.803088+00:00"
+    },
+    {
+      "title": "日経平均、一時3000円超安　アンソロピック上場もAI市場に懸念",
+      "link": "https://www.asahi.com/articles/ASVCN053QVCNULFA002M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T06:08:39.803052+00:00"
+    },
+    {
+      "title": "Yen Strengthens as Risk Aversion Takes Hold",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-be-weighed-by-risk-off-sentiment-38aa30b7?mod=rss_markets_main",
+      "summary": "The yen strengthened against other G-10 and Asian currencies as risk aversion takes hold, StoneX said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T06:05:00+00:00"
+    },
+    {
+      "title": "｢高校生の門限レベル｣と批判殺到も…NHKの｢飲み会22時まで｣通達を叩く\"ネット世論\"に欠けた《本質的な視点》 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965498?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "NHKが発表した\"飲酒を伴う会食\"の行動指針が世間の大きな議論を呼んでいます。不祥事を背景に､22時ルールの導入やガイドライン化が発表される一方､SNSでは｢制限より本質的対策を｣と批判も噴出。はた…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T06:00:00+00:00"
+    },
+    {
+      "title": "中国\"冷遇\"に垣間見えた習近平の｢ツンデレ｣は何を意味するのか？ 台湾有事発言から1年経過で試される高市首相の\"度量\" | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965477?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "中国･深圳でAPEC首脳会議に臨んだ高市首相。空港などでの冷遇ぶりがセンセーショナルに報道されましたが､一方で中国側には微妙な態度の変化も見られました。関係改善の糸口は見つかるのか､高市首相の決断が…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T06:00:00+00:00"
+    },
+    {
+      "title": "国庫歳入歳出状況（令和8年度　令和8年9月分）",
+      "link": "https://www.mof.go.jp/insideLink/20261112152637.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-20T06:00:00+00:00"
+    },
+    {
+      "title": "日経平均 一時3000円以上の下落",
+      "link": "https://news.yahoo.co.jp/pickup/6603288?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-20T05:58:26+00:00"
+    },
+    {
+      "title": "China revels in Xi’s high-stakes bet on ‘Yalta 2.0’",
+      "link": "https://www.ft.com/content/c1c540af-f9ba-479a-8473-4b7619859453?syn-25a6b1a6=1",
+      "summary": "Trilateral summit with Donald Trump and Vladimir Putin projected Beijing’s global leadership role, analysts say",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T05:45:11+00:00"
     },
     {
       "title": "Asian Equities Tumble as AI Stock Selloff Deepens",
@@ -1408,6 +1476,22 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-20T05:22:50+00:00"
+    },
+    {
+      "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+      "link": "https://grapheneos.social/@GrapheneOS/117645038299496084",
+      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117645038299496084\nComments URL: https://news.ycombinator.com/item?id=50570479\nPoints: 35\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T05:21:02+00:00"
+    },
+    {
+      "title": "So, Anthropic is finally a public company. What now?",
+      "link": "https://www.ft.com/content/017044a9-76dc-4cb4-9259-a844a96f2757",
+      "summary": "A blockbuster IPO postmortem",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T05:19:35+00:00"
     },
     {
       "title": "三菱重工に段階的移管　Ｈ３ロケット打ち上げ業務",
