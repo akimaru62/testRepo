@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T13:33:23.387850+00:00",
+  "generated_at": "2026-11-20T13:47:33.366445+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1506,6 +1506,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1516,6 +1520,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-20T13:33:16.433349+00:00"
+    },
+    {
+      "title": "Anthropic shares slide 10% as fears over AI boom dominate",
+      "link": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
+      "summary": "Blockbuster debut from developer of Claude fails to ease concerns over historic AI capex spending",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-20T13:29:02+00:00"
     },
     {
       "title": "Anthropic’s stock slides closer to IPO price and drags down the AI trade",
@@ -4100,6 +4112,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-19T20:22:00+00:00"
+    },
+    {
+      "title": "Tubemap Mark Two: A geographically-accurate diagram of the London Underground",
+      "link": "https://www.marknoaddesign.co.uk/london-tube-map",
+      "summary": "Article URL: https://www.marknoaddesign.co.uk/london-tube-map\nComments URL: https://news.ycombinator.com/item?id=50565788\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-19T20:21:15+00:00"
     },
     {
       "title": "パーティーの官僚出席、２回のみ　関文科相、参加企業の公表拒否―参院委",
