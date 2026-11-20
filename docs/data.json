@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T10:17:43.890592+00:00",
+  "generated_at": "2026-11-20T10:33:15.135290+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1454,9 +1454,61 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "ユーチューバー起用「受け狙い」　政府広報、野党が問題視",
+      "link": "https://www.jiji.com/jc/article?k=2026112000946&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-20T10:33:10.554404+00:00"
+    },
+    {
+      "title": "麻生コンクリート　無届けで汚水処理変更、工場外排出　県が立ち入り",
+      "link": "https://www.asahi.com/articles/ASVCN32W3VCNTIPE00WM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T10:33:10.375012+00:00"
+    },
+    {
+      "title": "ハウス食品Gの「ココイチ」売却で、米ファンドのKKRに優先交渉権",
+      "link": "https://www.asahi.com/articles/ASVCN3660VCNPLFA003M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T10:33:10.374997+00:00"
+    },
+    {
+      "title": "太平洋クロマグロ、大型魚の枠は25%増　協議延長の末、韓国と合意",
+      "link": "https://www.asahi.com/articles/ASVCN3C5YVCNULFA01RM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-20T10:33:10.374962+00:00"
+    },
+    {
+      "title": "Anthropic Shares Are a Rational Bet on the Next Phase of AI",
+      "link": "https://www.wsj.com/tech/ai/anthropic-shares-are-a-rational-bet-on-the-next-phase-of-ai-a748dba3?mod=rss_markets_main",
+      "summary": "The artificial-intelligence boom’s profits today go mostly to picks and shovels, but that will shift.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-20T10:30:00+00:00"
+    },
+    {
+      "title": "財務省再生プロジェクトについて",
+      "link": "https://www.mof.go.jp/about_mof/saisei/index.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-20T10:24:00+00:00"
+    },
     {
       "title": "参政、国政選挙の立候補者「帰化歴」開示へ法案　二重国籍者の出馬禁止",
       "link": "https://www.jiji.com/jc/article?k=2026112000900&g=pol&m=rss",
@@ -1472,6 +1524,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-20T10:17:39.405791+00:00"
+    },
+    {
+      "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
+      "link": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
+      "summary": "“We have $2.9 million in retirement accounts and a paid-off house worth $900,000.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-20T10:15:00+00:00"
     },
     {
       "title": "Stock Market Today: Anthropic Stock Drops as Tech Rout Intensifies",
@@ -1490,6 +1550,14 @@
       "published": "2026-11-20T10:08:00+00:00"
     },
     {
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "link": "https://architectlabs.com/blog/frostbite",
+      "summary": "Article URL: https://architectlabs.com/blog/frostbite\nComments URL: https://news.ycombinator.com/item?id=50572503\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T10:01:41+00:00"
+    },
+    {
       "title": "How Bear Grylls lived in the harsh conditions of his own home on an abandoned island with ‘no power, no water, no roof’",
       "link": "https://www.marketwatch.com/story/how-bear-grylls-lived-in-the-harsh-conditions-of-his-own-home-on-an-abandoned-island-with-no-power-no-water-no-roof-8c3e17c4?mod=mw_rss_topstories",
       "summary": "Bear Grylls made an unusual choice with his wife, Shara Grylls decades ago—buying a starter home on an abandoned island instead of a London flat.",
@@ -1506,12 +1574,28 @@
       "published": "2026-11-20T10:00:00+00:00"
     },
     {
+      "title": "​​【業界再編】ANAがエア・ドゥ&ソラシド完全子会社化の意味／JALと連携で便数調整の可能性も？／半導体関連も運ぶ航空貨物を強化／国内線の値上げは今年一気に進捗／批判受けた“サービス劣化”業績影響は | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965550?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ANAホールディングス（HD）が10月29日、エア・ドゥ（AIRDO）、ソラシドエアを傘下に収めるリージョナルプラスウイングス（RPW）を完全子会社化する方針を発表した。その背景には何があったのか…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T10:00:00+00:00"
+    },
+    {
       "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年11月20日(金曜日))",
       "link": "https://www.mof.go.jp/public_relations/conference/my20261120.html",
       "summary": "",
       "source": "財務省",
       "category": "公的機関",
       "published": "2026-11-20T09:55:00+00:00"
+    },
+    {
+      "title": "UK fridges secured from hackers in secret nationwide operation",
+      "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o\nComments URL: https://news.ycombinator.com/item?id=50572430\nPoints: 10\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T09:52:20+00:00"
     },
     {
       "title": "カット野菜が進化 選ばれる理由",
