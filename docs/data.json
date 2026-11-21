@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T13:47:44.016559+00:00",
+  "generated_at": "2026-11-21T14:04:55.135000+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1902,9 +1902,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices just yet",
+      "link": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_rss_topstories",
+      "summary": "Walmart, Target and Amazon are some of the retailers offering meal-basket deals this year.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-21T14:00:00+00:00"
+    },
     {
       "title": "Nvidia’s nonstop drama is keeping buyers away from a historically cheap stock",
       "link": "https://www.marketwatch.com/story/nvidias-nonstop-drama-is-keeping-buyers-away-from-a-historically-cheap-stock-604022da?mod=mw_rss_topstories",
@@ -1912,6 +1924,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-21T13:30:00+00:00"
+    },
+    {
+      "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+      "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really\nComments URL: https://news.ycombinator.com/item?id=50588982\nPoints: 11\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-21T13:23:14+00:00"
     },
     {
       "title": "変わらぬ心で大関撃破　若元春、トップ譲らず千秋楽へ―大相撲九州場所",
