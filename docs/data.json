@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T11:03:58.241967+00:00",
+  "generated_at": "2026-11-21T11:17:41.253221+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1858,9 +1858,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "支度部屋　大相撲九州場所",
+      "link": "https://www.jiji.com/jc/article?k=2026112100426&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T11:17:35.958873+00:00"
+    },
+    {
+      "title": "大の里と若元春、トップ譲らず　１差に熱海富士―大相撲九州場所１４日目",
+      "link": "https://www.jiji.com/jc/article?k=2026112100415&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T11:17:35.958855+00:00"
+    },
+    {
+      "title": "稲川くるみ、女子５００で６位　Ｗ杯スケート・第２戦",
+      "link": "https://www.jiji.com/jc/article?k=2026112100424&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T11:17:35.958842+00:00"
+    },
+    {
+      "title": "横浜、京都国際が４強入り　筑波大と仙台大も準決勝へ―明治神宮野球大会",
+      "link": "https://www.jiji.com/jc/article?k=2026112100392&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T11:17:35.958806+00:00"
+    },
     {
       "title": "密造酒で中毒、１５人死亡　インド",
       "link": "https://www.jiji.com/jc/article?k=2026112100411&g=int&m=rss",
