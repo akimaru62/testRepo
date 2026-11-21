@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T01:06:00.931693+00:00",
+  "generated_at": "2026-11-21T01:17:53.898324+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1690,9 +1690,61 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "友野一希「いい演技」　フィギュアＧＰ",
+      "link": "https://www.jiji.com/jc/article?k=2026112100267&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T01:17:48.893219+00:00"
+    },
+    {
+      "title": "米アンソロピック、ＩＰＯ調達額が史上最大に　スペースＸ上回る",
+      "link": "https://www.jiji.com/jc/article?k=2026112100240&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T01:17:48.893207+00:00"
+    },
+    {
+      "title": "渦中女性、中国軍事企業とつながりか　エヌビディア前ＣＥＯ不倫問題",
+      "link": "https://www.jiji.com/jc/article?k=2026112100265&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T01:17:48.893199+00:00"
+    },
+    {
+      "title": "再び全候補に常任理事国の不支持　次期国連総長、年内選出不透明",
+      "link": "https://www.jiji.com/jc/article?k=2026112100244&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T01:17:48.893168+00:00"
+    },
+    {
+      "title": "「学園前ヒルズ」　計画人口2千人超　大規模マンションに戸建ても",
+      "link": "https://www.asahi.com/articles/ASVCN31H5VCNPOMB00RM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-21T01:17:48.613447+00:00"
+    },
+    {
+      "title": "\"成功の代名詞\"Netflixでさえ株価が一時7割下落した…それでも世界の巨大企業がこぞって\"サブスク\"に賭ける理由 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963209?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "音楽や動画､クラウドサービスまで､現代ビジネスは｢サブスク｣が主流。しかし､巨額投資も収益化も､すべては会員数のスケール次第です。GAFAMやウォルマートがなぜ継続課金に集中するのか､そこにある落と…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-21T01:00:00+00:00"
+    },
     {
       "title": "3万円超シャワーヘッド 売れる訳",
       "link": "https://news.yahoo.co.jp/pickup/6603374?source=rss",
