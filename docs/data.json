@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T12:33:14.289228+00:00",
+  "generated_at": "2026-11-21T12:47:38.973192+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1882,6 +1882,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1916,6 +1920,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-21T12:21:57.725052+00:00"
+    },
+    {
+      "title": "Adult-only households accounted for 55% of toy sales in the first half of 2026",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic\nComments URL: https://news.ycombinator.com/item?id=50588436\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-21T12:15:41+00:00"
     },
     {
       "title": "自民幹事長、関氏交代を示唆　法案最優先「阻害要因なくす」",
