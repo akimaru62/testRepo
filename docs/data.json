@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T17:17:37.245142+00:00",
+  "generated_at": "2026-11-21T17:33:09.211493+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1958,9 +1958,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "PostgreSQL Extensions in Go",
+      "link": "https://jespino.github.io/gopgext/",
+      "summary": "Article URL: https://jespino.github.io/gopgext/\nComments URL: https://news.ycombinator.com/item?id=50591260\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-21T17:08:04+00:00"
+    },
     {
       "title": "Alice Huang’s links to the chip underworld",
       "link": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1",
