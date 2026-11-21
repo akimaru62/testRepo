@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T21:04:26.090759+00:00",
+  "generated_at": "2026-11-21T21:17:55.299713+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2018,9 +2018,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "首相動静（１１月２１日）",
+      "link": "https://www.jiji.com/jc/article?k=2026112100230&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T21:17:51.180120+00:00"
+    },
+    {
+      "title": "玉木氏、関文科相は「問責に値」",
+      "link": "https://www.jiji.com/jc/article?k=2026112200094&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T21:17:51.180091+00:00"
+    },
+    {
+      "title": "「オープンAIの文化壊れてた」　暴走止められず、辞めた社員の告白",
+      "link": "https://www.asahi.com/articles/ASVCP2J36VCPUHBI020M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-21T21:17:50.842045+00:00"
+    },
+    {
+      "title": "まだ東京にこんな場所が…23区なのに2DKが10万円台～､朝市を守り抜く\"ある街\"の正体　｢続けているのは､意地です｣ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965336?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢住みたい街ランキング｣常連ではなくとも､実際に住んでみるとちょっといい——商店街のにぎわい､職人や地元店主たちの物語､リーズナブルな家賃まで徹底取材。暮らしの裏側にある人と街の温もり､その魅力に迫…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-21T21:05:00+00:00"
+    },
     {
       "title": "〈売りの号砲が鳴った〉アンソロピックは初値から真っ逆さまに落ちてゆく…｢夢見る自転車操業｣のAI循環投資にブレーキ | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965573?utm_source=rss&utm_medium=http&utm_campaign=link_back",
