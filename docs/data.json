@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T06:47:51.116109+00:00",
+  "generated_at": "2026-11-21T07:05:24.271492+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1790,6 +1790,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1866,12 +1870,36 @@
       "published": "2026-11-21T05:00:35+00:00"
     },
     {
+      "title": "CVC claims accounting manipulation in €3bn Advent pastry ingredients deal",
+      "link": "https://www.ft.com/content/06999b01-07f1-44a1-8eab-a5d5e7ecd70f?syn-25a6b1a6=1",
+      "summary": "US firm denies allegations that Irca’s financial performance was overstated before it agreed to sell Italian business",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-21T05:00:26+00:00"
+    },
+    {
       "title": "The AI cyber threat is already here",
       "link": "https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?syn-25a6b1a6=1",
       "summary": "The freezer war is just a start",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-21T05:00:16+00:00"
+    },
+    {
+      "title": "Russia and Ukraine’s drone war sends optical fibre prices soaring",
+      "link": "https://www.ft.com/content/339c3a72-bce5-44ed-bc6c-c8a8199cfb40?syn-25a6b1a6=1",
+      "summary": "Kyiv’s drone advantage is threatened by sixfold price surge in key anti-jamming commodity",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-21T05:00:08+00:00"
+    },
+    {
+      "title": "Builders bet on €620bn defence infrastructure boom in Europe",
+      "link": "https://www.ft.com/content/b647fcba-e5e6-4ca2-8417-8c9146eac39e?syn-25a6b1a6=1",
+      "summary": "Construction companies target military projects to develop bases, airports and bridges in bid to offset weak residential market",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-21T05:00:07+00:00"
     },
     {
       "title": "腹ゴロゴロしにくい? A2牛乳とは",
@@ -1893,6 +1921,14 @@
       "title": "BlackBlaze now explicitly states selling your data for advertisement",
       "link": "https://www.backblaze.com/company/policy/privacy",
       "summary": "Article URL: https://www.backblaze.com/company/policy/privacy\nComments URL: https://news.ycombinator.com/item?id=50585593\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-21T03:23:16+00:00"
+    },
+    {
+      "title": "Backblaze Notice at Collection and Privacy Policy",
+      "link": "https://www.backblaze.com/company/policy/privacy",
+      "summary": "Article URL: https://www.backblaze.com/company/policy/privacy\nComments URL: https://news.ycombinator.com/item?id=50585593\nPoints: 150\n# Comments: 45",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-21T03:23:16+00:00"
