@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T17:04:12.435484+00:00",
+  "generated_at": "2026-11-21T17:17:37.245142+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1954,9 +1954,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Alice Huang’s links to the chip underworld",
+      "link": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1",
+      "summary": "Chinese executive romantically linked to former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-21T17:00:10+00:00"
+    },
     {
       "title": "What It’s Like to Retire in Thailand",
       "link": "https://www.wsj.com/personal-finance/retirement/retire-in-thailand-6853f4a7?mod=rss_markets_main",
@@ -2476,6 +2488,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-21T04:00:00+00:00"
+    },
+    {
+      "title": "Nvidia affair puts Chinese spies in spotlight",
+      "link": "https://www.ft.com/content/77a283dd-b7af-4e72-8d83-9b53ab86f3e0?syn-25a6b1a6=1",
+      "summary": "Western officials and analysts say China’s Ministry of State Security is formidable in scale and technological capability",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-21T03:58:46+00:00"
     },
     {
       "title": "BlackBlaze now explicitly states selling your data for advertisement",
