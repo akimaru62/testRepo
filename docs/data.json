@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T20:47:45.010951+00:00",
+  "generated_at": "2026-11-21T21:04:26.090759+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2014,9 +2014,69 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "〈売りの号砲が鳴った〉アンソロピックは初値から真っ逆さまに落ちてゆく…｢夢見る自転車操業｣のAI循環投資にブレーキ | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965573?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "AIバブルがついに崩壊を迎えた今､市場の専門家たちの楽観論は説得力を失いました。アンソロピック上場を合図に､個人投資家のセンチメントは一気に崩壊。下落は一時的な調整なのか､それとも実体経済をも揺るが…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-21T21:00:00+00:00"
+    },
+    {
+      "title": "アメリカ｢AI投資の変調｣はアジアにどう波及するか　韓国は株価急落､中国の輸出にも下押し圧力､台湾は… | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965400?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "アメリカ中間選挙での民主党の大勝を受け､急拡大を続けてきたAI開発やデータセンター建設への投資が調整期を迎えるのではないかという懸念が高まっています。AIブームの恩恵に浴してきたアジア諸国にとっても…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-21T21:00:00+00:00"
+    },
+    {
+      "title": "20代で年収1000万円超､｢大学に行く必要はない｣と思っていたモデルの彼女が38歳で中央大法学部に入った理由 | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965222?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "10代で海外へ飛び立ち､モデルとして成功を収めたMANAMIさん。一方､38歳で中央大学法学部通信課程に入学し､40歳で同大学の通学課程3年次に転籍。42歳で卒業するまでの挑戦は､キャリア､学び､そ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-21T21:00:00+00:00"
+    },
+    {
+      "title": "傷は直視しなければ｢過去｣にはならない…インドネシア残留日本兵の孫がたどりついた真実『ロンガの海』監督に聞く | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964765?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "戦後､インドネシアに残留して独立戦争に参加した日本兵･黒岩通。その孫が祖父の足跡をたどるドキュメンタリー映画『ロンガの海』。小西晴子監督に聞きました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-21T20:50:00+00:00"
+    },
+    {
+      "title": "｢選択的シングルマザー｣という生き方…経済不安でも､泣いてしまうことがあっても､それでも子どもが欲しかった | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964633?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "近年増加する｢選択的シングルマザー｣。配偶者を持たず自分の意志で母となる女性たちは､どのような背景や覚悟､困難を抱えながら新しい家族の形を築いているのでしょうか。命懸けの出産や育児の現実､彼女たちの…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-21T20:50:00+00:00"
+    },
+    {
+      "title": "｢日本のアイドル文化を世界に｣ …女性アイドル特化型ファッションショーの仕掛け人が描く青写真 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963580?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "アイドルと言えば歌とダンス。だが、去る9月20日、横浜アリーナに集まった約1万1000人（主催者発表）のお目当ては、歌やダンスだけではなかった。この日行われたのは、女性アイドルに特化したファッション…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-21T20:50:00+00:00"
+    },
+    {
+      "title": "コンビニおにぎり離れの時代になぜ…｢コメダ珈琲店｣の会社が｢おかげ庵｣からスピンオフさせた\"おむすび専門店\"の実態 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964856?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "コンビニのおにぎりが高騰する今､｢コメダ珈琲店｣発の新ブランド｢おむすび 米屋の太郎｣が注目を集めています。その実態とは…？",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-21T20:45:00+00:00"
+    },
     {
       "title": "気長に待つか､入手性を優先するか…22年以上の長寿モデル､トヨタ｢ハイエース｣を買うならどのグレードが最適解？ | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/964873?utm_source=rss&utm_medium=http&utm_campaign=link_back",
