@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T05:17:28.354516+00:00",
+  "generated_at": "2026-11-21T05:33:14.635195+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1766,9 +1766,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Sam Houser, the Rockstar gamer behind ‘Grand Theft Auto’",
+      "link": "https://www.ft.com/content/3333e0cf-c3d8-4836-92c7-a84878e802a3?syn-25a6b1a6=1",
+      "summary": "With ‘GTA VI’, his franchise has set a new record in global entertainment",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-21T05:00:45+00:00"
+    },
+    {
+      "title": "The manufacturing of novelty",
+      "link": "https://www.ft.com/content/99711b1a-3e54-4349-9c81-769cf7c96b97?syn-25a6b1a6=1",
+      "summary": "Polyamory, effective altruism, demand avoidance — a stagnant society is giving new names to old things",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-21T05:00:36+00:00"
+    },
+    {
+      "title": "Oil shipped through Hormuz falls as Iranian strikes increase",
+      "link": "https://www.ft.com/content/5fbc2b9d-0360-4a1f-9e4a-3e86168cbbc5?syn-25a6b1a6=1",
+      "summary": "Recovery in Middle Eastern crude exports looks ‘increasingly fragile’, analyst says",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-21T05:00:35+00:00"
+    },
+    {
+      "title": "The AI cyber threat is already here",
+      "link": "https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?syn-25a6b1a6=1",
+      "summary": "The freezer war is just a start",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-21T05:00:16+00:00"
+    },
     {
       "title": "腹ゴロゴロしにくい? A2牛乳とは",
       "link": "https://news.yahoo.co.jp/pickup/6603395?source=rss",
@@ -2056,6 +2092,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-20T23:19:44+00:00"
+    },
+    {
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "link": "https://news.ycombinator.com/item?id=50583761",
+      "summary": "I'm Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can't find a job, within those 2 years, I pretty much spent my savings that I've saved through years, maybe have 4-5 months left to support my household. Currently, I tutor math and probably about to start working as manager in pizzaria.In Jan 2025, I quit from a mid-size insurance tech company(1000+) after working there for almost 4y, because I was tipped off the they were about to start layoffs and they did. Well, since then I have zero luck finding any job in SWE.At this point, I have massive gap in my resume that I can't explain to recruiters, I can still code (C#/.NET/AWS) and learned the AI, but who cares if date of my last employment is Jan2025. What should I do ?If you have an alternative path (something completely different from SWE or SWE adjacent) that pays \"well\", I would like to hear.\n\nComments URL: https://news.ycombinator.com/item?id=50583761\nPoints: 39\n# Comments: 48",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T23:18:32+00:00"
     },
     {
       "title": "米主力車「ローグ」３割ＨＶに　エンジン工場投資検討―日産幹部",
