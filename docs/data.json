@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T06:08:09.601113+00:00",
+  "generated_at": "2026-11-21T06:24:28.393944+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1778,9 +1778,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "自民党の鈴木幹事長は、関文科相の進退について、消費税減税関連法案と衆院議員定数削減法案の成立を最優先に判断する考えを示した",
+      "link": "https://www.jiji.com/jc/article?k=2026112100331&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T06:24:24.313005+00:00"
+    },
+    {
+      "title": "文科相進退、法案成立最優先に判断　自民幹事長",
+      "link": "https://www.jiji.com/jc/article?k=2026112100332&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T06:24:24.312973+00:00"
+    },
     {
       "title": "Sam Houser, the Rockstar gamer behind ‘Grand Theft Auto’",
       "link": "https://www.ft.com/content/3333e0cf-c3d8-4836-92c7-a84878e802a3?syn-25a6b1a6=1",
