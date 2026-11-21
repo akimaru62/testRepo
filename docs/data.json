@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T22:47:21.019019+00:00",
+  "generated_at": "2026-11-21T23:04:34.181561+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2046,6 +2046,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2090,6 +2094,14 @@
       "published": "2026-11-21T22:17:15.053897+00:00"
     },
     {
+      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+      "link": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+      "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer\nComments URL: https://news.ycombinator.com/item?id=50594132\nPoints: 13\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-21T22:09:58+00:00"
+    },
+    {
       "title": "島田麻央２連勝、ファイナルへ　男子の友野一希３位―フィギュアＧＰ",
       "link": "https://www.jiji.com/jc/article?k=2026112100483&g=spo&m=rss",
       "summary": "",
@@ -2128,6 +2140,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-21T21:30:00+00:00"
+    },
+    {
+      "title": "Advice for the next 100 Rust GUIs",
+      "link": "https://linebender.org/blog/next-100-guis/",
+      "summary": "Article URL: https://linebender.org/blog/next-100-guis/\nComments URL: https://news.ycombinator.com/item?id=50593737\nPoints: 12\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-21T21:17:53+00:00"
     },
     {
       "title": "首相動静（１１月２１日）",
