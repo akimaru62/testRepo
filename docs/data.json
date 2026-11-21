@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T00:52:53.596883+00:00",
+  "generated_at": "2026-11-21T01:06:00.931693+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1686,6 +1686,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2285,6 +2289,14 @@
       "title": "Nvidia accounting under SEC investigation, sources say",
       "link": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
       "summary": "Article URL: https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html\nComments URL: https://news.ycombinator.com/item?id=50581438\nPoints: 23\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T20:22:41+00:00"
+    },
+    {
+      "title": "US SEC's Nvidia probe is examining potential accounting issues – sources",
+      "link": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
+      "summary": "Article URL: https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627\nComments URL: https://news.ycombinator.com/item?id=50581438\nPoints: 217\n# Comments: 105",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-20T20:22:41+00:00"
