@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T16:47:28.730089+00:00",
+  "generated_at": "2026-11-21T17:04:12.435484+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1950,9 +1950,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "What It’s Like to Retire in Thailand",
+      "link": "https://www.wsj.com/personal-finance/retirement/retire-in-thailand-6853f4a7?mod=rss_markets_main",
+      "summary": "It’s hot, humid and costs a bit more than we anticipated. But we love the life we’ve built here.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-21T17:00:00+00:00"
+    },
     {
       "title": "中出すみれ、高橋美優組が決勝へ　バドミントン",
       "link": "https://www.jiji.com/jc/article?k=2026112100456&g=spo&m=rss",
