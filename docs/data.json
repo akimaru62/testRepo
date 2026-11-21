@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T20:17:48.854906+00:00",
+  "generated_at": "2026-11-21T20:32:58.226874+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2006,6 +2006,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3176,6 +3180,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-20T22:12:00+00:00"
+    },
+    {
+      "title": "Getting the mind to steer the body to steer you",
+      "link": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+      "summary": "Article URL: https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body\nComments URL: https://news.ycombinator.com/item?id=50583028\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T22:11:05+00:00"
     },
     {
       "title": "Oil Futures Post Weekly Losses on Rising Middle East Supply",
