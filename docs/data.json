@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T19:32:55.191959+00:00",
+  "generated_at": "2026-11-21T19:47:15.462843+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1994,9 +1994,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Upload2Shell · CVE-2026-125396",
+      "link": "https://pwn.ai/upload2shell",
+      "summary": "Article URL: https://pwn.ai/upload2shell\nComments URL: https://news.ycombinator.com/item?id=50592097\nPoints: 7\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-21T18:29:29+00:00"
+    },
     {
       "title": "堀米雄斗、根附海龍ら準決勝へ　スケートボード",
       "link": "https://www.jiji.com/jc/article?k=2026112100478&g=spo&m=rss",
