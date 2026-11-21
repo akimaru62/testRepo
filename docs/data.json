@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T07:05:24.271492+00:00",
+  "generated_at": "2026-11-21T07:17:21.928407+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1794,9 +1794,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "ぐんまちゃん、国内外を奔走　「宣伝部長」、売上高過去最高に―ゆるキャラの人気者・群馬",
+      "link": "https://www.jiji.com/jc/article?k=2026112100133&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T07:17:17.205108+00:00"
+    },
+    {
+      "title": "日本版ＤＢＳ、１２月開始　教員らの性犯罪歴確認―システム稼働は延期",
+      "link": "https://www.jiji.com/jc/article?k=2026112100148&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T07:17:17.205091+00:00"
+    },
+    {
+      "title": "ＦＢＩ犯罪情報網に不正侵入か　農務省もサイバー攻撃被害―米報道",
+      "link": "https://www.jiji.com/jc/article?k=2026112100350&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T07:17:17.205054+00:00"
+    },
     {
       "title": "関氏進退、法案最優先で判断　自民幹事長「成立阻害要因なくす」",
       "link": "https://www.jiji.com/jc/article?k=2026112100332&g=pol&m=rss",
