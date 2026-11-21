@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T04:33:12.856688+00:00",
+  "generated_at": "2026-11-21T04:47:42.486676+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1754,9 +1754,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "腹ゴロゴロしにくい? A2牛乳とは",
+      "link": "https://news.yahoo.co.jp/pickup/6603395?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-21T04:36:13+00:00"
+    },
     {
       "title": "｢\"三日坊主\"を英語で｣がとっさにわからなくても大丈夫→わざわざ調べなくても伝えられる｢シンプルな発想｣ | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/964730?utm_source=rss&utm_medium=http&utm_campaign=link_back",
