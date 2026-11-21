@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T23:04:34.181561+00:00",
+  "generated_at": "2026-11-21T23:17:27.420825+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2050,9 +2050,85 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "バーレーンの米軍施設攻撃　今月４度目、「報復」主張―イラン",
+      "link": "https://www.jiji.com/jc/article?k=2026112200125&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T23:17:23.265836+00:00"
+    },
+    {
+      "title": "日本、スコットランドにも大敗　１勝５敗で最終戦へ―ラグビー",
+      "link": "https://www.jiji.com/jc/article?k=2026112200132&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T23:17:23.265826+00:00"
+    },
+    {
+      "title": "関文科相の進退焦点に　与党に辞任論、野党問責判断へ",
+      "link": "https://www.jiji.com/jc/article?k=2026112100387&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T23:17:23.265815+00:00"
+    },
+    {
+      "title": "日本との絆、未来へ引き継ぐ旅　愛子さま、シンガポール訪問終える",
+      "link": "https://www.jiji.com/jc/article?k=2026112100342&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T23:17:23.265803+00:00"
+    },
+    {
+      "title": "ＡＩ危機管理、米中から世界へ　日本の役割も焦点",
+      "link": "https://www.jiji.com/jc/article?k=2026112100363&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T23:17:23.265793+00:00"
+    },
+    {
+      "title": "沖縄の象徴、「もう失わないで」　首里城正殿、２２日完成式",
+      "link": "https://www.jiji.com/jc/article?k=2026112100335&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T23:17:23.265781+00:00"
+    },
+    {
+      "title": "次期防衛費、ローンが圧迫　「６０兆円無責任」与党猛反発",
+      "link": "https://www.jiji.com/jc/article?k=2026112100340&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T23:17:23.265756+00:00"
+    },
+    {
+      "title": "「西高東低」の高齢者医療費、なぜ地域差1.5倍？　保険料にも違い",
+      "link": "https://www.asahi.com/articles/ASVCL2TB0VCLULFA02LM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-21T23:17:23.150137+00:00"
+    },
+    {
+      "title": "｢賃貸で10年住めばタダであげます｣――借り手つかない\"坂の上\"物件､格安家賃で子育て世代の生活支援や創業の拠点に | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965379?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢10年住んだら家をタダであげます｣長崎で空き家問題や人口減少に挑む新スキーム｢贈与型賃貸｣が話題です。坂の上に佇む古い家が､子育て家庭や創業女性､不登校児の居場所として再生されていく理由とは？持続…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-21T23:00:00+00:00"
+    },
     {
       "title": "10年前の貯金はたった6万円…がん闘病中の夫と50代妻が､退職金をはたいて｢築50年超･25㎡｣を現金一括で買った理由 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965109?utm_source=rss&utm_medium=http&utm_campaign=link_back",
