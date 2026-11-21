@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T12:22:02.661376+00:00",
+  "generated_at": "2026-11-21T12:33:14.289228+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1878,9 +1878,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Larry McDonald survived Lehman’s collapse. Now he warns the credit market is signaling a growth shock for stocks.",
+      "link": "https://www.marketwatch.com/story/larry-mcdonald-survived-lehmans-collapse-now-he-warns-the-credit-market-is-signaling-a-growth-shock-for-stocks-5c3a62ef?mod=mw_rss_topstories",
+      "summary": "Bear Traps Report founder explains why he sees stagflation coming, how much artificial-intelligence risk sits in S&amp;P 500 index funds and why he favors hard assets",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-21T12:31:00+00:00"
+    },
     {
       "title": "京都、強烈「恩返し」　終盤２得点で逆転―Ｊリーグ",
       "link": "https://www.jiji.com/jc/article?k=2026112100441&g=spo&m=rss",
