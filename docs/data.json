@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T12:06:46.464086+00:00",
+  "generated_at": "2026-11-21T12:22:02.661376+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1874,9 +1874,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "京都、強烈「恩返し」　終盤２得点で逆転―Ｊリーグ",
+      "link": "https://www.jiji.com/jc/article?k=2026112100441&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T12:21:57.725117+00:00"
+    },
+    {
+      "title": "玄関先に乳児遺体　警視庁が死体遺棄容疑で捜査―東京・多摩",
+      "link": "https://www.jiji.com/jc/article?k=2026112100445&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T12:21:57.725096+00:00"
+    },
+    {
+      "title": "愛子さま、シンガポールから帰国　両国交流「世代超え継承願う」",
+      "link": "https://www.jiji.com/jc/article?k=2026112100274&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T12:21:57.725052+00:00"
+    },
     {
       "title": "自民幹事長、関氏交代を示唆　法案最優先「阻害要因なくす」",
       "link": "https://www.jiji.com/jc/article?k=2026112100332&g=pol&m=rss",
@@ -1884,6 +1912,22 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-21T12:06:41.183487+00:00"
+    },
+    {
+      "title": "Navy budget pick has family investments in Trump Jr-linked contractor",
+      "link": "https://www.ft.com/content/145e6fab-d93a-412d-8670-0554064fdf98?syn-25a6b1a6=1",
+      "summary": "Democrats have promised to raise alleged conflicts of interest concerning administration officials when they take over Congress",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-21T12:00:08+00:00"
+    },
+    {
+      "title": "Traders start to move US copper to China as Trump tariff fears ease",
+      "link": "https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1",
+      "summary": "Acute Chinese shortage and high local premium create lucrative arbitrage",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-21T12:00:08+00:00"
     },
     {
       "title": "How a brutal week for stocks almost wiped out their gains for the entire year",
@@ -1948,6 +1992,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-21T11:03:53.852545+00:00"
+    },
+    {
+      "title": "My Monitor Was Cutting My Download Speed by 75%",
+      "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/\nComments URL: https://news.ycombinator.com/item?id=50587875\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-21T10:36:32+00:00"
     },
     {
       "title": "FBI reportedly investigating apparent hack of its criminal database",
