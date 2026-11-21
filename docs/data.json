@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T03:33:21.466357+00:00",
+  "generated_at": "2026-11-21T03:47:20.625924+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1738,6 +1738,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1756,6 +1760,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-21T03:00:00+00:00"
+    },
+    {
+      "title": "Clojure will affect the way you think about programming (2017)",
+      "link": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+      "summary": "Article URL: https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/\nComments URL: https://news.ycombinator.com/item?id=50585376\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-21T02:40:39+00:00"
     },
     {
       "title": "吉田「食らい付く」　米女子ゴルフ",
@@ -1900,6 +1912,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-21T00:37:31+00:00"
+    },
+    {
+      "title": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again",
+      "link": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
+      "summary": "Article URL: https://spectrum.ieee.org/fighting-back-against-deep-fakes\nComments URL: https://news.ycombinator.com/item?id=50584429\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-21T00:33:40+00:00"
     },
     {
       "title": "島田麻央、ＳＰ首位　男子の友野一希５位―フィギュアＧＰ",
@@ -2241,6 +2261,14 @@
       "title": "｢クソじじい｣父親に反抗する息子→元暴走族長が鉄拳制裁をしたワケ 漫画｢サラリーマン金太郎｣（第1巻 第3話） | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/964975?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "元暴走族「八州連合」のヘッドをしていた矢島金太郎がヤマト建設に入社するために上京。異色の経歴を持つ金太郎は悪戦苦闘しながらもサラリーマンとしての道を歩み、周囲の人々を熱く変えていく――！紙版だけでシ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-20T22:00:00+00:00"
+    },
+    {
+      "title": "\"DX化\"なのに客が人数分の注文を暗記…コメダ珈琲店が板橋にオープン｢省人化店舗｣､開業1カ月も続く\"困惑の光景\" | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965473?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "コメダ珈琲店が新たに挑戦する｢DX店舗｣が､板橋仲宿商店街にオープン。デジタル化による効率化や前会計システムなど､従来と異なる運営スタイルが導入されています。省人化や時短が狙いですが､果たして｢くつ…",
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-20T22:00:00+00:00"
