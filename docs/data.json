@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T19:47:15.462843+00:00",
+  "generated_at": "2026-11-21T20:05:03.508960+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1998,6 +1998,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2093,6 +2097,14 @@
       "title": "Show HN: Zero C#, Power of C# without any GC",
       "link": "https://onurgumus.github.io/zero-csharp/index.html",
       "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html\nComments URL: https://news.ycombinator.com/item?id=50590279\nPoints: 9\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-21T15:39:09+00:00"
+    },
+    {
+      "title": "Show HN: Zero C# – C# without a runtime or GC",
+      "link": "https://onurgumus.github.io/zero-csharp/index.html",
+      "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html\nComments URL: https://news.ycombinator.com/item?id=50590279\nPoints: 68\n# Comments: 50",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-21T15:39:09+00:00"
