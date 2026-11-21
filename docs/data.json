@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T21:17:55.299713+00:00",
+  "generated_at": "2026-11-21T21:33:05.377281+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2022,9 +2022,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "実は夫婦のほとんどが｢3歳差以内｣に変わった…昭和世代が知らない\"日本の結婚\"驚く変化 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965238?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "11月は｢いい夫婦の日｣にちなみ､結婚に関する話題が多くなりますが､実は夫婦の年齢差をめぐる誤解が根強く残っています。時代は｢上昇婚｣から｢平行婚｣へ。令和の結婚事情や再婚のトレンド､そして変わるカ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-21T21:30:00+00:00"
+    },
     {
       "title": "首相動静（１１月２１日）",
       "link": "https://www.jiji.com/jc/article?k=2026112100230&g=pol&m=rss",
@@ -2048,6 +2060,22 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-21T21:17:50.842045+00:00"
+    },
+    {
+      "title": "｢親の介護に1円も出したくない｣は冷たい？―父の入院費を立て替えた50代男性が直面した現実 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965343?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "親の介護は突然訪れることも多く､費用や生活の変化に直面する子世代の多くが不安を抱えています。予期せぬ入院や認知症による金銭管理の困難､家計への負担は他人事ではありません。今から備えるべき具体策を考え…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-21T21:15:00+00:00"
+    },
+    {
+      "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
+      "link": "https://tasklet.ai/careers",
+      "summary": "Article URL: https://tasklet.ai/careers\nComments URL: https://news.ycombinator.com/item?id=50593679\nPoints: 0\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-21T21:11:08+00:00"
     },
     {
       "title": "まだ東京にこんな場所が…23区なのに2DKが10万円台～､朝市を守り抜く\"ある街\"の正体　｢続けているのは､意地です｣ | ライフ | 東洋経済オンライン",
