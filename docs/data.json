@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T13:04:34.496400+00:00",
+  "generated_at": "2026-11-21T13:18:05.996888+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1890,9 +1890,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "変わらぬ心で大関撃破　若元春、トップ譲らず千秋楽へ―大相撲九州場所",
+      "link": "https://www.jiji.com/jc/article?k=2026112100454&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T13:18:02.062789+00:00"
+    },
+    {
+      "title": "ＡＩブーム、息切れ鮮明　アンソロ上場も売りやまず",
+      "link": "https://www.jiji.com/jc/article?k=2026112100372&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T13:18:02.062733+00:00"
+    },
     {
       "title": "America is definitely rich enough to fix Social Security and Medicare. Here’s how.",
       "link": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories",
