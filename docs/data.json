@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T08:06:13.726339+00:00",
+  "generated_at": "2026-11-21T08:19:43.864447+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1810,9 +1810,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "医療用超音波検査のシート開発　ゼリー代替、長期使用可能―米大学",
+      "link": "https://www.jiji.com/jc/article?k=2026112100355&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T08:19:39.390423+00:00"
+    },
+    {
+      "title": "吉本ここね、首位キープ　エリエール女子ゴルフ",
+      "link": "https://www.jiji.com/jc/article?k=2026112100360&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T08:19:39.390411+00:00"
+    },
+    {
+      "title": "ＡＩで「リーマン予想」証明か　米アンソロピックの数学者",
+      "link": "https://www.jiji.com/jc/article?k=2026112100365&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T08:19:39.390378+00:00"
+    },
     {
       "title": "預金1億円超個人口座 00年比3.6倍",
       "link": "https://news.yahoo.co.jp/pickup/6603415?source=rss",
@@ -3284,6 +3312,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-20T15:28:00+00:00"
+    },
+    {
+      "title": "Slopstrap – Make your site look hastily vibecoded",
+      "link": "https://slopstrap.mikelacher.com/",
+      "summary": "Article URL: https://slopstrap.mikelacher.com/\nComments URL: https://news.ycombinator.com/item?id=50576012\nPoints: 212\n# Comments: 37",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T15:24:11+00:00"
     },
     {
       "title": "The AI fever in markets is breaking",
