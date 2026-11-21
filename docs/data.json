@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T01:17:53.898324+00:00",
+  "generated_at": "2026-11-21T01:34:13.481916+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1694,9 +1694,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "なぜ実家暮らし 40代未婚者の答え",
+      "link": "https://news.yahoo.co.jp/pickup/6603379?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-21T01:20:54+00:00"
+    },
     {
       "title": "友野一希「いい演技」　フィギュアＧＰ",
       "link": "https://www.jiji.com/jc/article?k=2026112100267&g=spo&m=rss",
@@ -1816,6 +1828,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-20T23:35:42+00:00"
+    },
+    {
+      "title": "Uncontacted Indigenous people emerge from Amazon forest to ask for food",
+      "link": "https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/",
+      "summary": "Article URL: https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/\nComments URL: https://news.ycombinator.com/item?id=50583877\nPoints: 23\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T23:31:27+00:00"
     },
     {
       "title": "36歳男性､資産4000万円を突破も心身に\"強烈な異変\"…仕事も節約も身が入らない｢資産形成燃え尽き症候群｣の実態 | ライフ | 東洋経済オンライン",
@@ -2000,6 +2020,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-20T22:29:06+00:00"
+    },
+    {
+      "title": "Merkle Tree Certificates",
+      "link": "https://datatracker.ietf.org/doc/draft-ietf-plants-merkle-tree-certs/",
+      "summary": "Article URL: https://datatracker.ietf.org/doc/draft-ietf-plants-merkle-tree-certs/\nComments URL: https://news.ycombinator.com/item?id=50583134\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T22:19:23+00:00"
     },
     {
       "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
