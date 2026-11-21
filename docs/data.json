@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T14:33:09.415486+00:00",
+  "generated_at": "2026-11-21T14:47:45.340315+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1914,6 +1914,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1956,6 +1960,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-21T13:18:02.062733+00:00"
+    },
+    {
+      "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
+      "link": "https://simple-bench.com/",
+      "summary": "Article URL: https://simple-bench.com/\nComments URL: https://news.ycombinator.com/item?id=50588916\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-21T13:16:12+00:00"
     },
     {
       "title": "America is definitely rich enough to fix Social Security and Medicare. Here’s how.",
