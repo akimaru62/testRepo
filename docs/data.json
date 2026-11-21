@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T00:13:34.632052+00:00",
+  "generated_at": "2026-11-21T00:39:39.958117+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1678,9 +1678,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "ホテル歯ブラシ 返すとお菓子の訳",
+      "link": "https://news.yahoo.co.jp/pickup/6603372?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-21T00:37:31+00:00"
+    },
     {
       "title": "島田麻央、ＳＰ首位　男子の友野一希５位―フィギュアＧＰ",
       "link": "https://www.jiji.com/jc/article?k=2026112100218&g=spo&m=rss",
@@ -1722,12 +1734,36 @@
       "published": "2026-11-21T00:00:00+00:00"
     },
     {
+      "title": "Re: Riemann",
+      "link": "https://borretti.me/article/re-riemann",
+      "summary": "Article URL: https://borretti.me/article/re-riemann\nComments URL: https://news.ycombinator.com/item?id=50583982\nPoints: 33\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T23:42:44+00:00"
+    },
+    {
+      "title": "Help github just deleted me",
+      "link": "https://nate.mecca1.net/posts/2026-11-20_help/",
+      "summary": "Article URL: https://nate.mecca1.net/posts/2026-11-20_help/\nComments URL: https://news.ycombinator.com/item?id=50583911\nPoints: 46\n# Comments: 21",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T23:35:42+00:00"
+    },
+    {
       "title": "36歳男性､資産4000万円を突破も心身に\"強烈な異変\"…仕事も節約も身が入らない｢資産形成燃え尽き症候群｣の実態 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965310?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "資産形成が当たり前となった今､コツコツと努力を重ねて大きな資産を築いた30代にも､予想外の｢燃え尽き症候群｣が忍び寄ります。FIRE熱を追い風に歩んできたAさんが､資産4000万円を達成したその先で…",
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-20T23:30:00+00:00"
+    },
+    {
+      "title": "Sir Brian May adds new dimension to Hera asteroid",
+      "link": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+      "summary": "Article URL: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid\nComments URL: https://news.ycombinator.com/item?id=50583768\nPoints: 25\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T23:19:44+00:00"
     },
     {
       "title": "米主力車「ローグ」３割ＨＶに　エンジン工場投資検討―日産幹部",
@@ -1832,6 +1868,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-20T22:47:21.191133+00:00"
+    },
+    {
+      "title": "AI may have solved the most important problem in mathematics",
+      "link": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+      "summary": "Article URL: https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics\nComments URL: https://news.ycombinator.com/item?id=50583445\nPoints: 11\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T22:46:59+00:00"
     },
     {
       "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
@@ -2317,6 +2361,14 @@
       "title": "And Yet, It Moves",
       "link": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
       "summary": "Article URL: https://signoregalilei.com/2026/11/20/and-yet-it-moves/\nComments URL: https://news.ycombinator.com/item?id=50581177\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T20:07:55+00:00"
+    },
+    {
+      "title": "And yet, it moves",
+      "link": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
+      "summary": "Article URL: https://signoregalilei.com/2026/11/20/and-yet-it-moves/\nComments URL: https://news.ycombinator.com/item?id=50581177\nPoints: 69\n# Comments: 34",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-20T20:07:55+00:00"
