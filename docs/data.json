@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T15:17:43.080889+00:00",
+  "generated_at": "2026-11-21T15:32:55.747246+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1926,6 +1926,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1962,12 +1966,28 @@
       "published": "2026-11-21T15:17:39.482063+00:00"
     },
     {
+      "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks?",
+      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "summary": "If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden moves.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-21T15:15:00+00:00"
+    },
+    {
       "title": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
       "link": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
       "summary": "There are plenty of rich and influential women in the U.S. Their time may be coming.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-21T15:00:00+00:00"
+    },
+    {
+      "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+      "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/\nComments URL: https://news.ycombinator.com/item?id=50589618\nPoints: 23\n# Comments: 13",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-21T14:36:45+00:00"
     },
     {
       "title": "Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices just yet",
@@ -3632,6 +3652,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-20T17:05:00+00:00"
+    },
+    {
+      "title": "I'm quite pleased by the tech architecture of my art website",
+      "link": "https://klauria.tech/klauria-art/",
+      "summary": "Article URL: https://klauria.tech/klauria-art/\nComments URL: https://news.ycombinator.com/item?id=50577991\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T17:03:39+00:00"
     },
     {
       "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
