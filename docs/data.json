@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T03:06:32.108174+00:00",
+  "generated_at": "2026-11-21T03:19:14.083667+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1726,9 +1726,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "米当局、エヌビディアの会計調査―報道",
+      "link": "https://www.jiji.com/jc/article?k=2026112100289&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T03:19:08.657279+00:00"
+    },
+    {
+      "title": "《豊臣兄弟！》秀長が\"死の間際\"に1人で苦悩…本当は兄･秀吉に異見をしたかった｢重大な話｣ | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963648?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "秀吉の弟であり､｢豊臣兄弟！｣の主役である秀長は､死の間際に秀吉のことを憂慮していたといいます。いったい何に憂慮していたのでしょうか。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-21T03:00:00+00:00"
+    },
     {
       "title": "吉田「食らい付く」　米女子ゴルフ",
       "link": "https://www.jiji.com/jc/article?k=2026112100281&g=spo&m=rss",
