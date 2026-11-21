@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T02:07:26.157387+00:00",
+  "generated_at": "2026-11-21T02:21:23.741668+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1706,9 +1706,65 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://cloud.google.com/blog/rss",
+      "error": "503 Server Error: Service Unavailable for url: https://cloud.google.com/blog/rss"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "吉田「食らい付く」　米女子ゴルフ",
+      "link": "https://www.jiji.com/jc/article?k=2026112100281&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T02:21:19.405087+00:00"
+    },
+    {
+      "title": "ビットコイン、６万ドル割れ　安全資産に逃避",
+      "link": "https://www.jiji.com/jc/article?k=2026112100278&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T02:21:19.405054+00:00"
+    },
+    {
+      "title": "備蓄米、10万トン追加買い戻しへ　長雨影響少なく、収穫は高水準",
+      "link": "https://www.asahi.com/articles/ASVCN3CTNVCNULFA00DM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-21T02:21:19.067028+00:00"
+    },
+    {
+      "title": "創業101年、雪印メグミルクの挑戦　原点の札幌でバター専門カフェ",
+      "link": "https://www.asahi.com/articles/ASVCN01WJVCNIIPE003M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-21T02:21:19.066997+00:00"
+    },
+    {
+      "title": "「有事の円買い」は消えた？　企業に残る強烈な記憶、識者の注目点は",
+      "link": "https://www.asahi.com/articles/ASVCM3D7MVCMULFA001M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-21T02:21:19.066963+00:00"
+    },
+    {
+      "title": "The Blame Game Has Begun Over Anthropic’s Turbulent Trading Debut",
+      "link": "https://www.wsj.com/finance/stocks/the-blame-game-has-begun-over-anthropics-turbulent-trading-debut-280a34b1?mod=rss_markets_main",
+      "summary": "The AI giant’s stock slid in its second day of trading, at one point dropping to just 5 cents above its IPO price.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-21T02:16:00+00:00"
+    },
     {
       "title": "新庄監督の｢塁上での挨拶禁止｣提言に球界から賛同の声　打席のバースデーソングにも｢不要論｣ | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965216?utm_source=rss&utm_medium=http&utm_campaign=link_back",
