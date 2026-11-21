@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T10:47:21.208107+00:00",
+  "generated_at": "2026-11-21T11:03:58.241967+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1854,9 +1854,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "密造酒で中毒、１５人死亡　インド",
+      "link": "https://www.jiji.com/jc/article?k=2026112100411&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T11:03:53.852582+00:00"
+    },
+    {
+      "title": "ＦＢＩ犯罪情報網に不正侵入疑い　農務省もサイバー攻撃被害―米報道",
+      "link": "https://www.jiji.com/jc/article?k=2026112100350&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T11:03:53.852545+00:00"
+    },
+    {
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "link": "https://www.bbc.com/news/articles/cvze7de86pk3o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cvze7de86pk3o\nComments URL: https://news.ycombinator.com/item?id=50587859\nPoints: 17\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-21T10:33:57+00:00"
+    },
     {
       "title": "密造酒で中毒か、１５人死亡　インド",
       "link": "https://www.jiji.com/jc/article?k=2026112100411&g=int&m=rss",
