@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T16:17:42.863660+00:00",
+  "generated_at": "2026-11-21T16:33:03.371482+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1942,6 +1942,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -1952,6 +1956,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-21T16:17:39.127215+00:00"
+    },
+    {
+      "title": "Show HN: Zero C#, Power of C# without any GC",
+      "link": "https://onurgumus.github.io/zero-csharp/index.html",
+      "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html\nComments URL: https://news.ycombinator.com/item?id=50590279\nPoints: 9\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-21T15:39:09+00:00"
     },
     {
       "title": "日チリ防衛相、安保連携を強化",
