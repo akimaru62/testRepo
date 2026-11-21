@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T13:18:05.996888+00:00",
+  "generated_at": "2026-11-21T13:32:56.109657+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1894,9 +1894,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Nvidia’s nonstop drama is keeping buyers away from a historically cheap stock",
+      "link": "https://www.marketwatch.com/story/nvidias-nonstop-drama-is-keeping-buyers-away-from-a-historically-cheap-stock-604022da?mod=mw_rss_topstories",
+      "summary": "Uncertainties over how the Jensen Huang drama plays out should keep investors from trying to pick a bottom in Nvidia’s stock, no matter how cheap it gets.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-21T13:30:00+00:00"
+    },
     {
       "title": "変わらぬ心で大関撃破　若元春、トップ譲らず千秋楽へ―大相撲九州場所",
       "link": "https://www.jiji.com/jc/article?k=2026112100454&g=spo&m=rss",
