@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T18:05:33.243152+00:00",
+  "generated_at": "2026-11-21T18:18:44.501426+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1970,9 +1970,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "堀米雄斗、根附海龍ら準決勝へ　スケートボード",
+      "link": "https://www.jiji.com/jc/article?k=2026112100478&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T18:18:38.479104+00:00"
+    },
+    {
+      "title": "Violence erupts in Sinaloa after Mexico captures alleged drug trafficker",
+      "link": "https://www.ft.com/content/90a8d0bd-32c8-471a-8696-e95555e41b78?syn-25a6b1a6=1",
+      "summary": "Fausto Isidro Meza-Flores, known as “El Chapo Isidro”, is on the FBI’s most-wanted list for trafficking drugs into the US",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-21T17:52:20+00:00"
+    },
     {
       "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
       "link": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
@@ -2481,6 +2501,14 @@
       "title": "Sam Houser, the Rockstar gamer behind ‘Grand Theft Auto’",
       "link": "https://www.ft.com/content/3333e0cf-c3d8-4836-92c7-a84878e802a3?syn-25a6b1a6=1",
       "summary": "With ‘GTA VI’, his franchise has set a new record in global entertainment",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-21T05:00:45+00:00"
+    },
+    {
+      "title": "Miguel Ángel Félix Gallardo, drug lord, 1946-2026",
+      "link": "https://www.ft.com/content/fbf39142-a256-4fa8-a689-e958d80112a4?syn-25a6b1a6=1",
+      "summary": "Nicknamed ‘the godfather’, he built a criminal network in Mexico that transformed the global narcotics industry",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-21T05:00:45+00:00"
