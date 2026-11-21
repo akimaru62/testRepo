@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T17:47:22.453921+00:00",
+  "generated_at": "2026-11-21T18:05:33.243152+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1966,6 +1966,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2008,6 +2012,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-21T16:17:39.127215+00:00"
+    },
+    {
+      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+      "link": "https://math.mit.edu/~drew/grh/",
+      "summary": "Article URL: https://math.mit.edu/~drew/grh/\nComments URL: https://news.ycombinator.com/item?id=50590441\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-21T15:54:34+00:00"
     },
     {
       "title": "Show HN: Zero C#, Power of C# without any GC",
@@ -2074,6 +2086,14 @@
       "published": "2026-11-21T14:36:45+00:00"
     },
     {
+      "title": "Lean verification of the Riemann Hypothesis",
+      "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/\nComments URL: https://news.ycombinator.com/item?id=50589618\nPoints: 406\n# Comments: 316",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-21T14:36:45+00:00"
+    },
+    {
       "title": "Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices just yet",
       "link": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_rss_topstories",
       "summary": "Walmart, Target and Amazon are some of the retailers offering meal-basket deals this year.",
@@ -2093,6 +2113,14 @@
       "title": "Derek Lowe: Detonating a Pile of Lead Azide",
       "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
       "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really\nComments URL: https://news.ycombinator.com/item?id=50588982\nPoints: 11\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-21T13:23:14+00:00"
+    },
+    {
+      "title": "Detonating a pile of lead azide",
+      "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really\nComments URL: https://news.ycombinator.com/item?id=50588982\nPoints: 318\n# Comments: 201",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-21T13:23:14+00:00"
@@ -2261,6 +2289,14 @@
       "title": "My Monitor Was Cutting My Download Speed by 75%",
       "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
       "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/\nComments URL: https://news.ycombinator.com/item?id=50587875\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-21T10:36:32+00:00"
+    },
+    {
+      "title": "My monitor was cutting my download speed by 75%",
+      "link": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/\nComments URL: https://news.ycombinator.com/item?id=50587875\nPoints: 274\n# Comments: 129",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-21T10:36:32+00:00"
