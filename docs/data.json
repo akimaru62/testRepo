@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T20:05:03.508960+00:00",
+  "generated_at": "2026-11-21T20:17:48.854906+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2002,9 +2002,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
+      "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+      "summary": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-21T20:15:00+00:00"
+    },
     {
       "title": "Upload2Shell · CVE-2026-125396",
       "link": "https://pwn.ai/upload2shell",
@@ -3388,6 +3400,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-20T21:05:00+00:00"
+    },
+    {
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "summary": "Article URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib\nComments URL: https://news.ycombinator.com/item?id=50582069\nPoints: 15\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-20T21:03:12+00:00"
     },
     {
       "title": "Anthropic’s IPO Bust Punctuates $4 Trillion AI Wipeout on Wall Street",
