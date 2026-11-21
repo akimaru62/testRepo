@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T06:24:28.393944+00:00",
+  "generated_at": "2026-11-21T06:38:01.252025+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -1782,9 +1782,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "関氏進退、法案最優先で判断　自民幹事長「成立阻害要因なくす」",
+      "link": "https://www.jiji.com/jc/article?k=2026112100332&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-21T06:37:56.055829+00:00"
+    },
+    {
+      "title": "店の「食べ放題」巡り物議 法解説",
+      "link": "https://news.yahoo.co.jp/pickup/6603408?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-21T06:28:43+00:00"
+    },
     {
       "title": "自民党の鈴木幹事長は、関文科相の進退について、消費税減税関連法案と衆院議員定数削減法案の成立を最優先に判断する考えを示した",
       "link": "https://www.jiji.com/jc/article?k=2026112100331&g=flash&m=rss",
