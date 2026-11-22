@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T00:44:49.541533+00:00",
+  "generated_at": "2026-11-22T00:56:15.858165+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2070,9 +2070,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "(Supposed) ex-Rockstar employee: GTAVI creates psychological profiles, sells it",
+      "link": "https://www.resetera.com/threads/supposed-ex-rockstar-employee-gtavi-creates-personality-profiles-based-on-gameplay-decisions-sells-them-to-outside-companies.1694417/",
+      "summary": "Article URL: https://www.resetera.com/threads/supposed-ex-rockstar-employee-gtavi-creates-personality-profiles-based-on-gameplay-decisions-sells-them-to-outside-companies.1694417/\nComments URL: https://news.ycombinator.com/item?id=50595122\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T00:47:00+00:00"
+    },
     {
       "title": "地方銀行再編 各地でくすぶる火種",
       "link": "https://news.yahoo.co.jp/pickup/6603509?source=rss",
