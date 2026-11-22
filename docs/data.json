@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T19:32:58.486496+00:00",
+  "generated_at": "2026-11-22T19:47:10.551771+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2398,9 +2398,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "岡山駅前｢路面電車乗り入れ｣本当の狙いは何か　両備･小嶋CEOが｢最終目的ではない｣と言う真意 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965262?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2027年､岡山駅前広場への路面電車乗り入れがついに実現。その先には､街全体をつなぐ新路線｢ハレノワ線｣構想も進行中です。単なる交通手段にとどまらない､歩いて楽しいまちづくりの挑戦。その未来像とは何…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-22T19:30:00+00:00"
+    },
+    {
+      "title": "Delta flight delays add to concerns about US air travel system",
+      "link": "https://www.ft.com/content/14566557-3f63-4eeb-b589-6cb1144dc918?syn-25a6b1a6=1",
+      "summary": "FAA said technical problems at airline’s Atlanta hub were not related to countrywide outage this month",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-22T19:25:06+00:00"
+    },
     {
       "title": "エルデナリ、日本馬を一蹴　競馬マイルＣＳ",
       "link": "https://www.jiji.com/jc/article?k=2026112200310&g=spo&m=rss",
@@ -2416,6 +2436,22 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-22T19:10:38+00:00"
+    },
+    {
+      "title": "Canada recommits to federal funding for news",
+      "link": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/",
+      "summary": "Article URL: https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/\nComments URL: https://news.ycombinator.com/item?id=50602847\nPoints: 62\n# Comments: 28",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T19:10:38+00:00"
+    },
+    {
+      "title": "Dirac's Theorem at a Dinner Party",
+      "link": "https://prideout.net/blog/dirac-dinner-party/",
+      "summary": "Article URL: https://prideout.net/blog/dirac-dinner-party/\nComments URL: https://news.ycombinator.com/item?id=50602660\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T18:50:27+00:00"
     },
     {
       "title": "Bessent refuses to rule out Huang’s return to Nvidia",
