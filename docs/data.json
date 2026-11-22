@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T11:32:48.506209+00:00",
+  "generated_at": "2026-11-22T11:47:27.501196+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2266,9 +2266,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Nscale slows hiring and curtails spending ahead of planned $35bn IPO",
+      "link": "https://www.ft.com/content/98f5aa90-5581-45ed-8e9b-d72217c56df8",
+      "summary": "UK data centre operator pauses hiring for all but critical roles",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-22T11:32:52+00:00"
+    },
     {
       "title": "大の里が２場所連続優勝　横綱昇進後では初―大相撲九州場所",
       "link": "https://www.jiji.com/jc/article?k=2026112200315&g=spo&m=rss",
