@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T19:47:10.551771+00:00",
+  "generated_at": "2026-11-22T20:05:31.089581+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2402,9 +2402,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "ロボタクシーより｢アナログな低速車｣が効く理由――鳥取県倉吉市が実証から2年で掴んだ地域交通の正解 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964966?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "鳥取県のほぼ中央に位置する倉吉市。この町を走るグリーンスローモビリティ｢U-MO（ウーモ）｣は､地域交通と観光活用をバランスさせている点が全国から注目を集めている。実証実験を経ての現在地を取材した。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-22T20:00:00+00:00"
+    },
     {
       "title": "岡山駅前｢路面電車乗り入れ｣本当の狙いは何か　両備･小嶋CEOが｢最終目的ではない｣と言う真意 | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965262?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -2420,6 +2432,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-22T19:25:06+00:00"
+    },
+    {
+      "title": "What Happened to Silicon Valley?",
+      "link": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+      "summary": "Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/\nComments URL: https://news.ycombinator.com/item?id=50602947\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T19:20:15+00:00"
     },
     {
       "title": "エルデナリ、日本馬を一蹴　競馬マイルＣＳ",
@@ -2444,6 +2464,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-22T19:10:38+00:00"
+    },
+    {
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "summary": "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife\nComments URL: https://news.ycombinator.com/item?id=50602843\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T19:10:34+00:00"
     },
     {
       "title": "Dirac's Theorem at a Dinner Party",
