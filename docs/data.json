@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T16:33:05.739702+00:00",
+  "generated_at": "2026-11-22T16:47:29.524068+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2322,6 +2322,10 @@
     {
       "url": "https://hnrss.org/frontpage",
       "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7830daf1a3c0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     },
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
@@ -291975,6 +291979,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2024-06-13T19:14:35+00:00"
+    },
+    {
+      "title": "1444stat.TW - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GSy1Ua09kclR0NUdMeDJYdmZ5OTNRNDlWZEQ0bGRTeVdpZFRNSHdZdy1JbDBuNnBDbDFDNEIyUE9lV3p4aXhPZG1fUTgzTWZ3d1o2bmRPOTVKdXMteW9NZEUteTR6M0hCSFRCOA?oc=5",
+      "summary": "1444stat.TW&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2024-04-01T07:45:34+00:00"
     },
     {
       "title": "2360.TW - | Stock Price & Latest News - Reuters",
