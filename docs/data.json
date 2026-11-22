@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T23:47:30.506352+00:00",
+  "generated_at": "2026-11-22T00:14:38.006606+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2062,9 +2062,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "左派政権存続か、右派返り咲きか　スペイン総選挙まで１週間",
+      "link": "https://www.jiji.com/jc/article?k=2026112100348&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T00:14:33.175986+00:00"
+    },
+    {
+      "title": "台湾地方選、与党に勢い　野党地盤の台北で激戦―投開票まで１週間",
+      "link": "https://www.jiji.com/jc/article?k=2026112100337&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T00:14:33.175972+00:00"
+    },
+    {
+      "title": "ＡＩ有事、初動の数時間が鍵　日本の知見、多国間協力に―専門家",
+      "link": "https://www.jiji.com/jc/article?k=2026112100351&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T00:14:33.175941+00:00"
+    },
+    {
+      "title": "14億人に家電や車の｢買い換え｣を迫る中国政府…巨額マネーで誘導する強引な\"消費振興策\"に｢ドーピング｣の声も | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963543?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "消費不振を打破すべく中国政府が始めた｢以旧換新｣政策。莫大な補助金で家電や自動車の買い換えを促進し､一見成果が上がったものの､その裏には国民の節約志向や\"強制力\"ゆえの懸念が潜みます。この政策､本当…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-22T00:00:00+00:00"
+    },
+    {
+      "title": "氷河期世代の正社員率改善も 格差",
+      "link": "https://news.yahoo.co.jp/pickup/6603504?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-21T23:49:12+00:00"
+    },
     {
       "title": "婚活に100万円は｢コスパが悪すぎる｣と家を買った43歳女性､アプリの検索範囲を変えたら《1歳上の公務員》に出会った | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965331?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -2144,6 +2188,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-21T23:16:56+00:00"
+    },
+    {
+      "title": "International UN talks on controlling use of autonomous weapons collapse",
+      "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse\nComments URL: https://news.ycombinator.com/item?id=50594564\nPoints: 21\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-21T23:10:21+00:00"
     },
     {
       "title": "｢賃貸で10年住めばタダであげます｣――借り手つかない\"坂の上\"物件､格安家賃で子育て世代の生活支援や創業の拠点に | ライフ | 東洋経済オンライン",
