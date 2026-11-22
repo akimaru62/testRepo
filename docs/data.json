@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T23:17:46.553399+00:00",
+  "generated_at": "2026-11-22T23:33:04.162984+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2458,6 +2458,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2502,6 +2506,14 @@
       "published": "2026-11-22T23:17:41.054421+00:00"
     },
     {
+      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+      "link": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3\nComments URL: https://news.ycombinator.com/item?id=50605045\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T23:12:10+00:00"
+    },
+    {
       "title": "SOS見せず突然退職 企業どう防ぐ",
       "link": "https://news.yahoo.co.jp/pickup/6603628?source=rss",
       "summary": "",
@@ -2510,12 +2522,36 @@
       "published": "2026-11-22T23:08:33+00:00"
     },
     {
+      "title": "GL.iNet Security Notice 2026-11-20",
+      "link": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+      "summary": "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20\nComments URL: https://news.ycombinator.com/item?id=50604988\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T23:06:37+00:00"
+    },
+    {
+      "title": "Do Not Accept",
+      "link": "https://donotaccept.ai/",
+      "summary": "Article URL: https://donotaccept.ai/\nComments URL: https://news.ycombinator.com/item?id=50604959\nPoints: 13\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T23:02:20+00:00"
+    },
+    {
       "title": "｢米中AI｣に規模では勝てない日本の《職人技》という活路…日本はAI時代に\"ウォークマン\"を再び生み出せるか | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/961673?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "AI分野でアメリカや中国に後れを取っていると言われる日本。しかし世界との差は本当に絶望的なのでしょうか？　｢規模｣と｢職人技｣の2つのゲームという視点で見ると､日本ならではの勝機が見えてきます。AI…",
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-22T23:00:00+00:00"
+    },
+    {
+      "title": "Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis",
+      "link": "https://philpapers.org/rec/NIEIOT-2",
+      "summary": "Article URL: https://philpapers.org/rec/NIEIOT-2\nComments URL: https://news.ycombinator.com/item?id=50604742\nPoints: 23\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T22:41:33+00:00"
     },
     {
       "title": "日経平均は6万円を大きく割り込んだが悲観するのはまだ早い､株価の｢底入れサイン｣が点灯する条件とは | 政治・経済・投資 | 東洋経済オンライン",
