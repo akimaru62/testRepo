@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T20:05:31.089581+00:00",
+  "generated_at": "2026-11-22T20:17:06.950065+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2406,6 +2406,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2416,6 +2420,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-22T20:00:00+00:00"
+    },
+    {
+      "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
+      "link": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html\nComments URL: https://news.ycombinator.com/item?id=50603232\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T19:51:46+00:00"
     },
     {
       "title": "岡山駅前｢路面電車乗り入れ｣本当の狙いは何か　両備･小嶋CEOが｢最終目的ではない｣と言う真意 | ビジネス | 東洋経済オンライン",
@@ -2429,6 +2441,14 @@
       "title": "Delta flight delays add to concerns about US air travel system",
       "link": "https://www.ft.com/content/14566557-3f63-4eeb-b589-6cb1144dc918?syn-25a6b1a6=1",
       "summary": "FAA said technical problems at airline’s Atlanta hub were not related to countrywide outage this month",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-22T19:25:06+00:00"
+    },
+    {
+      "title": "Delta flight delays add to concerns about US air travel systems",
+      "link": "https://www.ft.com/content/14566557-3f63-4eeb-b589-6cb1144dc918?syn-25a6b1a6=1",
+      "summary": "FAA says technical problems at airline’s Atlanta hub are not related to countrywide outage this month",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-22T19:25:06+00:00"
@@ -2565,6 +2585,14 @@
       "title": "Fascism and Monopoly",
       "link": "https://repository.law.umich.edu/mlr/vol118/iss7/2/",
       "summary": "Article URL: https://repository.law.umich.edu/mlr/vol118/iss7/2/\nComments URL: https://news.ycombinator.com/item?id=50600521\nPoints: 16\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T15:25:29+00:00"
+    },
+    {
+      "title": "Fascism and Monopoly (2020)",
+      "link": "https://repository.law.umich.edu/mlr/vol118/iss7/2/",
+      "summary": "Article URL: https://repository.law.umich.edu/mlr/vol118/iss7/2/\nComments URL: https://news.ycombinator.com/item?id=50600521\nPoints: 46\n# Comments: 26",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-22T15:25:29+00:00"
