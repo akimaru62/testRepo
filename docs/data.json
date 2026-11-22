@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T21:33:13.917768+00:00",
+  "generated_at": "2026-11-22T21:47:17.419331+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2430,6 +2430,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2482,6 +2486,14 @@
       "published": "2026-11-22T21:07:11+00:00"
     },
     {
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth\nComments URL: https://news.ycombinator.com/item?id=50603845\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T21:01:16+00:00"
+    },
+    {
       "title": "実は\"手帳だけ\"じゃない『ほぼ日』売上高107億円の裏側…渋谷『深夜食堂』の熱気と糸井重里からバトンを受けた\"第二創業\" | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/964869?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "｢ほぼ日｣は手帳やウェブサイトだけでなく､多彩な事業で独自の世界観を築いてきました。しかし株式市場からの評価は長らく低迷。そんな中､経営体制の刷新と海外展開を契機に､評価が変わり始めています。第二創…",
@@ -2512,6 +2524,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-22T21:00:00+00:00"
+    },
+    {
+      "title": "AWS got hit by an outage too. You didn't hear about it",
+      "link": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
+      "summary": "Article URL: https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511\nComments URL: https://news.ycombinator.com/item?id=50603730\nPoints: 11\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T20:50:18+00:00"
     },
     {
       "title": "74歳男性が買った150坪の\"廃墟\"､使い道は｢みんなで考える｣——840年前の薬草サウナが残る山口の山里で始まった挑戦 | ライフ | 東洋経済オンライン",
@@ -2640,6 +2660,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-22T18:11:01+00:00"
+    },
+    {
+      "title": "Harvard CS 2881R AI Safety",
+      "link": "https://boazbk.github.io/mltheoryseminar/",
+      "summary": "Article URL: https://boazbk.github.io/mltheoryseminar/\nComments URL: https://news.ycombinator.com/item?id=50602153\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T18:01:54+00:00"
     },
     {
       "title": "Opinion | Give Thanks to Inverse Billionaires",
