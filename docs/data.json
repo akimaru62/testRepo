@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T21:17:32.912788+00:00",
+  "generated_at": "2026-11-22T21:33:13.917768+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2426,9 +2426,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "納豆でも卵でもない｢朝食におすすめの食材｣1位は？　医師･鎌田實が教える《健康長寿の朝ごはん》 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963773?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "忙しい朝こそ体内時計や筋肉維持に重要な朝食が欠かせません。医師･鎌田實氏が推奨する｢最強の朝食食材｣とは？手軽にタンパク質をとるコツも解説します。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-22T21:30:00+00:00"
+    },
     {
       "title": "普天間会議、年内にも開催　木原官房長官、沖縄知事と会談",
       "link": "https://www.jiji.com/jc/article?k=2026112200242&g=pol&m=rss",
@@ -2460,6 +2472,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-22T21:15:00+00:00"
+    },
+    {
+      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+      "link": "https://theconversation.com/weight-loss-drugs-could-free-up-an-area-of-farmland-larger-than-italy-new-study-291114",
+      "summary": "Article URL: https://theconversation.com/weight-loss-drugs-could-free-up-an-area-of-farmland-larger-than-italy-new-study-291114\nComments URL: https://news.ycombinator.com/item?id=50603906\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T21:07:11+00:00"
     },
     {
       "title": "実は\"手帳だけ\"じゃない『ほぼ日』売上高107億円の裏側…渋谷『深夜食堂』の熱気と糸井重里からバトンを受けた\"第二創業\" | ビジネス | 東洋経済オンライン",
