@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T04:19:37.974793+00:00",
+  "generated_at": "2026-11-22T04:33:33.194608+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2142,9 +2142,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Toyota, Nissan, and Honda to Standardize Parts to Lower Costs",
+      "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/\nComments URL: https://news.ycombinator.com/item?id=50596133\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T04:04:56+00:00"
+    },
     {
       "title": "《｢何を覚えた？｣は逆効果》学習漫画で子どもの知識を広げる､親の｢さりげない声かけ｣とは？ | キャリア・教育 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/964138?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -2168,6 +2180,22 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-22T03:19:57.571981+00:00"
+    },
+    {
+      "title": "Together.ai: Prompt Leakage for Requests",
+      "link": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+      "summary": "Article URL: https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026\nComments URL: https://news.ycombinator.com/item?id=50595816\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T03:07:27+00:00"
+    },
+    {
+      "title": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+      "link": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+      "summary": "Article URL: https://www.youtube.com/watch?v=zqzk43bSdDI\nComments URL: https://news.ycombinator.com/item?id=50595812\nPoints: 15\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T03:06:35+00:00"
     },
     {
       "title": "秀長が｢大出世｣から一転､病に倒れる…秀吉の《天下統一の最終決戦》にはいなかった\"名補佐役\"の姿 | キャリア・教育 | 東洋経済オンライン",
