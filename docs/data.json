@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T15:33:07.032479+00:00",
+  "generated_at": "2026-11-22T15:47:31.535559+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2334,6 +2334,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2464,6 +2468,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-22T13:45:03+00:00"
+    },
+    {
+      "title": "U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels",
+      "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html\nComments URL: https://news.ycombinator.com/item?id=50599583\nPoints: 20\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T13:37:10+00:00"
     },
     {
       "title": "イラン、バーレーンの米軍施設攻撃　今月４度目、「報復」主張",
