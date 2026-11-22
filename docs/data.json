@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T22:04:44.198656+00:00",
+  "generated_at": "2026-11-22T22:17:37.628617+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2438,9 +2438,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "成果文書の採択断念　脱化石燃料で合意できず―ＣＯＰ３１閉幕",
+      "link": "https://www.jiji.com/jc/article?k=2026112300082&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T22:17:34.501286+00:00"
+    },
+    {
+      "title": "防衛産業の強化は「追い風」か、それとも…　軍需工場の記憶と教訓",
+      "link": "https://www.asahi.com/articles/ASVCM41RPVCMPTIL01FM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-22T22:17:34.382288+00:00"
+    },
+    {
+      "title": "ポッキーはなぜ世界で売れた？誕生60年、現地化で「ドリアン味」も",
+      "link": "https://www.asahi.com/articles/ASVCJ2RR5VCJPLFA00DM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-22T22:17:34.382227+00:00"
+    },
+    {
+      "title": "たまごっち30周年「復活」の歴史",
+      "link": "https://news.yahoo.co.jp/pickup/6603615?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-22T22:11:46+00:00"
+    },
     {
       "title": "Opinion | How to Kill a Bull Market",
       "link": "https://www.wsj.com/opinion/how-to-kill-a-bull-market-ai-policy-15fb5af6?mod=rss_markets_main",
