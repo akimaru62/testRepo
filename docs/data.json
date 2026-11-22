@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T16:17:28.016984+00:00",
+  "generated_at": "2026-11-22T16:33:05.739702+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2346,6 +2346,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2377,6 +2381,14 @@
       "title": "A better internet for everyone is possible. Today",
       "link": "https://osw-alliance.net/en/",
       "summary": "Article URL: https://osw-alliance.net/en/\nComments URL: https://news.ycombinator.com/item?id=50600511\nPoints: 9\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T15:24:32+00:00"
+    },
+    {
+      "title": "Open Social Web Alliance",
+      "link": "https://osw-alliance.net/en/",
+      "summary": "Article URL: https://osw-alliance.net/en/\nComments URL: https://news.ycombinator.com/item?id=50600511\nPoints: 28\n# Comments: 14",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-22T15:24:32+00:00"
