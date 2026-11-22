@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T16:05:25.567495+00:00",
+  "generated_at": "2026-11-22T16:17:28.016984+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2342,9 +2342,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "菓子工場で火災、２０人超死亡か　インドネシア、捜索継続へ",
+      "link": "https://www.jiji.com/jc/article?k=2026112200292&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T16:17:23.044163+00:00"
+    },
+    {
+      "title": "Norway to extend proposed under-16 social media ban to games and messaging apps",
+      "link": "https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps",
+      "summary": "Article URL: https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps\nComments URL: https://news.ycombinator.com/item?id=50600789\nPoints: 9\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T15:54:24+00:00"
+    },
     {
       "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
       "link": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
@@ -2352,6 +2372,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-22T15:42:40+00:00"
+    },
+    {
+      "title": "A better internet for everyone is possible. Today",
+      "link": "https://osw-alliance.net/en/",
+      "summary": "Article URL: https://osw-alliance.net/en/\nComments URL: https://news.ycombinator.com/item?id=50600511\nPoints: 9\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T15:24:32+00:00"
     },
     {
       "title": "若元春「悔しさない」　大相撲九州場所",
@@ -2400,6 +2428,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-22T15:17:32.093569+00:00"
+    },
+    {
+      "title": "Backblaze customers worried of personal data sale/sharing after policy update",
+      "link": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
+      "summary": "Article URL: https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/\nComments URL: https://news.ycombinator.com/item?id=50600435\nPoints: 6\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T15:16:02+00:00"
     },
     {
       "title": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
