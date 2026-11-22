@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T00:14:38.006606+00:00",
+  "generated_at": "2026-11-22T00:44:49.541533+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2066,9 +2066,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "地方銀行再編 各地でくすぶる火種",
+      "link": "https://news.yahoo.co.jp/pickup/6603509?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-22T00:29:41+00:00"
+    },
     {
       "title": "左派政権存続か、右派返り咲きか　スペイン総選挙まで１週間",
       "link": "https://www.jiji.com/jc/article?k=2026112100348&g=int&m=rss",
@@ -2092,6 +2104,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-22T00:14:33.175941+00:00"
+    },
+    {
+      "title": "ホカロンのロゴ入り靴下 売れた訳",
+      "link": "https://news.yahoo.co.jp/pickup/6603506?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-22T00:12:49+00:00"
     },
     {
       "title": "14億人に家電や車の｢買い換え｣を迫る中国政府…巨額マネーで誘導する強引な\"消費振興策\"に｢ドーピング｣の声も | ライフ | 東洋経済オンライン",
