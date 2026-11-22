@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T07:05:37.607175+00:00",
+  "generated_at": "2026-11-22T07:17:20.485880+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2190,9 +2190,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "韓国教育相が辞任　大学入試の不正防止巡る混乱で",
+      "link": "https://www.jiji.com/jc/article?k=2026112200232&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T07:17:15.192570+00:00"
+    },
+    {
+      "title": "スパーンが優勝　細野勇策２位、石川遼は４位―フェニックス男子ゴルフ",
+      "link": "https://www.jiji.com/jc/article?k=2026112200208&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T07:17:15.192538+00:00"
+    },
+    {
+      "title": "参政、首長選に積極擁立　国政選へ経験上積み",
+      "link": "https://www.jiji.com/jc/article?k=2026112200199&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T07:17:15.192488+00:00"
+    },
     {
       "title": "パナソニックが優勝　実業団女子駅伝",
       "link": "https://www.jiji.com/jc/article?k=2026112200214&g=spo&m=rss",
@@ -2216,6 +2244,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-22T05:46:30+00:00"
+    },
+    {
+      "title": "AI Supply Chain Security: What Canary Tokens Found",
+      "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "summary": "Article URL: https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens\nComments URL: https://news.ycombinator.com/item?id=50596511\nPoints: 9\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T05:11:43+00:00"
     },
     {
       "title": "A rocky road to Irish unity",
