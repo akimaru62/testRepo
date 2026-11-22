@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T13:04:39.352714+00:00",
+  "generated_at": "2026-11-22T13:17:34.914722+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2290,9 +2290,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "イラン、バーレーンの米軍施設攻撃　今月４度目、「報復」主張",
+      "link": "https://www.jiji.com/jc/article?k=2026112200125&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T13:17:29.590346+00:00"
+    },
+    {
+      "title": "３区斎藤が立役者に　パナソニック、８年ぶり王座奪還―実業団女子駅伝",
+      "link": "https://www.jiji.com/jc/article?k=2026112200364&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T13:17:29.590329+00:00"
+    },
+    {
+      "title": "吉田、「兆し見えた」４位　試行錯誤続く２３歳―Ｗ杯スケート",
+      "link": "https://www.jiji.com/jc/article?k=2026112200367&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T13:17:29.590293+00:00"
+    },
+    {
+      "title": "Xi needs Trump more than ever",
+      "link": "https://www.ft.com/content/4dbdecf6-396d-4629-8600-8a55034a9827",
+      "summary": "The Shenzhen summit shows the high stakes for Beijing as many in Washington call for tougher measures",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-22T13:00:06+00:00"
+    },
     {
       "title": "Can stocks bounce back after a brutal week? This timing model says history is on the market’s side.",
       "link": "https://www.marketwatch.com/story/can-stocks-bounce-back-after-a-brutal-week-this-timing-model-says-history-is-on-the-markets-side-beff1753?mod=mw_rss_topstories",
@@ -2460,6 +2496,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-22T10:04:51.408235+00:00"
+    },
+    {
+      "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+      "link": "https://simonwillison.net/2026/Nov/21/muru/",
+      "summary": "Article URL: https://simonwillison.net/2026/Nov/21/muru/\nComments URL: https://news.ycombinator.com/item?id=50597959\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T09:57:01+00:00"
     },
     {
       "title": "益永利明死刑囚が死亡　７０年代連続企業爆破事件―法務省",
