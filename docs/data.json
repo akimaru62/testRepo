@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T23:04:58.107824+00:00",
+  "generated_at": "2026-11-22T23:17:46.553399+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2454,9 +2454,61 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "米下院、民主９２年以来の大勝　中間選挙で２５８議席確保―報道",
+      "link": "https://www.jiji.com/jc/article?k=2026112300101&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T23:17:41.054483+00:00"
+    },
+    {
+      "title": "少数与党での新政権模索　反ネタニヤフ陣営の連立交渉難航―イスラエル",
+      "link": "https://www.jiji.com/jc/article?k=2026112200203&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T23:17:41.054470+00:00"
+    },
+    {
+      "title": "日本企業、アイルランド活用広がる　ハイテク研究で欧州の拠点に",
+      "link": "https://www.jiji.com/jc/article?k=2026112200219&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T23:17:41.054460+00:00"
+    },
+    {
+      "title": "監視強化も不正やまず　大学入試でＡＩ機器悪用―韓国",
+      "link": "https://www.jiji.com/jc/article?k=2026112200210&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T23:17:41.054447+00:00"
+    },
+    {
+      "title": "首相出席削減、自民が議論本格化　高市氏意向背景？野党反発―国会改革",
+      "link": "https://www.jiji.com/jc/article?k=2026112200200&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T23:17:41.054421+00:00"
+    },
+    {
+      "title": "SOS見せず突然退職 企業どう防ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6603628?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-22T23:08:33+00:00"
+    },
     {
       "title": "｢米中AI｣に規模では勝てない日本の《職人技》という活路…日本はAI時代に\"ウォークマン\"を再び生み出せるか | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/961673?utm_source=rss&utm_medium=http&utm_campaign=link_back",
