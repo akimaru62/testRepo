@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T11:04:00.000142+00:00",
+  "generated_at": "2026-11-22T11:17:28.973269+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2258,9 +2258,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "高専教育、農業分野に拡大　理系人材育成へ新設支援も―文科省",
+      "link": "https://www.jiji.com/jc/article?k=2026112200093&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T11:17:24.963279+00:00"
+    },
+    {
+      "title": "大の里が２場所連続優勝　横綱昇進後では初―大相撲九州場所千秋楽",
+      "link": "https://www.jiji.com/jc/article?k=2026112200315&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T11:17:24.963267+00:00"
+    },
+    {
+      "title": "「平成」の記録、「生かさねば」　写真とノート、欠かせぬ資料に―７２歳建築士、２度目の首里城復元・沖縄",
+      "link": "https://www.jiji.com/jc/article?k=2026112200092&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T11:17:24.963237+00:00"
+    },
+    {
+      "title": "「サイバー保険」に加入 企業増加",
+      "link": "https://news.yahoo.co.jp/pickup/6603591?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-22T11:11:10+00:00"
+    },
     {
       "title": "Has the AI Bubble Already Burst?",
       "link": "https://www.wsj.com/finance/stocks/has-the-ai-bubble-already-burst-2f1dcca8?mod=rss_markets_main",
@@ -2316,6 +2352,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-22T09:33:08.970927+00:00"
+    },
+    {
+      "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+      "link": "https://arxiv.org/abs/2606.14068",
+      "summary": "Article URL: https://arxiv.org/abs/2606.14068\nComments URL: https://news.ycombinator.com/item?id=50597743\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T09:18:36+00:00"
     },
     {
       "title": "水星探査機、軌道投入成功　「みお」など日欧の２機―欧州宇宙機関",
