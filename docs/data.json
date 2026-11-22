@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T11:17:28.973269+00:00",
+  "generated_at": "2026-11-22T11:32:48.506209+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2262,9 +2262,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "大の里が２場所連続優勝　横綱昇進後では初―大相撲九州場所",
+      "link": "https://www.jiji.com/jc/article?k=2026112200315&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T11:32:43.804764+00:00"
+    },
     {
       "title": "高専教育、農業分野に拡大　理系人材育成へ新設支援も―文科省",
       "link": "https://www.jiji.com/jc/article?k=2026112200093&g=soc&m=rss",
@@ -2296,6 +2308,30 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-22T11:11:10+00:00"
+    },
+    {
+      "title": "The American dream of home ownership recedes as mortgage rates surge",
+      "link": "https://www.ft.com/content/168a7d3f-6e70-44da-9860-623bcf4fc023?syn-25a6b1a6=1",
+      "summary": "Donald Trump pledged to lower homeowners’ borrowing costs to 3% but the benchmark rate has surged to over 7%",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-22T11:00:06+00:00"
+    },
+    {
+      "title": "Did Anthropic and its bankers get a key call wrong after IPO?",
+      "link": "https://www.ft.com/content/d501198c-14a4-4b96-8880-c3997545902e",
+      "summary": "Share price weakness raises questions about hasty exercise of ‘greenshoe’ option to issue more stock",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-22T11:00:05+00:00"
+    },
+    {
+      "title": "Democrats will seek to unwind Trump’s tax and tariff policies",
+      "link": "https://www.ft.com/content/8af97161-2ae0-4655-9f8b-a560f9227359?syn-25a6b1a6=1",
+      "summary": "Top lawmaker Richard Neal vows hearings into the president’s flagship economic measures",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-22T11:00:05+00:00"
     },
     {
       "title": "Has the AI Bubble Already Burst?",
