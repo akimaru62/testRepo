@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T06:24:58.018894+00:00",
+  "generated_at": "2026-11-22T06:37:37.287568+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2174,6 +2174,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2245,6 +2249,14 @@
       "title": "Private equity backers flag fresh concerns about sell-to-yourself deals",
       "link": "https://www.ft.com/content/d299785f-dc83-4850-95b8-e08b9a643f98?syn-25a6b1a6=1",
       "summary": "Co-investors in buyout funds frustrated at being forced out when assets are sold into continuation vehicles",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-22T05:00:06+00:00"
+    },
+    {
+      "title": "Tech suppliers raise AI server prices up to 45% months after deals are signed",
+      "link": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f?syn-25a6b1a6=1",
+      "summary": "Dell, HPE, Lenovo and Supermicro demand more for equipment, with the increased costs hitting trading firms",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-22T05:00:06+00:00"
