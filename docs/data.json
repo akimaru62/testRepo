@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T15:04:54.660784+00:00",
+  "generated_at": "2026-11-22T15:17:37.214898+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2326,9 +2326,61 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "若元春「悔しさない」　大相撲九州場所",
+      "link": "https://www.jiji.com/jc/article?k=2026112200345&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T15:17:32.093667+00:00"
+    },
+    {
+      "title": "岡田芽依、西野太翔がＳＰ首位　フィギュア全日本ジュニア",
+      "link": "https://www.jiji.com/jc/article?k=2026112200382&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T15:17:32.093656+00:00"
+    },
+    {
+      "title": "パーティーに官僚、今後呼ばず　「疑念招いた」―関文科相",
+      "link": "https://www.jiji.com/jc/article?k=2026112000515&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T15:17:32.093644+00:00"
+    },
+    {
+      "title": "雪辱果たして７度目Ｖ　大の里時代の幕開けか―大相撲九州場所",
+      "link": "https://www.jiji.com/jc/article?k=2026112200359&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T15:17:32.093632+00:00"
+    },
+    {
+      "title": "オリックスが藤浪晋太郎獲得へ　ＤｅＮＡを戦力外―プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026112200383&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T15:17:32.093616+00:00"
+    },
+    {
+      "title": "ＣＯＰ３１、成果文書の採択断念　脱化石燃料で合意できず",
+      "link": "https://www.jiji.com/jc/article?k=2026112200245&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T15:17:32.093569+00:00"
+    },
     {
       "title": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
       "link": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
@@ -2368,6 +2420,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-22T14:00:00+00:00"
+    },
+    {
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "link": "https://github.com/gulivan/worker755",
+      "summary": "Article URL: https://github.com/gulivan/worker755\nComments URL: https://news.ycombinator.com/item?id=50599762\nPoints: 18\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T13:56:58+00:00"
     },
     {
       "title": "World’s climate talks fail after stand-off over fossil fuels future",
