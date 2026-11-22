@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T13:33:04.148425+00:00",
+  "generated_at": "2026-11-22T13:47:27.766899+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2298,9 +2298,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "アンソロピックIPO巡り銀行に制約",
+      "link": "https://news.yahoo.co.jp/pickup/6603609?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-22T13:45:03+00:00"
+    },
     {
       "title": "イラン、バーレーンの米軍施設攻撃　今月４度目、「報復」主張",
       "link": "https://www.jiji.com/jc/article?k=2026112200125&g=int&m=rss",
@@ -2324,6 +2336,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-22T13:17:29.590293+00:00"
+    },
+    {
+      "title": "Prisons get OK to jam contraband phones",
+      "link": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/\nComments URL: https://news.ycombinator.com/item?id=50599313\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T13:00:52+00:00"
     },
     {
       "title": "Xi needs Trump more than ever",
