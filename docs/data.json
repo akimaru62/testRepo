@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T23:33:04.162984+00:00",
+  "generated_at": "2026-11-22T23:47:32.717193+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2462,9 +2462,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "NHK紅白｢知らない人ばかり｣｢ヒット曲あったっけ？｣ 今年も出場者に賛否…《昔はよかった論争》が起こる意外な理由 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965517?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "毎年のように｢昔の紅白はよかった｣｢知らない人ばかり｣と賛否両論が巻き起こるNHK紅白歌合戦。その背景にあるのは､世代や情報環境の変化だけでなく､普段見慣れた\"顔ぶれ\"の違いが深く関係していました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-22T23:30:00+00:00"
+    },
     {
       "title": "米下院、民主９２年以来の大勝　中間選挙で２５８議席確保―報道",
       "link": "https://www.jiji.com/jc/article?k=2026112300101&g=int&m=rss",
@@ -2546,6 +2558,22 @@
       "published": "2026-11-22T23:00:00+00:00"
     },
     {
+      "title": "半導体不足が深刻化、8割が「買い負け」経験　メモリ在庫がギリギリ、確保量は？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/23/news003.html",
+      "summary": "半導体の調達難が深刻化している。8割が「買い負け」経験があり、必要な在庫の2割が不足している状況だ。特に「半導体メモリ」の在庫が逼迫していることが調査で分かった。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-22T23:00:00+00:00"
+    },
+    {
+      "title": "なぜバックオフィスの業務改善は挫折するのか？　「Excel・紙・メール」頼みの職場がつまずく“壁”",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/23/news004.html",
+      "summary": "定型業務の約8割がExcel・紙・メール中心、9割超でデータ転記が発生――バックオフィスの業務改善を阻む現場の実態を、NTTデータビジネスブレインズが調査した。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-22T23:00:00+00:00"
+    },
+    {
       "title": "Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis",
       "link": "https://philpapers.org/rec/NIEIOT-2",
       "summary": "Article URL: https://philpapers.org/rec/NIEIOT-2\nComments URL: https://news.ycombinator.com/item?id=50604742\nPoints: 23\n# Comments: 3",
@@ -2576,6 +2604,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-22T22:21:56+00:00"
+    },
+    {
+      "title": "Localcode, open source agentic coding on your Mac with one command",
+      "link": "https://github.com/mjwsolo/localcode",
+      "summary": "Article URL: https://github.com/mjwsolo/localcode\nComments URL: https://news.ycombinator.com/item?id=50604540\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T22:18:48+00:00"
     },
     {
       "title": "成果文書の採択断念　脱化石燃料で合意できず―ＣＯＰ３１閉幕",
