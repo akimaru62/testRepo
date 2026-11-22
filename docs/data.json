@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T17:33:03.799401+00:00",
+  "generated_at": "2026-11-22T17:47:20.608781+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2366,9 +2366,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Perplexity and Intelligence",
+      "link": "https://openai.com/index/perplexity-and-intelligence/",
+      "summary": "Article URL: https://openai.com/index/perplexity-and-intelligence/\nComments URL: https://news.ycombinator.com/item?id=50601525\nPoints: 12\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T17:06:27+00:00"
+    },
     {
       "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?",
       "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
@@ -292127,6 +292139,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2023-10-31T23:27:30+00:00"
+    },
+    {
+      "title": "NVGS.K - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQQVlWMllIeUtvWlRkSHJnTE8zb3NaOGhFeXZoRS1pZDBjdTBWdmVoYUZLX09YVmxBMVBhV1hTRUM2amFXTzhRZjVzY1c0Z3U2V0RhMVViT2Z2VW1B?oc=5",
+      "summary": "NVGS.K&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2023-10-14T00:22:39+00:00"
     },
     {
       "title": "0016.HK - | Stock Price & Latest News - Reuters",
