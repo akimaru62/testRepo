@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T03:47:41.534458+00:00",
+  "generated_at": "2026-11-22T04:05:56.566029+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2126,9 +2126,25 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://cloud.google.com/blog/rss",
+      "error": "503 Server Error: Service Unavailable for url: https://cloud.google.com/blog/rss"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "《｢何を覚えた？｣は逆効果》学習漫画で子どもの知識を広げる､親の｢さりげない声かけ｣とは？ | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964138?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "学習漫画を子どもに読ませる時､ついつい本当に知識が定着しているか不安になる親は多いもの。しかし､親が聞きがちな｢何を覚えた？｣という問いかけが､むしろ子どもの学びを妨げているかもしれません。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-22T04:00:00+00:00"
+    },
     {
       "title": "島田麻央、ミス響かず　光る安定感―フィギュアＧＰ",
       "link": "https://www.jiji.com/jc/article?k=2026112200149&g=spo&m=rss",
