@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T21:04:26.299682+00:00",
+  "generated_at": "2026-11-22T21:17:32.912788+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2422,9 +2422,77 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "普天間会議、年内にも開催　木原官房長官、沖縄知事と会談",
+      "link": "https://www.jiji.com/jc/article?k=2026112200242&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T21:17:27.738389+00:00"
+    },
+    {
+      "title": "首相動静（１１月２２日）",
+      "link": "https://www.jiji.com/jc/article?k=2026112200163&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T21:17:27.738365+00:00"
+    },
+    {
+      "title": "経団連がなぜ選択的夫婦別姓を求めるのか　背景にある企業の危機感",
+      "link": "https://www.asahi.com/articles/ASVCP1C4QVCPULLI00PM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-22T21:17:27.334354+00:00"
+    },
+    {
+      "title": "謎風邪で抗生物質!?　医師が危惧する\"念のため\"処方の末路…｢薬が効かない耐性菌｣の死者数が交通事故死を上回る衝撃 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965242?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "春に続きSNSで話題になっている\"謎風邪\"をめぐり､抗生物質（抗菌薬）を処方されたという投稿も見られます。しかし､風邪の多くはウイルスが原因で抗菌薬は効きません。｢念のため｣の処方が広げる薬が効かな…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-22T21:15:00+00:00"
+    },
+    {
+      "title": "実は\"手帳だけ\"じゃない『ほぼ日』売上高107億円の裏側…渋谷『深夜食堂』の熱気と糸井重里からバトンを受けた\"第二創業\" | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964869?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢ほぼ日｣は手帳やウェブサイトだけでなく､多彩な事業で独自の世界観を築いてきました。しかし株式市場からの評価は長らく低迷。そんな中､経営体制の刷新と海外展開を契機に､評価が変わり始めています。第二創…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-22T21:01:00+00:00"
+    },
+    {
+      "title": "マイクロソフト､アップル､ユナイテッド航空､銀行大手…アメリカで続く大規模システム障害は偶然なのか | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965382?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "わずか6日間で、アメリカ人は自分たちの国が本当に機能不全に陥りつつあるのではないかと思い始めた。始まりは11月12日のマイクロソフトの障害だった。翌13日には、航空機の地上待機措置が全土に広がった。…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-22T21:00:00+00:00"
+    },
+    {
+      "title": "｢『ほぼ日手帳』メキシコで大流行!?｣ なぜスマホ時代に114万部も売れるのか､\"海外売上6割\"熱狂の裏側 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964868?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "デジタル時代にあって､紙の手帳｢ほぼ日手帳｣が世界中で爆発的人気を誇るのはなぜでしょうか。1日1ページの自由なレイアウトや多彩なカバー展開､そしてユーザー発信によるSNSでの広がり。その魅力の裏側と…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-22T21:00:00+00:00"
+    },
+    {
+      "title": "卵子提供の話に父親は｢うちの遺伝子じゃない｣と反発､パリ在住の日本人女性が｢海外養子縁組｣を決めるまでの葛藤 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964854?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "妊娠への夢が叶わず､生殖医療や卵子提供にも挑戦した末､フランスで暮らす日本人女性は夫と共に養子縁組を決意します。血縁や国籍､制度の壁を越え､家族のかたちを模索し続けた先に見つけた\"新しい家族\"とは―…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-22T21:00:00+00:00"
+    },
     {
       "title": "74歳男性が買った150坪の\"廃墟\"､使い道は｢みんなで考える｣——840年前の薬草サウナが残る山口の山里で始まった挑戦 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/964936?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -2432,6 +2500,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-22T20:45:00+00:00"
+    },
+    {
+      "title": "A miniature San Francisco with live buses, planes and boats",
+      "link": "https://smallsf.com/",
+      "summary": "Article URL: https://smallsf.com/\nComments URL: https://news.ycombinator.com/item?id=50603589\nPoints: 8\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T20:33:23+00:00"
     },
     {
       "title": "NVIDIAを揺るがした｢人的リスク｣は他人事ではない､アメリカ中間選挙後に変わるサイバーセキュリティの焦点 | ビジネス | 東洋経済オンライン",
