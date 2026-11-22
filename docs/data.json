@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T02:47:24.608192+00:00",
+  "generated_at": "2026-11-22T03:06:15.898621+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2110,6 +2110,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2165,6 +2169,14 @@
       "title": "OpenRouter off-boards 3 providers, pulls 125 endpoints from zero data retention",
       "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
       "summary": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/\nComments URL: https://news.ycombinator.com/item?id=50595554\nPoints: 8\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T02:14:14+00:00"
+    },
+    {
+      "title": "Data Processing Incidents on Inference Providers",
+      "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "summary": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/\nComments URL: https://news.ycombinator.com/item?id=50595554\nPoints: 18\n# Comments: 4",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-22T02:14:14+00:00"
