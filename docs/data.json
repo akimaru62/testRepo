@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T17:17:37.905070+00:00",
+  "generated_at": "2026-11-22T17:33:03.799401+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2362,6 +2362,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2551,6 +2555,14 @@
     },
     {
       "title": "Climate talks fail after stand-off over fossil fuels",
+      "link": "https://www.ft.com/content/1b6089f6-2201-43b4-8ed4-0c689a916afa?syn-25a6b1a6=1",
+      "summary": "Geopolitical divides laid bare in fracture between Arab group and EU-led coalition",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-22T13:50:41+00:00"
+    },
+    {
+      "title": "COP31 climate talks fail after stand-off over fossil fuels",
       "link": "https://www.ft.com/content/1b6089f6-2201-43b4-8ed4-0c689a916afa?syn-25a6b1a6=1",
       "summary": "Geopolitical divides laid bare in fracture between Arab group and EU-led coalition",
       "source": "Financial Times",
@@ -2788,6 +2800,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-22T10:04:51.408235+00:00"
+    },
+    {
+      "title": "Boomers Are Rewriting the Playbook for Old Age. It Doesn’t Include Winding Down.",
+      "link": "https://www.wsj.com/personal-finance/retirement/baby-boomers-aging-eec29458?mod=rss_markets_main",
+      "summary": "Richer and more adventurous than their predecessors, baby boomers are living it up: “Somebody like me never retires like my parents did.”",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-22T10:00:00+00:00"
     },
     {
       "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
