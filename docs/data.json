@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T03:33:11.077677+00:00",
+  "generated_at": "2026-11-22T03:47:41.534458+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2122,6 +2122,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2156,6 +2160,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-22T03:00:00+00:00"
+    },
+    {
+      "title": "The Most Popular Car Colors in America",
+      "link": "https://www.iseecars.com/most-popular-car-colors-study",
+      "summary": "Article URL: https://www.iseecars.com/most-popular-car-colors-study\nComments URL: https://news.ycombinator.com/item?id=50595725\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T02:47:18+00:00"
     },
     {
       "title": "無資格注射疑いのペット店 実態は",
