@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T16:47:29.524068+00:00",
+  "generated_at": "2026-11-22T17:04:16.248744+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2354,9 +2354,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?",
+      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "summary": "If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden moves.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-22T17:00:00+00:00"
+    },
+    {
+      "title": "FTSE 100 catering giant Compass plans to move main listing to New York",
+      "link": "https://www.ft.com/content/7b48ea5e-6372-4bb7-ae5c-8b7ddd020883?syn-25a6b1a6=1",
+      "summary": "£43bn group set to announce intention to move as soon as Tuesday",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-22T16:43:09+00:00"
+    },
     {
       "title": "菓子工場で火災、２０人超死亡か　インドネシア、捜索継続へ",
       "link": "https://www.jiji.com/jc/article?k=2026112200292&g=int&m=rss",
