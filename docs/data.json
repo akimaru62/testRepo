@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T12:47:22.552139+00:00",
+  "generated_at": "2026-11-22T13:04:39.352714+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2286,6 +2286,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2320,6 +2324,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-22T12:21:27.687615+00:00"
+    },
+    {
+      "title": "AI is becoming a disaster for the climate",
+      "link": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+      "summary": "Article URL: https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the\nComments URL: https://news.ycombinator.com/item?id=50598961\nPoints: 13\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T12:19:46+00:00"
     },
     {
       "title": "US ports face cyber attack onslaught as hackers target vital trade routes",
