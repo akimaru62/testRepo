@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T20:17:06.950065+00:00",
+  "generated_at": "2026-11-22T20:33:17.244126+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2410,6 +2410,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2548,6 +2552,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-22T16:17:23.044163+00:00"
+    },
+    {
+      "title": "C++26 is done (again): November 2026 ISO C++ meeting trip report",
+      "link": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+      "summary": "Article URL: https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/\nComments URL: https://news.ycombinator.com/item?id=50600838\nPoints: 11\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T15:59:59+00:00"
     },
     {
       "title": "Norway to extend proposed under-16 social media ban to games and messaging apps",
