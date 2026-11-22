@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T07:33:23.142094+00:00",
+  "generated_at": "2026-11-22T07:47:43.065067+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2202,6 +2202,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2228,6 +2232,22 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-22T07:17:15.192488+00:00"
+    },
+    {
+      "title": "The Engineering Manager's role is under attack (again)",
+      "link": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again",
+      "summary": "Article URL: https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again\nComments URL: https://news.ycombinator.com/item?id=50597014\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T07:01:00+00:00"
+    },
+    {
+      "title": "Notes on the discrete Fourier transform (DFT)",
+      "link": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+      "summary": "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/\nComments URL: https://news.ycombinator.com/item?id=50596960\nPoints: 10\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T06:52:25+00:00"
     },
     {
       "title": "パナソニックが優勝　実業団女子駅伝",
