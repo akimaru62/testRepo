@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T20:33:17.244126+00:00",
+  "generated_at": "2026-11-22T20:47:45.103857+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2414,9 +2414,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "NVIDIAを揺るがした｢人的リスク｣は他人事ではない､アメリカ中間選挙後に変わるサイバーセキュリティの焦点 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965133?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2026年の米中間選挙で民主党が議会を掌握し､アメリカのサイバーセキュリティ政策は大きな転機を迎えた。トランプ政権の組織改革やAIをめぐる米中競争といった激変の中､CISA再建やAI悪用への対策､企…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-22T20:30:00+00:00"
+    },
     {
       "title": "ロボタクシーより｢アナログな低速車｣が効く理由――鳥取県倉吉市が実証から2年で掴んだ地域交通の正解 | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/964966?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -2520,6 +2532,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-22T17:58:00+00:00"
+    },
+    {
+      "title": "Was software just always too complex for humans?",
+      "link": "https://anil.recoil.org/notes/software-too-complex-for-humans",
+      "summary": "Article URL: https://anil.recoil.org/notes/software-too-complex-for-humans\nComments URL: https://news.ycombinator.com/item?id=50601823\nPoints: 11\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T17:32:41+00:00"
     },
     {
       "title": "Perplexity and Intelligence",
