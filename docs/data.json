@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T14:47:38.293120+00:00",
+  "generated_at": "2026-11-22T15:04:54.660784+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2318,9 +2318,25 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7830daf1a3c0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
+      "link": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
+      "summary": "There’s been no shortage of trends deemed once-in-a-generation by executives on earnings calls.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-22T15:01:00+00:00"
+    },
     {
       "title": "ＣＯＰ３１は成果文書の採択を断念した",
       "link": "https://www.jiji.com/jc/article?k=2026112200384&g=flash&m=rss",
