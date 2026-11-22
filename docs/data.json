@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T02:22:45.942953+00:00",
+  "generated_at": "2026-11-22T02:33:24.482927+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2102,6 +2102,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2168,6 +2172,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-22T00:58:05+00:00"
+    },
+    {
+      "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
+      "link": "https://github.com/ItsNotRexed/Leonida",
+      "summary": "Article URL: https://github.com/ItsNotRexed/Leonida\nComments URL: https://news.ycombinator.com/item?id=50595168\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T00:57:26+00:00"
     },
     {
       "title": "(Supposed) ex-Rockstar employee: GTAVI creates psychological profiles, sells it",
