@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T05:47:31.924054+00:00",
+  "generated_at": "2026-11-22T06:08:14.558535+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2166,9 +2166,69 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "A rocky road to Irish unity",
+      "link": "https://www.ft.com/content/4d467ab8-00a7-4937-8775-30a42a00131f?syn-25a6b1a6=1",
+      "summary": "Dublin’s initiative shines a light on obstacles to, as well as arguments for, a united Ireland",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-22T05:00:14+00:00"
+    },
+    {
+      "title": "Argentina’s borrowing costs jump as Milei’s falling popularity rattles investors",
+      "link": "https://www.ft.com/content/f3ecede4-74a3-431a-89c5-a06fcd30812a?syn-25a6b1a6=1",
+      "summary": "Libertarian’s financing plans and declining approval ratings damp spirits ahead of re-election bid",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-22T05:00:14+00:00"
+    },
+    {
+      "title": "Napoleon’s warning to Nvidia’s Jensen Huang",
+      "link": "https://www.ft.com/content/f4a9e8ac-9ba2-40ac-8d27-8ce2b9639e2a?syn-25a6b1a6=1",
+      "summary": "A flat hierarchy and micromanagement can concentrate power dangerously at the top",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-22T05:00:06+00:00"
+    },
+    {
+      "title": "The ‘austere’ conservative poised to lead Spain with the far right",
+      "link": "https://www.ft.com/content/cd179793-2880-4c4c-8bdd-9924b2eac12a?syn-25a6b1a6=1",
+      "summary": "Alberto Núñez Feijóo is on course to become the country’s next prime minister — but only with the backing of the Vox party",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-22T05:00:06+00:00"
+    },
+    {
+      "title": "Tech suppliers hike AI server prices up to 45% months after deals are signed",
+      "link": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f?syn-25a6b1a6=1",
+      "summary": "Dell, HPE, Lenovo and Supermicro demand more for equipment, with the increased costs hitting trading firms",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-22T05:00:06+00:00"
+    },
+    {
+      "title": "Amazon’s AI resistance: workers ready for battle over data centres",
+      "link": "https://www.ft.com/content/d194e93b-8d3c-42eb-85dd-46d58c4f2a80?syn-25a6b1a6=1",
+      "summary": "Tech company’s plans for rapid expansion face opposition from the public and its own employees",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-22T05:00:06+00:00"
+    },
+    {
+      "title": "Private equity backers flag fresh concerns about sell-to-yourself deals",
+      "link": "https://www.ft.com/content/d299785f-dc83-4850-95b8-e08b9a643f98?syn-25a6b1a6=1",
+      "summary": "Co-investors in buyout funds frustrated at being forced out when assets are sold into continuation vehicles",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-22T05:00:06+00:00"
+    },
     {
       "title": "うーん 買い取り店で揺れる人の心",
       "link": "https://news.yahoo.co.jp/pickup/6603538?source=rss",
@@ -2181,6 +2241,14 @@
       "title": "Toyota, Nissan, and Honda to Standardize Parts to Lower Costs",
       "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
       "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/\nComments URL: https://news.ycombinator.com/item?id=50596133\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T04:04:56+00:00"
+    },
+    {
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/\nComments URL: https://news.ycombinator.com/item?id=50596133\nPoints: 180\n# Comments: 91",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-22T04:04:56+00:00"
@@ -3197,6 +3265,14 @@
       "title": "RCE in Gnupg",
       "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
       "summary": "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html\nComments URL: https://news.ycombinator.com/item?id=50587208\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-21T08:32:58+00:00"
+    },
+    {
+      "title": "GnuPG Security Advisory for GPGME",
+      "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "summary": "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html\nComments URL: https://news.ycombinator.com/item?id=50587208\nPoints: 247\n# Comments: 98",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-21T08:32:58+00:00"
