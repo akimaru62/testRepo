@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T20:47:45.103857+00:00",
+  "generated_at": "2026-11-22T21:04:26.299682+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2418,9 +2418,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "74歳男性が買った150坪の\"廃墟\"､使い道は｢みんなで考える｣——840年前の薬草サウナが残る山口の山里で始まった挑戦 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964936?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "高齢化と人口減少が加速する日本の限界集落。その現実に向き合い､山口県徳地地域では空き家だった古民家を拠点に若者や移住者､地域住民が新たな交流と再生の場を築こうと奮闘しています。かつて東大寺再建の木材…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-22T20:45:00+00:00"
+    },
     {
       "title": "NVIDIAを揺るがした｢人的リスク｣は他人事ではない､アメリカ中間選挙後に変わるサイバーセキュリティの焦点 | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965133?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -2428,6 +2440,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-22T20:30:00+00:00"
+    },
+    {
+      "title": "Nyx, the Oldest Internet Service Provider",
+      "link": "https://nyx.net/",
+      "summary": "Article URL: https://nyx.net/\nComments URL: https://news.ycombinator.com/item?id=50603465\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T20:15:59+00:00"
     },
     {
       "title": "ロボタクシーより｢アナログな低速車｣が効く理由――鳥取県倉吉市が実証から2年で掴んだ地域交通の正解 | ビジネス | 東洋経済オンライン",
