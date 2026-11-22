@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T03:20:01.817356+00:00",
+  "generated_at": "2026-11-22T03:33:11.077677+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2118,6 +2118,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2216,6 +2220,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-22T02:14:14+00:00"
+    },
+    {
+      "title": "The Mythology of Conscious AI",
+      "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/\nComments URL: https://news.ycombinator.com/item?id=50595537\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T02:10:02+00:00"
     },
     {
       "title": "プロが猫と本気で遊んでみたら…その驚くべき｢遊び方｣の中身とは？そして\"暴れん坊子猫\"のその後は… | ライフ | 東洋経済オンライン",
