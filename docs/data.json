@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T06:47:33.196989+00:00",
+  "generated_at": "2026-11-22T07:05:37.607175+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2182,6 +2182,14 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2202,6 +2210,14 @@
       "published": "2026-11-22T06:24:53.060670+00:00"
     },
     {
+      "title": "Show HN: The Riemann Proof Handbook",
+      "link": "https://github.com/tamnd/riemann-handbook",
+      "summary": "Article URL: https://github.com/tamnd/riemann-handbook\nComments URL: https://news.ycombinator.com/item?id=50596664\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T05:46:30+00:00"
+    },
+    {
       "title": "A rocky road to Irish unity",
       "link": "https://www.ft.com/content/4d467ab8-00a7-4937-8775-30a42a00131f?syn-25a6b1a6=1",
       "summary": "Dublin’s initiative shines a light on obstacles to, as well as arguments for, a united Ireland",
@@ -2213,6 +2229,14 @@
       "title": "Argentina’s borrowing costs jump as Milei’s falling popularity rattles investors",
       "link": "https://www.ft.com/content/f3ecede4-74a3-431a-89c5-a06fcd30812a?syn-25a6b1a6=1",
       "summary": "Libertarian’s financing plans and declining approval ratings damp spirits ahead of re-election bid",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-22T05:00:14+00:00"
+    },
+    {
+      "title": "Cheap Chinese ecommerce parcels flood the UK",
+      "link": "https://www.ft.com/content/2b2824e2-16b9-4621-85a0-7dad220644d5?syn-25a6b1a6=1",
+      "summary": "Value of small imported packages rose fourfold in the past two years as purchases from Asian online retail groups and platforms boomed",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-22T05:00:14+00:00"
