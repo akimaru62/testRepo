@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T17:04:16.248744+00:00",
+  "generated_at": "2026-11-22T17:17:37.905070+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2358,6 +2358,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2394,12 +2398,28 @@
       "published": "2026-11-22T15:54:24+00:00"
     },
     {
+      "title": "Ask HN: Are the trades a safe career transition?",
+      "link": "https://news.ycombinator.com/item?id=50600771",
+      "summary": "I am a software guy. Engineering degree but not PEng. Im thinking of jumping ship because i dont see much of a future in the career. Ai has me a little discouragedI need a few decades of at least mild security to get to retirement...Are the trades safe?Im worried about homeowners and companies ending up with robots that do all those tasks. Not next year obviously, but it could happen before the career change fully pays offAnd if not the trades, then what is a better bet?\n\nComments URL: https://news.ycombinator.com/item?id=50600771\nPoints: 9\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T15:52:33+00:00"
+    },
+    {
       "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
       "link": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
       "summary": "Article URL: https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html\nComments URL: https://news.ycombinator.com/item?id=50600677\nPoints: 3\n# Comments: 0",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-22T15:42:40+00:00"
+    },
+    {
+      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+      "link": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+      "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/\nComments URL: https://news.ycombinator.com/item?id=50600622\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T15:35:24+00:00"
     },
     {
       "title": "A better internet for everyone is possible. Today",
