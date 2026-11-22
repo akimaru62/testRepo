@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T17:47:20.608781+00:00",
+  "generated_at": "2026-11-22T18:05:55.774630+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2370,9 +2370,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Opinion | Give Thanks to Inverse Billionaires",
+      "link": "https://www.wsj.com/opinion/give-thanks-to-inverse-billionaires-0a839607?mod=rss_markets_main",
+      "summary": "Tech leaders capture only 4% of the wealth they create. Everyone else splits the rest.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-22T17:58:00+00:00"
+    },
     {
       "title": "Perplexity and Intelligence",
       "link": "https://openai.com/index/perplexity-and-intelligence/",
@@ -2540,6 +2552,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-22T14:17:37.862279+00:00"
+    },
+    {
+      "title": "Sanctioned Russian vessel attacked by drones near Finland",
+      "link": "https://www.ft.com/content/2c959c95-97a5-4957-9eb2-8436c34ba374?syn-25a6b1a6=1",
+      "summary": "Finland’s prime minister says ‘war is spilling over into our immediate vicinity’ as ship is salvaged",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-22T14:15:40+00:00"
     },
     {
       "title": "Stocks are in a correction heading into the Thanksgiving holiday. What to brace for next.",
