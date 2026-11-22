@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T19:03:53.220906+00:00",
+  "generated_at": "2026-11-22T19:17:48.044703+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2390,9 +2390,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "エルデナリ、日本馬を一蹴　競馬マイルＣＳ",
+      "link": "https://www.jiji.com/jc/article?k=2026112200310&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T19:17:44.146241+00:00"
+    },
     {
       "title": "Bessent refuses to rule out Huang’s return to Nvidia",
       "link": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
