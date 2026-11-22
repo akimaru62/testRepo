@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T09:17:41.791343+00:00",
+  "generated_at": "2026-11-22T09:33:13.935162+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2230,9 +2230,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "益永利明死刑囚が死亡　７０年代連続企業爆破事件―法務省",
+      "link": "https://www.jiji.com/jc/article?k=2026112200259&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-22T09:33:08.970927+00:00"
+    },
     {
       "title": "水星探査機、軌道投入成功　「みお」など日欧の２機―欧州宇宙機関",
       "link": "https://www.jiji.com/jc/article?k=2026112200286&g=soc&m=rss",
