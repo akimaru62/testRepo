@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T22:47:47.880967+00:00",
+  "generated_at": "2026-11-22T23:04:58.107824+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2450,9 +2450,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "｢米中AI｣に規模では勝てない日本の《職人技》という活路…日本はAI時代に\"ウォークマン\"を再び生み出せるか | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/961673?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "AI分野でアメリカや中国に後れを取っていると言われる日本。しかし世界との差は本当に絶望的なのでしょうか？　｢規模｣と｢職人技｣の2つのゲームという視点で見ると､日本ならではの勝機が見えてきます。AI…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-22T23:00:00+00:00"
+    },
     {
       "title": "日経平均は6万円を大きく割り込んだが悲観するのはまだ早い､株価の｢底入れサイン｣が点灯する条件とは | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965588?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -2526,6 +2538,14 @@
       "published": "2026-11-22T22:11:46+00:00"
     },
     {
+      "title": "The Usefulness of Useless Knowledge [pdf]",
+      "link": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+      "summary": "Article URL: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf\nComments URL: https://news.ycombinator.com/item?id=50604472\nPoints: 12\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T22:10:58+00:00"
+    },
+    {
       "title": "House Democrats to start new Congress with largest majority this century",
       "link": "https://www.ft.com/content/9d2983a7-196d-4164-a0c1-e262f32fd8c9?syn-25a6b1a6=1",
       "summary": "Lawmakers plan to use powers to investigate claims of corruption levelled at Trump administration",
@@ -2548,6 +2568,22 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-22T22:00:00+00:00"
+    },
+    {
+      "title": "Agent swarm trying to solve P vs. NP",
+      "link": "https://pequalnp.com/",
+      "summary": "Article URL: https://pequalnp.com/\nComments URL: https://news.ycombinator.com/item?id=50604314\nPoints: 25\n# Comments: 13",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T21:53:45+00:00"
+    },
+    {
+      "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+      "link": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+      "summary": "Article URL: https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/\nComments URL: https://news.ycombinator.com/item?id=50604123\nPoints: 7\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T21:33:12+00:00"
     },
     {
       "title": "納豆でも卵でもない｢朝食におすすめの食材｣1位は？　医師･鎌田實が教える《健康長寿の朝ごはん》 | ライフ | 東洋経済オンライン",
@@ -2700,6 +2736,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-22T19:51:46+00:00"
+    },
+    {
+      "title": "What Happened in Fall 2026: AI and P vs. NP",
+      "link": "https://cacm.acm.org/blogcacm/what-happened-in-fall-2026-ai-and-p-vs-np",
+      "summary": "Article URL: https://cacm.acm.org/blogcacm/what-happened-in-fall-2026-ai-and-p-vs-np\nComments URL: https://news.ycombinator.com/item?id=50603219\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T19:50:36+00:00"
     },
     {
       "title": "Assume People Are Not Interested in Your Blog Post",
