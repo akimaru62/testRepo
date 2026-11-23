@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:33:18.293740+00:00",
+  "generated_at": "2026-11-23T18:47:26.004256+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2778,9 +2778,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Trump’s push to reinstate Jensen Huang signals Nvidia’s CEO is too big to fail",
+      "link": "https://www.marketwatch.com/story/trumps-push-to-reinstate-jensen-huang-signals-nvidias-ceo-is-too-big-to-fail-10709210?mod=mw_rss_topstories",
+      "summary": "“The bigger threat would be losing the brainpower of somebody like Jensen,” the president said amid concerns about corporate governance rules and export controls",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T18:43:00+00:00"
+    },
+    {
+      "title": "Comex Gold Settles 3.90% Higher at $3649.20",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-in-likely-technical-rebound-f895016c?mod=rss_markets_main",
+      "summary": "Gold settled 3.9% higher and silver rose 5.1%, with both metals snapping a three-session losing streak.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T18:43:00+00:00"
+    },
+    {
+      "title": "Jensen Is Back. But AI’s Problems Haven’t Gone Away.",
+      "link": "https://www.wsj.com/finance/stocks/jensen-is-back-but-ais-problems-havent-gone-away-7551770e?mod=rss_markets_main",
+      "summary": "The Nvidia CEO’s return is bad on multiple levels, and doesn’t remove serious challenges facing the AI ecosystem in general or the company in particular.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T18:32:00+00:00"
+    },
     {
       "title": "See how much more money the richest Americans are spending on the holidays compared to everyone else",
       "link": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
@@ -2820,6 +2848,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-23T17:31:00+00:00"
+    },
+    {
+      "title": "How should an LLM see a computer?",
+      "link": "https://www.greptile.com/blog/trex-computer-use",
+      "summary": "Article URL: https://www.greptile.com/blog/trex-computer-use\nComments URL: https://news.ycombinator.com/item?id=50615520\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T17:19:25+00:00"
     },
     {
       "title": "The tragedy — or is it farce? — of Jensen Huang",
