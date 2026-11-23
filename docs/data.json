@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T04:47:45.325907+00:00",
+  "generated_at": "2026-11-23T05:06:09.683984+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2546,9 +2546,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "The number of 401(k) millionaires drops amid stock-market swings",
+      "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
+      "summary": "‘It was a rocky quarter’: 401(k) balances drop and affordability concerns persist, Fidelity says",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T05:01:00+00:00"
+    },
+    {
+      "title": "Asian Regulators Step Up Efforts to Calm AI-Driven Market Turmoil",
+      "link": "https://www.wsj.com/finance/stocks/asian-regulators-step-up-efforts-to-calm-ai-driven-market-turmoil-95ea6cf8?mod=rss_markets_main",
+      "summary": "Regulators and market operators in China, South Korea and Taiwan have rolled out emergency measures to arrest the turmoil sparked by the global rout in artificial-intelligence stocks.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T04:55:00+00:00"
+    },
     {
       "title": "連覇の大の里「実感湧いてきた」　周囲に感謝も―大相撲九州場所",
       "link": "https://www.jiji.com/jc/article?k=2026112300185&g=spo&m=rss",
@@ -3388,6 +3408,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-22T19:10:34+00:00"
+    },
+    {
+      "title": "8377.t - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JbkpDUUcwcU9MLTN2cjdVbjNNMEZIOC1VVll5bV9Nb3BPR054eU5QbV9scnFlUUV2MUVIVndyZkk5T1ctQl9ZQ0JDelhGbjRXTXl2Mm41VWYzT3hBS3g0ZU1GdWZIbUh0MGhqRQ?oc=5",
+      "summary": "8377.t - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-22T18:55:50+00:00"
     },
     {
       "title": "Dirac's Theorem at a Dinner Party",
