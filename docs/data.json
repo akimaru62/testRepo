@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T19:34:10.612626+00:00",
+  "generated_at": "2026-11-23T19:47:46.982218+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2798,9 +2798,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "These stocks are the biggest gainers after Jensen Huang’s return to Nvidia",
+      "link": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
+      "summary": "Huang’s comeback offers relief to the battered AI trade and drives major boosts across the tech sector.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T19:44:00+00:00"
+    },
     {
       "title": "I’ve paid for long-term-care insurance for 20 years. Is it still worth it?",
       "link": "https://www.marketwatch.com/story/ive-paid-for-long-term-care-insurance-for-20-years-is-it-still-worth-it-1b2cd52d?mod=mw_rss_topstories",
@@ -2816,6 +2828,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-23T19:30:00+00:00"
+    },
+    {
+      "title": "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"",
+      "link": "https://arm.jonpalmisc.com/",
+      "summary": "Article URL: https://arm.jonpalmisc.com/\nComments URL: https://news.ycombinator.com/item?id=50617499\nPoints: 136\n# Comments: 22",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T19:17:55+00:00"
     },
     {
       "title": "「亀蛇」演舞で復興祈願　被災者「元気づけられた」―熊本・八代",
@@ -2904,6 +2924,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-23T18:14:00+00:00"
+    },
+    {
+      "title": "The startling return of Jensen Huang",
+      "link": "https://www.ft.com/content/d23fd311-ac96-4dfb-88ef-b1ccb2197f13?syn-25a6b1a6=1",
+      "summary": "Trump’s intervention to reinstate the Nvidia boss sets a dangerous precedent",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T18:11:30+00:00"
     },
     {
       "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, are among the S&P 500’s biggest losers Monday",
@@ -3035,6 +3063,14 @@
     },
     {
       "title": "Nvidia soars 30% as US stocks rally",
+      "link": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1",
+      "summary": "",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T16:35:08+00:00"
+    },
+    {
+      "title": "Nvidia soars 30% and US stocks rally",
       "link": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1",
       "summary": "",
       "source": "Financial Times",
