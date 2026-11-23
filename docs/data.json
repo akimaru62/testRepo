@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T23:17:53.277174+00:00",
+  "generated_at": "2026-11-23T23:33:08.411703+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2858,9 +2858,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
+      "link": "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
+      "summary": "SharkNinja will join the S&amp;P 500, replacing AES.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T23:18:00+00:00"
+    },
     {
       "title": "米民主、来年６月に候補者討論会　２８年大統領選へ準備加速",
       "link": "https://www.jiji.com/jc/article?k=2026112400174&g=int&m=rss",
@@ -3126,6 +3138,14 @@
       "published": "2026-11-23T21:51:00+00:00"
     },
     {
+      "title": "The AI conversation we're not having",
+      "link": "https://www.gnanaguru.com/blog/things-two-years-in-ai-taught-me/",
+      "summary": "Article URL: https://www.gnanaguru.com/blog/things-two-years-in-ai-taught-me/\nComments URL: https://news.ycombinator.com/item?id=50619838\nPoints: 7\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T21:46:33+00:00"
+    },
+    {
       "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500’s biggest losers Monday",
       "link": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
       "summary": "Shares of Kroger and Tyson Foods fall, as Nvidia storms higher",
@@ -3332,6 +3352,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-23T20:40:00+00:00"
+    },
+    {
+      "title": "Next gaming monitor should still be an OLED",
+      "link": "https://www.rockpapershotgun.com/theyre-more-complicated-and-more-expensive-than-lcd-screens-but-your-next-gaming-monitor-should-still-be-an-oled",
+      "summary": "Article URL: https://www.rockpapershotgun.com/theyre-more-complicated-and-more-expensive-than-lcd-screens-but-your-next-gaming-monitor-should-still-be-an-oled\nComments URL: https://news.ycombinator.com/item?id=50618798\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T20:30:46+00:00"
     },
     {
       "title": "レンジローバー最高峰､最上位モデルは4000万円超…日本初公開｢SV ULTRA｣とデザイン＆アートフェスティバルの親和性 | ライフ | 東洋経済オンライン",
