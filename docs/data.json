@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T17:33:09.826173+00:00",
+  "generated_at": "2026-11-23T17:47:42.627670+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2758,9 +2758,33 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "More AI jobs are coming. That’s one of the big hiring trends in 2027.",
+      "link": "https://www.marketwatch.com/story/more-ai-jobs-are-coming-thats-one-of-the-big-hiring-trends-in-2027-3d810209?mod=mw_rss_topstories",
+      "summary": "Maybe artificial intelligence will end up destroying lots of jobs, but the new technology might be creating more work in the short run.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T17:37:00+00:00"
+    },
+    {
+      "title": "Nasdaq Jumps, Nvidia Surges as Investors Cheer Jensen Huang’s Return as CEO",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-rally-as-dust-settles-after-ai-driven-selloff-705ff2c4?mod=rss_markets_main",
+      "summary": "U.S. stocks soared, with the Nasdaq surging more than 6% and the S&amp;P 500 escaping correction territory, following the reinstatement of Nvidia CEO Jensen Huang.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T17:37:00+00:00"
+    },
     {
       "title": "Opinion | Government Gets a Tax Windfall From Anthropic",
       "link": "https://www.wsj.com/opinion/government-gets-a-tax-windfall-from-anthropic-790b0571?mod=rss_markets_main",
