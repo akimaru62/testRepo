@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T09:24:09.412560+00:00",
+  "generated_at": "2026-11-23T09:35:20.029374+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2614,9 +2614,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "外相、統一相が交代へ　対米関係立て直し―韓国",
+      "link": "https://www.jiji.com/jc/article?k=2026112300249&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T09:35:15.547514+00:00"
+    },
+    {
+      "title": "U.S., European Bond Yields Rise, Reversing Last Week’s Sharp Falls",
+      "link": "https://www.wsj.com/finance/investing/u-s-european-bond-yields-rise-reversing-last-weeks-sharp-falls-9afadf09?mod=rss_markets_main",
+      "summary": "Treasury yields and European government bond yields rose,  correcting some of last week’s significant declines.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T09:25:00+00:00"
+    },
     {
       "title": "ＪＯＣ前会長の山下泰裕氏、オリンピアン交流会に　２８年ロス五輪に期待",
       "link": "https://www.jiji.com/jc/article?k=2026112300317&g=spo&m=rss",
