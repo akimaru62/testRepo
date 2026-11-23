@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T01:34:09.314882+00:00",
+  "generated_at": "2026-11-23T01:47:19.275356+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2494,9 +2494,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "How the WSJ Determined Mark Walter’s Total Borrowing",
+      "link": "https://www.wsj.com/finance/magic-johnson-mark-walters-methodologytal-borrowing-990d6693?mod=rss_markets_main",
+      "summary": "",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T01:44:00+00:00"
+    },
+    {
+      "title": "ソフトバンクGが26年中の買収完了目指す｢ABBロボット事業｣､中国当局の阻止で白紙となった場合の選択肢とは | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965604?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "スイスの重電大手ABBがソフトバンクグループ（SBG）にロボット事業を売却する計画は､中国当局の阻止により白紙撤回の可能性が浮上しています。ABBとSBGは計画の修正に取り組んでいるようです。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-23T01:30:00+00:00"
+    },
     {
       "title": "岩井明愛が２位、吉田優利７位　山下美夢有が年間最少平均スコア―米女子ゴルフ",
       "link": "https://www.jiji.com/jc/article?k=2026112300124&g=spo&m=rss",
@@ -2514,12 +2534,28 @@
       "published": "2026-11-23T01:19:12.609713+00:00"
     },
     {
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "link": "https://spelunkr.tv",
+      "summary": "Article URL: https://spelunkr.tv\nComments URL: https://news.ycombinator.com/item?id=50606192\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T01:13:51+00:00"
+    },
+    {
       "title": "Some Underperforming Japan Stocks May Start Rising After Strong Results",
       "link": "https://www.wsj.com/finance/stocks/some-underperforming-japan-stocks-may-start-rising-after-strong-results-e6e3f434?mod=rss_markets_main",
       "summary": "Improving earnings and positive post-results price action for some Japanese companies point to a potential inflection, Jefferies said.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-23T01:05:00+00:00"
+    },
+    {
+      "title": "What we learned operating auth for 1k APIs",
+      "link": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+      "summary": "Article URL: https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/\nComments URL: https://news.ycombinator.com/item?id=50606072\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T01:01:11+00:00"
     },
     {
       "title": "Gold Rises in Likely Technical Rebound",
