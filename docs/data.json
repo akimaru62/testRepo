@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:06:15.812989+00:00",
+  "generated_at": "2026-11-23T18:19:57.111998+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2770,9 +2770,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "See how much more money the richest Americans are spending on the holidays compared to everyone else",
+      "link": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
+      "summary": "Most households are getting “squeezed by rising costs of everyday goods,” according to Teneo, but upper-income households “are showing resilience.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T18:14:00+00:00"
+    },
     {
       "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, are among the S&P 500’s biggest losers Monday",
       "link": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
@@ -2934,6 +2946,14 @@
       "published": "2026-11-23T15:28:41+00:00"
     },
     {
+      "title": "One man's quest to end daylight savings",
+      "link": "https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings",
+      "summary": "Article URL: https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings\nComments URL: https://news.ycombinator.com/item?id=50613465\nPoints: 37\n# Comments: 54",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T15:28:41+00:00"
+    },
+    {
       "title": "２位の平田玲翔「活躍できるように」　巨人が新入団発表―プロ野球",
       "link": "https://www.jiji.com/jc/article?k=2026112300418&g=spo&m=rss",
       "summary": "",
@@ -3001,6 +3021,14 @@
       "title": "GTA 6 Xbox executable released early by cyberleek",
       "link": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/",
       "summary": "Article URL: https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/\nComments URL: https://news.ycombinator.com/item?id=50612686\nPoints: 34\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T14:49:44+00:00"
+    },
+    {
+      "title": "Cyberleek posted the GTA 6 Xbox build executable",
+      "link": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/",
+      "summary": "Article URL: https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/\nComments URL: https://news.ycombinator.com/item?id=50612686\nPoints: 94\n# Comments: 58",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-23T14:49:44+00:00"
@@ -3521,6 +3549,14 @@
       "title": "You can't afford to keep your SSH keys on disk",
       "link": "https://jola.dev/posts/you-cant-afford-ssh-keys-disk",
       "summary": "Article URL: https://jola.dev/posts/you-cant-afford-ssh-keys-disk\nComments URL: https://news.ycombinator.com/item?id=50609579\nPoints: 16\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T09:55:38+00:00"
+    },
+    {
+      "title": "Don't keep your SSH keys on disk",
+      "link": "https://jola.dev/posts/you-cant-afford-ssh-keys-disk",
+      "summary": "Article URL: https://jola.dev/posts/you-cant-afford-ssh-keys-disk\nComments URL: https://news.ycombinator.com/item?id=50609579\nPoints: 62\n# Comments: 49",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-23T09:55:38+00:00"
