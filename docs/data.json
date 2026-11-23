@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T19:04:08.154877+00:00",
+  "generated_at": "2026-11-23T19:17:45.017551+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2786,9 +2786,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "「亀蛇」演舞で復興祈願　被災者「元気づけられた」―熊本・八代",
+      "link": "https://www.jiji.com/jc/article?k=2026112300392&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T19:17:41.394014+00:00"
+    },
     {
       "title": "Ken Chenault on Why CEOs Shouldn’t Lose Their Nerve",
       "link": "https://www.wsj.com/business/ken-chenault-on-why-ceos-shouldnt-lose-their-nerve-6a26617a?mod=rss_markets_main",
@@ -2812,6 +2824,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-23T18:48:33+00:00"
+    },
+    {
+      "title": "Apple removed my open-source app from EU App Stores after 9 years",
+      "link": "https://github.com/glushchenko/fsnotes/discussions/2056",
+      "summary": "Article URL: https://github.com/glushchenko/fsnotes/discussions/2056\nComments URL: https://news.ycombinator.com/item?id=50616933\nPoints: 19\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T18:48:10+00:00"
     },
     {
       "title": "Amazon may have just found a ‘cheap’ way to get a lot more out of its chips",
@@ -2975,6 +2995,14 @@
     },
     {
       "title": "Nvidia and Nasdaq soar after board reinstates Huang",
+      "link": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1",
+      "summary": "",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T16:35:08+00:00"
+    },
+    {
+      "title": "Nvidia soars 30% as US stocks rally",
       "link": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1",
       "summary": "",
       "source": "Financial Times",
