@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T09:07:47.387908+00:00",
+  "generated_at": "2026-11-23T09:24:09.412560+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2610,9 +2610,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "ＪＯＣ前会長の山下泰裕氏、オリンピアン交流会に　２８年ロス五輪に期待",
+      "link": "https://www.jiji.com/jc/article?k=2026112300317&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T09:24:05.802438+00:00"
+    },
+    {
+      "title": "山下美夢有３勝、４人が初Ｖ　向上心あふれる日本勢―米女子ゴルフ",
+      "link": "https://www.jiji.com/jc/article?k=2026112300291&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T09:24:05.802426+00:00"
+    },
+    {
+      "title": "正恩氏「友好国と協力強化」　北朝鮮、外交多極化に意欲",
+      "link": "https://www.jiji.com/jc/article?k=2026112300299&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T09:24:05.802394+00:00"
+    },
+    {
+      "title": "Continued Euro Weakness Looks Likely For Now",
+      "link": "https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e?mod=rss_markets_main",
+      "summary": "The euro rose slightly against the dollar and  XS.com said the currency faced ongoing weakness against the dollar in the near term.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T09:11:00+00:00"
+    },
     {
       "title": "Gold Rebounds From Last Week’s Plunge, With Focus on U.S. Inflation Data",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-in-likely-technical-rebound-f895016c?mod=rss_markets_main",
