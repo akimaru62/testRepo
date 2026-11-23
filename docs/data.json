@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T17:17:55.544966+00:00",
+  "generated_at": "2026-11-23T17:33:09.826173+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2754,9 +2754,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Opinion | Government Gets a Tax Windfall From Anthropic",
+      "link": "https://www.wsj.com/opinion/government-gets-a-tax-windfall-from-anthropic-790b0571?mod=rss_markets_main",
+      "summary": "U.S. companies take a large share of the burden.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T17:31:00+00:00"
+    },
+    {
+      "title": "The tragedy — or is it farce? — of Jensen Huang",
+      "link": "https://www.ft.com/content/611430d0-9aec-4e5e-95d7-615e86f692ce?syn-25a6b1a6=1",
+      "summary": "Nvidia took Huang back because his failures left the company with no other options",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T17:17:50+00:00"
+    },
     {
       "title": "EasyPost (YC S13) Is Hiring",
       "link": "https://www.easypost.com/careers/",
@@ -2767,6 +2787,14 @@
     },
     {
       "title": "Jensen Huang’s return is a triumph of money over morals",
+      "link": "https://www.ft.com/content/189b5df2-2d06-42db-8843-1a542efb0a8f?syn-25a6b1a6=1",
+      "summary": "The chipmaker’s soaring stock suggests investors are on board with its co-founder’s astonishing comeback",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T16:51:47+00:00"
+    },
+    {
+      "title": "Huang’s return is a triumph of money over morals",
       "link": "https://www.ft.com/content/189b5df2-2d06-42db-8843-1a542efb0a8f?syn-25a6b1a6=1",
       "summary": "The chipmaker’s soaring stock suggests investors are on board with its co-founder’s astonishing comeback",
       "source": "Financial Times",
