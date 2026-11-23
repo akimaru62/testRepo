@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T07:47:33.020940+00:00",
+  "generated_at": "2026-11-23T08:08:14.138370+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2586,6 +2586,14 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2596,6 +2604,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-23T07:47:28.814320+00:00"
+    },
+    {
+      "title": "Ukraine sinks Russian warship off coast of Libya",
+      "link": "https://www.ft.com/content/b3f020fc-2617-4432-bced-af2a0b120133?syn-25a6b1a6=1",
+      "summary": "Volodymyr Zelenskyy described the attack as an ‘exemplary’ sea drone operation",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T07:45:47+00:00"
     },
     {
       "title": "Dollar Edges Lower as Oil Prices Decline",
@@ -2679,6 +2695,14 @@
     },
     {
       "title": "South Korean minister says he’s too old to tackle AI exam cheating",
+      "link": "https://www.ft.com/content/d97f37d0-588e-488c-b10e-035900367aa4?syn-25a6b1a6=1",
+      "summary": "Choi Kyo-jin, 72, resigns after comments fuel anger over authorities’ handling of abuses in high-stakes tests",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T07:10:04+00:00"
+    },
+    {
+      "title": "South Korean minister says he is too old to tackle AI exam cheating",
       "link": "https://www.ft.com/content/d97f37d0-588e-488c-b10e-035900367aa4?syn-25a6b1a6=1",
       "summary": "Choi Kyo-jin, 72, resigns after comments fuel anger over authorities’ handling of abuses in high-stakes tests",
       "source": "Financial Times",
