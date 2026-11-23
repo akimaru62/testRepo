@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T03:07:04.079793+00:00",
+  "generated_at": "2026-11-23T03:22:14.139208+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2518,15 +2518,51 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "島袋将は１２７位　男子テニス世界ランク",
+      "link": "https://www.jiji.com/jc/article?k=2026112300168&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T03:22:09.221971+00:00"
+    },
+    {
+      "title": "安定の山下に勲章　米女子ゴルフ",
+      "link": "https://www.jiji.com/jc/article?k=2026112300173&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T03:22:09.221957+00:00"
+    },
+    {
+      "title": "藤浪晋太郎投手の獲得を発表　プロ野球・オリックス",
+      "link": "https://www.jiji.com/jc/article?k=2026112300162&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T03:22:09.221919+00:00"
+    },
     {
       "title": "Anthropic Committed to Spend $900 Billion. Wall Street Expects Its Debt to Be Junk.",
       "link": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d?mod=rss_markets_main",
       "summary": "After a turbulent IPO, the startup’s credit rating will affect its capital plans and the future of the AI industry.",
       "source": "WSJ マーケット",
       "category": "海外金融",
+      "published": "2026-11-23T03:00:00+00:00"
+    },
+    {
+      "title": "｢俺の実力は一流｣｢周りはアホばかり｣売れない漫画家志望者が豪語する衝撃の持論　漫画｢今日も1コマ描いてねる｣3話 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964322?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "28歳、バンド解散、貯金なしのフリーター。「生きてる意味がない」とまで思い詰めた元バンドマンが、もう一度夢を追うために選んだのは、1日1コマずつ漫画を描くことだった。小さな一歩を積み重ねる再出発の物…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
       "published": "2026-11-23T03:00:00+00:00"
     },
     {
@@ -3659,6 +3695,14 @@
     },
     {
       "title": "Will Anthropic’s IPO buck the tech sell-off?",
+      "link": "https://www.ft.com/content/1dc8290b-8100-434d-963c-79002c15f244?syn-25a6b1a6=1",
+      "summary": "Market Questions is the FT’s guide to the week ahead",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-22T12:00:06+00:00"
+    },
+    {
+      "title": "Will Anthropic buck the tech sell-off?",
       "link": "https://www.ft.com/content/1dc8290b-8100-434d-963c-79002c15f244?syn-25a6b1a6=1",
       "summary": "Market Questions is the FT’s guide to the week ahead",
       "source": "Financial Times",
