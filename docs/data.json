@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T22:17:43.797995+00:00",
+  "generated_at": "2026-11-23T22:33:15.427064+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2842,9 +2842,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Trump Engineered Huang’s Reinstatement as Nvidia CEO",
+      "link": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=rss_markets_main",
+      "summary": "Plus, Nvidia added nearly $1 trillion in market value, and Trump ordered the U.S. Army to hold off on detonating tons of toxic explosives in Iowa.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T22:25:00+00:00"
+    },
+    {
+      "title": "VP != VNP over Every Field [pdf]",
+      "link": "https://github.com/anthropics/formal-math/blob/11b6c7e3c927df2658f513b6b68ea7f8929c62c5/vp-vnp/paper.pdf",
+      "summary": "Article URL: https://github.com/anthropics/formal-math/blob/11b6c7e3c927df2658f513b6b68ea7f8929c62c5/vp-vnp/paper.pdf\nComments URL: https://news.ycombinator.com/item?id=50620252\nPoints: 5\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T22:23:04+00:00"
+    },
+    {
+      "title": "NY株大幅反発 フアン氏復帰好感",
+      "link": "https://news.yahoo.co.jp/pickup/6603740?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-23T22:21:34+00:00"
+    },
     {
       "title": "ＮＹダウは１４００ドル超上昇して引けた",
       "link": "https://www.jiji.com/jc/article?k=2026112400122&g=flash&m=rss",
@@ -2868,6 +2896,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-23T22:15:00+00:00"
+    },
+    {
+      "title": "VP ≠ VNP over Every Field",
+      "link": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+      "summary": "Article URL: https://github.com/anthropics/formal-math/tree/main/vp-vnp\nComments URL: https://news.ycombinator.com/item?id=50620102\nPoints: 15\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T22:09:10+00:00"
     },
     {
       "title": "Nvidia’s stock is surging again. What to know before chasing the AI rally.",
@@ -4148,6 +4184,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-23T10:15:00+00:00"
+    },
+    {
+      "title": "Show HN: Hermit CRM – Free open-source CRM for solopreneurs",
+      "link": "https://hermitcrm.io/",
+      "summary": "I was about to keep track of my clients and prospecting in Google Sheets for my solopreneur business, when I remembered that's exactly what I advise my clients not to do.Created Hermit CRM, an open source CRM for 1 person. Hermit helps to keep track of deals and prospecting. The platform is built for AI by storing the data in Markdown files in git, stored locally and can be accessed with a web app, CLI or MCP. No telemetry on the app. Building in public, even the website stats  are public as well.It’s macOS first. Linux is less tested, and Windows isn’t supported.Features I'm proud of: \n- import somebody from LinkedIn into to the CRM with 1 click\n- adding a LinkedIn convo to the CRM with 1 click.\nBoth work without LinkedIn or CRM subs.Don't like what you see? Fork the Hermit with your AI.Would love to learn how you're using Hermit and where it doesn't fit your workflows.\n\nComments URL: https://news.ycombinator.com/item?id=50609708\nPoints: 15\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T10:09:02+00:00"
     },
     {
       "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
