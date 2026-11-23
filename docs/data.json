@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T02:08:09.505717+00:00",
+  "generated_at": "2026-11-23T02:24:35.362870+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2502,9 +2502,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "神谷、パットさえる　米女子ゴルフ予選会",
+      "link": "https://www.jiji.com/jc/article?k=2026112300150&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T02:24:30.970425+00:00"
+    },
+    {
+      "title": "遺産の8割が3人きょうだいの長女に　認知症の母は操られていたのか",
+      "link": "https://www.asahi.com/articles/ASVCK1R70VCKULLI003M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-23T02:24:30.867055+00:00"
+    },
     {
       "title": "Basketball Made Magic Johnson Famous. Mark Walter Made Him a Billionaire.",
       "link": "https://www.wsj.com/business/media/magic-johnson-mark-walter-federal-probe-a219fc08?mod=rss_markets_main",
@@ -3597,6 +3617,14 @@
       "title": "US ports face cyber attack onslaught as hackers target vital trade routes",
       "link": "https://www.ft.com/content/c269cf3e-2275-4244-9a86-f412c8521b4f?syn-25a6b1a6=1",
       "summary": "America’s biggest crude oil export hub reports thousands of attempted hacks each day as shipping companies battle breaches",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-22T12:00:06+00:00"
+    },
+    {
+      "title": "Will Anthropic’s IPO buck the tech sell-off?",
+      "link": "https://www.ft.com/content/1dc8290b-8100-434d-963c-79002c15f244?syn-25a6b1a6=1",
+      "summary": "Market Questions is the FT’s guide to the week ahead",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-22T12:00:06+00:00"
