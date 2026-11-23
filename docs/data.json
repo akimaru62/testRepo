@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T05:47:52.474921+00:00",
+  "generated_at": "2026-11-23T06:12:43.402814+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2562,9 +2562,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "イラン再攻撃の可能性警告　来年以降、交渉決裂なら―米大統領",
+      "link": "https://www.jiji.com/jc/article?k=2026112300216&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T06:12:38.505910+00:00"
+    },
+    {
+      "title": "メキシコ軍、ＦＢＩ「１０大指名犯」の１人拘束　麻薬組織の首領",
+      "link": "https://www.jiji.com/jc/article?k=2026112300219&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T06:12:38.505886+00:00"
+    },
+    {
+      "title": "トランプ政権、会談実現へ「戦争終結」検討か　正恩氏が条件、不発",
+      "link": "https://www.jiji.com/jc/article?k=2026112300217&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T06:12:38.505851+00:00"
+    },
     {
       "title": "リフォーム工事業の倒産 過去最多",
       "link": "https://news.yahoo.co.jp/pickup/6603667?source=rss",
