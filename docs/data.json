@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T21:04:55.332813+00:00",
+  "generated_at": "2026-11-23T21:17:34.451091+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2822,9 +2822,77 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "首相動静（１１月２３日）",
+      "link": "https://www.jiji.com/jc/article?k=2026112300147&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T21:17:29.116062+00:00"
+    },
+    {
+      "title": "金の価格、今年の最安値水準に「有事の金買い」失速が意味するもの",
+      "link": "https://www.asahi.com/articles/ASVCN4CD7VCNULFA01LM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-23T21:17:28.706275+00:00"
+    },
+    {
+      "title": "AI時代にこそリアルの価値を 世界最大紳士服展示会の新CEO",
+      "link": "https://www.asahi.com/articles/ASVCN0QDJVCNUCVL02DM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-23T21:17:28.706241+00:00"
+    },
+    {
+      "title": "Treasury Yields Rise After Huang Returns as Nvidia CEO; European Bond Yields Slip",
+      "link": "https://www.wsj.com/finance/investing/u-s-european-bond-yields-rise-reversing-last-weeks-sharp-falls-9afadf09?mod=rss_markets_main",
+      "summary": "U.S. Treasury yields rose as investors piled into riskier assets after Jensen Huang’s reinstatement as chief executive officer of Nvidia.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T21:15:00+00:00"
+    },
+    {
+      "title": "Nvidia Chief’s Return Lifts Many Boats",
+      "link": "https://www.wsj.com/finance/stocks/nvidia-chiefs-return-lifts-many-boats-3b515f16?mod=rss_markets_main",
+      "summary": "Plus, credit markets aren’t so bullish about Jensen Huang’s reinstatement, and Anthropic’s impending bond-market challenge.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T21:12:00+00:00"
+    },
+    {
+      "title": "Wikipedia Has Hidden Doors",
+      "link": "https://cardcatalogforlife.substack.com/p/wikipedia-has-hidden-doors-heres",
+      "summary": "Article URL: https://cardcatalogforlife.substack.com/p/wikipedia-has-hidden-doors-heres\nComments URL: https://news.ycombinator.com/item?id=50619335\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T21:09:14+00:00"
+    },
+    {
+      "title": "Oil Prices Fall as Traders Weigh Supply Surplus, Gulf Attacks",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-edge-lower-as-traders-weigh-supply-surplus-gulf-attacks-6861119f?mod=rss_markets_main",
+      "summary": "Oil prices fell as traders weighed expectations of a global supply surplus against renewed attacks on shipping in the Middle East and concerns over disruptions to regional oil infrastructure.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T21:08:00+00:00"
+    },
+    {
+      "title": "‘I Fell Off My Chair.’ Investors Marvel as Huang’s Return Sends Stocks Rocketing.",
+      "link": "https://www.wsj.com/finance/stocks/i-fell-off-my-chair-investors-marvel-as-huangs-return-sends-stocks-rocketing-98131bc6?mod=rss_markets_main",
+      "summary": "The tech-heavy Nasdaq composite roars back from last week’s selloff, adding more than $2 trillion in market value.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T21:02:00+00:00"
+    },
     {
       "title": "サイバー被害はこれからどうなる､最も起こりやすいのは｢被害公表が数年続く｣展開…専門家に聞いた3つのシナリオ | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965507?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -2866,6 +2934,14 @@
       "published": "2026-11-23T21:00:00+00:00"
     },
     {
+      "title": "The horse made the state",
+      "link": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
+      "summary": "Article URL: https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist\nComments URL: https://news.ycombinator.com/item?id=50619186\nPoints: 9\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T20:59:12+00:00"
+    },
+    {
       "title": "Jensen Huang’s return to Nvidia saved the stock market — for now. Will the rebound last?",
       "link": "https://www.marketwatch.com/story/the-return-of-jensen-huang-has-saved-the-u-s-stock-market-for-now-why-the-rebound-may-not-last-f72656ce?mod=mw_rss_topstories",
       "summary": "Investors still have plenty of other problems to worry about.",
@@ -2886,6 +2962,14 @@
       "link": "https://toyokeizai.net/articles/-/964878?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "レンジローバー史上最高峰のラグジュアリーと個性を追求した｢レンジローバーSV ULTRA｣が､国内最大のデザインイベント｢DESIGNART TOKYO 2026｣で華々しく日本初公開。ランドローバ…",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-23T20:30:00+00:00"
+    },
+    {
+      "title": "赤ちゃん本舗、森永乳業、東急ストアはなぜ手を組む？　顧客データの連携で見えた「生活者」の正体",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/24/news006.html",
+      "summary": "赤ちゃん本舗、森永乳業、東急ストアの3社が会員IDを連携し、購買データの横断分析を進めている。1社単独では見えない「生活者のリアルな姿」を捉え、販促にどうつなげているのか。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-11-23T20:30:00+00:00"
     },
@@ -2989,6 +3073,14 @@
       "title": "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"",
       "link": "https://arm.jonpalmisc.com/",
       "summary": "Article URL: https://arm.jonpalmisc.com/\nComments URL: https://news.ycombinator.com/item?id=50617499\nPoints: 136\n# Comments: 22",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T19:17:55+00:00"
+    },
+    {
+      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "link": "https://arm.jonpalmisc.com/",
+      "summary": "Article URL: https://arm.jonpalmisc.com/\nComments URL: https://news.ycombinator.com/item?id=50617499\nPoints: 534\n# Comments: 107",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-23T19:17:55+00:00"
@@ -3181,6 +3273,14 @@
       "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
       "link": "https://twitter.com/ylecun/status/2124550037912920090",
       "summary": "Article URL: https://twitter.com/ylecun/status/2124550037912920090\nComments URL: https://news.ycombinator.com/item?id=50615308\nPoints: 36\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T17:07:26+00:00"
+    },
+    {
+      "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
+      "link": "https://twitter.com/ylecun/status/2124550037912920090",
+      "summary": "Article URL: https://twitter.com/ylecun/status/2124550037912920090\nComments URL: https://news.ycombinator.com/item?id=50615308\nPoints: 551\n# Comments: 297",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-23T17:07:26+00:00"
