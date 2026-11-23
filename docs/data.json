@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T14:06:01.446292+00:00",
+  "generated_at": "2026-11-23T14:20:02.165514+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2702,9 +2702,77 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "スペイン、独立運動指導者を恩赦　事件に「終止符」、年内帰国か",
+      "link": "https://www.jiji.com/jc/article?k=2026112300507&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T14:19:56.633617+00:00"
+    },
+    {
+      "title": "European Chip Stocks Surge After Nvidia Reinstates Huang as CEO",
+      "link": "https://www.wsj.com/finance/stocks/some-underperforming-japan-stocks-may-start-rising-after-strong-results-e6e3f434?mod=rss_markets_main",
+      "summary": "Europe’s AI-linked stocks rebounded sharply in early trade as investors returned to the sector after last week’s heavy selloff.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T14:17:00+00:00"
+    },
+    {
+      "title": "Dollar Jumps as Nvidia Reinstates Jensen Huang",
+      "link": "https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e?mod=rss_markets_main",
+      "summary": "The dollar rose to its highest level since April 2025 against a basket of currencies after AI company Nvidia reinstated Jensen Huang as president, chief executive and board director.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T14:16:00+00:00"
+    },
+    {
+      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "summary": "“My wife stopped working outside the home in 1970.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T14:15:00+00:00"
+    },
+    {
+      "title": "Nvidia stock soars as Jensen Huang returns as CEO",
+      "link": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
+      "summary": "Shares in Nvidia rose on Monday after a weekend of more developments, including the Trump administration pushing for the reinstatement  of Jensen Huang to lead the company.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T14:07:00+00:00"
+    },
+    {
+      "title": "Nvidia reinstates Jensen Huang as chief executive",
+      "link": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6",
+      "summary": "Startling reversal of board’s position on disgraced co-founder sends AI giant’s share price soaring",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T14:04:54+00:00"
+    },
+    {
+      "title": "Jensen Huang Reinstated as Nvidia CEO",
+      "link": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director\nComments URL: https://news.ycombinator.com/item?id=50611588\nPoints: 256\n# Comments: 108",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T14:01:23+00:00"
+    },
+    {
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html\nComments URL: https://news.ycombinator.com/item?id=50611576\nPoints: 10\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T14:00:18+00:00"
+    },
     {
       "title": "UnitedHealth, Humana and CVS stocks slide as U.S targets Medicare Advantage ratings",
       "link": "https://www.marketwatch.com/story/unitedhealth-humana-and-cvs-stocks-slide-as-u-s-targets-medicare-advantage-ratings-6c2be5bb?mod=mw_rss_topstories",
