@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T22:47:49.232001+00:00",
+  "generated_at": "2026-11-23T23:05:32.909858+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2850,9 +2850,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "事務職の新卒採用減らす2割 調査",
+      "link": "https://news.yahoo.co.jp/pickup/6603745?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-23T22:58:24+00:00"
+    },
+    {
+      "title": "Nvidia adds nearly $1tn to market value after it reinstates Jensen Huang",
+      "link": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1",
+      "summary": "Shares close 30% higher after board brings co-founder back with support from Donald Trump",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T22:55:14+00:00"
+    },
+    {
+      "title": "フアン氏｢エヌビディアCEO電撃復帰｣の衝撃､トランプ米大統領の介入で取締役会が翻意 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965650?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "エヌビディアCEOジェンスン･フアン氏の電撃復帰は各所に波紋を広げています。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-23T22:55:00+00:00"
+    },
+    {
+      "title": "The Beauty of Artists' Studios",
+      "link": "https://spectator.com/article/the-beauty-of-artists-studios/",
+      "summary": "https://archive.ph/qcUxG\n\nComments URL: https://news.ycombinator.com/item?id=50620530\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T22:48:33+00:00"
+    },
     {
       "title": "JR芸備線の存廃どうなる、きょう方針案　他の赤字ローカル線は？",
       "link": "https://www.asahi.com/articles/ASVCK0FKHVCKPITB00HM.html?ref=rss",
@@ -2870,6 +2906,14 @@
       "published": "2026-11-23T22:47:44.102761+00:00"
     },
     {
+      "title": "Inside the ‘war room’ that lobbied Trump to bring back Nvidia’s Huang",
+      "link": "https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc?syn-25a6b1a6=1",
+      "summary": "Silicon Valley titans enlisted US president and JD Vance to rescue the billionaire tech boss whom they viewed as critical for the AI industry",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T22:46:14+00:00"
+    },
+    {
       "title": "奨学金利率が急上昇 負担減求める",
       "link": "https://news.yahoo.co.jp/pickup/6603744?source=rss",
       "summary": "",
@@ -2884,6 +2928,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-23T22:34:00+00:00"
+    },
+    {
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "link": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "summary": "Article URL: https://stalw.art/blog/microsoft-exchange-replacement/\nComments URL: https://news.ycombinator.com/item?id=50620349\nPoints: 16\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T22:32:29+00:00"
     },
     {
       "title": "｢サイバー保険に入っているから大丈夫｣が危うい理由､補償の対象外で揉める前に確かめたい3つの観点 | ビジネス | 東洋経済オンライン",
@@ -2908,6 +2960,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-23T22:23:04+00:00"
+    },
+    {
+      "title": "Levent Alpöge comments on his Riemann Hypothesis proof",
+      "link": "https://twitter.com/__alpoge__/status/2124987173439209561",
+      "summary": "Article URL: https://twitter.com/__alpoge__/status/2124987173439209561\nComments URL: https://news.ycombinator.com/item?id=50620250\nPoints: 13\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T22:22:56+00:00"
     },
     {
       "title": "Trump made up to $15mn on Nvidia shares after Huang’s return",
