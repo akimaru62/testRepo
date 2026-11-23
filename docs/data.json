@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T21:17:34.451091+00:00",
+  "generated_at": "2026-11-23T21:33:13.045341+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2826,9 +2826,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "｢いきなりステーキの上位互換｣｢腹ペコ男子が満腹になれる｣と話題に…愛知発｢感動の肉と米｣拡大も必然のワケ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965234?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "一世を風靡した｢いきなり！ステーキ｣が縮小する一方､愛知発の新鋭｢感動の肉と米｣が注目を集めています。手軽に満腹を味わえる独自の戦略とは？現地ルポをお届けします。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-23T21:30:00+00:00"
+    },
+    {
+      "title": "HPE just posted its strongest growth ever — but its stock is wavering",
+      "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+      "summary": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T21:28:00+00:00"
+    },
+    {
+      "title": "U.S. Natural Gas Futures Sink on Milder Weather Outlook",
+      "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-climbs-on-colder-weather-low-storage-c3b99a8a?mod=rss_markets_main",
+      "summary": "U.S. natural gas futures gave back last week’s gains, posting their biggest single-day drop since February as weather forecasts turned milder for the start of December, with declines stretching across the futures curve.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T21:28:00+00:00"
+    },
+    {
+      "title": "U.S. Stocks Jump as Huang Return Triggers AI Rally",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-jump-as-huang-return-triggers-ai-rally-7c008308?mod=rss_markets_main",
+      "summary": "U.S. stocks surged broadly as Nvidia reinstated Jensen Huang as its chief executive, sparking a revival in artificial-intelligence wagers.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T21:22:00+00:00"
+    },
     {
       "title": "首相動静（１１月２３日）",
       "link": "https://www.jiji.com/jc/article?k=2026112300147&g=pol&m=rss",
@@ -2862,6 +2898,14 @@
       "published": "2026-11-23T21:15:00+00:00"
     },
     {
+      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "summary": "“Retirement is a financial status, not an age.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T21:15:00+00:00"
+    },
+    {
       "title": "Nvidia Chief’s Return Lifts Many Boats",
       "link": "https://www.wsj.com/finance/stocks/nvidia-chiefs-return-lifts-many-boats-3b515f16?mod=rss_markets_main",
       "summary": "Plus, credit markets aren’t so bullish about Jensen Huang’s reinstatement, and Anthropic’s impending bond-market challenge.",
@@ -2884,6 +2928,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-23T21:08:00+00:00"
+    },
+    {
+      "title": "Nvidia gains nearly $1tn in value after Jensen Huang reinstated",
+      "link": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1",
+      "summary": "Interim chief  and senior management were unaware of the discussions over the weekend",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T21:05:44+00:00"
     },
     {
       "title": "‘I Fell Off My Chair.’ Investors Marvel as Huang’s Return Sends Stocks Rocketing.",
