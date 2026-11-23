@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T11:33:14.668846+00:00",
+  "generated_at": "2026-11-23T11:47:42.400933+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2650,9 +2650,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Gold Climbs 3%, Focus on Rate-Hike Bets",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-in-likely-technical-rebound-f895016c?mod=rss_markets_main",
+      "summary": "Gold prices rose as investors awaited U.S. inflation data for more clues on the monetary policy outlook.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T11:43:00+00:00"
+    },
     {
       "title": "Pouncing on Anthropic Won’t Make You Rich",
       "link": "https://www.wsj.com/finance/stocks/pouncing-on-anthropic-wont-make-you-rich-4d500a06?mod=rss_markets_main",
@@ -2934,6 +2946,14 @@
       "published": "2026-11-23T09:24:05.802394+00:00"
     },
     {
+      "title": "Enjoy this guy getting bricked over the detail of towers in GTA6",
+      "link": "https://bsky.app/profile/floppyadult.com/post/3n2tgw7rofc2v",
+      "summary": "Article URL: https://bsky.app/profile/floppyadult.com/post/3n2tgw7rofc2v\nComments URL: https://news.ycombinator.com/item?id=50609252\nPoints: 20\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T09:15:09+00:00"
+    },
+    {
       "title": "Continued Euro Weakness Looks Likely For Now",
       "link": "https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e?mod=rss_markets_main",
       "summary": "The euro rose slightly against the dollar and  XS.com said the currency faced ongoing weakness against the dollar in the near term.",
@@ -3164,6 +3184,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-23T06:59:00+00:00"
+    },
+    {
+      "title": "From rotation to contagion",
+      "link": "https://www.ft.com/content/046984ab-9a7c-41fd-804c-fb356db28099?syn-25a6b1a6=1",
+      "summary": "Plus, chips are not cheap",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T06:30:02+00:00"
     },
     {
       "title": "ABB to Buy Germany’s Ziehl-Abegg for $2.22 Billion",
