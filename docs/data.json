@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T12:47:46.115695+00:00",
+  "generated_at": "2026-11-23T13:05:43.793243+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2678,9 +2678,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "地銀など定期預金金利を大幅上げ",
+      "link": "https://news.yahoo.co.jp/pickup/6603719?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-23T12:48:48+00:00"
+    },
+    {
+      "title": "Amodei reportedly suggested games could pacify masses after AI took their jobs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness\nComments URL: https://news.ycombinator.com/item?id=50610830\nPoints: 13\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T12:41:14+00:00"
+    },
     {
       "title": "年収1000万円 社内ニートの不安",
       "link": "https://news.yahoo.co.jp/pickup/6603718?source=rss",
@@ -2688,6 +2708,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-23T12:34:20+00:00"
+    },
+    {
+      "title": "Rene Haas affirms ‘long-term commitment’ to Arm after Nvidia approach",
+      "link": "https://www.ft.com/content/6f3e2cbe-9ce4-47e7-be69-a2e765da8f9c",
+      "summary": "UK chip company CEO signs new contract just weeks after being approached as possible candidate to replace Jensen Huang",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T12:28:53+00:00"
     },
     {
       "title": "Trump wants Jensen Huang back at Nvidia. What will it take to stop the tech selloff?",
