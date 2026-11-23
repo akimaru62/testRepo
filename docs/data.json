@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T10:05:57.275084+00:00",
+  "generated_at": "2026-11-23T10:19:27.665605+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2626,9 +2626,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "阪神が優勝パレード　藤川球児監督「来年は日本一を」―プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026112300361&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T10:19:23.064202+00:00"
+    },
+    {
+      "title": "イスラム教人口、３５年にキリスト教逆転　２５億７０００万人と予測―米調査機関",
+      "link": "https://www.jiji.com/jc/article?k=2026112300360&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T10:19:23.064168+00:00"
+    },
+    {
+      "title": "A 66-year-old nurse faces retirement with just $500 saved. Who’s to blame?",
+      "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+      "summary": "“Retirement is a financial status, not an age.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T10:15:00+00:00"
+    },
     {
       "title": "James Bond films were shot all over the world. Here are 5 properties made famous by 007.",
       "link": "https://www.marketwatch.com/story/james-bond-films-were-shot-all-over-the-world-here-are-5-properties-made-famous-by-007-dabafbe6?mod=mw_rss_topstories",
@@ -2646,7 +2674,23 @@
       "published": "2026-11-23T10:01:00+00:00"
     },
     {
+      "title": "【資産4億円を築いた元専業主婦】エヌビディア株いつ売る？次の注目は？／「日本株には投資しない」／最新の保有5銘柄／毎年2000万円以上を取り崩して使う／AIバブル論どう見る？／SNSは｢発信せよ｣ | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965627?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "元高校球児でフリーアナウンサーの上重聡がお送りする資産運用をテーマにした動画シリーズ。いつか「億り人」になれる日を目指して、資産運用の先輩からさまざまな極意を学んでいきます。今回のゲストは、専業主婦…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-23T10:00:00+00:00"
+    },
+    {
       "title": "Stock Market Today: Stock Futures Point to Recovery After Friday's Bloodbath",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026?mod=rss_markets_main",
+      "summary": "Anthropic shares rise premarket",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T09:52:53+00:00"
+    },
+    {
+      "title": "Stock Market Today: Stock Futures Point to Recovery After Friday’s Bloodbath",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026?mod=rss_markets_main",
       "summary": "Anthropic shares rise premarket",
       "source": "WSJ マーケット",
