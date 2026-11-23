@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T09:47:52.932965+00:00",
+  "generated_at": "2026-11-23T10:05:57.275084+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2622,11 +2622,79 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
     {
+      "title": "James Bond films were shot all over the world. Here are 5 properties made famous by 007.",
+      "link": "https://www.marketwatch.com/story/james-bond-films-were-shot-all-over-the-world-here-are-5-properties-made-famous-by-007-dabafbe6?mod=mw_rss_topstories",
+      "summary": "As actor Robert Pattinson steps in the role of 007, here are some of the lavish homes where we’ve see James Bond in action.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T10:02:00+00:00"
+    },
+    {
+      "title": "Google co-founder Sergey Brin and ex-wife Nicole Shanahan list Malibu home for $33.5 million",
+      "link": "https://www.marketwatch.com/story/google-co-founder-sergey-brin-and-ex-wife-nicole-shanahan-list-malibu-home-for-33-5-million-0121adcd?mod=mw_rss_topstories",
+      "summary": "The elegant Malibu estate that Google co-founder Sergey Brin purchased with his ex-wife, Nicole Shanahan, has hit the selling block for $33.5 million—months after it was listed as a rental.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T10:01:00+00:00"
+    },
+    {
+      "title": "Stock Market Today: Stock Futures Point to Recovery After Friday's Bloodbath",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026?mod=rss_markets_main",
+      "summary": "Anthropic shares rise premarket",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T09:52:53+00:00"
+    },
+    {
+      "title": "European Tech Stocks Rally as Traders Buy AI Dip",
+      "link": "https://www.wsj.com/finance/stocks/some-underperforming-japan-stocks-may-start-rising-after-strong-results-e6e3f434?mod=rss_markets_main",
+      "summary": "Europe’s AI-linked stocks rebounded sharply in early trade as investors returned to the sector after last week’s heavy selloff.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T09:52:00+00:00"
+    },
+    {
+      "title": "Stock Futures Rally as Dust Settles After AI-Driven Selloff",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-rally-as-dust-settles-after-ai-driven-selloff-705ff2c4?mod=rss_markets_main",
+      "summary": "Stock futures climbed sharply as investors cautiously moved to buy the dip.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T09:50:00+00:00"
+    },
+    {
+      "title": "Oil Prices May Stay Elevated in Near Term",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-risk-off-sentiment-c478ebdc?mod=rss_markets_main",
+      "summary": "Oil prices fell. Barclays said prices might stay elevated in the near term, as traders were pricing too much near-term progress in U.S.-Iran negotiations.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T09:50:00+00:00"
+    },
+    {
+      "title": "Euro, Eurozone Yields Show Limited Reaction to Eurozone PMI Data",
+      "link": "https://www.wsj.com/articles/german-bund-yields-rise-french-yields-fall-ahead-of-pmi-data-c4d45e93?mod=rss_markets_main",
+      "summary": "Eurozone bond yields continued to trade mixed, showing little reaction to the flash November eurozone purchasing managers’ survey.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T09:48:00+00:00"
+    },
+    {
       "title": "Stocks are serving up a ‘fat pitch’ for investors right now, as Morgan Stanley’s top strategist",
+      "link": "https://www.marketwatch.com/story/stocks-are-serving-up-a-fat-pitch-for-investors-right-now-as-morgan-stanleys-top-strategist-19abe30a?mod=mw_rss_topstories",
+      "summary": "Morgan Stanley points to trough Nasdaq valuations, implied earnings declines and a capitulation in both sentiment and positioning as reasons to be bullish.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T09:40:00+00:00"
+    },
+    {
+      "title": "Stocks are serving up a ‘fat pitch’ for investors right now, says Morgan Stanley’s top strategist",
       "link": "https://www.marketwatch.com/story/stocks-are-serving-up-a-fat-pitch-for-investors-right-now-as-morgan-stanleys-top-strategist-19abe30a?mod=mw_rss_topstories",
       "summary": "Morgan Stanley points to trough Nasdaq valuations, implied earnings declines and a capitulation in both sentiment and positioning as reasons to be bullish.",
       "source": "MarketWatch",
@@ -2680,6 +2748,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-23T09:11:00+00:00"
+    },
+    {
+      "title": "GTA 6 building personal behavioral profile for every player",
+      "link": "https://huijzer.xyz/posts/174/gta-6-building-personal-behavioral-profile-for-eve",
+      "summary": "Article URL: https://huijzer.xyz/posts/174/gta-6-building-personal-behavioral-profile-for-eve\nComments URL: https://news.ycombinator.com/item?id=50609079\nPoints: 63\n# Comments: 20",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T08:51:50+00:00"
     },
     {
       "title": "Gold Rebounds From Last Week’s Plunge, With Focus on U.S. Inflation Data",
