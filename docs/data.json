@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T02:47:37.431674+00:00",
+  "generated_at": "2026-11-23T03:07:04.079793+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2514,9 +2514,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Anthropic Committed to Spend $900 Billion. Wall Street Expects Its Debt to Be Junk.",
+      "link": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d?mod=rss_markets_main",
+      "summary": "After a turbulent IPO, the startup’s credit rating will affect its capital plans and the future of the AI industry.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T03:00:00+00:00"
+    },
     {
       "title": "トランプが犯した｢大きな過ち｣－同盟国を軽視し中国に世界秩序の主導者を喧伝する場を与えた米中ロ首脳会談という茶番 | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965578?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -2540,6 +2552,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-23T02:24:30.867055+00:00"
+    },
+    {
+      "title": "Advanced Character Physics (2001) [pdf]",
+      "link": "https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf",
+      "summary": "Article URL: https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf\nComments URL: https://news.ycombinator.com/item?id=50606704\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T02:17:27+00:00"
     },
     {
       "title": "Basketball Made Magic Johnson Famous. Mark Walter Made Him a Billionaire.",
