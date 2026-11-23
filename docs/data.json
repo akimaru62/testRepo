@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T04:06:46.346765+00:00",
+  "generated_at": "2026-11-23T04:21:59.840630+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2534,9 +2534,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "連覇の大の里「実感湧いてきた」　周囲に感謝も―大相撲九州場所",
+      "link": "https://www.jiji.com/jc/article?k=2026112300185&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T04:21:54.358963+00:00"
+    },
+    {
+      "title": "Dollar Likely to Trade Around Y160.00 Next Year",
+      "link": "https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e?mod=rss_markets_main",
+      "summary": "The dollar was likely to trade around 160.00 yen throughout 2027, Morgan Stanley said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T04:16:00+00:00"
+    },
     {
       "title": "Will Tata be able to list India’s biggest company?",
       "link": "https://www.ft.com/content/0f2e8392-8d51-440a-928c-e47402017128?syn-25a6b1a6=1",
@@ -2656,6 +2676,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-23T02:00:00+00:00"
+    },
+    {
+      "title": "Treemap of the Riemann Hypothesis Lean Proof",
+      "link": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
+      "summary": "Article URL: https://pengowray.github.io/riemann-zeta-proof-visualizer/\nComments URL: https://news.ycombinator.com/item?id=50606499\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T01:50:23+00:00"
     },
     {
       "title": "How the WSJ Determined Mark Walter’s Total Borrowing",
