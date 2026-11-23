@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T01:47:19.275356+00:00",
+  "generated_at": "2026-11-23T02:08:09.505717+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2498,9 +2498,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Basketball Made Magic Johnson Famous. Mark Walter Made Him a Billionaire.",
+      "link": "https://www.wsj.com/business/media/magic-johnson-mark-walter-federal-probe-a219fc08?mod=rss_markets_main",
+      "summary": "The Midwest investor invited the L.A. sports celebrity to buy a moneymaking insurance company that is now linked to a federal probe.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T02:00:00+00:00"
+    },
+    {
+      "title": "Jensen and Lori Huang Have Amassed a Vast Fortune. We Break Down Their Wealth.",
+      "link": "https://www.wsj.com/finance/investing/jensen-and-lori-huang-have-amassed-a-vast-fortune-we-break-down-their-wealth-3d2287b1?mod=rss_markets_main",
+      "summary": "The Nvidia founder and his wife have control over 870 million Nvidia shares, including through trusts and other entities.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T02:00:00+00:00"
+    },
     {
       "title": "How the WSJ Determined Mark Walter’s Total Borrowing",
       "link": "https://www.wsj.com/finance/magic-johnson-mark-walters-methodologytal-borrowing-990d6693?mod=rss_markets_main",
@@ -2508,6 +2528,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-23T01:44:00+00:00"
+    },
+    {
+      "title": "Tech stock sell-off deepens in Asia",
+      "link": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
+      "summary": "A more than 3% slide in Korea follows Friday’s heavy Wall Street declines",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T01:37:46+00:00"
     },
     {
       "title": "ソフトバンクGが26年中の買収完了目指す｢ABBロボット事業｣､中国当局の阻止で白紙となった場合の選択肢とは | 政治・経済・投資 | 東洋経済オンライン",
