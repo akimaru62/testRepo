@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T23:33:08.411703+00:00",
+  "generated_at": "2026-11-23T23:47:48.498923+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2862,9 +2862,57 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x79e55fd72ba0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "米商務省、メガスピード社を「ブラックリスト」に　対応遅れの指摘も",
+      "link": "https://www.asahi.com/articles/ASVCR7S9XVCRSFVU3ZHM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-23T23:47:33.440131+00:00"
+    },
+    {
+      "title": "Oil Futures Edge Higher on Likely Technical Recovery",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-higher-on-likely-technical-recovery-3d1650f7?mod=rss_markets_main",
+      "summary": "Oil futures edged higher in early Asian trade on a likely technical recovery after settling overnight at their lowest level since August.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T23:38:00+00:00"
+    },
+    {
+      "title": "AI業界を牽引するエヌビディアのCEO復帰劇…舞台裏ではトランプ大統領とバンス副大統領による異例の直接介入 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965645?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "AI業界を牽引するエヌビディアのCEO復帰劇。その舞台裏には､トランプ大統領の異例ともいえる直接介入がありました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-23T23:35:00+00:00"
+    },
+    {
+      "title": "なぜ東大生の約7割は勉強中に\"寄り道\"するのか？ ｢脇目も振らずに机に向かう｣が正解ではない理由 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964827?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "好奇心には｢広げる｣｢深める｣など5つの側面があるとされ､東大生の学び方も多様です。｢寄り道｣しながら新たな知識を吸収したり､納得いくまで調べたり､人との会話から学びを得る姿が浮かび上がります。自分…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-23T23:30:00+00:00"
+    },
+    {
+      "title": "Top Fed official probed over whether she breached ‘blackout period’",
+      "link": "https://www.ft.com/content/2c1fcdc0-eb16-4cee-9041-736527c2ae83?syn-25a6b1a6=1",
+      "summary": "Michelle Bowman spoke at an invitation-only Bank of America dinner just hours after a central bank meeting",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T23:18:55+00:00"
+    },
     {
       "title": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
       "link": "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
@@ -2926,6 +2974,14 @@
       "link": "https://toyokeizai.net/articles/-/965344?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "積極的にテレワークを推奨してきた企業が今､続々と｢出社回帰｣の動きを見せ､賛否両論が飛び交っています。そこで､出社回帰に舵を切った大手企業を対象にアンケートを実施。現場の実態とともに､興味深い見解も…",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-23T23:00:00+00:00"
+    },
+    {
+      "title": "農林中金、DXに本気を出した結果→まさかの「現場から悲鳴」　どう解消した？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/24/news012.html",
+      "summary": "ツールの刷新で終わらせない、業務変革に寄与するDXをどのように進めるか。農林中央金庫は、全社システムの基盤構築から画面上の操作案内、伴走組織の設立、AI活用まで一体で設計し、現場への定着を加速させている。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-11-23T23:00:00+00:00"
     },
