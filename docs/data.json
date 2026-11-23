@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T11:04:57.188518+00:00",
+  "generated_at": "2026-11-23T11:17:42.961379+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2642,9 +2642,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "五輪連覇の堀米雄斗２位　女子は吉沢恋が３位―スケートボードのワールドツアー・ストリート",
+      "link": "https://www.jiji.com/jc/article?k=2026112300358&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T11:17:38.905320+00:00"
+    },
+    {
+      "title": "ウクライナ、ロシア新型艦撃沈と発表　リビア東部の基地停泊中",
+      "link": "https://www.jiji.com/jc/article?k=2026112300125&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T11:17:38.905311+00:00"
+    },
+    {
+      "title": "豪データセンター計画に暗雲　米アンソロピック、住民反対で",
+      "link": "https://www.jiji.com/jc/article?k=2026112300132&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T11:17:38.905270+00:00"
+    },
+    {
+      "title": "Dollar Could Stay Firm if Upcoming Data Support Rate-Rise Bets",
+      "link": "https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e?mod=rss_markets_main",
+      "summary": "The dollar was flat against a basket of currencies, and ING said the greenback was likely to stay firm as upcoming data could support Federal Reserve rate hike expectations.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T11:04:00+00:00"
+    },
+    {
+      "title": "CrowdStrike to buy Zscaler in $44bn deal as cyber security disruptions mount",
+      "link": "https://www.ft.com/content/762bd05d-8e20-4abf-9bc5-4e6f9bf628cb?syn-25a6b1a6=1",
+      "summary": "All-stock acquisition comes as businesses and governments across the world grapple with wave of tech outages",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T11:02:10+00:00"
+    },
     {
       "title": "The U.S. may enter a recession if the Fed raises rates, hedge-fund manager Bill Ackman says",
       "link": "https://www.marketwatch.com/story/the-u-s-may-enter-a-recession-if-the-fed-raises-rates-hedge-fund-manager-bill-ackman-says-16738971?mod=mw_rss_topstories",
@@ -2660,6 +2704,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-23T10:56:00+00:00"
+    },
+    {
+      "title": "CrowdStrike to Buy Zscaler in $43.9 Billion Stock Swap",
+      "link": "https://www.wsj.com/business/deals/crowdstrike-to-buy-zscaler-in-43-9-billion-stock-swap-4c926031?mod=rss_markets_main",
+      "summary": "Shares in Zscaler jumped in premarket trading, while those in CrowdStrike fell.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T10:54:00+00:00"
     },
     {
       "title": "How Michigan’s Abdul El-Sayed Helped Ignite a Challenge to Chuck Schumer",
@@ -2708,6 +2760,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-23T10:15:00+00:00"
+    },
+    {
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "link": "https://z.ai/blog/glm-5.4",
+      "summary": "Article URL: https://z.ai/blog/glm-5.4\nComments URL: https://news.ycombinator.com/item?id=50609685\nPoints: 23\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T10:06:43+00:00"
     },
     {
       "title": "James Bond films were shot all over the world. Here are 5 properties made famous by 007.",
