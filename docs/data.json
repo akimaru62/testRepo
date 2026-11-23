@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T13:19:38.219889+00:00",
+  "generated_at": "2026-11-23T13:33:37.881334+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2686,9 +2686,25 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "U.S. Treasury Yields Rise, European Bond Yields Edge Lower",
+      "link": "https://www.wsj.com/finance/investing/u-s-european-bond-yields-rise-reversing-last-weeks-sharp-falls-9afadf09?mod=rss_markets_main",
+      "summary": "Treasury yields rose while European government bond yields edged lower, following last week’s significant declines in government bond yields.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T13:32:00+00:00"
+    },
     {
       "title": "遠藤共峻、緑川あかりが連覇　全日本スカッシュ",
       "link": "https://www.jiji.com/jc/article?k=2026112300483&g=spo&m=rss",
@@ -2696,6 +2712,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-23T13:19:33.230250+00:00"
+    },
+    {
+      "title": "Dollar Rises as AI Stocks Poised to Recover",
+      "link": "https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e?mod=rss_markets_main",
+      "summary": "The dollar turned higher as AI-related stocks looked poised to recover.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T13:18:00+00:00"
     },
     {
       "title": "Gold Rebounds After Sharpest Weekly Decline Since March",
@@ -2736,6 +2760,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-23T12:28:53+00:00"
+    },
+    {
+      "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+      "link": "https://github.com/mikuta0407/win4wine",
+      "summary": "Article URL: https://github.com/mikuta0407/win4wine\nComments URL: https://news.ycombinator.com/item?id=50610743\nPoints: 5\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T12:28:11+00:00"
     },
     {
       "title": "Trump wants Jensen Huang back at Nvidia. What will it take to stop the tech selloff?",
