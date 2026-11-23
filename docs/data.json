@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T06:12:43.402814+00:00",
+  "generated_at": "2026-11-23T06:39:23.419886+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2566,9 +2566,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "ABB to Buy Germany’s Ziehl-Abegg for $2.22 Billion",
+      "link": "https://www.wsj.com/business/energy-oil/abb-to-buy-germanys-ziehl-abegg-for-2-22-billion-fad3bf35?mod=rss_markets_main",
+      "summary": "ABB said the deal expands its offering for heating, ventilation and air conditioning as well as industrial-cooling applications.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T06:28:00+00:00"
+    },
     {
       "title": "イラン再攻撃の可能性警告　来年以降、交渉決裂なら―米大統領",
       "link": "https://www.jiji.com/jc/article?k=2026112300216&g=int&m=rss",
@@ -2594,6 +2606,14 @@
       "published": "2026-11-23T06:12:38.505851+00:00"
     },
     {
+      "title": "常識覆す JR東海の異端営業マン",
+      "link": "https://news.yahoo.co.jp/pickup/6603671?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-23T06:11:18+00:00"
+    },
+    {
       "title": "リフォーム工事業の倒産 過去最多",
       "link": "https://news.yahoo.co.jp/pickup/6603667?source=rss",
       "summary": "",
@@ -2616,6 +2636,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-23T05:01:00+00:00"
+    },
+    {
+      "title": "Yes, 17M lines of Lean is a lot",
+      "link": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
+      "summary": "Article URL: https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/\nComments URL: https://news.ycombinator.com/item?id=50607668\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T05:00:49+00:00"
     },
     {
       "title": "Novartis rejects AI industry hopes to cure cancer in 5 to 10 years",
