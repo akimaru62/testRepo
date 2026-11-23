@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T19:47:46.982218+00:00",
+  "generated_at": "2026-11-23T20:05:19.501139+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2802,9 +2802,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "スマホは折りたためると本当に便利なのか？ ｢iPhone Duo｣でわかった大画面とヒンジの実力 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965397?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "アップル初の折りたたみスマホ｢iPhone Duo｣は､36万円超という高価格にもかかわらず完売が続く人気ぶりだ。従来のiPhoneにはない革新､その体験はどのようなものなのか。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-23T20:00:00+00:00"
+    },
+    {
+      "title": "ジェンスン･フアン氏の処遇巡るエヌビディア取締役会の｢方針転換｣､経営陣には知らせずに決定していた | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965646?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "米半導体大手エヌビディアが解任していたジェンスン･フアン氏のCEO復帰を決めた舞台裏で､経営幹部への事前相談がなかったことが判明しました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-23T19:56:00+00:00"
+    },
+    {
+      "title": "Why Monday’s huge stock-market rally is actually a warning sign for bulls",
+      "link": "https://www.marketwatch.com/story/why-mondays-huge-stock-market-rally-is-actually-a-warning-sign-for-bulls-49d227a8?mod=mw_rss_topstories",
+      "summary": "The majority of the market’s biggest daily rallies occur during bear markets",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T19:54:00+00:00"
+    },
+    {
+      "title": "Nvidia’s Rally Ripples Across Markets",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-rally-as-dust-settles-after-ai-driven-selloff-705ff2c4?mod=rss_markets_main",
+      "summary": "U.S. stocks are climbing, mostly thanks to Nvidia’s rally following Jensen Huang’s return as chief executive.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T19:45:00+00:00"
+    },
     {
       "title": "These stocks are the biggest gainers after Jensen Huang’s return to Nvidia",
       "link": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
@@ -2852,6 +2888,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-23T19:11:29+00:00"
+    },
+    {
+      "title": "‘Unthinkable’ for Britain to rejoin EU without referendum, says Burnham",
+      "link": "https://www.ft.com/content/46fa4178-055f-44ca-b043-773428e8e986?syn-25a6b1a6=1",
+      "summary": "Prime minister insists he does not have a ‘fixed opinion’ about the UK’s future relationship with the bloc",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T19:00:38+00:00"
     },
     {
       "title": "Ken Chenault on Why CEOs Shouldn’t Lose Their Nerve",
@@ -2940,6 +2984,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-23T17:54:00+00:00"
+    },
+    {
+      "title": "Russia poised to put nuclear weapon in space within 60 days, Germany warns",
+      "link": "https://www.ft.com/content/dd00f616-1fef-4a26-a5f9-2b1bf83cc489?syn-25a6b1a6=1",
+      "summary": "Berlin is ‘taking seriously’ intelligence reports shared by western allies that Moscow could deploy ‘Sputnik-S’ armed satellite as soon as next month",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T17:37:46+00:00"
     },
     {
       "title": "More AI jobs are coming. That’s one of the big hiring trends in 2027.",
