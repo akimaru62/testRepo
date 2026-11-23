@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T10:33:10.441210+00:00",
+  "generated_at": "2026-11-23T10:47:48.362497+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2634,9 +2634,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "How Michigan’s Abdul El-Sayed Helped Ignite a Challenge to Chuck Schumer",
+      "link": "https://www.wsj.com/articles/how-michigans-abdul-el-sayed-helped-ignite-a-challenge-to-chuck-schumer-0f67e92c?mod=rss_markets_main",
+      "summary": "Plus, how Mark Walter made Magic Johnson a billionaire—and test how much you know about wine with our quiz.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T10:36:00+00:00"
+    },
     {
       "title": "勤労感謝の日に70円ラーメン提供",
       "link": "https://news.yahoo.co.jp/pickup/6603705?source=rss",
