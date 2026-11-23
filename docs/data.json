@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T04:35:26.789099+00:00",
+  "generated_at": "2026-11-23T04:47:45.325907+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2542,6 +2542,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2562,6 +2566,14 @@
       "published": "2026-11-23T04:16:00+00:00"
     },
     {
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "link": "https://github.com/AFK-surf/xnulinux",
+      "summary": "Article URL: https://github.com/AFK-surf/xnulinux\nComments URL: https://news.ycombinator.com/item?id=50607261\nPoints: 15\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T03:49:24+00:00"
+    },
+    {
       "title": "Will Tata be able to list India’s biggest company?",
       "link": "https://www.ft.com/content/0f2e8392-8d51-440a-928c-e47402017128?syn-25a6b1a6=1",
       "summary": "Bankers say feud between scion and chair makes initial public offering difficult as conglomerate faces pressure from regulators",
@@ -2576,6 +2588,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-23T03:34:51+00:00"
+    },
+    {
+      "title": "The New Docker: Built to Run on Trust",
+      "link": "https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/",
+      "summary": "Article URL: https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/\nComments URL: https://news.ycombinator.com/item?id=50607194\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T03:34:29+00:00"
     },
     {
       "title": "島袋将は１２７位　男子テニス世界ランク",
