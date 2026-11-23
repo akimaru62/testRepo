@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T23:05:32.909858+00:00",
+  "generated_at": "2026-11-23T23:17:53.277174+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2854,9 +2854,69 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "米民主、来年６月に候補者討論会　２８年大統領選へ準備加速",
+      "link": "https://www.jiji.com/jc/article?k=2026112400174&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T23:17:46.734858+00:00"
+    },
+    {
+      "title": "２０代巡査、拳銃自殺か　交番の休憩室で―熊本県警",
+      "link": "https://www.jiji.com/jc/article?k=2026112300459&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T23:17:46.734842+00:00"
+    },
+    {
+      "title": "防衛費目減り「言行不一致」も　増強公約の首相、増税に後ろ向き―新計画、攻防最終局面へ",
+      "link": "https://www.jiji.com/jc/article?k=2026112300229&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T23:17:46.734831+00:00"
+    },
+    {
+      "title": "日朝情報当局が接触か　アジア大会中、拉致議論できず",
+      "link": "https://www.jiji.com/jc/article?k=2026112300218&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T23:17:46.734818+00:00"
+    },
+    {
+      "title": "ＮＹ株大幅反発、１４４７ドル高　フアン氏のエヌビディア復帰好感",
+      "link": "https://www.jiji.com/jc/article?k=2026112400130&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T23:17:46.734802+00:00"
+    },
+    {
+      "title": "タジクがＩＣＣ脱退を通告　プーチン氏訪問も拘束せず",
+      "link": "https://www.jiji.com/jc/article?k=2026112400139&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T23:17:46.734763+00:00"
+    },
+    {
+      "title": "LINEヤフーもGMOも出社回帰､次は｢AI化で出社加速｣か｢採用難で在宅拡大｣か？大手42社の本音が示唆する現実解 | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965344?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "積極的にテレワークを推奨してきた企業が今､続々と｢出社回帰｣の動きを見せ､賛否両論が飛び交っています。そこで､出社回帰に舵を切った大手企業を対象にアンケートを実施。現場の実態とともに､興味深い見解も…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-23T23:00:00+00:00"
+    },
     {
       "title": "事務職の新卒採用減らす2割 調査",
       "link": "https://news.yahoo.co.jp/pickup/6603745?source=rss",
