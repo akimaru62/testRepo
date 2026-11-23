@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T22:04:41.813790+00:00",
+  "generated_at": "2026-11-23T22:17:43.797995+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2838,9 +2838,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "ＮＹダウは１４００ドル超上昇して引けた",
+      "link": "https://www.jiji.com/jc/article?k=2026112400122&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T22:17:38.447063+00:00"
+    },
+    {
+      "title": "サイバー攻撃に揺れる日本企業　ネット時代の広報対応に王道はあるか",
+      "link": "https://www.asahi.com/articles/ASVCM1632VCMULFA02SM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-23T22:17:38.105519+00:00"
+    },
+    {
+      "title": "Jensen Huang Is Back at Nvidia. Major Investigations Still Surround Him.",
+      "link": "https://www.wsj.com/politics/policy/jensen-huang-is-back-at-nvidia-major-investigations-still-surround-him-c904001c?mod=rss_markets_main",
+      "summary": "Several probes are examining the chip maker, its CEO and issues related to his initial ouster.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T22:15:00+00:00"
+    },
     {
       "title": "Nvidia’s stock is surging again. What to know before chasing the AI rally.",
       "link": "https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories",
@@ -2848,6 +2876,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-23T22:04:00+00:00"
+    },
+    {
+      "title": "駅から徒歩40分《漁港の街の古着屋》で｢平日に\"1人で14万円分\"買う人も｣ECなしでも商売が成り立つ理由 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964525?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "古着の聖地でもなく､最寄駅からは徒歩で40分ほどかかる逗子に店を構える古着屋。そんな場所でも経営は成り立っているといいます。いったいなぜなのでしょうか。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-23T22:00:00+00:00"
     },
     {
       "title": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm",
@@ -3040,6 +3076,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-23T20:59:12+00:00"
+    },
+    {
+      "title": "GPUI is getting its own repository",
+      "link": "https://github.com/zed-industries/gpui",
+      "summary": "Article URL: https://github.com/zed-industries/gpui\nComments URL: https://news.ycombinator.com/item?id=50619103\nPoints: 11\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T20:52:54+00:00"
     },
     {
       "title": "Jensen Huang’s return to Nvidia saved the stock market — for now. Will the rebound last?",
