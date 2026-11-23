@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T08:36:15.323248+00:00",
+  "generated_at": "2026-11-23T08:47:37.306024+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2602,9 +2602,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Euro Pares Gains, French Yields Fall After Weak French PMI Data",
+      "link": "https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e?mod=rss_markets_main",
+      "summary": "The euro trimmed gains against the dollar after the flash November French purchasing managers’ survey came in weaker than expected.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T08:45:00+00:00"
+    },
+    {
+      "title": "European Stock Indexes Higher in Cautious Trade",
+      "link": "https://www.wsj.com/finance/stocks/some-underperforming-japan-stocks-may-start-rising-after-strong-results-e6e3f434?mod=rss_markets_main",
+      "summary": "European stock indexes rose at open as tech stocks rallied, retracing some ground lost in Friday’s selloff.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T08:41:00+00:00"
+    },
+    {
+      "title": "Stock-market slides this steep and fast trigger a rebound 91% of the time over the last decade",
+      "link": "https://www.marketwatch.com/story/stock-market-slides-this-steep-and-fast-trigger-a-rebound-91-of-the-time-over-the-last-decade-798bd2c2?mod=mw_rss_topstories",
+      "summary": "The big question for traders is whether the S&amp;P 500’s swift fall into a correction is the start of something much worse for the stock market or actually a harbinger of a reversal.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T08:37:00+00:00"
+    },
     {
       "title": "７位渡辺隼輔と仮契約　プロ野球・ヤクルト",
       "link": "https://www.jiji.com/jc/article?k=2026112300274&g=spo&m=rss",
@@ -2665,6 +2693,14 @@
       "title": "Ukraine sinks Russian warship off coast of Libya",
       "link": "https://www.ft.com/content/b3f020fc-2617-4432-bced-af2a0b120133?syn-25a6b1a6=1",
       "summary": "Volodymyr Zelenskyy described the attack as an ‘exemplary’ sea drone operation",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T07:45:47+00:00"
+    },
+    {
+      "title": "Ukraine blows up Russian warship in Libya’s Benghazi naval base",
+      "link": "https://www.ft.com/content/b3f020fc-2617-4432-bced-af2a0b120133?syn-25a6b1a6=1",
+      "summary": "Volodymyr Zelenskyy described attack as an ‘exemplary’ sea drone operation",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-23T07:45:47+00:00"
