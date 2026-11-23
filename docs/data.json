@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:19:57.111998+00:00",
+  "generated_at": "2026-11-23T18:33:18.293740+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2774,6 +2774,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2826,9 +2830,25 @@
       "published": "2026-11-23T17:17:50+00:00"
     },
     {
+      "title": "Huang is back because he left Nvidia no choice",
+      "link": "https://www.ft.com/content/611430d0-9aec-4e5e-95d7-615e86f692ce?syn-25a6b1a6=1",
+      "summary": "Nvidia took Huang back because his failures left the company with no other options",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T17:17:50+00:00"
+    },
+    {
       "title": "Kagi Mail is here (Public Beta)",
       "link": "https://blog.kagi.com/kagi-mail-public-beta",
       "summary": "Article URL: https://blog.kagi.com/kagi-mail-public-beta\nComments URL: https://news.ycombinator.com/item?id=50615481\nPoints: 28\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T17:17:01+00:00"
+    },
+    {
+      "title": "Kagi Mail (public beta)",
+      "link": "https://blog.kagi.com/kagi-mail-public-beta",
+      "summary": "Article URL: https://blog.kagi.com/kagi-mail-public-beta\nComments URL: https://news.ycombinator.com/item?id=50615481\nPoints: 85\n# Comments: 49",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-23T17:17:01+00:00"
@@ -2893,6 +2913,14 @@
       "title": "Ladybird Is Now in Alpha",
       "link": "https://ladybird.org/posts/alpha/",
       "summary": "Article URL: https://ladybird.org/posts/alpha/\nComments URL: https://news.ycombinator.com/item?id=50614249\nPoints: 39\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T16:13:12+00:00"
+    },
+    {
+      "title": "Ladybird is now in alpha",
+      "link": "https://ladybird.org/posts/alpha/",
+      "summary": "Article URL: https://ladybird.org/posts/alpha/\nComments URL: https://news.ycombinator.com/item?id=50614249\nPoints: 578\n# Comments: 150",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-23T16:13:12+00:00"
@@ -3517,6 +3545,14 @@
       "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
       "link": "https://z.ai/blog/glm-5.4",
       "summary": "Article URL: https://z.ai/blog/glm-5.4\nComments URL: https://news.ycombinator.com/item?id=50609685\nPoints: 23\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T10:06:43+00:00"
+    },
+    {
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "link": "https://z.ai/blog/glm-5.4",
+      "summary": "Article URL: https://z.ai/blog/glm-5.4\nComments URL: https://news.ycombinator.com/item?id=50609685\nPoints: 821\n# Comments: 298",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-23T10:06:43+00:00"
