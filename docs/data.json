@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:47:26.004256+00:00",
+  "generated_at": "2026-11-23T19:04:08.154877+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2782,9 +2782,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Ken Chenault on Why CEOs Shouldn’t Lose Their Nerve",
+      "link": "https://www.wsj.com/business/ken-chenault-on-why-ceos-shouldnt-lose-their-nerve-6a26617a?mod=rss_markets_main",
+      "summary": "The executive known for coolheadedness reflects on leading American Express through 9/11, the rudderless evolution of AI and why every CEO needs a moral red line.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T19:00:00+00:00"
+    },
+    {
+      "title": "Trump is open to capping credit-card interest rates — but holiday shoppers shouldn’t bank on it yet",
+      "link": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
+      "summary": "As Americans prepare to pull out their credit cards for the holiday shopping season, President Donald Trump is saying he’s up for capping the interest rates they’re paying on their cards.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T18:55:00+00:00"
+    },
+    {
+      "title": "Jensen Huang reinstated as Nvidia CEO after Donald Trump intervention",
+      "link": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1",
+      "summary": "Shares surge 30% after stunning leadership reversal and lead Wall Street higher in broad rally",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T18:48:33+00:00"
+    },
+    {
+      "title": "Amazon may have just found a ‘cheap’ way to get a lot more out of its chips",
+      "link": "https://www.marketwatch.com/story/amazon-may-have-just-found-a-cheap-way-to-get-a-lot-more-out-of-its-chips-bd822bd5?mod=mw_rss_topstories",
+      "summary": "Amazon’s deal for Decart’s AI technology, with a reported price of $7.5 billion, may be a relatively inexpensive way to boost the speed and efficiency of its custom chips, says an analyst.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T18:47:00+00:00"
+    },
     {
       "title": "Trump’s push to reinstate Jensen Huang signals Nvidia’s CEO is too big to fail",
       "link": "https://www.marketwatch.com/story/trumps-push-to-reinstate-jensen-huang-signals-nvidias-ceo-is-too-big-to-fail-10709210?mod=mw_rss_topstories",
@@ -2888,6 +2924,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-23T17:17:01+00:00"
+    },
+    {
+      "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
+      "link": "https://twitter.com/ylecun/status/2124550037912920090",
+      "summary": "Article URL: https://twitter.com/ylecun/status/2124550037912920090\nComments URL: https://news.ycombinator.com/item?id=50615308\nPoints: 36\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T17:07:26+00:00"
     },
     {
       "title": "EasyPost (YC S13) Is Hiring",
@@ -3232,6 +3276,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-23T14:00:18+00:00"
+    },
+    {
+      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "link": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+      "summary": "We built NariQ: 3-bit-or-lower quantizations of Qwen3.8-27B that retain near-BF16 quality across agentic tasks, math, multilingual reasoning, and image understanding.To our knowledge, this is the first 3-bit-or-lower quantization that retains BF16 lvl performance on long-horizon agentic tasks.Benchmarks (BF16 / 3-bit / 2.5-bit / 2-bit):- DeepSWE: 39.8 / 41.0 / 41.9 / 28.6- Terminal-Bench 2.1: 62.6 / 63.8 / 60.2 / 52.4- AIME 25+26: 97.7 / 98.3 / 96.5 / 86.0- MSGM: 94.0 / 93.1 / 91.8 / 90.6- RealWorldQA: 82.4 / 82.4 / 81.3 / 80.9Decode speed is comparable to other quants on an RTX PRO 6000. Context-length results below(3-bit / 2.5-bit / 2-bit / Unsloth UD-IQ3_XXS):- 4K: 88.9 / 99.2 / 111.7 / 94.7- 16K: 84.5 / 93.8 / 105.1 / 89.8- 64K: 70.7 / 77.5 / 85.0 / 74.8Running these currently require our llama.cpp fork:\n(https://github.com/nari-labs/nari-llama.cpp)Feedback and questions welcome. We'd love to hear how these perform on your workloads.\n\nComments URL: https://news.ycombinator.com/item?id=50611402\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T13:42:38+00:00"
     },
     {
       "title": "UnitedHealth, Humana and CVS stocks slide as U.S targets Medicare Advantage ratings",
