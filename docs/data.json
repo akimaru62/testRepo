@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T17:47:42.627670+00:00",
+  "generated_at": "2026-11-23T18:06:15.812989+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2766,9 +2766,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, are among the S&P 500’s biggest losers Monday",
+      "link": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
+      "summary": "Shares of Kroger and Tyson Foods are down, as Nvidia storms higher",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T17:54:00+00:00"
+    },
     {
       "title": "More AI jobs are coming. That’s one of the big hiring trends in 2027.",
       "link": "https://www.marketwatch.com/story/more-ai-jobs-are-coming-thats-one-of-the-big-hiring-trends-in-2027-3d810209?mod=mw_rss_topstories",
@@ -2800,6 +2812,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-23T17:17:50+00:00"
+    },
+    {
+      "title": "Kagi Mail is here (Public Beta)",
+      "link": "https://blog.kagi.com/kagi-mail-public-beta",
+      "summary": "Article URL: https://blog.kagi.com/kagi-mail-public-beta\nComments URL: https://news.ycombinator.com/item?id=50615481\nPoints: 28\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T17:17:01+00:00"
     },
     {
       "title": "EasyPost (YC S13) Is Hiring",
