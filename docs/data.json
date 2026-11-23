@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T13:05:43.793243+00:00",
+  "generated_at": "2026-11-23T13:19:38.219889+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2682,9 +2682,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "遠藤共峻、緑川あかりが連覇　全日本スカッシュ",
+      "link": "https://www.jiji.com/jc/article?k=2026112300483&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T13:19:33.230250+00:00"
+    },
+    {
+      "title": "Gold Rebounds After Sharpest Weekly Decline Since March",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-rebounds-after-sharpest-weekly-decline-since-march-deaa4b87?mod=rss_markets_main",
+      "summary": "Gold prices climbed more than 2.5%, but remained roughly 10% lower for the month following last week’s sharp selloff.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T13:07:00+00:00"
+    },
     {
       "title": "地銀など定期預金金利を大幅上げ",
       "link": "https://news.yahoo.co.jp/pickup/6603719?source=rss",
@@ -2788,6 +2808,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-23T11:34:16+00:00"
+    },
+    {
+      "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+      "link": "https://github.com/os6/nospeaker",
+      "summary": "Article URL: https://github.com/os6/nospeaker\nComments URL: https://news.ycombinator.com/item?id=50610318\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T11:31:54+00:00"
     },
     {
       "title": "Pouncing on Anthropic Won’t Make You Rich",
