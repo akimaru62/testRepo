@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T05:20:07.216888+00:00",
+  "generated_at": "2026-11-23T05:33:34.023290+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2554,9 +2554,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "リフォーム工事業の倒産 過去最多",
+      "link": "https://news.yahoo.co.jp/pickup/6603667?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-23T05:26:29+00:00"
+    },
+    {
+      "title": "福利厚生フル活用「ガチ勢」生活",
+      "link": "https://news.yahoo.co.jp/pickup/6603669?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-23T05:25:51+00:00"
+    },
     {
       "title": "The number of 401(k) millionaires drops amid stock-market swings",
       "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
@@ -2564,6 +2584,62 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-23T05:01:00+00:00"
+    },
+    {
+      "title": "Novartis rejects AI industry hopes to cure cancer in 5 to 10 years",
+      "link": "https://www.ft.com/content/1e5a9d70-221d-461d-ae03-dc235b1db340?syn-25a6b1a6=1",
+      "summary": "Comments from pharma CEO follow ambitious claims from Anthropic chief and DeepMind founder",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T05:00:22+00:00"
+    },
+    {
+      "title": "Fossil fuels fight at COP31 climate talks ends in ‘unbridgeable’ red lines",
+      "link": "https://www.ft.com/content/32f7f678-1037-4922-860b-4b7f3c9f6de7?syn-25a6b1a6=1",
+      "summary": "Failure to reach agreement leads to soul-searching about the consensus process",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T05:00:22+00:00"
+    },
+    {
+      "title": "The problem with the circular AI economy",
+      "link": "https://www.ft.com/content/e49add11-3cc8-4edd-8daa-db8daaf994dd?syn-25a6b1a6=1",
+      "summary": "What will happen if the Jenga tower of Nvidia’s vendor financing collapses?",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T05:00:13+00:00"
+    },
+    {
+      "title": "China is winning the car war",
+      "link": "https://www.ft.com/content/d279b04d-1fb7-49c7-a191-d34cf6467681?syn-25a6b1a6=1",
+      "summary": "Western carmakers have been routed from China as EVs go mainstream. Now they are battling to avoid a similar fate at home",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T05:00:13+00:00"
+    },
+    {
+      "title": "Progressives are not radical enough on economics",
+      "link": "https://www.ft.com/content/add930b5-5a4c-4226-a778-ffdd009915f0",
+      "summary": "Instead of accepting automation, we should back ‘pro-worker AI’ that leverages the difference between machines and human intelligence",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T05:00:13+00:00"
+    },
+    {
+      "title": "The Gulf’s ‘new normal’",
+      "link": "https://www.ft.com/content/770e588c-9d85-4999-a25a-c01b8c3078d3?syn-25a6b1a6=1",
+      "summary": "As life regains its prewar energy, many worry the US-Iran war has done lasting damage to the region’s image",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T05:00:03+00:00"
+    },
+    {
+      "title": "Immigrants’ income growth outstrips Spaniards’ under Pedro Sánchez",
+      "link": "https://www.ft.com/content/ce066eb8-31fa-4c11-b49d-a353b04ec623?syn-25a6b1a6=1",
+      "summary": "Far-right Vox party is stoking divisions over immigration ahead of November 29 election",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T05:00:03+00:00"
     },
     {
       "title": "Wall Street set to rebound after AI stock sell-off",
@@ -2588,6 +2664,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-23T04:54:47+00:00"
+    },
+    {
+      "title": "Mass destruction of weapons",
+      "link": "https://computer.rip/2026-11-22-mass-destruction-of-weapons.html",
+      "summary": "Article URL: https://computer.rip/2026-11-22-mass-destruction-of-weapons.html\nComments URL: https://news.ycombinator.com/item?id=50607591\nPoints: 3\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T04:47:35+00:00"
     },
     {
       "title": "連覇の大の里「実感湧いてきた」　周囲に感謝も―大相撲九州場所",
