@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T15:47:33.559476+00:00",
+  "generated_at": "2026-11-23T16:05:48.223131+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2730,9 +2730,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "The surprising reason businesses can’t keep up with customer demand. Hint: It’s not just a strong U.S. economy.",
+      "link": "https://www.marketwatch.com/story/the-surprising-reason-businesses-cant-keep-up-with-customer-demand-hint-its-not-just-a-strong-u-s-economy-70be4a01?mod=mw_rss_topstories",
+      "summary": "The  economy is on track to grow 3% in the final three months of 2026, a pair of S&amp;P surveys showed, aided by rising customer demand and the hope for more political stabilityafter the U.S. elections.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T16:03:00+00:00"
+    },
     {
       "title": "フアン氏、ＣＥＯに復帰　安保リスクなしと判断―米エヌビディア",
       "link": "https://www.jiji.com/jc/article?k=2026112300537&g=int&m=rss",
@@ -2756,6 +2768,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-23T15:33:29.848276+00:00"
+    },
+    {
+      "title": "One Man's Quest to End Daylight Savings",
+      "link": "https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings",
+      "summary": "Article URL: https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings\nComments URL: https://news.ycombinator.com/item?id=50613465\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T15:28:41+00:00"
     },
     {
       "title": "２位の平田玲翔「活躍できるように」　巨人が新入団発表―プロ野球",
@@ -2900,6 +2920,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-23T14:17:00+00:00"
+    },
+    {
+      "title": "Building a wireless network adapter for the Super Nintendo",
+      "link": "https://boland.dev/snet/",
+      "summary": "Article URL: https://boland.dev/snet/\nComments URL: https://news.ycombinator.com/item?id=50611861\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T14:16:37+00:00"
     },
     {
       "title": "Dollar Jumps as Nvidia Reinstates Jensen Huang",
