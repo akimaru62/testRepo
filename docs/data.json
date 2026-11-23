@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T03:22:14.139208+00:00",
+  "generated_at": "2026-11-23T03:35:26.771963+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2522,6 +2522,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2564,6 +2568,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-23T03:00:00+00:00"
+    },
+    {
+      "title": "BYD shares fall after SUV barred from EU for Land Rover design copy",
+      "link": "https://www.ft.com/content/aeb7d4c9-393f-4ea3-9465-0bbeb754c614?syn-25a6b1a6=1",
+      "summary": "Court ruling marks significant setback for Chinese carmaker’s ambitions to expand in Europe",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T02:48:12+00:00"
     },
     {
       "title": "トランプが犯した｢大きな過ち｣－同盟国を軽視し中国に世界秩序の主導者を喧伝する場を与えた米中ロ首脳会談という茶番 | 政治・経済・投資 | 東洋経済オンライン",
