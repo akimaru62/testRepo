@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T12:08:10.382687+00:00",
+  "generated_at": "2026-11-23T12:24:49.868021+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2658,9 +2658,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "７度目Ｖ大の里を称賛　豊昇龍にも評価の声―大相撲横審",
+      "link": "https://www.jiji.com/jc/article?k=2026112300441&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T12:24:45.105993+00:00"
+    },
+    {
+      "title": "復興へ２５００億円超支援　インド首相、ネパール土石流災害受け",
+      "link": "https://www.jiji.com/jc/article?k=2026112300425&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T12:24:45.105973+00:00"
+    },
+    {
+      "title": "ロシアが核搭載衛星計画か　年内打ち上げも、情報機関警告―報道",
+      "link": "https://www.jiji.com/jc/article?k=2026112300427&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T12:24:45.105920+00:00"
+    },
+    {
+      "title": "Oil Falls Further But Shipping Attacks Persist",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-risk-off-sentiment-c478ebdc?mod=rss_markets_main",
+      "summary": "Oil prices extended losses in afternoon trading, despite persistent attacks on shipping in the Persian Gulf.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T12:22:00+00:00"
+    },
+    {
+      "title": "Cybersecurity stocks have been hot — and now CrowdStrike inks deal to buy Zscaler",
+      "link": "https://www.marketwatch.com/story/cybersecurity-stocks-have-been-hot-and-now-crowdstrike-inks-deal-to-buy-zscaler-df8fd163?mod=mw_rss_topstories",
+      "summary": "CrowdStrike on Monday said it will acquire Zscaler in an all-stock transaction that values the company at approximately $43.9 billion.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T12:16:00+00:00"
+    },
     {
       "title": "Gold Climbs 3%, Focus on Rate-Hike Bets",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-in-likely-technical-rebound-f895016c?mod=rss_markets_main",
@@ -2727,6 +2771,14 @@
     },
     {
       "title": "CrowdStrike to buy Zscaler in $44bn deal as cyber security disruptions mount",
+      "link": "https://www.ft.com/content/762bd05d-8e20-4abf-9bc5-4e6f9bf628cb?syn-25a6b1a6=1",
+      "summary": "All-stock acquisition comes as businesses and governments across the world grapple with wave of tech outages",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T11:02:10+00:00"
+    },
+    {
+      "title": "CrowdStrike to buy Zscaler in $44bn deal as cyber threats mount",
       "link": "https://www.ft.com/content/762bd05d-8e20-4abf-9bc5-4e6f9bf628cb?syn-25a6b1a6=1",
       "summary": "All-stock acquisition comes as businesses and governments across the world grapple with wave of tech outages",
       "source": "Financial Times",
