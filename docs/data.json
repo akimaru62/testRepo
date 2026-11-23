@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T20:47:31.363612+00:00",
+  "generated_at": "2026-11-23T21:04:55.332813+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2818,9 +2818,61 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "サイバー被害はこれからどうなる､最も起こりやすいのは｢被害公表が数年続く｣展開…専門家に聞いた3つのシナリオ | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965507?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "――今後、事態は収まっていくのでしょうか。まず最善のシナリオを教えてください。守る側が攻撃者より先に穴をふさいでいく道筋だ。カギを握るのはコストだ。攻撃者がAIを使うようになり、攻撃は安く、速くなっ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-23T21:00:00+00:00"
+    },
+    {
+      "title": "｢人類を滅亡させるかもしれない｣AIへ投資する人間…アメリカ中間選挙の結果は楽観論を修正できるか | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965443?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "AIがもたらす未来に金融界は楽観的ですが､社会全体には深まる不安と反発の空気が漂います。特にアメリカ中間選挙の結果やデータセンターへの規制強化は､その象徴です。市場と技術革新のはざまで､私たちはどん…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-23T21:00:00+00:00"
+    },
+    {
+      "title": "《エース営業には上司も逆らえない》プルデンシャル52億円､第一生命19億円の詐取･不正…不祥事続く生保業界\"組織の病\" | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965403?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "生命保険業界を揺るがす､プルデンシャル生命の不祥事。｢営業成績至上主義｣の組織構造が､顧客の信頼を裏切る深刻な事件の温床となっているようです。業界の本質と課題に迫ります。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-23T21:00:00+00:00"
+    },
+    {
+      "title": "〈米求人減でも最高益〉リクルートHD､国内5位｢時価総額28兆円｣の牽引役･インディードが遂げた\"大きすぎる変貌\" | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965264?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "上半期は大幅な増収増益で着地し､通期でも売り上げ､利益ともに過去最高を見込みます。総合人材サービスに加え､SUUMO（スーモ）やホットペッパービューティーといったイメージが根強いリクルートですが､イ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-23T21:00:00+00:00"
+    },
+    {
+      "title": "ドローン｢国産3割｣は組み立て段階の話？ 元装備庁長官が警告する中国製部品の壁と､空より｢海と陸｣の勝機 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964884?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "――ウクライナや中東での戦闘で、ドローンなど無人装備の役割はどう変わりましたか。22年の国家防衛戦略は、おおむね10年後までに無人装備を使った戦い方を具体化するとしていた。想定はしていたが、10年後…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-23T21:00:00+00:00"
+    },
+    {
+      "title": "Jensen Huang’s return to Nvidia saved the stock market — for now. Will the rebound last?",
+      "link": "https://www.marketwatch.com/story/the-return-of-jensen-huang-has-saved-the-u-s-stock-market-for-now-why-the-rebound-may-not-last-f72656ce?mod=mw_rss_topstories",
+      "summary": "Investors still have plenty of other problems to worry about.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T20:51:00+00:00"
+    },
     {
       "title": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history",
       "link": "https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
