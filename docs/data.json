@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T00:14:53.980864+00:00",
+  "generated_at": "2026-11-23T00:45:36.512113+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2474,9 +2474,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Oil Falls Amid Risk-Off Sentiment",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-risk-off-sentiment-c478ebdc?mod=rss_markets_main",
+      "summary": "Oil fell amid risk-off sentiment spurred by global equity markets’ selloff on Friday.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T00:41:00+00:00"
+    },
+    {
+      "title": "Asian Currencies Mixed as Traders Digest Divergent Signals",
+      "link": "https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e?mod=rss_markets_main",
+      "summary": "Asian currencies were mixed against the dollar as traders digest divergent signals.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T00:24:00+00:00"
+    },
+    {
+      "title": "「ほぼ日手帳」海外で人気のワケ",
+      "link": "https://news.yahoo.co.jp/pickup/6603636?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-23T00:20:14+00:00"
+    },
     {
       "title": "高梨、苦しいスタート　Ｗ杯ジャンプ",
       "link": "https://www.jiji.com/jc/article?k=2026112300116&g=spo&m=rss",
@@ -2534,12 +2562,36 @@
       "published": "2026-11-23T00:00:00+00:00"
     },
     {
+      "title": "FBI is having a mass hire for IT specialists",
+      "link": "https://apply.fbijobs.gov/psc/ps/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Action=U&FOCUS=Applicant&JobOpeningId=68871&Page=HRS_APP_JBPST_FL&PostingSeq=1&SiteId=1&",
+      "summary": "Article URL: https://apply.fbijobs.gov/psc/ps/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Action=U&amp;FOCUS=Applicant&amp;JobOpeningId=68871&amp;Page=HRS_APP_JBPST_FL&amp;PostingSeq=1&amp;SiteId=1&\nComments URL: https://news.ycombinator.com/item?id=50605483\nPoints: 14\n# Comments: 11",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T23:58:22+00:00"
+    },
+    {
+      "title": "Nespresso's project to reduce grams of coffee per capsule",
+      "link": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
+      "summary": "Article URL: https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/\nComments URL: https://news.ycombinator.com/item?id=50605479\nPoints: 34\n# Comments: 30",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T23:57:45+00:00"
+    },
+    {
       "title": "Yen May Strengthen Vs. Dollar on Diminished Risk Appetite",
       "link": "https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e?mod=rss_markets_main",
       "summary": "The yen may strengthen against the dollar on diminished risk appetite, according to analysts.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-22T23:54:00+00:00"
+    },
+    {
+      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+      "link": "https://0rwx.com/",
+      "summary": "Article URL: https://0rwx.com/\nComments URL: https://news.ycombinator.com/item?id=50605445\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T23:53:00+00:00"
     },
     {
       "title": "NHK紅白｢知らない人ばかり｣｢ヒット曲あったっけ？｣ 今年も出場者に賛否…《昔はよかった論争》が起こる意外な理由 | ライフ | 東洋経済オンライン",
@@ -2737,6 +2789,14 @@
       "title": "The Usefulness of Useless Knowledge [pdf]",
       "link": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
       "summary": "Article URL: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf\nComments URL: https://news.ycombinator.com/item?id=50604472\nPoints: 12\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-22T22:10:58+00:00"
+    },
+    {
+      "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
+      "link": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+      "summary": "Article URL: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf\nComments URL: https://news.ycombinator.com/item?id=50604472\nPoints: 47\n# Comments: 8",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-22T22:10:58+00:00"
