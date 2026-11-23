@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T08:47:37.306024+00:00",
+  "generated_at": "2026-11-23T09:07:47.387908+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2606,9 +2606,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Gold Rebounds From Last Week’s Plunge, With Focus on U.S. Inflation Data",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-in-likely-technical-rebound-f895016c?mod=rss_markets_main",
+      "summary": "Gold prices rebounded from their largest weekly decline since March as investors awaited U.S. inflation data for more clues on the monetary policy outlook.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T08:47:00+00:00"
+    },
     {
       "title": "Euro Pares Gains, French Yields Fall After Weak French PMI Data",
       "link": "https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e?mod=rss_markets_main",
