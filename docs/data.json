@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T23:47:32.717193+00:00",
+  "generated_at": "2026-11-23T00:14:53.980864+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2466,9 +2466,81 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "高梨、苦しいスタート　Ｗ杯ジャンプ",
+      "link": "https://www.jiji.com/jc/article?k=2026112300116&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T00:14:49.757963+00:00"
+    },
+    {
+      "title": "久保建英は途中出場　欧州サッカー",
+      "link": "https://www.jiji.com/jc/article?k=2026112300118&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T00:14:49.757949+00:00"
+    },
+    {
+      "title": "Ｗ杯ジャンプ・談話",
+      "link": "https://www.jiji.com/jc/article?k=2026112300120&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T00:14:49.757936+00:00"
+    },
+    {
+      "title": "鹿児島で震度３",
+      "link": "https://www.jiji.com/jc/article?k=2026112300122&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T00:14:49.757922+00:00"
+    },
+    {
+      "title": "丸山、一歩届かず　Ｗ杯ジャンプ",
+      "link": "https://www.jiji.com/jc/article?k=2026112300115&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T00:14:49.757900+00:00"
+    },
+    {
+      "title": "たまごっち「３０歳」お祝い　米ＮＹのタイムズスクエアで",
+      "link": "https://www.jiji.com/jc/article?k=2026112300113&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T00:14:49.757856+00:00"
+    },
+    {
+      "title": "【SAPIXとジーニアスが明かす】過去問が合格点に届かない！→直前で大逆転する子の共通点､焦る親がやりがちな｢NG介入｣ | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965378?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "中学受験を控える11月から12月は､保護者も焦りやすい時期。合格を勝ち取る家庭は､過去問の点数をどう受け止め､志望校を固めているのでしょうか。難関校の合格実績が豊富な中学受験塾のプロたちに､｢直前期…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-23T00:00:00+00:00"
+    },
+    {
+      "title": "Yen May Strengthen Vs. Dollar on Diminished Risk Appetite",
+      "link": "https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e?mod=rss_markets_main",
+      "summary": "The yen may strengthen against the dollar on diminished risk appetite, according to analysts.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-22T23:54:00+00:00"
+    },
     {
       "title": "NHK紅白｢知らない人ばかり｣｢ヒット曲あったっけ？｣ 今年も出場者に賛否…《昔はよかった論争》が起こる意外な理由 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965517?utm_source=rss&utm_medium=http&utm_campaign=link_back",
