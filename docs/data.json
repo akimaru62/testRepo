@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T20:17:14.039741+00:00",
+  "generated_at": "2026-11-23T20:33:08.709294+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2810,9 +2810,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing",
+      "link": "https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories",
+      "summary": "Nvidia’s financing of the AI ecosystem has been crucial for cloud companies like Oracle, CoreWeave, Nebius and Iren.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T20:25:00+00:00"
+    },
+    {
+      "title": "Gold, Silver Futures Rebound as Markets Get Nvidia Boost",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-in-likely-technical-rebound-f895016c?mod=rss_markets_main",
+      "summary": "Gold settled 3.9% higher and silver rose 5.1%, with both metals snapping a three-session losing streak as the reinstatement of Nvidia’s chief executive lifted equities and other assets.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T20:21:00+00:00"
+    },
     {
       "title": "｢金利が上がれば地価は下がる｣は本当か？ 武蔵野･三鷹は加速､調布･府中は鈍化… 最新基準地価に見た｢静かな地殻変動｣ | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965356?utm_source=rss&utm_medium=http&utm_campaign=link_back",
