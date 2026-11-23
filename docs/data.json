@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T16:05:48.223131+00:00",
+  "generated_at": "2026-11-23T16:18:57.993709+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2734,9 +2734,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "米エヌビディアはフアン氏がＣＥＯに復帰したと発表した",
+      "link": "https://www.jiji.com/jc/article?k=2026112300533&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T16:18:52.098808+00:00"
+    },
     {
       "title": "The surprising reason businesses can’t keep up with customer demand. Hint: It’s not just a strong U.S. economy.",
       "link": "https://www.marketwatch.com/story/the-surprising-reason-businesses-cant-keep-up-with-customer-demand-hint-its-not-just-a-strong-u-s-economy-70be4a01?mod=mw_rss_topstories",
@@ -2744,6 +2756,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-23T16:03:00+00:00"
+    },
+    {
+      "title": "Buckle Up the AI Bubble Is Popping",
+      "link": "https://mathbabe.org/2026/11/23/buckle-up-the-ai-bubble-is-popping/",
+      "summary": "Article URL: https://mathbabe.org/2026/11/23/buckle-up-the-ai-bubble-is-popping/\nComments URL: https://news.ycombinator.com/item?id=50614037\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T16:01:20+00:00"
     },
     {
       "title": "フアン氏、ＣＥＯに復帰　安保リスクなしと判断―米エヌビディア",
