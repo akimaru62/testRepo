@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T14:33:04.951472+00:00",
+  "generated_at": "2026-11-23T14:47:43.354619+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2710,9 +2710,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "エヌビディア、フアン氏のＣＥＯ復帰を発表　不倫問題で辞任から一転",
+      "link": "https://www.asahi.com/articles/ASVCR4RWMVCRUHBI00RM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-23T14:47:38.843752+00:00"
+    },
+    {
+      "title": "【株価急伸】エヌビディア､ジェンスン･フアン氏を取締役社長兼CEOに即時復帰させると発表 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965639?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "エヌビディアは､ジェンスン･フアン氏を社長兼CEOとして電撃復帰させ､市場に衝撃を与えました。株価は一時31％超の急騰を記録しました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-23T14:39:00+00:00"
+    },
+    {
+      "title": "Jensen Huang is back at Nvidia, and the stock market is surging. Can it last?",
+      "link": "https://www.marketwatch.com/story/trump-wants-jensen-huang-back-at-nvidia-what-will-it-take-to-stop-the-tech-selloff-3f6b091f?mod=mw_rss_topstories",
+      "summary": "What to watch in AI earnings this Thanksgiving week. Plus, why memory stocks look so cheap, how much less you’ll pay at the pump and a $100,000 pottery-studio dilemma.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T14:37:00+00:00"
+    },
+    {
+      "title": "Nvidia shares soar 30% after board reinstates Jensen Huang",
+      "link": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
+      "summary": "Nasdaq gains 7% and S&amp;P up 5% as AI trade reignites on Wall Street",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T14:33:17+00:00"
+    },
+    {
+      "title": "Nvidia’s stock soars 30%-plus as Jensen Huang returns as CEO",
+      "link": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
+      "summary": "Donald Trump’s was among the voices pushing for ousted co-founder Huang’s resumption of the AI chip giant’s reins.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T14:33:00+00:00"
+    },
     {
       "title": "U.S. Treasury Yields Climb As Nvidia Reinstates Jensen Huang as CEO",
       "link": "https://www.wsj.com/articles/german-bund-yields-rise-french-yields-fall-ahead-of-pmi-data-c4d45e93?mod=rss_markets_main",
@@ -2824,6 +2868,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-23T13:32:00+00:00"
+    },
+    {
+      "title": "Macron proposes French budget ‘golden rule’",
+      "link": "https://www.ft.com/content/23e88085-9259-472d-8831-b3d88e1c4698?syn-25a6b1a6=1",
+      "summary": "President suggests constitutional reform to cap government spending and keep future deficits in check, echoing proposals by opponents",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T13:22:36+00:00"
     },
     {
       "title": "遠藤共峻、緑川あかりが連覇　全日本スカッシュ",
