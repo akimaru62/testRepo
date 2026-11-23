@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T13:33:37.881334+00:00",
+  "generated_at": "2026-11-23T13:47:44.800797+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2694,9 +2694,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "UnitedHealth, Humana and CVS stocks slide as U.S targets Medicare Advantage ratings",
+      "link": "https://www.marketwatch.com/story/unitedhealth-humana-and-cvs-stocks-slide-as-u-s-targets-medicare-advantage-ratings-6c2be5bb?mod=mw_rss_topstories",
+      "summary": "The health insurers are facing scrutiny over their business practices and potential changes to the private Medicare program.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T13:35:00+00:00"
+    },
+    {
+      "title": "U.S. Natural Gas Futures Hand Back Last Week’s Gains",
+      "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-climbs-on-colder-weather-low-storage-c3b99a8a?mod=rss_markets_main",
+      "summary": "U.S. natural gas futures fell after weekend weather forecasts turned milder for the start of December.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T13:34:00+00:00"
+    },
     {
       "title": "U.S. Treasury Yields Rise, European Bond Yields Edge Lower",
       "link": "https://www.wsj.com/finance/investing/u-s-european-bond-yields-rise-reversing-last-weeks-sharp-falls-9afadf09?mod=rss_markets_main",
@@ -2730,6 +2750,14 @@
       "published": "2026-11-23T13:07:00+00:00"
     },
     {
+      "title": "Show HN: News Blocklist – a DNS blocklist of 14k news and current-affairs sites",
+      "link": "https://github.com/ruairidhflint/news-blocklist",
+      "summary": "A little while ago I built (vibed) a tiny Mac app to block websites via the hosts file. By default it imported some fairly popular adult filtering lists as well as social media etc.It has been very effective; it would only take a few moments to switch off but it is enough of an interruption to often make me re-evaluate and proceed on.I have a particular distain for current affairs and have found \"the news\" addictive for years, clearly at the detriment to my own mental health and sanity.So, in a similar vein to the other lists I found, I have created a fairly comprehensive list of news sites that can be imported/used as you see fit.To state the obvious, the absolute vast majority of the work was done via Claude and a small army of sub-agents.\n\nComments URL: https://news.ycombinator.com/item?id=50611026\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T13:02:52+00:00"
+    },
+    {
       "title": "地銀など定期預金金利を大幅上げ",
       "link": "https://news.yahoo.co.jp/pickup/6603719?source=rss",
       "summary": "",
@@ -2757,6 +2785,14 @@
       "title": "Rene Haas affirms ‘long-term commitment’ to Arm after Nvidia approach",
       "link": "https://www.ft.com/content/6f3e2cbe-9ce4-47e7-be69-a2e765da8f9c",
       "summary": "UK chip company CEO signs new contract just weeks after being approached as possible candidate to replace Jensen Huang",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T12:28:53+00:00"
+    },
+    {
+      "title": "Rene Haas affirms his ‘long-term commitment’ to Arm after Nvidia approach",
+      "link": "https://www.ft.com/content/6f3e2cbe-9ce4-47e7-be69-a2e765da8f9c",
+      "summary": "UK chip company’s chief signs new contract after being approached as possible candidate to replace Jensen Huang",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-23T12:28:53+00:00"
