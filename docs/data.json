@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T15:05:47.415159+00:00",
+  "generated_at": "2026-11-23T15:18:16.169372+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2718,9 +2718,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "２位の平田玲翔「活躍できるように」　巨人が新入団発表―プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026112300418&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T15:18:06.615612+00:00"
+    },
+    {
+      "title": "伊藤龍之介が最優秀新人候補　ワールドラグビー年間表彰",
+      "link": "https://www.jiji.com/jc/article?k=2026112300463&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T15:18:06.615597+00:00"
+    },
+    {
+      "title": "ＣＯＰ３１決裂に「失望」　脱化石燃料の明記見送り―ＥＵ",
+      "link": "https://www.jiji.com/jc/article?k=2026112300526&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T15:18:06.615570+00:00"
+    },
+    {
+      "title": "邦人記者、２回目の領事面会　健康状態に問題なし―ロシア",
+      "link": "https://www.jiji.com/jc/article?k=2026112300535&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T15:18:06.615531+00:00"
+    },
     {
       "title": "Nasdaq Jumps, Nvidia Surges After Huang Returns as CEO",
       "link": "https://www.wsj.com/finance/stocks/stock-futures-rally-as-dust-settles-after-ai-driven-selloff-705ff2c4?mod=rss_markets_main",
@@ -2736,6 +2772,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-23T14:56:00+00:00"
+    },
+    {
+      "title": "フアン氏がNVIDIAのCEOに復帰　取締役会が満場一致で決議",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/23/news012.html",
+      "summary": "米NVIDIAは11月23日、ジェンスン・フアン氏をCEOに復帰させたと発表した。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-23T14:52:00+00:00"
     },
     {
       "title": "エヌビディア、フアン氏のＣＥＯ復帰を発表　不倫問題で辞任から一転",
