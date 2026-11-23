@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T11:17:42.961379+00:00",
+  "generated_at": "2026-11-23T11:33:14.668846+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2646,9 +2646,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Pouncing on Anthropic Won’t Make You Rich",
+      "link": "https://www.wsj.com/finance/stocks/pouncing-on-anthropic-wont-make-you-rich-4d500a06?mod=rss_markets_main",
+      "summary": "Plus, tech rises from the ashes.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T11:28:00+00:00"
+    },
+    {
+      "title": "Volatility Dents Consumer Mood of Wealthier Americans",
+      "link": "https://www.wsj.com/finance/investing/volatility-dents-consumer-mood-of-wealthier-americans-2fdc44d6?mod=rss_markets_main",
+      "summary": "Some of the best analysis and insight on investing, the wealth-management business and more.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T11:25:00+00:00"
+    },
     {
       "title": "五輪連覇の堀米雄斗２位　女子は吉沢恋が３位―スケートボードのワールドツアー・ストリート",
       "link": "https://www.jiji.com/jc/article?k=2026112300358&g=spo&m=rss",
@@ -2674,6 +2694,14 @@
       "published": "2026-11-23T11:17:38.905270+00:00"
     },
     {
+      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why don’t others feel the same?",
+      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "summary": "“My wife stopped working outside the home in 1970.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T11:15:00+00:00"
+    },
+    {
       "title": "Dollar Could Stay Firm if Upcoming Data Support Rate-Rise Bets",
       "link": "https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e?mod=rss_markets_main",
       "summary": "The dollar was flat against a basket of currencies, and ING said the greenback was likely to stay firm as upcoming data could support Federal Reserve rate hike expectations.",
@@ -2688,6 +2716,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-23T11:02:10+00:00"
+    },
+    {
+      "title": "China's prison for the elite is massively expanding",
+      "link": "https://www.economist.com/china/2026/11/19/chinas-prison-for-the-elite-is-massively-expanding",
+      "summary": "Article URL: https://www.economist.com/china/2026/11/19/chinas-prison-for-the-elite-is-massively-expanding\nComments URL: https://news.ycombinator.com/item?id=50610073\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T10:58:55+00:00"
     },
     {
       "title": "The U.S. may enter a recession if the Fed raises rates, hedge-fund manager Bill Ackman says",
