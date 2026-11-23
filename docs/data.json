@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T15:18:16.169372+00:00",
+  "generated_at": "2026-11-23T15:33:35.901953+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2722,9 +2722,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "ＮＹ株、一時１３００ドル超高　ハイテク買い戻し、エヌビディア急騰",
+      "link": "https://www.jiji.com/jc/article?k=2026112300565&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T15:33:30.228720+00:00"
+    },
+    {
+      "title": "エヌビディア、フアン氏のCEO復帰を発表　不倫問題で辞任から一転",
+      "link": "https://www.asahi.com/articles/ASVCR4RWMVCRUHBI00RM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-23T15:33:29.848276+00:00"
+    },
     {
       "title": "２位の平田玲翔「活躍できるように」　巨人が新入団発表―プロ野球",
       "link": "https://www.jiji.com/jc/article?k=2026112300418&g=spo&m=rss",
@@ -2764,6 +2784,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-23T14:58:00+00:00"
+    },
+    {
+      "title": "Nvidia surges 30% as tech stocks soar",
+      "link": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1",
+      "summary": "Nvidia board votes unanimously for its chief executive’s return in stunning reversal",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T14:57:55+00:00"
     },
     {
       "title": "Oil Futures Start Week Lower as Middle East Flows Continue",
