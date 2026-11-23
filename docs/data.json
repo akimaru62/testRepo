@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T09:35:20.029374+00:00",
+  "generated_at": "2026-11-23T09:47:52.932965+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2618,9 +2618,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Stocks are serving up a ‘fat pitch’ for investors right now, as Morgan Stanley’s top strategist",
+      "link": "https://www.marketwatch.com/story/stocks-are-serving-up-a-fat-pitch-for-investors-right-now-as-morgan-stanleys-top-strategist-19abe30a?mod=mw_rss_topstories",
+      "summary": "Morgan Stanley points to trough Nasdaq valuations, implied earnings declines and a capitulation in both sentiment and positioning as reasons to be bullish.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T09:40:00+00:00"
+    },
     {
       "title": "外相、統一相が交代へ　対米関係立て直し―韓国",
       "link": "https://www.jiji.com/jc/article?k=2026112300249&g=int&m=rss",
