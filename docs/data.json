@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T20:33:08.709294+00:00",
+  "generated_at": "2026-11-23T20:47:31.363612+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2814,9 +2814,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history",
+      "link": "https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
+      "summary": "Two products aiming to profit off daily declines in Nvidia shares were nearly wiped out as the stock rallied more than 30%.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T20:40:00+00:00"
+    },
+    {
+      "title": "レンジローバー最高峰､最上位モデルは4000万円超…日本初公開｢SV ULTRA｣とデザイン＆アートフェスティバルの親和性 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964878?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "レンジローバー史上最高峰のラグジュアリーと個性を追求した｢レンジローバーSV ULTRA｣が､国内最大のデザインイベント｢DESIGNART TOKYO 2026｣で華々しく日本初公開。ランドローバ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-23T20:30:00+00:00"
+    },
     {
       "title": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing",
       "link": "https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories",
@@ -2840,6 +2860,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-23T20:15:00+00:00"
+    },
+    {
+      "title": "Congress shreds Nvidia's 'outrageous' return of Huang: 'Failure of character'",
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html\nComments URL: https://news.ycombinator.com/item?id=50618490\nPoints: 20\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T20:13:18+00:00"
     },
     {
       "title": "Gold Futures Rebound as Nvidia News Lifts Markets",
