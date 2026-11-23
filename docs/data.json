@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T12:24:49.868021+00:00",
+  "generated_at": "2026-11-23T12:37:24.783168+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2662,9 +2662,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "年収1000万円 社内ニートの不安",
+      "link": "https://news.yahoo.co.jp/pickup/6603718?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-23T12:34:20+00:00"
+    },
+    {
+      "title": "Trump wants Jensen Huang back at Nvidia. What will it take to stop the tech selloff?",
+      "link": "https://www.marketwatch.com/story/trump-wants-jensen-huang-back-at-nvidia-what-will-it-take-to-stop-the-tech-selloff-3f6b091f?mod=mw_rss_topstories",
+      "summary": "What to watch in AI earnings this Thanksgiving week. Plus, why memory stocks look so cheap, how much less you’ll pay at the pump and a $100,000 pottery-studio dilemma.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T12:26:00+00:00"
+    },
+    {
+      "title": "The trouble with the middle powers project",
+      "link": "https://www.ft.com/content/cf3b03e3-3fbf-489b-a292-33596ea64eea?syn-25a6b1a6=1",
+      "summary": "Smaller nations are already dangerously dependent — and US and Chinese dominance of AI will only compound their problems",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T12:25:47+00:00"
+    },
     {
       "title": "７度目Ｖ大の里を称賛　豊昇龍にも評価の声―大相撲横審",
       "link": "https://www.jiji.com/jc/article?k=2026112300441&g=spo&m=rss",
@@ -2712,6 +2740,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-23T11:43:00+00:00"
+    },
+    {
+      "title": "The next circle of security hell",
+      "link": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
+      "summary": "Article URL: https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/\nComments URL: https://news.ycombinator.com/item?id=50610334\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T11:34:16+00:00"
     },
     {
       "title": "Pouncing on Anthropic Won’t Make You Rich",
