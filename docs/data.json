@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T08:08:14.138370+00:00",
+  "generated_at": "2026-11-23T08:24:56.701155+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2594,9 +2594,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "７位渡辺隼輔と仮契約　プロ野球・ヤクルト",
+      "link": "https://www.jiji.com/jc/article?k=2026112300274&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T08:24:52.120009+00:00"
+    },
+    {
+      "title": "朱の居城に「きれい」「うれしい」　首里城正殿が一般公開―沖縄",
+      "link": "https://www.jiji.com/jc/article?k=2026112300256&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T08:24:52.119962+00:00"
+    },
+    {
+      "title": "German Bund Yields Rise, French Yields Fall Ahead of PMI Data",
+      "link": "https://www.wsj.com/articles/german-bund-yields-rise-french-yields-fall-ahead-of-pmi-data-c4d45e93?mod=rss_markets_main",
+      "summary": "Eurozone government bonds were mixed, with German yields rising in a correction after recent falls while French yields fell.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T08:21:00+00:00"
+    },
+    {
+      "title": "European TTF Gas Climbs on Colder Weather, Low Storage",
+      "link": "https://www.wsj.com/finance/commodities-futures/european-ttf-gas-climbs-on-colder-weather-low-storage-c3b99a8a?mod=rss_markets_main",
+      "summary": "European natural-gas prices climbed back above 90 euros a megawatt-hour as signs of colder weather lifted heating demand.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T08:18:00+00:00"
+    },
+    {
+      "title": "Oil Remains in Tight Range Amid Surplus Expectations, Gulf Attacks",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-risk-off-sentiment-c478ebdc?mod=rss_markets_main",
+      "summary": "Oil prices fell though remained in a tight range as traders weighed expectations of a surplus against concerns about escalating hostilities in the Middle East.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T08:15:00+00:00"
+    },
     {
       "title": "ポッキー、なぜ「世界一」売れた？　ドリアン味に「ミカド」の名も",
       "link": "https://www.asahi.com/articles/ASVCJ2RR5VCJPLFA00DM.html?ref=rss",
