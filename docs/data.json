@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T05:06:09.683984+00:00",
+  "generated_at": "2026-11-23T05:20:07.216888+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2550,6 +2550,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2562,12 +2566,28 @@
       "published": "2026-11-23T05:01:00+00:00"
     },
     {
+      "title": "Wall Street set to rebound after AI stock sell-off",
+      "link": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
+      "summary": "Asian markets declined as South Korean chipmakers shed about 3%",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T04:58:47+00:00"
+    },
+    {
       "title": "Asian Regulators Step Up Efforts to Calm AI-Driven Market Turmoil",
       "link": "https://www.wsj.com/finance/stocks/asian-regulators-step-up-efforts-to-calm-ai-driven-market-turmoil-95ea6cf8?mod=rss_markets_main",
       "summary": "Regulators and market operators in China, South Korea and Taiwan have rolled out emergency measures to arrest the turmoil sparked by the global rout in artificial-intelligence stocks.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-23T04:55:00+00:00"
+    },
+    {
+      "title": "Asian regulators rush to support sagging markets as AI trade falters",
+      "link": "https://www.ft.com/content/69459363-8299-4555-a39c-8980ee6c3590?syn-25a6b1a6=1",
+      "summary": "Shares of region’s chipmakers and hardware suppliers especially vulnerable to turn in sentiment",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T04:54:47+00:00"
     },
     {
       "title": "連覇の大の里「実感湧いてきた」　周囲に感謝も―大相撲九州場所",
