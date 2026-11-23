@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T07:33:12.181792+00:00",
+  "generated_at": "2026-11-23T07:47:33.020940+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2582,9 +2582,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "ポッキー、なぜ「世界一」売れた？　ドリアン味に「ミカド」の名も",
+      "link": "https://www.asahi.com/articles/ASVCJ2RR5VCJPLFA00DM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-23T07:47:28.814320+00:00"
+    },
+    {
+      "title": "Dollar Edges Lower as Oil Prices Decline",
+      "link": "https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e?mod=rss_markets_main",
+      "summary": "The dollar eased as oil prices fell, but continued expectations for further Fed interest-rate rises limited losses.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T07:34:00+00:00"
+    },
     {
       "title": "Euro Might Decline Amid French Election Uncertainty",
       "link": "https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e?mod=rss_markets_main",
@@ -2653,6 +2673,14 @@
       "title": "South Korean minister quits, saying he’s too old to tackle AI exam cheating",
       "link": "https://www.ft.com/content/d97f37d0-588e-488c-b10e-035900367aa4?syn-25a6b1a6=1",
       "summary": "Choi Kyo-jin, 72, attracted anger for comments as authorities struggle to tackle abuses in high-stakes exams",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T07:10:04+00:00"
+    },
+    {
+      "title": "South Korean minister says he’s too old to tackle AI exam cheating",
+      "link": "https://www.ft.com/content/d97f37d0-588e-488c-b10e-035900367aa4?syn-25a6b1a6=1",
+      "summary": "Choi Kyo-jin, 72, resigns after comments fuel anger over authorities’ handling of abuses in high-stakes tests",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-23T07:10:04+00:00"
