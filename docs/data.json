@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T06:57:58.399906+00:00",
+  "generated_at": "2026-11-23T07:15:59.630502+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2574,9 +2574,85 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "大商大の真鍋、殊勲の３ラン　明治神宮野球",
+      "link": "https://www.jiji.com/jc/article?k=2026112300241&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T07:15:55.214149+00:00"
+    },
+    {
+      "title": "外相、統一相が交代へ　韓国、情報機関トップに初の女性",
+      "link": "https://www.jiji.com/jc/article?k=2026112300249&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T07:15:55.214139+00:00"
+    },
+    {
+      "title": "韓国大統領府は外相ら重要閣僚を交代させる人事を発表した",
+      "link": "https://www.jiji.com/jc/article?k=2026112300246&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T07:15:55.214124+00:00"
+    },
+    {
+      "title": "アリス氏背景に巨大密輸網　日本で逮捕の人物も―エヌビディア半導体",
+      "link": "https://www.jiji.com/jc/article?k=2026112300235&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-23T07:15:55.214081+00:00"
+    },
+    {
+      "title": "食べるポン酢「どろぽん」人気",
+      "link": "https://news.yahoo.co.jp/pickup/6603679?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-23T07:11:29+00:00"
+    },
+    {
+      "title": "Gold Touches Buy Levels, With $4,200 as Next Key Resistance on Charts",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-in-likely-technical-rebound-f895016c?mod=rss_markets_main",
+      "summary": "Spot gold prices rose and Maybank said the precious metal was at buy levels during Asian trade.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T07:11:00+00:00"
+    },
+    {
+      "title": "カスハラ対策 試行錯誤する企業",
+      "link": "https://news.yahoo.co.jp/pickup/6603677?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-23T07:10:18+00:00"
+    },
+    {
+      "title": "CollectWise (YC F24) Is Hiring",
+      "link": "https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager",
+      "summary": "Article URL: https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager\nComments URL: https://news.ycombinator.com/item?id=50608390\nPoints: 0\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T07:01:08+00:00"
+    },
+    {
+      "title": "Julius Baer Profit Climbs as Inflows Boost Assets Under Management",
+      "link": "https://www.wsj.com/business/earnings/julius-baer-profit-climbs-as-inflows-boost-assets-under-management-633d56a2?mod=rss_markets_main",
+      "summary": "Assets under management in the first 10 months of the year were boosted by a solid stock market performance, a stronger dollar and client money inflows.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T06:59:00+00:00"
+    },
     {
       "title": "ABB to Buy Germany’s Ziehl-Abegg for $2.22 Billion",
       "link": "https://www.wsj.com/business/energy-oil/abb-to-buy-germanys-ziehl-abegg-for-2-22-billion-fad3bf35?mod=rss_markets_main",
