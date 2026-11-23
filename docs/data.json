@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T19:17:45.017551+00:00",
+  "generated_at": "2026-11-23T19:34:10.612626+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2790,9 +2790,33 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7ac8915b6a50>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "I’ve paid for long-term-care insurance for 20 years. Is it still worth it?",
+      "link": "https://www.marketwatch.com/story/ive-paid-for-long-term-care-insurance-for-20-years-is-it-still-worth-it-1b2cd52d?mod=mw_rss_topstories",
+      "summary": "Doing the math to determine if I have a good deal — or should trade in for a more modern policy.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-23T19:32:00+00:00"
+    },
+    {
+      "title": "JR東海｢新幹線ファースト｣ホテル展開の真の狙い　｢エリア外には作らない｣外資と組み京都や高山に | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965446?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "JR東海が外資系ホテルチェーンと組んでホテルの展開を強化しています。鉄道各社が｢非鉄道事業｣に力を入れる中､JR東海はあくまで｢新幹線の利用につながること｣が軸です。\"新幹線ビュー\"の客室など､各地…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-23T19:30:00+00:00"
+    },
     {
       "title": "「亀蛇」演舞で復興祈願　被災者「元気づけられた」―熊本・八代",
       "link": "https://www.jiji.com/jc/article?k=2026112300392&g=soc&m=rss",
@@ -2800,6 +2824,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-23T19:17:41.394014+00:00"
+    },
+    {
+      "title": "US lawmakers vow to sharpen Huang probes as he returns to Nvidia",
+      "link": "https://www.ft.com/content/6b4e5bfb-d566-4a61-a12c-057881a261b8?syn-25a6b1a6=1",
+      "summary": "Democrats and Republicans insist tech CEO must testify in public",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T19:11:29+00:00"
     },
     {
       "title": "Ken Chenault on Why CEOs Shouldn’t Lose Their Nerve",
