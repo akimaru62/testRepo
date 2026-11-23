@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T16:18:57.993709+00:00",
+  "generated_at": "2026-11-23T16:34:08.622269+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2738,6 +2738,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2748,6 +2752,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-23T16:18:52.098808+00:00"
+    },
+    {
+      "title": "Ladybird Is Now in Alpha",
+      "link": "https://ladybird.org/posts/alpha/",
+      "summary": "Article URL: https://ladybird.org/posts/alpha/\nComments URL: https://news.ycombinator.com/item?id=50614249\nPoints: 39\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T16:13:12+00:00"
     },
     {
       "title": "The surprising reason businesses can’t keep up with customer demand. Hint: It’s not just a strong U.S. economy.",
