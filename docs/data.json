@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T06:39:23.419886+00:00",
+  "generated_at": "2026-11-23T06:57:58.399906+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2570,6 +2570,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2657,6 +2661,14 @@
       "title": "Fossil fuels fight at COP31 climate talks ends in ‘unbridgeable’ red lines",
       "link": "https://www.ft.com/content/32f7f678-1037-4922-860b-4b7f3c9f6de7?syn-25a6b1a6=1",
       "summary": "Failure to reach agreement leads to soul-searching about the consensus process",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T05:00:22+00:00"
+    },
+    {
+      "title": "Novartis rejects AI industry hopes to cure cancer in five to 10 years",
+      "link": "https://www.ft.com/content/1e5a9d70-221d-461d-ae03-dc235b1db340?syn-25a6b1a6=1",
+      "summary": "Comments from pharma CEO follow ambitious claims from Anthropic chief and DeepMind founder",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-23T05:00:22+00:00"
