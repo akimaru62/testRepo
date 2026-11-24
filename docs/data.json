@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T01:47:28.368165+00:00",
+  "generated_at": "2026-11-24T02:07:47.301313+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2898,6 +2898,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2908,6 +2912,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-24T01:38:24+00:00"
+    },
+    {
+      "title": "OpenAI engineer possessed dozens of meeting recordings, say US prosecutors",
+      "link": "https://www.ft.com/content/f860152a-6bd6-43f7-8ba1-4a6ae94d6565?syn-25a6b1a6=1",
+      "summary": "Saudi national is also alleged to have photographed confidential documents",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T01:31:42+00:00"
     },
     {
       "title": "阿部未悠が出場権獲得　神谷そらは４打届かず―米女子ゴルフ予選会",
@@ -3999,6 +4011,14 @@
     },
     {
       "title": "Huang’s return is a triumph of money over morals",
+      "link": "https://www.ft.com/content/189b5df2-2d06-42db-8843-1a542efb0a8f?syn-25a6b1a6=1",
+      "summary": "The chipmaker’s soaring stock suggests investors are on board with its co-founder’s astonishing comeback",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T16:51:47+00:00"
+    },
+    {
+      "title": "Return is a triumph of money over morals",
       "link": "https://www.ft.com/content/189b5df2-2d06-42db-8843-1a542efb0a8f?syn-25a6b1a6=1",
       "summary": "The chipmaker’s soaring stock suggests investors are on board with its co-founder’s astonishing comeback",
       "source": "Financial Times",
