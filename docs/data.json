@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T03:48:07.148362+00:00",
+  "generated_at": "2026-11-24T04:06:15.405426+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2930,6 +2930,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2982,6 +2986,22 @@
       "published": "2026-11-24T03:20:57.294756+00:00"
     },
     {
+      "title": "Mcpseal: Grade an MCP server for safety before you install it",
+      "link": "https://www.npmjs.com/package/@hashshabbir/mcp-pack",
+      "summary": "Article URL: https://www.npmjs.com/package/@hashshabbir/mcp-pack\nComments URL: https://news.ycombinator.com/item?id=50623202\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T03:19:38+00:00"
+    },
+    {
+      "title": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
+      "link": "https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26",
+      "summary": "Article URL: https://juncts.com/app?demo=1&amp;utm_source=hackernews&amp;utm_medium=launch&amp;utm_campaign=launch-nov26\nComments URL: https://news.ycombinator.com/item?id=50623175\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T03:16:58+00:00"
+    },
+    {
       "title": "Singapore Dollar Steady as Robust Domestic Economic Growth Supports",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-strengthen-amid-risk-on-sentiment-bf00d2c3?mod=rss_markets_main",
       "summary": "The Singapore dollar was steady against its U.S. counterpart, supported by signs of robust domestic economic growth.",
@@ -3006,12 +3026,36 @@
       "published": "2026-11-24T02:58:23+00:00"
     },
     {
+      "title": "Show HN: FireVoice, free open-source voice studio on your own GPU",
+      "link": "https://firevoice.fabwaseem.com",
+      "summary": "Article URL: https://firevoice.fabwaseem.com\nComments URL: https://news.ycombinator.com/item?id=50623038\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T02:58:20+00:00"
+    },
+    {
+      "title": "Hacking radiators for fun and no profit",
+      "link": "https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/",
+      "summary": "Article URL: https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/\nComments URL: https://news.ycombinator.com/item?id=50623020\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T02:56:41+00:00"
+    },
+    {
       "title": "ミスド並び方に戸惑いも 運営見解",
       "link": "https://news.yahoo.co.jp/pickup/6603786?source=rss",
       "summary": "",
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-24T02:54:09+00:00"
+    },
+    {
+      "title": "Making a dumb TV just smart enough",
+      "link": "https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/",
+      "summary": "Article URL: https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/\nComments URL: https://news.ycombinator.com/item?id=50622934\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T02:46:54+00:00"
     },
     {
       "title": "Asian tech stocks surge after Jensen Huang’s return",
