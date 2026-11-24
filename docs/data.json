@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T15:18:12.694689+00:00",
+  "generated_at": "2026-11-24T15:33:36.701405+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3126,6 +3126,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3154,6 +3158,22 @@
       "published": "2026-11-24T16:00:00+00:00"
     },
     {
+      "title": "楽天証券、顧客の資産残高168万件が漏洩　不正取引「確認されず」",
+      "link": "https://www.asahi.com/articles/ASVCS4VQ0VCSULFA02JM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-24T15:33:31.174411+00:00"
+    },
+    {
+      "title": "Crude Futures Pick Up After Sharp Drop",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-higher-on-likely-technical-recovery-3d1650f7?mod=rss_markets_main",
+      "summary": "Oil futures picked up after solid declines the previous session, with the market continuing to weigh abundant supply against conflict risks.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T15:21:00+00:00"
+    },
+    {
       "title": "維新幹部、６０日ルール排除せず　衆院定数削減法案巡り",
       "link": "https://www.jiji.com/jc/article?k=2026112401008&g=pol&m=rss",
       "summary": "",
@@ -3178,12 +3198,28 @@
       "published": "2026-11-24T15:18:08.134995+00:00"
     },
     {
+      "title": "Dollar Could Rise Further in 2027 if Fed Lifts Rates",
+      "link": "https://www.wsj.com/articles/dollar-stays-strong-after-nvidia-news-boosts-u-s-tech-stocks-a0c603c2?mod=rss_markets_main",
+      "summary": "The DXY dollar index fell after hitting a 20-month high. The dollar could strengthen in 2027 as the Federal Reserve looks set to deliver more interest-rate hikes, J.P. Morgan analysts said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T15:17:00+00:00"
+    },
+    {
       "title": "U.S. Treasury Yields Tick Down Ahead of Inflation Data",
       "link": "https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8?mod=rss_markets_main",
       "summary": "U.S. Treasury yields ticked down ahead of the week’s big economic reports including the Fed’s preferred inflation measure on Wednesday.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-24T15:16:00+00:00"
+    },
+    {
+      "title": "Ladybird Is Freakin' Awesome",
+      "link": "https://dbushell.com/2026/11/24/ladybird-is-freakin-awesome/",
+      "summary": "Article URL: https://dbushell.com/2026/11/24/ladybird-is-freakin-awesome/\nComments URL: https://news.ycombinator.com/item?id=50629289\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T15:06:51+00:00"
     },
     {
       "title": "移行期間特例業務の時限措置終了に伴い「海外投資家等特例業務を行うみなさまへ」のページを更新しました。",
@@ -3557,6 +3593,14 @@
       "title": "Worshipping at the Altar of Brendan Gregg",
       "link": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
       "summary": "Article URL: https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg\nComments URL: https://news.ycombinator.com/item?id=50626413\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T10:50:14+00:00"
+    },
+    {
+      "title": "Worshipping at the altar of Brendan Gregg",
+      "link": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+      "summary": "Article URL: https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg\nComments URL: https://news.ycombinator.com/item?id=50626413\nPoints: 119\n# Comments: 16",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-24T10:50:14+00:00"
@@ -4101,6 +4145,14 @@
       "title": "2035 Came Early",
       "link": "https://fzakaria.com/2026/11/23/2035-came-early",
       "summary": "Article URL: https://fzakaria.com/2026/11/23/2035-came-early\nComments URL: https://news.ycombinator.com/item?id=50624497\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T06:30:33+00:00"
+    },
+    {
+      "title": "2035 came early",
+      "link": "https://fzakaria.com/2026/11/23/2035-came-early",
+      "summary": "Article URL: https://fzakaria.com/2026/11/23/2035-came-early\nComments URL: https://news.ycombinator.com/item?id=50624497\nPoints: 540\n# Comments: 211",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-24T06:30:33+00:00"
