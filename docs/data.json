@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T22:17:44.314293+00:00",
+  "generated_at": "2026-11-24T22:33:16.040665+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3246,6 +3246,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3296,6 +3300,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-24T21:55:00+00:00"
+    },
+    {
+      "title": "Heart attack and stroke risk detectable decades in advance",
+      "link": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
+      "summary": "Article URL: https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance\nComments URL: https://news.ycombinator.com/item?id=50635271\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T21:51:21+00:00"
     },
     {
       "title": "Crude Futures Settle Higher on Shipping Risks",
