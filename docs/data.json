@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T12:08:06.742444+00:00",
+  "generated_at": "2026-11-24T12:24:57.718098+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3074,6 +3074,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3132,6 +3136,38 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-24T14:00:00+00:00"
+    },
+    {
+      "title": "ＪＤＩ、賠償請求の株主と和解　解決金３億円支払い",
+      "link": "https://www.jiji.com/jc/article?k=2026112400952&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T12:24:53.890426+00:00"
+    },
+    {
+      "title": "核兵器禁止条約、再検討会議の不参加表明　茂木外相「日本の立場と相いれず」",
+      "link": "https://www.jiji.com/jc/article?k=2026112400986&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T12:24:53.890371+00:00"
+    },
+    {
+      "title": "Jensen Huang’s return was worth nearly $950 billion to Nvidia. How much of the stock market should ride on one man?",
+      "link": "https://www.marketwatch.com/story/jensen-huangs-return-was-worth-nearly-950-billion-to-nvidia-how-much-of-the-stock-market-should-ride-on-one-man-c7129e95?mod=mw_rss_topstories",
+      "summary": "Trump got the CEO he wanted. Nvidia still has an investigation to finish. Plus, the outlook for AI jobs and why Medicare Advantage insurers missed Monday’s rally.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-24T12:21:00+00:00"
+    },
+    {
+      "title": "Oil Swings Higher as Middle East Risks Keep Market Fragile",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-higher-on-likely-technical-recovery-3d1650f7?mod=rss_markets_main",
+      "summary": "Oil prices swung back into positive territory as traders balanced expectations of a market surplus against persistent threats to shipping in the Gulf.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T12:18:00+00:00"
     },
     {
       "title": "「全テレビ番組、2040年までに同時配信」　総務省の提案が波紋",
@@ -3382,6 +3418,14 @@
       "published": "2026-11-24T09:58:00+00:00"
     },
     {
+      "title": "The bull and bear cases that could surprise investors next year, according to Bank of America",
+      "link": "https://www.marketwatch.com/story/the-bull-and-bear-surprises-that-could-ambush-investors-next-year-according-to-bank-of-america-1cf7dc26?mod=mw_rss_topstories",
+      "summary": "Michael Hartnett’s tactical masterplan is to stay risk off until global rate hikes start to dry up next spring. Thereafter, modest earnings growth and the chance of looser financial conditions in the second half favor owning cyclicals and adding more risk.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-24T09:58:00+00:00"
+    },
+    {
       "title": "Stock Market Today: Stocks Set to Cool After Epic Rally",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026?mod=rss_markets_main",
       "summary": "Asian equities jump as they catch up with yesterday's U.S. gains",
@@ -3393,6 +3437,14 @@
       "title": "Stock Market Today: Tech Stocks Set to Dive Again After Epic Rally",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026?mod=rss_markets_main",
       "summary": "Nasdaq futures point to 2% decline; Nvidia and Anthropic slump premarket",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T09:53:51+00:00"
+    },
+    {
+      "title": "Stock Market Today: Tech Stocks Set to Give Up Some Gains Again After Epic Rally",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026?mod=rss_markets_main",
+      "summary": "Nvidia and Anthropic slump premarket",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-24T09:53:51+00:00"
