@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T18:06:05.598076+00:00",
+  "generated_at": "2026-11-24T18:20:13.155886+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3174,9 +3174,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "公明、統一選で自民推薦せず　「政治とカネ」、定数減にも反発",
+      "link": "https://www.jiji.com/jc/article?k=2026112400269&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T18:20:08.775589+00:00"
+    },
     {
       "title": "The AI debt market isn’t convinced the worst is over for investors",
       "link": "https://www.marketwatch.com/story/the-ai-debt-market-isnt-convinced-the-worst-is-over-for-investors-c70eaede?mod=mw_rss_topstories",
@@ -3208,6 +3220,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-24T17:10:45+00:00"
+    },
+    {
+      "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
+      "link": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
+      "summary": "Article URL: https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/\nComments URL: https://news.ycombinator.com/item?id=50631157\nPoints: 21\n# Comments: 16",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T17:07:41+00:00"
     },
     {
       "title": "「AI等の健全な利活用の推進に関する研究会」（第１回）議事次第について公表しました。",
@@ -3328,6 +3348,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-24T16:08:00+00:00"
+    },
+    {
+      "title": "Millions of bitcoin are probably lost for good. Almost none can be proved gone",
+      "link": "https://blog.everstrike.io/lost-bitcoin/",
+      "summary": "Article URL: https://blog.everstrike.io/lost-bitcoin/\nComments URL: https://news.ycombinator.com/item?id=50630122\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T16:01:24+00:00"
     },
     {
       "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
