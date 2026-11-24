@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T15:05:53.126756+00:00",
+  "generated_at": "2026-11-24T15:18:12.694689+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3122,6 +3122,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3148,6 +3152,38 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-24T16:00:00+00:00"
+    },
+    {
+      "title": "維新幹部、６０日ルール排除せず　衆院定数削減法案巡り",
+      "link": "https://www.jiji.com/jc/article?k=2026112401008&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T15:18:08.135128+00:00"
+    },
+    {
+      "title": "京都、浦項下す　柏は２連勝―ＡＣＬサッカー",
+      "link": "https://www.jiji.com/jc/article?k=2026112400943&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T15:18:08.135088+00:00"
+    },
+    {
+      "title": "来季開幕投手は隅田知一郎　プロ野球・西武",
+      "link": "https://www.jiji.com/jc/article?k=2026112400999&g=bsb&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T15:18:08.134995+00:00"
+    },
+    {
+      "title": "U.S. Treasury Yields Tick Down Ahead of Inflation Data",
+      "link": "https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8?mod=rss_markets_main",
+      "summary": "U.S. Treasury yields ticked down ahead of the week’s big economic reports including the Fed’s preferred inflation measure on Wednesday.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T15:16:00+00:00"
     },
     {
       "title": "移行期間特例業務の時限措置終了に伴い「海外投資家等特例業務を行うみなさまへ」のページを更新しました。",
@@ -3196,6 +3232,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-24T14:55:00+00:00"
+    },
+    {
+      "title": "Anthropic is below its IPO price",
+      "link": "https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa",
+      "summary": "Article URL: https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa\nComments URL: https://news.ycombinator.com/item?id=50628932\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T14:41:15+00:00"
     },
     {
       "title": "US tech stocks slide as Jensen Huang return rally fades",
@@ -3673,6 +3717,14 @@
       "title": "Stock Market Today: Tech Stocks Backslide After Epic Rally",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026?mod=rss_markets_main",
       "summary": "Anthropic slips below IPO price, Nvidia slumps",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T09:53:51+00:00"
+    },
+    {
+      "title": "Stock Market Today: Tech Stocks Slide Back After Epic Rally",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026?mod=rss_markets_main",
+      "summary": "Anthropic drops below IPO price, Nvidia slumps",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-24T09:53:51+00:00"
