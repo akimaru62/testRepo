@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T07:33:38.877748+00:00",
+  "generated_at": "2026-11-24T07:47:57.550939+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2998,6 +2998,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3032,6 +3036,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-24T14:00:00+00:00"
+    },
+    {
+      "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年11月24日(火曜日))",
+      "link": "https://www.mof.go.jp/public_relations/conference/my20261124.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-24T07:35:00+00:00"
     },
     {
       "title": "日本銀行政策委員会月報（令和8年10月号）",
@@ -3592,6 +3604,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-24T02:15:00+00:00"
+    },
+    {
+      "title": "GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school",
+      "link": "https://github.com/ItsNotRexed/Leonida/issues",
+      "summary": "Article URL: https://github.com/ItsNotRexed/Leonida/issues\nComments URL: https://news.ycombinator.com/item?id=50622638\nPoints: 37\n# Comments: 17",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T02:08:09+00:00"
     },
     {
       "title": "世界遺産が舞台の結婚式 人気",
