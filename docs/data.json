@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T11:33:20.722245+00:00",
+  "generated_at": "2026-11-24T11:47:22.819191+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3066,6 +3066,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3126,6 +3130,22 @@
       "published": "2026-11-24T14:00:00+00:00"
     },
     {
+      "title": "消費減税で便乗値上げ、ライフ社長「可能性極めて低い」　国会で説明",
+      "link": "https://www.asahi.com/articles/ASVCS3RNYVCSULFA00ZM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-24T11:47:17.791327+00:00"
+    },
+    {
+      "title": "The ‘epic’ buying of retail investors paid off after Nvidia’s 31% stock surge, says strategist",
+      "link": "https://www.marketwatch.com/story/the-epic-buying-of-retail-investors-paid-off-after-nvidias-31-stock-surge-says-strategist-c8f9a502?mod=mw_rss_topstories",
+      "summary": "Retail investors who bought shares in the chip giant last week saw an average gain of 11% on Monday.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-24T11:39:00+00:00"
+    },
+    {
       "title": "AI Build-Out Is Far-Reaching for U.S. Economy",
       "link": "https://www.wsj.com/finance/investing/ai-build-out-is-far-reaching-for-u-s-economy-88d35b9d?mod=rss_markets_main",
       "summary": "Some of the best analysis and insight on investing, the wealth-management business and more.",
@@ -3174,6 +3194,14 @@
       "published": "2026-11-24T11:17:41.052638+00:00"
     },
     {
+      "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
+      "link": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/",
+      "summary": "Article URL: https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/\nComments URL: https://news.ycombinator.com/item?id=50626578\nPoints: 42\n# Comments: 13",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T11:13:55+00:00"
+    },
+    {
       "title": "These Technical Measures Warned of Stock Market Whiplash",
       "link": "https://www.wsj.com/finance/stocks/these-technical-measures-warned-of-stock-market-whiplash-33fdca3d?mod=rss_markets_main",
       "summary": "Plus, the Trillion Dollar Man",
@@ -3188,6 +3216,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-24T11:04:00+00:00"
+    },
+    {
+      "title": "Worshipping at the Altar of Brendan Gregg",
+      "link": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+      "summary": "Article URL: https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg\nComments URL: https://news.ycombinator.com/item?id=50626413\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T10:50:14+00:00"
     },
     {
       "title": "Is Nvidia Becoming a Government-Sponsored Enterprise?",
