@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T01:06:05.038016+00:00",
+  "generated_at": "2026-11-24T01:19:21.046350+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2886,9 +2886,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "阿部未悠が出場権獲得　神谷そらは４打届かず―米女子ゴルフ予選会",
+      "link": "https://www.jiji.com/jc/article?k=2026112400237&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T01:19:14.691540+00:00"
+    },
+    {
+      "title": "米民主、フアン氏復帰「正当化できず」　来月３日に上院公聴会",
+      "link": "https://www.jiji.com/jc/article?k=2026112400233&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T01:19:14.691500+00:00"
+    },
+    {
+      "title": "日経平均が反発、5万9000円台　エヌビディアCEO復帰が追い風",
+      "link": "https://www.asahi.com/articles/ASVCS02DLVCSULFA002M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-24T01:19:14.414567+00:00"
+    },
+    {
+      "title": "日経平均 一時2800円超値上がり",
+      "link": "https://news.yahoo.co.jp/pickup/6603771?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-24T01:15:25+00:00"
+    },
+    {
+      "title": "Gold Rises Amid Risk-on Sentiment Across Markets",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-across-markets-ae66946a?mod=rss_markets_main",
+      "summary": "Gold continued to rise in early Asian trade after rallying overnight.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T01:04:00+00:00"
+    },
     {
       "title": "HPE just posted its strongest growth ever — but its stock is sinking",
       "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
