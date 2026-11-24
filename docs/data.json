@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T18:20:13.155886+00:00",
+  "generated_at": "2026-11-24T18:33:36.744888+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3178,9 +3178,25 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Tesla has a ‘legitimate multitrillion-dollar opportunity’ in robotaxis, says former skeptic",
+      "link": "https://www.marketwatch.com/story/tesla-has-a-legitimate-multitrillion-dollar-opportunity-in-robotaxis-says-former-skeptic-23507364?mod=mw_rss_topstories",
+      "summary": "Even for Seaport analyst Ron Jewsikow, Tesla’s robotaxi progress is now “impossible to ignore.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-24T18:28:00+00:00"
+    },
     {
       "title": "公明、統一選で自民推薦せず　「政治とカネ」、定数減にも反発",
       "link": "https://www.jiji.com/jc/article?k=2026112400269&g=pol&m=rss",
@@ -3188,6 +3204,22 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-24T18:20:08.775589+00:00"
+    },
+    {
+      "title": "EU warns France and Belgium to put public finances on ‘sustainable path’",
+      "link": "https://www.ft.com/content/20e28c3f-31b8-40d2-bbb7-ee3f92ede6ac?syn-25a6b1a6=1",
+      "summary": "Commission also warns Berlin it could face additional monitoring next year owing to excessive public spending",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T18:02:04+00:00"
+    },
+    {
+      "title": "AstridVPN: A VPN that doesn't know who you are",
+      "link": "https://astridvpn.com/",
+      "summary": "Article URL: https://astridvpn.com/\nComments URL: https://news.ycombinator.com/item?id=50631900\nPoints: 5\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T18:00:21+00:00"
     },
     {
       "title": "The AI debt market isn’t convinced the worst is over for investors",
