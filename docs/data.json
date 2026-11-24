@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T22:33:16.040665+00:00",
+  "generated_at": "2026-11-24T22:47:42.208872+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3250,9 +3250,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
+      "link": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
+      "summary": "Steeply higher security expenses of $764,748 for Mehrotra were part of a $39.7 million total compensation package in the latest fiscal year.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-24T22:43:00+00:00"
+    },
+    {
+      "title": "毎月のように点滴→風邪さえひかない体　モデルの益若つばささんの体を変えた\"食事のルール\"と\"不調サインを知る方法\" | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963343?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "かつては自分の体の限界がわからず､精神力だけで乗り切っては､毎月のように病院で点滴を打っていた益若つばささん。今では体調を大きく崩すことがなくなったといいます。彼女の体を変えた､食事のルールと不調の…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-24T22:30:00+00:00"
+    },
     {
       "title": "ウクライナ軍事支援、反対多数　最大の資金拠出国ドイツ―世論調査",
       "link": "https://www.jiji.com/jc/article?k=2026112500163&g=int&m=rss",
@@ -3290,6 +3310,30 @@
       "link": "https://toyokeizai.net/articles/-/964983?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "2022年､日本中に衝撃を与えた安倍元首相銃撃事件。その裏側には､宗教二世としての山上徹也被告の家庭環境や､統一教会との深い因縁がありました。",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-24T22:00:00+00:00"
+    },
+    {
+      "title": "毎回「いいですね」と返してくるAIにイライラ……“イエスマンAI”を辛口の相談相手に変える方法【プロンプト紹介】",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/25/news012.html",
+      "summary": "AIに企画を相談しても、肯定的な意見ばかりで物足りなく感じます。もっと厳しく意見してもらうにはどうしたらいいですか？",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-24T22:00:00+00:00"
+    },
+    {
+      "title": "中部電力、AI活用で「人の役割を見直す」　2万人が使う400超のシステムサポートの舞台裏",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/25/news011.html",
+      "summary": "PCの不具合をAIに尋ねる日常のやり取りが、組織変革の第一歩になる。中部電力が2万人規模の現場で実践する、社員がAIを使いこなし、人がAIを育てる循環の作り方とは。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-24T22:00:00+00:00"
+    },
+    {
+      "title": "経理が「2人→1人」に減る現場　弥生の開発陣が警鐘を鳴らす「なんとなく経営」の限界",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/25/news020.html",
+      "summary": "資材や人件費の高騰、法改正による事務負担増で中小企業の経営難易度が上がっている。弥生の担当者は、顧客と接する中での実感として、従業員20人前後の企業では約7割の企業が、数値化した売り上げ・利益目標を持たず、経営状況を経験や勘で「なんとなく」で把握していると話す。さらに経営者の間で広がる「AI格差」をどう乗り越えるべきか。会計領域でAIを使う際の落とし穴（誤認投資のリスク）と、経営者がAIを使いこなす3段階を、長年現場を見つめてきた開発陣に聞いた。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-11-24T22:00:00+00:00"
     },
