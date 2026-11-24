@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T13:18:26.313888+00:00",
+  "generated_at": "2026-11-24T13:33:29.018475+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3094,6 +3094,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3154,6 +3158,14 @@
       "published": "2026-11-24T14:00:00+00:00"
     },
     {
+      "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading\nComments URL: https://news.ycombinator.com/item?id=50627836\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T13:23:47+00:00"
+    },
+    {
       "title": "中国側の警戒解けず　半導体調達網、米が締め付け―フアン氏復帰も",
       "link": "https://www.jiji.com/jc/article?k=2026112400891&g=int&m=rss",
       "summary": "",
@@ -3192,6 +3204,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-24T12:54:15+00:00"
+    },
+    {
+      "title": "CrowdStrike bucks Silicon Valley’s infallible-founder trend",
+      "link": "https://www.ft.com/content/fda29491-ca21-4172-9889-52ffc6d4a25d?syn-25a6b1a6=1",
+      "summary": "The cyber security company’s share fall after its merger with peer Zscaler shows the limits of investor patience with charismatic leaders",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T12:49:55+00:00"
     },
     {
       "title": "LLM agents work for their parent companies, not for you",
@@ -6271,6 +6291,14 @@
       "summary": "元高校球児でフリーアナウンサーの上重聡がお送りする資産運用をテーマにした動画シリーズ。いつか「億り人」になれる日を目指して、資産運用の先輩からさまざまな極意を学んでいきます。今回のゲストは、専業主婦…",
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
+      "published": "2026-11-23T10:00:00+00:00"
+    },
+    {
+      "title": "When Paying for Mom and Dad’s Eldercare Rips Up Adult Kids’ Financial Future",
+      "link": "https://www.wsj.com/personal-finance/baby-boomer-silent-generation-wealth-transfer-elder-care-804e4a0e?mod=rss_markets_main",
+      "summary": "The eye-popping cost of eldercare is shifting the financial burden to some adult children who weren’t expecting to foot the bill.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
       "published": "2026-11-23T10:00:00+00:00"
     },
     {
