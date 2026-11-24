@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T13:33:29.018475+00:00",
+  "generated_at": "2026-11-24T13:47:27.185548+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3098,6 +3098,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3588,6 +3592,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-24T09:47:59+00:00"
+    },
+    {
+      "title": "Democrats widen graft investigation into Donald Trump Jr-linked groups",
+      "link": "https://www.ft.com/content/90858eba-0c00-4e10-bcca-31ae34bd835d?syn-25a6b1a6=1",
+      "summary": "Senior lawmaker demands information from companies backed by 1789 Capital, where the president’s eldest son is a partner",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T09:45:03+00:00"
     },
     {
       "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
