@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T04:47:24.873764+00:00",
+  "generated_at": "2026-11-24T05:05:44.385281+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2946,6 +2946,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3137,6 +3141,14 @@
       "title": "Hacking radiators for fun and no profit",
       "link": "https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/",
       "summary": "Article URL: https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/\nComments URL: https://news.ycombinator.com/item?id=50623020\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T02:56:41+00:00"
+    },
+    {
+      "title": "Hacking radiators",
+      "link": "https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/",
+      "summary": "Article URL: https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/\nComments URL: https://news.ycombinator.com/item?id=50623020\nPoints: 9\n# Comments: 3",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-24T02:56:41+00:00"
