@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T03:06:28.092200+00:00",
+  "generated_at": "2026-11-24T03:21:02.273849+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2918,9 +2918,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "パオロ・ブルガリ氏死去、８９歳　世界的宝飾ブランドに―伊",
+      "link": "https://www.jiji.com/jc/article?k=2026112400391&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T03:20:57.294824+00:00"
+    },
+    {
+      "title": "マニュアル未点検の学校も　校外活動の安全、調査結果公表―辺野古沖転覆事故・文科省",
+      "link": "https://www.jiji.com/jc/article?k=2026112400345&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T03:20:57.294807+00:00"
+    },
+    {
+      "title": "立民、消費減税の対案提出　非課税世帯に５万円",
+      "link": "https://www.jiji.com/jc/article?k=2026112400346&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T03:20:57.294797+00:00"
+    },
+    {
+      "title": "野党６党の参院国対委員長は、文科相の問責決議案を提出する方針を決めた。時期は今後調整する",
+      "link": "https://www.jiji.com/jc/article?k=2026112400363&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T03:20:57.294783+00:00"
+    },
+    {
+      "title": "野党、関文科相問責提出へ　法案審議に影響示唆",
+      "link": "https://www.jiji.com/jc/article?k=2026112400408&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T03:20:57.294756+00:00"
+    },
     {
       "title": "Singapore Dollar Steady as Robust Domestic Economic Growth Supports",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-strengthen-amid-risk-on-sentiment-bf00d2c3?mod=rss_markets_main",
