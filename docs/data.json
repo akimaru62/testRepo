@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T14:19:24.743340+00:00",
+  "generated_at": "2026-11-24T14:33:44.313177+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3110,6 +3110,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3152,6 +3156,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-24T15:00:00+00:00"
+    },
+    {
+      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+      "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+      "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-24T14:17:00+00:00"
     },
     {
       "title": "U.S. Natural Gas Futures Pick Up in Volatile Trading",
@@ -3589,6 +3601,14 @@
       "title": "Stock Market Today: Tech Stocks Set to Give Up Some Gains Again After Epic Rally",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026?mod=rss_markets_main",
       "summary": "Nvidia and Anthropic slump premarket",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T09:53:51+00:00"
+    },
+    {
+      "title": "Stock Market Today: Tech Stocks Backslide After Epic Rally",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026?mod=rss_markets_main",
+      "summary": "Anthropic slips below IPO price, Nvidia slumps",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-24T09:53:51+00:00"
