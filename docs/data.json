@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T11:05:22.444972+00:00",
+  "generated_at": "2026-11-24T11:17:49.688316+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3054,6 +3054,14 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3112,6 +3120,62 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-24T14:00:00+00:00"
+    },
+    {
+      "title": "ＡＩの法的責任、検討開始　政府専門調査会が初会合",
+      "link": "https://www.jiji.com/jc/article?k=2026112400920&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T11:17:41.123005+00:00"
+    },
+    {
+      "title": "タリウム殺人、期日取り消し　２６日から公判予定―大阪地裁",
+      "link": "https://www.jiji.com/jc/article?k=2026112400903&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T11:17:41.122993+00:00"
+    },
+    {
+      "title": "消費減税前後の値上げ「あり得る」　効果疑問の声も―参院特別委・公聴会",
+      "link": "https://www.jiji.com/jc/article?k=2026112400925&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T11:17:41.122971+00:00"
+    },
+    {
+      "title": "装備発注、最大８割減　防衛省、企業に通知",
+      "link": "https://www.jiji.com/jc/article?k=2026112400951&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T11:17:41.122940+00:00"
+    },
+    {
+      "title": "夫婦と子2人世帯で最大年27万円給付検討　消費減税後の支援金制度",
+      "link": "https://www.asahi.com/articles/ASVCS369JVCSULFA00TM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-24T11:17:41.052638+00:00"
+    },
+    {
+      "title": "These Technical Measures Warned of Stock Market Whiplash",
+      "link": "https://www.wsj.com/finance/stocks/these-technical-measures-warned-of-stock-market-whiplash-33fdca3d?mod=rss_markets_main",
+      "summary": "Plus, the Trillion Dollar Man",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T11:10:00+00:00"
+    },
+    {
+      "title": "AI Selloff a Realignment of Expectations, Not Broken Investment Cycle",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-2-7-led-by-chip-metals-stocks-82c1bb9d?mod=rss_markets_main",
+      "summary": "Julius Baer said the recent selloff in the AI trade was a realignment of expectations and valuations, rather than an indication that the investment cycle is fundamentally broken.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T11:04:00+00:00"
     },
     {
       "title": "Is Nvidia Becoming a Government-Sponsored Enterprise?",
@@ -3248,6 +3312,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-24T09:52:00+00:00"
+    },
+    {
+      "title": "Roche says breast cancer pill could be best-selling drug ever",
+      "link": "https://www.ft.com/content/6c2b8be7-2c74-4920-a4fa-5c90e164eae9?syn-25a6b1a6=1",
+      "summary": "Swiss group hails ‘new era of breast cancer treatment’ with newly approved medicine",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T09:51:03+00:00"
     },
     {
       "title": "個人消費判断 約3年ぶり下方修正",
@@ -3624,6 +3696,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-24T06:27:15.034892+00:00"
+    },
+    {
+      "title": "Singapore is no backdoor for US chips, says PM",
+      "link": "https://www.ft.com/content/6ca21b39-ff62-42e0-9695-9220b438f7eb?syn-25a6b1a6=1",
+      "summary": "Lawrence Wong vows city-state will not let companies break the law by circumventing export controls",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T06:12:20+00:00"
     },
     {
       "title": "東電 廃炉・復興で新組織設立へ",
