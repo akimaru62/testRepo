@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T07:19:37.093241+00:00",
+  "generated_at": "2026-11-24T07:33:38.877748+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2990,6 +2990,14 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x74829f45acf0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3024,6 +3032,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-24T14:00:00+00:00"
+    },
+    {
+      "title": "日本銀行政策委員会月報（令和8年10月号）",
+      "link": "http://www.boj.or.jp/about/organization/policyboard/pb_geppo/pbgp2610.htm",
+      "summary": "",
+      "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-11-24T07:30:00+00:00"
     },
     {
       "title": "練習球売却、社員を懲戒解雇　時事通信",
