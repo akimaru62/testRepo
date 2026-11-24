@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T19:33:24.051612+00:00",
+  "generated_at": "2026-11-24T19:47:54.075990+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3202,9 +3202,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Huang says he still doesn’t believe in Nvidia succession planning",
+      "link": "https://www.ft.com/content/cd1831d0-c3f1-4705-b8e2-badfb5e39764?syn-25a6b1a6=1",
+      "summary": "Chief executive speaks to staff for first time after returning to chipmaker",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T19:37:01+00:00"
+    },
+    {
+      "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
+      "link": "https://grafana.com/grafana/download",
+      "summary": "Article URL: https://grafana.com/grafana/download\nComments URL: https://news.ycombinator.com/item?id=50633159\nPoints: 12\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T19:23:44+00:00"
+    },
     {
       "title": "Many people overlook this crucial piece of retirement planning — and it isn’t money",
       "link": "https://www.marketwatch.com/story/many-people-overlook-this-crucial-piece-of-retirement-planning-and-it-isnt-money-a7cf6f2d?mod=mw_rss_topstories",
@@ -3236,6 +3256,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-24T19:02:00+00:00"
+    },
+    {
+      "title": "Canada's median health-care wait time hits 30.7 weeks–longest ever recorded",
+      "link": "https://www.fraserinstitute.org/studies/waiting-your-turn-wait-times-for-health-care-in-canada-2026",
+      "summary": "Article URL: https://www.fraserinstitute.org/studies/waiting-your-turn-wait-times-for-health-care-in-canada-2026\nComments URL: https://news.ycombinator.com/item?id=50632832\nPoints: 31\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T19:00:26+00:00"
     },
     {
       "title": "Iran's quest for its own Monroe Doctrine",
