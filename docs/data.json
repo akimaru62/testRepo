@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T13:47:27.185548+00:00",
+  "generated_at": "2026-11-24T14:05:51.203567+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3102,6 +3102,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3160,6 +3164,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-24T14:00:00+00:00"
+    },
+    {
+      "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+      "link": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+      "summary": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-24T13:50:00+00:00"
+    },
+    {
+      "title": "US tech stocks set to slide after blistering rally",
+      "link": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
+      "summary": "Shares in Anthropic on track to open below IPO price for first time",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T13:33:49+00:00"
     },
     {
       "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
