@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T10:05:24.222244+00:00",
+  "generated_at": "2026-11-24T10:17:41.226960+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3038,6 +3038,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3098,6 +3102,70 @@
       "published": "2026-11-24T14:00:00+00:00"
     },
     {
+      "title": "関文科相は「説明責任果たしている」　高市首相",
+      "link": "https://www.jiji.com/jc/article?k=2026112400895&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T10:17:36.480431+00:00"
+    },
+    {
+      "title": "入札情報漏えい、川崎市部長を起訴　ＯＢも略式起訴―横浜地検",
+      "link": "https://www.jiji.com/jc/article?k=2026112400879&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T10:17:36.480415+00:00"
+    },
+    {
+      "title": "定数削減、全参考人が否定的　与党は２６日採決提案、野党拒否―衆院委",
+      "link": "https://www.jiji.com/jc/article?k=2026112400876&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T10:17:36.480370+00:00"
+    },
+    {
+      "title": "円安なら輸出はバラ色？　現地価格に見えた傾向、企業の合理性の帰結",
+      "link": "https://www.asahi.com/articles/ASVCS33C9VCSULFA02WM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-24T10:17:36.141310+00:00"
+    },
+    {
+      "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+      "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+      "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-24T10:15:00+00:00"
+    },
+    {
+      "title": "Nasdaq Futures Fall as Questions Linger Over AI Trade",
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?mod=rss_markets_main",
+      "summary": "Investors pondered lingering concerns around Jensen Huang’s return as Nvidia chief and the artificial-intelligence buildout after Monday’s rally.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T10:13:00+00:00"
+    },
+    {
+      "title": "Dollar Eases Slightly as U.S. Stock Futures Point to Pullback in Tech Stocks",
+      "link": "https://www.wsj.com/articles/dollar-stays-strong-after-nvidia-news-boosts-u-s-tech-stocks-a0c603c2?mod=rss_markets_main",
+      "summary": "The dollar turned modestly lower as U.S. stock futures fall, pointing to a pullback in tech stocks following Monday’s rally.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T10:10:00+00:00"
+    },
+    {
+      "title": "US tech stocks set to slip after blistering rally",
+      "link": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
+      "summary": "Asian markets rise as investors react to news of Jensen Huang’s reinstatement as Nvidia chief",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T10:03:28+00:00"
+    },
+    {
       "title": "Zendaya and Tom Holland buy a home on 1 acre in London for $10 million",
       "link": "https://www.marketwatch.com/story/zendaya-and-tom-holland-buy-a-home-on-1-acre-in-london-for-10-million-a433e7cd?mod=mw_rss_topstories",
       "summary": "Tom Holland and Zendaya may make London their primary residence after splashing out $10 million on a palatial pad across the pond.",
@@ -3144,6 +3212,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-24T09:50:22+00:00"
+    },
+    {
+      "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+      "link": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
+      "summary": "Article URL: https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/\nComments URL: https://news.ycombinator.com/item?id=50625888\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T09:39:50+00:00"
     },
     {
       "title": "Euro Unlikely to Fall Much Further Against Dollar",
