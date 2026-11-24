@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T21:17:29.542544+00:00",
+  "generated_at": "2026-11-24T21:33:15.377579+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3230,9 +3230,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "How much more are richest Americans spending on the holidays compared to everyone else?",
+      "link": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
+      "summary": "Most households are getting “squeezed by rising costs of everyday goods,” according to Teneo, but upper-income households “are showing resilience.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-24T21:31:00+00:00"
+    },
+    {
+      "title": "【試し読み】パチンコ好き･60代男性の家に､ある日\"野良猫\"がやってきて…　漫画｢特別じゃない日　時をむすぶ本｣2話 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964738?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "書店と本がつなげる、小さな町の幸せな日常。「特別じゃない主人公たちの小さな幸せ」をどこまでも優しく温かな筆致で描く、世界累計40万部突破の連作短編コミックシリーズの最新作『特別じゃない日 時をむすぶ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-24T21:30:00+00:00"
+    },
+    {
+      "title": "Nvidia’s Relief Rally Stalls",
+      "link": "https://www.wsj.com/finance/stocks/nvidias-relief-rally-stalls-a9455613?mod=rss_markets_main",
+      "summary": "Plus, Anthropic dips below its IPO price, and the investors who won—and lost—in the Nvidia saga.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T21:23:00+00:00"
+    },
+    {
+      "title": "The stock market is hardly cheap, even taking recent declines into account",
+      "link": "https://www.marketwatch.com/story/the-stock-market-is-hardly-cheap-even-taking-recent-declines-into-account-fe0a7989?mod=mw_rss_topstories",
+      "summary": "Equities are still extremely overvalued, notwithstanding the stock market’s steep declines over the past several weeks.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-24T21:22:00+00:00"
+    },
     {
       "title": "首相動静（１１月２４日）",
       "link": "https://www.jiji.com/jc/article?k=2026112400201&g=pol&m=rss",
@@ -3280,6 +3316,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-24T21:14:00+00:00"
+    },
+    {
+      "title": "Anthropic closes below IPO price as tech rally fades",
+      "link": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
+      "summary": "Investor relief over reinstatement of Jensen Huang as Nvidia CEO subsides",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T21:11:37+00:00"
     },
     {
       "title": "U.S. Natural Gas Futures Recover Lost Ground",
