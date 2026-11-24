@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T10:17:41.226960+00:00",
+  "generated_at": "2026-11-24T10:33:29.543016+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3042,6 +3042,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3100,6 +3104,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-24T14:00:00+00:00"
+    },
+    {
+      "title": "For Better or Worse, the Fate of the AI Boom Is in Nvidia’s Hands",
+      "link": "https://www.wsj.com/tech/ai/for-better-or-worse-the-fate-of-the-ai-boom-is-in-nvidias-hands-d0f88970?mod=rss_markets_main",
+      "summary": "An emboldened Jensen Huang could build up risks for the next crisis.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T10:30:00+00:00"
     },
     {
       "title": "関文科相は「説明責任果たしている」　高市首相",
@@ -3172,6 +3184,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-24T10:01:00+00:00"
+    },
+    {
+      "title": "【個人向け社債は買い？】ソフトバンクG利回り4.75%／AIバブル懸念?ネオクラウドに市場が警戒！社債市場にも異変／格付けとスプレッドの逆転現象とは？／途中で売ると損?／楽天やみずほFGも発行 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965756?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ソフトバンクグループの個人向け社債(税引前利率4.75%)が完売するなど金利上昇に伴って「社債」に個人投資家の注目が集まっている。高利回りの社債だが、どのようなリスクがあるのか。また、AIブームの反…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-24T10:00:00+00:00"
     },
     {
       "title": "Here’s your chance to bid on Alex Trebek’s former $6.45 million California ranch and winery",
