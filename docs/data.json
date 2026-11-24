@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T08:47:29.448246+00:00",
+  "generated_at": "2026-11-24T09:06:12.405872+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3018,6 +3018,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3076,6 +3080,38 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-24T14:00:00+00:00"
+    },
+    {
+      "title": "金融界全体でサイバー対策強化、金融庁検査でAI診断も　自民提言",
+      "link": "https://www.asahi.com/articles/ASVCS2S5XVCSULFA018M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-24T09:06:07.337834+00:00"
+    },
+    {
+      "title": "Dollar Strength Starting to Look Stretched",
+      "link": "https://www.wsj.com/articles/dollar-stays-strong-after-nvidia-news-boosts-u-s-tech-stocks-a0c603c2?mod=rss_markets_main",
+      "summary": "The DXY dollar index was steady after reaching its highest level since March 2025, with ING saying the currency’s appreciation was starting to head into overshoot territory.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T08:55:00+00:00"
+    },
+    {
+      "title": "European Gas Edges Lower But Signs of Stronger Demand Keep Prices Elevated",
+      "link": "https://www.wsj.com/finance/commodities-futures/european-gas-edges-lower-but-signs-of-stronger-demand-keep-prices-elevated-11c3316e?mod=rss_markets_main",
+      "summary": "European natural gas prices fell in early trading, though concerns over lower temperatures and low storage levels continued to worry traders.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T08:54:00+00:00"
+    },
+    {
+      "title": "取材中拾った練習球売る 懲戒解雇",
+      "link": "https://news.yahoo.co.jp/pickup/6603823?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-24T08:51:58+00:00"
     },
     {
       "title": "Gold Falls Ahead of Key U.S. Inflation Data",
