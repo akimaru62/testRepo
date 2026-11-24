@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T08:07:17.393391+00:00",
+  "generated_at": "2026-11-24T08:22:36.612956+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3006,6 +3006,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3064,6 +3068,46 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-24T14:00:00+00:00"
+    },
+    {
+      "title": "冬は高温、日本海側少雪か　３カ月予報、太平洋側は多雨―気象庁",
+      "link": "https://www.jiji.com/jc/article?k=2026112400758&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T08:22:30.793027+00:00"
+    },
+    {
+      "title": "米大統領、フアン氏復帰「正しい」　エヌビディアＣＥＯ、違法行為なし",
+      "link": "https://www.jiji.com/jc/article?k=2026112400127&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T08:22:30.793015+00:00"
+    },
+    {
+      "title": "高市首相、ＩＣＣ分担金「年内に」",
+      "link": "https://www.jiji.com/jc/article?k=2026112400756&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T08:22:30.793004+00:00"
+    },
+    {
+      "title": "ＩＣＣ分担金、年内前倒し拠出　高市首相、赤根所長に支持表明",
+      "link": "https://www.jiji.com/jc/article?k=2026112400761&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T08:22:30.792972+00:00"
+    },
+    {
+      "title": "Dollar Stays Strong After Nvidia News Boosts U.S. Tech Stocks",
+      "link": "https://www.wsj.com/articles/dollar-stays-strong-after-nvidia-news-boosts-u-s-tech-stocks-a0c603c2?mod=rss_markets_main",
+      "summary": "The DXY dollar index traded steady at 104.341 after reaching its highest level since March 2025 on Monday.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T08:05:00+00:00"
     },
     {
       "title": "情報流出相次ぐ 防犯グッズ人気",
@@ -3208,6 +3252,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-24T06:30:34+00:00"
+    },
+    {
+      "title": "2035 Came Early",
+      "link": "https://fzakaria.com/2026/11/23/2035-came-early",
+      "summary": "Article URL: https://fzakaria.com/2026/11/23/2035-came-early\nComments URL: https://news.ycombinator.com/item?id=50624497\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T06:30:33+00:00"
     },
     {
       "title": "The Jensen put",
