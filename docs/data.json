@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T04:33:09.438965+00:00",
+  "generated_at": "2026-11-24T04:47:24.873764+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2942,9 +2942,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "年末ジャンボ発売 朝から行列",
+      "link": "https://news.yahoo.co.jp/pickup/6603795?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-24T04:43:42+00:00"
+    },
+    {
+      "title": "Asian Equities Rebound as Huang Reinstatement Sparks AI-Stock Rally",
+      "link": "https://www.wsj.com/finance/stocks/asian-equities-rebound-as-huang-reinstatement-sparks-ai-stock-rally-515acdd2?mod=rss_markets_main",
+      "summary": "Asian equities rebounded Tuesday morning after Jensen Huang’s return as chief executive of Nvidia sparked a rally in artificial-intelligence stocks.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T04:42:00+00:00"
+    },
+    {
+      "title": "China Chip Stocks Rise After Jensen Huang’s Return",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-2-7-led-by-chip-metals-stocks-82c1bb9d?mod=rss_markets_main",
+      "summary": "Chinese chip stocks strengthened after Jensen Huang’s return to Nvidia as CEO gave U.S. stocks a boost overnight.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T04:32:00+00:00"
+    },
     {
       "title": "令和8年11月20日からの大雪に係る災害等に対する金融上の措置について（福島県）",
       "link": "http://www.boj.or.jp/about/bcp/fso/fso261124a.pdf",
@@ -3144,6 +3172,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-24T02:39:20+00:00"
+    },
+    {
+      "title": "Declare is a UI language for you and your AI",
+      "link": "https://davidtemkin.github.io/declarelang/",
+      "summary": "Article URL: https://davidtemkin.github.io/declarelang/\nComments URL: https://news.ycombinator.com/item?id=50622854\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T02:36:56+00:00"
     },
     {
       "title": "Rune: Rust VM for Emacs",
