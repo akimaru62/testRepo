@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T07:47:57.550939+00:00",
+  "generated_at": "2026-11-24T08:07:17.393391+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3002,9 +3002,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "「AI等の健全な利活用の推進に関する研究会」（第１回）議事次第について公表しました。",
+      "link": "https://www.fsa.go.jp/singi/ai_2026/shiryou/20261124.html",
+      "summary": "",
+      "source": "金融庁",
+      "category": "公的機関",
+      "published": "2026-11-24T17:00:00+00:00"
+    },
+    {
+      "title": "国際関係,金融安定理事会による「金融機関の実効的な破綻処理の枠組みの主要な特性」に整合的な破綻処理計画基準に服する保険会社のリストを公表しました。",
+      "link": "https://www.fsa.go.jp/inter/fsf/20261124/20261124.html",
+      "summary": "",
+      "source": "金融庁",
+      "category": "公的機関",
+      "published": "2026-11-24T17:00:00+00:00"
+    },
+    {
+      "title": "令和８年11月20日からの大雪に係る災害等に対する金融上の措置について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/ginkou/20261124.html",
+      "summary": "",
+      "source": "金融庁",
+      "category": "公的機関",
+      "published": "2026-11-24T16:00:00+00:00"
+    },
     {
       "title": "移行期間特例業務の時限措置終了に伴い「海外投資家等特例業務を行うみなさまへ」のページを更新しました。",
       "link": "https://www.fsa.go.jp/common/shinsei/spbfitp/index.html",
@@ -3036,6 +3064,30 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-24T14:00:00+00:00"
+    },
+    {
+      "title": "情報流出相次ぐ 防犯グッズ人気",
+      "link": "https://news.yahoo.co.jp/pickup/6603815?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-24T08:02:55+00:00"
+    },
+    {
+      "title": "国債市場特別参加者会合（第122回）開催日程",
+      "link": "https://www.mof.go.jp/about_mof/councils/meeting_of_jgbsp/press_release/261124.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-24T08:00:00+00:00"
+    },
+    {
+      "title": "VP ≠ VNP over Every Field [pdf]",
+      "link": "https://github.com/anthropics/formal-math/blob/vp-vnp/vp-vnp/paper.pdf",
+      "summary": "Article URL: https://github.com/anthropics/formal-math/blob/vp-vnp/vp-vnp/paper.pdf\nComments URL: https://news.ycombinator.com/item?id=50624929\nPoints: 13\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T07:38:50+00:00"
     },
     {
       "title": "片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要(令和8年11月24日(火曜日))",
