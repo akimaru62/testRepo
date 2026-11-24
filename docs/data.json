@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T17:47:29.946106+00:00",
+  "generated_at": "2026-11-24T18:06:05.598076+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3170,9 +3170,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "The AI debt market isn’t convinced the worst is over for investors",
+      "link": "https://www.marketwatch.com/story/the-ai-debt-market-isnt-convinced-the-worst-is-over-for-investors-c70eaede?mod=mw_rss_topstories",
+      "summary": "Stocks rebounded on Monday, but credit markets remain cautious.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-24T17:48:00+00:00"
+    },
+    {
+      "title": "Enron Employees Give Kenneth Lay a Standing Ovation Upon His Return as CEO",
+      "link": "https://daringfireball.net/linked/2026/11/24/enron-ovation-1991",
+      "summary": "Article URL: https://daringfireball.net/linked/2026/11/24/enron-ovation-1991\nComments URL: https://news.ycombinator.com/item?id=50631647\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T17:43:22+00:00"
+    },
     {
       "title": "Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
       "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?mod=rss_markets_main",
@@ -3180,6 +3200,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-24T17:34:00+00:00"
+    },
+    {
+      "title": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
+      "link": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
+      "summary": "Article URL: https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/\nComments URL: https://news.ycombinator.com/item?id=50631210\nPoints: 33\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T17:10:45+00:00"
     },
     {
       "title": "「AI等の健全な利活用の推進に関する研究会」（第１回）議事次第について公表しました。",
