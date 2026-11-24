@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T06:51:02.420749+00:00",
+  "generated_at": "2026-11-24T07:05:39.568543+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2982,6 +2982,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3018,6 +3022,30 @@
       "published": "2026-11-24T14:00:00+00:00"
     },
     {
+      "title": "キッコーマン 来年58品目値上げ",
+      "link": "https://news.yahoo.co.jp/pickup/6603805?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-24T07:02:11+00:00"
+    },
+    {
+      "title": "情報流出で不安 防犯グッズ売れる",
+      "link": "https://news.yahoo.co.jp/pickup/6603803?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-24T06:54:39+00:00"
+    },
+    {
+      "title": "Sanofi to Buy Insmed for $41.0 Billion",
+      "link": "https://www.wsj.com/business/deals/sanofi-to-buy-insmed-for-41-0-billion-36d6b07d?mod=rss_markets_main",
+      "summary": "The pharmaceutical company said it will pay $175 per share to buy the U.S. drugmaker, complementing its immunology and rare-disease portfolio.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T06:54:00+00:00"
+    },
+    {
       "title": "日経平均、2207円高で取引終了　エヌビディアCEO復帰が追い風",
       "link": "https://www.asahi.com/articles/ASVCS02DLVCSULFA002M.html?ref=rss",
       "summary": "",
@@ -3032,6 +3060,22 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-24T06:30:34+00:00"
+    },
+    {
+      "title": "The Jensen put",
+      "link": "https://www.ft.com/content/74408261-9cb4-41ae-8d4f-3a1a9ce72930?syn-25a6b1a6=1",
+      "summary": "Plus, Capex or die trying",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T06:30:04+00:00"
+    },
+    {
+      "title": "India's opposition storms Meta's offices to get its Instagram accounts back",
+      "link": "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html",
+      "summary": "Article URL: https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html\nComments URL: https://news.ycombinator.com/item?id=50624487\nPoints: 33\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T06:28:04+00:00"
     },
     {
       "title": "衆院、福田元首相に弔詞",
@@ -3082,12 +3126,28 @@
       "published": "2026-11-24T05:19:09.983646+00:00"
     },
     {
+      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+      "link": "https://www.phoronix.com/review/amd-epyc-9006-7601",
+      "summary": "Article URL: https://www.phoronix.com/review/amd-epyc-9006-7601\nComments URL: https://news.ycombinator.com/item?id=50624061\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T05:15:22+00:00"
+    },
+    {
       "title": "JGBs Rise Further Amid Uncertainty Over AI Infrastructure Investments",
       "link": "https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8?mod=rss_markets_main",
       "summary": "Japanese government bond prices rose further in the Tokyo session amid continuing uncertainty over investments in artificial-intelligence infrastructure, analysts said.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-24T05:12:00+00:00"
+    },
+    {
+      "title": "Show HN: Genesis Map – Visualize your agent's changes. See where they can break",
+      "link": "https://github.com/GenesisAgentInfra/genesis",
+      "summary": "When agent ships code faster and faster, human review is no longer possible. Which brings 2 problems, at least for me:1. I need to understand what my agent changes as quickly and easily as possible, cuz I don't wanna lose track of the current status of my product, or be the main bottleneck in shipping code.2. I don't trust what my agent tells me. Many times, I've been suffered from agent telling me \"all is well\", then say \"you are right, sorry, I missed...\" after code failed on production.To mitigate those problems, I made Genesis, a skill for coding agent to generate a beautiful flow chart to understand all the business flows, flag all risk changes and untested code between commits. It worked very well on me, so I benchmarked it against vanilla Claude code and Codex:Vanilla → With Genesis\n1. Test gaps caught: Claude Code 8% → 38% · Codex 4% → 23%2. False alarms per review: Claude Code 2.1 → 0.7 · Codex 1.4 → 0.53. Real risks found per review: Claude Code 2.9 → 2.8 · Codex 2.4 → 2.4\n\nComments URL: https://news.ycombinator.com/item?id=50623965\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T05:04:41+00:00"
     },
     {
       "title": "What are you thinking? It depends who’s asking",
@@ -3811,6 +3871,14 @@
     },
     {
       "title": "Inside the ‘war room’ that lobbied Trump to bring back ousted tech boss",
+      "link": "https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc?syn-25a6b1a6=1",
+      "summary": "Silicon Valley titans enlisted US president and JD Vance to rescue the billionaire tech boss whom they viewed as critical for the AI industry",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-23T22:46:14+00:00"
+    },
+    {
+      "title": "Inside the ‘war room’ that lobbied Trump to bring back Jensen Huang",
       "link": "https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc?syn-25a6b1a6=1",
       "summary": "Silicon Valley titans enlisted US president and JD Vance to rescue the billionaire tech boss whom they viewed as critical for the AI industry",
       "source": "Financial Times",
