@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T16:47:44.597919+00:00",
+  "generated_at": "2026-11-24T17:05:33.952183+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3154,6 +3154,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3182,6 +3186,14 @@
       "published": "2026-11-24T16:32:17+00:00"
     },
     {
+      "title": "Trump readies raft of new tariffs on major economies",
+      "link": "https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0?syn-25a6b1a6=1",
+      "summary": "China, the EU, Japan and South Korea expected to be hit by levies as US president doubles down on trade strategy",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T16:30:35+00:00"
+    },
+    {
       "title": "Anthropic falls below IPO price as tech rally fades",
       "link": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
       "summary": "Investor relief over reinstatement of Jensen Huang as Nvidia CEO subsides",
@@ -3196,6 +3208,22 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-24T16:24:00+00:00"
+    },
+    {
+      "title": "Jetty Pro",
+      "link": "http://hypercritical.co/2026/11/23/jetty-pro",
+      "summary": "Article URL: http://hypercritical.co/2026/11/23/jetty-pro\nComments URL: https://news.ycombinator.com/item?id=50630462\nPoints: 18\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T16:23:02+00:00"
+    },
+    {
+      "title": "How to Make a Lovable City",
+      "link": "https://www.worksinprogress.news/p/how-to-make-a-lovable-city",
+      "summary": "Article URL: https://www.worksinprogress.news/p/how-to-make-a-lovable-city\nComments URL: https://news.ycombinator.com/item?id=50630423\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T16:19:55+00:00"
     },
     {
       "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
@@ -3260,6 +3288,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-24T15:55:20+00:00"
+    },
+    {
+      "title": "The KL Divergence Is Never Negative, Except in PyTorch",
+      "link": "https://arxiv.org/abs/2611.30835",
+      "summary": "Article URL: https://arxiv.org/abs/2611.30835\nComments URL: https://news.ycombinator.com/item?id=50629962\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T15:50:22+00:00"
     },
     {
       "title": "Tech Stocks Backslide After Epic Rally",
@@ -3412,6 +3448,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-24T14:55:00+00:00"
+    },
+    {
+      "title": "Splitting USB-C: USB 3 and USB 2 on One Port",
+      "link": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
+      "summary": "Article URL: https://www.frankchiarulli.com/blog/splitting-usb-c/\nComments URL: https://news.ycombinator.com/item?id=50629106\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T14:54:10+00:00"
     },
     {
       "title": "Anthropic is below its IPO price",
