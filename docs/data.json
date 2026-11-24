@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T04:06:15.405426+00:00",
+  "generated_at": "2026-11-24T04:20:34.625291+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2934,9 +2934,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "関文科相、「職務で責任を果たす」　自宅家賃に政治資金の報道も",
+      "link": "https://www.jiji.com/jc/article?k=2026112400503&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T04:20:24.105591+00:00"
+    },
+    {
+      "title": "ＥＶ補助金、「空白を短縮」　申請受け付けを終了―赤沢経産相",
+      "link": "https://www.jiji.com/jc/article?k=2026112400494&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T04:20:24.105575+00:00"
+    },
+    {
+      "title": "阪神、上林誠知を獲得　中日からＦＡ―プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026112400418&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T04:20:24.105525+00:00"
+    },
+    {
+      "title": "くら寿司22品値上げ 34品値下げ",
+      "link": "https://news.yahoo.co.jp/pickup/6603792?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-24T04:18:22+00:00"
+    },
     {
       "title": "くら寿司が「熟成まぐろ」など22品目値上げ　魚介の仕入れ値高騰で",
       "link": "https://www.asahi.com/articles/ASVCS127HVCSPLFA001M.html?ref=rss",
@@ -2944,6 +2980,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-24T03:48:03.095450+00:00"
+    },
+    {
+      "title": "Singapore is no backdoor for US chips, PM says",
+      "link": "https://www.ft.com/content/6ca21b39-ff62-42e0-9695-9220b438f7eb?syn-25a6b1a6=1",
+      "summary": "Lawrence Wong vows city-state will not let companies break law by circumventing export controls",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T03:46:42+00:00"
     },
     {
       "title": "パオロ・ブルガリ氏死去、８９歳　世界的宝飾ブランドに―伊",
@@ -3000,6 +3044,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-24T03:16:58+00:00"
+    },
+    {
+      "title": "Zero data retention with Enterprise Frontier Safeguards is now in beta",
+      "link": "https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards",
+      "summary": "Article URL: https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards\nComments URL: https://news.ycombinator.com/item?id=50623166\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T03:15:38+00:00"
     },
     {
       "title": "Singapore Dollar Steady as Robust Domestic Economic Growth Supports",
@@ -3072,6 +3124,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-24T02:39:20+00:00"
+    },
+    {
+      "title": "Rune: Rust VM for Emacs",
+      "link": "https://github.com/CeleritasCelery/rune",
+      "summary": "Article URL: https://github.com/CeleritasCelery/rune\nComments URL: https://news.ycombinator.com/item?id=50622804\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T02:30:47+00:00"
     },
     {
       "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
