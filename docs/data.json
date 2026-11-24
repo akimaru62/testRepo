@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T18:47:20.997507+00:00",
+  "generated_at": "2026-11-24T19:04:27.492207+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3190,9 +3190,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Feeling tired and losing your hair? You might have low iron — even if you’ve tested ‘normal’ before.",
+      "link": "https://www.marketwatch.com/story/feeling-tired-and-losing-your-hair-you-might-have-low-iron-even-if-youve-tested-normal-before-96fe0d29?mod=mw_rss_topstories",
+      "summary": "A “silent epidemic”:  Doctors are rethinking how to diagnose iron deficiency. Here’s what you should know about the science of ferritin.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-24T19:02:00+00:00"
+    },
+    {
+      "title": "Gold Futures Give Back Gains Following Nvidia-Driven Rally",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-across-markets-ae66946a?mod=rss_markets_main",
+      "summary": "Gold settled 2.4% lower, down four of the past five sessions, while silver fell  5.5% to a new 52-week low.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T18:52:00+00:00"
+    },
+    {
+      "title": "Visiting Las Vegas is getting too expensive — but don’t blame airfares",
+      "link": "https://www.marketwatch.com/story/visiting-las-vegas-is-getting-too-expensive-but-dont-blame-airfares-12e2c588?mod=mw_rss_topstories",
+      "summary": "Analysts say Vegas hotels have gotten pricey, with customers finding better deals in other cities or on cruise ships",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-24T18:48:00+00:00"
+    },
     {
       "title": "Comex Gold Settles 2.45% Lower at $3559.90",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-across-markets-ae66946a?mod=rss_markets_main",
@@ -3200,6 +3228,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-24T18:44:00+00:00"
+    },
+    {
+      "title": "The expanding boundaries of the Ukraine war",
+      "link": "https://www.ft.com/content/bdc970b8-e99d-4668-8e64-dcefdc80bcd6?syn-25a6b1a6=1",
+      "summary": "Kyiv has a right to strike Russian targets but needs to choose them with care",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T18:38:23+00:00"
     },
     {
       "title": "U.S. Treasury Auction of 5-Year Note Shows Slightly Soft Demand",
@@ -3285,6 +3321,14 @@
       "title": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
       "link": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
       "summary": "Article URL: https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/\nComments URL: https://news.ycombinator.com/item?id=50631210\nPoints: 33\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T17:10:45+00:00"
+    },
+    {
+      "title": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+      "link": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
+      "summary": "Article URL: https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/\nComments URL: https://news.ycombinator.com/item?id=50631210\nPoints: 145\n# Comments: 71",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-24T17:10:45+00:00"
