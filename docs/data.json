@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T17:05:33.952183+00:00",
+  "generated_at": "2026-11-24T17:17:48.995995+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3158,6 +3158,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3181,6 +3185,14 @@
       "title": "Cyberattack Campaign Compromising Check Point Servers Across 22 Organizations",
       "link": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
       "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign\nComments URL: https://news.ycombinator.com/item?id=50630594\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T16:32:17+00:00"
+    },
+    {
+      "title": "Cyberattack campaign compromising Check Point servers across 22 organizations",
+      "link": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign\nComments URL: https://news.ycombinator.com/item?id=50630594\nPoints: 51\n# Comments: 19",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-24T16:32:17+00:00"
@@ -3237,6 +3249,14 @@
       "title": "Tidal Bans AI-Generated Music",
       "link": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
       "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/\nComments URL: https://news.ycombinator.com/item?id=50630309\nPoints: 14\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T16:12:38+00:00"
+    },
+    {
+      "title": "Tidal bans AI-generated music",
+      "link": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+      "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/\nComments URL: https://news.ycombinator.com/item?id=50630309\nPoints: 162\n# Comments: 115",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-24T16:12:38+00:00"
