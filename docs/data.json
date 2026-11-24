@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T12:37:05.411782+00:00",
+  "generated_at": "2026-11-24T12:47:31.558991+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3082,6 +3082,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3220,6 +3224,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-24T11:51:27+00:00"
+    },
+    {
+      "title": "Who in Washington owns and trades Nvidia stock",
+      "link": "https://www.kadoa.com/congress/insights/trump-nvidia",
+      "summary": "Article URL: https://www.kadoa.com/congress/insights/trump-nvidia\nComments URL: https://news.ycombinator.com/item?id=50626861\nPoints: 16\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T11:51:05+00:00"
     },
     {
       "title": "消費減税で便乗値上げ、ライフ社長「可能性極めて低い」　国会で説明",
@@ -3612,6 +3624,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-24T08:36:00+00:00"
+    },
+    {
+      "title": "Quad9 pulled their DNS service from France",
+      "link": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
+      "summary": "Article URL: https://quad9.net/news/blog/quad9-service-deactivation-in-france/\nComments URL: https://news.ycombinator.com/item?id=50625384\nPoints: 10\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T08:33:14+00:00"
     },
     {
       "title": "Oil Prices Fall as Traders Weigh Supply Outlook, Shipping Risks",
