@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T09:47:36.872841+00:00",
+  "generated_at": "2026-11-24T10:05:24.222244+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3034,6 +3034,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3092,6 +3096,54 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-24T14:00:00+00:00"
+    },
+    {
+      "title": "Zendaya and Tom Holland buy a home on 1 acre in London for $10 million",
+      "link": "https://www.marketwatch.com/story/zendaya-and-tom-holland-buy-a-home-on-1-acre-in-london-for-10-million-a433e7cd?mod=mw_rss_topstories",
+      "summary": "Tom Holland and Zendaya may make London their primary residence after splashing out $10 million on a palatial pad across the pond.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-24T10:01:00+00:00"
+    },
+    {
+      "title": "Here’s your chance to bid on Alex Trebek’s former $6.45 million California ranch and winery",
+      "link": "https://www.marketwatch.com/story/heres-your-chance-to-bid-on-alex-trebeks-former-6-45-million-california-ranch-and-winery-0f0cd4f5?mod=mw_rss_topstories",
+      "summary": "A sprawling California ranch where Alex Trebek helped run a winery is heading to auction, giving buyers a chance to purchase nearly 578 acres of the Central Coast once owned by the longtime “Jeopardy!” host.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-24T09:58:00+00:00"
+    },
+    {
+      "title": "The bull and bear surprises that could ambush investors next year, according to Bank of America",
+      "link": "https://www.marketwatch.com/story/the-bull-and-bear-surprises-that-could-ambush-investors-next-year-according-to-bank-of-america-1cf7dc26?mod=mw_rss_topstories",
+      "summary": "Michael Hartnett’s tactical masterplan is to stay risk off until global rate hikes start to dry up next spring.  Thereafter, modest earnings growth and the chance of looser financial conditions in the second half favor owning cyclicals and adding more risk.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-24T09:58:00+00:00"
+    },
+    {
+      "title": "Stock Market Today: Stocks Set to Cool After Epic Rally",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026?mod=rss_markets_main",
+      "summary": "Asian equities jump as they catch up with yesterday's U.S. gains",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T09:53:51+00:00"
+    },
+    {
+      "title": "Jensen Huang’s Return Sparks Rally in Asia, but Concerns Remain",
+      "link": "https://www.wsj.com/finance/stocks/asian-equities-rebound-as-huang-reinstatement-sparks-ai-stock-rally-515acdd2?mod=rss_markets_main",
+      "summary": "The risk posed by tighter U.S. restrictions on advanced chips hasn’t gone away, nor have concerns around AI financing, and fears of a market bubble.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T09:52:00+00:00"
+    },
+    {
+      "title": "個人消費判断 約3年ぶり下方修正",
+      "link": "https://news.yahoo.co.jp/pickup/6603828?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-24T09:50:22+00:00"
     },
     {
       "title": "Euro Unlikely to Fall Much Further Against Dollar",
@@ -3537,6 +3589,14 @@
       "title": "Pentagon delays Patriot missile shipments to Ukraine",
       "link": "https://www.ft.com/content/02db16f6-808f-44b4-98dc-fe47f6a04d33?syn-25a6b1a6=1",
       "summary": "US defence secretary Pete Hegseth has yet to sign off on 60 Patriot interceptors for Kyiv, including from European arsenals",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T05:00:15+00:00"
+    },
+    {
+      "title": "The political tide is turning on US audits",
+      "link": "https://www.ft.com/content/b7726a77-5f25-4c9c-8900-1609479b34b8?syn-25a6b1a6=1",
+      "summary": "More signs are emerging of the industry regulator’s new approach under chair Jim Logothetis",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-24T05:00:15+00:00"
@@ -5604,6 +5664,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-23T11:15:00+00:00"
+    },
+    {
+      "title": "New material gets stronger the more it bends",
+      "link": "https://source.washu.edu/2026/11/breakthrough-material-gets-stronger-the-more-it-bends/",
+      "summary": "Article URL: https://source.washu.edu/2026/11/breakthrough-material-gets-stronger-the-more-it-bends/\nComments URL: https://news.ycombinator.com/item?id=50610170\nPoints: 27\n# Comments: 14",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T11:12:33+00:00"
     },
     {
       "title": "Dollar Could Stay Firm if Upcoming Data Support Rate-Rise Bets",
