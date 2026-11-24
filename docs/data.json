@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T13:05:47.816399+00:00",
+  "generated_at": "2026-11-24T13:18:26.313888+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3090,6 +3090,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3150,12 +3154,44 @@
       "published": "2026-11-24T14:00:00+00:00"
     },
     {
+      "title": "中国側の警戒解けず　半導体調達網、米が締め付け―フアン氏復帰も",
+      "link": "https://www.jiji.com/jc/article?k=2026112400891&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T13:18:20.957063+00:00"
+    },
+    {
+      "title": "ドイツ、重要鉱物確保へ官民連携　中国依存低減、日本参考",
+      "link": "https://www.jiji.com/jc/article?k=2026112400998&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T13:18:20.957031+00:00"
+    },
+    {
+      "title": "上海市トップが失脚　陳吉寧氏、規律違反で―中国",
+      "link": "https://www.jiji.com/jc/article?k=2026112401019&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T13:18:20.956993+00:00"
+    },
+    {
       "title": "Sunday’s pot roast now costs more than a Thanksgiving feast. Why beef won’t get cheaper for years.",
       "link": "https://www.marketwatch.com/story/sundays-pot-roast-now-costs-more-than-a-thanksgiving-feast-why-beef-wont-get-cheaper-for-years-7daa1b3f?mod=mw_rss_topstories",
       "summary": "A four-pound chuck roast runs $36.33. Walmart feeds 10 for $35. The turkey is the bait. The cow is the bill.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-24T12:56:00+00:00"
+    },
+    {
+      "title": "Jensen Huang’s return should not stop tighter US chip controls",
+      "link": "https://www.ft.com/content/55a32e72-2cee-4a7f-874f-0936e2581a8a",
+      "summary": "Nvidia was wrong to think Chinese competitors would remain inside the company’s ecosystem",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T12:54:15+00:00"
     },
     {
       "title": "LLM agents work for their parent companies, not for you",
