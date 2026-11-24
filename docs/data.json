@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T21:05:19.201756+00:00",
+  "generated_at": "2026-11-24T21:17:29.542544+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3226,9 +3226,69 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "首相動静（１１月２４日）",
+      "link": "https://www.jiji.com/jc/article?k=2026112400201&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T21:17:24.246778+00:00"
+    },
+    {
+      "title": "平良海馬、ブルージェイズと合意　５年１２８億円と報道―米大リーグ",
+      "link": "https://www.jiji.com/jc/article?k=2026112500143&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T21:17:24.246763+00:00"
+    },
+    {
+      "title": "日欧中などの関税引き上げへ準備　米政権、過剰生産理由に―報道",
+      "link": "https://www.jiji.com/jc/article?k=2026112500137&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T21:17:24.246732+00:00"
+    },
+    {
+      "title": "消費減税に悩む外食　持ち帰りと税率差9%、丸亀製麺は値下げで先手",
+      "link": "https://www.asahi.com/articles/ASVCS2S90VCSULFA02HM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-24T21:17:23.943981+00:00"
+    },
+    {
+      "title": "「結構やばいぜ」用意された第三者委員の「辞任」「解任」両シナリオ",
+      "link": "https://www.asahi.com/articles/ASVCQ3Q73VCQULFA01WM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-24T21:17:23.943943+00:00"
+    },
+    {
+      "title": "Dell’s stock rises as the AI boom helps sales more than double",
+      "link": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+      "summary": "Earnings forecast also impresses.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-24T21:14:00+00:00"
+    },
+    {
+      "title": "U.S. Natural Gas Futures Recover Lost Ground",
+      "link": "https://www.wsj.com/finance/commodities-futures/european-gas-edges-lower-but-signs-of-stronger-demand-keep-prices-elevated-11c3316e?mod=rss_markets_main",
+      "summary": "U.S. natural gas futures settled more than 4% higher, recovering from the prior day’s sharp drop with a current cold spell supporting heating demand.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T21:04:00+00:00"
+    },
     {
       "title": "〈過去最大の赤字〉JT､ロシア事業｢連結除外｣で稼ぎ頭喪失…それでも｢利益成長の加速｣を強気宣言した2つのカラクリ | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965632?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -3370,6 +3430,22 @@
       "link": "https://toyokeizai.net/articles/-/965542?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "｢第36回（2027年次）RJCカーオブザイヤー｣が決定。選考委員でもある筆者が､最終選考に残った車両をレビューする。｢多様化する自動車の価値観を鮮やかに映し出す選考会となった｣という筆者の目に写っ…",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-24T20:30:00+00:00"
+    },
+    {
+      "title": "AI時代の「仕事ができる人」「できない人」どこで差がつくのか？　資格や語学よりも大切なこと",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/25/news006.html",
+      "summary": "厚生労働省が全世代の学び直しを後押しする中、何を学ぶべきか迷うビジネスパーソンは多い。AIで作業の質が均一化する今、評価され次の仕事を任される人が持つ「見極める力」と「整える力」とは。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-24T20:30:00+00:00"
+    },
+    {
+      "title": "フィジカルAIで“なんでもできる“ロボが登場？　KDDI幹部が指摘「ロボット大国日本」の強みはどう変わるか",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/25/news014.html",
+      "summary": "AIの進化で、あらかじめ決められた動作を繰り返す従来型のロボットから、状況を認識して自律的に動く「フィジカルAI」に注目が広がっている。これまで「ロボット大国」を築いてきた日本の強みはどう変化するのか。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-11-24T20:30:00+00:00"
     },
