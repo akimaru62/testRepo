@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T02:47:30.153314+00:00",
+  "generated_at": "2026-11-24T03:06:28.092200+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2914,9 +2914,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Singapore Dollar Steady as Robust Domestic Economic Growth Supports",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-strengthen-amid-risk-on-sentiment-bf00d2c3?mod=rss_markets_main",
+      "summary": "The Singapore dollar was steady against its U.S. counterpart, supported by signs of robust domestic economic growth.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T03:03:00+00:00"
+    },
+    {
+      "title": "U.S. Treasurys Edge Lower Amid Higher Fed Rate-Hike Prospects",
+      "link": "https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8?mod=rss_markets_main",
+      "summary": "U.S. Treasurys edged lower in price terms in the Asian session amid higher prospects for Fed rate hikes.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T03:00:00+00:00"
+    },
+    {
+      "title": "松屋の一人負け? 牛丼業界で明暗",
+      "link": "https://news.yahoo.co.jp/pickup/6603780?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-24T02:58:23+00:00"
+    },
+    {
+      "title": "ミスド並び方に戸惑いも 運営見解",
+      "link": "https://news.yahoo.co.jp/pickup/6603786?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-24T02:54:09+00:00"
+    },
+    {
+      "title": "Asian tech stocks surge after Jensen Huang’s return",
+      "link": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
+      "summary": "Region’s markets follow Wall Street higher on Nvidia chief’s reinstatement",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T02:40:25+00:00"
+    },
     {
       "title": "セカストが急成長 人気の要因は",
       "link": "https://news.yahoo.co.jp/pickup/6603777?source=rss",
