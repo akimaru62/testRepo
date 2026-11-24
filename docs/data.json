@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T23:04:14.468749+00:00",
+  "generated_at": "2026-11-24T23:17:36.095736+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3258,9 +3258,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "フアン氏復帰もやまぬ追及　情報漏えい疑惑晴れず―米エヌビディア",
+      "link": "https://www.jiji.com/jc/article?k=2026112400852&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T23:17:32.199016+00:00"
+    },
+    {
+      "title": "農産物、フィリピンが「１００％」輸入？　トランプ米大統領主張も食い違い",
+      "link": "https://www.jiji.com/jc/article?k=2026112400680&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T23:17:32.198976+00:00"
+    },
     {
       "title": "あの人､名前何だっけ…どうしても固有名詞が出てこない《中年あるある》を減らす｢記憶の整理法｣を脳の専門家が伝授 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/963301?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -3268,6 +3288,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-24T23:00:00+00:00"
+    },
+    {
+      "title": "Jensen Huang Spy Story Is a Hoax",
+      "link": "https://www.kenklippenstein.com/p/jensen-huang-spy-story-is-a-hoax",
+      "summary": "Article URL: https://www.kenklippenstein.com/p/jensen-huang-spy-story-is-a-hoax\nComments URL: https://news.ycombinator.com/item?id=50635941\nPoints: 18\n# Comments: 8",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T22:52:16+00:00"
     },
     {
       "title": "朝ドラ《ブラッサム》宇野千代が\"夫を兄弟と偽って\"下宿先ですごしたのは本当？2番目の夫との｢驚きの事実｣ | キャリア・教育 | 東洋経済オンライン",
