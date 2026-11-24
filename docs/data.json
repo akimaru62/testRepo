@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T06:42:57.048639+00:00",
+  "generated_at": "2026-11-24T06:51:02.420749+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2978,6 +2978,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3012,6 +3016,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-24T14:00:00+00:00"
+    },
+    {
+      "title": "日経平均、2207円高で取引終了　エヌビディアCEO復帰が追い風",
+      "link": "https://www.asahi.com/articles/ASVCS02DLVCSULFA002M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-24T06:50:56.815028+00:00"
+    },
+    {
+      "title": "Tech stocks surge on Jensen Huang’s return",
+      "link": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
+      "summary": "Asian markets follow Wall Street higher after Nvidia chief’s reinstatement",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T06:30:34+00:00"
     },
     {
       "title": "衆院、福田元首相に弔詞",
@@ -3079,6 +3099,14 @@
     },
     {
       "title": "The spies are coming for Big Tech",
+      "link": "https://www.ft.com/content/c96c40c5-6b07-4433-b65f-19105e9ccb44?syn-25a6b1a6=1",
+      "summary": "AI groups are now at the heart of geopolitics. Some are not ready",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T05:00:16+00:00"
+    },
+    {
+      "title": "The Nvidia protocol: spies and Big Tech",
       "link": "https://www.ft.com/content/c96c40c5-6b07-4433-b65f-19105e9ccb44?syn-25a6b1a6=1",
       "summary": "AI groups are now at the heart of geopolitics. Some are not ready",
       "source": "Financial Times",
