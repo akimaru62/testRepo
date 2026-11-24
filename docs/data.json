@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T05:05:44.385281+00:00",
+  "generated_at": "2026-11-24T05:19:17.474653+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2950,9 +2950,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "冬のイルミネーションを刷新　札幌市〔地域〕",
+      "link": "https://www.jiji.com/jc/article?k=2026112400520&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T05:19:10.207580+00:00"
+    },
+    {
+      "title": "JR芸備線「バス基軸、鉄道以外へ転換」案　他の赤字ローカル線は？",
+      "link": "https://www.asahi.com/articles/ASVCK0FKHVCKPITB00HM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-24T05:19:09.983646+00:00"
+    },
+    {
+      "title": "JGBs Rise Further Amid Uncertainty Over AI Infrastructure Investments",
+      "link": "https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8?mod=rss_markets_main",
+      "summary": "Japanese government bond prices rose further in the Tokyo session amid continuing uncertainty over investments in artificial-intelligence infrastructure, analysts said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T05:12:00+00:00"
+    },
     {
       "title": "年末ジャンボ発売 朝から行列",
       "link": "https://news.yahoo.co.jp/pickup/6603795?source=rss",
