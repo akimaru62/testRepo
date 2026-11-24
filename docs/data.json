@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T10:47:42.619421+00:00",
+  "generated_at": "2026-11-24T11:05:22.444972+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3050,6 +3050,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3108,6 +3112,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-24T14:00:00+00:00"
+    },
+    {
+      "title": "Is Nvidia Becoming a Government-Sponsored Enterprise?",
+      "link": "https://www.wsj.com/politics/policy/is-nvidia-becoming-a-government-sponsored-enterprise-5ef9b833?mod=rss_markets_main",
+      "summary": "Plus, rent relief in Raleigh, bipartisan tax hate and AI after the Riemann Hypothesis.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T10:50:00+00:00"
     },
     {
       "title": "Dollar’s Fortunes Closely Linked to AI Trade",
