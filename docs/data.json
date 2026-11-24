@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T23:47:48.498923+00:00",
+  "generated_at": "2026-11-24T00:13:13.706895+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2870,9 +2870,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "ジムビーム、主力工場の停止延長　サントリーＨＤ傘下、在庫過剰か―報道",
+      "link": "https://www.jiji.com/jc/article?k=2026112400176&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T00:13:04.053435+00:00"
+    },
+    {
+      "title": "人生の門出、世界遺産でいかが？　「残る場所」で一生の思い出を―海外からも、行政も歓迎",
+      "link": "https://www.jiji.com/jc/article?k=2026112300224&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T00:13:04.053425+00:00"
+    },
+    {
+      "title": "フアン氏、ＣＥＯ電撃復帰　トランプ氏が介入―米エヌビディア",
+      "link": "https://www.jiji.com/jc/article?k=2026112300537&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T00:13:04.053382+00:00"
+    },
+    {
+      "title": "｢一人が気楽｣でも孤立は危険――医師･鎌田實が警鐘を鳴らす《健康長寿を遠ざける意外なリスク》 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963771?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢一人の時間｣は大切ですが､社会から孤立することは心身に悪影響を及ぼす危険があります。人とのつながりや生きがいを持つことは健康長寿のカギ。幸福な晩年を迎えるため､どんな習慣や｢投資｣が私たちの人生を…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-24T00:00:00+00:00"
+    },
+    {
+      "title": "Asian Currencies Consolidate But May Strengthen Amid Risk-on Sentiment",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-may-strengthen-amid-risk-on-sentiment-bf00d2c3?mod=rss_markets_main",
+      "summary": "Asian currencies consolidated against the dollar in early trade, but may strengthen amid risk-on sentiment driven by Wall Street’s rally overnight.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-23T23:54:00+00:00"
+    },
     {
       "title": "米商務省、メガスピード社を「ブラックリスト」に　対応遅れの指摘も",
       "link": "https://www.asahi.com/articles/ASVCR7S9XVCRSFVU3ZHM.html?ref=rss",
@@ -2968,6 +3012,22 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-23T23:17:46.734763+00:00"
+    },
+    {
+      "title": "Huang's Return Is the Biggest National Security Scandal in U.S. History",
+      "link": "https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/",
+      "summary": "Article URL: https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/\nComments URL: https://news.ycombinator.com/item?id=50620822\nPoints: 22\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T23:11:38+00:00"
+    },
+    {
+      "title": "Freeing the iPod Nano 5G",
+      "link": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
+      "summary": "Article URL: https://viktorkrapivin.com/blog/nano5g-priv-prvd\nComments URL: https://news.ycombinator.com/item?id=50620721\nPoints: 12\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T23:03:13+00:00"
     },
     {
       "title": "LINEヤフーもGMOも出社回帰､次は｢AI化で出社加速｣か｢採用難で在宅拡大｣か？大手42社の本音が示唆する現実解 | キャリア・教育 | 東洋経済オンライン",
