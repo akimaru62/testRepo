@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T05:19:17.474653+00:00",
+  "generated_at": "2026-11-24T05:33:26.408432+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2954,6 +2954,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -2980,6 +2984,38 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-24T05:12:00+00:00"
+    },
+    {
+      "title": "What are you thinking? It depends who’s asking",
+      "link": "https://www.ft.com/content/a547a707-0ddd-4e45-b2e4-b29dabb72057?syn-25a6b1a6=1",
+      "summary": "We may answer questions differently if AI is conducting the interview",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T05:00:25+00:00"
+    },
+    {
+      "title": "The spies are coming for Big Tech",
+      "link": "https://www.ft.com/content/c96c40c5-6b07-4433-b65f-19105e9ccb44?syn-25a6b1a6=1",
+      "summary": "AI groups are now at the heart of geopolitics. Some are not ready",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T05:00:16+00:00"
+    },
+    {
+      "title": "Pentagon delays Patriot missile shipments to Ukraine",
+      "link": "https://www.ft.com/content/02db16f6-808f-44b4-98dc-fe47f6a04d33?syn-25a6b1a6=1",
+      "summary": "US defence secretary Pete Hegseth has yet to sign off on 60 Patriot interceptors for Kyiv, including from European arsenals",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T05:00:15+00:00"
+    },
+    {
+      "title": "Britain bought fake C4 explosives for Ukraine",
+      "link": "https://www.ft.com/content/b5873050-2b90-4889-bbf6-902234e51e9f?syn-25a6b1a6=1",
+      "summary": "Flagship UK procurement unit paid a part-time US police officer for tonnes of plastic explosives with no detectable RDX, the main ingredient in military C4",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T05:00:07+00:00"
     },
     {
       "title": "年末ジャンボ発売 朝から行列",
