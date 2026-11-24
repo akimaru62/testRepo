@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T11:17:49.688316+00:00",
+  "generated_at": "2026-11-24T11:33:20.722245+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3062,6 +3062,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3120,6 +3124,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-24T14:00:00+00:00"
+    },
+    {
+      "title": "AI Build-Out Is Far-Reaching for U.S. Economy",
+      "link": "https://www.wsj.com/finance/investing/ai-build-out-is-far-reaching-for-u-s-economy-88d35b9d?mod=rss_markets_main",
+      "summary": "Some of the best analysis and insight on investing, the wealth-management business and more.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T11:25:00+00:00"
     },
     {
       "title": "ＡＩの法的責任、検討開始　政府専門調査会が初会合",
@@ -3301,6 +3313,14 @@
       "title": "Stock Market Today: Stocks Set to Cool After Epic Rally",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026?mod=rss_markets_main",
       "summary": "Asian equities jump as they catch up with yesterday's U.S. gains",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T09:53:51+00:00"
+    },
+    {
+      "title": "Stock Market Today: Tech Stocks Set to Dive Again After Epic Rally",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026?mod=rss_markets_main",
+      "summary": "Nasdaq futures point to 2% decline; Nvidia and Anthropic slump premarket",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-24T09:53:51+00:00"
