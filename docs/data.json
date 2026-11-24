@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T22:05:10.580579+00:00",
+  "generated_at": "2026-11-24T22:17:44.314293+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3242,9 +3242,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "ウクライナ軍事支援、反対多数　最大の資金拠出国ドイツ―世論調査",
+      "link": "https://www.jiji.com/jc/article?k=2026112500163&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T22:17:40.516502+00:00"
+    },
+    {
+      "title": "パナソニック、半世紀ぶりの自転車生産新棟　生産能力を4割増強",
+      "link": "https://www.asahi.com/articles/ASVCS3JTSVCSPLFA004M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-24T22:17:40.099165+00:00"
+    },
+    {
+      "title": "ずっしり重い新型ウォークマン　歴代最高65万円なぜここまで高級化",
+      "link": "https://www.asahi.com/articles/ASVCN2QXSVCNULFA01XM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-24T22:17:40.099137+00:00"
+    },
+    {
+      "title": "Anthropic Had the Biggest IPO Ever. The Trade Is Already Unraveling.",
+      "link": "https://www.wsj.com/finance/stocks/anthropic-had-the-biggest-ipo-ever-the-trade-is-already-unraveling-f971d7c5?mod=rss_markets_main",
+      "summary": "The Claude model developer fell below its offering price on Tuesday, extending its slide to three straight sessions",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T22:07:00+00:00"
+    },
     {
       "title": "山上被告のSNS｢安倍政権を統一教会と同視するのはさすがに非礼｣→なのになぜ暗殺？ 面会人が明かす事件に至ったワケ | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/964983?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -3313,6 +3349,14 @@
       "title": "CIA Hacked",
       "link": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
       "summary": "Article URL: https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77\nComments URL: https://news.ycombinator.com/item?id=50634933\nPoints: 16\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T21:24:27+00:00"
+    },
+    {
+      "title": "An unclassified CIA system was breached in a cyberattack",
+      "link": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
+      "summary": "Article URL: https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77\nComments URL: https://news.ycombinator.com/item?id=50634933\nPoints: 27\n# Comments: 3",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-24T21:24:27+00:00"
@@ -3404,6 +3448,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-24T21:04:00+00:00"
+    },
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "summary": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/\nComments URL: https://news.ycombinator.com/item?id=50634658\nPoints: 12\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T21:02:22+00:00"
     },
     {
       "title": "〈過去最大の赤字〉JT､ロシア事業｢連結除外｣で稼ぎ頭喪失…それでも｢利益成長の加速｣を強気宣言した2つのカラクリ | ビジネス | 東洋経済オンライン",
