@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T02:07:47.301313+00:00",
+  "generated_at": "2026-11-24T02:23:10.790688+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2902,9 +2902,61 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "ロシア軍機が防空識別圏進入　韓国",
+      "link": "https://www.jiji.com/jc/article?k=2026112400267&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T02:23:06.011712+00:00"
+    },
+    {
+      "title": "疑惑企業に輸出規制適用　エヌビディア半導体巡り―米商務省",
+      "link": "https://www.jiji.com/jc/article?k=2026112400272&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T02:23:06.011696+00:00"
+    },
+    {
+      "title": "北朝鮮、高市政権の動向探る意図か",
+      "link": "https://www.jiji.com/jc/article?k=2026112300310&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T02:23:06.011685+00:00"
+    },
+    {
+      "title": "ＢＹＤ車、ＥＵで販売差し止め　英ジャガーの意匠権侵害―オランダ裁判所",
+      "link": "https://www.jiji.com/jc/article?k=2026112400275&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T02:23:06.011656+00:00"
+    },
+    {
+      "title": "都心の中古マンション「下落局面まで秒読み」、13年ぶり前年割れ",
+      "link": "https://www.asahi.com/articles/ASVCM35LFVCMULFA00LM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-24T02:23:05.650150+00:00"
+    },
+    {
+      "title": "〈株価急騰〉フアン氏がCEOに電撃復帰､わずか11日間の不在で明らかになった｢エヌビディア経済圏｣の危うさ | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965661?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "まさに急転直下の展開だった。アメリカの半導体メーカー最大手・エヌビディアは現地時間11月23日、12日に辞任を発表していた創業者のジェンスン・フアン氏がCEOに即日復帰したと発表した。カリスマの不在…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-24T02:15:00+00:00"
+    },
     {
       "title": "世界遺産が舞台の結婚式 人気",
       "link": "https://news.yahoo.co.jp/pickup/6603772?source=rss",
