@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T23:32:58.463755+00:00",
+  "generated_at": "2026-11-24T23:47:38.138001+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3266,9 +3266,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "The WSJ Dollar Index Falls 0.27% to 98.75",
+      "link": "https://www.wsj.com/articles/dollar-stays-strong-after-nvidia-news-boosts-u-s-tech-stocks-a0c603c2?mod=rss_markets_main",
+      "summary": "The WSJ Dollar Index fell 0.27%, down two of the past three trading days.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T23:44:00+00:00"
+    },
+    {
+      "title": "新型ウォークマン 旗艦品は65万円",
+      "link": "https://news.yahoo.co.jp/pickup/6603871?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-24T23:35:31+00:00"
+    },
     {
       "title": "フアン氏復帰もやまぬ追及　情報漏えい疑惑晴れず―米エヌビディア",
       "link": "https://www.jiji.com/jc/article?k=2026112400852&g=int&m=rss",
@@ -3290,6 +3310,14 @@
       "link": "https://toyokeizai.net/articles/-/963301?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "｢年を重ねると記憶力が落ちる｣と嘆いていませんか？　じつは加齢によって低下するのは記憶力ではなく､膨大な情報から必要なものを探し出す\"検索力\"なのです。本記事では､脳内科医･加藤俊徳氏が提唱する大人…",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-24T23:00:00+00:00"
+    },
+    {
+      "title": "「新リース会計基準」対応、実は「総務」が重要なワケ　契約管理“魔のサイクル“に陥らないためのポイントは？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/25/news046.html",
+      "summary": "2027年4月以降に始まる事業年度・連結会計年度の期首から「リースに関する会計基準」が適用される。経理だけの問題だと思われがちだが、実は総務が対応すべきことも多い……。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-11-24T23:00:00+00:00"
     },
