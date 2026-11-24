@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T15:33:36.701405+00:00",
+  "generated_at": "2026-11-24T15:47:44.087568+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3130,6 +3130,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3158,12 +3162,36 @@
       "published": "2026-11-24T16:00:00+00:00"
     },
     {
+      "title": "Tech Stocks Backslide After Epic Rally",
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?mod=rss_markets_main",
+      "summary": "Tech stocks are stumbling again, as fears around the AI trade creep back in a day after Jensen Huang’s return at Nvidia sparked the best day for U.S. stocks since April 2025.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T15:44:00+00:00"
+    },
+    {
+      "title": "AWS Weekly Roundup: Local Zone in Bogotá, 30-minute Lambda timeout, and more (November 24, 2026)",
+      "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/",
+      "summary": "Some limits shape architecture more than any feature does. AWS Lambda launched in 2014 with a 60-second timeout, moved to 5 minutes in 2015 and to 15 minutes in 2018, and then stayed there for eight years. Last week the limit doubled, and in the same week Lambda learned to run on GPUs and gave […]",
+      "source": "AWS ブログ (AWS)",
+      "category": "テクノロジー",
+      "published": "2026-11-24T15:39:59+00:00"
+    },
+    {
       "title": "楽天証券、顧客の資産残高168万件が漏洩　不正取引「確認されず」",
       "link": "https://www.asahi.com/articles/ASVCS4VQ0VCSULFA02JM.html?ref=rss",
       "summary": "",
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-24T15:33:31.174411+00:00"
+    },
+    {
+      "title": "BioNTech founders to raise $1bn for cancer start-up",
+      "link": "https://www.ft.com/content/00eace12-390a-492d-ae91-639ae0ac93f5?syn-25a6b1a6=1",
+      "summary": "Plural leads funding round for oncology company to be helmed by Uğur Şahin and Özlem Türeci",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T15:31:46+00:00"
     },
     {
       "title": "Crude Futures Pick Up After Sharp Drop",
