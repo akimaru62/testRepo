@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T14:33:44.313177+00:00",
+  "generated_at": "2026-11-24T14:47:53.784317+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3114,6 +3114,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3156,6 +3160,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-24T15:00:00+00:00"
+    },
+    {
+      "title": "US tech stocks slide as Jensen Huang return rally fades",
+      "link": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
+      "summary": "Shares in Anthropic dip below IPO price as investor relief over reinstatement of Nvidia co-founder subsides",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T14:34:25+00:00"
     },
     {
       "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
@@ -3212,6 +3224,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-24T13:23:47+00:00"
+    },
+    {
+      "title": "GTA 6 Running on Windows",
+      "link": "https://twitter.com/raul_bs3/status/2125213756238291075",
+      "summary": "Article URL: https://twitter.com/raul_bs3/status/2125213756238291075\nComments URL: https://news.ycombinator.com/item?id=50627783\nPoints: 13\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T13:19:31+00:00"
     },
     {
       "title": "中国側の警戒解けず　半導体調達網、米が締め付け―フアン氏復帰も",
