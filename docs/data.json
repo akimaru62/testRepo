@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T07:05:39.568543+00:00",
+  "generated_at": "2026-11-24T07:19:37.093241+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2986,6 +2986,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3022,12 +3026,76 @@
       "published": "2026-11-24T14:00:00+00:00"
     },
     {
+      "title": "練習球売却、社員を懲戒解雇　時事通信",
+      "link": "https://www.jiji.com/jc/article?k=2026112400685&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T07:19:33.341976+00:00"
+    },
+    {
+      "title": "困窮深刻、揺らぐ体制　フィデル・カストロ氏死去１０年―難局打開の糸口見えず・キューバ",
+      "link": "https://www.jiji.com/jc/article?k=2026112400118&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T07:19:33.341962+00:00"
+    },
+    {
+      "title": "日韓協力強化に意欲　高市首相、国会議長と会談",
+      "link": "https://www.jiji.com/jc/article?k=2026112400672&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T07:19:33.341940+00:00"
+    },
+    {
+      "title": "「自立」の７割、親から援助　Ｚ世代社会人の価値観―民間調査",
+      "link": "https://www.jiji.com/jc/article?k=2026112400212&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T07:19:33.341920+00:00"
+    },
+    {
+      "title": "タラップ故障の可能性大　高市首相出迎え時―中国",
+      "link": "https://www.jiji.com/jc/article?k=2026112400132&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T07:19:33.341869+00:00"
+    },
+    {
+      "title": "Ten-Year U.S. Treasury, German Bund Yields Seen Higher by End-2027",
+      "link": "https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8?mod=rss_markets_main",
+      "summary": "The 10-year Treasury yeild was higher. Deutsche Bank expects the 10-year Treasury and 10-year Bund yields to end 2027 at 5.05% and 3.45%, respectively.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T07:07:00+00:00"
+    },
+    {
+      "title": "Nikkei Rises 3.9%, Biggest Gain in Nearly Four Months",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-2-7-led-by-chip-metals-stocks-82c1bb9d?mod=rss_markets_main",
+      "summary": "Japan’s Nikkei Stock Average closed 3.9% higher at 58644.63, posting its biggest one-day percentage increase since July 31.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T07:04:00+00:00"
+    },
+    {
       "title": "キッコーマン 来年58品目値上げ",
       "link": "https://news.yahoo.co.jp/pickup/6603805?source=rss",
       "summary": "",
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-24T07:02:11+00:00"
+    },
+    {
+      "title": "木下優樹菜｢AI以下な人間が存在する｣｢世も末｣投稿が物議…\"裏垢\"だったThreadsが｢Xより治安悪い｣と言われる理由 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965664?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "元タレント木下優樹菜のSNS投稿が再び波紋を広げています。仕事関係者への不満をThreadsでぶちまけた今回､共感も集めつつ､一部では強い批判も噴出することに。Threadsは本当に本音を語ることが…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-24T07:00:00+00:00"
     },
     {
       "title": "情報流出で不安 防犯グッズ売れる",
@@ -3167,6 +3235,14 @@
     },
     {
       "title": "The Nvidia protocol: spies and Big Tech",
+      "link": "https://www.ft.com/content/c96c40c5-6b07-4433-b65f-19105e9ccb44?syn-25a6b1a6=1",
+      "summary": "AI groups are now at the heart of geopolitics. Some are not ready",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T05:00:16+00:00"
+    },
+    {
+      "title": "Big Tech’s blind spot",
       "link": "https://www.ft.com/content/c96c40c5-6b07-4433-b65f-19105e9ccb44?syn-25a6b1a6=1",
       "summary": "AI groups are now at the heart of geopolitics. Some are not ready",
       "source": "Financial Times",
