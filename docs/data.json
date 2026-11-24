@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T00:37:40.098960+00:00",
+  "generated_at": "2026-11-24T00:51:35.560781+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2878,9 +2878,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Nikkei Rises 2.7%, Led by Chip, Metals Stocks",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-2-7-led-by-chip-metals-stocks-82c1bb9d?mod=rss_markets_main",
+      "summary": "Japanese stocks were higher in early trade as Jensen Huang’s return as the Nvidia chief executive revives an artificial-intelligence trade.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T00:48:00+00:00"
+    },
+    {
+      "title": "NVIDIA時価総額 1日で151兆円増",
+      "link": "https://news.yahoo.co.jp/pickup/6603765?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-24T00:47:37+00:00"
+    },
+    {
+      "title": "日経平均 一時2200円超値上がり",
+      "link": "https://news.yahoo.co.jp/pickup/6603764?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-24T00:36:37+00:00"
+    },
+    {
+      "title": "Asian tech stocks surge in wake of Jensen Huang’s return",
+      "link": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47",
+      "summary": "Nvidia chief executive’s reinstatement sent Wall Street stocks higher",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T00:30:51+00:00"
+    },
     {
       "title": "日経平均 上げ幅一時2000円超",
       "link": "https://news.yahoo.co.jp/pickup/6603762?source=rss",
