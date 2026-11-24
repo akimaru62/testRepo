@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T01:34:33.236937+00:00",
+  "generated_at": "2026-11-24T01:47:28.368165+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2894,9 +2894,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "世界遺産が舞台の結婚式 人気",
+      "link": "https://news.yahoo.co.jp/pickup/6603772?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-24T01:38:24+00:00"
+    },
     {
       "title": "阿部未悠が出場権獲得　神谷そらは４打届かず―米女子ゴルフ予選会",
       "link": "https://www.jiji.com/jc/article?k=2026112400237&g=spo&m=rss",
@@ -2952,6 +2964,14 @@
       "source": "財務省",
       "category": "公的機関",
       "published": "2026-11-24T01:00:00+00:00"
+    },
+    {
+      "title": "Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity",
+      "link": "https://www.science.org/doi/10.1126/scisignal.aef1375",
+      "summary": "Article URL: https://www.science.org/doi/10.1126/scisignal.aef1375\nComments URL: https://news.ycombinator.com/item?id=50621977\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T00:53:46+00:00"
     },
     {
       "title": "Nikkei Rises 2.7%, Led by Chip, Metals Stocks",
