@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T12:24:57.718098+00:00",
+  "generated_at": "2026-11-24T12:37:05.411782+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3078,6 +3078,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3138,6 +3142,14 @@
       "published": "2026-11-24T14:00:00+00:00"
     },
     {
+      "title": "Oil Prices Rebound as Shipping Risks Persist",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e?mod=rss_markets_main",
+      "summary": "Traders weighed the prospect of a global supply surplus against persistent threats to energy shipments amid the Middle East conflict.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T12:33:00+00:00"
+    },
+    {
       "title": "ＪＤＩ、賠償請求の株主と和解　解決金３億円支払い",
       "link": "https://www.jiji.com/jc/article?k=2026112400952&g=soc&m=rss",
       "summary": "",
@@ -3176,6 +3188,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-24T12:07:59.595496+00:00"
+    },
+    {
+      "title": "EU edges towards Made in Europe deal for UK cars",
+      "link": "https://www.ft.com/content/b37579ba-a811-436b-bc00-95f5bfbb7fd9?syn-25a6b1a6=1",
+      "summary": "Inclusion in bloc’s subsidy scheme would be a significant diplomatic win for PM Andy Burnham",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T12:07:48+00:00"
     },
     {
       "title": "Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.",
