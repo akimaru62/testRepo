@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T21:33:15.377579+00:00",
+  "generated_at": "2026-11-24T21:47:44.531146+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3234,9 +3234,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "｢女子大生が胸を強調？｣｢100万円超のお布施も｣…過激化して物議｢近畿大学のミスコン｣候補者を責められぬ背景 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965711?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "近畿大学のミスコンが､SNSやネット投票の影響でかつてない物議を醸しています。巨額課金や過激な写真投稿､ルッキズムを巡る議論が渦巻くなか､学生らしからぬ過熱ぶりに｢大学イベントの意義｣とは何かが問わ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-24T21:45:00+00:00"
+    },
+    {
+      "title": "U.S. Treasury Yields Mixed Ahead of Inflation, GDP Data",
+      "link": "https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8?mod=rss_markets_main",
+      "summary": "U.S. Treasury yields were mixed across the board Tuesday as investors prepared for the personal consumption expenditures inflation report and GDP data Wednesday.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T21:42:00+00:00"
+    },
+    {
+      "title": "U.S. Stocks Mixed as Huang Relief Rally Fades",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-huang-relief-rally-fades-9fa9750a?mod=rss_markets_main",
+      "summary": "U.S. stocks finished mixed, with the Nasdaq and S&amp;P 500 giving back some of Monday’s rally, as traders digested the implications of President Donald Trump’s push to reinstall Jensen Huang as head of Nvidia.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T21:32:00+00:00"
+    },
     {
       "title": "How much more are richest Americans spending on the holidays compared to everyone else?",
       "link": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
@@ -3324,6 +3352,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-24T21:11:37+00:00"
+    },
+    {
+      "title": "Working with AI",
+      "link": "https://www.anthropic.com/research/working-with-ai",
+      "summary": "Article URL: https://www.anthropic.com/research/working-with-ai\nComments URL: https://news.ycombinator.com/item?id=50634734\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T21:07:38+00:00"
     },
     {
       "title": "U.S. Natural Gas Futures Recover Lost Ground",
