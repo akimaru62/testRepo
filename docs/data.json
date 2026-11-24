@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T16:33:20.145397+00:00",
+  "generated_at": "2026-11-24T16:47:44.597919+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3150,6 +3150,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3168,6 +3172,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-24T17:00:00+00:00"
+    },
+    {
+      "title": "Cyberattack Campaign Compromising Check Point Servers Across 22 Organizations",
+      "link": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign\nComments URL: https://news.ycombinator.com/item?id=50630594\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T16:32:17+00:00"
+    },
+    {
+      "title": "Anthropic falls below IPO price as tech rally fades",
+      "link": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
+      "summary": "Investor relief over reinstatement of Jensen Huang as Nvidia CEO subsides",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T16:26:16+00:00"
     },
     {
       "title": "Americans don’t like Trump’s tariffs. He’s doubling down anyway — as soon as this week.",
@@ -3192,6 +3212,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-24T16:12:38+00:00"
+    },
+    {
+      "title": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
+      "link": "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/",
+      "summary": "Article URL: https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/\nComments URL: https://news.ycombinator.com/item?id=50630245\nPoints: 9\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T16:08:29+00:00"
     },
     {
       "title": "A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it.",
