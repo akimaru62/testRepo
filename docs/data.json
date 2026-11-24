@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T20:05:28.513095+00:00",
+  "generated_at": "2026-11-24T20:17:33.183072+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3210,9 +3210,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "独居高齢者殺害、配送会社の男逮捕　昨年６月強殺容疑、通帳押収―広島県警",
+      "link": "https://www.jiji.com/jc/article?k=2026112500121&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T20:17:29.575243+00:00"
+    },
+    {
+      "title": "佐藤輝明、カブスと合意　６年１９１億円の大型契約―米大リーグ",
+      "link": "https://www.jiji.com/jc/article?k=2026112500110&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T20:17:29.575207+00:00"
+    },
+    {
+      "title": "海外赴任者数が多い企業ランキングTOP100！ 3位は三井物産､2位トヨタ自動車､では1位？ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965496?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢海外で働く｣という夢を持つあなたにとって､どの企業が多くの社員を海外に送り出しているかは大きな関心事でしょう。『就職四季報』の最新データをもとに､海外赴任者数が多い企業ランキングを紹介します。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-24T20:00:00+00:00"
+    },
     {
       "title": "GameStop has been saved by trading cards and even Rolex watches, say Wall Street’s newest bulls",
       "link": "https://www.marketwatch.com/story/gamestop-has-been-saved-by-trading-cards-and-even-rolex-watches-say-wall-streets-newest-bulls-a932d74c?mod=mw_rss_topstories",
@@ -3220,6 +3248,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-24T19:48:00+00:00"
+    },
+    {
+      "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+      "link": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
+      "summary": "Article URL: https://andlukyane.com/blog/cayley-graphs-and-torchtpu\nComments URL: https://news.ycombinator.com/item?id=50633424\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T19:40:43+00:00"
     },
     {
       "title": "Huang says he still doesn’t believe in Nvidia succession planning",
@@ -3473,6 +3509,14 @@
       "title": "Active Intrusion Campaign Against Check Point Security Management Servers",
       "link": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
       "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign\nComments URL: https://news.ycombinator.com/item?id=50630594\nPoints: 183\n# Comments: 59",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T16:32:17+00:00"
+    },
+    {
+      "title": "Active intrusion campaign against CheckPoint security management servers",
+      "link": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign\nComments URL: https://news.ycombinator.com/item?id=50630594\nPoints: 207\n# Comments: 74",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-24T16:32:17+00:00"
