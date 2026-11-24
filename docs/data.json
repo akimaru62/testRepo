@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T14:47:53.784317+00:00",
+  "generated_at": "2026-11-24T15:05:53.126756+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3118,6 +3118,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3162,12 +3166,52 @@
       "published": "2026-11-24T15:00:00+00:00"
     },
     {
+      "title": "The number of 401(k) millionaires drops as the stock market swings",
+      "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
+      "summary": "‘It was a rocky quarter’: 401(k) balances drop and affordability concerns persist, Fidelity says",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-24T14:59:00+00:00"
+    },
+    {
+      "title": "Nvidia’s stock drops as these major questions loom over Jensen Huang’s return",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-these-major-questions-loom-over-jensen-huangs-return-9096636f?mod=mw_rss_topstories",
+      "summary": "Huang’s reinstatement as CEO doesn’t fix regulatory issues or the investigation into his relationship with a former Megaspeed executive.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-24T14:59:00+00:00"
+    },
+    {
+      "title": "What to do if your Thanksgiving flight gets delayed — especially with a nor’easter brewing",
+      "link": "https://www.marketwatch.com/story/what-to-do-if-your-thanksgiving-flight-gets-delayed-especially-with-a-noreaster-brewing-566fe933?mod=mw_rss_topstories",
+      "summary": "Plus some advice on cutting your Thanksgiving grocery tab.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-24T14:56:00+00:00"
+    },
+    {
+      "title": "Anthropic’s stock just broke below its IPO price for the first time",
+      "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+      "summary": "Shares traded below their IPO price of $83 on Tuesday morning, less than a week after they first started trading on the Nasdaq.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-24T14:55:00+00:00"
+    },
+    {
       "title": "US tech stocks slide as Jensen Huang return rally fades",
       "link": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
       "summary": "Shares in Anthropic dip below IPO price as investor relief over reinstatement of Nvidia co-founder subsides",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-24T14:34:25+00:00"
+    },
+    {
+      "title": "MI5 warns UK companies supplying Ukraine military about Russian sabotage risk",
+      "link": "https://www.ft.com/content/d9f17145-cdc0-424a-bace-7147a971d0ab?syn-25a6b1a6=1",
+      "summary": "Acts could include arson attacks carried out by proxy agents, say security chiefs",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T14:30:21+00:00"
     },
     {
       "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
