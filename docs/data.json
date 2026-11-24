@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T08:22:36.612956+00:00",
+  "generated_at": "2026-11-24T08:34:00.880929+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3010,6 +3010,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3068,6 +3072,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-24T14:00:00+00:00"
+    },
+    {
+      "title": "Oil Prices Fall as Traders Weigh Supply Outlook, Shipping Risks",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e?mod=rss_markets_main",
+      "summary": "Traders weighed the prospect of a global supply surplus against persistent threats to energy shipments amid the Middle East conflict.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T08:27:00+00:00"
     },
     {
       "title": "冬は高温、日本海側少雪か　３カ月予報、太平洋側は多雨―気象庁",
