@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T16:20:21.789936+00:00",
+  "generated_at": "2026-11-24T16:33:20.145397+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3142,6 +3142,14 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3162,12 +3170,28 @@
       "published": "2026-11-24T17:00:00+00:00"
     },
     {
+      "title": "Americans don’t like Trump’s tariffs. He’s doubling down anyway — as soon as this week.",
+      "link": "https://www.marketwatch.com/story/americans-dont-like-trumps-tariffs-hes-doubling-down-anyway-as-soon-as-this-week-74c8bed5?mod=mw_rss_topstories",
+      "summary": "The move risks new trade friction, but spares already imported holiday goods.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-24T16:24:00+00:00"
+    },
+    {
       "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
       "link": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
       "summary": "Medicare Advantage is starting to lose its all-in-one benefit.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-24T16:18:00+00:00"
+    },
+    {
+      "title": "Tidal Bans AI-Generated Music",
+      "link": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+      "summary": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/\nComments URL: https://news.ycombinator.com/item?id=50630309\nPoints: 14\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T16:12:38+00:00"
     },
     {
       "title": "A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it.",
@@ -3861,6 +3885,14 @@
       "title": "Stock Market Today: Tech Stocks Slide Back After Epic Rally",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026?mod=rss_markets_main",
       "summary": "Anthropic drops below IPO price, Nvidia slumps",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T09:53:51+00:00"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026?mod=rss_markets_main",
+      "summary": "Anthropic plunges more than 12%, dropping below its IPO price",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-24T09:53:51+00:00"
