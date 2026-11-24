@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T16:05:59.829891+00:00",
+  "generated_at": "2026-11-24T16:20:21.789936+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3138,6 +3138,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3156,6 +3160,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-24T17:00:00+00:00"
+    },
+    {
+      "title": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest",
+      "link": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
+      "summary": "Medicare Advantage is starting to lose its all-in-one benefit.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-24T16:18:00+00:00"
+    },
+    {
+      "title": "A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it.",
+      "link": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
+      "summary": "As Americans prepare to pull out their credit cards for the holiday shopping season, President Donald Trump is saying he’s up for capping the interest rates they’re paying on their cards.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-24T16:08:00+00:00"
     },
     {
       "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
@@ -3180,6 +3200,14 @@
       "source": "GitHub Blog",
       "category": "開発者向け",
       "published": "2026-11-24T16:00:00+00:00"
+    },
+    {
+      "title": "Shanghai’s powerful Communist Party boss toppled as Xi  escalates purge",
+      "link": "https://www.ft.com/content/02240d42-ccd8-4b4d-b0e3-49a04c950eea?syn-25a6b1a6=1",
+      "summary": "Chen Jining under investigation over suspected ‘severe violations of discipline and laws’",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T15:55:20+00:00"
     },
     {
       "title": "Tech Stocks Backslide After Epic Rally",
