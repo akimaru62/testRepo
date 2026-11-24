@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T08:34:00.880929+00:00",
+  "generated_at": "2026-11-24T08:47:29.448246+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3014,6 +3014,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3072,6 +3076,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-24T14:00:00+00:00"
+    },
+    {
+      "title": "Gold Falls Ahead of Key U.S. Inflation Data",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-across-markets-ae66946a?mod=rss_markets_main",
+      "summary": "Gold prices fell as investors assessed the prospect of higher interest rates in the U.S. ahead of key inflation data later this week.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T08:37:00+00:00"
+    },
+    {
+      "title": "European Stocks Mixed in Muted Opening Trade",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-2-7-led-by-chip-metals-stocks-82c1bb9d?mod=rss_markets_main",
+      "summary": "European stock indexes were mixed at the open. Tech stocks were little moved after soaring Monday, while energy-intensive stocks gained.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T08:36:00+00:00"
     },
     {
       "title": "Oil Prices Fall as Traders Weigh Supply Outlook, Shipping Risks",
@@ -3135,6 +3155,14 @@
       "summary": "",
       "source": "財務省",
       "category": "公的機関",
+      "published": "2026-11-24T08:00:00+00:00"
+    },
+    {
+      "title": "アンソロピックはなぜ、OpenAIを差し置いて「史上最大IPO」できたのか　“事業展開のうまさ“を識者が語る",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/24/news035.html",
+      "summary": "Anthropicが上場して「史上最大のIPO」を成し遂げた。「AIによる人類滅亡リスク」を警告していた同社。ビジネス面の強みはどこにあるのか、識者に聞いた。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
       "published": "2026-11-24T08:00:00+00:00"
     },
     {
