@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T20:17:33.183072+00:00",
+  "generated_at": "2026-11-24T20:33:30.310009+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3214,9 +3214,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "第36回RJCカーオブザイヤー決定――｢e SKY｣｢RACCO｣が示す軽EV時代の幕開けと選考委員として感じたクルマの多様性 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965542?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢第36回（2027年次）RJCカーオブザイヤー｣が決定。選考委員でもある筆者が､最終選考に残った車両をレビューする。｢多様化する自動車の価値観を鮮やかに映し出す選考会となった｣という筆者の目に写っ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-24T20:30:00+00:00"
+    },
+    {
+      "title": "Huang says he still does not believe in CEO succession planning at Nvidia",
+      "link": "https://www.ft.com/content/cd1831d0-c3f1-4705-b8e2-badfb5e39764?syn-25a6b1a6=1",
+      "summary": "Chief executive speaks to staff at first company-wide meeting after returning to the chipmaker",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T20:18:29+00:00"
+    },
     {
       "title": "独居高齢者殺害、配送会社の男逮捕　昨年６月強殺容疑、通帳押収―広島県警",
       "link": "https://www.jiji.com/jc/article?k=2026112500121&g=soc&m=rss",
@@ -3293,6 +3313,14 @@
       "title": "What Cloudflare Doesn't Tell You",
       "link": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
       "summary": "Article URL: https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/\nComments URL: https://news.ycombinator.com/item?id=50632883\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T19:03:55+00:00"
+    },
+    {
+      "title": "Cloudflare hides shortcomings of the underlying infrastructure",
+      "link": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
+      "summary": "Article URL: https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/\nComments URL: https://news.ycombinator.com/item?id=50632883\nPoints: 90\n# Comments: 58",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-24T19:03:55+00:00"
@@ -3669,6 +3697,14 @@
       "title": "Show HN: Brickie – deploy sandboxes in your own AWS account",
       "link": "https://github.com/hatchet-dev/brickie",
       "summary": "Hey HN, this is Alexander from Hatchet (https://github.com/hatchet-dev/hatchet). We’re releasing a new open-source project today called Brickie. Brickie lets you run sandboxes in your own cloud account, primarily targeting EKS on AWS.Sandboxes are an incredibly useful primitive for agentic applications. They serve two main functions: (1) a way for the agent to safely execute untrusted code, and (2) a durable filesystem for agents to preserve their state via snapshots.We decided to start building this after we started on a package called `@hatchet-dev/sandbox` to integrate more directly with various sandbox providers, like E2B, Daytona, Archil, and Modal. We discovered that a lot of users had a requirement to self-host their sandbox infra for part of (or all of) their stack, due to a self-host requirement for enterprises. We searched around for the easiest way for users to self-host a sandbox stack and agent-sandbox (https://agent-sandbox.sigs.k8s.io) was the closest thing to what we had in mind: it’s a kubernetes-sigs project implementing a Kubernetes operator which spawns sandboxes as pods on supported isolation layers like Firecracker, gVisor, and Kata Containers. We learned that many platform teams were adopting this because it's a standard k8s-based deployment model and is pretty easy to customize the isolation layer, network config, etc.However, it was missing some necessary features. brickie builds on top of the agent-sandbox project and extends it to support proper sandbox (filesystem-based) snapshots, fork, pause, and resume, all while bundling a proper orchestration and observability layer via Hatchet.Zooming out a bit, Hatchet is an orchestration engine which supports durable execution (https://hatchet.run/blog/durable-execution). Throughout 2026, we saw high adoption from users building agents using durable workflows as the statefulness layer and execution model. But as sandboxes became more popular, something didn’t sit right with us. Sandboxes _also_ provide a durability layer, but at the filesystem level, and it became important to disambiguate what we call session state from filesystem state. I wrote a lot more about this here: https://hatchet.run/blog/agent-statefulness.The problem with having state in multiple places is that it needs coordination, which adds complexity to your application. This was part of the motivation behind `@hatchet-dev/sandbox`: we wanted to provide an easy way to take coordinated snapshots of agent state, even when using an external sandbox provider.So when we started looking at self-hosted sandbox options, it was critical that this architecture was supported well. We decided to support this in brickie using a pretty simple snapshotting mechanism which tars and stores snapshots in an object store (S3). This is something we’re actively working to improve and make more performant.Brickie is early and in beta, we're looking for testers, contributors, and feedback on the deployment model. Thanks in advance!\n\nComments URL: https://news.ycombinator.com/item?id=50629936\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T15:48:34+00:00"
+    },
+    {
+      "title": "Show HN: Brickie – Deploy sandboxes in your own AWS account",
+      "link": "https://github.com/hatchet-dev/brickie",
+      "summary": "Hey HN, this is Alexander from Hatchet (https://github.com/hatchet-dev/hatchet). We’re releasing a new open-source project today called Brickie. Brickie lets you run sandboxes in your own cloud account, primarily targeting EKS on AWS.Sandboxes are an incredibly useful primitive for agentic applications. They serve two main functions: (1) a way for the agent to safely execute untrusted code, and (2) a durable filesystem for agents to preserve their state via snapshots.We decided to start building this after we started on a package called `@hatchet-dev/sandbox` to integrate more directly with various sandbox providers, like E2B, Daytona, Archil, and Modal. We discovered that a lot of users had a requirement to self-host their sandbox infra for part of (or all of) their stack, due to a self-host requirement for enterprises. We searched around for the easiest way for users to self-host a sandbox stack and agent-sandbox (https://agent-sandbox.sigs.k8s.io) was the closest thing to what we had in mind: it’s a kubernetes-sigs project implementing a Kubernetes operator which spawns sandboxes as pods on supported isolation layers like Firecracker, gVisor, and Kata Containers. We learned that many platform teams were adopting this because it's a standard k8s-based deployment model and is pretty easy to customize the isolation layer, network config, etc.However, it was missing some necessary features. brickie builds on top of the agent-sandbox project and extends it to support proper sandbox (filesystem-based) snapshots, fork, pause, and resume, all while bundling a proper orchestration and observability layer via Hatchet.Zooming out a bit, Hatchet is an orchestration engine which supports durable execution (https://hatchet.run/blog/durable-execution). Throughout 2026, we saw high adoption from users building agents using durable workflows as the statefulness layer and execution model. But as sandboxes became more popular, something didn’t sit right with us. Sandboxes _also_ provide a durability layer, but at the filesystem level, and it became important to disambiguate what we call session state from filesystem state. I wrote a lot more about this here: https://hatchet.run/blog/agent-statefulness.The problem with having state in multiple places is that it needs coordination, which adds complexity to your application. This was part of the motivation behind `@hatchet-dev/sandbox`: we wanted to provide an easy way to take coordinated snapshots of agent state, even when using an external sandbox provider.So when we started looking at self-hosted sandbox options, it was critical that this architecture was supported well. We decided to support this in brickie using a pretty simple snapshotting mechanism which tars and stores snapshots in an object store (S3). This is something we’re actively working to improve and make more performant.Brickie is early and in beta, we're looking for testers, contributors, and feedback on the deployment model. Thanks in advance!\n\nComments URL: https://news.ycombinator.com/item?id=50629936\nPoints: 12\n# Comments: 0",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-24T15:48:34+00:00"
