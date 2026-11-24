@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T02:34:17.975478+00:00",
+  "generated_at": "2026-11-24T02:47:30.153314+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2910,9 +2910,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "セカストが急成長 人気の要因は",
+      "link": "https://news.yahoo.co.jp/pickup/6603777?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-24T02:39:20+00:00"
+    },
     {
       "title": "ロシア軍機が防空識別圏進入　韓国",
       "link": "https://www.jiji.com/jc/article?k=2026112400267&g=int&m=rss",
@@ -4053,6 +4065,14 @@
       "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
       "link": "https://twitter.com/ylecun/status/2124550037912920090",
       "summary": "Article URL: https://twitter.com/ylecun/status/2124550037912920090\nComments URL: https://news.ycombinator.com/item?id=50615308\nPoints: 551\n# Comments: 297",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-23T17:07:26+00:00"
+    },
+    {
+      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+      "link": "https://twitter.com/ylecun/status/2124550037912920090",
+      "summary": "Article URL: https://twitter.com/ylecun/status/2124550037912920090\nComments URL: https://news.ycombinator.com/item?id=50615308\nPoints: 1229\n# Comments: 683",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-23T17:07:26+00:00"
