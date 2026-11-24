@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T03:33:29.383372+00:00",
+  "generated_at": "2026-11-24T03:48:07.148362+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2926,9 +2926,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "くら寿司が「熟成まぐろ」など22品目値上げ　魚介の仕入れ値高騰で",
+      "link": "https://www.asahi.com/articles/ASVCS127HVCSPLFA001M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-24T03:48:03.095450+00:00"
+    },
     {
       "title": "パオロ・ブルガリ氏死去、８９歳　世界的宝飾ブランドに―伊",
       "link": "https://www.jiji.com/jc/article?k=2026112400391&g=int&m=rss",
@@ -3016,6 +3028,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-24T02:39:20+00:00"
+    },
+    {
+      "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+      "link": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
+      "summary": "Article URL: https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription\nComments URL: https://news.ycombinator.com/item?id=50622774\nPoints: 25\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T02:27:02+00:00"
     },
     {
       "title": "ロシア軍機が防空識別圏進入　韓国",
