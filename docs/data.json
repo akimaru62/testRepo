@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T19:04:27.492207+00:00",
+  "generated_at": "2026-11-24T19:17:30.359644+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3194,9 +3194,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "What Cloudflare Doesn't Tell You",
+      "link": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
+      "summary": "Article URL: https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/\nComments URL: https://news.ycombinator.com/item?id=50632883\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T19:03:55+00:00"
+    },
     {
       "title": "Feeling tired and losing your hair? You might have low iron — even if you’ve tested ‘normal’ before.",
       "link": "https://www.marketwatch.com/story/feeling-tired-and-losing-your-hair-you-might-have-low-iron-even-if-youve-tested-normal-before-96fe0d29?mod=mw_rss_topstories",
@@ -3204,6 +3216,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-24T19:02:00+00:00"
+    },
+    {
+      "title": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
+      "link": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
+      "summary": "Article URL: https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026\nComments URL: https://news.ycombinator.com/item?id=50632756\nPoints: 22\n# Comments: 9",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T18:55:12+00:00"
     },
     {
       "title": "Gold Futures Give Back Gains Following Nvidia-Driven Rally",
@@ -3358,6 +3378,14 @@
       "published": "2026-11-24T17:00:00+00:00"
     },
     {
+      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+      "link": "https://news.ycombinator.com/item?id=50630809",
+      "summary": "Basically the title.Anthropic is accusing me and my company of using their API for distillation. We are not. We do not train our own models.Our only usage which I think could get us flagged is automated regression benchmarks whenever we change some AI settings. But this is not against their policy?Now I've got 24h to prove we didn't.Has anyone dealt with this too? How can you prove that you are not distilling Anthropic models without breaking your user's privacy?\n\nComments URL: https://news.ycombinator.com/item?id=50630809\nPoints: 10\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T16:45:44+00:00"
+    },
+    {
       "title": "Cyberattack Campaign Compromising Check Point Servers Across 22 Organizations",
       "link": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
       "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign\nComments URL: https://news.ycombinator.com/item?id=50630594\nPoints: 5\n# Comments: 0",
@@ -3369,6 +3397,14 @@
       "title": "Cyberattack campaign compromising Check Point servers across 22 organizations",
       "link": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
       "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign\nComments URL: https://news.ycombinator.com/item?id=50630594\nPoints: 51\n# Comments: 19",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T16:32:17+00:00"
+    },
+    {
+      "title": "Active Intrusion Campaign Against Check Point Security Management Servers",
+      "link": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign\nComments URL: https://news.ycombinator.com/item?id=50630594\nPoints: 183\n# Comments: 59",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-24T16:32:17+00:00"
@@ -3409,6 +3445,14 @@
       "title": "How to Make a Lovable City",
       "link": "https://www.worksinprogress.news/p/how-to-make-a-lovable-city",
       "summary": "Article URL: https://www.worksinprogress.news/p/how-to-make-a-lovable-city\nComments URL: https://news.ycombinator.com/item?id=50630423\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T16:19:55+00:00"
+    },
+    {
+      "title": "Camillo Sitte made the blueprint for beautiful cities",
+      "link": "https://www.worksinprogress.news/p/how-to-make-a-lovable-city",
+      "summary": "Article URL: https://www.worksinprogress.news/p/how-to-make-a-lovable-city\nComments URL: https://news.ycombinator.com/item?id=50630423\nPoints: 82\n# Comments: 55",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-24T16:19:55+00:00"
@@ -3542,6 +3586,14 @@
       "published": "2026-11-24T15:31:46+00:00"
     },
     {
+      "title": "'Castles' Review",
+      "link": "https://www.wsj.com/arts-culture/books/castles-review-playing-defense-da10d776?st=tR9KT4&reflink=desktopwebshare_permalink",
+      "summary": "Article URL: https://www.wsj.com/arts-culture/books/castles-review-playing-defense-da10d776?st=tR9KT4&amp;reflink=desktopwebshare_permalink\nComments URL: https://news.ycombinator.com/item?id=50629555\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T15:24:29+00:00"
+    },
+    {
       "title": "Crude Futures Pick Up After Sharp Drop",
       "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-higher-on-likely-technical-recovery-3d1650f7?mod=rss_markets_main",
       "summary": "Oil futures picked up after solid declines the previous session, with the market continuing to weigh abundant supply against conflict risks.",
@@ -3670,6 +3722,14 @@
       "published": "2026-11-24T14:54:10+00:00"
     },
     {
+      "title": "Splitting USB-C: USB 3 and USB 2 on one port",
+      "link": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
+      "summary": "Article URL: https://www.frankchiarulli.com/blog/splitting-usb-c/\nComments URL: https://news.ycombinator.com/item?id=50629106\nPoints: 68\n# Comments: 48",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T14:54:10+00:00"
+    },
+    {
       "title": "Anthropic is below its IPO price",
       "link": "https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa",
       "summary": "Article URL: https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa\nComments URL: https://news.ycombinator.com/item?id=50628932\nPoints: 7\n# Comments: 0",
@@ -3745,6 +3805,14 @@
       "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
       "link": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
       "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading\nComments URL: https://news.ycombinator.com/item?id=50627836\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T13:23:47+00:00"
+    },
+    {
+      "title": "Anthropic breaks below $83 IPO price",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading\nComments URL: https://news.ycombinator.com/item?id=50627836\nPoints: 148\n# Comments: 379",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-24T13:23:47+00:00"
