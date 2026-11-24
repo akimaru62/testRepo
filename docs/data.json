@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T17:33:02.879950+00:00",
+  "generated_at": "2026-11-24T17:47:29.946106+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3166,9 +3166,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?mod=rss_markets_main",
+      "summary": "Tech stocks stumbled again, as fears around the AI trade creep back in a day after Jensen Huang’s return at Nvidia sparked the best day for U.S. stocks since April 2025.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T17:34:00+00:00"
+    },
     {
       "title": "「AI等の健全な利活用の推進に関する研究会」（第１回）議事次第について公表しました。",
       "link": "https://www.fsa.go.jp/singi/ai_2026/shiryou/20261124.html",
@@ -3264,6 +3276,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-24T16:12:38+00:00"
+    },
+    {
+      "title": "Show HN: Mason – a lightweight Postgres read-replica, built on columnar storage",
+      "link": "https://masondata.ai/",
+      "summary": "Hi HN! TLDR: we’ve built an open-source drop-in replacement for a postgres read-replica, powered by duckdb’s columnar compute engine. It’s very fast. And it looks like postgres.So, this started out as: let’s just connect Clickhouse to our postgres dbs and throw our analytics queries at it instead. That will speed everything up.  But we quickly found that 1) Clickhouse comes with quite the learning curve (engine optimisation) to make it fast (we needed something we could easily drop in to any customer’s postgres scenario), and 2) we had underestimated how different clickhouse’s SQL syntax was to postgres.  Don’t get me wrong: we love Clickhouse (it’s ridiculously fast if you know what queries to expect), it just didn’t work for our ad-hoc postgres workloads.So we went searching for alternatives that were 1) more plug-and-play and 2) looked a lot more like postgres.We dismissed a bunch based on desk research alone:- pg_mooncake (seems to have stalled since data bricks bought them)- pg_duckdb (seems to offer fast queries, or fresh data, but not both - we needed both)- materialize/risingwave/readyset (like Clickhouse, they require knowing the query shapes upfront - not ideal for ad-hoc workloads)- firebolt (license makes it challenging to offer to our customers)- redshift / alloydb / etc (we wanted something cloud-provider agnostic)And we shortlisted 3:- pg_clickhouse (Postgres extension that parses SQL in Postgres and pushes the work down to ClickHouse)- cedarDB  (closed-source, Postgres-compatible analytical database)- duckdb  (open-source, embedded columnar analytics engine with a Postgres-like SQL dialect)We needed to know how they would perform on real postgres queries, so we took a backlog of 5,410 (hand-written) queries (chosen because they had been slow to execute against postgres) from 159 real postgres databases.  We then generated synthetic data (dynamically using the schemas from those 159 databases) to fill 159 local databases so we could run the experiment.We then spun up the 3 short-listed tools locally, and ran each of the 5,410 queries against both postgres and the 3 tools, and compared the results:- pg_clickhouse (matched postgres 59.4% of the time, refused 39.9% of the queries and was “wrong” 0.8% of the time).- cedarDB (matched postgres 88.1% of the time, refused 8% of the queries and was “wrong” 3.9% of the time).- duckdb (matched postgres 84.1% of the time, refused 14.3% of the queries and was “wrong” 1.6% of the time).Matched meant they returned exactly the same result as postgres.  Refused meant they returned an error message (usually telling you some syntax isn’t recognised). And “wrong” meant they didn’t return the same results as postgres.  I appreciate that arguably postgres may be the one that is wrong in some cases - but for our use case, we considered postgres the golden source of truth.So, both duckdb and cedardb performed pretty well (correctly handled more than 80% of the postgres queries we threw at it), out-of-the box.  But we really still wanted to try and cover that long-tail.We chose duckdb as its open-source license would allow us to easily work on the long tail to get the postgres SQL parity we wanted.So, Mason (linked above), is what we built, powered by duckdb, which now matches postgres on 96% of our 5,410 queries, plus hundreds of other queries that we added, testing it with Metabase, Grafana, Superset, DBeaver and Trevor.io.  For the remaining 4%, it errors with a nice clear message telling you how to rewrite your SQL.We’d love your feedback on what we’ve built.  Useful?  How can we make it better?\n\nComments URL: https://news.ycombinator.com/item?id=50630294\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T16:11:52+00:00"
     },
     {
       "title": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
