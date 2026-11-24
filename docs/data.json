@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T04:20:34.625291+00:00",
+  "generated_at": "2026-11-24T04:33:09.438965+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2938,9 +2938,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "令和8年11月20日からの大雪に係る災害等に対する金融上の措置について（福島県）",
+      "link": "http://www.boj.or.jp/about/bcp/fso/fso261124a.pdf",
+      "summary": "",
+      "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-11-24T04:30:00+00:00"
+    },
     {
       "title": "関文科相、「職務で責任を果たす」　自宅家賃に政治資金の報道も",
       "link": "https://www.jiji.com/jc/article?k=2026112400503&g=pol&m=rss",
@@ -2972,6 +2984,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-24T04:18:22+00:00"
+    },
+    {
+      "title": "Drone Maps of Salvage Yards",
+      "link": "https://salvageyarddrone.wordpress.com/",
+      "summary": "Article URL: https://salvageyarddrone.wordpress.com/\nComments URL: https://news.ycombinator.com/item?id=50623515\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T04:00:28+00:00"
     },
     {
       "title": "くら寿司が「熟成まぐろ」など22品目値上げ　魚介の仕入れ値高騰で",
@@ -296419,6 +296439,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2023-09-11T10:02:37+00:00"
+    },
+    {
+      "title": "sial.si - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4WWZrSmwtckZiNm05Y090SDdDbklzT0dldWpjTk15UlgwS3ExSDRyS0tRc3V5X2pJT1dNNGtxNkk3NEY2MGdSdi1OS0pOS0l6RlFhdUtjOGh0Wll2MWc?oc=5",
+      "summary": "sial.si&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2023-09-09T01:09:16+00:00"
     },
     {
       "title": "6482.T - | Stock Price & Latest News - Reuters",
