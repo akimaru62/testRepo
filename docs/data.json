@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T11:47:22.819191+00:00",
+  "generated_at": "2026-11-24T12:08:06.742444+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3070,6 +3070,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3128,6 +3132,38 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-24T14:00:00+00:00"
+    },
+    {
+      "title": "「全テレビ番組、2040年までに同時配信」　総務省の提案が波紋",
+      "link": "https://www.asahi.com/articles/ASVCS3G61VCSUCVL037M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-24T12:07:59.595496+00:00"
+    },
+    {
+      "title": "Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.",
+      "link": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories",
+      "summary": "Do it poorly, and you trigger taxes you didn’t even know existed.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-24T12:01:00+00:00"
+    },
+    {
+      "title": "This billionaire bought Nvidia in anticipation of Jensen Huang’s return — and warns the S&P 500 could fall by a third",
+      "link": "https://www.marketwatch.com/story/this-billionaire-bought-nvidia-in-anticipation-of-jensen-huangs-return-and-warns-the-s-p-500-could-fall-by-a-third-dcff9489?mod=mw_rss_topstories",
+      "summary": "Jim Mellon is a billionaire investor with strong views on diverse asset classes. He’s bearish on the AI sector and U.S. stocks generally but he sees real value in Chinese equity markets and long-term Japanese government debt",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-24T11:59:00+00:00"
+    },
+    {
+      "title": "Russian navy licks its wounds as another warship is sunk",
+      "link": "https://www.ft.com/content/ef3cfa29-4613-426c-9b87-dd76664e6859?syn-25a6b1a6=1",
+      "summary": "Ukrainian drones have struck Moscow’s warships and freighters in the Black Sea, Baltic and Mediterranean",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T11:51:27+00:00"
     },
     {
       "title": "消費減税で便乗値上げ、ライフ社長「可能性極めて低い」　国会で説明",
@@ -3384,6 +3420,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-24T09:50:22+00:00"
+    },
+    {
+      "title": "Just a Few Bugs",
+      "link": "https://www.justafewbugs.xyz/",
+      "summary": "Article URL: https://www.justafewbugs.xyz/\nComments URL: https://news.ycombinator.com/item?id=50625953\nPoints: 10\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T09:47:59+00:00"
     },
     {
       "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
