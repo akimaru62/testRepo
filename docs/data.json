@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T10:33:29.543016+00:00",
+  "generated_at": "2026-11-24T10:47:42.619421+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3046,6 +3046,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3104,6 +3108,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-24T14:00:00+00:00"
+    },
+    {
+      "title": "Dollar’s Fortunes Closely Linked to AI Trade",
+      "link": "https://www.wsj.com/articles/dollar-stays-strong-after-nvidia-news-boosts-u-s-tech-stocks-a0c603c2?mod=rss_markets_main",
+      "summary": "The DXY dollar index fell after hitting a 20-month high. Ebury said the currency’s fortunes are now closely tied with the AI trade, and every swing in appetite for the theme is taking the dollar along for the ride.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T10:31:00+00:00"
     },
     {
       "title": "For Better or Worse, the Fate of the AI Boom Is in Nvidia’s Hands",
