@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T06:09:08.989376+00:00",
+  "generated_at": "2026-11-24T06:27:24.617071+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -2970,6 +2970,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3004,6 +3008,30 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-24T14:00:00+00:00"
+    },
+    {
+      "title": "衆院、福田元首相に弔詞",
+      "link": "https://www.jiji.com/jc/article?k=2026112400585&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T06:27:15.034946+00:00"
+    },
+    {
+      "title": "重要土地法改正案が衆院通過　所有移転許可制に",
+      "link": "https://www.jiji.com/jc/article?k=2026112400624&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T06:27:15.034931+00:00"
+    },
+    {
+      "title": "ＪＲ芸備線（げいびせん）の存廃を巡る全国初の「再構築協議会」で、国は一部区間の「バス転換」を盛り込んだ骨子案をまとめた",
+      "link": "https://www.jiji.com/jc/article?k=2026112400612&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-24T06:27:15.034892+00:00"
     },
     {
       "title": "東電 廃炉・復興で新組織設立へ",
@@ -3076,6 +3104,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-24T04:43:42+00:00"
+    },
+    {
+      "title": "Online Backrooms",
+      "link": "https://onlinebackrooms.com/",
+      "summary": "Article URL: https://onlinebackrooms.com/\nComments URL: https://news.ycombinator.com/item?id=50623812\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T04:42:02+00:00"
     },
     {
       "title": "Asian Equities Rebound as Huang Reinstatement Sparks AI-Stock Rally",
