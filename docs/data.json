@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T18:33:36.744888+00:00",
+  "generated_at": "2026-11-24T18:47:20.997507+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3186,9 +3186,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Comex Gold Settles 2.45% Lower at $3559.90",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-risk-on-sentiment-across-markets-ae66946a?mod=rss_markets_main",
+      "summary": "Gold settled 2.4% lower, down four of the past five sessions, while silver fell  5.5% to a new 52-week low.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T18:44:00+00:00"
+    },
+    {
+      "title": "U.S. Treasury Auction of 5-Year Note Shows Slightly Soft Demand",
+      "link": "https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8?mod=rss_markets_main",
+      "summary": "The U.S. Treasury’s auction of 5-year notes showed signs of slightly softer demand.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T18:38:00+00:00"
+    },
+    {
+      "title": "Micron’s stock falls as an analyst warns about a future supply glut",
+      "link": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
+      "summary": "A BNP Paribas analyst says the risk of an  “oversupply scenario is mounting” for memory chips, and that could threaten Micron’s pricing power.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-24T18:33:00+00:00"
+    },
     {
       "title": "Tesla has a ‘legitimate multitrillion-dollar opportunity’ in robotaxis, says former skeptic",
       "link": "https://www.marketwatch.com/story/tesla-has-a-legitimate-multitrillion-dollar-opportunity-in-robotaxis-says-former-skeptic-23507364?mod=mw_rss_topstories",
@@ -3196,6 +3224,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-24T18:28:00+00:00"
+    },
+    {
+      "title": "“Pervert glasses\" named word of the year by Macquarie Dictionary",
+      "link": "https://www.macquariedictionary.com.au/macquarie-dictionary-word-of-the-year-for-2026/",
+      "summary": "Article URL: https://www.macquariedictionary.com.au/macquarie-dictionary-word-of-the-year-for-2026/\nComments URL: https://news.ycombinator.com/item?id=50632214\nPoints: 32\n# Comments: 11",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T18:21:01+00:00"
     },
     {
       "title": "公明、統一選で自民推薦せず　「政治とカネ」、定数減にも反発",
