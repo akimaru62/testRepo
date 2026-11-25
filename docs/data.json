@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T05:19:24.466430+00:00",
+  "generated_at": "2026-11-25T05:33:23.127193+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3362,9 +3362,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Invisible Wave Hits California, Oregon and Canada as Towns Evacuate",
+      "link": "https://www.abovethenormnews.com/2026/11/24/king-tides-california/",
+      "summary": "Article URL: https://www.abovethenormnews.com/2026/11/24/king-tides-california/\nComments URL: https://news.ycombinator.com/item?id=50638811\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T05:19:28+00:00"
+    },
     {
       "title": "関西経済同友会、次期代表幹事に三井住友銀行の道岡俊浩副頭取",
       "link": "https://www.asahi.com/articles/ASVCT1J8MVCTPLFA009M.html?ref=rss",
@@ -3372,6 +3384,46 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-25T05:19:18.867372+00:00"
+    },
+    {
+      "title": "‘Tech bros strike back’ as Trump rescues Nvidia’s Huang",
+      "link": "https://www.ft.com/content/a1374617-d3a2-415a-8490-72b164eefc0e?syn-25a6b1a6=1",
+      "summary": "Silicon Valley elites flexed their muscles in Washington to back Nvidia boss after humbling midterms defeat",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-25T05:00:32+00:00"
+    },
+    {
+      "title": "A French crisis would be a threat — and opportunity — for Europe",
+      "link": "https://www.ft.com/content/c72a8e34-13c2-4336-90b1-e59bac95c78b",
+      "summary": "A far-right victory could spark fiscal chaos, but it might end up strengthening the EU",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-25T05:00:32+00:00"
+    },
+    {
+      "title": "Trump shelves plans for business deals with Russia",
+      "link": "https://www.ft.com/content/36e342f2-17d4-48a7-80f6-2456dfdd6f91?syn-25a6b1a6=1",
+      "summary": "US no longer sees economic co-operation as an incentive for Putin to end his full-scale invasion of Ukraine",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-25T05:00:12+00:00"
+    },
+    {
+      "title": "Europe must not accept ‘hybrid’ warfare as normal, defence chief warns",
+      "link": "https://www.ft.com/content/7f57f64e-1f85-4be8-87ec-2db18830ebb2?syn-25a6b1a6=1",
+      "summary": "Comments follow surge in attempted sabotage and arson attacks on defence facilities, airports and other critical infrastructure",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-25T05:00:12+00:00"
+    },
+    {
+      "title": "How an ex-McKinsey partner is using new money to chase old wealth",
+      "link": "https://www.ft.com/content/2a40938d-d3c8-47dd-a5e9-b728b685a5ed?syn-25a6b1a6=1",
+      "summary": "Backed by Abu Dhabi’s Mubadala Capital, Corient has bought 57 firms serving high-net-worth clients — and is on the hunt for more",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-25T05:00:04+00:00"
     },
     {
       "title": "Show HN: U.S. Interstate Weather",
@@ -3396,6 +3448,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-25T04:31:48+00:00"
+    },
+    {
+      "title": "Taking over US Treasury subdomains for $3 each",
+      "link": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+      "summary": "Article URL: https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each\nComments URL: https://news.ycombinator.com/item?id=50638478\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T04:27:55+00:00"
     },
     {
       "title": "政治資金、振り込み限定に　公・立が改正案提出",
