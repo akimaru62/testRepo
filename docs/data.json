@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T10:18:52.486037+00:00",
+  "generated_at": "2026-11-25T10:33:26.174698+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3442,9 +3442,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Where to Find Bargains After the AI Power Boom Reality Check",
+      "link": "https://www.wsj.com/finance/where-to-find-bargains-after-the-ai-power-boom-reality-check-a6be0739?mod=rss_markets_main",
+      "summary": "The sharp correction to power stocks creates an opportunity for investors.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T10:30:00+00:00"
+    },
     {
       "title": "都構想、来春の住民投票を　吉村維新代表",
       "link": "https://www.jiji.com/jc/article?k=2026112500985&g=pol&m=rss",
@@ -3580,6 +3592,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-25T10:00:10+00:00"
+    },
+    {
+      "title": "【NISAにないメリットも！iDeCo徹底攻略】改正で“恩恵”を受けるのはどんな人？／掛金を増額した場合の税控除シミュレーション／受け取り方で“差”出口戦略の最適解／【ウエンツ瑛士のマネーファーム】 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965913?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ウエンツ瑛士がマネーの「育て方」を学ぶ教育バラエティ「マネーファーム」。第13回のテーマは「楽しい老後は今から作る！iDeCo改正・徹底攻略」です。2026年12月1日の法改正により、iDeCo（…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-25T10:00:00+00:00"
     },
     {
       "title": "Stock Market Today: Tech-Led Slide Continues as Confidence in AI Trade Weakens",
@@ -5684,6 +5704,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-24T15:18:08.134995+00:00"
+    },
+    {
+      "title": "Turning raw air traffic control recordings into lo-fi beats",
+      "link": "https://finalapproach.fm/field-notes/how-a-track-is-made/",
+      "summary": "Article URL: https://finalapproach.fm/field-notes/how-a-track-is-made/\nComments URL: https://news.ycombinator.com/item?id=50629442\nPoints: 9\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T15:17:49+00:00"
     },
     {
       "title": "Dollar Could Rise Further in 2027 if Fed Lifts Rates",
