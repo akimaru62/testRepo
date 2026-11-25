@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T22:32:56.914056+00:00",
+  "generated_at": "2026-11-25T22:47:33.944841+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3654,9 +3654,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "｢もう私の人生終わった｣早稲田大の総合型選抜で2次まで合格した女子高生､最後の｢共通テスト8割｣の壁に泣いたその後 | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965300?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "早稲田大学への憧れを胸に､高校生活すべてを受験対策に捧げた日葵さん。しかし共通テスト本番でのミスにより夢は絶たれ､｢人生が終わった｣と思い込んでしまいます。それでも進学先での新たな出会いや経験が彼女…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-25T22:30:00+00:00"
+    },
     {
       "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
       "link": "https://www.wsj.com/finance/stocks/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-604fff0b?mod=rss_markets_main",
