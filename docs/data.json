@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T18:19:52.702631+00:00",
+  "generated_at": "2026-11-25T18:33:09.820647+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3586,9 +3586,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Dodgers Owner Todd Boehly Clinches Deal for Overseas Assets of Russia’s Lukoil",
+      "link": "https://www.wsj.com/business/deals/dodgers-owner-todd-boehly-clinches-deal-for-overseas-assets-of-russias-lukoil-9679356a?mod=rss_markets_main",
+      "summary": "The sale was initially sparked after the Trump administration slapped sanctions on Lukoil assets to pressure Moscow in negotiations over the war in Ukraine.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T18:26:00+00:00"
+    },
     {
       "title": "立民、党再生へ推進本部設置",
       "link": "https://www.jiji.com/jc/article?k=2026112501024&g=pol&m=rss",
@@ -3604,6 +3616,14 @@
       "source": "GitHub Blog",
       "category": "開発者向け",
       "published": "2026-11-25T18:00:00+00:00"
+    },
+    {
+      "title": "How Can Anything Beat n log n?",
+      "link": "https://iahmed.me/post/nlogn/",
+      "summary": "Article URL: https://iahmed.me/post/nlogn/\nComments URL: https://news.ycombinator.com/item?id=50645195\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T17:54:29+00:00"
     },
     {
       "title": "Why this stock-market selloff is probably going to get worse before it gets better",
@@ -3660,6 +3680,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-25T17:18:26+00:00"
+    },
+    {
+      "title": "Deriving Black-Scholes",
+      "link": "https://david.alvarezrosa.com/posts/deriving-black-scholes/",
+      "summary": "Article URL: https://david.alvarezrosa.com/posts/deriving-black-scholes/\nComments URL: https://news.ycombinator.com/item?id=50644814\nPoints: 9\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T17:18:15+00:00"
     },
     {
       "title": "How soon Trump’s new tariffs could hit the economy — and your wallet",
