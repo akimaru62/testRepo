@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T01:47:40.528823+00:00",
+  "generated_at": "2026-11-25T02:07:49.558202+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3306,9 +3306,77 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "マイホームの競売増加「新築プレミアム」も影響　目立つ郊外一戸建て",
+      "link": "https://www.asahi.com/articles/ASVCS2F8DVCSULFA00MM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-25T02:07:44.992225+00:00"
+    },
+    {
+      "title": "同じ3千円、買える食品はどう変わった？　空白が映す5年の物価上昇",
+      "link": "https://www.asahi.com/articles/ASVCS1FCTVCSUQIP030M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-25T02:07:44.992195+00:00"
+    },
+    {
+      "title": "廣光　俊昭氏が「経済安全保障の経済学―管理された相互依存のための科学」について、講演しました",
+      "link": "https://www.mof.go.jp/insideLink/20261124115034.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-25T02:00:00+00:00"
+    },
+    {
+      "title": "座談会「カンボジア中小企業 金融支援」を考える～支援の現場から見えた成果と今後の展望～（「ファイナンス寄稿」）",
+      "link": "https://www.mof.go.jp/insideLink/20261124105802.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-25T02:00:00+00:00"
+    },
+    {
+      "title": "Worse Than the Dot-Com Crash: What an AI Bust Could Mean for the Economy",
+      "link": "https://www.wsj.com/economy/worse-than-the-dot-com-crash-what-an-ai-bust-could-mean-for-the-economy-2a0e5ab3?mod=rss_markets_main",
+      "summary": "The U.S. economy would take a painful hit, but the magnitude of the fallout remains a live debate among economists.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T02:00:00+00:00"
+    },
+    {
+      "title": "Oil Futures Decline as Traders Weigh Competing Supply Risks",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-decline-as-traders-weigh-competing-supply-risks-9dd3835d?mod=rss_markets_main",
+      "summary": "Oil futures declined in Asia as traders weigh the risk of oversupply against continued attacks in the Strait of Hormuz.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T02:00:00+00:00"
+    },
+    {
+      "title": "Asian Currencies Mixed Ahead of U.S. Econ Data",
+      "link": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
+      "summary": "Asian currencies were mixed against the greenback in early trade.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T01:54:00+00:00"
+    },
+    {
+      "title": "Asian markets lose ground as AI fears return",
+      "link": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
+      "summary": "Tech stocks in Tokyo and Seoul suffer after Wall Street’s Jensen Huang bounce fades",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-25T01:41:03+00:00"
+    },
     {
       "title": "Still Too Early to Bet Against the U.S. Dollar",
       "link": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
@@ -3340,6 +3408,14 @@
       "source": "財務省",
       "category": "公的機関",
       "published": "2026-11-25T01:20:00+00:00"
+    },
+    {
+      "title": "Matrix Multiplication is O(n^2.25) [pdf]",
+      "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf\nComments URL: https://news.ycombinator.com/item?id=50637220\nPoints: 25\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T01:19:26+00:00"
     },
     {
       "title": "ＣＩＡシステムに不正侵入　政府機関にサイバー攻撃続発―米報道",
