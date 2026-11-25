@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T19:04:10.239820+00:00",
+  "generated_at": "2026-11-25T19:17:41.425834+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3598,9 +3598,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "駐輪場で刺され７０歳男性死亡　直前に駅員暴行、容疑で男逮捕―福岡県警",
+      "link": "https://www.jiji.com/jc/article?k=2026112500741&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T19:17:37.212147+00:00"
+    },
     {
       "title": "Comex Gold Settles 0.71% Lower at $3534.70",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-with-u-s-inflation-data-in-focus-17f37be3?mod=rss_markets_main",
