@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T08:47:40.510256+00:00",
+  "generated_at": "2026-11-25T09:06:02.461762+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3418,9 +3418,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Newly-Listed Airtel Mobile to Replace IG Group in FTSE 100 Index Review",
+      "link": "https://www.wsj.com/finance/stocks/newly-listed-airtel-mobile-to-replace-ig-group-in-ftse-100-index-review-ad6b860c?mod=rss_markets_main",
+      "summary": "Airtel Mobile Commerce is expected to join London’s premier FTSE 100 index as part of the next quarterly review replacing IG Group Holdings, according to indicative data from FTSE Russell.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T08:54:00+00:00"
+    },
+    {
+      "title": "Oil Down as Supply Prospects Outweigh Gulf Risks",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-decline-as-traders-weigh-competing-supply-risks-9dd3835d?mod=rss_markets_main",
+      "summary": "Oil prices fell as prospects of an oversupplied market outweighed concerns over persistent shipping attacks in the Persian Gulf.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T08:51:00+00:00"
+    },
+    {
+      "title": "Euro Could Stay Weak Against Dollar For Now",
+      "link": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
+      "summary": "The euro fell and looked set to remain under pressure against the dollar in the near term given the risk-off environment and French political uncertainty, ING said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T08:48:00+00:00"
+    },
     {
       "title": "Gold Falls Close to $3,500 a Troy Ounce as Market Awaits Inflation Data",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-with-u-s-inflation-data-in-focus-17f37be3?mod=rss_markets_main",
@@ -3612,6 +3640,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-25T06:27:34.490299+00:00"
+    },
+    {
+      "title": "Swift Death of Statelessness",
+      "link": "https://bexx.io/post/swift-death-of-statelessness/",
+      "summary": "Article URL: https://bexx.io/post/swift-death-of-statelessness/\nComments URL: https://news.ycombinator.com/item?id=50639156\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T06:23:09+00:00"
     },
     {
       "title": "40年利付国債（第19回）の第II非価格競争入札結果（令和8年11月25日入札）",
