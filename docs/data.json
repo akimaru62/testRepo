@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:20:23.088212+00:00",
+  "generated_at": "2026-11-25T09:33:32.910696+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3426,9 +3426,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "非上場株の評価見直し、来年度税制改正は見送りへ　自民税調会長",
+      "link": "https://www.asahi.com/articles/ASVCT2SXPVCTULFA01LM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-25T09:33:29.027870+00:00"
+    },
     {
       "title": "インドネシアで違法採掘者２０人超閉じ込めか　豪雨で坑道浸水",
       "link": "https://www.jiji.com/jc/article?k=2026112500908&g=int&m=rss",
