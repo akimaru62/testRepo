@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T07:20:19.100760+00:00",
+  "generated_at": "2026-11-25T07:33:04.730408+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3394,9 +3394,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "AI株安・消費低迷でも「利上げ確率80%」日銀、12月の判断は？",
+      "link": "https://www.asahi.com/articles/ASVCT2CMBVCTULFA005M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-25T07:33:00.275737+00:00"
+    },
     {
       "title": "関文科相問責、野党２６日提出　与党、否決に全力",
       "link": "https://www.jiji.com/jc/article?k=2026112500706&g=pol&m=rss",
