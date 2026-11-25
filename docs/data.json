@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T21:33:28.881450+00:00",
+  "generated_at": "2026-11-25T21:47:31.279034+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3638,9 +3638,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "HP’s stock is a standout gainer in the tech selloff, as an earnings beat still matters",
+      "link": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
+      "summary": "PC maker’s ‘low-quality’ beat is enough to propel its shares amid the tech rout.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T21:36:00+00:00"
+    },
+    {
+      "title": "U.S. Natural Gas Futures End Lower As December Contract Expires",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92?mod=rss_markets_main",
+      "summary": "Natural gas futures ended the session lower after the EIA’s weekly storage report showed a 24 Bcf draw.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T21:32:00+00:00"
+    },
+    {
+      "title": "U.S. Stocks Mixed as Nvidia, AI Rout Continues",
+      "link": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-nvidia-ai-rout-continues-35d59863?mod=rss_markets_main",
+      "summary": "U.S. stocks finished mixed as the tech sector gave back more of the gains garnered in the wake of Jensen Huang’s reinstatement as Nvidia CEO.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T21:31:00+00:00"
+    },
+    {
+      "title": "親御さん､\"医学部なら安泰\"ではありません…阪大出身の現役医師が明かす｢私立倍率15倍｣なのに｢医師余り｣の現実とは？ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965793?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢医師免許さえあれば一生安泰｣は今も通用するのでしょうか。医師が余る時代が迫るなか､若手には長時間労働のしわ寄せが続いています。わが子が医師になる2030年代には何が待っているのか､現役医師が明かし…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-25T21:30:00+00:00"
+    },
     {
       "title": "How to spot ‘bogus boutiques’ and other Black Friday shopping scams",
       "link": "https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories",
@@ -3656,6 +3692,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-25T21:28:00+00:00"
+    },
+    {
+      "title": "US stocks close lower in volatile session as AI trade remains under pressure",
+      "link": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
+      "summary": "Chip group Nvidia among losers but AI start-up Anthropic a bright spot as shares finish higher",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-25T21:26:33+00:00"
     },
     {
       "title": "Stocks Finish Lower After Wild Session",
