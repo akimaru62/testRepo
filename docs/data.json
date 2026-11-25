@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T10:33:26.174698+00:00",
+  "generated_at": "2026-11-25T10:47:32.871232+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3446,9 +3446,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Sterling Expected to Rise Against Euro in 2027",
+      "link": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
+      "summary": "Sterling was weaker against the euro. The pound could strengthen against the euro given French fiscal risks and a positive U.K. outlook, JPM said, adding that it expects the euro to fall below 0.80 pounds in the first half of 2027.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T10:38:00+00:00"
+    },
     {
       "title": "Where to Find Bargains After the AI Power Boom Reality Check",
       "link": "https://www.wsj.com/finance/where-to-find-bargains-after-the-ai-power-boom-reality-check-a6be0739?mod=rss_markets_main",
