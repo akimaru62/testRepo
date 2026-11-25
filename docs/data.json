@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T17:17:42.826638+00:00",
+  "generated_at": "2026-11-25T17:33:19.709082+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3570,9 +3570,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates.",
+      "link": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
+      "summary": "The measure of inflation used by the Federal Reserve to influence U.S. interest rates rose again in October at an accelerated rate, virtually assuring the central bank will increase borrowing costs next month.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T17:31:00+00:00"
+    },
+    {
+      "title": "U.S. Natural Gas Inventories Decrease in Line With Average",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92?mod=rss_markets_main",
+      "summary": "Natural gas futures were mixed as U.S. storage saw its first withdrawal of the season last week as colder weather lifted heating demand.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T17:28:00+00:00"
+    },
+    {
+      "title": "HP’s stock is a standout gainer in the tech rout, as an earnings beat still matters",
+      "link": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
+      "summary": "PC maker’s ‘low-quality’ beat is enough to propel its shares amid the tech rout.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T17:24:00+00:00"
+    },
+    {
+      "title": "FTC Imposes Strict Board Restrictions on Beretta’s 25% Stake in Rival Sturm Ruger",
+      "link": "https://www.wsj.com/business/ftc-imposes-strict-board-restrictions-on-berettas-25-stake-in-rival-sturm-ruger-2d0cc315?mod=rss_markets_main",
+      "summary": "Under the final order, the FTC said that Beretta is barred from appointing or nominating anyone to Sturm Ruger’s board unless the candidate is independent of Beretta.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T17:22:00+00:00"
+    },
+    {
+      "title": "1Password Security Incident",
+      "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "summary": "Article URL: https://1password.com/blog/update-on-nov-2026-security-incident\nComments URL: https://news.ycombinator.com/item?id=50644817\nPoints: 15\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T17:18:26+00:00"
+    },
     {
       "title": "How soon Trump’s new tariffs could hit the economy — and your wallet",
       "link": "https://www.marketwatch.com/story/u-s-proposes-fresh-tariffs-on-china-others-as-trump-doubles-down-on-his-favorite-trade-weapon-cd9a1df9?mod=mw_rss_topstories",
