@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T06:09:06.277810+00:00",
+  "generated_at": "2026-11-25T06:27:39.322835+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3374,9 +3374,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "関文科相は進退判断を　維新・馬場氏",
+      "link": "https://www.jiji.com/jc/article?k=2026112500692&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T06:27:34.818897+00:00"
+    },
+    {
+      "title": "茨城県常総市、2カ所でデータセンター計画　市長「環境へ配慮大事」",
+      "link": "https://www.asahi.com/articles/ASVCT0GGTVCTUJHB00FM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-25T06:27:34.490299+00:00"
+    },
+    {
+      "title": "40年利付国債（第19回）の第II非価格競争入札結果（令和8年11月25日入札）",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261125a.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-25T06:15:00+00:00"
+    },
+    {
+      "title": "Bitcoin Options Signal Caution Despite Signs of Bargain Hunting",
+      "link": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
+      "summary": "Bitcoin fell as options traders remained cautious following a sharp selloff in cryptocurrencies.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T06:10:00+00:00"
+    },
     {
       "title": "Asian Stocks Lower on AI Doubts, Tariff Jitters",
       "link": "https://www.wsj.com/finance/stocks/asian-stocks-mostly-lower-on-ai-doubts-tariff-jitters-a0da3389?mod=rss_markets_main",
