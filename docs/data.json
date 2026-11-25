@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T18:06:02.497160+00:00",
+  "generated_at": "2026-11-25T18:19:52.702631+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3582,9 +3582,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "立民、党再生へ推進本部設置",
+      "link": "https://www.jiji.com/jc/article?k=2026112501024&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T18:19:46.455871+00:00"
+    },
     {
       "title": "How to choose the next safe step in application modernization",
       "link": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
@@ -4690,6 +4702,14 @@
       "published": "2026-11-25T08:23:34+00:00"
     },
     {
+      "title": "The industrialization of noise: Automated proof-solving is the same old dead end [pdf]",
+      "link": "https://arxiv.org/abs/2611.31286",
+      "summary": "Article URL: https://arxiv.org/abs/2611.31286\nComments URL: https://news.ycombinator.com/item?id=50639929\nPoints: 38\n# Comments: 60",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T08:23:34+00:00"
+    },
+    {
       "title": "「介護で買い物依存症に」　横領容疑で元会社役員の女逮捕―警視庁",
       "link": "https://www.jiji.com/jc/article?k=2026112500776&g=soc&m=rss",
       "summary": "",
@@ -4773,6 +4793,14 @@
       "title": "Smart People Who Give a Shit Use Tools",
       "link": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
       "summary": "Article URL: https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools\nComments URL: https://news.ycombinator.com/item?id=50639698\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T07:46:43+00:00"
+    },
+    {
+      "title": "Smart people who give a shit use tools",
+      "link": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
+      "summary": "Article URL: https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools\nComments URL: https://news.ycombinator.com/item?id=50639698\nPoints: 110\n# Comments: 106",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-25T07:46:43+00:00"
