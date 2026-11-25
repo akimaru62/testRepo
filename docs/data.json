@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:06:02.461762+00:00",
+  "generated_at": "2026-11-25T09:20:23.088212+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3422,9 +3422,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "インドネシアで違法採掘者２０人超閉じ込めか　豪雨で坑道浸水",
+      "link": "https://www.jiji.com/jc/article?k=2026112500908&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T09:20:19.491357+00:00"
+    },
+    {
+      "title": "復旧１時間以内目標に　大規模障害受け―米マイクロソフト",
+      "link": "https://www.jiji.com/jc/article?k=2026112500899&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T09:20:19.491318+00:00"
+    },
+    {
+      "title": "東電、「福島」対応資金の確保関与を要求　提携候補に　「黄金株」も",
+      "link": "https://www.asahi.com/articles/ASVCT243MVCTULFA007M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-25T09:20:19.300887+00:00"
+    },
     {
       "title": "Newly-Listed Airtel Mobile to Replace IG Group in FTSE 100 Index Review",
       "link": "https://www.wsj.com/finance/stocks/newly-listed-airtel-mobile-to-replace-ig-group-in-ftse-100-index-review-ad6b860c?mod=rss_markets_main",
