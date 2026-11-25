@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T19:47:49.055907+00:00",
+  "generated_at": "2026-11-25T20:05:21.832652+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3610,9 +3610,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "米台すら読めない中国の｢台湾侵攻｣最終判断…歴代指導者が直面した《軍事の壁》と､繰り返された《先送り》の歴史 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/960793?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "中国による台湾侵攻は現実味を帯びつつも､その判断基準は｢重大な事変｣など曖昧です。台湾･米国の分析は具体的条件を示しますが､最終判断は中国側に委ねられ予測は困難。では､その不確実性の本質とは何か､歴…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-25T20:00:00+00:00"
+    },
     {
       "title": "つくばのデータセンター計画で市民説明会　業者側が回答控える場面も",
       "link": "https://www.asahi.com/articles/ASVCT3HZCVCTUJHB002M.html?ref=rss",
@@ -3628,6 +3640,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-25T19:43:00+00:00"
+    },
+    {
+      "title": "US stocks endure volatile session as AI trade remains under pressure",
+      "link": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
+      "summary": "Chip group Nvidia among losers but AI start-up Anthropic a bright spot as shares recover above IPO price",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-25T19:39:04+00:00"
     },
     {
       "title": "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
