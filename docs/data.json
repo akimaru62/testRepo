@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T20:33:23.607418+00:00",
+  "generated_at": "2026-11-25T20:47:47.199285+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3622,9 +3622,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "充実装備に扱いやすいサイズ感…トヨタ｢タウンエース｣ベースのキャンピングカー｢TR400t LIM/CROSS｣が持つ2つの顔 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964883?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "トヨタ｢タウンエース｣をベースに､扱いやすいサイズ感と充実の装備を両立した新型キャンピングカー｢TR400tリム｣と｢TR400tクロス｣。コンセプトが異なる2モデルを発表した狙いとは？",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-25T20:30:00+00:00"
+    },
     {
       "title": "米台すら読めない中国の｢台湾侵攻｣最終判断…歴代指導者が直面した《軍事の壁》と､繰り返された《先送り》の歴史 | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/960793?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -3632,6 +3644,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-25T20:00:00+00:00"
+    },
+    {
+      "title": "Spending 35B Opus 5.5 Tokens to Write a Symphony",
+      "link": "https://danprice.ai/blog/opus-symphony",
+      "summary": "Article URL: https://danprice.ai/blog/opus-symphony\nComments URL: https://news.ycombinator.com/item?id=50646662\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T19:57:08+00:00"
     },
     {
       "title": "つくばのデータセンター計画で市民説明会　業者側が回答控える場面も",
@@ -3725,6 +3745,14 @@
       "title": "Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]",
       "link": "https://scottaaronson.blog/?p=10379",
       "summary": "Article URL: https://scottaaronson.blog/?p=10379\nComments URL: https://news.ycombinator.com/item?id=50646108\nPoints: 35\n# Comments: 9",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T19:11:27+00:00"
+    },
+    {
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "link": "https://scottaaronson.blog/?p=10379",
+      "summary": "See also The matrix multiplication exponent is nine fourths [pdf] - https://news.ycombinator.com/item?id=50637220\n\nComments URL: https://news.ycombinator.com/item?id=50646108\nPoints: 300\n# Comments: 191",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-25T19:11:27+00:00"
