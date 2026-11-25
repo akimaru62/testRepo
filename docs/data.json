@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T08:22:46.483792+00:00",
+  "generated_at": "2026-11-25T08:34:33.905459+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3410,6 +3410,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3601,6 +3605,14 @@
       "title": "Anthropic has pulled up the ladder",
       "link": "https://www.ft.com/content/1c62dcfe-826f-4638-a9ee-c3b3009bc45d",
       "summary": "By pushing its IPO to the limit, the Claude maker has made itself a hard act to follow",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-25T06:00:02+00:00"
+    },
+    {
+      "title": "‘Anflopic’ bodes badly for OpenAI’s IPO prospects",
+      "link": "https://www.ft.com/content/1c62dcfe-826f-4638-a9ee-c3b3009bc45d",
+      "summary": "By pushing its listing to the limit, the Claude maker has made itself a hard act to follow",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-25T06:00:02+00:00"
