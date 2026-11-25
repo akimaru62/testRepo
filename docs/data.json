@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T18:33:09.820647+00:00",
+  "generated_at": "2026-11-25T18:47:27.256188+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3590,9 +3590,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Comex Gold Settles 0.71% Lower at $3534.70",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-with-u-s-inflation-data-in-focus-17f37be3?mod=rss_markets_main",
+      "summary": "Gold settled 0.7% lower and silver fell 1.7%, with both metals down for a second-consecutive session.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T18:45:00+00:00"
+    },
     {
       "title": "Dodgers Owner Todd Boehly Clinches Deal for Overseas Assets of Russia’s Lukoil",
       "link": "https://www.wsj.com/business/deals/dodgers-owner-todd-boehly-clinches-deal-for-overseas-assets-of-russias-lukoil-9679356a?mod=rss_markets_main",
@@ -3610,6 +3622,14 @@
       "published": "2026-11-25T18:19:46.455871+00:00"
     },
     {
+      "title": "Billionaire financier Todd Boehly strikes deal for Lukoil assets",
+      "link": "https://www.ft.com/content/643dc287-d112-4715-bdf1-aa49b98a4af7?syn-25a6b1a6=1",
+      "summary": "Boehly’s Eldridge will swap Russia-listed shares in Lukoil and other businesses for the oil company’s international business",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-25T18:03:33+00:00"
+    },
+    {
       "title": "How to choose the next safe step in application modernization",
       "link": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
       "summary": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill.\nThe post How to choose the next safe step in application modernization appeared first on The GitHub Blog.",
@@ -3624,6 +3644,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-25T17:54:29+00:00"
+    },
+    {
+      "title": "Britain's ghost stations",
+      "link": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+      "summary": "https://archive.ph/pfVdX\n\nComments URL: https://news.ycombinator.com/item?id=50645074\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T17:43:46+00:00"
     },
     {
       "title": "Why this stock-market selloff is probably going to get worse before it gets better",
