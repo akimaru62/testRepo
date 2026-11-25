@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T07:47:51.827717+00:00",
+  "generated_at": "2026-11-25T08:07:09.321275+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3402,9 +3402,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "プルデンシャル 新規契約が92%減",
+      "link": "https://news.yahoo.co.jp/pickup/6603940?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-25T07:59:22+00:00"
+    },
     {
       "title": "U.S. Treasury Yields Fall Ahead of PCE Inflation Data",
       "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-ahead-of-pce-inflation-data-dfeb7995?mod=rss_markets_main",
@@ -3761,6 +3773,14 @@
       "title": "Lua for Data Representation",
       "link": "https://citrons.xyz/journal/2025-07-23",
       "summary": "Article URL: https://citrons.xyz/journal/2025-07-23\nComments URL: https://news.ycombinator.com/item?id=50637888\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T03:04:12+00:00"
+    },
+    {
+      "title": "Lua for data representation (2025)",
+      "link": "https://citrons.xyz/journal/2025-07-23",
+      "summary": "Article URL: https://citrons.xyz/journal/2025-07-23\nComments URL: https://news.ycombinator.com/item?id=50637888\nPoints: 47\n# Comments: 13",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-25T03:04:12+00:00"
