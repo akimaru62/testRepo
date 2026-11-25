@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T12:08:03.821691+00:00",
+  "generated_at": "2026-11-25T12:25:29.155320+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3482,9 +3482,93 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "「日本に損害及ぼす意図ない」　欧州製優遇法案で次期駐日ＥＵ大使",
+      "link": "https://www.jiji.com/jc/article?k=2026112501117&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T12:25:22.167937+00:00"
+    },
+    {
+      "title": "坑道に水、違法採掘者３人死亡　２０人超閉じ込めか―インドネシア",
+      "link": "https://www.jiji.com/jc/article?k=2026112500908&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T12:25:22.167929+00:00"
+    },
+    {
+      "title": "ＳＮＳ規制強化可決　巨大ＩＴ念頭―豪議会",
+      "link": "https://www.jiji.com/jc/article?k=2026112501094&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T12:25:22.167921+00:00"
+    },
+    {
+      "title": "鹿島、快勝で首位　ＡＣＬサッカー",
+      "link": "https://www.jiji.com/jc/article?k=2026112501061&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T12:25:22.167911+00:00"
+    },
+    {
+      "title": "防衛費、大幅増の要求続出　自民「国守れるか」",
+      "link": "https://www.jiji.com/jc/article?k=2026112501052&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T12:25:22.167883+00:00"
+    },
+    {
+      "title": "Tech’s slump is deepening. Are Americans heading into Black Friday with less buying power?",
+      "link": "https://www.marketwatch.com/story/techs-slump-is-deepening-are-americans-heading-into-black-friday-with-less-buying-power-7f9da81c?mod=mw_rss_topstories",
+      "summary": "October’s spending report will show how much Americans are actually buying. Plus, why Dell checks whether its AI customers have enough electricity, and why shoppers snapped up an $800 Advent calendar.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T12:20:00+00:00"
+    },
+    {
+      "title": "The Morning Risk Report: China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-63fc5211?mod=rss_markets_main",
+      "summary": "Plus: Malaysia finds no record of U.S.-sanctioned firm, Jensen Huang’s comeback collides with lawmakers demanding answers.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T12:13:00+00:00"
+    },
+    {
+      "title": "東海テレビに2.4億円所得隠し指摘",
+      "link": "https://news.yahoo.co.jp/pickup/6603974?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-25T12:10:10+00:00"
+    },
+    {
+      "title": "Hazel (YC W24) Is Hiring a Product Designer",
+      "link": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
+      "summary": "Article URL: https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract\nComments URL: https://news.ycombinator.com/item?id=50641323\nPoints: 0\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T12:00:34+00:00"
+    },
+    {
+      "title": "Russia is escalating conflict in Europe and space, warns Merz",
+      "link": "https://www.ft.com/content/afdac003-51b0-43da-8c7c-b5675f9b7c1b?syn-25a6b1a6=1",
+      "summary": "German chancellor seeks to convince increasingly sceptical population to maintain support for Ukraine",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-25T11:56:23+00:00"
+    },
     {
       "title": "Expectations of Fed Tightening Drive Dollar Higher",
       "link": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
@@ -3972,6 +4056,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-25T07:54:11+00:00"
+    },
+    {
+      "title": "Smart People Who Give a Shit Use Tools",
+      "link": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
+      "summary": "Article URL: https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools\nComments URL: https://news.ycombinator.com/item?id=50639698\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T07:46:43+00:00"
     },
     {
       "title": "U.S. Treasury Yields Fall Ahead of PCE Inflation Data",
