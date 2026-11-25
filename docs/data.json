@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T08:07:09.321275+00:00",
+  "generated_at": "2026-11-25T08:22:46.483792+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3406,9 +3406,69 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "「介護で買い物依存症に」　横領容疑で元会社役員の女逮捕―警視庁",
+      "link": "https://www.jiji.com/jc/article?k=2026112500776&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T08:22:42.873167+00:00"
+    },
+    {
+      "title": "万能型の平良に高評価　「米国人好みの投手」―米大リーグ",
+      "link": "https://www.jiji.com/jc/article?k=2026112500147&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T08:22:42.873155+00:00"
+    },
+    {
+      "title": "フアンＣＥＯ、従業員に謝罪　大統領の圧力で復帰否定―米エヌビディア",
+      "link": "https://www.jiji.com/jc/article?k=2026112500828&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T08:22:42.873145+00:00"
+    },
+    {
+      "title": "駅駐輪場で刺され男性死亡　容疑者の男は逃走―福岡県警",
+      "link": "https://www.jiji.com/jc/article?k=2026112500741&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T08:22:42.873134+00:00"
+    },
+    {
+      "title": "米中に次ぐＡＩ国家に　社会全体の強靱性強化―安保３文書・経済安保概要",
+      "link": "https://www.jiji.com/jc/article?k=2026112500844&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T08:22:42.873108+00:00"
+    },
+    {
+      "title": "日経平均反落、1633円安で取引終了　米関税引き上げ報道も影響",
+      "link": "https://www.asahi.com/articles/ASVCT0S2TVCTULFA006M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-25T08:22:42.651560+00:00"
+    },
+    {
+      "title": "カムリ、「逆輸入」で3年ぶり国内復活へ　トヨタ、12月23日発売",
+      "link": "https://www.asahi.com/articles/ASVCT2K0VVCTULFA018M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-25T08:22:42.651525+00:00"
+    },
     {
       "title": "プルデンシャル 新規契約が92%減",
       "link": "https://news.yahoo.co.jp/pickup/6603940?source=rss",
@@ -3416,6 +3476,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-25T07:59:22+00:00"
+    },
+    {
+      "title": "Wall Street set to follow Asian markets lower as AI fears return",
+      "link": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
+      "summary": "Tech stocks in Tokyo and Seoul suffer after Jensen Huang bounce fades",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-25T07:54:11+00:00"
     },
     {
       "title": "U.S. Treasury Yields Fall Ahead of PCE Inflation Data",
