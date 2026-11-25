@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T04:06:35.098626+00:00",
+  "generated_at": "2026-11-25T04:20:38.439700+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3342,9 +3342,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "政治資金、振り込み限定に　公・立が改正案提出",
+      "link": "https://www.jiji.com/jc/article?k=2026112500512&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T04:20:34.204187+00:00"
+    },
+    {
+      "title": "木原官房長官「適切な広報」指示　ユーチューバー起用",
+      "link": "https://www.jiji.com/jc/article?k=2026112500495&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T04:20:34.204157+00:00"
+    },
+    {
+      "title": "「円」に何が起きているのか　研究者の「市場の先回りを変える」提案",
+      "link": "https://www.asahi.com/articles/ASVCS1H4RVCSULFA005M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-25T04:20:33.958496+00:00"
+    },
     {
       "title": "交付税及び譲与税配付金特別会計の借入金の入札結果（令和8年11月25日入札）",
       "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result261125.htm",
@@ -3352,6 +3380,14 @@
       "source": "財務省",
       "category": "公的機関",
       "published": "2026-11-25T04:00:00+00:00"
+    },
+    {
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "summary": "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/\nComments URL: https://news.ycombinator.com/item?id=50638220\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T03:47:42+00:00"
     },
     {
       "title": "40年利付国債（第19回）の入札結果（令和8年11月25日入札）",
@@ -3392,6 +3428,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-25T03:21:13.079322+00:00"
+    },
+    {
+      "title": "Show HN: Sliding-panes React UI library (inspired by WebOS Enyo)",
+      "link": "https://vcarl.com/sashay/",
+      "summary": "Article URL: https://vcarl.com/sashay/\nComments URL: https://news.ycombinator.com/item?id=50637936\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T03:10:18+00:00"
     },
     {
       "title": "Macrohistory in Six Facts",
@@ -3440,6 +3484,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-25T03:00:39+00:00"
+    },
+    {
+      "title": "Bo3mac: Static ARM64 Recompiler and Direct Metal Port of Black Ops III",
+      "link": "https://github.com/mawlicious/bo3mac",
+      "summary": "Article URL: https://github.com/mawlicious/bo3mac\nComments URL: https://news.ycombinator.com/item?id=50637863\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T03:00:12+00:00"
     },
     {
       "title": "Asian Stocks Mostly Lower on AI Doubts, Tariff Jitters",
