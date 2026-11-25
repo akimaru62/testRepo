@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T10:06:00.295046+00:00",
+  "generated_at": "2026-11-25T10:18:52.486037+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3438,9 +3438,93 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "都構想、来春の住民投票を　吉村維新代表",
+      "link": "https://www.jiji.com/jc/article?k=2026112500985&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T10:18:48.103889+00:00"
+    },
+    {
+      "title": "新潟簡裁判事を罷免、戦後９人目　オンラインカジノ賭博―弾劾裁判",
+      "link": "https://www.jiji.com/jc/article?k=2026112500982&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T10:18:48.103877+00:00"
+    },
+    {
+      "title": "官僚参加パーティー「与野党問わず」　木原官房長官が言及、国民民主反論",
+      "link": "https://www.jiji.com/jc/article?k=2026112500994&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T10:18:48.103867+00:00"
+    },
+    {
+      "title": "重傷自衛官「噴水のように血」　３人死傷の小銃発砲―岐阜地裁",
+      "link": "https://www.jiji.com/jc/article?k=2026112500958&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T10:18:48.103850+00:00"
+    },
+    {
+      "title": "原潜導入でも核保有せず　維新・前原氏「非核三原則と別」",
+      "link": "https://www.jiji.com/jc/article?k=2026112500978&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T10:18:48.103828+00:00"
+    },
+    {
+      "title": "東電の外部資本提携、廃炉・賠償資金への関与条件　「黄金株」も浮上",
+      "link": "https://www.asahi.com/articles/ASVCT243MVCTULFA007M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-25T10:18:47.829307+00:00"
+    },
+    {
+      "title": "なぜ内房線だけ代行バスを諦めたのか　JR千葉トップが語る舞台裏",
+      "link": "https://www.asahi.com/articles/ASVCT2495VCTUDCB01LM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-25T10:18:47.829288+00:00"
+    },
+    {
+      "title": "監査法人の人員体制、要件を厳格化へ「幹部社員9人」会計士協会試算",
+      "link": "https://www.asahi.com/articles/ASVCT3604VCTULFA01YM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-25T10:18:47.829258+00:00"
+    },
+    {
+      "title": "This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he argues",
+      "link": "https://www.marketwatch.com/story/this-strategists-bond-trading-model-is-outperforming-by-a-wide-margin-the-fed-slowing-the-economy-is-a-good-thing-he-argues-f39dfc5f?mod=mw_rss_topstories",
+      "summary": "Inflation and nominal growth have been way too high for too long, argues Michael Darda. Rather than criticizing the Fed for being hawkish, markets should applaud it and recommend it goes as far as necessary to slow demand.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T10:12:00+00:00"
+    },
+    {
+      "title": "トヨタ「新型カムリ」12月に発売",
+      "link": "https://news.yahoo.co.jp/pickup/6603964?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-25T10:08:02+00:00"
+    },
     {
       "title": "関文科相問責、野党２６日提出　高市政権、続投方針を堅持",
       "link": "https://www.jiji.com/jc/article?k=2026112500706&g=pol&m=rss",
