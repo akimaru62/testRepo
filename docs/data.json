@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T16:06:46.673901+00:00",
+  "generated_at": "2026-11-25T16:22:54.795697+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3550,9 +3550,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "米ＧＤＰ、４．３％増に上方修正　ＡＩブーム寄与―７～９月期",
+      "link": "https://www.jiji.com/jc/article?k=2026112501230&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T16:22:50.281197+00:00"
+    },
+    {
+      "title": "立民の国対委員長は文科相に対する問責決議案を２６日に参院に提出する方針を明らかにした",
+      "link": "https://www.jiji.com/jc/article?k=2026112500698&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T16:22:50.281176+00:00"
+    },
+    {
+      "title": "ＮＹ株、一時１０００ドル超安　ハイテク売りで大幅反落",
+      "link": "https://www.jiji.com/jc/article?k=2026112600001&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T16:22:50.281146+00:00"
+    },
+    {
+      "title": "Upgrade to US GDP figures keeps December rate rise in play for Fed",
+      "link": "https://www.ft.com/content/a1aaf5be-176c-4c4c-99d6-00875f6933f3?syn-25a6b1a6=1",
+      "summary": "Bureau of Economic Analysis said economy grew at annualised rate of 4.3% in third quarter, up from initial estimate of 3.4%",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-25T16:07:13+00:00"
+    },
     {
       "title": "米政権、日中やEUなど14カ国・地域に新関税案　日本は最大15%",
       "link": "https://www.asahi.com/articles/ASVCT52PHVCTUHBI030M.html?ref=rss",
@@ -3568,6 +3604,14 @@
       "source": "GitHub Blog",
       "category": "開発者向け",
       "published": "2026-11-25T16:00:00+00:00"
+    },
+    {
+      "title": "Investigating degraded experiences across GitHub products",
+      "link": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+      "summary": "Article URL: https://www.githubstatus.com/incidents/qn8mfv6q5hlx\nComments URL: https://news.ycombinator.com/item?id=50643720\nPoints: 32\n# Comments: 10",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T15:59:23+00:00"
     },
     {
       "title": "Nvidia’s stock is giving back more than half of Monday’s rally as dip buyers cash in",
@@ -4040,6 +4084,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-25T11:56:23+00:00"
+    },
+    {
+      "title": "Daily Briefing: Venezuela’s Debt Stack; What An AI Bust Would Mean",
+      "link": "https://www.wsj.com/pro/bankruptcy/daily-briefing-venezuelas-debt-stack-what-an-ai-bust-would-mean-93080b6f?mod=rss_markets_main",
+      "summary": "Plus, a user-data deal in bankruptcy and another subprime auto filing.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T11:55:00+00:00"
     },
     {
       "title": "Expectations of Fed Tightening Drive Dollar Higher",
@@ -5456,6 +5508,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-24T22:43:00+00:00"
+    },
+    {
+      "title": "Predicting LoRA size for any dataset",
+      "link": "https://engram.com/blog/lora-size",
+      "summary": "Article URL: https://engram.com/blog/lora-size\nComments URL: https://news.ycombinator.com/item?id=50635783\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T22:34:29+00:00"
     },
     {
       "title": "毎月のように点滴→風邪さえひかない体　モデルの益若つばささんの体を変えた\"食事のルール\"と\"不調サインを知る方法\" | ライフ | 東洋経済オンライン",
