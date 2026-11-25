@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T02:34:36.536060+00:00",
+  "generated_at": "2026-11-25T02:47:45.438158+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3318,9 +3318,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "日経平均、AI・半導体中心に大幅反落　米関税引き上げ報道も影響",
+      "link": "https://www.asahi.com/articles/ASVCT0S2TVCTULFA006M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-25T02:47:40.713439+00:00"
+    },
+    {
+      "title": "くら寿司 値上げ・値下げ同時なぜ",
+      "link": "https://news.yahoo.co.jp/pickup/6603897?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-25T02:37:57+00:00"
+    },
+    {
+      "title": "〈もう1つの首脳会議〉が開かれていた…力にモノ言わせる\"大国主義\"に同盟国はアメリカ離れ､日本はどう生きるのか? | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965612?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "世界のパワーバランスが揺らぐ中､アメリカへの忠誠を装いつつも本音では中国や独自路線にシフトするASEANや欧州､湾岸諸国。強大国への依存から距離を置き､各国が自立を模索しています。日本はこの｢荒れた…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-25T02:30:00+00:00"
+    },
     {
       "title": "日経平均 一時2000円超値下がり",
       "link": "https://news.yahoo.co.jp/pickup/6603901?source=rss",
@@ -3360,6 +3388,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-25T02:10:21+00:00"
+    },
+    {
+      "title": "chocoZAPの「広告事業」、なぜ好調？　「月額2980円」維持のために開始、手ごたえを感じた施策は",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/25/news031.html",
+      "summary": "月額2980円（税別）で利用できるジム「chocoZAP」が、広告事業に力を入れている。店内での商品サンプリングやタブレット広告、アプリでの広告配信などを展開する。低価格ジムを維持するための収益源として期待する広告事業には、どんな強みがあるのか。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-25T02:10:00+00:00"
     },
     {
       "title": "マイホームの競売増加「新築プレミアム」も影響　目立つ郊外一戸建て",
@@ -3477,6 +3513,14 @@
       "title": "Matrix Multiplication is O(n^2.25) [pdf]",
       "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
       "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf\nComments URL: https://news.ycombinator.com/item?id=50637220\nPoints: 25\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T01:19:26+00:00"
+    },
+    {
+      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf\nComments URL: https://news.ycombinator.com/item?id=50637220\nPoints: 114\n# Comments: 28",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-25T01:19:26+00:00"
