@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T19:17:41.425834+00:00",
+  "generated_at": "2026-11-25T19:32:57.876590+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3602,9 +3602,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Stocks Pare Losses as Anthropic Shares Swing Higher",
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?mod=rss_markets_main",
+      "summary": "Stocks were paring their losses heading into the Thanksgiving holiday.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T19:30:00+00:00"
+    },
+    {
+      "title": "New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals",
+      "link": "https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62?mod=mw_rss_topstories",
+      "summary": "Sales of newly built homes surged to the highest level of the year in October, as home builders offered aggressive discounts to buyers.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T19:20:00+00:00"
+    },
     {
       "title": "駐輪場で刺され７０歳男性死亡　直前に駅員暴行、容疑で男逮捕―福岡県警",
       "link": "https://www.jiji.com/jc/article?k=2026112500741&g=soc&m=rss",
@@ -3612,6 +3632,22 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-25T19:17:37.212147+00:00"
+    },
+    {
+      "title": "Why macro investor Raoul Pal says the dollar is the signal to watch for stocks and crypto",
+      "link": "https://www.marketwatch.com/story/why-macro-investor-raoul-pal-says-the-dollar-is-the-signal-to-watch-for-stocks-and-crypto-d36f3c49?mod=mw_rss_topstories",
+      "summary": "Real Vision CEO Raoul Pal explains how liquidity moves stocks and crypto, why he does not expect a recession in 2027 and how emotion cost him in 2009",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T19:16:00+00:00"
+    },
+    {
+      "title": "SpaceX wins FCC approval to deploy 1M orbital data center satellites",
+      "link": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html\nComments URL: https://news.ycombinator.com/item?id=50645978\nPoints: 13\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T18:59:43+00:00"
     },
     {
       "title": "Comex Gold Settles 0.71% Lower at $3534.70",
@@ -5436,6 +5472,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-25T02:04:15+00:00"
+    },
+    {
+      "title": "How did pinwheel calculators work?",
+      "link": "https://blog.coredump.cx/p/how-did-pinwheel-calculators-work",
+      "summary": "Article URL: https://blog.coredump.cx/p/how-did-pinwheel-calculators-work\nComments URL: https://news.ycombinator.com/item?id=50637448\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T02:00:08+00:00"
     },
     {
       "title": "Shein to pay $100mn to resolve US allegations that it deceived customers",
