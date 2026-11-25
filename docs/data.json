@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T19:32:57.876590+00:00",
+  "generated_at": "2026-11-25T19:47:49.055907+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3606,15 +3606,67 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "つくばのデータセンター計画で市民説明会　業者側が回答控える場面も",
+      "link": "https://www.asahi.com/articles/ASVCT3HZCVCTUJHB002M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-25T19:47:42.384185+00:00"
+    },
+    {
+      "title": "Nvidia is heading for its first ‘death cross’ since March 2025 as stock continues to struggle",
+      "link": "https://www.marketwatch.com/story/nvidia-is-heading-for-its-first-death-cross-since-march-2025-as-stock-continues-to-struggle-a611b99c?mod=mw_rss_topstories",
+      "summary": "This tape has not been kind to Nvidia.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T19:43:00+00:00"
+    },
+    {
+      "title": "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
+      "link": "https://www.marketwatch.com/story/the-fed-says-inflation-hasnt-gotten-any-better-ahead-of-its-key-december-vote-to-raise-rates-65024d33?mod=mw_rss_topstories",
+      "summary": "Just ahead of pivotal December vote to raise U.S. interest rates, the Federal Reserve on Wednesday said stubborn inflation remains a thorn in the side of an expanding economy.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T19:39:00+00:00"
+    },
+    {
+      "title": "Gold Futures Settle Off Day’s Lows as Yields, U.S. Dollar Slip",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-with-u-s-inflation-data-in-focus-17f37be3?mod=rss_markets_main",
+      "summary": "Gold futures settled lower for a second straight session as precious metals remain pressured by dollar strength and expectations that inflation will drive the Fed to raise interest rates.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T19:34:00+00:00"
+    },
+    {
+      "title": "Dan Loeb’s Hedge Fund Returns to Startup Investing Years After FTX Loss",
+      "link": "https://www.wsj.com/finance/investing/dan-loebs-hedge-fund-returns-to-startup-investing-years-after-ftx-loss-46f36108?mod=rss_markets_main",
+      "summary": "The billionaire told investors that Third Point overhauled its process for investing in late-stage private companies.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T19:33:00+00:00"
+    },
     {
       "title": "Stocks Pare Losses as Anthropic Shares Swing Higher",
       "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?mod=rss_markets_main",
       "summary": "Stocks were paring their losses heading into the Thanksgiving holiday.",
       "source": "WSJ マーケット",
       "category": "海外金融",
+      "published": "2026-11-25T19:30:00+00:00"
+    },
+    {
+      "title": "阪神9000系､従来のイメージ一新｢復興の立役者｣ 震災後短期間で登場､阪神初の本格ステンレス車 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965592?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "阪神･淡路大震災の翌年にデビューした阪神電気鉄道の｢9000系｣。その誕生にはいったいどんな経緯があったのでしょうか。車両基地での独占取材だからこそ特徴がよくわかる外観や客室内､運転席は､本文中の【…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
       "published": "2026-11-25T19:30:00+00:00"
     },
     {
@@ -3640,6 +3692,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-25T19:16:00+00:00"
+    },
+    {
+      "title": "Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]",
+      "link": "https://scottaaronson.blog/?p=10379",
+      "summary": "Article URL: https://scottaaronson.blog/?p=10379\nComments URL: https://news.ycombinator.com/item?id=50646108\nPoints: 35\n# Comments: 9",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T19:11:27+00:00"
     },
     {
       "title": "SpaceX wins FCC approval to deploy 1M orbital data center satellites",
@@ -3720,6 +3780,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-25T17:37:17+00:00"
+    },
+    {
+      "title": "The polynomial Hirsch conjecture is false [pdf]",
+      "link": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+      "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf\nComments URL: https://news.ycombinator.com/item?id=50644980\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T17:34:34+00:00"
     },
     {
       "title": "Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates.",
