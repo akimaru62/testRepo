@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:47:37.872299+00:00",
+  "generated_at": "2026-11-25T10:06:00.295046+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3434,9 +3434,85 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "関文科相問責、野党２６日提出　高市政権、続投方針を堅持",
+      "link": "https://www.jiji.com/jc/article?k=2026112500706&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T10:05:55.093557+00:00"
+    },
+    {
+      "title": "AIは核兵器のように規制できるのか　核専門家が語る決定的な違い",
+      "link": "https://www.asahi.com/articles/ASVCT20W9VCTUHBI02PM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-25T10:05:54.714425+00:00"
+    },
+    {
+      "title": "決済アプリ「Payどん」　26日午後サービス再開　鹿児島銀行など",
+      "link": "https://www.asahi.com/articles/ASVCT32VHVCTTLTB007M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-25T10:05:54.714380+00:00"
+    },
+    {
+      "title": "Kylie Jenner again relists concrete mansion in L.A. for $38 million",
+      "link": "https://www.marketwatch.com/story/kylie-jenner-again-relists-concrete-mansion-in-l-a-for-38-million-2e5143e5?mod=mw_rss_topstories",
+      "summary": "Kylie Jenner’s fortress-like home is back on the market, this time with a fresh set of listing images—some of which have been enhanced by AI.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T10:05:00+00:00"
+    },
+    {
+      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+      "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+      "summary": "“I was paralyzed during the market downturn.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T10:05:00+00:00"
+    },
+    {
+      "title": "NBA star Kevin Durant lists Arizona mansion for $13.9 million, a year after trade to Houston",
+      "link": "https://www.marketwatch.com/story/nba-star-kevin-durant-lists-arizona-mansion-for-13-9-million-a-year-after-trade-to-houston-1b0ae57e?mod=mw_rss_topstories",
+      "summary": "Houston Rockets star Kevin Durant has listed his sprawling Arizona property for $13.9 million—just three years after he picked up the palatial pad.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T10:01:00+00:00"
+    },
+    {
+      "title": "ANA パイロット養成会社を設立",
+      "link": "https://news.yahoo.co.jp/pickup/6603962?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-25T10:00:10+00:00"
+    },
+    {
+      "title": "Stock Market Today: Tech-Led Slide Continues as Confidence in AI Trade Weakens",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026?mod=rss_markets_main",
+      "summary": "Investors await inflation data that could affect Fed's rate path, plus tariffs announcement",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T09:56:46+00:00"
+    },
+    {
+      "title": "Sterling Could Struggle as BOE Governor Presents Before Lawmakers",
+      "link": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
+      "summary": "The euro fell and looked set to remain under pressure against the dollar in the near term given the risk-off environment and French political uncertainty, ING said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T09:45:00+00:00"
+    },
     {
       "title": "Treasury and European Government Bond Yields Fall Ahead of PCE Inflation Data",
       "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-ahead-of-pce-inflation-data-dfeb7995?mod=rss_markets_main",
