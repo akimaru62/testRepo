@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T13:18:49.591129+00:00",
+  "generated_at": "2026-11-25T13:33:26.592628+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3502,9 +3502,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "The real price of Jensen Huang’s return to Nvidia: Higher regulatory costs for the company — and the entire AI industry",
+      "link": "https://www.marketwatch.com/story/the-real-price-of-jensen-huangs-return-to-nvidia-higher-regulatory-costs-for-the-company-and-the-entire-ai-industry-982002d4?mod=mw_rss_topstories",
+      "summary": "After an initial rally, Nvidia shares fell as investors now must consider the legal and regulatory risks around having a scandal-ridden CEO back at the helm.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T13:30:00+00:00"
+    },
+    {
+      "title": "U.S. proposes fresh tariffs on China, others as Trump doubles down on his favorite trade weapon",
+      "link": "https://www.marketwatch.com/story/u-s-proposes-fresh-tariffs-on-china-others-as-trump-doubles-down-on-his-favorite-trade-weapon-cd9a1df9?mod=mw_rss_topstories",
+      "summary": "A plan for new levies comes after Supreme Court tossed broader Trump tariffs earlier this year.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T13:30:00+00:00"
+    },
+    {
+      "title": "Nasdaq Futures Tumble as AI Selloff Returns",
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?mod=rss_markets_main",
+      "summary": "Nasdaq futures fell sharply as headwinds facing the AI trade returned to the forefront of investors’ focus after Monday’s Jensen Huang-powered market recovery faded.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T13:28:00+00:00"
+    },
     {
       "title": "死亡女児、届かなかったＳＯＳ　「ペチン」訴えも、共有なく―児相「重く受け止め」・兵庫暴行死",
       "link": "https://www.jiji.com/jc/article?k=2026112500702&g=soc&m=rss",
