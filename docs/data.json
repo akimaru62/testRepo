@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T17:47:39.552968+00:00",
+  "generated_at": "2026-11-25T18:06:02.497160+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3578,9 +3578,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "How to choose the next safe step in application modernization",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+      "summary": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill.\nThe post How to choose the next safe step in application modernization appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "category": "開発者向け",
+      "published": "2026-11-25T18:00:00+00:00"
+    },
     {
       "title": "Why this stock-market selloff is probably going to get worse before it gets better",
       "link": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
@@ -3588,6 +3600,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-25T17:39:00+00:00"
+    },
+    {
+      "title": "Why aren't we working 2-days a week?",
+      "link": "https://anihil.com/why-arent-we-working-2-days-a-week",
+      "summary": "Article URL: https://anihil.com/why-arent-we-working-2-days-a-week\nComments URL: https://news.ycombinator.com/item?id=50645010\nPoints: 13\n# Comments: 13",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T17:37:17+00:00"
     },
     {
       "title": "Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates.",
@@ -4041,6 +4061,14 @@
       "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
       "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
       "summary": "Article URL: https://github.com/google-research/google-research/tree/master/cogentic_research_papers\nComments URL: https://news.ycombinator.com/item?id=50642086\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T13:33:07+00:00"
+    },
+    {
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "summary": "Article URL: https://github.com/google-research/google-research/tree/master/cogentic_research_papers\nComments URL: https://news.ycombinator.com/item?id=50642086\nPoints: 289\n# Comments: 230",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-25T13:33:07+00:00"
@@ -5417,6 +5445,14 @@
       "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
       "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
       "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf\nComments URL: https://news.ycombinator.com/item?id=50637220\nPoints: 114\n# Comments: 28",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T01:19:26+00:00"
+    },
+    {
+      "title": "The matrix multiplication exponent is nine fourths [pdf]",
+      "link": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf\nComments URL: https://news.ycombinator.com/item?id=50637220\nPoints: 902\n# Comments: 508",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-25T01:19:26+00:00"
