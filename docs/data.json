@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T01:34:40.403739+00:00",
+  "generated_at": "2026-11-25T01:47:40.528823+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3302,9 +3302,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Still Too Early to Bet Against the U.S. Dollar",
+      "link": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
+      "summary": "Artificial-intelligence jitters and fresh tariff risks are testing the U.S. dollar, but it’s still too early to bet against it, OCBC said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T01:39:00+00:00"
+    },
     {
       "title": "Gold’s Comeback May Have to Wait",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-with-u-s-inflation-data-in-focus-17f37be3?mod=rss_markets_main",
@@ -3376,6 +3388,22 @@
       "source": "財務省",
       "category": "公的機関",
       "published": "2026-11-25T01:00:00+00:00"
+    },
+    {
+      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "link": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "summary": "Article URL: https://greydanus.github.io/2026/11/12/pengpt/\nComments URL: https://news.ycombinator.com/item?id=50637056\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T00:54:49+00:00"
+    },
+    {
+      "title": "Here in the World: Letters of Albert Camus, 1944–1959",
+      "link": "https://literaryreview.co.uk/here-in-the-world",
+      "summary": "Article URL: https://literaryreview.co.uk/here-in-the-world\nComments URL: https://news.ycombinator.com/item?id=50636925\nPoints: 14\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T00:36:43+00:00"
     },
     {
       "title": "国債金利情報(令和8年11月24日)",
@@ -3565,6 +3593,14 @@
       "title": "Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available",
       "link": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available",
       "summary": "Article URL: https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available\nComments URL: https://news.ycombinator.com/item?id=50635698\nPoints: 4\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T22:26:41+00:00"
+    },
+    {
+      "title": "Fable 5.2 tries less on some hard tasks when a shortcut is available",
+      "link": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available",
+      "summary": "Article URL: https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available\nComments URL: https://news.ycombinator.com/item?id=50635698\nPoints: 47\n# Comments: 40",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-24T22:26:41+00:00"
@@ -4920,6 +4956,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-24T11:25:00+00:00"
+    },
+    {
+      "title": "The Artificial Monkey Mind",
+      "link": "https://eamonnsullivan.co.uk/posts/the-artificial-monkey-mind/",
+      "summary": "Article URL: https://eamonnsullivan.co.uk/posts/the-artificial-monkey-mind/\nComments URL: https://news.ycombinator.com/item?id=50626620\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T11:19:00+00:00"
     },
     {
       "title": "ＡＩの法的責任、検討開始　政府専門調査会が初会合",
