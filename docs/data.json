@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T05:33:23.127193+00:00",
+  "generated_at": "2026-11-25T05:47:30.797769+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3366,9 +3366,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "擬態段ボールも 置き配の盗難対策",
+      "link": "https://news.yahoo.co.jp/pickup/6603919?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-25T05:42:06+00:00"
+    },
     {
       "title": "Invisible Wave Hits California, Oregon and Canada as Towns Evacuate",
       "link": "https://www.abovethenormnews.com/2026/11/24/king-tides-california/",
@@ -3424,6 +3436,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-25T05:00:04+00:00"
+    },
+    {
+      "title": "Treasury CIO is too busy vibecoding instead of doing his job #147",
+      "link": "https://github.com/samcorcos/legatum/issues/147",
+      "summary": "Article URL: https://github.com/samcorcos/legatum/issues/147\nComments URL: https://news.ycombinator.com/item?id=50638647\nPoints: 20\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T04:56:36+00:00"
     },
     {
       "title": "Show HN: U.S. Interstate Weather",
