@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T23:17:37.449466+00:00",
+  "generated_at": "2026-11-25T23:33:06.470090+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3666,9 +3666,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Financier Todd Boehly strikes deal for Lukoil assets",
+      "link": "https://www.ft.com/content/643dc287-d112-4715-bdf1-aa49b98a4af7?syn-25a6b1a6=1",
+      "summary": "Shares in the Russian oil company have been frozen since Moscow’s full-scale invasion of Ukraine in 2022",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-25T23:18:32+00:00"
+    },
     {
       "title": "次期指導部人事に影響必至　上海市トップ失脚で―中国",
       "link": "https://www.jiji.com/jc/article?k=2026112501025&g=int&m=rss",
@@ -3732,6 +3744,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-25T23:00:00+00:00"
+    },
+    {
+      "title": "Jev is (probably) Qwen3.5-35B-A3B",
+      "link": "https://modaic.dev/blog/latency-doesnt-lie",
+      "summary": "Article URL: https://modaic.dev/blog/latency-doesnt-lie\nComments URL: https://news.ycombinator.com/item?id=50648823\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T22:57:04+00:00"
     },
     {
       "title": "月給28万円で2億貯めた投資家が《ふつうの会社員にこそ向いている》と奨める｢買ったら､売らない｣投資法のスゴさ | 政治・経済・投資 | 東洋経済オンライン",
