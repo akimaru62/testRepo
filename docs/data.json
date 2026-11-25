@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T20:17:55.945356+00:00",
+  "generated_at": "2026-11-25T20:33:23.607418+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3618,6 +3618,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -4793,6 +4797,14 @@
       "title": "Stock Market Today: Tech-Led Slide Deepens as Confidence in AI Trade Weakens",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026?mod=rss_markets_main",
       "summary": "Anthropic, Nvidia slump further premarket",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T09:56:46+00:00"
+    },
+    {
+      "title": "Stock Market Today: Stocks Pare Losses As Tech Selloff Eases",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026?mod=rss_markets_main",
+      "summary": "Nasdaq tumbles; Nvidia and Micron slump",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-25T09:56:46+00:00"
