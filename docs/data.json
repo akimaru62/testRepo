@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T23:47:38.138001+00:00",
+  "generated_at": "2026-11-25T00:13:24.854827+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3270,9 +3270,61 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "運輸安全委法、次期国会で改正へ　自動運転事故を調査対象に",
+      "link": "https://www.jiji.com/jc/article?k=2026112400570&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T00:13:20.299509+00:00"
+    },
+    {
+      "title": "高市首相、文科相擁護鮮明　「辞任ドミノ」懸念―消費税法案へ影響不可避",
+      "link": "https://www.jiji.com/jc/article?k=2026112400980&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T00:13:20.299467+00:00"
+    },
+    {
+      "title": "｢失敗したらどうしよう｣とすぐに尻込みしてしまう人は試す価値あり！　心理学者が説く《正しい自己暗示》のかけ方 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964286?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "忙しさに追われる日々､｢休息は週末に｣と先延ばしにしていませんか？　実は日々の小さなセルフケアこそが､ストレスをため込まない秘訣。姿勢や自己暗示など､すぐ実践できる心の整え方を詳しくご紹介します。今…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-25T00:00:00+00:00"
+    },
+    {
+      "title": "貸出約定平均金利（9月）",
+      "link": "http://www.boj.or.jp/statistics/dl/loan/yaku/yaku2609.pdf",
+      "summary": "",
+      "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-11-24T23:50:00+00:00"
+    },
+    {
+      "title": "企業向けサービス価格指数（10月）",
+      "link": "http://www.boj.or.jp/statistics/pi/cspi_release/sppi2610.pdf",
+      "summary": "",
+      "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-11-24T23:50:00+00:00"
+    },
+    {
+      "title": "Shein to pay $100mn to resolve US  allegations it deceived customers",
+      "link": "https://www.ft.com/content/0128d44e-8ca1-49b8-868b-b8fe0e4824c6?syn-25a6b1a6=1",
+      "summary": "Federal Trade Commission claims cotton that the retailer’s suppliers said was US-grown was harvested in China.",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-24T23:48:33+00:00"
+    },
     {
       "title": "The WSJ Dollar Index Falls 0.27% to 98.75",
       "link": "https://www.wsj.com/articles/dollar-stays-strong-after-nvidia-news-boosts-u-s-tech-stocks-a0c603c2?mod=rss_markets_main",
@@ -3288,6 +3340,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-24T23:35:31+00:00"
+    },
+    {
+      "title": "Get in, friends, the Atmosphere is happening",
+      "link": "https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9",
+      "summary": "Article URL: https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9\nComments URL: https://news.ycombinator.com/item?id=50636286\nPoints: 9\n# Comments: 9",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-24T23:23:35+00:00"
     },
     {
       "title": "フアン氏復帰もやまぬ追及　情報漏えい疑惑晴れず―米エヌビディア",
