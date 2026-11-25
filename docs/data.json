@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T17:33:19.709082+00:00",
+  "generated_at": "2026-11-25T17:47:39.552968+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3574,9 +3574,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "link": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
+      "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a durable bottom can arrive.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T17:39:00+00:00"
+    },
     {
       "title": "Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates.",
       "link": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
