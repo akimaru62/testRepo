@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T23:33:06.470090+00:00",
+  "generated_at": "2026-11-25T23:47:31.080851+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3670,9 +3670,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "中小企業の賃上げ税制 縮小で調整",
+      "link": "https://news.yahoo.co.jp/pickup/6604006?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-25T23:39:50+00:00"
+    },
+    {
+      "title": "友達の輪に入れない､落ち着かない…｢このままじゃダメな子になるかも｣と焦るご両親へ､その｢短所｣は\"未来への伏線\"です | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965624?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "子どもの｢今｣の姿に不安や焦りを感じてしまう保護者は多いもの。しかし､その悩みや短所こそが人生という壮大な物語の伏線となり､成長へのきっかけになることも。わが子の未来を信じて､見守る心構えについて解…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-25T23:30:00+00:00"
+    },
+    {
+      "title": "Israeli judges advise prosecutors to drop some charges against Netanyahu",
+      "link": "https://www.ft.com/content/db700af5-22b2-4903-ae2e-124513681071?syn-25a6b1a6=1",
+      "summary": "Country’s attorney-general told there is little chance of a bribery conviction in a boost for the premier",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-25T23:18:48+00:00"
+    },
     {
       "title": "Financier Todd Boehly strikes deal for Lukoil assets",
       "link": "https://www.ft.com/content/643dc287-d112-4715-bdf1-aa49b98a4af7?syn-25a6b1a6=1",
@@ -3824,6 +3852,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-25T22:16:00+00:00"
+    },
+    {
+      "title": "Bare Metal Qwen",
+      "link": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+      "summary": "Article URL: https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os\nComments URL: https://news.ycombinator.com/item?id=50648365\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T22:15:34+00:00"
     },
     {
       "title": "なぜ安倍元首相が狙われたのか？山上被告は｢日本は韓国の指示で動いている｣と証言…彼が見えていなかった教団の実像 | ライフ | 東洋経済オンライン",
