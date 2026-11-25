@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T13:05:40.974896+00:00",
+  "generated_at": "2026-11-25T13:18:49.591129+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3498,9 +3498,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "死亡女児、届かなかったＳＯＳ　「ペチン」訴えも、共有なく―児相「重く受け止め」・兵庫暴行死",
+      "link": "https://www.jiji.com/jc/article?k=2026112500702&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T13:18:44.402478+00:00"
+    },
+    {
+      "title": "What the options market says to do with Nvidia’s stock — and the rest of the stock market",
+      "link": "https://www.marketwatch.com/story/what-the-options-market-says-to-do-with-nvidias-stock-and-the-rest-of-the-stock-market-de9584ae?mod=mw_rss_topstories",
+      "summary": "The put-call ratio is sending a strong message about Nvidia’s stock, and history suggests a post-Thanksgiving “bull spread” strategy for the Russell 2000 ETF.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T13:16:00+00:00"
+    },
+    {
+      "title": "S&P 500’s slide through a key trendline — again — is an ominous sign, history suggests",
+      "link": "https://www.marketwatch.com/story/s-p-500s-slide-through-a-key-trendline-again-is-an-ominous-sign-history-suggests-def8b99f?mod=mw_rss_topstories",
+      "summary": "There’s been no V-shaped recovery for the market this time – and that’s a problem",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T13:09:00+00:00"
+    },
     {
       "title": "阪神の佐藤輝明、２年連続ＭＶＰ　パはソフトバンクの栗原陵矢が初受賞―プロ野球",
       "link": "https://www.jiji.com/jc/article?k=2026112500995&g=spo&m=rss",
@@ -3508,6 +3536,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-25T13:05:37.635401+00:00"
+    },
+    {
+      "title": "Liquidity peaked. First bitcoin fell, then gold and now stocks. How long the downturn will last, according to this veteran strategist.",
+      "link": "https://www.marketwatch.com/story/liquidity-peaked-first-bitcoin-fell-then-gold-and-now-stocks-how-long-the-downturn-will-last-according-to-this-veteran-strategist-bb91d6c4?mod=mw_rss_topstories",
+      "summary": "Mike Howell predicts that equities are in a for a tough time for a while yet but the second half of next year will be stronger.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T13:05:00+00:00"
     },
     {
       "title": "パイロット不足 航空の2030年問題",
