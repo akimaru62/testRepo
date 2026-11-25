@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T00:55:51.555382+00:00",
+  "generated_at": "2026-11-25T01:06:48.960951+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3286,15 +3286,59 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "営業毎旬報告（11月20日現在）",
+      "link": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261120.htm",
+      "summary": "",
+      "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-11-25T01:00:00+00:00"
+    },
+    {
+      "title": "財政投融資分科会（令和8年10月28日開催）議事要旨",
+      "link": "https://www.mof.go.jp/about_mof/councils/fiscal_system_council/sub-of_filp/proceedings/outline/zaitoa20261028.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-25T01:00:00+00:00"
+    },
+    {
+      "title": "普通財産（未利用国有地）の状況",
+      "link": "https://www.mof.go.jp/policy/national_property/summary/property_audit/index.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-25T01:00:00+00:00"
+    },
+    {
+      "title": "国有特許権等一件別情報",
+      "link": "https://www.mof.go.jp/policy/national_property/list/patent/index.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-25T01:00:00+00:00"
+    },
     {
       "title": "国債金利情報(令和8年11月24日)",
       "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
       "summary": "",
       "source": "財務省",
       "category": "公的機関",
+      "published": "2026-11-25T00:30:00+00:00"
+    },
+    {
+      "title": "BtoBマーケター苦戦　「生成AIでマーケティングが難しくなった」4割弱、何が起きている？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/25/news013.html",
+      "summary": "AIの台頭により、BtoBマーケターが苦戦している。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
       "published": "2026-11-25T00:30:00+00:00"
     },
     {
