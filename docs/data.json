@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T13:47:45.503256+00:00",
+  "generated_at": "2026-11-25T14:05:44.724348+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3514,9 +3514,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "坑道に水、違法採掘者７人死亡　多数閉じ込めか―インドネシア",
+      "link": "https://www.jiji.com/jc/article?k=2026112500908&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T14:05:40.045068+00:00"
+    },
+    {
+      "title": "U.S. Natural Gas Steady as December Contract Set to Expire",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-steady-as-december-contract-set-to-expire-9d411e92?mod=rss_markets_main",
+      "summary": "U.S. natural gas futures were steady in early trading with the Nymex December contract expiring at the close.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T14:01:00+00:00"
+    },
+    {
+      "title": "Trump announces raft of new tariffs on major economies",
+      "link": "https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0?syn-25a6b1a6=1",
+      "summary": "China, the EU, Japan and South Korea to be hit by levies as US president doubles down on trade strategy",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-25T13:45:11+00:00"
+    },
     {
       "title": "Third-quarter GDP already looked great. Now it looks even better.",
       "link": "https://www.marketwatch.com/story/third-quarter-gdp-already-looked-great-now-it-looks-even-better-12057da5?mod=mw_rss_topstories",
@@ -3540,6 +3568,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-25T13:34:00+00:00"
+    },
+    {
+      "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
+      "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "summary": "Article URL: https://github.com/google-research/google-research/tree/master/cogentic_research_papers\nComments URL: https://news.ycombinator.com/item?id=50642086\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T13:33:07+00:00"
     },
     {
       "title": "The real price of Jensen Huang’s return to Nvidia: Higher regulatory costs for the company — and the entire AI industry",
