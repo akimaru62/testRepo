@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T00:13:24.854827+00:00",
+  "generated_at": "2026-11-25T00:41:41.116010+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3274,9 +3274,57 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "国債金利情報(令和8年11月24日)",
+      "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-25T00:30:00+00:00"
+    },
+    {
+      "title": "フアン氏 エヌビディア社員に謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6603877?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-25T00:26:32+00:00"
+    },
+    {
+      "title": "Gold Edges Lower With U.S. Inflation Data in Focus",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-with-u-s-inflation-data-in-focus-17f37be3?mod=rss_markets_main",
+      "summary": "Gold edged lower in early Asian trade with U.S. personal consumption expenditure data due later Wednesday in focus.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T00:24:00+00:00"
+    },
+    {
+      "title": "Nikkei Falls 2.8%, Dragged by Chip-Related Stocks",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-8-dragged-by-chip-related-stocks-79ef7a34?mod=rss_markets_main",
+      "summary": "Japanese stocks were lower following Tuesday’s sharp gains as initial enthusiasm over Jensen Huang’s reinstatement as the Nvidia chief waned.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T00:21:00+00:00"
+    },
+    {
+      "title": "新型ウォークマン 歴代最高65万円",
+      "link": "https://news.yahoo.co.jp/pickup/6603878?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-25T00:16:25+00:00"
+    },
     {
       "title": "運輸安全委法、次期国会で改正へ　自動運転事故を調査対象に",
       "link": "https://www.jiji.com/jc/article?k=2026112400570&g=pol&m=rss",
@@ -5017,6 +5065,14 @@
       "title": "Stock Market Today: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026?mod=rss_markets_main",
       "summary": "Anthropic plunges more than 12%, dropping below its IPO price",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-24T09:53:51+00:00"
+    },
+    {
+      "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026?mod=rss_markets_main",
+      "summary": "Anthropic drops sharply, sinking below its IPO price",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-24T09:53:51+00:00"
