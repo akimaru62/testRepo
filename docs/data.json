@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:33:32.910696+00:00",
+  "generated_at": "2026-11-25T09:47:37.872299+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3430,9 +3430,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Treasury and European Government Bond Yields Fall Ahead of PCE Inflation Data",
+      "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-ahead-of-pce-inflation-data-dfeb7995?mod=rss_markets_main",
+      "summary": "U.S. Treasury and European government bond yields fell as investors awaited October personal consumption expenditures inflation data and the second estimate of third-quarter GDP.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T09:43:00+00:00"
+    },
+    {
+      "title": "Nasdaq Futures Slide as AI Growth Fears Return to Center Stage",
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?mod=rss_markets_main",
+      "summary": "Nasdaq futures fell sharply as headwinds facing the AI trade returned to the forefront of investors’ focus after Monday’s Jensen Huang-powered market recovery faded.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T09:36:00+00:00"
+    },
     {
       "title": "非上場株の評価見直し、来年度税制改正は見送りへ　自民税調会長",
       "link": "https://www.asahi.com/articles/ASVCT2SXPVCTULFA01LM.html?ref=rss",
@@ -3504,6 +3524,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-25T08:35:00+00:00"
+    },
+    {
+      "title": "Why Automated Proof-Solving Is the Same Old Dead End",
+      "link": "https://arxiv.org/abs/2611.31286",
+      "summary": "Article URL: https://arxiv.org/abs/2611.31286\nComments URL: https://news.ycombinator.com/item?id=50639929\nPoints: 7\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T08:23:34+00:00"
     },
     {
       "title": "「介護で買い物依存症に」　横領容疑で元会社役員の女逮捕―警視庁",
@@ -3779,6 +3807,14 @@
     },
     {
       "title": "Europe must not accept ‘hybrid’ warfare as normal, defence chief warns",
+      "link": "https://www.ft.com/content/7f57f64e-1f85-4be8-87ec-2db18830ebb2?syn-25a6b1a6=1",
+      "summary": "Comments follow surge in attempted sabotage and arson attacks on defence facilities, airports and other critical infrastructure",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-25T05:00:12+00:00"
+    },
+    {
+      "title": "Europe must not accept ‘hybrid’ warfare as normal, defence CEO warns",
       "link": "https://www.ft.com/content/7f57f64e-1f85-4be8-87ec-2db18830ebb2?syn-25a6b1a6=1",
       "summary": "Comments follow surge in attempted sabotage and arson attacks on defence facilities, airports and other critical infrastructure",
       "source": "Financial Times",
