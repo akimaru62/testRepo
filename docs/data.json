@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T07:06:22.866010+00:00",
+  "generated_at": "2026-11-25T07:20:19.100760+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3390,9 +3390,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "関文科相問責、野党２６日提出　与党、否決に全力",
+      "link": "https://www.jiji.com/jc/article?k=2026112500706&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T07:20:11.918737+00:00"
+    },
+    {
+      "title": "駅駐輪場で男性刺され意識不明　刃物持った男逃走―福岡県警",
+      "link": "https://www.jiji.com/jc/article?k=2026112500741&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T07:20:11.918724+00:00"
+    },
+    {
+      "title": "スイス外交事務所代表を追放　制裁に反発、再開１カ月で閉鎖―北朝鮮",
+      "link": "https://www.jiji.com/jc/article?k=2026112500735&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T07:20:11.918702+00:00"
+    },
+    {
+      "title": "石川佳純さんが結婚発表　卓球",
+      "link": "https://www.jiji.com/jc/article?k=2026112500731&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T07:20:11.918672+00:00"
+    },
+    {
+      "title": "AI規制に核の教訓は通用するか？　核専門家が指摘する難しい理由",
+      "link": "https://www.asahi.com/articles/ASVCT20W9VCTUHBI02PM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-25T07:20:11.565268+00:00"
+    },
     {
       "title": "トランプ政権、日本や中国など16カ国・地域に新関税準備か　米報道",
       "link": "https://www.asahi.com/articles/ASVCT21SVVCTUHBI00VM.html?ref=rss",
