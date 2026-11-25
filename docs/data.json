@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T03:21:17.702634+00:00",
+  "generated_at": "2026-11-25T03:34:39.085359+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3330,9 +3330,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Singapore Dollar Weakens as Focus Turns to U.S. Econ Data",
+      "link": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
+      "summary": "The Singapore dollar weakens against its U.S. counterpart in Asia.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T03:27:00+00:00"
+    },
     {
       "title": "海上貿易の書類デジタル化　改正商法が成立",
       "link": "https://www.jiji.com/jc/article?k=2026112500129&g=pol&m=rss",
@@ -3372,6 +3384,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-25T02:34:21+00:00"
+    },
+    {
+      "title": "A 1:1 replica of the London DLR",
+      "link": "https://jabza.github.io/labs/dlr-rider/",
+      "summary": "Article URL: https://jabza.github.io/labs/dlr-rider/\nComments URL: https://news.ycombinator.com/item?id=50637661\nPoints: 3\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T02:31:49+00:00"
     },
     {
       "title": "〈もう1つの首脳会議〉が開かれていた…力にモノ言わせる\"大国主義\"に同盟国はアメリカ離れ､日本はどう生きるのか? | 政治・経済・投資 | 東洋経済オンライン",
@@ -3508,6 +3528,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-25T01:41:03+00:00"
+    },
+    {
+      "title": "How PyTorch's autograd works, rebuilt in 60 lines of Python",
+      "link": "https://farid-alexander.github.io/autograd-from-scratch/",
+      "summary": "Article URL: https://farid-alexander.github.io/autograd-from-scratch/\nComments URL: https://news.ycombinator.com/item?id=50637344\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T01:40:39+00:00"
     },
     {
       "title": "Still Too Early to Bet Against the U.S. Dollar",
