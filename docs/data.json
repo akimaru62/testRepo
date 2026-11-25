@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T15:06:18.496978+00:00",
+  "generated_at": "2026-11-25T15:18:38.988152+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3534,9 +3534,61 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "千葉、連勝止まるも手応え　Ｊリーグ",
+      "link": "https://www.jiji.com/jc/article?k=2026112501241&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T15:18:34.171288+00:00"
+    },
+    {
+      "title": "水戸、初の連勝　Ｊリーグ",
+      "link": "https://www.jiji.com/jc/article?k=2026112501250&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T15:18:34.171278+00:00"
+    },
+    {
+      "title": "横浜Ｍ、勝負強さ発揮　流れ変えた二田と遠野―Ｊリーグ",
+      "link": "https://www.jiji.com/jc/article?k=2026112501235&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T15:18:34.171265+00:00"
+    },
+    {
+      "title": "岡山の鈴木、攻守に活躍　Ｊリーグ",
+      "link": "https://www.jiji.com/jc/article?k=2026112501252&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T15:18:34.171251+00:00"
+    },
+    {
+      "title": "米、対日１５％関税へ　過剰生産、中国は２０％",
+      "link": "https://www.jiji.com/jc/article?k=2026112501247&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T15:18:34.171210+00:00"
+    },
+    {
+      "title": "Tech-Led Slide Deepens as Confidence in AI Trade Weakens",
+      "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-slide-as-ai-growth-fears-return-to-center-stage-ff9a6d6b?mod=rss_markets_main",
+      "summary": "The Nasdaq led U.S. stock indexes sharply lower as investor worries about the AI trade returned.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T15:09:00+00:00"
+    },
     {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
       "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
