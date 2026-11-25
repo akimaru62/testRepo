@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T01:06:48.960951+00:00",
+  "generated_at": "2026-11-25T01:19:13.751102+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3290,9 +3290,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "ＣＩＡシステムに不正侵入　政府機関にサイバー攻撃続発―米報道",
+      "link": "https://www.jiji.com/jc/article?k=2026112500317&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T01:19:08.694638+00:00"
+    },
+    {
+      "title": "直木賞の候補決まる　宮内悠介さんら５人",
+      "link": "https://www.jiji.com/jc/article?k=2026112500134&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T01:19:08.694584+00:00"
+    },
     {
       "title": "営業毎旬報告（11月20日現在）",
       "link": "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261120.htm",
