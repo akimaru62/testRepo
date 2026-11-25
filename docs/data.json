@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T14:47:30.908741+00:00",
+  "generated_at": "2026-11-25T15:06:18.496978+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3530,9 +3530,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
+      "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+      "summary": "“Since the advent of the atom bomb, all futures have been at risk from the whims of one man.”",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T15:03:00+00:00"
+    },
+    {
+      "title": "BOE’s Bailey Sees Lower Peak For Inflation If Energy Prices Stay Where They Are",
+      "link": "https://www.wsj.com/pro/central-banking/boes-bailey-sees-lower-peak-for-inflation-if-energy-prices-stay-where-they-are-8678fd4f?mod=rss_markets_main",
+      "summary": "The U.K.’s annual rate of inflation would peak at a lower level than the Bank of England had forecast if prices of oil and natural gas were to stay where they are, Governor Andrew Bailey said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T15:00:00+00:00"
+    },
     {
       "title": "米国、新関税の意向表明　日本や中国、EUなど14カ国・地域が対象",
       "link": "https://www.asahi.com/articles/ASVCT21SVVCTUHBI00VM.html?ref=rss",
@@ -3542,12 +3562,28 @@
       "published": "2026-11-25T14:47:24.915552+00:00"
     },
     {
+      "title": "No, Burnham is not taking a risk over Europe",
+      "link": "https://www.ft.com/content/84eb2d60-b229-4bc0-85ef-b56bc1a14338?syn-25a6b1a6=1",
+      "summary": "As long as he stops short of full Rejoin, all the political danger is on the side of his opponents",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-25T14:44:49+00:00"
+    },
+    {
       "title": "Dell sees sales more than double — but its stock falls anyway",
       "link": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
       "summary": "Dell says its backlog is “rigorously vetted for customer quality and access to capital, land and power.”",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-25T14:40:00+00:00"
+    },
+    {
+      "title": "US stocks sell-off deepens as AI trade cracks",
+      "link": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
+      "summary": "Tech-heavy Nasdaq 100 falls more than 4% as weeks-long slide continues",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-25T14:33:19+00:00"
     },
     {
       "title": "Crude Futures Pick Up in Choppy Trading",
@@ -3588,6 +3624,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-25T14:19:21.285700+00:00"
+    },
+    {
+      "title": "Amazon S3 Files",
+      "link": "https://aws.amazon.com/s3/features/files/",
+      "summary": "Article URL: https://aws.amazon.com/s3/features/files/\nComments URL: https://news.ycombinator.com/item?id=50642554\nPoints: 10\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T14:19:21+00:00"
     },
     {
       "title": "US stocks sell-off accelerates as AI trade cracks",
