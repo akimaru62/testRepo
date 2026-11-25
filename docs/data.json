@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T23:04:55.077752+00:00",
+  "generated_at": "2026-11-25T23:17:37.449466+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3662,9 +3662,69 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "次期指導部人事に影響必至　上海市トップ失脚で―中国",
+      "link": "https://www.jiji.com/jc/article?k=2026112501025&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T23:17:30.776399+00:00"
+    },
+    {
+      "title": "ヘグセス米国防長官、１２月８日の訪日調整　思いやり予算、防衛費を議論か",
+      "link": "https://www.jiji.com/jc/article?k=2026112501182&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T23:17:30.776389+00:00"
+    },
+    {
+      "title": "日本語試験の増設検討　特定技能向け、パソコン方式で―外務省",
+      "link": "https://www.jiji.com/jc/article?k=2026112500715&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T23:17:30.776380+00:00"
+    },
+    {
+      "title": "トラック炎上、３０人超死亡　カイロ郊外",
+      "link": "https://www.jiji.com/jc/article?k=2026112600199&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T23:17:30.776371+00:00"
+    },
+    {
+      "title": "ウクライナ侵攻死者４９万人超か　流出データ分析、当局否定―ロシア",
+      "link": "https://www.jiji.com/jc/article?k=2026112600176&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T23:17:30.776362+00:00"
+    },
+    {
+      "title": "関文科相の問責可否、カギ握る保守・無所属　与野党、多数派工作激しく",
+      "link": "https://www.jiji.com/jc/article?k=2026112501114&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T23:17:30.776348+00:00"
+    },
+    {
+      "title": "ＮＹ株続伸、１６４ドル高　一時１１００ドル超下落",
+      "link": "https://www.jiji.com/jc/article?k=2026112600179&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T23:17:30.776316+00:00"
+    },
     {
       "title": "《猫でゆる〜く学べる三国志》劉備･関羽･張飛がかわいい猫になったら…兵集めはマグロ缶で　漫画｢ねこねこ三国志｣第1話 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965553?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -3686,6 +3746,14 @@
       "link": "https://toyokeizai.net/articles/-/965300?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "早稲田大学への憧れを胸に､高校生活すべてを受験対策に捧げた日葵さん。しかし共通テスト本番でのミスにより夢は絶たれ､｢人生が終わった｣と思い込んでしまいます。それでも進学先での新たな出会いや経験が彼女…",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-25T22:30:00+00:00"
+    },
+    {
+      "title": "「AI検索に電話番号が……」鳴りやまぬコールセンター　バッファローは壊れた「顧客導線」をどう改善した？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/26/news015.html",
+      "summary": "PC周辺機器大手バッファローのコンタクトセンターでは、AI検索にコールセンターの電話番号が直接表示されるようになり、機器サポートに関する電話問い合わせが急増。現場が逼迫（ひっぱく）していた。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-11-25T22:30:00+00:00"
     },
