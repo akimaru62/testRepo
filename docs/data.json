@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T22:17:54.793030+00:00",
+  "generated_at": "2026-11-25T22:32:56.914056+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3650,9 +3650,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
+      "link": "https://www.wsj.com/finance/stocks/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-604fff0b?mod=rss_markets_main",
+      "summary": "Watch WSJ reporters break down what happened in the days after Nvidia ousted its CEO—and then brought him back.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T22:27:00+00:00"
+    },
     {
       "title": "トランプ政権、新たな関税措置へ　効果に疑問符も、降ろせぬ看板政策",
       "link": "https://www.asahi.com/articles/ASVCT5T4BVCTSFVU35TM.html?ref=rss",
@@ -3684,6 +3696,22 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-25T22:17:50.148610+00:00"
+    },
+    {
+      "title": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
+      "link": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
+      "summary": "Oracle, CoreWeave and other technology stocks bounced back from early losses on Wednesday, after what appeared to be a major selloff eased ahead of the market’s close.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T22:16:00+00:00"
+    },
+    {
+      "title": "なぜ安倍元首相が狙われたのか？山上被告は｢日本は韓国の指示で動いている｣と証言…彼が見えていなかった教団の実像 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964985?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2022年､安倍元首相銃撃事件の犯人･山上徹也。宗教学者･櫻井義秀氏が山上と10時間にわたる対話を重ね､その精神的な葛藤や決断の背景に迫ります。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-25T22:15:00+00:00"
     },
     {
       "title": "Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
@@ -3972,6 +4000,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-25T20:35:50+00:00"
+    },
+    {
+      "title": "72-Hour Fasting Can Reset Your Immune System, USC Study Shows",
+      "link": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
+      "summary": "Article URL: https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/\nComments URL: https://news.ycombinator.com/item?id=50647158\nPoints: 14\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T20:35:39+00:00"
     },
     {
       "title": "充実装備に扱いやすいサイズ感…トヨタ｢タウンエース｣ベースのキャンピングカー｢TR400t LIM/CROSS｣が持つ2つの顔 | ライフ | 東洋経済オンライン",
