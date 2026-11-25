@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T02:47:45.438158+00:00",
+  "generated_at": "2026-11-25T03:06:10.422756+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3322,9 +3322,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Asian Stocks Mostly Lower on AI Doubts, Tariff Jitters",
+      "link": "https://www.wsj.com/finance/stocks/asian-stocks-mostly-lower-on-ai-doubts-tariff-jitters-a0da3389?mod=rss_markets_main",
+      "summary": "Relief from Jensen Huang’s Nvidia return waned and doubts about the artificial-intelligence trade crept in.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T02:53:00+00:00"
+    },
     {
       "title": "日経平均、AI・半導体中心に大幅反落　米関税引き上げ報道も影響",
       "link": "https://www.asahi.com/articles/ASVCT0S2TVCTULFA006M.html?ref=rss",
