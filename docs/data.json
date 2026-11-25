@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T03:47:40.664506+00:00",
+  "generated_at": "2026-11-25T04:06:35.098626+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3338,9 +3338,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "交付税及び譲与税配付金特別会計の借入金の入札結果（令和8年11月25日入札）",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-result261125.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-25T04:00:00+00:00"
+    },
     {
       "title": "40年利付国債（第19回）の入札結果（令和8年11月25日入札）",
       "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261125.htm",
@@ -3348,6 +3360,14 @@
       "source": "財務省",
       "category": "公的機関",
       "published": "2026-11-25T03:35:00+00:00"
+    },
+    {
+      "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+      "link": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+      "summary": "Article URL: https://noahbuilt.it/writing/qwen-on-5600-lambdas\nComments URL: https://news.ycombinator.com/item?id=50638070\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T03:28:06+00:00"
     },
     {
       "title": "Singapore Dollar Weakens as Focus Turns to U.S. Econ Data",
@@ -3358,12 +3378,68 @@
       "published": "2026-11-25T03:27:00+00:00"
     },
     {
+      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "link": "https://buttons.joshwcomeau.com/",
+      "summary": "Article URL: https://buttons.joshwcomeau.com/\nComments URL: https://news.ycombinator.com/item?id=50638032\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T03:23:07+00:00"
+    },
+    {
       "title": "海上貿易の書類デジタル化　改正商法が成立",
       "link": "https://www.jiji.com/jc/article?k=2026112500129&g=pol&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-25T03:21:13.079322+00:00"
+    },
+    {
+      "title": "Macrohistory in Six Facts",
+      "link": "https://basilhalperin.com/essays/macrohistory.html",
+      "summary": "Article URL: https://basilhalperin.com/essays/macrohistory.html\nComments URL: https://news.ycombinator.com/item?id=50637891\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T03:04:46+00:00"
+    },
+    {
+      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+      "link": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+      "summary": "Article URL: https://rida.dev/blog/bypassing-ios-safari-60-fps-limit\nComments URL: https://news.ycombinator.com/item?id=50637890\nPoints: 4\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T03:04:37+00:00"
+    },
+    {
+      "title": "Lua for Data Representation",
+      "link": "https://citrons.xyz/journal/2025-07-23",
+      "summary": "Article URL: https://citrons.xyz/journal/2025-07-23\nComments URL: https://news.ycombinator.com/item?id=50637888\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T03:04:12+00:00"
+    },
+    {
+      "title": "I've been drinking wine in my kitchen",
+      "link": "https://scottaaronson.blog/?p=10362",
+      "summary": "Article URL: https://scottaaronson.blog/?p=10362\nComments URL: https://news.ycombinator.com/item?id=50637874\nPoints: 8\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T03:02:10+00:00"
+    },
+    {
+      "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+      "link": "https://www.proofatlas.ai/open-problems/",
+      "summary": "Article URL: https://www.proofatlas.ai/open-problems/\nComments URL: https://news.ycombinator.com/item?id=50637871\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T03:01:36+00:00"
+    },
+    {
+      "title": "Network Researchers Nail Down Theory of 'Perfect Resilience'",
+      "link": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
+      "summary": "Article URL: https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/\nComments URL: https://news.ycombinator.com/item?id=50637866\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T03:00:39+00:00"
     },
     {
       "title": "Asian Stocks Mostly Lower on AI Doubts, Tariff Jitters",
