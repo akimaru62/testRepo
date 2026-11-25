@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T12:47:38.078282+00:00",
+  "generated_at": "2026-11-25T13:05:40.974896+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3494,9 +3494,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "阪神の佐藤輝明、２年連続ＭＶＰ　パはソフトバンクの栗原陵矢が初受賞―プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026112500995&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T13:05:37.635401+00:00"
+    },
+    {
+      "title": "パイロット不足 航空の2030年問題",
+      "link": "https://news.yahoo.co.jp/pickup/6603979?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-25T13:01:50+00:00"
+    },
     {
       "title": "Here’s how to find value in cybersecurity stocks after a strong year",
       "link": "https://www.marketwatch.com/story/heres-how-to-find-value-in-cybersecurity-stocks-after-a-strong-year-7fbe1f80?mod=mw_rss_topstories",
@@ -3507,6 +3527,14 @@
     },
     {
       "title": "This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he says.",
+      "link": "https://www.marketwatch.com/story/this-strategists-bond-trading-model-is-outperforming-by-a-wide-margin-the-fed-slowing-the-economy-is-a-good-thing-he-argues-f39dfc5f?mod=mw_rss_topstories",
+      "summary": "Inflation and nominal growth have been way too high for too long, argued Michael Darda. Rather than criticizing the Fed for being hawkish, markets should applaud it and recommend it goes as far as necessary to slow demand.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T12:29:00+00:00"
+    },
+    {
+      "title": "This strategist’s bond-trading model is outperforming by a wide margin. A Fed that’s slowing the economy is a good thing, he says.",
       "link": "https://www.marketwatch.com/story/this-strategists-bond-trading-model-is-outperforming-by-a-wide-margin-the-fed-slowing-the-economy-is-a-good-thing-he-argues-f39dfc5f?mod=mw_rss_topstories",
       "summary": "Inflation and nominal growth have been way too high for too long, argued Michael Darda. Rather than criticizing the Fed for being hawkish, markets should applaud it and recommend it goes as far as necessary to slow demand.",
       "source": "MarketWatch",
