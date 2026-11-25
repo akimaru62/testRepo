@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T00:41:41.116010+00:00",
+  "generated_at": "2026-11-25T00:55:51.555382+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3282,6 +3282,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3745,6 +3749,14 @@
       "title": "｢海外旅行は\"自分で選ぶ\"ことの連続｣50歳･女一人で世界一周したから抜け出せた《いい年なんだから》の呪縛 | キャリア・教育 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/963133?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "50歳から世界一周に挑んだ筆者が､最新テクノロジーを駆使しつつ手探りで旅するなかで得たものとは。見識が広がっただけでなく､過酷な旅の真のメリットは､人生の後半で抱えがちな｢心の障壁｣を崩せた点にあり…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-24T21:00:00+00:00"
+    },
+    {
+      "title": "エヌビディア･フアン氏の疑惑でアメリカ政府が東南アジアやブラジル向けAI半導体輸出を規制　中国への締め付け強化 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965571?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "アメリカ政府がAI向け半導体の対外輸出規制をさらに強化しました。背景にはNVIDIAや中国との関係､AI技術覇権を巡る米中の緊張､そして政権内の対立やスキャンダルも絡んでいます。それにしてもなぜ今､…",
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-24T21:00:00+00:00"
