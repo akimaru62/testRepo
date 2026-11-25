@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T13:33:26.592628+00:00",
+  "generated_at": "2026-11-25T13:47:45.503256+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3506,9 +3506,41 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Third-quarter GDP already looked great. Now it looks even better.",
+      "link": "https://www.marketwatch.com/story/third-quarter-gdp-already-looked-great-now-it-looks-even-better-12057da5?mod=mw_rss_topstories",
+      "summary": "Consumer spending and AI investment fuel fastest  economic growth in three years",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T13:41:00+00:00"
+    },
+    {
+      "title": "Euro Expected to Depreciate Further Against Dollar",
+      "link": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
+      "summary": "The euro fell against the dollar and BCA Research said it is expected to weaken further against the dollar in 2027 due to weak growth in the eurozone and political uncertainty in France.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T13:41:00+00:00"
+    },
+    {
+      "title": "Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates.",
+      "link": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
+      "summary": "The measure of inflation used by the Federal Reserve to influence U.S. interest rates rose again in October at an accelerated rate, virtually assuring the central bank will increase borrowing costs next month.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T13:34:00+00:00"
+    },
     {
       "title": "The real price of Jensen Huang’s return to Nvidia: Higher regulatory costs for the company — and the entire AI industry",
       "link": "https://www.marketwatch.com/story/the-real-price-of-jensen-huangs-return-to-nvidia-higher-regulatory-costs-for-the-company-and-the-entire-ai-industry-982002d4?mod=mw_rss_topstories",
@@ -3993,6 +4025,14 @@
       "title": "Stock Market Today: Tech-Led Slide Continues as Confidence in AI Trade Weakens",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026?mod=rss_markets_main",
       "summary": "Investors await inflation data that could affect Fed's rate path, plus tariffs announcement",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T09:56:46+00:00"
+    },
+    {
+      "title": "Stock Market Today: Tech-Led Slide Deepens as Confidence in AI Trade Weakens",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026?mod=rss_markets_main",
+      "summary": "Anthropic, Nvidia slump further premarket",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-25T09:56:46+00:00"
