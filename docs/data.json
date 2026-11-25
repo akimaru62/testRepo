@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T21:05:29.443981+00:00",
+  "generated_at": "2026-11-25T21:18:00.493843+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3630,9 +3630,93 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "茂木外相、赤根所長と会談　ＩＣＣ支援継続を伝達",
+      "link": "https://www.jiji.com/jc/article?k=2026112501044&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T21:17:55.991686+00:00"
+    },
+    {
+      "title": "首相動静（１１月２５日）",
+      "link": "https://www.jiji.com/jc/article?k=2026112500260&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T21:17:55.991644+00:00"
+    },
+    {
+      "title": "創業家トップ「公私混同」追及きっかけは伝説のフェラーリ・ディーノ",
+      "link": "https://www.asahi.com/articles/ASVCS45PWVCSULFA021M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-25T21:17:55.701487+00:00"
+    },
+    {
+      "title": "フアン氏の復帰 企業統治に批判",
+      "link": "https://news.yahoo.co.jp/pickup/6603991?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-25T21:15:51+00:00"
+    },
+    {
+      "title": "AI偽造画像に騙される企業たち──保険金､経費精算､フリマの補償まで｢画像1枚で完結する手続き｣が狙われる仕組み | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965511?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "保険請求や経費精算､フリマ補償など､便利さを追求した｢画像1枚で完結する手続き｣が､生成AIによる巧妙な偽造画像に狙われている。企業は不正防止の新技術導入に動き出したが､｢画像があれば証拠｣という常…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-25T21:05:00+00:00"
+    },
+    {
+      "title": "｢GTA6｣発売初日の売り上げ約6000億円とバケモノ級…ここまでとんでもない作品は\"滅多に登場しない\"と言い切れる事情 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965827?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2026年11月に発売された『グランド･セフト･オートVI（GTA6）』は､発売初日に約6000億円を売り上げたエンタメ業界最大のヒット作品。圧倒的な自由度と異様なまでの作り込みで､オープンワールド…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-25T21:00:00+00:00"
+    },
+    {
+      "title": "貸出残高が24年ぶり減少､カリスマが築いた広島市信組｢最強経営｣が金利上昇で岐路に､中野新理事長を直撃インタビュー | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965679?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "7月11日、信用組合業界のカリスマが逝った。広島市信用組合の前理事長、山本明弘氏だ。享年80。1968年の入組以来、半世紀以上にわたり「融資一筋」を貫き、独自の経営哲学を築き上げた。「融資はロマン」…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-25T21:00:00+00:00"
+    },
+    {
+      "title": "〈虎の子事業を売却？〉学研HDが好調な｢介護の稼ぎ頭｣を手放そうとする真因…迫る自己資本比率\"急減\"という時限爆弾 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965630?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "「介護事業がこのまま伸び続け、例えば連結売上高の8割を占めるようになれば、高齢者が減っていくときにグループとして耐えられない」――。11月13日、学研ホールディングス（HD）の宮原博昭社長は決算会見…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-25T21:00:00+00:00"
+    },
+    {
+      "title": "藤原帰一･東大名誉教授が喝破‥｢アメリカ一辺倒の高市外交は破綻している｣｢多国間主義こそが日本が選ぶべき道だ｣ | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965351?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "――高市政権の対米外交の課題とは。アメリカとの良好な関係を日本政府、日本国民のためにどう生かしていくのか。その視点が高市政権には見られない。大統領との個人的な信頼関係の構築に関心が向かうこと自体は否…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-25T21:00:00+00:00"
+    },
+    {
+      "title": "【明星高校（大阪）】時代を刻んだ卒業生ファイル#18《料理研究家の土井善晴､俳優の津田健次郎､｢シャ乱Q｣はたけ》 | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964933?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "大阪市天王寺区に位置する明星高校は､中高一貫のカトリック系男子校として､その歴史と伝統に根差した教育を行っています。著名な卒業生やスポーツ､文化活動の実績は多方面に及び､志ある若者たちを社会に送り出…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-25T21:00:00+00:00"
+    },
     {
       "title": "ウクライナ発ドローンユニコーン･UFORCEが日本法人設立､ウ軍が｢ロ艦艇12隻以上を撃破｣に使用…首脳が明かすアジア戦略 | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965013?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -3670,6 +3754,22 @@
       "link": "https://toyokeizai.net/articles/-/964883?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "トヨタ｢タウンエース｣をベースに､扱いやすいサイズ感と充実の装備を両立した新型キャンピングカー｢TR400tリム｣と｢TR400tクロス｣。コンセプトが異なる2モデルを発表した狙いとは？",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-25T20:30:00+00:00"
+    },
+    {
+      "title": "【最低賃金引上げ】企業や社員にどんな影響が？　油断できない意外な“落とし穴“も……",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/26/news007.html",
+      "summary": "最低賃金の引き上げにより「106万円の壁」や「130万円の壁」が注目されている。パート社員が多い企業の問題だと思われがちだが、実は正社員がほとんどの企業も注意が必要だ。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-25T20:30:00+00:00"
+    },
+    {
+      "title": "「3COINS」を生んだパルグループHD創業者が死去　売上高1400億円超のアパレルも主力　2つの事業をどう導いた？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/26/news016.html",
+      "summary": "300円ショップ「3COINS」を展開するパルグループHDの創業者・井上英&#63964;氏が死去した。近年は「脱カワイイ路線」で3COINSが再成長を遂げた一方、祖業のアパレル事業も売上高1400億円超と好調だ。50以上のブランド展開や社内インフルエンサー活用など、同社独自の成長戦略を紹介する。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-11-25T20:30:00+00:00"
     },
@@ -4867,6 +4967,14 @@
     },
     {
       "title": "Stock Market Today: Stocks Pare Losses As Tech Selloff Eases",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026?mod=rss_markets_main",
+      "summary": "Nasdaq tumbles; Nvidia and Micron slump",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T09:56:46+00:00"
+    },
+    {
+      "title": "Stock Market Today: Stocks Pare Losses as Tech Selloff Eases",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026?mod=rss_markets_main",
       "summary": "Nasdaq tumbles; Nvidia and Micron slump",
       "source": "WSJ マーケット",
