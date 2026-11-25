@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T14:19:25.005635+00:00",
+  "generated_at": "2026-11-25T14:33:17.207234+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3522,9 +3522,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Crude Futures Pick Up in Choppy Trading",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-futures-decline-as-traders-weigh-competing-supply-risks-9dd3835d?mod=rss_markets_main",
+      "summary": "Oil futures picked up from early losses with sentiment continuing to swing between bearish surplus expectations and bullish Middle East conflict escalation fears.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T14:31:00+00:00"
+    },
     {
       "title": "Ｆ東京、広島ともに譲らず　Ｊ１",
       "link": "https://www.jiji.com/jc/article?k=2026112501187&g=spo&m=rss",
@@ -3548,6 +3560,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-25T14:19:21.285700+00:00"
+    },
+    {
+      "title": "US stocks sell-off accelerates as AI trade cracks",
+      "link": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
+      "summary": "Tech-heavy Nasdaq 100 is set to fall more than 3% as weeks-long slide continues",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-25T14:18:05+00:00"
     },
     {
       "title": "くら寿司 ちいかわ企画初日で終了",
@@ -3652,6 +3672,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-25T13:28:00+00:00"
+    },
+    {
+      "title": "The S&P 500 is headed for a 14% gain next year — and downturns like this one are actually part of the reason, says JPMorgan",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-is-headed-to-8-200-and-downturns-like-this-one-are-actually-part-of-the-reason-why-says-jpmorgan-b6acae4b?mod=mw_rss_topstories",
+      "summary": "While artificial intelligence is still being assessed based on capital expenditure, strategists argued it is time to look more at adoption.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T13:23:00+00:00"
     },
     {
       "title": "死亡女児、届かなかったＳＯＳ　「ペチン」訴えも、共有なく―児相「重く受け止め」・兵庫暴行死",
