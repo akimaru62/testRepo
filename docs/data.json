@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T21:18:00.493843+00:00",
+  "generated_at": "2026-11-25T21:33:28.881450+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3634,9 +3634,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "How to spot ‘bogus boutiques’ and other Black Friday shopping scams",
+      "link": "https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories",
+      "summary": "AI tools have made it even easier for scammers to create fake storefronts and misleading product listings.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T21:29:00+00:00"
+    },
+    {
+      "title": "U.S. Dollar Slips After Muted Reaction to U.S. Data",
+      "link": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
+      "summary": "The dollar fell following a raft of economic indicators early in the session.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T21:28:00+00:00"
+    },
+    {
+      "title": "Stocks Finish Lower After Wild Session",
+      "link": "https://www.wsj.com/finance/stocks/stocks-finish-lower-after-wild-session-df50cdeb?mod=rss_markets_main",
+      "summary": "Plus, tariffs are back on the agenda and Nvidia gets a warning",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T21:23:00+00:00"
+    },
     {
       "title": "茂木外相、赤根所長と会談　ＩＣＣ支援継続を伝達",
       "link": "https://www.jiji.com/jc/article?k=2026112501044&g=pol&m=rss",
@@ -3668,6 +3696,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-25T21:15:51+00:00"
+    },
+    {
+      "title": "ディズニーもAI活用に動き出した…アドビとの提携から見えてくる｢AIに何を任せ､何を人間が担うのか｣という課題 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965747?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ウォルト･ディズニーとアドビがAI技術で手を組む—この提携は単なる業務効率化ではありません。ブランドの｢一貫性｣と品質を守るため､ディズニーはアドビのAIツールを導入。人とAIが共創する現代､企業は…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-25T21:15:00+00:00"
     },
     {
       "title": "AI偽造画像に騙される企業たち──保険金､経費精算､フリマの補償まで｢画像1枚で完結する手続き｣が狙われる仕組み | ビジネス | 東洋経済オンライン",
