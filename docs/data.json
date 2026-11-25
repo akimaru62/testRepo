@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T11:17:42.885756+00:00",
+  "generated_at": "2026-11-25T11:33:37.712910+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3466,9 +3466,57 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x7e3f8efab4d0>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "AI株安・消費低迷でも利上げ確率は高水準　日銀、12月の判断は？",
+      "link": "https://www.asahi.com/articles/ASVCT2CMBVCTULFA005M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-25T11:33:33.320441+00:00"
+    },
+    {
+      "title": "楽天証券の情報流出、残る疑問と広がる影響　開店は延期、集団提訴も",
+      "link": "https://www.asahi.com/articles/ASVCT3DY2VCTULFA01WM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-25T11:33:33.320396+00:00"
+    },
+    {
+      "title": "The S&P 500 is headed to 8,200 — and downturns like this one are actually part of the reason why, says JPMorgan",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-is-headed-to-8-200-and-downturns-like-this-one-are-actually-part-of-the-reason-why-says-jpmorgan-b6acae4b?mod=mw_rss_topstories",
+      "summary": "While artificial intelligence is still being assessed based on capital expenditure, strategists argued it’s time to look more at adoption.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T11:27:00+00:00"
+    },
+    {
+      "title": "Nvidia’s Role as an Underwriter of the AI Boom",
+      "link": "https://www.wsj.com/finance/investing/nvidias-role-as-an-underwriter-of-the-ai-boom-95375800?mod=rss_markets_main",
+      "summary": "Some of the best analysis and insight on investing, the wealth-management business and more.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T11:25:00+00:00"
+    },
+    {
+      "title": "Sterling Could Rise if BOE Officials Signal December Rate Hike",
+      "link": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?mod=rss_markets_main",
+      "summary": "Sterling fell but could strengthen if Bank of England policymakers indicate another interest-rate hike in December, MUFG Bank said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T11:25:00+00:00"
+    },
     {
       "title": "月探査車の試験走行公開　日印共同、２８年度打ち上げ―ＪＡＸＡ",
       "link": "https://www.jiji.com/jc/article?k=2026112501057&g=soc&m=rss",
