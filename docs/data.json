@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T15:18:38.988152+00:00",
+  "generated_at": "2026-11-25T15:33:08.360405+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3538,9 +3538,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Treasury Yields Extend Fall After U.S. Data Flurry",
+      "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-fall-ahead-of-pce-inflation-data-dfeb7995?mod=rss_markets_main",
+      "summary": "U.S. Treasury yields extended their fall after a flurry of U.S. economic data including the personal consumption expenditures price index, the Federal Reserve’s preferred gauge of inflation.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T15:21:00+00:00"
+    },
     {
       "title": "千葉、連勝止まるも手応え　Ｊリーグ",
       "link": "https://www.jiji.com/jc/article?k=2026112501241&g=spo&m=rss",
@@ -3590,6 +3602,14 @@
       "published": "2026-11-25T15:09:00+00:00"
     },
     {
+      "title": "Rumors swirling that labs might have cracked Factoring in P",
+      "link": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+      "summary": "Article URL: https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/\nComments URL: https://news.ycombinator.com/item?id=50643065\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T15:08:44+00:00"
+    },
+    {
       "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
       "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
       "summary": "“Since the advent of the atom bomb, all futures have been at risk from the whims of one man.”",
@@ -3620,6 +3640,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-25T14:44:49+00:00"
+    },
+    {
+      "title": "The year the web industry gave up",
+      "link": "https://dbushell.com/2026/11/25/web-industry/",
+      "summary": "Article URL: https://dbushell.com/2026/11/25/web-industry/\nComments URL: https://news.ycombinator.com/item?id=50642832\nPoints: 14\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T14:43:41+00:00"
     },
     {
       "title": "Dell sees sales more than double — but its stock falls anyway",
