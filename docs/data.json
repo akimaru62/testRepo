@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T16:47:43.782754+00:00",
+  "generated_at": "2026-11-25T17:04:33.907005+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3562,9 +3562,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "How soon Trump’s new tariffs could hit the economy — and your wallet",
+      "link": "https://www.marketwatch.com/story/u-s-proposes-fresh-tariffs-on-china-others-as-trump-doubles-down-on-his-favorite-trade-weapon-cd9a1df9?mod=mw_rss_topstories",
+      "summary": "The White House’s plan for new levies comes after the Supreme Court tossed out broader Trump tariffs earlier this year.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T16:59:00+00:00"
+    },
+    {
+      "title": "The latest stock-market drop could lower your tax bill over your lifetime",
+      "link": "https://www.marketwatch.com/story/the-latest-stock-market-drop-could-lower-your-tax-bill-over-your-lifetime-99420b97?mod=mw_rss_topstories",
+      "summary": "But take this first step by Dec. 31.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T16:53:00+00:00"
+    },
+    {
+      "title": "Oracle’s stock sinks toward a 3-year low as the AI trade continues to unravel",
+      "link": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
+      "summary": "Sandisk, Nebius and Micron shares were all down more than 10%, as the tech-heavy Nasdaq 100 has seen nearly all of Monday’s gains evaporate.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T16:52:00+00:00"
+    },
+    {
+      "title": "‘My life is in the stock market’: Recent volatility is shaking up holiday spending plans for these shoppers",
+      "link": "https://www.marketwatch.com/story/my-life-is-in-the-stock-market-recent-volatility-is-shaking-up-holiday-spending-plans-for-these-shoppers-bd9485b3?mod=mw_rss_topstories",
+      "summary": "Consumers are adapting their year-end spending plans amid a shaky stock market.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-25T16:49:00+00:00"
+    },
+    {
+      "title": "US Treasury financial crime watchdog hit by suspected cyber attack",
+      "link": "https://www.ft.com/content/43aa7321-2a95-463c-8cb9-77fcc7e39291?syn-25a6b1a6=1",
+      "summary": "FinCen takes systems offline after detecting unauthorised access amid growing fears over vulnerability of technology systems",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-25T16:43:56+00:00"
+    },
     {
       "title": "米物価、前年比３．８％上昇　インフレ根強く―１０月",
       "link": "https://www.jiji.com/jc/article?k=2026112501225&g=int&m=rss",
@@ -3580,6 +3624,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-25T16:29:00+00:00"
+    },
+    {
+      "title": "Anthropic migrated Messages API to Rust with no Rust developers",
+      "link": "https://www.anthropic.com/research/migrating-api-to-rust",
+      "summary": "Article URL: https://www.anthropic.com/research/migrating-api-to-rust\nComments URL: https://news.ycombinator.com/item?id=50644162\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T16:28:28+00:00"
     },
     {
       "title": "米ＧＤＰ、４．３％増に上方修正　ＡＩブーム寄与―７～９月期",
@@ -3740,6 +3792,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-25T15:00:00+00:00"
+    },
+    {
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "link": "https://s.conao3.com/blog/2026/e4f733",
+      "summary": "Article URL: https://s.conao3.com/blog/2026/e4f733\nComments URL: https://news.ycombinator.com/item?id=50642939\nPoints: 9\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T14:56:52+00:00"
     },
     {
       "title": "米国、新関税の意向表明　日本や中国、EUなど14カ国・地域が対象",
@@ -4833,6 +4893,14 @@
       "title": "Europe must not accept ‘hybrid’ warfare as normal, defence CEO warns",
       "link": "https://www.ft.com/content/7f57f64e-1f85-4be8-87ec-2db18830ebb2?syn-25a6b1a6=1",
       "summary": "Comments follow surge in attempted sabotage and arson attacks on defence facilities, airports and other critical infrastructure",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-25T05:00:12+00:00"
+    },
+    {
+      "title": "The secretive Iranian cyber unit behind Europe’s freezer hacks",
+      "link": "https://www.ft.com/content/5f3a85ad-e621-4189-bada-989f41702ed9?syn-25a6b1a6=1",
+      "summary": "Revolutionary Guard entity known as Shahid Kaveh was also behind a wave of attacks on US industrial control devices in 2024",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-25T05:00:12+00:00"
