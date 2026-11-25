@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T11:05:26.207031+00:00",
+  "generated_at": "2026-11-25T11:17:42.885756+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3454,9 +3454,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://azure.microsoft.com/ja-jp/blog/feed/",
+      "error": "503 Server Error: Service Unavailable for url: https://azure.microsoft.com/ja-jp/blog/feed/"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "月探査車の試験走行公開　日印共同、２８年度打ち上げ―ＪＡＸＡ",
+      "link": "https://www.jiji.com/jc/article?k=2026112501057&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T11:17:30.087653+00:00"
+    },
+    {
+      "title": "鹿島、全北と対戦　ＡＣＬサッカー",
+      "link": "https://www.jiji.com/jc/article?k=2026112501061&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T11:17:30.087639+00:00"
+    },
+    {
+      "title": "佐藤輝明、２年連続ＭＶＰ　パは栗原陵矢が初受賞―プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026112500995&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-25T11:17:30.087600+00:00"
+    },
+    {
+      "title": "Copper Slumps Amid AI Roller Coaster But Physical Supply Remains Tight",
+      "link": "https://www.wsj.com/finance/commodities-futures/copper-slumps-amid-ai-roller-coaster-but-physical-supply-remains-tight-14fd2a91?mod=rss_markets_main",
+      "summary": "The metal was heading for one of its worst monthly performances in more than a decade as investors retreated from riskier assets and tariff uncertainty clouded the global demand outlook.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T11:03:00+00:00"
+    },
     {
       "title": "The Car Industry Has a Seat-Belt Problem It Can’t Fix",
       "link": "https://www.wsj.com/personal-finance/the-car-industry-has-a-seat-belt-problem-it-cant-fix-0aa4be6e?mod=rss_markets_main",
