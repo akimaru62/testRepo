@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T00:40:07.554866+00:00",
+  "generated_at": "2026-11-26T00:54:28.198833+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3686,9 +3686,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "NVIDIAを格下げ方向で見直し S&P",
+      "link": "https://news.yahoo.co.jp/pickup/6604015?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-26T00:44:56+00:00"
+    },
     {
       "title": "｢勤勉さ｣でも｢能力｣でもない…仕事ができない人に足りないもの　\"企画のツボ\"を外す人が陥る｢スキル信仰｣の罠 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965368?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -4146,6 +4158,14 @@
       "published": "2026-11-25T21:18:02+00:00"
     },
     {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "summary": "https://archive.ph/pcUgy\n\nComments URL: https://news.ycombinator.com/item?id=50647673\nPoints: 166\n# Comments: 100",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T21:18:02+00:00"
+    },
+    {
       "title": "茂木外相、赤根所長と会談　ＩＣＣ支援継続を伝達",
       "link": "https://www.jiji.com/jc/article?k=2026112501044&g=pol&m=rss",
       "summary": "",
@@ -4464,6 +4484,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-25T18:26:00+00:00"
+    },
+    {
+      "title": "Multiagent coding is the future",
+      "link": "https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future/",
+      "summary": "Article URL: https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future/\nComments URL: https://news.ycombinator.com/item?id=50645541\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T18:20:11+00:00"
     },
     {
       "title": "立民、党再生へ推進本部設置",
@@ -5523,6 +5551,14 @@
     },
     {
       "title": "Stock Market Today: Stocks Pare Losses as Tech Selloff Eases",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026?mod=rss_markets_main",
+      "summary": "Nasdaq tumbles; Nvidia and Micron slump",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-25T09:56:46+00:00"
+    },
+    {
+      "title": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026?mod=rss_markets_main",
       "summary": "Nasdaq tumbles; Nvidia and Micron slump",
       "source": "WSJ マーケット",
