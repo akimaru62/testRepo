@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T07:05:58.817870+00:00",
+  "generated_at": "2026-11-26T07:20:21.519341+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3802,9 +3802,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "戦術核の活用領域拡大　北朝鮮の金正恩氏、日韓念頭に能力強化―対米交渉こだわらず",
+      "link": "https://www.jiji.com/jc/article?k=2026112600189&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T07:20:15.282967+00:00"
+    },
+    {
+      "title": "りくりゅう、そあいさんら一堂に　恒例の「変わりびな」披露―東京",
+      "link": "https://www.jiji.com/jc/article?k=2026112600731&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T07:20:15.282950+00:00"
+    },
+    {
+      "title": "子ども「２人目」希望、６年で半減　将来不安、物価高で負担大きく―民間調査",
+      "link": "https://www.jiji.com/jc/article?k=2026112600128&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T07:20:15.282913+00:00"
+    },
+    {
+      "title": "Is the stock market open for Thanksgiving? The answer might surprise you.",
+      "link": "https://www.marketwatch.com/story/is-the-stock-market-open-for-thanksgiving-the-answer-might-surprise-you-e68114d4?mod=mw_rss_topstories",
+      "summary": "The answer to the question of whether the stock market is open on Thanksgiving isn’t a simple yes or no, as the major exchanges are closed, but trading of equity futures is open for part of the day.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-26T07:16:00+00:00"
+    },
+    {
+      "title": "令和8年度上半期末の日本銀行保有外貨資産の残高",
+      "link": "http://www.boj.or.jp/statistics/boj/other/other_gai/gai2609.pdf",
+      "summary": "",
+      "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-11-26T07:10:00+00:00"
+    },
     {
       "title": "地域金融強化のための特別当座預金制度に基づく特別付利の実施について",
       "link": "http://www.boj.or.jp/finsys/rfs/rfs261126.pdf",
@@ -3819,6 +3863,14 @@
       "summary": "Nordic markets are seen opening higher but AI concerns remained the main drag on equities.",
       "source": "WSJ マーケット",
       "category": "海外金融",
+      "published": "2026-11-26T07:00:00+00:00"
+    },
+    {
+      "title": "外為法改正に伴う届出書及び報告書の取扱いについて（経過措置期間：令和9年1月4日～2月2日）",
+      "link": "https://www.mof.go.jp/policy/international_policy/gaitame_kawase/fdi/20261124114759.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
       "published": "2026-11-26T07:00:00+00:00"
     },
     {
