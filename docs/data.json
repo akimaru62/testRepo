@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T07:33:22.808797+00:00",
+  "generated_at": "2026-11-26T07:47:43.107358+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3810,9 +3810,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "中部電 不正関わった社員6人処分",
+      "link": "https://news.yahoo.co.jp/pickup/6604080?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-26T07:37:47+00:00"
+    },
+    {
+      "title": "Dollar Remains Lifted by Fed Rate-Rise Bets",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-risk-off-sentiment-might-weigh-13bdefa1?mod=rss_markets_main",
+      "summary": "The dollar traded modestly higher as markets continued to bet on further interest-rate increases by the Federal Reserve.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-26T07:35:00+00:00"
+    },
     {
       "title": "物価の上ぶれ「俊敏に反応」日銀・田村審議委員、利上げ幅の倍増も",
       "link": "https://www.asahi.com/articles/ASVCV0S64VCVULFA02LM.html?ref=rss",
@@ -3862,6 +3882,14 @@
       "published": "2026-11-26T07:10:00+00:00"
     },
     {
+      "title": "Mirror life is dangerous. Regulators must act before it becomes real",
+      "link": "https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real",
+      "summary": "Article URL: https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real\nComments URL: https://news.ycombinator.com/item?id=50652370\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T07:05:59+00:00"
+    },
+    {
       "title": "地域金融強化のための特別当座預金制度に基づく特別付利の実施について",
       "link": "http://www.boj.or.jp/finsys/rfs/rfs261126.pdf",
       "summary": "",
@@ -3886,6 +3914,14 @@
       "published": "2026-11-26T07:00:00+00:00"
     },
     {
+      "title": "Asian trade partners of US hit back at Trump’s latest tariffs",
+      "link": "https://www.ft.com/content/31ae0162-f946-4e2c-b656-1930baea19d0?syn-25a6b1a6=1",
+      "summary": "Levies follow investigation into whether countries give their own companies unfair subsidies",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-26T06:57:10+00:00"
+    },
+    {
       "title": "U.S. Treasurys Show ‘Remarkable Resilience’ to Upbeat Data",
       "link": "https://www.wsj.com/finance/long-term-jgb-yields-rise-as-chip-stocks-rebound-c8e82816?mod=rss_markets_main",
       "summary": "Treasurys are showing “remarkable resilience” to a set of data that as a whole can only be described as upbeat, ING said.",
@@ -3900,6 +3936,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-26T06:44:36.230177+00:00"
+    },
+    {
+      "title": "Moat: Your OpenRouter Replacement",
+      "link": "https://commandcode.ai/moat",
+      "summary": "Article URL: https://commandcode.ai/moat\nComments URL: https://news.ycombinator.com/item?id=50652184\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T06:32:48+00:00"
     },
     {
       "title": "尹被告、偽証では無罪確定　閣議開催巡り韓国最高裁",
