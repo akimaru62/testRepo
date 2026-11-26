@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:17:54.518375+00:00",
+  "generated_at": "2026-11-26T21:32:56.938484+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4046,9 +4046,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "アメ横周辺の道に机 営業停止処分",
+      "link": "https://news.yahoo.co.jp/pickup/6604126?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-26T21:20:31+00:00"
+    },
     {
       "title": "徳島知事選で新人推薦　国民民主",
       "link": "https://www.jiji.com/jc/article?k=2026112700093&g=pol&m=rss",
@@ -4264,6 +4276,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-26T18:37:21+00:00"
+    },
+    {
+      "title": "IBM gives H-1B, green card holders 3 weeks to relocate from US or leave company",
+      "link": "https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr",
+      "summary": "Article URL: https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr\nComments URL: https://news.ycombinator.com/item?id=50658170\nPoints: 31\n# Comments: 12",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T18:35:37+00:00"
     },
     {
       "title": "Ask HN: How do you find meaning of life at 41?",
