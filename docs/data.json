@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T08:47:26.142810+00:00",
+  "generated_at": "2026-11-26T09:06:06.734827+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3834,6 +3834,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3860,6 +3864,46 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-26T09:37:00+00:00"
+    },
+    {
+      "title": "関西電力、北海道2町での風力発電計画を断念　「採算成り立たない」",
+      "link": "https://www.asahi.com/articles/ASVCV2TGJVCVPLFA006M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-26T09:05:58.924408+00:00"
+    },
+    {
+      "title": "経済同友会、成長戦略を発表　GDP倍増へ「共助成長社会」目指す",
+      "link": "https://www.asahi.com/articles/ASVCV2RW4VCVULFA001M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-26T09:05:58.924372+00:00"
+    },
+    {
+      "title": "関税・外国為替等審議会　第71回外国為替等分科会 資料",
+      "link": "https://www.mof.go.jp/about_mof/councils/customs_foreign_exchange/sub-foreign_exchange/proceedings/material/20261120175045.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-26T09:00:00+00:00"
+    },
+    {
+      "title": "Oil Mixed Amid Middle East Attacks, U.S. Inventory Build",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-rises-amid-ongoing-middle-east-tensions-c730426d?mod=rss_markets_main",
+      "summary": "Oil prices were mixed as traders weighed expectations of a supply surplus against persistent attacks on shipping and energy facilities in the Middle East.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-26T08:55:00+00:00"
+    },
+    {
+      "title": "Euro’s Recovery Potential Against Dollar Remains Limited",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-risk-off-sentiment-might-weigh-13bdefa1?mod=rss_markets_main",
+      "summary": "The euro traded flat but could perform better against the dollar in December after recent losses, although the scope for recovery remains limited, ING said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-26T08:51:00+00:00"
     },
     {
       "title": "吉野家HD ダチョウ事業を売却",
