@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T19:04:29.639147+00:00",
+  "generated_at": "2026-11-26T19:17:41.952511+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4006,9 +4006,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Opinion | Zohran Mamdani Has a Nvidia Revelation",
+      "link": "https://www.wsj.com/opinion/zohran-mamdani-has-a-nvidia-revelation-1e048235?mod=rss_markets_main",
+      "summary": "New York’s mayor discovers that city pensions depend on stock-market returns.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-26T19:05:00+00:00"
+    },
     {
       "title": "Ask HN: How do you find meaning of life at 41?",
       "link": "https://news.ycombinator.com/item?id=50657957",
@@ -4016,6 +4028,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-26T18:14:53+00:00"
+    },
+    {
+      "title": "George Whitesides, 1939-2026",
+      "link": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
+      "summary": "Article URL: https://www.science.org/content/blog-post/george-whitesides-1939-2026\nComments URL: https://news.ycombinator.com/item?id=50657936\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T18:13:07+00:00"
     },
     {
       "title": "Opinion | Does Nvidia Really Need Its Brilliant Nutjob?",
