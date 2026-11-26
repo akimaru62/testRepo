@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T20:47:53.651384+00:00",
+  "generated_at": "2026-11-26T21:05:04.114959+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4034,9 +4034,41 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://hnrss.org/frontpage",
+      "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrss.org', port=443) at 0x740d4e90ba10>, 'Connection to hnrss.org timed out. (connect timeout=15)'))"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "トイザらス破綻が映す日米構造協議の教訓､大店法の壁を崩したアメリカの圧力は｢日本改造｣だったのか | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965685?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "日本トイザらスが民事再生法の適用を申請しました。米トイザらスの日本進出の追い風となったのが日米構造協議（SII）です。外務省の議事録や交渉当事者の証言から､アメリカの狙いと協議の意味を問い直します。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-26T20:50:00+00:00"
+    },
+    {
+      "title": "〈現場ルポ後編〉｢もう福祉には頼りたくない｣｢ここで何が極められるのか｣､雇用支援ビジネスで働く障害者の本音と葛藤 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963019?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "（前編から続く）「もう福祉には頼りたくありません」。それまでたたえていた柔和な笑みをスッと引き、一転して曇らせた表情で工藤さん（仮名、20代男性）はそう吐き捨てた。グレーのチノパン、柄物の襟付きシャ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-26T20:50:00+00:00"
+    },
+    {
+      "title": "｢ラーメン屋の行列｣に並ぶ人が気づき始めた\"真実\"…ファストパス導入急増で｢1時間を500円で買う｣は当たり前になるか？ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965821?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "行列が絶えない人気ラーメン店。美味しさの証しともされる光景ですが､｢待ち時間｣はただの無駄なのでは…？近年注目される｢ファストパス｣やダイナミックプライシングは私たちの常識をどう変えていくのでしょう…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-26T20:45:00+00:00"
+    },
     {
       "title": "｢パスキー未登録なら補償しない可能性｣証券会社が利用者に迫る認証強化､登録時こそ狙われる新たなフィッシングの盲点 | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965748?utm_source=rss&utm_medium=http&utm_campaign=link_back",
