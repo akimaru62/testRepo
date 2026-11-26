@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T23:05:07.907453+00:00",
+  "generated_at": "2026-11-26T23:17:49.600151+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4074,9 +4074,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "ＡＩブーム、経済急拡大　物価高根強く、連続利上げも―米ＦＲＢ",
+      "link": "https://www.jiji.com/jc/article?k=2026112600708&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T23:17:44.983843+00:00"
+    },
+    {
+      "title": "日本に「洪水避難タワー」建設希望　ネパール復興責任者―土石流災害３カ月",
+      "link": "https://www.jiji.com/jc/article?k=2026112600854&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T23:17:44.983830+00:00"
+    },
+    {
+      "title": "米自動車市場、ＨＶが存在感　燃料高騰下で人気高まる",
+      "link": "https://www.jiji.com/jc/article?k=2026112600707&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T23:17:44.983815+00:00"
+    },
+    {
+      "title": "人口減下の成長へ総合戦略　基本理念と目標、年末に提示―高市政権",
+      "link": "https://www.jiji.com/jc/article?k=2026112600894&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T23:17:44.983794+00:00"
+    },
+    {
+      "title": "都構想無風、危機感も　「副首都」前面に―維新",
+      "link": "https://www.jiji.com/jc/article?k=2026112600815&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T23:17:44.983756+00:00"
+    },
     {
       "title": "認知症には至っていないが､正常な脳の状態でもない…《認知症のグレーゾーン》の人に顕著に現れる\"4つの兆候\" | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965169?utm_source=rss&utm_medium=http&utm_campaign=link_back",
