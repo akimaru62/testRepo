@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T23:33:29.524521+00:00",
+  "generated_at": "2026-11-26T23:47:16.382640+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4082,9 +4082,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "仕事中の｢机の片づけ｣実は大正解だった スマホ休憩は逆効果､米大学が解明した\"あえて流れを切る\"最強の集中リセット術 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964281?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "朝から小さな悩みに振り回されていませんか？SNSやメールで集中力が削られる現代､実は｢悩まない人｣には脳の使い方に秘密があります。世界中の研究が明らかにした､判断力や集中力を保つための意外な習慣とは？",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-26T23:30:00+00:00"
+    },
     {
       "title": "ＡＩブーム、経済急拡大　物価高根強く、連続利上げも―米ＦＲＢ",
       "link": "https://www.jiji.com/jc/article?k=2026112600708&g=int&m=rss",
@@ -4142,6 +4154,22 @@
       "published": "2026-11-26T23:00:00+00:00"
     },
     {
+      "title": "会社「賃上げしました」社員「それでも生活苦しい」――なぜ？　20年分のデータで暴く「見えない負担」と3つの改革",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/27/news045.html",
+      "summary": "実質賃金は9カ月連続プラスだが、日銀の調査では「ゆとりがない」人が過半数に。数字と実感は、なぜこれほどズレるのか。カギは過去からの「累積」にある。筆者が計算した結果、2005年から2025年までの20年間で、物価は21.6%も上昇していたことが分かった。気付かないうちに積み上がる「ステルス負担」の正体を探る。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-26T23:00:00+00:00"
+    },
+    {
+      "title": "「なぜ派遣を選ぶの？」　デリカシーのない上司の“思い込み“は、チームにどれだけ悪影響をもたらすのか",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/27/news026.html",
+      "summary": "よかれと思って勧めた正社員登用が、実は部下の意欲を削いでいる可能性がある。「正社員こそ正解」という思い込みを手放し、多様な人材に選ばれ、力を発揮してもらうためのマネジメントの視点を解説する。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-26T23:00:00+00:00"
+    },
+    {
       "title": "JTなど 英たばこ大手買収検討か",
       "link": "https://news.yahoo.co.jp/pickup/6604136?source=rss",
       "summary": "",
@@ -4196,6 +4224,14 @@
       "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-11-26T22:00:00+00:00"
+    },
+    {
+      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+      "link": "https://kendell.dev/blog/arkwrapper/",
+      "summary": "Article URL: https://kendell.dev/blog/arkwrapper/\nComments URL: https://news.ycombinator.com/item?id=50660273\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T21:59:19+00:00"
     },
     {
       "title": "ちいかわイベ グッズ早期完売謝罪",
