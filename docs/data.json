@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T05:48:10.146993+00:00",
+  "generated_at": "2026-11-26T06:09:11.779891+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3782,9 +3782,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "ASEAN+3財務大臣・中央銀行総裁代理会議等の開催について（令和8年11月25日～26日）",
+      "link": "https://www.mof.go.jp/policy/international_policy/convention/other/20261126.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-26T05:45:00+00:00"
+    },
     {
       "title": "女子高生殺害、２３歳男認める　自宅クローゼットに遺体―名古屋地裁",
       "link": "https://www.jiji.com/jc/article?k=2026112500123&g=soc&m=rss",
@@ -3792,6 +3804,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-26T05:18:55.869076+00:00"
+    },
+    {
+      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+      "link": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+      "summary": "Article URL: https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/\nComments URL: https://news.ycombinator.com/item?id=50651719\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T05:12:59+00:00"
     },
     {
       "title": "Software stocks spared in tech rout as AI narrative shifts",
