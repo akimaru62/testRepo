@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T04:20:36.538568+00:00",
+  "generated_at": "2026-11-26T04:33:16.407751+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3754,9 +3754,25 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "ホンダ 逆輸入のアキュラ来月発売",
+      "link": "https://news.yahoo.co.jp/pickup/6604052?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-26T04:25:06+00:00"
+    },
     {
       "title": "木原官房長官、米新関税に遺憾　「日本に過剰生産ない」",
       "link": "https://www.jiji.com/jc/article?k=2026112600486&g=pol&m=rss",
@@ -3788,6 +3804,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-26T03:47:34.270823+00:00"
+    },
+    {
+      "title": "Qualcomm's Oryon 3 Reaches the Top",
+      "link": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+      "summary": "Article URL: https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top\nComments URL: https://news.ycombinator.com/item?id=50651158\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T03:43:24+00:00"
     },
     {
       "title": "野党、関文科相問責提出　２７日採決、与党否決目指す",
