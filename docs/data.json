@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T06:27:38.347401+00:00",
+  "generated_at": "2026-11-26T06:44:41.886392+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3790,9 +3790,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "公営ギャンブル「国庫納付拡大を」　消費減税で自民の財源PTが提言",
+      "link": "https://www.asahi.com/articles/ASVCV20HDVCVULFA00CM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-26T06:44:36.230177+00:00"
+    },
     {
       "title": "尹被告、偽証では無罪確定　閣議開催巡り韓国最高裁",
       "link": "https://www.jiji.com/jc/article?k=2026112600706&g=int&m=rss",
@@ -3832,6 +3844,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-26T06:27:34.010876+00:00"
+    },
+    {
+      "title": "楽天CMOが語る　「企業が伝えたいこと」と「顧客が知りたいこと」は違う――では、どうする？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/26/news060.html",
+      "summary": "「企業には伝えたいことがたくさんある。しかし、お客さまが知りたいこととイコールではない」──楽天の河野奈保CMOは、企業がマーケティング活動で長年直面してきた課題についてこう語る。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-26T06:00:00+00:00"
     },
     {
       "title": "ASEAN+3財務大臣・中央銀行総裁代理会議等の開催について（令和8年11月25日～26日）",
