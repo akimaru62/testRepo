@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T10:33:35.594784+00:00",
+  "generated_at": "2026-11-26T10:47:52.243014+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3866,6 +3866,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3884,6 +3888,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-26T17:00:00+00:00"
+    },
+    {
+      "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
+      "link": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
+      "summary": "A rebound off lows for the S&amp;P 500 on Wednesday calms bourses after AI wash out",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-26T10:37:00+00:00"
     },
     {
       "title": "浜岡原発不正、勝野元会長らに報酬返納を要求　中部電、社員も処分",
@@ -3932,6 +3944,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-26T10:13:28+00:00"
+    },
+    {
+      "title": "Intel One Mono font",
+      "link": "https://github.com/intel/intel-one-mono",
+      "summary": "Article URL: https://github.com/intel/intel-one-mono\nComments URL: https://news.ycombinator.com/item?id=50653667\nPoints: 7\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T10:11:01+00:00"
     },
     {
       "title": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
