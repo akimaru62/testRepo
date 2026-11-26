@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T02:07:27.291630+00:00",
+  "generated_at": "2026-11-26T02:22:56.960606+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3710,9 +3710,41 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://www.asahi.com/rss/asahi/business.rdf",
+      "error": "403 Client Error: Forbidden for url: https://www.asahi.com/rss/asahi/business.rdf"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "米、１４カ国・地域に新関税案　日本１５％、違憲判決前水準に",
+      "link": "https://www.jiji.com/jc/article?k=2026112600388&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T02:22:48.076310+00:00"
+    },
+    {
+      "title": "ドジャースの大谷「悔しい気持ちある」　二刀流貫き雪辱へ―米大リーグ",
+      "link": "https://www.jiji.com/jc/article?k=2026112600328&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T02:22:48.076285+00:00"
+    },
+    {
+      "title": "アンディ・テイラーさん死去、６５歳　デュラン・デュラン元ギタリスト",
+      "link": "https://www.jiji.com/jc/article?k=2026112600320&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T02:22:48.076255+00:00"
+    },
     {
       "title": "実はよく似た国｢アメリカとロシア｣の正体　欧州発の思想を極端化させた｢限りない拡大志向｣が迎える限界 | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965219?utm_source=rss&utm_medium=http&utm_campaign=link_back",
