@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T06:52:20.806603+00:00",
+  "generated_at": "2026-11-26T07:05:58.817870+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3798,9 +3798,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "地域金融強化のための特別当座預金制度に基づく特別付利の実施について",
+      "link": "http://www.boj.or.jp/finsys/rfs/rfs261126.pdf",
+      "summary": "",
+      "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-11-26T07:00:00+00:00"
+    },
+    {
+      "title": "Nordic Stocks Tipped to Open Higher",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-3-led-by-chip-metals-stocks-3b7004c9?mod=rss_markets_main",
+      "summary": "Nordic markets are seen opening higher but AI concerns remained the main drag on equities.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-26T07:00:00+00:00"
+    },
+    {
+      "title": "U.S. Treasurys Show ‘Remarkable Resilience’ to Upbeat Data",
+      "link": "https://www.wsj.com/finance/long-term-jgb-yields-rise-as-chip-stocks-rebound-c8e82816?mod=rss_markets_main",
+      "summary": "Treasurys are showing “remarkable resilience” to a set of data that as a whole can only be described as upbeat, ING said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-26T06:54:00+00:00"
+    },
     {
       "title": "公営ギャンブル「国庫納付拡大を」　消費減税で自民の財源PTが提言",
       "link": "https://www.asahi.com/articles/ASVCV20HDVCVULFA00CM.html?ref=rss",
@@ -3925,6 +3953,14 @@
       "title": "Angry young men turn against their elders in ‘two Spains’ election",
       "link": "https://www.ft.com/content/6b8ac07d-d589-4ff2-9ad3-8cda56287a8e?syn-25a6b1a6=1",
       "summary": "Voters set to oust Pedro Sánchez and propel radical right into a coalition government for first time since Franco",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-26T05:00:19+00:00"
+    },
+    {
+      "title": "Netanyahu using ‘racist attacks’ to stay in power, Arab leader says",
+      "link": "https://www.ft.com/content/e61e27b6-6501-44f8-b3d2-558f7cf4dcae?syn-25a6b1a6=1",
+      "summary": "Head of Israel’s largest Arab party says he is willing to work with Jewish opposition to remove prime minister’s far-right bloc",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-26T05:00:19+00:00"
