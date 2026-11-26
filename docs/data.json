@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T12:24:23.349377+00:00",
+  "generated_at": "2026-11-26T12:37:24.090312+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3894,6 +3894,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3914,6 +3918,14 @@
       "published": "2026-11-26T17:00:00+00:00"
     },
     {
+      "title": "スバル 4車種約18万台リコール",
+      "link": "https://news.yahoo.co.jp/pickup/6604115?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-26T12:29:02+00:00"
+    },
+    {
       "title": "中国、日本側に申し入れ　尖閣沖、侵入警告に反発",
       "link": "https://www.jiji.com/jc/article?k=2026112600998&g=int&m=rss",
       "summary": "",
@@ -3928,6 +3940,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-26T12:24:18.393349+00:00"
+    },
+    {
+      "title": "Samsung TV has 650 free channels behind one button most owners never press",
+      "link": "https://www.makeuseof.com/samsung-tv-plus/",
+      "summary": "Article URL: https://www.makeuseof.com/samsung-tv-plus/\nComments URL: https://news.ycombinator.com/item?id=50654354\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T12:00:05+00:00"
     },
     {
       "title": "Head of Software Engineering – NOX Metals",
