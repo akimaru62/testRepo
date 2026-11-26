@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T07:47:43.107358+00:00",
+  "generated_at": "2026-11-26T08:07:04.863358+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3814,9 +3814,85 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "貸金業関係資料集について掲載しました。",
+      "link": "https://www.fsa.go.jp/status/kasikin/20261126/index.html",
+      "summary": "",
+      "source": "金融庁",
+      "category": "公的機関",
+      "published": "2026-11-26T17:00:00+00:00"
+    },
+    {
+      "title": "国際関係,金融安定理事会による「グローバルなシステム上重要な銀行（G-SIB）の2026年リスト」を公表しました。",
+      "link": "https://www.fsa.go.jp/inter/fsf/20261126/20261126.html",
+      "summary": "",
+      "source": "金融庁",
+      "category": "公的機関",
+      "published": "2026-11-26T17:00:00+00:00"
+    },
+    {
+      "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年11月20日）について掲載しました。",
+      "link": "https://www.fsa.go.jp/common/conference/minister/2026b/20261120-1.html",
+      "summary": "",
+      "source": "金融庁",
+      "category": "公的機関",
+      "published": "2026-11-26T09:37:00+00:00"
+    },
+    {
+      "title": "尹錫悦前大統領、偽証では無罪確定　閣議開催巡る証言―韓国最高裁",
+      "link": "https://www.jiji.com/jc/article?k=2026112600706&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T08:07:00.390100+00:00"
+    },
+    {
+      "title": "不正請求問題のタマホームが特別調査委を設置　外部の弁護士が調査へ",
+      "link": "https://www.asahi.com/articles/ASVCV2DY5VCVULFA023M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-26T08:07:00.081234+00:00"
+    },
+    {
+      "title": "China hits back at Trump tariff threat",
+      "link": "https://www.ft.com/content/31ae0162-f946-4e2c-b656-1930baea19d0?syn-25a6b1a6=1",
+      "summary": "Levies follow investigation into whether countries give their own companies unfair subsidies",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-26T08:02:13+00:00"
+    },
+    {
+      "title": "金融安定理事会による「グローバルなシステム上重要な銀行（G-SIB）の2026年リスト」の公表について",
+      "link": "http://www.boj.or.jp/finsys/intlact_fs/kisei/kis261126a.htm",
+      "summary": "",
+      "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-11-26T08:00:00+00:00"
+    },
+    {
+      "title": "第87回 財務省政策評価懇談会（10月20日開催）議事録",
+      "link": "https://www.mof.go.jp/about_mof/councils/policy_evaluation/proceedings/proceedings/20261120140102.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-26T08:00:00+00:00"
+    },
+    {
+      "title": "Eurozone Bond Yields Rise in Quiet Thanksgiving Trade",
+      "link": "https://www.wsj.com/finance/long-term-jgb-yields-rise-as-chip-stocks-rebound-c8e82816?mod=rss_markets_main",
+      "summary": "Eurozone government bond yields rose in early trade without any impetus from Treasurys due to Thanksgiving.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-26T07:59:00+00:00"
+    },
     {
       "title": "中部電 不正関わった社員6人処分",
       "link": "https://news.yahoo.co.jp/pickup/6604080?source=rss",
@@ -4069,6 +4145,14 @@
       "title": "Netanyahu using ‘racist attacks’ to stay in power, Arab leader says",
       "link": "https://www.ft.com/content/e61e27b6-6501-44f8-b3d2-558f7cf4dcae?syn-25a6b1a6=1",
       "summary": "Head of Israel’s largest Arab party says he is willing to work with Jewish opposition to remove prime minister’s far-right bloc",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-26T05:00:19+00:00"
+    },
+    {
+      "title": "Netanyahu using ‘racist attacks’ to stay in power, Israeli Arab leader says",
+      "link": "https://www.ft.com/content/e61e27b6-6501-44f8-b3d2-558f7cf4dcae?syn-25a6b1a6=1",
+      "summary": "Head of largest Arab party says he is willing to work with Jewish opposition to remove prime minister’s far-right bloc",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-26T05:00:19+00:00"
@@ -5471,6 +5555,14 @@
       "summary": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers.\nThe post Art of play in the age of AI appeared first on The GitHub Blog.",
       "source": "GitHub Blog",
       "category": "開発者向け",
+      "published": "2026-11-25T16:00:00+00:00"
+    },
+    {
+      "title": "「トランジション・ファイナンス環境整備検討会」（第15回）の開催について公表しました。",
+      "link": "https://www.fsa.go.jp/news/r8/singi/20261125.html",
+      "summary": "",
+      "source": "金融庁",
+      "category": "公的機関",
       "published": "2026-11-25T16:00:00+00:00"
     },
     {
