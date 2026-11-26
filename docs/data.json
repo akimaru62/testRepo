@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T10:05:51.961214+00:00",
+  "generated_at": "2026-11-26T10:18:46.803190+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3854,6 +3854,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3872,6 +3876,62 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-26T17:00:00+00:00"
+    },
+    {
+      "title": "江夏豊さんに最後の別れ　江本孟紀さん、工藤公康監督ら参列―プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026112600906&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T10:18:41.835122+00:00"
+    },
+    {
+      "title": "遠足で熱中症、八尾市に賠償命令　小１女児に水分与えず―大阪高裁",
+      "link": "https://www.jiji.com/jc/article?k=2026112601008&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T10:18:41.835111+00:00"
+    },
+    {
+      "title": "福井の山中で女性遺体、殺人容疑で４９歳男を再逮捕―石川県警",
+      "link": "https://www.jiji.com/jc/article?k=2026112600986&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T10:18:41.835099+00:00"
+    },
+    {
+      "title": "定数削減、衆院委で採決先送り　「６０日ルール」与党断念",
+      "link": "https://www.jiji.com/jc/article?k=2026112600982&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T10:18:41.835064+00:00"
+    },
+    {
+      "title": "「夜行新幹線」年末年始に運行へ",
+      "link": "https://news.yahoo.co.jp/pickup/6604098?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-26T10:13:28+00:00"
+    },
+    {
+      "title": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
+      "link": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories",
+      "summary": "Deutsche Bank sees the benchmark index reaching 9,000 points by the end of 2027 as focus shifts from capital expenditure to monetization from artificial intelligence.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-26T10:11:00+00:00"
+    },
+    {
+      "title": "U.S. Economy’s Strength Keeps Dollar Elevated",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-risk-off-sentiment-might-weigh-13bdefa1?mod=rss_markets_main",
+      "summary": "A strong U.S. economy was keeping the dollar firm despite the recent selloff in U.S. stocks and pullback in Treasury yields, MUFG Bank said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-26T10:08:00+00:00"
     },
     {
       "title": "日銀、ETF売却益3234億円　評価益76兆円は過去最大　上半期",
