@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T00:12:52.156168+00:00",
+  "generated_at": "2026-11-26T00:40:07.554866+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3682,9 +3682,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "｢勤勉さ｣でも｢能力｣でもない…仕事ができない人に足りないもの　\"企画のツボ\"を外す人が陥る｢スキル信仰｣の罠 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965368?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "真面目に努力しているのに､なぜか｢ツボを外す｣――そんな葛藤を抱いたことはありませんか？　AIが平均的な答えを簡単に生み出す時代､本当に差がつく､\"ある力\"の正体を探ります。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-26T00:30:00+00:00"
+    },
+    {
+      "title": "国債金利情報(令和8年11月25日)",
+      "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-26T00:30:00+00:00"
+    },
+    {
+      "title": "Gold Edges Lower Amid Rate Hike Bets",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-amid-rate-hike-bets-1d4057c0?mod=rss_markets_main",
+      "summary": "Gold edged lower in early Asian trade as U.S. inflation data reinforces expectations of further rate increases.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-26T00:24:00+00:00"
+    },
+    {
+      "title": "Nikkei Rises 1.3%, Led by Chip, Metals Stocks",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-3-led-by-chip-metals-stocks-3b7004c9?mod=rss_markets_main",
+      "summary": "Japanese stocks were higher, rebounding from Wednesday’s sharp declines, thanks partly to signs of U.S. economic strength.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-26T00:19:00+00:00"
+    },
     {
       "title": "高台移転忌避、支援に不満も　不明日本人情報なく、土石流災害３カ月―ネパール",
       "link": "https://www.jiji.com/jc/article?k=2026112500705&g=int&m=rss",
@@ -3718,12 +3754,28 @@
       "published": "2026-11-26T00:03:00+00:00"
     },
     {
+      "title": "North Korean leader Kim Jong Un meets delegates from the South in Pyongyang - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EVWhwRHdfV3VSb3lPZkctQ3NHLTZ3UnFDc2lSNlN2bUcwN1dtbFFmUmFZNzVmRGJYVGhEdEpNVWJ3clhMVXlJN1VaZXJ5bndhM1pfS1NlMlB4NXc?oc=5",
+      "summary": "North Korean leader Kim Jong Un meets delegates from the South in Pyongyang&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-26T00:02:08+00:00"
+    },
+    {
       "title": "つい部下に｢なんでこういう結果になったの?｣と聞く上司が知るべき､無意識の《詰めるコミュニケーション》の百害 | キャリア・教育 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/963345?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "リーダーが｢なぜ？｣と問い続ける姿勢は､チームの成長を願う気持ちの裏返し。しかし､その一言がメンバーを追い詰め､主体性を奪ってしまう場合があるのです。果たして振り返りは\"詰める儀式\"で終わっていませ…",
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-26T00:00:00+00:00"
+    },
+    {
+      "title": "Italy dancing with the 5-Stars but vote inconclusive - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5b1dPX19uUVU3OHZiNWd5ZWVESEZGR0pNTUw1MUxyNEFGSDhCbDdhR1VNcU0xSEJ2bHhySFFGMVRaSmNSLVZKRWsyR01OLWhIaDNDNXZTbVdDcEk?oc=5",
+      "summary": "Italy dancing with the 5-Stars but vote inconclusive&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2026-11-25T23:50:25+00:00"
     },
     {
       "title": "中小企業の賃上げ税制 縮小で調整",
@@ -4233,6 +4285,14 @@
       "title": "72-Hour Fasting Can Reset Your Immune System, USC Study Shows",
       "link": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
       "summary": "Article URL: https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/\nComments URL: https://news.ycombinator.com/item?id=50647158\nPoints: 14\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T20:35:39+00:00"
+    },
+    {
+      "title": "72-hour fasting can reset your immune system, USC study shows",
+      "link": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
+      "summary": "Article URL: https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/\nComments URL: https://news.ycombinator.com/item?id=50647158\nPoints: 128\n# Comments: 63",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-25T20:35:39+00:00"
