@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T01:18:56.322304+00:00",
+  "generated_at": "2026-11-26T01:34:25.983150+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3698,9 +3698,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "交付税及び譲与税配付金特別会計の借入金の入札予定（令和8年11月26日公表）",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/kariire/kari-offer261126.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-26T01:30:00+00:00"
+    },
+    {
+      "title": "10年利付国債（12月債）の発行予定額等（令和8年11月26日公表）",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/yotei/auct20261126.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-26T01:30:00+00:00"
+    },
     {
       "title": "妊娠と仕事の両立、なんでこんなに苦しい？　当事者が伝えたい問題点",
       "link": "https://www.asahi.com/articles/ASVCT2HYTVCTPLFA001M.html?ref=rss",
@@ -3724,6 +3744,14 @@
       "source": "日本銀行",
       "category": "公的機関",
       "published": "2026-11-26T01:00:00+00:00"
+    },
+    {
+      "title": "Stocks advance in Asia after volatile US trading over AI risks",
+      "link": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679",
+      "summary": "Tech shares decline this month over fears over whether an AI boom can be sustained",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-26T00:57:14+00:00"
     },
     {
       "title": "‘Jensanity’ erupts in Taiwan and China on Nvidia founder’s comeback",
