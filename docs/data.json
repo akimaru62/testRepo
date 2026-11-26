@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T19:47:14.704734+00:00",
+  "generated_at": "2026-11-26T20:05:37.174817+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4018,9 +4018,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "1億円超の｢高額所得者｣の多い地域ランキングTOP300…東京だけではない意外なエリアの名前 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/966043?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "所得1億円超の申告者は､日本全国でどのエリアに集中しているのでしょうか。国税庁の最新統計をもとに､全国524税務署のランキングを作成。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-26T20:00:00+00:00"
+    },
+    {
+      "title": "Pensions Trusted by Millions of Industrial Workers Make a Surprising Comeback",
+      "link": "https://www.wsj.com/finance/investing/pensions-trusted-by-millions-of-industrial-workers-make-a-surprising-comeback-9937ea46?mod=rss_markets_main",
+      "summary": "An ironworkers’ retirement plan is now fully funded, thanks largely to the U.S. stock market’s yearslong rally.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-26T19:55:00+00:00"
+    },
     {
       "title": "Opinion | Zohran Mamdani Has a Nvidia Revelation",
       "link": "https://www.wsj.com/opinion/zohran-mamdani-has-a-nvidia-revelation-1e048235?mod=rss_markets_main",
@@ -4982,6 +5002,14 @@
       "published": "2026-11-26T07:33:15.219819+00:00"
     },
     {
+      "title": "OpenAI may be in cost control mode",
+      "link": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+      "summary": "Article URL: https://micjm.com/blog/openai-is-in-cost-control-mode/\nComments URL: https://news.ycombinator.com/item?id=50652527\nPoints: 22\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T07:33:12+00:00"
+    },
+    {
       "title": "戦術核の活用領域拡大　北朝鮮の金正恩氏、日韓念頭に能力強化―対米交渉こだわらず",
       "link": "https://www.jiji.com/jc/article?k=2026112600189&g=int&m=rss",
       "summary": "",
@@ -5300,6 +5328,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-26T04:43:40+00:00"
+    },
+    {
+      "title": "NormalScript: A perfectly normal scripting language",
+      "link": "https://psychoscript.com/",
+      "summary": "Article URL: https://psychoscript.com/\nComments URL: https://news.ycombinator.com/item?id=50651430\nPoints: 21\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T04:32:26+00:00"
     },
     {
       "title": "ホンダ 逆輸入のアキュラ来月発売",
