@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T06:09:11.779891+00:00",
+  "generated_at": "2026-11-26T06:27:38.347401+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3786,9 +3786,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "尹被告、偽証では無罪確定　閣議開催巡り韓国最高裁",
+      "link": "https://www.jiji.com/jc/article?k=2026112600706&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T06:27:34.010968+00:00"
+    },
+    {
+      "title": "ロシアに拘束された北海道新聞の今井記者の妻、のぞみさんが手記を公表し「小さな娘にパパを返して」と訴えた",
+      "link": "https://www.jiji.com/jc/article?k=2026112600656&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T06:27:34.010959+00:00"
+    },
+    {
+      "title": "高市首相、地元の柿「甘い」",
+      "link": "https://www.jiji.com/jc/article?k=2026112600653&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T06:27:34.010939+00:00"
+    },
+    {
+      "title": "ロシアに拘束された今井記者の妻の手記全文",
+      "link": "https://www.jiji.com/jc/article?k=2026112600697&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T06:27:34.010925+00:00"
+    },
+    {
+      "title": "ロシアに拘束された北海道新聞記者の妻が手記　「娘に大切なパパ返して」",
+      "link": "https://www.jiji.com/jc/article?k=2026112600682&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T06:27:34.010876+00:00"
+    },
     {
       "title": "ASEAN+3財務大臣・中央銀行総裁代理会議等の開催について（令和8年11月25日～26日）",
       "link": "https://www.mof.go.jp/policy/international_policy/convention/other/20261126.html",
@@ -3863,6 +3907,14 @@
     },
     {
       "title": "Britain’s 1,000-year-old tax travails",
+      "link": "https://www.ft.com/content/168aa97b-1a58-480e-a995-31287308432f?syn-25a6b1a6=1",
+      "summary": "Strained public finances and a reluctance to cut spending have shaped a tax system with comical distortions",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-26T05:00:12+00:00"
+    },
+    {
+      "title": "How Britain built a tax system it can’t fix",
       "link": "https://www.ft.com/content/168aa97b-1a58-480e-a995-31287308432f?syn-25a6b1a6=1",
       "summary": "Strained public finances and a reluctance to cut spending have shaped a tax system with comical distortions",
       "source": "Financial Times",
