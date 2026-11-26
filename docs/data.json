@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T22:33:09.918838+00:00",
+  "generated_at": "2026-11-26T22:47:42.634396+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4066,9 +4066,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "｢久しぶりに､クリスマスコフレ｣今からでも間に合う､40代･50代が楽しみたい大人のホリデーコスメ10ブランド | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965991?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "クリスマスシーズン限定の華やかなコフレやコスメは､多くの大人世代にも毎年の楽しみ。かつては｢限定品｣の言葉に心躍らせた人も､今はより実用性や自分の好みを重視するように。その変化を感じつつ､今年のホリ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-26T22:30:00+00:00"
+    },
     {
       "title": "ユーロ圏諸国はスペイン出身のデコス氏を次期ＥＣＢ総裁にすることを決めた",
       "link": "https://www.jiji.com/jc/article?k=2026112700109&g=flash&m=rss",
@@ -4090,6 +4102,14 @@
       "link": "https://toyokeizai.net/articles/-/965872?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "SNSで見かける\"怒りを誘うストーリー\"､それは本当に実話なのでしょうか。怒りをエサに反応を集める｢レイジベイト｣が横行しています。私たちの怒りは誰に操られているのか､一度立ち止まって考えてみません…",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-26T22:00:00+00:00"
+    },
+    {
+      "title": "ChatGPTは6割使うのに、なぜ内製AIは「みんな使わない」のか？　ひろぎんHDが直面した企業文化の壁",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/27/news018.html",
+      "summary": "ひろぎんホールディングスは、融資の推薦理由などをまとめる「副申書」の下書きをAIで作成する仕組みを内製した。ところが、このAIは社内でほとんど活用されていないという。なぜ業務特化型AIは現場に浸透しないのか。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-11-26T22:00:00+00:00"
     },
