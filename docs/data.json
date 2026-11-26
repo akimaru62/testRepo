@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T07:20:21.519341+00:00",
+  "generated_at": "2026-11-26T07:33:22.808797+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3806,9 +3806,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "物価の上ぶれ「俊敏に反応」日銀・田村審議委員、利上げ幅の倍増も",
+      "link": "https://www.asahi.com/articles/ASVCV0S64VCVULFA02LM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-26T07:33:15.219819+00:00"
+    },
     {
       "title": "戦術核の活用領域拡大　北朝鮮の金正恩氏、日韓念頭に能力強化―対米交渉こだわらず",
       "link": "https://www.jiji.com/jc/article?k=2026112600189&g=int&m=rss",
