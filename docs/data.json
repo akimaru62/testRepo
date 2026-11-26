@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T23:17:49.600151+00:00",
+  "generated_at": "2026-11-26T23:33:29.524521+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4078,6 +4078,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -4352,6 +4356,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-26T20:50:00+00:00"
+    },
+    {
+      "title": "Company Culture = Slack Emoji ÷ √Headcount",
+      "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "summary": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/\nComments URL: https://news.ycombinator.com/item?id=50659640\nPoints: 56\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T20:49:49+00:00"
     },
     {
       "title": "Banks look to dump AI debt",
