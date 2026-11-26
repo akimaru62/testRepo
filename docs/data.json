@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T15:05:46.198942+00:00",
+  "generated_at": "2026-11-26T15:18:04.884426+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3938,6 +3938,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3958,12 +3962,68 @@
       "published": "2026-11-26T17:00:00+00:00"
     },
     {
+      "title": "ＦＩＦＡに不正アクセス　サッカー",
+      "link": "https://www.jiji.com/jc/article?k=2026112601174&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T15:17:59.367491+00:00"
+    },
+    {
+      "title": "米新関税案に「遺憾」伝達　「過剰生産」根拠無し―政府",
+      "link": "https://www.jiji.com/jc/article?k=2026112600994&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T15:17:59.367482+00:00"
+    },
+    {
+      "title": "ミャンマー大統領、ＩＣＪ判決に反発 「不適切な要求に従わず」",
+      "link": "https://www.jiji.com/jc/article?k=20261126049630a&g=afp&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T15:17:59.367471+00:00"
+    },
+    {
+      "title": "日マーシャル、連携を深化　中国念頭、初の首脳共同声明",
+      "link": "https://www.jiji.com/jc/article?k=2026112601157&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T15:17:59.367457+00:00"
+    },
+    {
+      "title": "ディアンズ、斎藤ら先発　２８日ウェールズ戦―ラグビー日本代表",
+      "link": "https://www.jiji.com/jc/article?k=2026112601166&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T15:17:59.367424+00:00"
+    },
+    {
+      "title": "Euro Stays Slightly Higher After Europe Picks New ECB Chief",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-risk-off-sentiment-might-weigh-13bdefa1?mod=rss_markets_main",
+      "summary": "The euro rose slightly against the dollar after confirmation that Spain’s Pablo Hernandez de Cos is to be the next ECB president.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-26T15:12:00+00:00"
+    },
+    {
       "title": "Japanese Yen Lifted by Safe-Haven Demand",
       "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-risk-off-sentiment-might-weigh-13bdefa1?mod=rss_markets_main",
       "summary": "The dollar was flat against the yen. MUFG said safe-haven demand and the heightened threat of further intervention if dollar-yen rose beyond 160.00 was also helping to providing support.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-26T14:59:00+00:00"
+    },
+    {
+      "title": "Hawkish Fed poised to raise rates despite stock market turmoil",
+      "link": "https://www.ft.com/content/3890f725-66dd-4613-8a60-d9e3ea38d25a?syn-25a6b1a6=1",
+      "summary": "Inflation is top concern for US central bank officials even as tech-led sell-off triggers fears for economy",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-26T14:58:45+00:00"
     },
     {
       "title": "欧州中銀の新総裁にデコス氏　スペイン出身、国際決済銀総支配人",
