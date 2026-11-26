@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T00:54:28.198833+00:00",
+  "generated_at": "2026-11-26T01:05:43.523517+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3690,9 +3690,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "いくら口角を上げても､明るい声を出してもダメなのはなぜ？ ｢また会いたいと思われる人｣｢身構えられる人｣の決定的な差 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965707?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "話し方の本を読んだり､講座に通ったりしても､人づき合いがなかなかうまくいかない。そんな経験はありませんか。実は､笑顔や声を作るほど､相手に伝わってしまうものがあります。｢また会いたい｣と思われる人の…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-26T01:00:00+00:00"
+    },
+    {
+      "title": "【挨拶】田村審議委員「わが国の経済・物価情勢と金融政策」（山梨）",
+      "link": "http://www.boj.or.jp/about/press/koen_2026/ko261126a.htm",
+      "summary": "",
+      "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-11-26T01:00:00+00:00"
+    },
+    {
+      "title": "‘Jensanity’ erupts in Taiwan and China on Nvidia founder’s comeback",
+      "link": "https://www.ft.com/content/368c4526-a0ce-4951-a847-f039af2a51af?syn-25a6b1a6=1",
+      "summary": "Jensen Huang is among the few business leaders to straddle both sides of the Taiwan Strait",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-26T00:45:54+00:00"
+    },
     {
       "title": "NVIDIAを格下げ方向で見直し S&P",
       "link": "https://news.yahoo.co.jp/pickup/6604015?source=rss",
@@ -3700,6 +3728,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-26T00:44:56+00:00"
+    },
+    {
+      "title": "Tell HN: Lots of Ask HNs again",
+      "link": "https://news.ycombinator.com/item?id=50649864",
+      "summary": "There have been questions about why the /ask page (https://news.ycombinator.com/ask) was running dry of Ask HN posts - e.g.:Ask HN: Why is Ask HN only showing me 14 posts? - https://news.ycombinator.com/item?id=49984484 - Oct 2026 (47 comments)Ask HN: Why is pagination gone on \"Ask HN\", and showing only 19 items? - https://news.ycombinator.com/item?id=50280719 - Oct 2026 (3 comments)I believe I finally found the problem. The pool of stories for https://news.ycombinator.com/ask has traditionally been drawn from the ranked stories list from which we generate the frontpage. That list is restricted to the top 1500 ranked submissions, and it seems the % of submissions which are text posts (i.e. no linked URL) had declined enough to starve the Ask HN feed. The solution is to compute a separate list of ranked Ask HNs.\n\nComments URL: https://news.ycombinator.com/item?id=50649864\nPoints: 16\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T00:43:34+00:00"
     },
     {
       "title": "｢勤勉さ｣でも｢能力｣でもない…仕事ができない人に足りないもの　\"企画のツボ\"を外す人が陥る｢スキル信仰｣の罠 | ライフ | 東洋経済オンライン",
@@ -3993,6 +4029,14 @@
       "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
       "link": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
       "summary": "Article URL: https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/\nComments URL: https://news.ycombinator.com/item?id=50648323\nPoints: 15\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T22:12:25+00:00"
+    },
+    {
+      "title": "Deploying a payphone on a tiny Pacific Island",
+      "link": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+      "summary": "Article URL: https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/\nComments URL: https://news.ycombinator.com/item?id=50648323\nPoints: 26\n# Comments: 0",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-25T22:12:25+00:00"
