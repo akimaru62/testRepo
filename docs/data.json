@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T17:33:33.485414+00:00",
+  "generated_at": "2026-11-26T17:47:34.668671+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3982,6 +3982,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3992,6 +3996,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-26T17:23:00+00:00"
+    },
+    {
+      "title": "Andrew Bailey says unreleased AI models have raised encryption concerns",
+      "link": "https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae?syn-25a6b1a6=1",
+      "summary": "Breakthroughs in mathematics have stoked fears that data across financial systems is under threat",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-26T17:13:40+00:00"
     },
     {
       "title": "AMD Specific Patches for Llama.cpp",
@@ -4018,12 +4030,28 @@
       "published": "2026-11-26T17:00:00+00:00"
     },
     {
+      "title": "Two Italians killed in Iranian strike on Kuwait",
+      "link": "https://www.ft.com/content/e5f3128d-5f8b-416c-90d1-2549175cb091?syn-25a6b1a6=1",
+      "summary": "Rheinmetall workers are the first reported deaths from Iranian attacks since Washington and Tehran restarted exchanging fire this month",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-26T16:57:26+00:00"
+    },
+    {
       "title": "One guy is doing an hunger strike at Anthropic, currently in his 3rd day",
       "link": "https://twitter.com/ElliotC1/status/2125689373337489419",
       "summary": "Article URL: https://twitter.com/ElliotC1/status/2125689373337489419\nComments URL: https://news.ycombinator.com/item?id=50657110\nPoints: 26\n# Comments: 4",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-26T16:55:15+00:00"
+    },
+    {
+      "title": "Israel’s Eisenkot takes steps towards replacing Netanyahu",
+      "link": "https://www.ft.com/content/a0731abb-c7bf-421b-9486-682114c705ff",
+      "summary": "Opposition leader’s deals with two parties advance plans to oust prime minister",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-26T16:51:18+00:00"
     },
     {
       "title": "NP_R ≠ PAR_R",
