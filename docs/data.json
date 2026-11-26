@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T19:33:14.865670+00:00",
+  "generated_at": "2026-11-26T19:47:14.704734+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4014,6 +4014,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -4061,6 +4065,14 @@
       "title": "YouTube Ad Punisher – Bypass anti-adblock",
       "link": "https://github.com/antonpictures/youtube-punisher",
       "summary": "Article URL: https://github.com/antonpictures/youtube-punisher\nComments URL: https://news.ycombinator.com/item?id=50657530\nPoints: 16\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T17:36:47+00:00"
+    },
+    {
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "link": "https://github.com/antonpictures/youtube-punisher",
+      "summary": "Article URL: https://github.com/antonpictures/youtube-punisher\nComments URL: https://news.ycombinator.com/item?id=50657530\nPoints: 60\n# Comments: 83",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-26T17:36:47+00:00"
@@ -5069,6 +5081,14 @@
       "title": "Moat: Your OpenRouter Replacement",
       "link": "https://commandcode.ai/moat",
       "summary": "Article URL: https://commandcode.ai/moat\nComments URL: https://news.ycombinator.com/item?id=50652184\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T06:32:48+00:00"
+    },
+    {
+      "title": "Moat: OpenRouter replacement",
+      "link": "https://commandcode.ai/moat",
+      "summary": "Article URL: https://commandcode.ai/moat\nComments URL: https://news.ycombinator.com/item?id=50652184\nPoints: 204\n# Comments: 121",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-26T06:32:48+00:00"
