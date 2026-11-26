@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T15:18:04.884426+00:00",
+  "generated_at": "2026-11-26T15:33:36.016124+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3942,6 +3942,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3960,6 +3964,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-26T17:00:00+00:00"
+    },
+    {
+      "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+      "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+      "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-26T15:30:00+00:00"
     },
     {
       "title": "ＦＩＦＡに不正アクセス　サッカー",
@@ -4080,6 +4092,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-26T13:48:11+00:00"
+    },
+    {
+      "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
+      "link": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
+      "summary": "A rebound off lows for the S&amp;P 500 on Wednesday calms bourses after the tech washout.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-26T13:41:00+00:00"
     },
     {
       "title": "Pablo Hernández de Cos wins race for ECB presidency",
