@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T08:07:04.863358+00:00",
+  "generated_at": "2026-11-26T08:22:26.842965+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3818,6 +3818,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3844,6 +3848,54 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-26T09:37:00+00:00"
+    },
+    {
+      "title": "デニーズにフアン氏記念プレートが復活　エヌビディア「誕生」の席―米",
+      "link": "https://www.jiji.com/jc/article?k=2026112600713&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T08:22:22.516479+00:00"
+    },
+    {
+      "title": "国際司法の未来「共に築く」　ＩＣＣ赤根所長が都内で講演",
+      "link": "https://www.jiji.com/jc/article?k=2026112600835&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T08:22:22.516461+00:00"
+    },
+    {
+      "title": "フィンランドからサンタ来日　千葉県成田市〔地域〕",
+      "link": "https://www.jiji.com/jc/article?k=2026112600826&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T08:22:22.516449+00:00"
+    },
+    {
+      "title": "原潜導入「総合的に判断」　防衛財源の調整継続―安保３文書で有識者提言案",
+      "link": "https://www.jiji.com/jc/article?k=2026112600832&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T08:22:22.516433+00:00"
+    },
+    {
+      "title": "東海テレビが２．４億円所得隠し　ＣＭ制作費水増しで所得圧縮―名古屋国税局",
+      "link": "https://www.jiji.com/jc/article?k=2026112600756&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T08:22:22.516403+00:00"
+    },
+    {
+      "title": "支援金の対象上限「平均年収並み」　25年は487万円、政府検討",
+      "link": "https://www.asahi.com/articles/ASVCV2F7MVCVULFA008M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-26T08:22:22.296081+00:00"
     },
     {
       "title": "尹錫悦前大統領、偽証では無罪確定　閣議開催巡る証言―韓国最高裁",
