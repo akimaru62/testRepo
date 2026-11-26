@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T09:06:06.734827+00:00",
+  "generated_at": "2026-11-26T09:19:58.016688+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3838,6 +3838,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3866,6 +3870,62 @@
       "published": "2026-11-26T09:37:00+00:00"
     },
     {
+      "title": "供給混乱に備え、ＥＵと「早期警戒網」　ＴＰＰ閣僚級会合が開幕",
+      "link": "https://www.jiji.com/jc/article?k=2026112600909&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T09:19:53.009978+00:00"
+    },
+    {
+      "title": "アディーレ法律事務所で１８００件情報漏れ　外部委託先に不正アクセス",
+      "link": "https://www.jiji.com/jc/article?k=2026112600917&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T09:19:53.009968+00:00"
+    },
+    {
+      "title": "北海道新聞記者家族と緊密に連絡　木原官房長官",
+      "link": "https://www.jiji.com/jc/article?k=2026112600873&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T09:19:53.009953+00:00"
+    },
+    {
+      "title": "千葉百音「私も続けるように」―ＮＨＫ杯フィギュア２７日開幕",
+      "link": "https://www.jiji.com/jc/article?k=2026112600886&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T09:19:53.009943+00:00"
+    },
+    {
+      "title": "高額治療目的の入国対策強化　外国人、保険適用せず全額負担も―厚労省",
+      "link": "https://www.jiji.com/jc/article?k=2026112600872&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T09:19:53.009932+00:00"
+    },
+    {
+      "title": "小中不登校、最多３５万人超　問題行動調査、いじめも最多―性的嫌がらせ８千件・文科省",
+      "link": "https://www.jiji.com/jc/article?k=2026112600746&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T09:19:53.009917+00:00"
+    },
+    {
+      "title": "フアン氏の捜査「行われていない」とバンス副大統領　当局、中国の指示「証拠なし」―米エヌビディア",
+      "link": "https://www.jiji.com/jc/article?k=2026112600890&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T09:19:53.009880+00:00"
+    },
+    {
       "title": "関西電力、北海道2町での風力発電計画を断念　「採算成り立たない」",
       "link": "https://www.asahi.com/articles/ASVCV2TGJVCVPLFA006M.html?ref=rss",
       "summary": "",
@@ -3887,6 +3947,14 @@
       "summary": "",
       "source": "財務省",
       "category": "公的機関",
+      "published": "2026-11-26T09:00:00+00:00"
+    },
+    {
+      "title": "中国･兵器工場の町から｢エヌビディア スキャンダル｣の渦中へ…アリス･フアンの知られざる半生 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/966039?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "同じ造りの黄色い4階建てアパートが立ち並ぶ一角には、別時代の記憶を留める名が刻まれている。「愛国五村」だ。この古びたアパートの一室にかつて暮らしていたのが、アリス・フアンの一家である。父親は中国南部…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
       "published": "2026-11-26T09:00:00+00:00"
     },
     {
