@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T10:18:46.803190+00:00",
+  "generated_at": "2026-11-26T10:33:35.594784+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3858,6 +3858,14 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3876,6 +3884,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-26T17:00:00+00:00"
+    },
+    {
+      "title": "浜岡原発不正、勝野元会長らに報酬返納を要求　中部電、社員も処分",
+      "link": "https://www.asahi.com/articles/ASVCV3C2KVCVULFA00SM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-26T10:33:22.473375+00:00"
     },
     {
       "title": "江夏豊さんに最後の別れ　江本孟紀さん、工藤公康監督ら参列―プロ野球",
@@ -3940,6 +3956,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-26T10:05:47.508550+00:00"
+    },
+    {
+      "title": "【都心マンションに異変】東京都内の中古マンション価格が下落／マンション市場に何が起きている？／中古マンションは今買うべきか？／東京以外の価格動向／新築マンション、一戸建て、賃貸の価格はどうなる？ | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/966081?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "不動産調査会社の東京カンテイは24日、東京23区の10月の中古マンション価格が前月比-1.6%の1億2421万円だったと発表した。千代田区や中央区などの都心6区は、前月比-1.5%の1億7520万…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-26T10:00:00+00:00"
     },
     {
       "title": "U.S. Stock Futures Higher as AI Trade Steadies for Thanksgiving Break",
