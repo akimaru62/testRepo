@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:32:56.938484+00:00",
+  "generated_at": "2026-11-26T21:47:35.333267+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4050,9 +4050,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "｢おれは施設には住まねぇぞ！｣ 夫の\"無神経な一言\"で義父が激昂→介護疲れの嫁が放った\"まさかの言葉\" | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965804?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "路地裏にひっそりと佇む、とあるBAR。 ここには、さまざまな事情を抱えた人がやってきます。今宵も介護で疲れ切った人が、重いため息と共にやってきました。全国で約690万人超──。これは、介護サービスの…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-26T21:30:00+00:00"
+    },
     {
       "title": "アメ横周辺の道に机 営業停止処分",
       "link": "https://news.yahoo.co.jp/pickup/6604126?source=rss",
@@ -4100,6 +4112,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-26T21:17:49.744881+00:00"
+    },
+    {
+      "title": "The greatest architect you've never heard of is in Pakistan",
+      "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/\nComments URL: https://news.ycombinator.com/item?id=50659841\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T21:08:05+00:00"
     },
     {
       "title": "｢買うならトヨタ一択｣日本車好き40代男性が《中国のEV》を長時間ドライブ､運転後に口にした｢正直な感想｣ | ライフ | 東洋経済オンライン",
@@ -4156,6 +4176,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-26T20:50:00+00:00"
+    },
+    {
+      "title": "Banks look to dump AI debt",
+      "link": "https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt",
+      "summary": "Article URL: https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt\nComments URL: https://news.ycombinator.com/item?id=50659634\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T20:49:01+00:00"
     },
     {
       "title": "｢ラーメン屋の行列｣に並ぶ人が気づき始めた\"真実\"…ファストパス導入急増で｢1時間を500円で買う｣は当たり前になるか？ | ライフ | 東洋経済オンライン",
@@ -4468,6 +4496,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-26T16:16:41+00:00"
+    },
+    {
+      "title": "Do voters want vision or concision from politicians?",
+      "link": "https://www.ft.com/content/af51083d-f076-44c0-8858-c9e9d4487fcc?syn-25a6b1a6=1",
+      "summary": "Their flowery flights of rhetoric used to go on forever. Now they keep it brief",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-26T16:16:34+00:00"
     },
     {
       "title": "1984 Hosting is down due to a security incident",
