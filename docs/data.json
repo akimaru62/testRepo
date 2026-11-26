@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T16:47:51.504021+00:00",
+  "generated_at": "2026-11-26T17:04:59.694585+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3970,6 +3970,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3988,6 +3992,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-26T17:00:00+00:00"
+    },
+    {
+      "title": "Kagi Watch",
+      "link": "https://kagi.com/watch",
+      "summary": "Article URL: https://kagi.com/watch\nComments URL: https://news.ycombinator.com/item?id=50656862\nPoints: 20\n# Comments: 19",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T16:28:54+00:00"
     },
     {
       "title": "北朝鮮「対ロ軍事支援停止」か　ウクライナ当局発表",
