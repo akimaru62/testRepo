@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T14:05:48.638502+00:00",
+  "generated_at": "2026-11-26T14:19:33.974652+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3922,6 +3922,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3940,6 +3944,30 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-26T17:00:00+00:00"
+    },
+    {
+      "title": "独コメルツ銀会長の解任提案　伊ウニクレディト、買収計画で",
+      "link": "https://www.jiji.com/jc/article?k=2026112601175&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T14:19:29.206058+00:00"
+    },
+    {
+      "title": "死亡男性、顔や首に多数の傷　事件２０分前、周辺カメラに逮捕の男か―福岡駐輪場刺殺・県警",
+      "link": "https://www.jiji.com/jc/article?k=2026112601183&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T14:19:29.206011+00:00"
+    },
+    {
+      "title": "年末年始の「夜行新幹線」続々",
+      "link": "https://news.yahoo.co.jp/pickup/6604121?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-26T14:17:58+00:00"
     },
     {
       "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
@@ -3961,6 +3989,14 @@
       "title": "Altria Considers $157 Billion Tie-Up With Imperial Brands",
       "link": "https://www.wsj.com/business/deals/altria-considering-possible-offer-for-imperial-brands-7cef494b?mod=rss_markets_main",
       "summary": "The U.S. company said it was considering a takeover offer to buy its smaller London-listed peer Imperial Brands.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-26T13:27:00+00:00"
+    },
+    {
+      "title": "Altria Considers $157 Billion Tobacco Tie-Up With Imperial Brands",
+      "link": "https://www.wsj.com/business/deals/altria-considering-possible-offer-for-imperial-brands-7cef494b?mod=rss_markets_main",
+      "summary": "The U.S. company said it was considering a takeover offer to buy its smaller London-listed peer.",
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-26T13:27:00+00:00"
