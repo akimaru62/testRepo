@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T15:47:22.430167+00:00",
+  "generated_at": "2026-11-26T16:06:10.184116+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3950,6 +3950,14 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3976,6 +3984,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-26T15:30:00+00:00"
+    },
+    {
+      "title": "Bringing data to the Thanksgiving table",
+      "link": "https://www.ft.com/content/1c91974e-8b52-4bd6-a9c3-fb42c1d02cf4?syn-25a6b1a6=1",
+      "summary": "Does America really face a food affordability crisis?",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-26T15:26:58+00:00"
     },
     {
       "title": "ＦＩＦＡに不正アクセス　サッカー",
@@ -4024,6 +4040,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-26T15:12:00+00:00"
+    },
+    {
+      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+      "link": "https://michidk.github.io/sidebyside/",
+      "summary": "Article URL: https://michidk.github.io/sidebyside/\nComments URL: https://news.ycombinator.com/item?id=50656036\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T15:00:06+00:00"
     },
     {
       "title": "Japanese Yen Lifted by Safe-Haven Demand",
