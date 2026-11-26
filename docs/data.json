@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T18:47:30.369532+00:00",
+  "generated_at": "2026-11-26T19:04:29.639147+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4002,9 +4002,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Ask HN: How do you find meaning of life at 41?",
+      "link": "https://news.ycombinator.com/item?id=50657957",
+      "summary": "Happy Thanksgiving!This question crossed my mind in the morning. It feels like I have seen pretty much everything under the Sun. I have modest house (still renting), small kids, a okayish job. I spent time on daily activities and occassionally on long walks.The progress with AI and impact on Software is frankly exciting and depressing at the same time.What are people my age doing these days? How do you keep yourself excited for the future and not feel anxious?Curious to see from a bit older people here how are you doing and challenging yourself well into 40s, 50s and 60s.\n\nComments URL: https://news.ycombinator.com/item?id=50657957\nPoints: 14\n# Comments: 10",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T18:14:53+00:00"
+    },
     {
       "title": "Opinion | Does Nvidia Really Need Its Brilliant Nutjob?",
       "link": "https://www.wsj.com/opinion/does-nvidia-really-need-its-brilliant-nutjob-33b21d47?mod=rss_markets_main",
@@ -4036,6 +4048,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-26T17:23:00+00:00"
+    },
+    {
+      "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning",
+      "link": "https://github.com/deepseek-ai/deepseek-math",
+      "summary": "Article URL: https://github.com/deepseek-ai/deepseek-math\nComments URL: https://news.ycombinator.com/item?id=50657355\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T17:21:14+00:00"
     },
     {
       "title": "Tracking Diseases Cured by AI",
@@ -4593,6 +4613,14 @@
       "title": "Intel One Mono font",
       "link": "https://github.com/intel/intel-one-mono",
       "summary": "Article URL: https://github.com/intel/intel-one-mono\nComments URL: https://news.ycombinator.com/item?id=50653667\nPoints: 7\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T10:11:01+00:00"
+    },
+    {
+      "title": "Intel One Mono font (2023)",
+      "link": "https://github.com/intel/intel-one-mono",
+      "summary": "Article URL: https://github.com/intel/intel-one-mono\nComments URL: https://news.ycombinator.com/item?id=50653667\nPoints: 382\n# Comments: 214",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-26T10:11:01+00:00"
