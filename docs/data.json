@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T11:17:28.880943+00:00",
+  "generated_at": "2026-11-26T11:33:09.222941+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3878,6 +3878,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3896,6 +3900,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-26T17:00:00+00:00"
+    },
+    {
+      "title": "吉野家HD、「第4の肉」ダチョウ事業を売却　丼販売も収益面に課題",
+      "link": "https://www.asahi.com/articles/ASVCV3HGMVCVULFA01MM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-26T11:33:03.295170+00:00"
     },
     {
       "title": "文科相問責、２７日採決　賛否拮抗、与野党が攻防―国会",
@@ -4008,6 +4020,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-26T10:13:28+00:00"
+    },
+    {
+      "title": "Franco-German clash over ‘Made in Europe’ in EU defence budget",
+      "link": "https://www.ft.com/content/c9e569cd-d9c7-43ea-877e-7fa6d1e91ea7?syn-25a6b1a6=1",
+      "summary": "Berlin leads pushback against French demands for European preference in buying military equipment",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-26T10:11:49+00:00"
     },
     {
       "title": "Intel One Mono font",
