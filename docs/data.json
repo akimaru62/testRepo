@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T18:33:18.799730+00:00",
+  "generated_at": "2026-11-26T18:47:30.369532+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3998,6 +3998,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -4088,6 +4092,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-26T16:55:15+00:00"
+    },
+    {
+      "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+      "link": "https://github.com/rxliuli/sim-drop",
+      "summary": "Hi HN, I made a small macOS utility for my own iOS simulator workflow.I kept running into two annoyances: getting config files in and out of a simulator is clunky (digging into CoreSimulator UUID folders or running simctl), and on the iPhone Duo simulator I couldn't even drag and drop images onto the window at all.SimDrop puts every running iOS simulator in Finder's sidebar (under Locations) with two folders:- Downloads/ (Files app > On My iPhone > Downloads)\n- Photos and Videos/ (the simulator's Photos library)Simulators appear when they boot and disappear when they shut down. Everything is also reachable from the terminal under ~/Library/CloudStorage/SimDrop-SimDrop/.A couple of caveats up front:\n- Dragging moves files by default (same as iCloud Drive, because it uses File Provider on the startup volume)—hold Option to copy.\n- macOS 15+ and iOS simulators only (not physical devices).It's free, open source (GPL-3.0), signed and notarized, and installable via Homebrew:  brew install --cask rxliuli/tap/sim-drop\n\nJust sharing in case others run into the same friction—feedback or PRs welcome!\n\nComments URL: https://news.ycombinator.com/item?id=50657070\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T16:51:38+00:00"
     },
     {
       "title": "Israel’s Eisenkot takes steps towards replacing Netanyahu",
