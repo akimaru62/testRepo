@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T06:44:41.886392+00:00",
+  "generated_at": "2026-11-26T06:52:20.806603+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3794,6 +3794,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3937,6 +3941,14 @@
       "title": "How Britain built a tax system it can’t fix",
       "link": "https://www.ft.com/content/168aa97b-1a58-480e-a995-31287308432f?syn-25a6b1a6=1",
       "summary": "Strained public finances and a reluctance to cut spending have shaped a tax system with comical distortions",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-26T05:00:12+00:00"
+    },
+    {
+      "title": "How Britain taxed itself into a corner",
+      "link": "https://www.ft.com/content/168aa97b-1a58-480e-a995-31287308432f?syn-25a6b1a6=1",
+      "summary": "Strained public finances and a reluctance to cut spending have shaped a system with comical distortions",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-26T05:00:12+00:00"
