@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T13:33:34.527687+00:00",
+  "generated_at": "2026-11-26T13:47:49.298854+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3914,6 +3914,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3932,6 +3936,14 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-26T17:00:00+00:00"
+    },
+    {
+      "title": "Pablo Hernández de Cos wins race for ECB presidency",
+      "link": "https://www.ft.com/content/88a0691a-6ce8-4c97-abf4-7aee0351fd51?syn-25a6b1a6=1",
+      "summary": "Spanish economist set to succeed Christine Lagarde after Dutch government ends support for rival candidate Klass Knot",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-26T13:27:22+00:00"
     },
     {
       "title": "問責可否、消費減税へ波及　迫る会期末、自民に延長論",
@@ -4060,6 +4072,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-26T11:17:25.110198+00:00"
+    },
+    {
+      "title": "BoE to cut capital requirements for banks as it warns of AI risks",
+      "link": "https://www.ft.com/content/cf30cef5-0e35-4ebd-a456-797dbd1ad132?syn-25a6b1a6=1",
+      "summary": "Central bank tells lenders they will need to keep pace with the growing scale and sophistication of cyber threats",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-26T11:09:58+00:00"
     },
     {
       "title": "Global stocks climb after volatile US trading over AI risks",
