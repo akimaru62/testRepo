@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T20:17:43.278751+00:00",
+  "generated_at": "2026-11-26T20:33:25.663406+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4026,9 +4026,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Two Italians killed in drone strike on Kuwait",
+      "link": "https://www.ft.com/content/e5f3128d-5f8b-416c-90d1-2549175cb091?syn-25a6b1a6=1",
+      "summary": "Workers are the first reported deaths in the Gulf since the US and Iran restarted exchanging fire this month",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-26T20:23:24+00:00"
+    },
     {
       "title": "スバル、１７万台リコール　エンジン停止の恐れ―国交省",
       "link": "https://www.jiji.com/jc/article?k=2026112601056&g=soc&m=rss",
@@ -4044,6 +4056,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-26T20:17:38.598697+00:00"
+    },
+    {
+      "title": "マンション価格の下落が止まらない…それでも｢不動産バブル｣は終わっていないと言える明確な根拠 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965843?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "首都圏の新築マンション価格が軟調となる一方､地銀を中心とした不動産融資は過去最大規模に拡大。不動産バブルはむしろ深化し､都市部では依然としてオフィスやホテルの高騰が続いています。金融庁の監督と融資の…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-26T20:15:00+00:00"
     },
     {
       "title": "1億円超の｢高額所得者｣の多い地域ランキングTOP300…東京だけではない意外なエリアの名前 | ライフ | 東洋経済オンライン",
@@ -4068,6 +4088,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-26T19:53:58+00:00"
+    },
+    {
+      "title": "Rvoip 0.5 the complete VoIP stack in Rust",
+      "link": "https://github.com/eisenzopf/rvoip",
+      "summary": "Article URL: https://github.com/eisenzopf/rvoip\nComments URL: https://news.ycombinator.com/item?id=50658632\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T19:18:09+00:00"
     },
     {
       "title": "Opinion | Zohran Mamdani Has a Nvidia Revelation",
