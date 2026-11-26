@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T03:47:44.586426+00:00",
+  "generated_at": "2026-11-26T04:06:06.547097+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3746,9 +3746,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "カギ握るのは日本保守党と無所属の計7議席､高市政権を大きく揺さぶる関文科相の問責決議｢参院本会議決戦｣の大一番 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/966001?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "関芳弘文科相の問責決議案が11月26日に提出されました。翌27日午前の参院本会議で採決される見通し。政権の命運を握る大一番が目前に迫っています。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-26T04:00:00+00:00"
+    },
     {
       "title": "再稼働遅れ、なぜ深刻なのか　東電収支改善に暗い影　柏崎刈羽7号機",
       "link": "https://www.asahi.com/articles/ASVCT3DHZVCTULFA01BM.html?ref=rss",
@@ -3804,6 +3816,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-26T03:05:55.189685+00:00"
+    },
+    {
+      "title": "Minipg: PostgreSQL as a Single Executable",
+      "link": "https://progrium.github.io/minipg/",
+      "summary": "Article URL: https://progrium.github.io/minipg/\nComments URL: https://news.ycombinator.com/item?id=50650892\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T03:00:48+00:00"
     },
     {
       "title": "みそ汁に｢リンゴ酢｣と｢玉ねぎ｣を足すだけ→腸の名医が実践する\"腸に効くご飯\"8つの鉄則 | ライフ | 東洋経済オンライン",
