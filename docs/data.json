@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T05:33:30.234794+00:00",
+  "generated_at": "2026-11-26T05:48:10.146993+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3778,6 +3778,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3817,6 +3821,22 @@
       "title": "Saudi Arabia prepares to delay flagship mining conference as attacks continue",
       "link": "https://www.ft.com/content/325b93d6-bc2e-4dd3-9941-cf4688aca11d?syn-25a6b1a6=1",
       "summary": "Future Minerals Forum likely to be pushed back from January due to regional conflict",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-26T05:00:19+00:00"
+    },
+    {
+      "title": "Huang’s return is a terrible signal for US capitalism",
+      "link": "https://www.ft.com/content/cd688a72-04ed-40fb-9c26-5cae522a0abd",
+      "summary": "Nvidia scandal highlights why the shareholder rights that are now under threat are so important",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-26T05:00:19+00:00"
+    },
+    {
+      "title": "Angry young men turn against their elders in ‘two Spains’ election",
+      "link": "https://www.ft.com/content/6b8ac07d-d589-4ff2-9ad3-8cda56287a8e?syn-25a6b1a6=1",
+      "summary": "Voters set to oust Pedro Sánchez and propel radical right into a coalition government for first time since Franco",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-26T05:00:19+00:00"
