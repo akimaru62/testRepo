@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T04:33:16.407751+00:00",
+  "generated_at": "2026-11-26T04:47:36.612703+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3762,9 +3762,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "アニメとコラボのおせち 多彩に",
+      "link": "https://news.yahoo.co.jp/pickup/6604055?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-26T04:43:40+00:00"
+    },
     {
       "title": "ホンダ 逆輸入のアキュラ来月発売",
       "link": "https://news.yahoo.co.jp/pickup/6604052?source=rss",
@@ -3798,6 +3810,14 @@
       "published": "2026-11-26T04:00:00+00:00"
     },
     {
+      "title": "ホットペッパーグルメ「席押さえ」好調　テレビCMで苦戦→成功に導いた新施策は？　新規利用者数は「目標比140％」",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/26/news043.html",
+      "summary": "「ホットペッパーグルメ」は1月から、今すぐ入れる店を検索し、そのまま予約できる新機能「席押さえ」の提供を始めた。新規利用者数は目標比140％を達成するなど好調だ。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-26T04:00:00+00:00"
+    },
+    {
       "title": "再稼働遅れ、なぜ深刻なのか　東電収支改善に暗い影　柏崎刈羽7号機",
       "link": "https://www.asahi.com/articles/ASVCT3DHZVCTULFA01BM.html?ref=rss",
       "summary": "",
@@ -3812,6 +3832,22 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-26T03:43:24+00:00"
+    },
+    {
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "link": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "summary": "Article URL: https://twitter.com/thsottiaux/status/2125784147889393806\nComments URL: https://news.ycombinator.com/item?id=50651117\nPoints: 26\n# Comments: 8",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T03:36:58+00:00"
+    },
+    {
+      "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+      "link": "https://olumino.app",
+      "summary": "I was inspired by Mochi and Anki, but wanted to make something that’s a mix of the two. Anki is very confusing and has an outdated interface while Mochi is very simple and has a more minimalist interface. Olumino is the combination of both.I also added Japanese flashcard support, including kana readings, for anyone learning the language.I’m a CS student building this in my free time, so I’d love to hear what people think!\n\nComments URL: https://news.ycombinator.com/item?id=50651099\nPoints: 4\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T03:33:06+00:00"
     },
     {
       "title": "野党、関文科相問責提出　２７日採決、与党否決目指す",
