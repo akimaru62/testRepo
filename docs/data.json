@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T10:47:52.243014+00:00",
+  "generated_at": "2026-11-26T11:05:11.792920+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3870,6 +3870,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3888,6 +3892,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-26T17:00:00+00:00"
+    },
+    {
+      "title": "くら寿司 2つの施策に識者違和感",
+      "link": "https://news.yahoo.co.jp/pickup/6604102?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-26T10:55:26+00:00"
+    },
+    {
+      "title": "Lilly, Novo Supplier Bachem Hit by Share Drop After Growth Plans Disappoint",
+      "link": "https://www.wsj.com/business/earnings/lilly-novo-supplier-bachem-hit-by-share-drop-after-growth-plans-disappoint-d3bcf6fa?mod=rss_markets_main",
+      "summary": "Bachem Holding shares fell after the Swiss peptide maker, a supplier to both Novo Nordisk and Eli Lilly, outlined plans to boost spending and issued new targets that analysts saw as weaker than anticipated.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-26T10:55:00+00:00"
     },
     {
       "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
@@ -3992,6 +4012,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-26T09:47:00+00:00"
+    },
+    {
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/\nComments URL: https://news.ycombinator.com/item?id=50653477\nPoints: 12\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T09:44:23+00:00"
     },
     {
       "title": "記者会見,片山財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和８年11月20日）について掲載しました。",
@@ -4424,6 +4452,14 @@
       "source": "財務省",
       "category": "公的機関",
       "published": "2026-11-26T05:45:00+00:00"
+    },
+    {
+      "title": "An algebraic quantization of gravity from the null cone",
+      "link": "https://arxiv.org/abs/2611.34924",
+      "summary": "Article URL: https://arxiv.org/abs/2611.34924\nComments URL: https://news.ycombinator.com/item?id=50651863\nPoints: 28\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T05:37:51+00:00"
     },
     {
       "title": "女子高生殺害、２３歳男認める　自宅クローゼットに遺体―名古屋地裁",
