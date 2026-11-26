@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T12:07:57.914034+00:00",
+  "generated_at": "2026-11-26T12:24:23.349377+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3890,6 +3890,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3908,6 +3912,30 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-26T17:00:00+00:00"
+    },
+    {
+      "title": "中国、日本側に申し入れ　尖閣沖、侵入警告に反発",
+      "link": "https://www.jiji.com/jc/article?k=2026112600998&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T12:24:18.393388+00:00"
+    },
+    {
+      "title": "公民中、皇位継承巡り議論開始　野田氏「政府動く状況つくれ」",
+      "link": "https://www.jiji.com/jc/article?k=2026112601105&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T12:24:18.393349+00:00"
+    },
+    {
+      "title": "Head of Software Engineering – NOX Metals",
+      "link": "https://news.ycombinator.com/item?id=50654353",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=50654353\nPoints: 0\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T12:00:00+00:00"
     },
     {
       "title": "吉野家HD、「第4の肉」ダチョウ事業を売却　丼販売も収益面に課題",
