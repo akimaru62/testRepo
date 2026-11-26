@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T03:06:00.103783+00:00",
+  "generated_at": "2026-11-26T03:20:57.323658+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3730,9 +3730,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "野党、関文科相問責提出　２７日採決、与党否決目指す",
+      "link": "https://www.jiji.com/jc/article?k=2026112600109&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T03:20:52.591059+00:00"
+    },
+    {
+      "title": "韓国中銀、政策金利３．２５％に　０．２５％引き上げ",
+      "link": "https://www.jiji.com/jc/article?k=2026112600421&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T03:20:52.591045+00:00"
+    },
+    {
+      "title": "定数削減、２６日の採決見送り　衆院委、野党「審議不十分」",
+      "link": "https://www.jiji.com/jc/article?k=2026112600116&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T03:20:52.591012+00:00"
+    },
+    {
+      "title": "Mrs Takaichi vs Mrs Watanabe: Japan’s coming financial clash",
+      "link": "https://www.ft.com/content/e6adc42b-2851-4122-80cc-326312d823ee?syn-25a6b1a6=1",
+      "summary": "Normalisation has not only put households on the hunt for returns but given them rapidly growing power to surprise markets",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-26T03:11:09+00:00"
+    },
+    {
+      "title": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
+      "link": "https://www.wsj.com/finance/asian-stocks-rise-as-investors-shrug-off-u-s-tariff-plan-f8daa85b?mod=rss_markets_main",
+      "summary": "Asian stock markets staged a major comeback after a selloff, as investors shrugged off new U.S. tariff proposals and Wall Street recouped most of the sharp losses ahead of the Thanksgiving holiday.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-26T03:09:00+00:00"
+    },
     {
       "title": "物価の上ぶれ「俊敏に反応」日銀・田村審議委員、利上げペース加速も",
       "link": "https://www.asahi.com/articles/ASVCV0S64VCVULFA02LM.html?ref=rss",
