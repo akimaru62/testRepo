@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T17:17:40.854693+00:00",
+  "generated_at": "2026-11-26T17:33:33.485414+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3978,9 +3978,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Gold Rises But Big Moves Seen as Unlikely for Now",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-amid-rate-hike-bets-1d4057c0?mod=rss_markets_main",
+      "summary": "Gold prices extend gains, with futures up 1% to $3,579.90 a troy ounce.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-26T17:23:00+00:00"
+    },
+    {
+      "title": "AMD Specific Patches for Llama.cpp",
+      "link": "https://devnull.land/amd-specific-llama-cpp",
+      "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp\nComments URL: https://news.ycombinator.com/item?id=50657265\nPoints: 15\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T17:11:29+00:00"
+    },
     {
       "title": "貸金業関係資料集について掲載しました。",
       "link": "https://www.fsa.go.jp/status/kasikin/20261126/index.html",
@@ -3996,6 +4016,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-26T17:00:00+00:00"
+    },
+    {
+      "title": "One guy is doing an hunger strike at Anthropic, currently in his 3rd day",
+      "link": "https://twitter.com/ElliotC1/status/2125689373337489419",
+      "summary": "Article URL: https://twitter.com/ElliotC1/status/2125689373337489419\nComments URL: https://news.ycombinator.com/item?id=50657110\nPoints: 26\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T16:55:15+00:00"
+    },
+    {
+      "title": "NP_R ≠ PAR_R",
+      "link": "https://github.com/samueleverett01/bss-permanent-separations",
+      "summary": "Article URL: https://github.com/samueleverett01/bss-permanent-separations\nComments URL: https://news.ycombinator.com/item?id=50657059\nPoints: 29\n# Comments: 7",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T16:50:55+00:00"
     },
     {
       "title": "Kagi Watch",
@@ -4313,6 +4349,14 @@
       "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
       "link": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
       "summary": "Article URL: https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/\nComments URL: https://news.ycombinator.com/item?id=50654289\nPoints: 15\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T11:50:49+00:00"
+    },
+    {
+      "title": "Nextcloud Office Desktop app",
+      "link": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+      "summary": "Article URL: https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/\nComments URL: https://news.ycombinator.com/item?id=50654289\nPoints: 335\n# Comments: 140",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-26T11:50:49+00:00"
