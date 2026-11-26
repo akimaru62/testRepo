@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T11:05:11.792920+00:00",
+  "generated_at": "2026-11-26T11:17:28.880943+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3874,6 +3874,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3892,6 +3896,46 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-26T17:00:00+00:00"
+    },
+    {
+      "title": "文科相問責、２７日採決　賛否拮抗、与野党が攻防―国会",
+      "link": "https://www.jiji.com/jc/article?k=2026112601000&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T11:17:25.110262+00:00"
+    },
+    {
+      "title": "バンコクの石油貯蔵施設で大規模爆発 当局が避難呼び掛け",
+      "link": "https://www.jiji.com/jc/article?k=20261126049628a&g=afp&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T11:17:25.110253+00:00"
+    },
+    {
+      "title": "１位の川尻と仮契約　「直球で押し切る」―プロ野球・西武",
+      "link": "https://www.jiji.com/jc/article?k=2026112601052&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T11:17:25.110241+00:00"
+    },
+    {
+      "title": "競輪・宝くじの収益活用を　消費減税財源確保へ自民提言",
+      "link": "https://www.jiji.com/jc/article?k=2026112601064&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T11:17:25.110198+00:00"
+    },
+    {
+      "title": "Global stocks climb after volatile US trading over AI risks",
+      "link": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679?syn-25a6b1a6=1",
+      "summary": "Tech shares hit this month by fears over whether boom can be sustained",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-26T11:09:00+00:00"
     },
     {
       "title": "くら寿司 2つの施策に識者違和感",
