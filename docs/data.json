@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T08:34:20.814295+00:00",
+  "generated_at": "2026-11-26T08:47:26.142810+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3830,6 +3830,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3856,6 +3860,46 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-26T09:37:00+00:00"
+    },
+    {
+      "title": "吉野家HD ダチョウ事業を売却",
+      "link": "https://news.yahoo.co.jp/pickup/6604087?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-26T08:44:48+00:00"
+    },
+    {
+      "title": "Gold Rises But U.S. Inflation Data Fuels Rate-Hike Expectations",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-amid-rate-hike-bets-1d4057c0?mod=rss_markets_main",
+      "summary": "Gold prices rose following Wednesday’s slump, but remained on track for a weekly loss after the latest U.S. inflation data reinforced expectations for further interest-rate hikes.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-26T08:40:00+00:00"
+    },
+    {
+      "title": "European Indexes Open Sharply Higher After U.S. Recovery",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-1-3-led-by-chip-metals-stocks-3b7004c9?mod=rss_markets_main",
+      "summary": "European stock indexes opened with strong gains after a late equity rally in the U.S. session.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-26T08:35:00+00:00"
+    },
+    {
+      "title": "Gilt Yields Rise as Inflation Concerns Linger",
+      "link": "https://www.wsj.com/finance/long-term-jgb-yields-rise-as-chip-stocks-rebound-c8e82816?mod=rss_markets_main",
+      "summary": "Gilts climbed as investors bet that high inflation could push the Bank of England to increase interest rates sharply over the coming months.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-26T08:32:00+00:00"
+    },
+    {
+      "title": "Global stocks steady after volatile US trading over AI risks",
+      "link": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679?syn-25a6b1a6=1",
+      "summary": "Tech shares hit this month by fears over whether an AI boom can be sustained",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-26T08:31:48+00:00"
     },
     {
       "title": "デニーズにフアン氏記念プレートが復活　エヌビディア「誕生」の席―米",
@@ -4248,6 +4292,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-26T05:00:11+00:00"
+    },
+    {
+      "title": "Unconditional Integer Factorization in Subexponential Time",
+      "link": "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization",
+      "summary": "Article URL: https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization\nComments URL: https://news.ycombinator.com/item?id=50651627\nPoints: 12\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T04:59:56+00:00"
     },
     {
       "title": "中部電 不正関わった関係者処分へ",
