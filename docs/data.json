@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T12:37:24.090312+00:00",
+  "generated_at": "2026-11-26T12:47:31.876160+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3898,6 +3898,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3916,6 +3920,22 @@
       "source": "金融庁",
       "category": "公的機関",
       "published": "2026-11-26T17:00:00+00:00"
+    },
+    {
+      "title": "Capital preservation rather than chasing the market higher is how hedge funds are negotiating market volatility",
+      "link": "https://www.marketwatch.com/story/capital-preservation-rather-than-chasing-the-market-higher-is-how-hedge-funds-are-negotiating-market-volatility-f4288b71?mod=mw_rss_topstories",
+      "summary": "After a strong first half, performance for the hedge fund sector has dipped in the second half, and Goldman Sachs expects the investor class to try and hold onto what they have for now.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-26T12:37:00+00:00"
+    },
+    {
+      "title": "Euro’s Recovery Prospects Look Limited",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-risk-off-sentiment-might-weigh-13bdefa1?mod=rss_markets_main",
+      "summary": "The euro was flat vs the dollar after hitting a 19-month low earlier this week and FxPro said euro could strengthen against the greenback, though it faced challenges which could limit its rise.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-26T12:36:00+00:00"
     },
     {
       "title": "スバル 4車種約18万台リコール",
