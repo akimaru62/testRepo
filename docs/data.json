@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:05:04.114959+00:00",
+  "generated_at": "2026-11-26T21:17:54.518375+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4042,9 +4042,93 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "徳島知事選で新人推薦　国民民主",
+      "link": "https://www.jiji.com/jc/article?k=2026112700093&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T21:17:50.044348+00:00"
+    },
+    {
+      "title": "首相動静（１１月２６日）",
+      "link": "https://www.jiji.com/jc/article?k=2026112600256&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T21:17:50.044322+00:00"
+    },
+    {
+      "title": "対象広がる支援金「趣旨からのずれ懸念」　議論の出発点示した翁氏",
+      "link": "https://www.asahi.com/articles/ASVCV4G3QVCVULFA02CM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-26T21:17:49.744931+00:00"
+    },
+    {
+      "title": "支援金の給付対象、勤労者5割以上は「ずいぶん多い」日本総研・翁氏",
+      "link": "https://www.asahi.com/articles/ASVCV3TR7VCVULFA007M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-26T21:17:49.744915+00:00"
+    },
+    {
+      "title": "「誰の監督も及ばない地位」創業者の理念「社員全員の共同体」どこへ",
+      "link": "https://www.asahi.com/articles/ASVCS4FHWVCSULFA026M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-26T21:17:49.744881+00:00"
+    },
+    {
+      "title": "｢買うならトヨタ一択｣日本車好き40代男性が《中国のEV》を長時間ドライブ､運転後に口にした｢正直な感想｣ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965805?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "日頃から日本ブランドへの信頼が厚い夫と中国BYDのEV｢ラッコ｣に試乗した筆者。夫からの感想とは？",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-26T21:01:00+00:00"
+    },
+    {
+      "title": "エヌビディア騒動で米議会が対中半導体輸出実績を公表､申請数340万個に対し許可数はわずか88万個弱 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965952?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "アメリカ半導体の巨人エヌビディアを巡るスキャンダルと､同国政府による厳格な中国企業への半導体輸出管理。その背後で､規制強化にもかかわらず依然として残る取引の疑惑。世界を揺るがす半導体供給と国家安全保…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-26T21:00:00+00:00"
+    },
+    {
+      "title": "中国BYD｢ラッコ｣など《軽EV》続々登場も､地方住みの軽ユーザーが\"買い替えを渋る\"生々しい本音 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965790?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "軽EVが相次いで登場する中で､地方の軽自動車ユーザーの中には買い替えを渋る声も。軽EVのラッコ試乗レポと､地方ユーザーの本音を取材しました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-26T21:00:00+00:00"
+    },
+    {
+      "title": "なぜ陸自の戦闘車両はクーラーすら搭載できなかったのか､自衛隊のあまりにもお粗末な情報収集力･開発力の現実 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965733?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "有事に戦場となる南西諸島への自衛隊の増強が進んでいます。ところが､実戦で戦うことになる車両が､ある前提にしばられ､本来の戦闘能力を失っていると筆者は指摘します。それは､防衛省･自衛隊に装備の開発や情…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-26T21:00:00+00:00"
+    },
+    {
+      "title": "楽天･AST､136機の日本専用衛星網整備へ　三菱重工と国内打ち上げも協議…コンステ競争は実装能力競うフェーズに突入 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965701?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "スマホと人工衛星が直接接続して地上局を介さずに通信できる「ダイレクト通信」。楽天と米大手通信会社のAST  SpaceMobileが、日本向けのダイレクト通信を実現させる「J-LEO」（総務省・自律…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-26T21:00:00+00:00"
+    },
     {
       "title": "トイザらス破綻が映す日米構造協議の教訓､大店法の壁を崩したアメリカの圧力は｢日本改造｣だったのか | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965685?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -4070,10 +4154,26 @@
       "published": "2026-11-26T20:45:00+00:00"
     },
     {
+      "title": "Nvidia was right to bring back Jensen Huang, writes Sarah Guo",
+      "link": "https://www.economist.com/by-invitation/2026/11/25/nvidia-was-right-to-bring-back-jensen-huang-writes-sarah-guo",
+      "summary": "Article URL: https://www.economist.com/by-invitation/2026/11/25/nvidia-was-right-to-bring-back-jensen-huang-writes-sarah-guo\nComments URL: https://news.ycombinator.com/item?id=50659532\nPoints: 10\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T20:39:05+00:00"
+    },
+    {
       "title": "｢パスキー未登録なら補償しない可能性｣証券会社が利用者に迫る認証強化､登録時こそ狙われる新たなフィッシングの盲点 | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965748?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "証券会社で必須化が進むパスキーは､不正アクセス対策として大きな期待を集めている。しかし､その安全性を過信してはいけない。設定時のフィッシングや補償の曖昧さなど､思わぬ落とし穴も……。",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-26T20:30:00+00:00"
+    },
+    {
+      "title": "AI時代に生き残るのは「高コストなシニア社員」か、それとも「デジタルネイティブな新卒社員」か",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/27/news022.html",
+      "summary": "「黒字リストラ」や大手企業での新卒採用の削減など、企業の人員戦略が大きな転換点を迎えている。背景にあるのはAIの急速な進化だ。AIによって真っ先に代替されるのは、高コストなシニア社員か、それとも若手社員か。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-11-26T20:30:00+00:00"
     },
@@ -4148,6 +4248,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-26T19:05:00+00:00"
+    },
+    {
+      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
+      "link": "https://bui.preetham.top/charts/",
+      "summary": "Article URL: https://bui.preetham.top/charts/\nComments URL: https://news.ycombinator.com/item?id=50658193\nPoints: 8\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T18:37:24+00:00"
     },
     {
       "title": "Show HN: Fuck_data_brokers.py",
