@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T03:33:08.859618+00:00",
+  "generated_at": "2026-11-26T03:47:44.586426+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3738,9 +3738,25 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "再稼働遅れ、なぜ深刻なのか　東電収支改善に暗い影　柏崎刈羽7号機",
+      "link": "https://www.asahi.com/articles/ASVCT3DHZVCTULFA01BM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-26T03:47:34.270823+00:00"
+    },
     {
       "title": "野党、関文科相問責提出　２７日採決、与党否決目指す",
       "link": "https://www.jiji.com/jc/article?k=2026112600109&g=pol&m=rss",
@@ -3794,6 +3810,14 @@
       "link": "https://toyokeizai.net/articles/-/965072?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "腸は私たちの思い通りに動かない\"わがままな臓器\"ですが､適切な環境と習慣で驚くほど元気になります。腸を｢育て直す｣ための食事や生活改善法､そして覚えやすい\"腸育食\"キーワード｢お･な･か･は･よ･い…",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-26T03:00:00+00:00"
+    },
+    {
+      "title": "旅行会社に残る価値は？　生成AIに「旅の相談」が当たり前の今、業界の生存戦略",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/26/news033.html",
+      "summary": "検索から予約、決済まで自律的にこなす「AIエージェント」の普及で、旅行会社の存在意義が問われている。日本旅行業協会（JATA）主催のシンポジウムに旅行・食・IT・大手旅行会社のプロ4人が登壇。「おいしい」を味わう感覚や、顧客の言葉の裏にある本音までは読み取れないAIの限界を指摘し、AIによる業務効率化で生み出した時間を「信頼関係」や現場の感動体験に振り向ける共創の生存戦略を議論した。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-11-26T03:00:00+00:00"
     },
