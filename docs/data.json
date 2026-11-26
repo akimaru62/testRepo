@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T01:05:43.523517+00:00",
+  "generated_at": "2026-11-26T01:18:56.322304+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3694,9 +3694,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "妊娠と仕事の両立、なんでこんなに苦しい？　当事者が伝えたい問題点",
+      "link": "https://www.asahi.com/articles/ASVCT2HYTVCTPLFA001M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-26T01:18:51.064991+00:00"
+    },
     {
       "title": "いくら口角を上げても､明るい声を出してもダメなのはなぜ？ ｢また会いたいと思われる人｣｢身構えられる人｣の決定的な差 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965707?utm_source=rss&utm_medium=http&utm_campaign=link_back",
