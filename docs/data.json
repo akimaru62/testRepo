@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T17:47:34.668671+00:00",
+  "generated_at": "2026-11-26T18:06:18.819400+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3986,9 +3986,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "YouTube Ad Punisher – Bypass anti-adblock",
+      "link": "https://github.com/antonpictures/youtube-punisher",
+      "summary": "Article URL: https://github.com/antonpictures/youtube-punisher\nComments URL: https://news.ycombinator.com/item?id=50657530\nPoints: 16\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T17:36:47+00:00"
+    },
     {
       "title": "Gold Rises But Big Moves Seen as Unlikely for Now",
       "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-amid-rate-hike-bets-1d4057c0?mod=rss_markets_main",
@@ -3996,6 +4008,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-26T17:23:00+00:00"
+    },
+    {
+      "title": "Tracking Diseases Cured by AI",
+      "link": "https://diseasescuredbyai.com/",
+      "summary": "Article URL: https://diseasescuredbyai.com/\nComments URL: https://news.ycombinator.com/item?id=50657307\nPoints: 26\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T17:16:41+00:00"
     },
     {
       "title": "Andrew Bailey says unreleased AI models have raised encryption concerns",
