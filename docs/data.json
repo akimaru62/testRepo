@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T23:47:31.080851+00:00",
+  "generated_at": "2026-11-26T00:12:52.156168+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3674,9 +3674,57 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "高台移転忌避、支援に不満も　不明日本人情報なく、土石流災害３カ月―ネパール",
+      "link": "https://www.jiji.com/jc/article?k=2026112500705&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T00:12:40.976486+00:00"
+    },
+    {
+      "title": "エヌビディア格下げ検討　企業統治に「疑問」―Ｓ＆Ｐグローバル",
+      "link": "https://www.jiji.com/jc/article?k=2026112600271&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T00:12:40.976471+00:00"
+    },
+    {
+      "title": "戦術核の活用領域を拡大　北朝鮮の金正恩氏、韓国を念頭に",
+      "link": "https://www.jiji.com/jc/article?k=2026112600189&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-26T00:12:40.976436+00:00"
+    },
+    {
+      "title": "Aschenbrenner’s Situational Awareness Tells Investors It Lost 65% in Third Quarter",
+      "link": "https://www.wsj.com/finance/investing/aschenbrenners-situational-awareness-tells-investors-it-lost-65-in-third-quarter-de8e9797?mod=rss_markets_main",
+      "summary": "The hedge fund that nearly went out of business after steep losses this summer said it has worked to learn from its mistakes.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-26T00:03:00+00:00"
+    },
+    {
+      "title": "つい部下に｢なんでこういう結果になったの?｣と聞く上司が知るべき､無意識の《詰めるコミュニケーション》の百害 | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/963345?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "リーダーが｢なぜ？｣と問い続ける姿勢は､チームの成長を願う気持ちの裏返し。しかし､その一言がメンバーを追い詰め､主体性を奪ってしまう場合があるのです。果たして振り返りは\"詰める儀式\"で終わっていませ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-26T00:00:00+00:00"
+    },
     {
       "title": "中小企業の賃上げ税制 縮小で調整",
       "link": "https://news.yahoo.co.jp/pickup/6604006?source=rss",
@@ -3782,6 +3830,14 @@
       "published": "2026-11-25T22:57:04+00:00"
     },
     {
+      "title": "Duran Duran guitarist Andy Taylor dies aged 65",
+      "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cmp3vk6vr44po\nComments URL: https://news.ycombinator.com/item?id=50648822\nPoints: 18\n# Comments: 6",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T22:57:01+00:00"
+    },
+    {
       "title": "月給28万円で2億貯めた投資家が《ふつうの会社員にこそ向いている》と奨める｢買ったら､売らない｣投資法のスゴさ | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965106?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "一般的に｢株は安く買って高く売るもの｣と思われがちですが､筆者は｢買ったら売らない｣長期投資の重要性を説きます。短期の値動きより企業の成長や配当金重視で資産を増やす独自戦略。その真意と実践方法に迫り…",
@@ -3870,6 +3926,14 @@
       "published": "2026-11-25T22:15:00+00:00"
     },
     {
+      "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
+      "link": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+      "summary": "Article URL: https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/\nComments URL: https://news.ycombinator.com/item?id=50648323\nPoints: 15\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-25T22:12:25+00:00"
+    },
+    {
       "title": "Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
       "link": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
       "summary": "Based on where retail investors bought Nvidia shares on the dip last week, their gains are now nearly all gone, according to Vanda Research.",
@@ -3890,6 +3954,14 @@
       "link": "https://toyokeizai.net/articles/-/964957?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "漫談にいま注目が集まっています。漫才でもコントでもない､話芸一本でひとりで勝負する漫談はどこまで人気が高まるのでしょうか。",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-25T22:00:00+00:00"
+    },
+    {
+      "title": "ひろぎんHD「他は全然うまくいっていない」　 唯一成功しているDX企画、なぜ順調なのか？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/26/news019.html",
+      "summary": "DXを積極的に推進するひろぎんホールディングス。しかし、DX責任者は「DXがうまくいった企画は個人ローンの1つだけ」と明かす。縦割りが強い地銀で、この企画だけが営業現場を動かせた理由とは？",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-11-25T22:00:00+00:00"
     },
