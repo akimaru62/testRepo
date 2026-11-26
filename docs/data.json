@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T14:47:36.238576+00:00",
+  "generated_at": "2026-11-26T15:05:46.198942+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -3934,6 +3934,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -3954,12 +3958,28 @@
       "published": "2026-11-26T17:00:00+00:00"
     },
     {
+      "title": "Japanese Yen Lifted by Safe-Haven Demand",
+      "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-but-risk-off-sentiment-might-weigh-13bdefa1?mod=rss_markets_main",
+      "summary": "The dollar was flat against the yen. MUFG said safe-haven demand and the heightened threat of further intervention if dollar-yen rose beyond 160.00 was also helping to providing support.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-26T14:59:00+00:00"
+    },
+    {
       "title": "欧州中銀の新総裁にデコス氏　スペイン出身、国際決済銀総支配人",
       "link": "https://www.asahi.com/articles/ASVCV4QZRVCVUHBI02JM.html?ref=rss",
       "summary": "",
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-26T14:47:30.613801+00:00"
+    },
+    {
+      "title": "Tell HN: Happy Thanksgiving",
+      "link": "https://news.ycombinator.com/item?id=50655664",
+      "summary": "Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway!\n\nComments URL: https://news.ycombinator.com/item?id=50655664\nPoints: 10\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T14:26:54+00:00"
     },
     {
       "title": "独コメルツ銀会長の解任提案　伊ウニクレディト、買収計画で",
@@ -3992,6 +4012,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-26T14:00:00+00:00"
+    },
+    {
+      "title": "45°C inlets just killed the chiller. Most people haven't noticed yet",
+      "link": "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831",
+      "summary": "Article URL: https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831\nComments URL: https://news.ycombinator.com/item?id=50655278\nPoints: 11\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T13:48:11+00:00"
     },
     {
       "title": "Pablo Hernández de Cos wins race for ECB presidency",
@@ -4035,6 +4063,14 @@
     },
     {
       "title": "Capital preservation rather than chasing the market higher is how hedge funds are negotiating market volatility",
+      "link": "https://www.marketwatch.com/story/capital-preservation-rather-than-chasing-the-market-higher-is-how-hedge-funds-are-negotiating-market-volatility-f4288b71?mod=mw_rss_topstories",
+      "summary": "After a strong first half, performance for the hedge fund sector has dipped in the second half, and Goldman Sachs expects the investor class to try and hold onto what they have for now.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-26T12:37:00+00:00"
+    },
+    {
+      "title": "Capital preservation rather than chasing the market is how hedge funds are negotiating this volatility",
       "link": "https://www.marketwatch.com/story/capital-preservation-rather-than-chasing-the-market-higher-is-how-hedge-funds-are-negotiating-market-volatility-f4288b71?mod=mw_rss_topstories",
       "summary": "After a strong first half, performance for the hedge fund sector has dipped in the second half, and Goldman Sachs expects the investor class to try and hold onto what they have for now.",
       "source": "MarketWatch",
