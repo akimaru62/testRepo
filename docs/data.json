@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T08:06:50.996490+00:00",
+  "generated_at": "2026-11-27T08:22:23.795586+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4226,9 +4226,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "韓国、北朝鮮漁民６人を送還　１人は残留意思",
+      "link": "https://www.jiji.com/jc/article?k=2026112700715&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T08:22:17.552240+00:00"
+    },
+    {
+      "title": "第３子以降に１０００万円　自民、人口戦略策定へ提言案",
+      "link": "https://www.jiji.com/jc/article?k=2026112700732&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T08:22:17.552204+00:00"
+    },
+    {
+      "title": "モンゴル草原火災、損失額１４８０億円　ＫＤＤＩ子会社が関連",
+      "link": "https://www.jiji.com/jc/article?k=2026112700716&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T08:22:17.552164+00:00"
+    },
     {
       "title": "流動性供給(第466回)入札において追加発行した国債の銘柄",
       "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261127a.htm",
