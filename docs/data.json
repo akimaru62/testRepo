@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T07:47:32.803591+00:00",
+  "generated_at": "2026-11-27T08:06:50.996490+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4222,9 +4222,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "流動性供給(第466回)入札において追加発行した国債の銘柄",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261127a.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-27T08:00:00+00:00"
+    },
+    {
+      "title": "「負動産」有料引き取り広がる",
+      "link": "https://news.yahoo.co.jp/pickup/6604200?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-27T07:49:09+00:00"
+    },
+    {
+      "title": "2029年大河『三成のうた』に｢また戦国か｣の声も…なぜNHKは｢戦国と幕末｣ばかり描くのか､視聴率データが示す理由 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/966020?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "大河ドラマがなぜ戦国時代や三英傑に偏るのか――2029年も石田三成を主人公に戦国が舞台と聞き､SNSでは｢またか｣とため息が広がっています。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T07:45:00+00:00"
+    },
     {
       "title": "U.S. Treasury Yields Rise in Shortened Post-Thanksgiving Trade",
       "link": "https://www.wsj.com/finance/investing/u-s-treasury-yields-rise-in-shortened-post-thanksgiving-trade-f0822039?mod=rss_markets_main",
@@ -4320,6 +4348,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-27T06:53:26+00:00"
+    },
+    {
+      "title": "Hong Kong seeks to lure sovereign wealth funds with tax breaks",
+      "link": "https://www.ft.com/content/0285a2eb-5312-443d-bd60-b094af9575b1?syn-25a6b1a6=1",
+      "summary": "Move comes after some global investors pulled out or scaled back teams in Asian financial hub",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-27T06:47:12+00:00"
     },
     {
       "title": "The group chat where your AI talks behind your back",
@@ -4493,6 +4529,14 @@
       "title": "‘A changed man.’ How will Jensen Huang lead Nvidia now?",
       "link": "https://www.ft.com/content/2a98efa0-2c2d-47e3-99a9-e00fbe699c34?syn-25a6b1a6=1",
       "summary": "Employees, analysts and legal experts question whether the company’s management structure and governance will be reformed",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-27T05:00:22+00:00"
+    },
+    {
+      "title": "US tech stocks set for rebound",
+      "link": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
+      "summary": "All-powerful AI trade has been eclipsed by wild swings in a market struggling to price future earnings",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-27T05:00:22+00:00"
