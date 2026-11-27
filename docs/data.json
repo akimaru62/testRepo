@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T10:05:23.932773+00:00",
+  "generated_at": "2026-11-27T10:18:51.868629+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4262,9 +4262,69 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "トクリュウ首謀者摘発へ東京地検に専門班　最高検「厳罰化」方針",
+      "link": "https://www.jiji.com/jc/article?k=2026112700815&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T10:18:47.886668+00:00"
+    },
+    {
+      "title": "不同意わいせつ容疑、巡査長減給　カラオケ店で胸など触る―神奈川県警",
+      "link": "https://www.jiji.com/jc/article?k=2026112700846&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T10:18:47.886654+00:00"
+    },
+    {
+      "title": "福岡市長選無効求め異議申し出　再選挙ずれ込みへ",
+      "link": "https://www.jiji.com/jc/article?k=2026112700868&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T10:18:47.886643+00:00"
+    },
+    {
+      "title": "野党「疑惑消えず」　関文科相の追及継続へ",
+      "link": "https://www.jiji.com/jc/article?k=2026112700836&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T10:18:47.886631+00:00"
+    },
+    {
+      "title": "ＡＦＰにサイバー攻撃　一部のニュース閲覧サービス停止",
+      "link": "https://www.jiji.com/jc/article?k=2026112700853&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T10:18:47.886601+00:00"
+    },
+    {
+      "title": "新た３カ国と加入交渉へ　日本に事務局設置―ＴＰＰ閣僚級会合",
+      "link": "https://www.jiji.com/jc/article?k=2026112700855&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T10:18:47.886567+00:00"
+    },
+    {
+      "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my children through the same ordeal?",
+      "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
+      "summary": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for clearing out your house.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-27T10:15:00+00:00"
+    },
     {
       "title": "中国EV、大衆車にも先端技術搭載で差別化　広州モーターショー開幕",
       "link": "https://www.asahi.com/articles/ASVCW2WBFVCWUHBI00DM.html?ref=rss",
