@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T20:18:06.744598+00:00",
+  "generated_at": "2026-11-27T20:33:31.217329+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4434,9 +4434,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "日本人の大好きな｢アジフライ｣の形が変わりつつある…国産アジの漁獲量激減で引き起こされた\"食卓の異変\" | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/966170?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "日本の食卓に欠かせないアジやサンマが､漁獲量減少の危機に直面しています。なぜ日本の水産資源は枯渇の一途をたどるのか？一方､チリでは資源管理改革によりアジが復活しています。世界と逆行する日本漁業の課題…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T20:30:00+00:00"
+    },
     {
       "title": "その代償は意外と大きかった… 関文科相の問責決議｢薄氷の否決｣で忍び寄る自民･維新連立\"不吉な不協和音\"の正体 | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/966160?utm_source=rss&utm_medium=http&utm_campaign=link_back",
