@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T12:36:50.037706+00:00",
+  "generated_at": "2026-11-27T12:47:33.932838+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4302,9 +4302,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "How to spot Black Friday shopping scams like ‘bogus boutiques’ and AI-generated product images",
+      "link": "https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories",
+      "summary": "AI tools have made it even easier for scammers to create fake storefronts and misleading product listings.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-27T12:42:00+00:00"
+    },
     {
       "title": "「ぶつかられスマホ壊れた」とうそ　現金詐取容疑で４３歳男逮捕―警視庁",
       "link": "https://www.jiji.com/jc/article?k=2026112700910&g=soc&m=rss",
@@ -4336,6 +4348,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-27T12:24:12+00:00"
+    },
+    {
+      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+      "link": "https://eprint.iacr.org/2026/3020.pdf",
+      "summary": "Article URL: https://eprint.iacr.org/2026/3020.pdf\nComments URL: https://news.ycombinator.com/item?id=50665968\nPoints: 20\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T12:08:51+00:00"
     },
     {
       "title": "Nvidia’s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead",
@@ -4376,6 +4396,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-27T11:47:43.529968+00:00"
+    },
+    {
+      "title": "Pizza history: AI agent's cardless purchase is a first for UK",
+      "link": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer\nComments URL: https://news.ycombinator.com/item?id=50665732\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T11:41:11+00:00"
     },
     {
       "title": "北海道新幹線の事業費「3.4兆円」　国の有識者会議が報告書",
