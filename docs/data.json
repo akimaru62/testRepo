@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T09:47:32.925691+00:00",
+  "generated_at": "2026-11-27T10:05:23.932773+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4258,9 +4258,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "中国EV、大衆車にも先端技術搭載で差別化　広州モーターショー開幕",
+      "link": "https://www.asahi.com/articles/ASVCW2WBFVCWUHBI00DM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-27T10:05:16.605435+00:00"
+    },
+    {
+      "title": "住宅資金の贈与、非課税枠の拡大検討　子育て世帯は最大1500万円",
+      "link": "https://www.asahi.com/articles/ASVCW32FVVCWULFA02TM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-27T10:05:16.605421+00:00"
+    },
+    {
+      "title": "中韓や台湾産の製品にアンチダンピング課税　政府が閣議決定",
+      "link": "https://www.asahi.com/articles/ASVCW326TVCWULFA01DM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-27T10:05:16.605387+00:00"
+    },
+    {
+      "title": "Hollywood Hills home of the late Presley Gerber listed for $3.6 million, 2 months after his death",
+      "link": "https://www.marketwatch.com/story/hollywood-hills-home-of-the-late-presley-gerber-listed-for-3-6-million-2-months-after-his-death-92497183?mod=mw_rss_topstories",
+      "summary": "Presley Gerber’s Hollywood Hills home has hit the market for $3.59 million, less than two months after the model’s death at age 27.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-27T09:59:00+00:00"
+    },
+    {
+      "title": "Precious Metals Rally as AI Trade Revives Risk Appetite",
+      "link": "https://www.wsj.com/finance/commodities-futures/precious-metals-rally-as-ai-trade-revives-risk-appetite-86477a98?mod=rss_markets_main",
+      "summary": "Precious-metal prices surged as investors returned to the AI trade and global stocks rebounded, boosting risk appetite and easing pressure on assets that had been sold to meet liquidity needs.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T09:49:00+00:00"
+    },
     {
       "title": "政府・与党、ふるさと納税の仲介手数料の上限規制を検討",
       "link": "https://www.asahi.com/articles/ASVCW3259VCWULFA00GM.html?ref=rss",
@@ -4444,6 +4488,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-27T08:19:11+00:00"
+    },
+    {
+      "title": "European Commission Declares Browser Competition a Digital Markets Act Priority",
+      "link": "https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/",
+      "summary": "Article URL: https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/\nComments URL: https://news.ycombinator.com/item?id=50664191\nPoints: 24\n# Comments: 10",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T08:11:46+00:00"
     },
     {
       "title": "流動性供給(第466回)入札において追加発行した国債の銘柄",
