@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T00:40:36.410218+00:00",
+  "generated_at": "2026-11-27T00:54:15.546117+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4094,6 +4094,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -4176,6 +4180,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-27T00:12:47.485881+00:00"
+    },
+    {
+      "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+      "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+      "summary": "Article URL: https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/\nComments URL: https://news.ycombinator.com/item?id=50661218\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T00:03:18+00:00"
     },
     {
       "title": "｢センスがいい｣と言われる人が普段から\"必ずやっていること\"…選ぶのは｢奇抜さ｣でも｢無難さ｣でもダメなワケ | ライフ | 東洋経済オンライン",
