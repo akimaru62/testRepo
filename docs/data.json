@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T15:47:50.443772+00:00",
+  "generated_at": "2026-11-27T16:05:38.103916+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4358,9 +4358,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
+      "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+      "summary": "Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-27T15:52:00+00:00"
+    },
     {
       "title": "Private-Equity Firms Have a Surprising New Source for Debt: the Nordic Bond Market",
       "link": "https://www.wsj.com/finance/investing/private-equity-firms-have-a-surprising-new-source-for-debt-the-nordic-bond-market-24163a71?mod=rss_markets_main",
@@ -4592,6 +4604,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-27T13:17:43.237926+00:00"
+    },
+    {
+      "title": "She Reported Her Sexual Assault. The Marine Corps Kicked Her Out",
+      "link": "https://thewarhorse.org/marine-corps-administrative-separation-after-sexual-assault/",
+      "summary": "Article URL: https://thewarhorse.org/marine-corps-administrative-separation-after-sexual-assault/\nComments URL: https://news.ycombinator.com/item?id=50666487\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T13:06:34+00:00"
     },
     {
       "title": "CPTPP、UAEなど3カ国と加入交渉へ　経済的威圧にも対抗",
