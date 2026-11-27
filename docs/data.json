@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T01:06:00.527047+00:00",
+  "generated_at": "2026-11-27T01:19:15.653661+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4106,9 +4106,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "災害本部移転先に「副首都」も　首都直下地震の発生時―政府",
+      "link": "https://www.jiji.com/jc/article?k=2026112700214&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T01:19:09.824639+00:00"
+    },
+    {
+      "title": "イラク首相、石油権益の掌握強化　親イラン、クルド勢力に圧力",
+      "link": "https://www.jiji.com/jc/article?k=2026112600705&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T01:19:09.824626+00:00"
+    },
+    {
+      "title": "ロボタクシー実装議論へ　内閣改造後初の規制改革会議",
+      "link": "https://www.jiji.com/jc/article?k=2026112700204&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T01:19:09.824593+00:00"
+    },
+    {
+      "title": "【講演】神山理事「デジタルマネーと決済：新たなパラダイムへの移行」（IMF MCM-OAP Seminar in Tokyo）",
+      "link": "http://www.boj.or.jp/about/press/koen_2026/ko261127a.htm",
+      "summary": "",
+      "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-11-27T01:15:00+00:00"
+    },
+    {
+      "title": "｢資本主義か社会主義か｣の対立はもう古い　米ロの拡張主義が限界を迎える今､世界を分かつ｢新たな対立軸｣とは | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965221?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ロシアの文化的ルーツをたどると､キリル文字やギリシャ正教､さらには東ローマ帝国に行き着きます。西ローマ由来のアメリカと対比しつつ､現代では｢環境･持続可能性｣を巡る新たな対立軸が浮上。日本はその中で…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T01:00:00+00:00"
+    },
     {
       "title": "《愛嬌も社交性もいらない人間関係のコツ》｢で､結論は？｣と遮る\"嫌な上司\"も､AIを通したら｢話の通じる人｣に見えてきた | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965308?utm_source=rss&utm_medium=http&utm_campaign=link_back",
