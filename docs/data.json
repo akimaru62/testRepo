@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T06:52:21.145395+00:00",
+  "generated_at": "2026-11-27T07:06:07.651668+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4206,9 +4206,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "【記者会見】田村審議委員（山梨、11月26日分）",
+      "link": "http://www.boj.or.jp/about/press/kaiken_2026/kk261127a.pdf",
+      "summary": "",
+      "source": "日本銀行",
+      "category": "公的機関",
+      "published": "2026-11-27T07:00:00+00:00"
+    },
+    {
+      "title": "熊本ふっこう応援割 第2弾実施へ",
+      "link": "https://news.yahoo.co.jp/pickup/6604192?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-27T06:53:26+00:00"
+    },
+    {
+      "title": "The group chat where your AI talks behind your back",
+      "link": "https://construct22.com/",
+      "summary": "Article URL: https://construct22.com/\nComments URL: https://news.ycombinator.com/item?id=50663595\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T06:44:34+00:00"
+    },
     {
       "title": "因縁対決、激戦は必至　勢いの増田陸、経験の堤聖也―ボクシング世界戦",
       "link": "https://www.jiji.com/jc/article?k=2026112700587&g=spo&m=rss",
