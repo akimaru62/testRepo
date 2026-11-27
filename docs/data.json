@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T20:47:39.904947+00:00",
+  "generated_at": "2026-11-27T21:05:18.774704+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4442,9 +4442,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Treasury Yields Rise on Higher Rate Expectations",
+      "link": "https://www.wsj.com/finance/investing/short-term-jgb-yields-rise-on-elevated-tokyo-inflation-data-713a900b?mod=rss_markets_main",
+      "summary": "U.S. Treasurys weakened amid hardened expectations for Federal Reserve rate increases in the coming months.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T20:57:00+00:00"
+    },
+    {
+      "title": "税抜500円弁当｢持ち帰れば505円､店内で食べたら550円｣高市政権《消費税減税》が広げる\"イートイン格差\"に拭えぬ違和感 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/966090?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "高価なデパ地下弁当を持ち帰れば1%､手頃な立ち食いそばを店内で食べれば10%。高市政権の食品減税は､2019年に引いた｢食品と外食の線引き｣をそのまま使い､税率差を｢9ポイント｣にまで広げます。その…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T20:50:00+00:00"
+    },
+    {
+      "title": "Oil Futures Settle Lower Ahead of OPEC+ Policy Meeting",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-mixed-as-markets-track-mideast-developments-u-s-inventories-6daf3fb1?mod=rss_markets_main",
+      "summary": "Oil futures ended the session lower with the market awaiting the weekend meeting of OPEC and its allies to discuss output policy for 2027.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T20:47:00+00:00"
+    },
+    {
+      "title": "アメリカのローカルミートでも驚くほど出会う日本車のカスタム…テメキュラのカーズ＆コーヒーに見るJDM文化の浸透 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964840?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "近年､アメリカの大規模自動車イベントで日本車､とくに\"JDM\"が注目を集めているのをご存知だろうか。それは一般ユーザーの間でも本当にJDM文化は根付いているのか､ローカルミートでリアルな姿に迫ってみ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T20:45:00+00:00"
+    },
     {
       "title": "U.S. Natural Gas Futures Fall on Milder Near-Term Weather Outlook",
       "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-fall-as-front-month-shifts-to-january-3b1ef621?mod=rss_markets_main",
@@ -4460,6 +4496,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-27T20:30:00+00:00"
+    },
+    {
+      "title": "I am scared: Careless People – Sarah Wynn-Williams on living under a gag order",
+      "link": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
+      "summary": "Article URL: https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours\nComments URL: https://news.ycombinator.com/item?id=50671301\nPoints: 19\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T20:25:15+00:00"
     },
     {
       "title": "その代償は意外と大きかった… 関文科相の問責決議｢薄氷の否決｣で忍び寄る自民･維新連立\"不吉な不協和音\"の正体 | 政治・経済・投資 | 東洋経済オンライン",
