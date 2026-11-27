@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T05:47:52.129687+00:00",
+  "generated_at": "2026-11-27T06:09:09.646771+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4182,9 +4182,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "大韓民国産及び中華人民共和国産水酸化カリウムに対する 不当廉売関税の課税期間の延長を決定しました",
+      "link": "https://www.mof.go.jp/policy/customs_tariff/trade/plan/futou/ka20261127-3.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-27T06:02:00+00:00"
+    },
+    {
+      "title": "大韓民国産並びに台湾、澎湖諸島、金門及び馬祖から成る独立の関税地域産ビスフェノールＡに対する不当廉売関税の課税を決定しました",
+      "link": "https://www.mof.go.jp/policy/customs_tariff/trade/plan/futou/ka20261127-2.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-27T06:01:00+00:00"
+    },
+    {
+      "title": "大韓民国産及び中華人民共和国産溶融亜鉛めっき鋼帯及び鋼板に対する不当廉売関税の課税を決定しました",
+      "link": "https://www.mof.go.jp/policy/customs_tariff/trade/plan/futou/ka20261127-1.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-27T06:00:00+00:00"
+    },
+    {
+      "title": "Gold, Silver Rally as Market Sentiment Improves",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-fortunes-tied-to-stocks-in-near-term-42ce98be?mod=rss_markets_main",
+      "summary": "Gold and silver prices rose sharply, likely supported by improving market sentiment as Asian equities and U.S. stock futures advanced.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T05:59:00+00:00"
+    },
+    {
+      "title": "Asian Markets Rise as AI Sentiment Stabilizes",
+      "link": "https://www.wsj.com/finance/asian-markets-mostly-higher-as-sentiment-stabilizes-8f998c4d?mod=rss_markets_main",
+      "summary": "Asian markets tracked gains in U.S. stock futures as sentiment around artificial intelligence stabilized.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T05:53:00+00:00"
+    },
     {
       "title": "貨物列車が牛と衝突 巻き込み停車",
       "link": "https://news.yahoo.co.jp/pickup/6604187?source=rss",
