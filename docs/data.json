@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T06:09:09.646771+00:00",
+  "generated_at": "2026-11-27T06:28:10.473639+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4186,9 +4186,41 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "因縁対決、激戦は必至　勢いの増田陸、経験の堤聖也―ボクシング世界戦",
+      "link": "https://www.jiji.com/jc/article?k=2026112700587&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T06:28:06.296134+00:00"
+    },
+    {
+      "title": "故安居祥策氏に従三位",
+      "link": "https://www.jiji.com/jc/article?k=2026112700535&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T06:28:06.296121+00:00"
+    },
+    {
+      "title": "故山崎正昭氏に桐花大綬章",
+      "link": "https://www.jiji.com/jc/article?k=2026112700536&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T06:28:06.296091+00:00"
+    },
     {
       "title": "大韓民国産及び中華人民共和国産水酸化カリウムに対する 不当廉売関税の課税期間の延長を決定しました",
       "link": "https://www.mof.go.jp/policy/customs_tariff/trade/plan/futou/ka20261127-3.html",
@@ -4236,6 +4268,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-27T05:38:41+00:00"
+    },
+    {
+      "title": "The need for a formally verifiable mainstream programming language",
+      "link": "https://blainehansen.me/post/mainstream-verifiable-language/",
+      "summary": "Article URL: https://blainehansen.me/post/mainstream-verifiable-language/\nComments URL: https://news.ycombinator.com/item?id=50663089\nPoints: 19\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T05:22:06+00:00"
     },
     {
       "title": "Australia Orders LNG Exporters Reserve Some Gas to Plug Shortages at Home",
