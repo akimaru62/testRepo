@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T05:19:30.785912+00:00",
+  "generated_at": "2026-11-27T05:33:40.069608+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4174,9 +4174,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Australia Orders LNG Exporters Reserve Some Gas to Plug Shortages at Home",
+      "link": "https://www.wsj.com/finance/commodities-futures/australia-orders-lng-exporters-reserve-some-gas-to-plug-shortages-at-home-72d6fe9b?mod=rss_markets_main",
+      "summary": "Australia will require liquefied natural gas exporters to reserve up to a fifth of their shipments for the domestic market to help lower power bills for local households and businesses.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T05:14:00+00:00"
+    },
     {
       "title": "Trump media group splashes out to woo shareholders before merger vote",
       "link": "https://www.ft.com/content/10a28fed-3825-4e07-804d-3c80c35229e5?syn-25a6b1a6=1",
@@ -4218,9 +4230,25 @@
       "published": "2026-11-27T05:00:22+00:00"
     },
     {
+      "title": "‘A changed man.’ How will Jensen Huang lead Nvidia now?",
+      "link": "https://www.ft.com/content/2a98efa0-2c2d-47e3-99a9-e00fbe699c34?syn-25a6b1a6=1",
+      "summary": "Employees, analysts and legal experts question whether the company’s management structure and governance will be reformed",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-27T05:00:22+00:00"
+    },
+    {
       "title": "Marine Le Pen: the woman who could break the EU",
       "link": "https://www.ft.com/content/9bbd926e-ccef-4717-9044-48a23c9353ba?syn-25a6b1a6=1",
       "summary": "The far-right frontrunner for the French presidency is the biggest populist challenge in the bloc’s history",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-27T05:00:13+00:00"
+    },
+    {
+      "title": "Kalshi’s next big bet: ‘microinsurance’ for small businesses",
+      "link": "https://www.ft.com/content/587198a8-ac15-46b2-83f2-f6e181ccd7cd?syn-25a6b1a6=1",
+      "summary": "Platform hopes growth in more conventional financial services will help offset loss of business in sports wagers, which face mounting legal threats",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-27T05:00:13+00:00"
@@ -4234,6 +4262,14 @@
       "published": "2026-11-27T05:00:04+00:00"
     },
     {
+      "title": "\"What's Claude's Fursona?\" and Other Questions",
+      "link": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+      "summary": "Article URL: https://herecomesthemoon.net/2026/11/whats-claudes-fursona/\nComments URL: https://news.ycombinator.com/item?id=50662933\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T04:56:18+00:00"
+    },
+    {
       "title": "New Zealand election leaves fate of PM Luxon in hands of ex-KPMG consultant",
       "link": "https://www.ft.com/content/bc5d39a0-6610-481b-9138-5afdd22cf406?syn-25a6b1a6=1",
       "summary": "National Party-led coalition fails to win majority and needs support from Opportunity Party to form government",
@@ -4243,6 +4279,14 @@
     },
     {
       "title": "Tech stocks regain ground at end of volatile trading week",
+      "link": "https://www.ft.com/content/fedc6392-ad25-43e4-9d9f-20216cbf331e?syn-25a6b1a6=1",
+      "summary": "Wall Street set to open higher for shortened session after Thanksgiving holiday",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-27T04:31:57+00:00"
+    },
+    {
+      "title": "Asia stocks stabilise",
       "link": "https://www.ft.com/content/fedc6392-ad25-43e4-9d9f-20216cbf331e?syn-25a6b1a6=1",
       "summary": "Wall Street set to open higher for shortened session after Thanksgiving holiday",
       "source": "Financial Times",
