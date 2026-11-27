@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T23:04:50.931595+00:00",
+  "generated_at": "2026-11-27T23:17:30.065467+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4478,9 +4478,61 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "通貨ルピア、最安値続く　株式市場格下げに警戒感―インドネシア",
+      "link": "https://www.jiji.com/jc/article?k=2026112700593&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T23:17:25.165370+00:00"
+    },
+    {
+      "title": "核廃絶機運、高められるか　核禁条約、３０日から初の再検討会議",
+      "link": "https://www.jiji.com/jc/article?k=2026112700642&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T23:17:25.165361+00:00"
+    },
+    {
+      "title": "問われる人間関与の実効性　自衛隊ＡＩガバナンス―防衛省",
+      "link": "https://www.jiji.com/jc/article?k=2026112700646&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T23:17:25.165352+00:00"
+    },
+    {
+      "title": "自民、政活費ゼロに　廃止を１年前倒し―政治資金",
+      "link": "https://www.jiji.com/jc/article?k=2026112700783&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T23:17:25.165339+00:00"
+    },
+    {
+      "title": "パーティー収入増６３億円　裏金事件後の「自粛」緩み―政治資金",
+      "link": "https://www.jiji.com/jc/article?k=2026112700784&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T23:17:25.165324+00:00"
+    },
+    {
+      "title": "習氏退任求める書簡公開　中国企業家、実名で異例の訴え",
+      "link": "https://www.jiji.com/jc/article?k=2026112800123&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T23:17:25.165287+00:00"
+    },
     {
       "title": "台北市長選｢民主主義の祭り｣は市民生活の迷惑なのか､沈伯洋の異例の前夜祭中止で問われる台湾の熱狂的な選挙文化 | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/966215?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -4552,6 +4604,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-27T22:15:00+00:00"
+    },
+    {
+      "title": "'Everybody Is Going to Be Made Obsolete'",
+      "link": "https://www.chronicle.com/article/everybody-is-going-to-be-made-obsolete",
+      "summary": "Article URL: https://www.chronicle.com/article/everybody-is-going-to-be-made-obsolete\nComments URL: https://news.ycombinator.com/item?id=50672187\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T22:12:27+00:00"
     },
     {
       "title": "Source Control from Hell",
