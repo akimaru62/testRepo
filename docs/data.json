@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T13:33:31.194203+00:00",
+  "generated_at": "2026-11-27T13:47:41.262127+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4318,9 +4318,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
+      "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
+      "summary": "Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-27T13:45:00+00:00"
+    },
     {
       "title": "Renters are now a national political constituency that can influence elections",
       "link": "https://www.marketwatch.com/story/renters-are-now-a-national-political-constituency-that-can-influence-elections-8f028445?mod=mw_rss_topstories",
@@ -4376,6 +4388,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-27T13:01:02+00:00"
+    },
+    {
+      "title": "US Air Force's cloud computing platform hacked",
+      "link": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+      "summary": "Article URL: https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163\nComments URL: https://news.ycombinator.com/item?id=50666375\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T12:54:11+00:00"
     },
     {
       "title": "Week Ahead for FX, Bonds: Key Labor Data in Focus Ahead of Fed’s December Rate Decision",
