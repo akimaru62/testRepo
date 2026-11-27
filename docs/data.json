@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T10:18:51.868629+00:00",
+  "generated_at": "2026-11-27T10:33:32.432304+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4266,9 +4266,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "参院、関文科相問責を否決　４票差、首相が続投支持―消費税審議、１２月２日再開",
+      "link": "https://www.jiji.com/jc/article?k=2026112700415&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T10:33:27.877829+00:00"
+    },
+    {
+      "title": "高齢者の定義引き上げ「70歳、75歳に」　労働力確保へ自民提言案",
+      "link": "https://www.asahi.com/articles/ASVCW3322VCWULFA00RM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-27T10:33:27.769491+00:00"
+    },
     {
       "title": "トクリュウ首謀者摘発へ東京地検に専門班　最高検「厳罰化」方針",
       "link": "https://www.jiji.com/jc/article?k=2026112700815&g=soc&m=rss",
@@ -4316,6 +4336,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-27T10:18:47.886567+00:00"
+    },
+    {
+      "title": "Dubai’s Benchmark Stock Index Erases Wartime Losses as Banks, Property Shares Rise",
+      "link": "https://www.wsj.com/finance/stocks/dubais-benchmark-stock-index-erases-wartime-losses-as-banks-property-shares-rise-8b5a7a52?mod=rss_markets_main",
+      "summary": "The index surpassed its closing level on Feb. 27, the last trading session before the war began. It has has gained nearly 14% so far this month.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T10:16:00+00:00"
     },
     {
       "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my children through the same ordeal?",
@@ -4564,6 +4592,14 @@
       "source": "財務省",
       "category": "公的機関",
       "published": "2026-11-27T08:00:00+00:00"
+    },
+    {
+      "title": "Indie web browser Ladybird enters alpha testing",
+      "link": "https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914",
+      "summary": "Article URL: https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914\nComments URL: https://news.ycombinator.com/item?id=50664104\nPoints: 12\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T07:58:37+00:00"
     },
     {
       "title": "「負動産」有料引き取り広がる",
@@ -4897,6 +4933,14 @@
       "title": "Is the Fed ready for its next fight?",
       "link": "https://www.ft.com/content/71ffa69f-2a07-44e4-8305-ae5548b89828?syn-25a6b1a6=1",
       "summary": "US central bank officials face a three-dimensional tussle over inflation, AI and guidance",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-27T05:00:13+00:00"
+    },
+    {
+      "title": "Warsh’s ‘good family fight’ could turn ugly",
+      "link": "https://www.ft.com/content/71ffa69f-2a07-44e4-8305-ae5548b89828?syn-25a6b1a6=1",
+      "summary": "Federal Reserve officials face a three-dimensional tussle over inflation, AI and guidance",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-27T05:00:13+00:00"
