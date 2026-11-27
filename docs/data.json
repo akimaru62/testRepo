@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T23:33:04.040454+00:00",
+  "generated_at": "2026-11-27T23:47:31.768262+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4486,6 +4486,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -4566,6 +4570,14 @@
       "link": "https://toyokeizai.net/articles/-/965259?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "多くの男性が悩む薄毛。その大半はAGA（男性型脱毛症）で､主な原因はDHTというホルモンですが､世の中には誤った情報や俗説も少なくありません。なぜ髪は抜けるのか？本当に有効な治療法とは？その真実に迫…",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T23:00:00+00:00"
+    },
+    {
+      "title": "なぜ20代女性は円安でも海外へ行くのか？　エクスペディア日本トップが語る「旅の二極化」",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/28/news008.html",
+      "summary": "日本人の海外旅行者数がコロナ禍前の7割水準にとどまる中、現場では鮮明な二極化が起きている。「2019年比45％の円安」によってパスポートを更新しないシニア層がいる一方、20代女性はK-POPの「推し活」や聖地巡礼、スポーツ観戦といった明確な目的のためコストを問わず海外へ飛ぶ。日本上陸20年を迎えたエクスペディアの木村奈津子代表取締役に、二極化する旅の需要と新たな市場開拓の仕掛けを聞いた。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-11-27T23:00:00+00:00"
     },
@@ -5056,6 +5068,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-27T18:17:20+00:00"
+    },
+    {
+      "title": "Can AI crack encryption?",
+      "link": "https://www.ft.com/content/1a29e62d-b18d-4bad-937d-34f3eae0587a?syn-25a6b1a6=1",
+      "summary": "New models’ advancing capabilities raise concerns over the risks of data leaks in banking and commerce",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-27T18:16:51+00:00"
     },
     {
       "title": "Convex skills send the user's app idea to a remote server without telling them",
@@ -5608,6 +5628,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-27T12:01:00+00:00"
+    },
+    {
+      "title": "Doing It the Hard Way",
+      "link": "https://terraformindustries.wordpress.com/2026/11/04/doing-it-the-hard-way/",
+      "summary": "Article URL: https://terraformindustries.wordpress.com/2026/11/04/doing-it-the-hard-way/\nComments URL: https://news.ycombinator.com/item?id=50665888\nPoints: 12\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T12:00:06+00:00"
     },
     {
       "title": "米ネトフリ 日本作品に投資拡大",
