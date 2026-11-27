@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T14:47:45.825560+00:00",
+  "generated_at": "2026-11-27T15:05:13.158132+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4338,9 +4338,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Artificial intelligence usage is exploding, yet spending is stalling. Why a foundational rule of economics is breaking.",
+      "link": "https://www.marketwatch.com/story/artificial-intelligence-usage-is-exploding-yet-spending-is-stalling-why-a-foundational-rule-of-economics-is-breaking-9c7ad4b3?mod=mw_rss_topstories",
+      "summary": "For frontier model lab developers, the increased consumption of AI tokens (the means by which they get paid for their compute) is a positive. However, they  don’t seem to be generating  revenues from it at the same rate.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-27T15:01:00+00:00"
+    },
+    {
+      "title": "Nvidia’s stock has tumbled 28% over one chaotic month. The next big test lies in the week ahead",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories",
+      "summary": "Jensen Huang faces tough questions from Congress this week. Good luck pinning him down, one analyst says.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-27T14:56:00+00:00"
+    },
+    {
+      "title": "Oil Futures Mixed in Shortened U.S. Trading Day",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-mixed-as-markets-track-mideast-developments-u-s-inventories-6daf3fb1?mod=rss_markets_main",
+      "summary": "Crude futures were mixed in light U.S. Black Friday trading with the market watching shipping risks in the Middle East and awaiting Sunday’s meeting of OPEC and its allies to discuss output policy for 2027.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T14:54:00+00:00"
+    },
+    {
+      "title": "Tech Stocks Jump as Investors Take a Break From AI Jitters",
+      "link": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
+      "summary": "Shares rebounded at the start of a shorter trading session, with all three major indexes poised to end the week strong.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T14:46:00+00:00"
+    },
+    {
+      "title": "US tech stocks rise in latest market swing",
+      "link": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
+      "summary": "All-powerful AI trade has been eclipsed by wild moves in a market struggling to price future earnings",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-27T14:38:51+00:00"
+    },
     {
       "title": "U.S. Natural Gas Futures Fall as Front Month Shifts to January",
       "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-fall-as-front-month-shifts-to-january-3b1ef621?mod=rss_markets_main",
