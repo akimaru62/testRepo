@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T22:17:35.314482+00:00",
+  "generated_at": "2026-11-27T22:33:16.361313+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4466,9 +4466,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "米空軍の中核システム「クラウドワン」に不正侵入　被害の全容把握急ぐ―報道",
+      "link": "https://www.jiji.com/jc/article?k=2026112800105&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T22:33:11.064762+00:00"
+    },
+    {
+      "title": "「かっぱ寿司」なぜ赤字に転落",
+      "link": "https://news.yahoo.co.jp/pickup/6604250?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-27T22:26:15+00:00"
+    },
     {
       "title": "米空軍の中核システムに不正侵入　被害の全容把握急ぐ―報道",
       "link": "https://www.jiji.com/jc/article?k=2026112800105&g=int&m=rss",
@@ -4486,6 +4506,14 @@
       "published": "2026-11-27T22:17:31.064841+00:00"
     },
     {
+      "title": "箱根駅伝なのに《コース上にない岡山》で撮影…大泉洋･山下智久出演ドラマ『俺たちの箱根駅伝』驚きのロケ地事情 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965589?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "『俺たちの箱根駅伝』のドラマ化にあたって最難関とされたのは､駅伝の出発･ゴール地点のロケ地選び。実は､ロケが刊行されたのは岡山市でした。舞台裏の工夫に迫ります。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T22:15:00+00:00"
+    },
+    {
       "title": "｢ラッコ展示ゼロ｣の危機を救った｢海遊館｣の執念と快挙　\"かわいいだけじゃない\"ラッコの展示再開が示す､5つの意義 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/966190?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "9年ぶりに大阪･海遊館でラッコの展示が再開されるというニュースが注目を集めています。絶滅危惧種で国内飼育が激減する中､アラスカから迎えた4頭は､単なる\"癒やし\"を超えた5つの意義を持つ存在になってい…",
@@ -4500,6 +4528,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-27T22:00:00+00:00"
+    },
+    {
+      "title": "9/UX: a Macintosh-inspired desktop for 9front",
+      "link": "https://progrium.github.io/9ux/",
+      "summary": "Article URL: https://progrium.github.io/9ux/\nComments URL: https://news.ycombinator.com/item?id=50672008\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T21:48:14+00:00"
     },
     {
       "title": "｢月給35万円は安すぎ｣｢富豪なのに｣とSNS炎上…前澤社長アシスタント募集内容に批判殺到も\"ノーダメージ\"の必然 | ライフ | 東洋経済オンライン",
