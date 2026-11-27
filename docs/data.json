@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T18:33:19.818792+00:00",
+  "generated_at": "2026-11-27T18:47:52.374178+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4406,9 +4406,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "The warnings behind this week’s stock-market rally",
+      "link": "https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
+      "summary": "Also in Weekend Reads: Important tips for Medicare enrollment, how to spot online shopping scams and marital advice from The Moneyist.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-27T18:40:00+00:00"
+    },
+    {
+      "title": "OpenAI countersues Apple for stealing trade secrets",
+      "link": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1",
+      "summary": "The ChatGPT maker also accuses the tech giant of ‘coercing and threatening’ suppliers who work with both companies, as legal battle escalates",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-27T18:20:05+00:00"
+    },
+    {
+      "title": "The NFL Player Who Left Football for Math",
+      "link": "https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html\nComments URL: https://news.ycombinator.com/item?id=50669963\nPoints: 7\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T18:17:20+00:00"
+    },
+    {
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "link": "https://github.com/convex/convex-backend-skill/issues/64",
+      "summary": "Article URL: https://github.com/convex/convex-backend-skill/issues/64\nComments URL: https://news.ycombinator.com/item?id=50669765\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T18:02:45+00:00"
+    },
     {
       "title": "I'm Scared of AI",
       "link": "https://thesoapbox.email/archive/3",
