@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T15:05:13.158132+00:00",
+  "generated_at": "2026-11-27T15:17:34.411185+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4342,9 +4342,77 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "すごみ増すマリニン　ＮＨＫフィギュア",
+      "link": "https://www.jiji.com/jc/article?k=2026112701009&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T15:17:29.085767+00:00"
+    },
+    {
+      "title": "仏王妃マリー・アントワネットの「乳房形ボウル」、５億円で落札",
+      "link": "https://www.jiji.com/jc/article?k=20261127049634a&g=afp&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T15:17:29.085755+00:00"
+    },
+    {
+      "title": "実直な人柄で「自公協力」の礎築く　神崎武法元公明党代表・回想記",
+      "link": "https://www.jiji.com/jc/article?k=2026112700852&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T15:17:29.085739+00:00"
+    },
+    {
+      "title": "原田「誇りを持って戦う」　２８日ウェールズ戦―ラグビー日本代表",
+      "link": "https://www.jiji.com/jc/article?k=2026112701016&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T15:17:29.085725+00:00"
+    },
+    {
+      "title": "千葉百音が女子ＳＰ首位　男子は佐藤駿２位、マリニン首位―ＮＨＫ杯フィギュア",
+      "link": "https://www.jiji.com/jc/article?k=2026112700737&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T15:17:29.085708+00:00"
+    },
+    {
+      "title": "作家の宮原昭夫さん死去",
+      "link": "https://www.jiji.com/jc/article?k=2026112701023&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T15:17:29.085670+00:00"
+    },
+    {
+      "title": "My friends play ‘credit-card roulette’ to see who pays for dinner — but one ‘winner’ still Venmoed me afterward. Should I say something?",
+      "link": "https://www.marketwatch.com/story/my-friends-play-credit-card-roulette-to-see-who-pays-for-dinner-but-one-winner-still-venmoed-me-afterward-should-i-say-something-0a657eee?mod=mw_rss_topstories",
+      "summary": "‘I was stunned! I’ve lost my fair share, and won my fair share, and truly believe it all evens out over time.’",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-27T15:04:00+00:00"
+    },
+    {
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "link": "https://bouncemarket.minhanhday.com/",
+      "summary": "a ball will fall. trade on where it lands.I made this game! Some technical details:The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic from its starting position, so rounds can be replayed exactly for later analysis, but tiny variations in starting position can change the ultimate outcome.There's some AI traders to keep the market moving, but they drop out in any round that has more than five people. They operate using a naive set of rules that I wrote for them, so they're not too hard to beat -- it's when the market is full of real people that it gets tricky.Curious to get feedback on anything you would change, and especially whether the mechanics were clear right away or not.\n\nComments URL: https://news.ycombinator.com/item?id=50667726\nPoints: 4\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T15:01:50+00:00"
+    },
     {
       "title": "Artificial intelligence usage is exploding, yet spending is stalling. Why a foundational rule of economics is breaking.",
       "link": "https://www.marketwatch.com/story/artificial-intelligence-usage-is-exploding-yet-spending-is-stalling-why-a-foundational-rule-of-economics-is-breaking-9c7ad4b3?mod=mw_rss_topstories",
@@ -4371,6 +4439,14 @@
     },
     {
       "title": "Tech Stocks Jump as Investors Take a Break From AI Jitters",
+      "link": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
+      "summary": "Shares rebounded at the start of a shorter trading session, with all three major indexes poised to end the week strong.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T14:46:00+00:00"
+    },
+    {
+      "title": "Tech Stocks Rise as Investors Take a Break From AI Jitters",
       "link": "https://www.wsj.com/finance/stocks/stocks-poised-to-end-week-strong-as-investors-take-break-from-ai-jitters-ce6b2846?mod=rss_markets_main",
       "summary": "Shares rebounded at the start of a shorter trading session, with all three major indexes poised to end the week strong.",
       "source": "WSJ マーケット",
@@ -4912,6 +4988,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-27T09:59:00+00:00"
+    },
+    {
+      "title": "Pimalaya goes stable: Himalaya v3 and the pimdir standard",
+      "link": "https://blog.pimalaya.org/pimalaya-goes-stable/",
+      "summary": "Article URL: https://blog.pimalaya.org/pimalaya-goes-stable/\nComments URL: https://news.ycombinator.com/item?id=50664931\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T09:50:02+00:00"
     },
     {
       "title": "Precious Metals Rally as AI Trade Revives Risk Appetite",
