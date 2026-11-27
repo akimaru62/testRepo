@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T15:17:34.411185+00:00",
+  "generated_at": "2026-11-27T15:33:37.779367+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4346,9 +4346,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Private-Equity Firms Have a Surprising New Source for Debt: the Nordic Bond Market",
+      "link": "https://www.wsj.com/finance/investing/private-equity-firms-have-a-surprising-new-source-for-debt-the-nordic-bond-market-24163a71?mod=rss_markets_main",
+      "summary": "Fast closings and minimal paperwork make Scandinavian financing an unexpectedly attractive alternative to the U.S.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T15:30:00+00:00"
+    },
     {
       "title": "すごみ増すマリニン　ＮＨＫフィギュア",
       "link": "https://www.jiji.com/jc/article?k=2026112701009&g=spo&m=rss",
@@ -4406,6 +4418,14 @@
       "published": "2026-11-27T15:04:00+00:00"
     },
     {
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "link": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "summary": "Article URL: https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical\nComments URL: https://news.ycombinator.com/item?id=50667744\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T15:03:17+00:00"
+    },
+    {
       "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
       "link": "https://bouncemarket.minhanhday.com/",
       "summary": "a ball will fall. trade on where it lands.I made this game! Some technical details:The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic from its starting position, so rounds can be replayed exactly for later analysis, but tiny variations in starting position can change the ultimate outcome.There's some AI traders to keep the market moving, but they drop out in any round that has more than five people. They operate using a naive set of rules that I wrote for them, so they're not too hard to beat -- it's when the market is full of real people that it gets tricky.Curious to get feedback on anything you would change, and especially whether the mechanics were clear right away or not.\n\nComments URL: https://news.ycombinator.com/item?id=50667726\nPoints: 4\n# Comments: 1",
@@ -4428,6 +4448,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-27T14:56:00+00:00"
+    },
+    {
+      "title": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
+      "link": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/",
+      "summary": "Article URL: https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/\nComments URL: https://news.ycombinator.com/item?id=50667664\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T14:55:57+00:00"
     },
     {
       "title": "Oil Futures Mixed in Shortened U.S. Trading Day",
@@ -4574,6 +4602,14 @@
       "published": "2026-11-27T13:01:02+00:00"
     },
     {
+      "title": "Mental Health Resources and Political Engagement",
+      "link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
+      "summary": "Article URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219\nComments URL: https://news.ycombinator.com/item?id=50666436\nPoints: 76\n# Comments: 133",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T13:01:02+00:00"
+    },
+    {
       "title": "US Air Force's cloud computing platform hacked",
       "link": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
       "summary": "Article URL: https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163\nComments URL: https://news.ycombinator.com/item?id=50666375\nPoints: 5\n# Comments: 0",
@@ -4601,6 +4637,14 @@
       "title": "New York and California Age Gating Rules Go into Effect in the New Year",
       "link": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
       "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year\nComments URL: https://news.ycombinator.com/item?id=50666279\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T12:43:40+00:00"
+    },
+    {
+      "title": "New York and California age gating rules go into effect in the new year",
+      "link": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year\nComments URL: https://news.ycombinator.com/item?id=50666279\nPoints: 68\n# Comments: 58",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-27T12:43:40+00:00"
@@ -4785,6 +4829,14 @@
       "title": "Fields-winning mathematicians worried about eerie silence over AI and encryption",
       "link": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
       "summary": "Article URL: https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8\nComments URL: https://news.ycombinator.com/item?id=50665488\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T11:09:04+00:00"
+    },
+    {
+      "title": "AI on brink of making online security useless, mathematicians fear",
+      "link": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+      "summary": "https://archive.ph/4hRp8\n\nComments URL: https://news.ycombinator.com/item?id=50665488\nPoints: 60\n# Comments: 70",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-27T11:09:04+00:00"
