@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T07:06:07.651668+00:00",
+  "generated_at": "2026-11-27T07:20:03.714406+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4210,9 +4210,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "絶滅危惧種「キタイワトビペンギン」の人工授精に成功、世界初―和歌山・アドベンチャーワールド",
+      "link": "https://www.jiji.com/jc/article?k=2026112700623&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T07:19:58.920667+00:00"
+    },
+    {
+      "title": "フランスの政治情勢・財政リスクに警戒感　インフレも加速、政策難度増す―ＥＣＢ",
+      "link": "https://www.jiji.com/jc/article?k=2026112700384&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T07:19:58.920658+00:00"
+    },
+    {
+      "title": "３８歳リーチマイケル、頼もしい復帰　苦境の日本代表への思いも―ラグビー",
+      "link": "https://www.jiji.com/jc/article?k=2026112700102&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T07:19:58.920634+00:00"
+    },
+    {
+      "title": "イオン、老いた総合スーパーをSCに再生　横浜・三ツ境に「象徴店」",
+      "link": "https://www.asahi.com/articles/ASVCV417FVCVULFA002M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-27T07:19:58.604871+00:00"
+    },
     {
       "title": "【記者会見】田村審議委員（山梨、11月26日分）",
       "link": "http://www.boj.or.jp/about/press/kaiken_2026/kk261127a.pdf",
@@ -4220,6 +4256,14 @@
       "source": "日本銀行",
       "category": "公的機関",
       "published": "2026-11-27T07:00:00+00:00"
+    },
+    {
+      "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+      "link": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+      "summary": "Article URL: https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/\nComments URL: https://news.ycombinator.com/item?id=50663666\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T06:53:52+00:00"
     },
     {
       "title": "熊本ふっこう応援割 第2弾実施へ",
