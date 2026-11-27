@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T02:07:33.798520+00:00",
+  "generated_at": "2026-11-27T02:23:14.763639+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4122,9 +4122,77 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "防衛省、ＡＩ活用で新指針　５原則「判断は人間」",
+      "link": "https://www.jiji.com/jc/article?k=2026112700243&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T02:23:10.313799+00:00"
+    },
+    {
+      "title": "潜むサイバー脅威に積極対応　企業へ助言、国の専門部隊発足",
+      "link": "https://www.jiji.com/jc/article?k=2026112700253&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T02:23:10.313784+00:00"
+    },
+    {
+      "title": "「マンジャロ」無許可販売容疑　女逮捕、ＳＮＳ配信の視聴者に―警視庁",
+      "link": "https://www.jiji.com/jc/article?k=2026112700239&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T02:23:10.313762+00:00"
+    },
+    {
+      "title": "芸人あべこうじさん、ひき逃げ疑い　中野区商店街、歩行者けが―警視庁",
+      "link": "https://www.jiji.com/jc/article?k=2026112700223&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T02:23:10.313714+00:00"
+    },
+    {
+      "title": "Asian Currencies Consolidate Amid Cautious Mood",
+      "link": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
+      "summary": "Asian currencies mostly consolidated against the dollar. “Asia FX enters today on a cautious footing, even as Asian equity markets broadly strengthened following the recent technology-led selloff,” MUFG said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T02:18:00+00:00"
+    },
+    {
+      "title": "Short-Term JGB Yields Rise on Elevated Tokyo Inflation Data",
+      "link": "https://www.wsj.com/finance/investing/short-term-jgb-yields-rise-on-elevated-tokyo-inflation-data-713a900b?mod=rss_markets_main",
+      "summary": "Short-term Japanese government bond yields rose as elevated Tokyo inflation data boosted expectations for the Bank of Japan to increase rates.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T02:16:00+00:00"
+    },
+    {
+      "title": "Asian Markets Mostly Higher as Sentiment Stabilizes",
+      "link": "https://www.wsj.com/finance/asian-markets-mostly-higher-as-sentiment-stabilizes-8f998c4d?mod=rss_markets_main",
+      "summary": "Asian markets tracked gains in U.S. stock futures as sentiment around artificial intelligence stabilized.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T02:13:00+00:00"
+    },
+    {
+      "title": "緻密な戦略と詳細な報告を求める経営幹部が現場の士気を下げ､聞きたくない言い訳を量産させてしまう根本理由 | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965820?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ビジネス環境が絶えず変化する中､多くの組織はいまだに静的な構造やプロセスに依存しています。MITスローン･スクールの特別教授と､元ハーレーダビッドソンのバイスプレジデントがタッグを組んで編み出した方…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T02:00:00+00:00"
+    },
     {
       "title": "Risk of Yen Weakening Against Dollar Appears Limited",
       "link": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
