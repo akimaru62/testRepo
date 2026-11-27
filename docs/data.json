@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T02:23:14.763639+00:00",
+  "generated_at": "2026-11-27T02:34:51.603446+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4126,9 +4126,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "井林国交相、国と契約の企業から選挙期間中に寄付　違法性は否定",
+      "link": "https://www.asahi.com/articles/ASVCW0PG1VCWULFA021M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-27T02:34:44.218963+00:00"
+    },
     {
       "title": "防衛省、ＡＩ活用で新指針　５原則「判断は人間」",
       "link": "https://www.jiji.com/jc/article?k=2026112700243&g=pol&m=rss",
