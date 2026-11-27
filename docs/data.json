@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T09:19:35.986638+00:00",
+  "generated_at": "2026-11-27T09:33:22.427651+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4250,9 +4250,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "職場の3次会後のセクハラ、労災と判断　同僚証言・写真で「業務」",
+      "link": "https://www.asahi.com/articles/ASVCW2TK0VCWULFA00QM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-27T09:33:18.443382+00:00"
+    },
     {
       "title": "英検受験、マイナカードで　来年１月、デジ庁が実証実験",
       "link": "https://www.jiji.com/jc/article?k=2026112700763&g=soc&m=rss",
