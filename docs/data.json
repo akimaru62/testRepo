@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T17:05:05.881132+00:00",
+  "generated_at": "2026-11-27T17:18:05.670557+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4378,9 +4378,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "捜査関係者によると、神奈川県警は２８日までに、少女を誘拐した疑いで男を逮捕した",
+      "link": "https://www.jiji.com/jc/article?k=2026112800020&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T17:18:00.644234+00:00"
+    },
+    {
+      "title": "宮城・七ケ宿町の山中に２遺体　不明少女か、誘拐容疑で男逮捕―身元確認進める・神奈川県警",
+      "link": "https://www.jiji.com/jc/article?k=2026112800022&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T17:18:00.644172+00:00"
+    },
+    {
+      "title": "Inside China’s $4 Billion Secondhand Luxury Boom",
+      "link": "https://www.wsj.com/world/china/inside-chinas-4-billion-secondhand-luxury-boom-cfa3dc5c?mod=rss_markets_main",
+      "summary": "Watch WSJ’s Hannah Miao explore one of China’s biggest resale megastores to understand what’s behind the country’s shifting consumer habits.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T17:12:00+00:00"
+    },
+    {
+      "title": "Nvidia CEO's comeback fuels debate on misogyny or impunity for rich and powerful",
+      "link": "https://www.pbs.org/newshour/nation/nvidia-ceos-comeback-fuels-debate-over-misogyny-and-impunity-for-the-rich-and-powerful",
+      "summary": "Article URL: https://www.pbs.org/newshour/nation/nvidia-ceos-comeback-fuels-debate-over-misogyny-and-impunity-for-the-rich-and-powerful\nComments URL: https://news.ycombinator.com/item?id=50668828\nPoints: 4\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T16:43:06+00:00"
+    },
     {
       "title": "Wave of cyber incidents rattles western economies",
       "link": "https://www.ft.com/content/6ab1172b-4f27-49f5-ad53-b384df82da77?syn-25a6b1a6=1",
@@ -4417,6 +4453,14 @@
       "title": "False Computer-Checked Proofs",
       "link": "https://cr.yp.to/proofs/falseccp.html",
       "summary": "Article URL: https://cr.yp.to/proofs/falseccp.html\nComments URL: https://news.ycombinator.com/item?id=50667989\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T15:26:09+00:00"
+    },
+    {
+      "title": "False computer-checked proofs",
+      "link": "https://cr.yp.to/proofs/falseccp.html",
+      "summary": "Article URL: https://cr.yp.to/proofs/falseccp.html\nComments URL: https://news.ycombinator.com/item?id=50667989\nPoints: 44\n# Comments: 15",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-27T15:26:09+00:00"
@@ -4556,6 +4600,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-27T14:38:51+00:00"
+    },
+    {
+      "title": "Show HN: I restored Palm's last device, and brought its OS to other platforms",
+      "link": "https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/",
+      "summary": "webOS Community Edition 3.2.0 is the first OTA Update for Palm/HP's TouchPad, modernizing a 15-year old device. Lunacy is its sibling: the webOS experience, and apps, on Android. Luna DE is a developer tool that brings the webOS app contract to Mac, Windows and Linux as a SDK-compatible Electron app.\n\nComments URL: https://news.ycombinator.com/item?id=50667452\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T14:37:02+00:00"
     },
     {
       "title": "U.S. Natural Gas Futures Fall as Front Month Shifts to January",
@@ -5494,6 +5546,14 @@
       "published": "2026-11-27T06:44:34+00:00"
     },
     {
+      "title": "Group chat where your AI talks behind your back",
+      "link": "https://construct22.com/",
+      "summary": "Article URL: https://construct22.com/\nComments URL: https://news.ycombinator.com/item?id=50663595\nPoints: 547\n# Comments: 241",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T06:44:34+00:00"
+    },
+    {
       "title": "因縁対決、激戦は必至　勢いの増田陸、経験の堤聖也―ボクシング世界戦",
       "link": "https://www.jiji.com/jc/article?k=2026112700587&g=spo&m=rss",
       "summary": "",
@@ -5737,6 +5797,14 @@
       "title": "\"What's Claude's Fursona?\" and Other Questions",
       "link": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
       "summary": "Article URL: https://herecomesthemoon.net/2026/11/whats-claudes-fursona/\nComments URL: https://news.ycombinator.com/item?id=50662933\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T04:56:18+00:00"
+    },
+    {
+      "title": "\"What's Claude's fursona?\" and other questions",
+      "link": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+      "summary": "Article URL: https://herecomesthemoon.net/2026/11/whats-claudes-fursona/\nComments URL: https://news.ycombinator.com/item?id=50662933\nPoints: 104\n# Comments: 81",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-27T04:56:18+00:00"
