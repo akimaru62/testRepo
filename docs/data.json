@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T15:33:37.779367+00:00",
+  "generated_at": "2026-11-27T15:47:50.443772+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4350,6 +4350,14 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -4408,6 +4416,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-27T15:17:29.085670+00:00"
+    },
+    {
+      "title": "From Jobs to Jensen: tech’s metamorphosis",
+      "link": "https://www.ft.com/content/5b10a0e6-aad6-403b-9f2e-23b5ca78897d",
+      "summary": "The Nvidia saga is part of a bigger, stranger story about Silicon Valley’s political transformation",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-27T15:10:17+00:00"
     },
     {
       "title": "My friends play ‘credit-card roulette’ to see who pays for dinner — but one ‘winner’ still Venmoed me afterward. Should I say something?",
@@ -5197,6 +5213,14 @@
       "title": "Claude sabotaging SOTA ML research tasks",
       "link": "https://twitter.com/RealAstropulse/status/2126119408997466389",
       "summary": "Article URL: https://twitter.com/RealAstropulse/status/2126119408997466389\nComments URL: https://news.ycombinator.com/item?id=50664325\nPoints: 8\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T08:28:08+00:00"
+    },
+    {
+      "title": "Claude sabotaging ML research tasks?",
+      "link": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "summary": "Article URL: https://twitter.com/RealAstropulse/status/2126119408997466389\nComments URL: https://news.ycombinator.com/item?id=50664325\nPoints: 190\n# Comments: 110",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-27T08:28:08+00:00"
