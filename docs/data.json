@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T21:33:13.818951+00:00",
+  "generated_at": "2026-11-27T21:47:37.693330+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4454,9 +4454,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "S&P cuts France outlook to negative",
+      "link": "https://www.ft.com/content/4e16110a-9604-4455-8557-4edece5df01a?syn-25a6b1a6=1",
+      "summary": "Rating agency says political instability will make it harder for the country to tackle its public deficit",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-27T21:34:13+00:00"
+    },
     {
       "title": "スマホ使用は｢騎乗停止10日｣で､馬の死は｢たった4日｣…古川奈穂騎手\"謝罪\"でも消えない疑問､JRAが語らぬ｢量刑の物差し｣ | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/966188?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -4736,6 +4748,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-27T19:06:35+00:00"
+    },
+    {
+      "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+      "link": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
+      "summary": "Article URL: https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/\nComments URL: https://news.ycombinator.com/item?id=50670443\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T18:59:55+00:00"
     },
     {
       "title": "Scrapheap America",
