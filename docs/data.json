@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T01:47:21.930238+00:00",
+  "generated_at": "2026-11-27T02:07:33.798520+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4118,9 +4118,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Risk of Yen Weakening Against Dollar Appears Limited",
+      "link": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
+      "summary": "Intervention risk should cap the dollar near 160 yen, while firm underlying inflation keeps a December hike by the Bank of Japan in play, OCBC said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T01:51:00+00:00"
+    },
+    {
+      "title": "Oil Mixed as Markets Track Mideast Developments, U.S. Inventories",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-mixed-as-markets-track-mideast-developments-u-s-inventories-6daf3fb1?mod=rss_markets_main",
+      "summary": "Oil prices were mixed in early Asian trade. Rising attacks on energy infrastructure across the Middle East have raised concerns of further supply disruptions, ANZ said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T01:48:00+00:00"
+    },
     {
       "title": "11月は2.9%上昇　都区部消費者物価、電気・ガス代が押し上げ",
       "link": "https://www.asahi.com/articles/ASVCW065ZVCWULFA003M.html?ref=rss",
