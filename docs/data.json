@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T14:05:40.279278+00:00",
+  "generated_at": "2026-11-27T14:18:49.273531+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4326,9 +4326,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "ＡＩ法改正で罰則導入へ　サイバー攻撃多発受け",
+      "link": "https://www.jiji.com/jc/article?k=2026112700977&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T14:18:45.954291+00:00"
+    },
+    {
+      "title": "片山さつき財務相、パーティー収入３７００万円　茂木敏充外相は２３００万円　大臣規範「大規模なパーティー自粛」でも",
+      "link": "https://www.jiji.com/jc/article?k=2026112700789&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T14:18:45.954273+00:00"
+    },
+    {
+      "title": "早着指示報道を否定　高市首相「事実無根」",
+      "link": "https://www.jiji.com/jc/article?k=2026112701001&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T14:18:45.954229+00:00"
+    },
     {
       "title": "Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?",
       "link": "https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories",
