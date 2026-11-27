@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T22:33:16.361313+00:00",
+  "generated_at": "2026-11-27T22:47:35.553993+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4470,6 +4470,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -4480,6 +4484,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-27T22:33:11.064762+00:00"
+    },
+    {
+      "title": "ピアスびっしり｢就活30社不採用｣の緑髪ギャルに批判の声…写真1枚で\"人間性\"までわかった気になる《現代人の怖さ》 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/966120?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "顔中に約20個のピアス､鮮やかな緑髪——23歳のインフルエンサー･すしくわせろ碧さんが､その｢個性的な見た目｣によって約30社から不採用となったというエピソードが炎上。第一印象に左右される社会で､本…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T22:30:00+00:00"
     },
     {
       "title": "「かっぱ寿司」なぜ赤字に転落",
@@ -4514,6 +4526,14 @@
       "published": "2026-11-27T22:15:00+00:00"
     },
     {
+      "title": "Source Control from Hell",
+      "link": "https://frantic.im/git/",
+      "summary": "Article URL: https://frantic.im/git/\nComments URL: https://news.ycombinator.com/item?id=50672142\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T22:06:44+00:00"
+    },
+    {
       "title": "｢ラッコ展示ゼロ｣の危機を救った｢海遊館｣の執念と快挙　\"かわいいだけじゃない\"ラッコの展示再開が示す､5つの意義 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/966190?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "9年ぶりに大阪･海遊館でラッコの展示が再開されるというニュースが注目を集めています。絶滅危惧種で国内飼育が激減する中､アラスカから迎えた4頭は､単なる\"癒やし\"を超えた5つの意義を持つ存在になってい…",
@@ -4526,6 +4546,22 @@
       "link": "https://toyokeizai.net/articles/-/965623?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "大学教員には華やかな経歴だけでなく､現場で培った実務経験や人脈が重要視される時代です。教育学の世界は学閥が物を言い､特定大学の出身者が有利とされます。その中で小中5校で校長を12年務めた元校長は､学…",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T22:00:00+00:00"
+    },
+    {
+      "title": "「3分の1」に縮小した「家庭用ミシン」国内市場　大阪の老舗メーカー社長が米国で見つけた“意外な勝機”",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/27/news094.html",
+      "summary": "中小メーカーが、世界市場で勝ち残るには何が必要なのか。創業80周年を迎えた家庭用ミシンメーカー、アックスヤマザキ（大阪市生野区、山崎一史社長）が、その難題に挑んでいる。",
+      "source": "ITmedia ビジネス",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T22:00:00+00:00"
+    },
+    {
+      "title": "手持ちのパワポを“簡単”に「ナレーション付き動画」にする──Google Vidsで動画を作るコツ【実践】",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/28/news009.html",
+      "summary": "新人研修や社内ツールの使い方を、毎回口頭で説明しています。説明で使用しているスライドを動画にできれば楽になりそうです。手軽に動画を作成する手段はありますか？",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-11-27T22:00:00+00:00"
     },
@@ -4624,6 +4660,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-27T21:10:00+00:00"
+    },
+    {
+      "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+      "link": "https://sessiongraph.ai/",
+      "summary": "Article URL: https://sessiongraph.ai/\nComments URL: https://news.ycombinator.com/item?id=50671651\nPoints: 7\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T21:07:34+00:00"
     },
     {
       "title": "｢駅はガラガラ｣｢人がまったくいない｣大阪･関西万博の跡地《夢洲》の現在…1.5兆円の巨大カジノ計画に感じた違和感 | ライフ | 東洋経済オンライン",
