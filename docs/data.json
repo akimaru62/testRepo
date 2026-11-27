@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T16:05:38.103916+00:00",
+  "generated_at": "2026-11-27T16:19:16.147143+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4362,6 +4362,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -4380,6 +4384,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-27T15:30:00+00:00"
+    },
+    {
+      "title": "False Computer-Checked Proofs",
+      "link": "https://cr.yp.to/proofs/falseccp.html",
+      "summary": "Article URL: https://cr.yp.to/proofs/falseccp.html\nComments URL: https://news.ycombinator.com/item?id=50667989\nPoints: 3\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T15:26:09+00:00"
     },
     {
       "title": "すごみ増すマリニン　ＮＨＫフィギュア",
