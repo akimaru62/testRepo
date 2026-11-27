@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T12:24:35.891689+00:00",
+  "generated_at": "2026-11-27T12:36:50.037706+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4298,6 +4298,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -4324,6 +4328,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-27T12:24:30.795326+00:00"
+    },
+    {
+      "title": "米ネトフリ 日本作品への投資拡大",
+      "link": "https://news.yahoo.co.jp/pickup/6604237?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-27T12:24:12+00:00"
     },
     {
       "title": "Nvidia’s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead",
