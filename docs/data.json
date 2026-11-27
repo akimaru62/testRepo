@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T21:05:18.774704+00:00",
+  "generated_at": "2026-11-27T21:17:30.263218+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4446,9 +4446,141 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "ＮＹ株４日続伸、５９１ドル高　ハイテク株に買い",
+      "link": "https://www.jiji.com/jc/article?k=2026112800086&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T21:17:25.985377+00:00"
+    },
+    {
+      "title": "首相動静（１１月２７日）",
+      "link": "https://www.jiji.com/jc/article?k=2026112700163&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T21:17:25.985354+00:00"
+    },
+    {
+      "title": "日本人の出生数、上半期３２万人　１１年ぶり増、婚姻増が影響か―通年では見通せず・厚労省",
+      "link": "https://www.jiji.com/jc/article?k=2026112800082&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T21:17:25.985324+00:00"
+    },
+    {
+      "title": "4カ月続く赤字「クモの糸たぐるしか」　表面化する被災地企業の苦境",
+      "link": "https://www.asahi.com/articles/ASVCW1GF3VCWTLVB00DM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-27T21:17:25.645766+00:00"
+    },
+    {
+      "title": "松本明子は\"空き家\"に｢25年で1000万円超｣使った…親が認知症になると売れない危険も《失敗に学ぶ､実家じまいの第一歩》 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/966030?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "家族の思い出が詰まった実家。しかし､空き家となった家には税金や管理費など､見えない負担がのしかかる。さらに､親の認知症が進めば売却さえも困難に…。タレント松本明子さんの\"しくじり体験\"とプロの知見を…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T21:10:00+00:00"
+    },
+    {
+      "title": "Treasury Yields Gain As U.S. Equities Rally",
+      "link": "https://www.wsj.com/finance/investing/short-term-jgb-yields-rise-on-elevated-tokyo-inflation-data-713a900b?mod=rss_markets_main",
+      "summary": "U.S. Treasury yields recovered from their pre-Thanksgiving retreat and moved higher as equities posted Black Friday gains and the U.S. dollar strengthened.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T21:10:00+00:00"
+    },
+    {
+      "title": "｢駅はガラガラ｣｢人がまったくいない｣大阪･関西万博の跡地《夢洲》の現在…1.5兆円の巨大カジノ計画に感じた違和感 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/966082?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "万博の会場があった夢洲は､2030年秋のIR（統合型リゾート）開業で､カジノやホテルが並ぶ年間約2000万人が訪れる新観光地へ変わろうとしています。今どうなっているのか､筆者が訪れてみました。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T21:05:00+00:00"
+    },
+    {
+      "title": "〈トランプ政権が復帰を後押し〉エヌビディアのフアンCEOに迫る｢政治介入｣と｢統治不全｣のリスク | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/966183?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "AIブームの寵児であり、米半導体メーカー最大手のエヌビディア共同創業者であるジェンスン・フアン氏は11月23日、CEOに復帰した。11月12日の辞任発表から、わずか11日後の出来事だった。フアン氏の…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T21:00:00+00:00"
+    },
+    {
+      "title": "タマホーム不正請求問題の背景に保険業規制の｢死角｣､不動産業界に悪習が蔓延している可能性も | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/966139?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "保険金不正請求問題で揺れるタマホーム。専業保険代理店からは､損害保険各社や金融庁に対して不満が噴出しています。背景には大手住宅メーカーに対する規制や監視が甘くなってしまったことがあるようです。そのた…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T21:00:00+00:00"
+    },
+    {
+      "title": "イスラム教徒が世界最大勢力になる日は近い､キリスト教離れが強まるフランスの右派台頭から見える多文化共生の揺らぎ | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/966101?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "宗教的人口バランスの歴史的転換が近づく中､イスラム教徒の急増とキリスト教･無宗教層の台頭がヨーロッパ社会に波紋を広げています。価値観の衝突や多文化共生の難題､台頭する極右勢力。変容する社会で私たちが…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T21:00:00+00:00"
+    },
+    {
+      "title": "｢小学生で700近くの種族値を暗記｣驚異の記憶力でも｢ポケモンにしか興味がなかった｣ 母を心配させた東大生の少年時代 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/966073?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢天才｣｢神童｣と呼ばれた子どもは､大人になるとどう変わるのでしょうか。700種類以上のポケモンとその種族値を暗記し､ポケモンの新作が出るたびに成績が下がっていたという山崎さんはいま東京大学で学んで…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T21:00:00+00:00"
+    },
+    {
+      "title": "台湾･韓国の半導体競争が先進パッケージ分野にも拡大！　サムスン､TSMC､ASE､精材科技が大型投資発表､その影響は？ | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965855?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "エヌビディア（NVIDIA）のジェンスン･ファン（黄仁勲）CEOの退任･復帰に注目される中､サムスン電子､サムスン電機､ASE､精材科技の4社に加え､精材科技と契約を結んだTSMC（台湾積体電路製造…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T21:00:00+00:00"
+    },
+    {
+      "title": "｢傑作機｣と礼賛された海自P-1哨戒機のお粗末な惨状､防衛省と軍事専門誌が直視してこなかった国産機の致命的欠陥 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965842?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "日本独自開発の海自P-1哨戒機が､低可動率や致命的なエンジン問題など深刻な欠陥で揺れています。防衛省による表面的な改善策が根本解決に至らない実態や､情報発信の構造的な問題とは―日本の安全保障に影を落…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T21:00:00+00:00"
+    },
+    {
+      "title": "がん患者に体力が残っているうちに治療を――｢標準治療の終了後｣に限られるがん遺伝子パネル検査の条件見直しを急げ | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965831?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "がん患者に最適な治療法を導く｢がんゲノム医療｣。欧米ではスタンダードになりつつある一方､日本は出遅れています。最大の要因が｢がん遺伝子パネル検査｣の受検ハードルの高さ。元厚生労働相の塩崎恭久氏が制度…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T21:00:00+00:00"
+    },
+    {
+      "title": "〈本当に強い大学ランキング〉26年版 九州･沖縄編､対象53校のトップは九州大､2位はAPU､3位九工大･4位熊本大と国立優位 | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965562?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "受験偏差値では測れない大学の実力を､研究･就職･財務･国際性の定量データで評価する｢本当に強い大学ランキング｣2026年版九州･沖縄編。対象53校の中で､科研費や海外留学協定校数で地域を圧倒した国立…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T21:00:00+00:00"
+    },
+    {
+      "title": "スペイン政府が｢TikTok事業の一時停止｣を要請　NPOが告発､児童性的虐待のコンテンツを放置か | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965115?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "中国発の動画アプリ･TikTokが､スペインで児童への性的虐待コンテンツ問題に直面しています。7000超のアカウントで違法行為が発覚し､政府は運営停止を検討。巨大プラットフォームは対応できるのか？そ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T21:00:00+00:00"
+    },
     {
       "title": "Treasury Yields Rise on Higher Rate Expectations",
       "link": "https://www.wsj.com/finance/investing/short-term-jgb-yields-rise-on-elevated-tokyo-inflation-data-713a900b?mod=rss_markets_main",
@@ -4494,6 +4626,14 @@
       "link": "https://toyokeizai.net/articles/-/966170?utm_source=rss&utm_medium=http&utm_campaign=link_back",
       "summary": "日本の食卓に欠かせないアジやサンマが､漁獲量減少の危機に直面しています。なぜ日本の水産資源は枯渇の一途をたどるのか？一方､チリでは資源管理改革によりアジが復活しています。世界と逆行する日本漁業の課題…",
       "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T20:30:00+00:00"
+    },
+    {
+      "title": "ローソン担当者が「え～！」と困惑　AIが考えた“斬新なスイーツ案“、売れる商品にどう仕上げた？",
+      "link": "https://www.itmedia.co.jp/business/articles/2611/28/news003.html",
+      "summary": "ローソンは、生成AIが考案した商品コンセプトをもとに、スイーツやベーカリーなど3商品を開発した。あえて過去の販売データをAIに読み込ませず、人間では思い付かない奇抜なアイデアを引き出したという。開発担当者が「ええ～！」と驚いたアイデアをどう商品化したのか。AI時代の商品開発に求められる人間の役割を探る。",
+      "source": "ITmedia ビジネス",
       "category": "経済専門メディア",
       "published": "2026-11-27T20:30:00+00:00"
     },
