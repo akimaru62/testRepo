@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T11:05:11.028968+00:00",
+  "generated_at": "2026-11-27T11:17:56.020609+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4278,9 +4278,53 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "遺族、タイ外相に事件解決訴え　時効まで１年弱、邦人女性殺害",
+      "link": "https://www.jiji.com/jc/article?k=2026112700896&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T11:17:50.764587+00:00"
+    },
+    {
+      "title": "高市首相は関文科相の問題に関し、「本人がしっかりと説明責任を果たすべきだ」と記者団に述べた",
+      "link": "https://www.jiji.com/jc/article?k=2026112700873&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T11:17:50.764566+00:00"
+    },
+    {
+      "title": "女性の坑内作業解禁へ　技術進歩でリスク低減―厚労省",
+      "link": "https://www.jiji.com/jc/article?k=2026112700887&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T11:17:50.764553+00:00"
+    },
+    {
+      "title": "「激動の時代担う」「連立の礎」　神崎さん死去、与野党から悼む声",
+      "link": "https://www.jiji.com/jc/article?k=2026112700876&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T11:17:50.764528+00:00"
+    },
+    {
+      "title": "職場の3次会後のセクハラ、労災と判断　同僚の証言・写真で「業務」",
+      "link": "https://www.asahi.com/articles/ASVCW2TK0VCWULFA00QM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-27T11:17:50.659224+00:00"
+    },
     {
       "title": "巨大イオンモールが福島・伊達にオープン、山形と宮城も商圏に",
       "link": "https://www.asahi.com/articles/ASVCW32RWVCWUGTB00MM.html?ref=rss",
@@ -4288,6 +4332,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-27T11:05:06.977872+00:00"
+    },
+    {
+      "title": "US tech stocks set to jump at open as volatile trading takes hold",
+      "link": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
+      "summary": "All-powerful AI trade has been eclipsed by wild swings in a market struggling to price future earnings",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-27T10:56:19+00:00"
     },
     {
       "title": "Stocks are poised for a Friday jump — right into a $100 billion wave of automated selling, Goldman Sachs warns",
