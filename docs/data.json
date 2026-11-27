@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T09:33:22.427651+00:00",
+  "generated_at": "2026-11-27T09:47:32.925691+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4254,9 +4254,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "政府・与党、ふるさと納税の仲介手数料の上限規制を検討",
+      "link": "https://www.asahi.com/articles/ASVCW3259VCWULFA00GM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-27T09:47:27.979137+00:00"
+    },
+    {
+      "title": "米Netflixが日本のアニメ専用ページを開設へ　世界に売り込み",
+      "link": "https://www.asahi.com/articles/ASVCW3138VCWULFA01QM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-27T09:47:27.979103+00:00"
+    },
+    {
+      "title": "GMO サイバー攻撃防ぐ構想発表",
+      "link": "https://news.yahoo.co.jp/pickup/6604216?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-27T09:37:15+00:00"
+    },
+    {
+      "title": "Stock Futures Jump as AI Trade Set for Rebound",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-jump-as-ai-trade-set-for-rebound-98318fc0?mod=rss_markets_main",
+      "summary": "Nasdaq futures traded 2.7% higher, while contracts tied to the S&amp;P 500 and the Dow Jones Industrial Average also rose ahead of a shortened trading session Friday.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T09:34:00+00:00"
+    },
     {
       "title": "職場の3次会後のセクハラ、労災と判断　同僚証言・写真で「業務」",
       "link": "https://www.asahi.com/articles/ASVCW2TK0VCWULFA00QM.html?ref=rss",
