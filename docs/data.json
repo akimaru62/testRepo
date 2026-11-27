@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T01:34:25.808379+00:00",
+  "generated_at": "2026-11-27T01:47:21.930238+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4114,9 +4114,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "11月は2.9%上昇　都区部消費者物価、電気・ガス代が押し上げ",
+      "link": "https://www.asahi.com/articles/ASVCW065ZVCWULFA003M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-27T01:47:16.580203+00:00"
+    },
+    {
+      "title": "サイバー保険の加入急増　「億単位」リスクも、中小で普及進まぬ事情",
+      "link": "https://www.asahi.com/articles/ASVCV33J7VCVULFA02LM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-27T01:47:16.580169+00:00"
+    },
     {
       "title": "流動性供給(第466回)入札",
       "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20261127.htm",
@@ -4764,6 +4784,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-26T19:05:00+00:00"
+    },
+    {
+      "title": "An introduction to uncertainty in machine learning",
+      "link": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+      "summary": "Article URL: https://chrhenning.com/blog/2026/introduction-to-uncertainty/\nComments URL: https://news.ycombinator.com/item?id=50658498\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T19:04:50+00:00"
     },
     {
       "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
