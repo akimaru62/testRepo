@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T17:47:45.753610+00:00",
+  "generated_at": "2026-11-27T18:06:01.147580+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4390,9 +4390,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "I'm Scared of AI",
+      "link": "https://thesoapbox.email/archive/3",
+      "summary": "Article URL: https://thesoapbox.email/archive/3\nComments URL: https://news.ycombinator.com/item?id=50669561\nPoints: 23\n# Comments: 15",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T17:45:31+00:00"
+    },
     {
       "title": "Opinion | How to Narrow America’s Racial Wealth Gap",
       "link": "https://www.wsj.com/opinion/how-to-narrow-americas-racial-wealth-gap-b42134c8?mod=rss_markets_main",
