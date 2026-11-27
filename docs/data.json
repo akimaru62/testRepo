@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T13:05:18.759970+00:00",
+  "generated_at": "2026-11-27T13:17:47.318335+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4310,9 +4310,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "中国公船が領海出る　沖縄・尖閣沖",
+      "link": "https://www.jiji.com/jc/article?k=2026112700958&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T13:17:43.237995+00:00"
+    },
+    {
+      "title": "税収格差「自治体の声受け止め」　是正策、税制改正で対応―高市首相",
+      "link": "https://www.jiji.com/jc/article?k=2026112700713&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T13:17:43.237970+00:00"
+    },
+    {
+      "title": "参政、グーグル広告に１億円超　動画製作やライブ配信、各党注力―２５年政治資金収支報告書",
+      "link": "https://www.jiji.com/jc/article?k=2026112700787&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T13:17:43.237926+00:00"
+    },
     {
       "title": "CPTPP、UAEなど3カ国と加入交渉へ　経済的威圧にも対抗",
       "link": "https://www.asahi.com/articles/ASVCW43DDVCWULFA027M.html?ref=rss",
