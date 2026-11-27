@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T08:22:23.795586+00:00",
+  "generated_at": "2026-11-27T08:34:12.219166+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4230,9 +4230,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Eurozone Bond Yields Track Treasury Yields, Oil Prices Higher",
+      "link": "https://www.wsj.com/finance/investing/short-term-jgb-yields-rise-on-elevated-tokyo-inflation-data-713a900b?mod=rss_markets_main",
+      "summary": "Eurozone government bond yields rose on what was shaping up to be a busy day for issuance and data.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T08:23:00+00:00"
+    },
     {
       "title": "韓国、北朝鮮漁民６人を送還　１人は残留意思",
       "link": "https://www.jiji.com/jc/article?k=2026112700715&g=int&m=rss",
