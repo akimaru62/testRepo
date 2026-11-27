@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T04:20:33.165882+00:00",
+  "generated_at": "2026-11-27T04:33:16.999495+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4158,9 +4158,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Venture Firm Antler Eyes $100 Billion in Portfolio Value by 2027",
+      "link": "https://www.wsj.com/finance/investing/venture-firm-antler-eyes-100-billion-in-portfolio-value-by-2027-cb405206?mod=rss_markets_main",
+      "summary": "Venture-capital firm Antler wants to grow the value of its portfolio to roughly $100 billion by 2027 as it continues hunting unicorns.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T04:21:00+00:00"
+    },
     {
       "title": "問責決議案の投票結果は賛成１２０票、反対１２４票だった",
       "link": "https://www.jiji.com/jc/article?k=2026112700412&g=flash&m=rss",
