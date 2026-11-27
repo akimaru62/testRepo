@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T11:47:48.222125+00:00",
+  "generated_at": "2026-11-27T12:08:08.521736+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4290,9 +4290,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Nvidia’s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories",
+      "summary": "Jensen Huang faces tough questions from Congress this week. Good luck pinning him down, an analyst says.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-27T12:01:00+00:00"
+    },
+    {
+      "title": "Stocks look like a Black Friday bargain. Read the fine print.",
+      "link": "https://www.marketwatch.com/story/stocks-look-like-a-black-friday-bargain-read-the-fine-print-b6546539?mod=mw_rss_topstories",
+      "summary": "Analysts raised their profit forecasts for S&amp;P 500 companies during the selloff. Plus, how to spot a bogus boutique and what Jensen Huang is doing in your 401(k).",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-27T12:01:00+00:00"
+    },
+    {
+      "title": "米ネトフリ 日本作品に投資拡大",
+      "link": "https://news.yahoo.co.jp/pickup/6604233?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-27T11:55:12+00:00"
+    },
     {
       "title": "日本に支援事務所設置へ　３カ国と加入交渉入り―ＴＰＰ閣僚級会合",
       "link": "https://www.jiji.com/jc/article?k=2026112700855&g=int&m=rss",
