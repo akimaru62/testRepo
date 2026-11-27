@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T19:47:33.751372+00:00",
+  "generated_at": "2026-11-27T20:05:22.015448+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4426,9 +4426,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "その代償は意外と大きかった… 関文科相の問責決議｢薄氷の否決｣で忍び寄る自民･維新連立\"不吉な不協和音\"の正体 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/966160?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "関文科相への問責決議は賛成120･反対124でかろうじて否決に。今臨時国会のヤマ場をひとまず乗り切った高市政権ですが､その代償は意外と大きいようです。連立与党を待ち受ける､これから先の隘路とは？",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T20:00:00+00:00"
+    },
+    {
+      "title": "Michael Nielsen took down his book on neural nets",
+      "link": "https://twitter.com/michael_nielsen/status/2126359767362748777",
+      "summary": "Article URL: https://twitter.com/michael_nielsen/status/2126359767362748777\nComments URL: https://news.ycombinator.com/item?id=50670757\nPoints: 53\n# Comments: 27",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T19:31:01+00:00"
+    },
     {
       "title": "山陰本線｢長距離鈍行｣が走った国鉄時代の記憶　｢長大なローカル線｣の保津峡\"旧線\"や旧余部鉄橋 | ビジネス | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/966034?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -4438,12 +4458,28 @@
       "published": "2026-11-27T19:30:00+00:00"
     },
     {
+      "title": "I'm a watchmaker and I accidentally made a software factory",
+      "link": "https://opentimegrapher.org/blog/2026-11-27-coordinators-chair-1/",
+      "summary": "Article URL: https://opentimegrapher.org/blog/2026-11-27-coordinators-chair-1/\nComments URL: https://news.ycombinator.com/item?id=50670517\nPoints: 6\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T19:06:35+00:00"
+    },
+    {
       "title": "The warnings behind this week’s stock-market rally",
       "link": "https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
       "summary": "Also in Weekend Reads: Important tips for Medicare enrollment, how to spot online shopping scams and marital advice from The Moneyist.",
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-27T18:40:00+00:00"
+    },
+    {
+      "title": "Euclidean geometry in the asymptotic spectrum of tensors [pdf]",
+      "link": "https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf",
+      "summary": "Article URL: https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf\nComments URL: https://news.ycombinator.com/item?id=50670088\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T18:28:29+00:00"
     },
     {
       "title": "Trump’s Nvidia intervention has a cost for US stocks",
@@ -4484,6 +4520,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-27T18:02:45+00:00"
+    },
+    {
+      "title": "Show HN: DragDropMath – Learn math by feel",
+      "link": "https://dragdropmath.com/",
+      "summary": "Hi HN!I am a professional physicist and I shuffle symbols in equations and mathematical expressions all day long. During my PhD (almost 20 years ago) I noticed that it is as if the symbols have their own 'physics', which makes the wrong moves impossible and the right ones obvious.So I created DragDropMath, where you can learn how to simplify mathematical expressions and how to solve equations by dragging symbols around, and only correct moves are allowed, so you get to feel what's right without experiencing (and so learning) wrong moves.I always wanted to make this, but life got in the way. Then a few weeks ago I saw declarative dragging (https://declarative-dragging.github.io/) on the front page of HN and the spark came back!It took quite a few rounds to get the feel right, but I think it's close to what happens in my mind when I mentally manipulate these expressions.A few more points:\n- There are no ads, no trackers, no accounts (it's a static website and progress is saved in the browser cache).\n- Teachers can create their own problem sets, encoded in the link.\n- I plan to add more chapters (trigonometry, complex numbers, some calculus) but I first need to figure out the 'right' mode of interaction.\n- I just started working on the experience from mobile, so there may still be some rough edges thereI'm curious to know what you think, if you have suggestions for content, if you spot anything that I should fix, if you have feature requests! Thank you in advance\n\nComments URL: https://news.ycombinator.com/item?id=50669673\nPoints: 14\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T17:56:28+00:00"
     },
     {
       "title": "I'm Scared of AI",
@@ -4678,6 +4722,14 @@
       "published": "2026-11-27T15:03:17+00:00"
     },
     {
+      "title": "GPT 6.2 Astra solves a historical mystery",
+      "link": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "summary": "Article URL: https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical\nComments URL: https://news.ycombinator.com/item?id=50667744\nPoints: 163\n# Comments: 66",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T15:03:17+00:00"
+    },
+    {
       "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
       "link": "https://bouncemarket.minhanhday.com/",
       "summary": "a ball will fall. trade on where it lands.I made this game! Some technical details:The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer. Every drop is deterministic from its starting position, so rounds can be replayed exactly for later analysis, but tiny variations in starting position can change the ultimate outcome.There's some AI traders to keep the market moving, but they drop out in any round that has more than five people. They operate using a naive set of rules that I wrote for them, so they're not too hard to beat -- it's when the market is full of real people that it gets tricky.Curious to get feedback on anything you would change, and especially whether the mechanics were clear right away or not.\n\nComments URL: https://news.ycombinator.com/item?id=50667726\nPoints: 4\n# Comments: 1",
@@ -4756,6 +4808,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-27T14:35:00+00:00"
+    },
+    {
+      "title": "Rayshader 1.0: Exit the Matrix",
+      "link": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
+      "summary": "Article URL: https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html\nComments URL: https://news.ycombinator.com/item?id=50667371\nPoints: 9\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T14:30:20+00:00"
     },
     {
       "title": "ＡＩ法改正で罰則導入へ　サイバー攻撃多発受け",
