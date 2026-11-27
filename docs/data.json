@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T23:47:16.382640+00:00",
+  "generated_at": "2026-11-27T00:12:52.107235+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4086,9 +4086,61 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "クウェートに無人機攻撃　イタリア人２人死亡、イランは関与否定",
+      "link": "https://www.jiji.com/jc/article?k=2026112700154&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T00:12:47.485937+00:00"
+    },
+    {
+      "title": "英国への移民大幅減　抑制策で９７年以来の低水準",
+      "link": "https://www.jiji.com/jc/article?k=2026112700131&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T00:12:47.485925+00:00"
+    },
+    {
+      "title": "対中強硬ルビオ氏、思惑外れる　フアン氏「排除」巡り政権内暗闘―トランプ後継にらみ火種",
+      "link": "https://www.jiji.com/jc/article?k=2026112600698&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T00:12:47.485912+00:00"
+    },
+    {
+      "title": "マウスのひげ、宇宙で組成変化　元素の割合、環境ストレスで―東北大など",
+      "link": "https://www.jiji.com/jc/article?k=2026112600983&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T00:12:47.485881+00:00"
+    },
+    {
+      "title": "｢センスがいい｣と言われる人が普段から\"必ずやっていること\"…選ぶのは｢奇抜さ｣でも｢無難さ｣でもダメなワケ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965380?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "｢センスがいい｣とは何か——それは王道を知りつつ､ほんの半歩だけ新しさを加えるバランス感覚にありました。無難すぎず奇抜すぎない絶妙な一歩が､人の心を動かします。どうすれば\"ちょっとだけ新しい\"を手に…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T00:00:00+00:00"
+    },
+    {
+      "title": "貿易統計(令和8年11月上旬分速報)【税関ホームページ】",
+      "link": "https://www.mof.go.jp/outside_link/20261126113809.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-26T23:50:00+00:00"
+    },
     {
       "title": "仕事中の｢机の片づけ｣実は大正解だった スマホ休憩は逆効果､米大学が解明した\"あえて流れを切る\"最強の集中リセット術 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/964281?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -4864,6 +4916,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-26T14:47:30.613801+00:00"
+    },
+    {
+      "title": "Show HN: I wrote an entire Vim manual over 4 years",
+      "link": "http://themouseless.dev/vim/",
+      "summary": "I'm glad to announce that I'm releasing my new book, Learning to Play Vim.When I started using Vim more than a decade ago, I wished there was a manual out there teaching how to use this fantastic editor step by step, beginning with the foundations up to more advanced features. Of course at the time I did the vimtutor, but it was too dense for me to remember much from it. I also read the entire Vim manual (`:help manual`), but I didn't like it: it was too detailed in places (for example `02.8 Finding help` completely lost me for a while), and other features didn't get the treatment they deserved.So I decided to write my own Vim manual. It took me more than 4 years and 2987 focused pomodoros (1244 hours) of work to finally get it done!The result:- 21 chapters showing the most important Vim features step by step.- 170 exercises with solutions.- Many real-life examples to show how Vim can be used and configured for your own needs.- The related Vim's help pages to dig further into each feature.Most configs are both written in Vimscript and Lua for Neovim users. This book explores the common features between Vim and Neovim, so don't expect anything about Neovim-specific features (like treesitter or LSP for example).- The landing page: https://themouseless.dev/vim/- A sample of the book with the entire table of contents and the first three chapters covering most of the basics: https://themouseless.dev/content/learning_to_play_vim_sample....I wrote this with my bare hands, no LLM involved to spoil the fun.\n\nComments URL: https://news.ycombinator.com/item?id=50655868\nPoints: 32\n# Comments: 12",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T14:44:22+00:00"
     },
     {
       "title": "Tell HN: Happy Thanksgiving",
