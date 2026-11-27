@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T01:19:15.653661+00:00",
+  "generated_at": "2026-11-27T01:34:25.808379+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4110,9 +4110,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "流動性供給(第466回)入札",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/offer20261127.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-27T01:30:00+00:00"
+    },
+    {
+      "title": "MSCI India Gets Rare Earnings Upgrade",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?mod=rss_markets_main",
+      "summary": "Jefferies raised its earnings forecast for the MSCI India index by about 1%, citing Indian companies’ resilient earnings.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T01:21:00+00:00"
+    },
+    {
+      "title": "国庫短期証券（第1423回）の発行予定額等",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_auct/auct20261127.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-27T01:20:00+00:00"
+    },
+    {
+      "title": "国庫短期証券（第1422回）の入札発行",
+      "link": "https://www.mof.go.jp/jgbs/auction/calendar/tbill/tbill_nyusatsu/offer20261127.htm",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-27T01:20:00+00:00"
+    },
     {
       "title": "災害本部移転先に「副首都」も　首都直下地震の発生時―政府",
       "link": "https://www.jiji.com/jc/article?k=2026112700214&g=soc&m=rss",
@@ -4138,6 +4174,22 @@
       "published": "2026-11-27T01:19:09.824593+00:00"
     },
     {
+      "title": "子供の遊び場設置で売上増も 背景",
+      "link": "https://news.yahoo.co.jp/pickup/6604150?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-27T01:18:50+00:00"
+    },
+    {
+      "title": "Australian Dollar’s Weakness to Extend Into 2027",
+      "link": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
+      "summary": "The Australian dollar’s recent weakness looks set to extend into 2027, NAB said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T01:17:00+00:00"
+    },
+    {
       "title": "【講演】神山理事「デジタルマネーと決済：新たなパラダイムへの移行」（IMF MCM-OAP Seminar in Tokyo）",
       "link": "http://www.boj.or.jp/about/press/koen_2026/ko261127a.htm",
       "summary": "",
@@ -4152,6 +4204,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-27T01:00:00+00:00"
+    },
+    {
+      "title": "Lula names banker as Brazil finance minister in attempt to calm markets",
+      "link": "https://www.ft.com/content/94f93408-476b-479c-be0e-d7f7942f9491?syn-25a6b1a6=1",
+      "summary": "Luiz Carlos Trabuco’s appointment follows a sell-off in the country’s assets",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-27T00:59:07+00:00"
     },
     {
       "title": "《愛嬌も社交性もいらない人間関係のコツ》｢で､結論は？｣と遮る\"嫌な上司\"も､AIを通したら｢話の通じる人｣に見えてきた | ライフ | 東洋経済オンライン",
@@ -4256,6 +4316,14 @@
       "source": "財務省",
       "category": "公的機関",
       "published": "2026-11-26T23:50:00+00:00"
+    },
+    {
+      "title": "Oakland's $30 minimum wage push advances toward city council vote",
+      "link": "https://abc7news.com/post/oaklands-30-minimum-wage-push-advances-city-council-vote-alameda-workers-protest-alleged-theft-jack-box/19974057/",
+      "summary": "Article URL: https://abc7news.com/post/oaklands-30-minimum-wage-push-advances-city-council-vote-alameda-workers-protest-alleged-theft-jack-box/19974057/\nComments URL: https://news.ycombinator.com/item?id=50661044\nPoints: 9\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T23:33:34+00:00"
     },
     {
       "title": "仕事中の｢机の片づけ｣実は大正解だった スマホ休憩は逆効果､米大学が解明した\"あえて流れを切る\"最強の集中リセット術 | ライフ | 東洋経済オンライン",
