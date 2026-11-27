@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T13:17:47.318335+00:00",
+  "generated_at": "2026-11-27T13:33:31.194203+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4314,9 +4314,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Renters are now a national political constituency that can influence elections",
+      "link": "https://www.marketwatch.com/story/renters-are-now-a-national-political-constituency-that-can-influence-elections-8f028445?mod=mw_rss_topstories",
+      "summary": "Renters backed Democrats 61% to 31% in the midterms, a 30-point margin, according to YouGov.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-27T13:30:00+00:00"
+    },
     {
       "title": "中国公船が領海出る　沖縄・尖閣沖",
       "link": "https://www.jiji.com/jc/article?k=2026112700958&g=soc&m=rss",
@@ -4358,6 +4370,14 @@
       "published": "2026-11-27T13:03:00+00:00"
     },
     {
+      "title": "Counseling for mental health decreases likelihood of protesting by 34%–39%",
+      "link": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
+      "summary": "Article URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219\nComments URL: https://news.ycombinator.com/item?id=50666436\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T13:01:02+00:00"
+    },
+    {
       "title": "Week Ahead for FX, Bonds: Key Labor Data in Focus Ahead of Fed’s December Rate Decision",
       "link": "https://www.wsj.com/finance/investing/week-ahead-for-fx-bonds-key-labor-data-in-focus-ahead-of-feds-december-rate-decision-52cad754?mod=rss_markets_main",
       "summary": "U.S. labor market data, including the key nonfarm payrolls report, will be in focus in the week starting Nov. 30.",
@@ -4372,6 +4392,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-27T12:48:00+00:00"
+    },
+    {
+      "title": "New York and California Age Gating Rules Go into Effect in the New Year",
+      "link": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year\nComments URL: https://news.ycombinator.com/item?id=50666279\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T12:43:40+00:00"
     },
     {
       "title": "How to spot Black Friday shopping scams like ‘bogus boutiques’ and AI-generated product images",
@@ -4428,6 +4456,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-27T12:08:51+00:00"
+    },
+    {
+      "title": "Kimi for Science More scientific ideas, made possible",
+      "link": "https://www.kimi.ai/news/kimi-for-science-program",
+      "summary": "Article URL: https://www.kimi.ai/news/kimi-for-science-program\nComments URL: https://news.ycombinator.com/item?id=50665920\nPoints: 13\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T12:03:11+00:00"
     },
     {
       "title": "Nvidia’s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead",
