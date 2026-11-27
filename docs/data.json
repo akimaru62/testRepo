@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T12:47:33.932838+00:00",
+  "generated_at": "2026-11-27T13:05:18.759970+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4306,9 +4306,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "CPTPP、UAEなど3カ国と加入交渉へ　経済的威圧にも対抗",
+      "link": "https://www.asahi.com/articles/ASVCW43DDVCWULFA027M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-27T13:05:14.701039+00:00"
+    },
+    {
+      "title": "Swiss Bourse to Launch IPO Academy in Bid to Encourage European Listings",
+      "link": "https://www.wsj.com/finance/swiss-bourse-to-launch-ipo-academy-in-bid-to-encourage-european-listings-d98da166?mod=rss_markets_main",
+      "summary": "Exchange operator SIX plans to launch an incubator for hot European companies to raise money on the continent instead of crossing the Atlantic.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T13:03:00+00:00"
+    },
+    {
+      "title": "Week Ahead for FX, Bonds: Key Labor Data in Focus Ahead of Fed’s December Rate Decision",
+      "link": "https://www.wsj.com/finance/investing/week-ahead-for-fx-bonds-key-labor-data-in-focus-ahead-of-feds-december-rate-decision-52cad754?mod=rss_markets_main",
+      "summary": "U.S. labor market data, including the key nonfarm payrolls report, will be in focus in the week starting Nov. 30.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T12:51:00+00:00"
+    },
+    {
+      "title": "Allstate Joins Growing List of Companies Hit by Tech Outages",
+      "link": "https://www.wsj.com/finance/allstate-joins-growing-list-of-companies-hit-by-tech-outages-77dbb488?mod=rss_markets_main",
+      "summary": "The multiday outage has left customers struggling to reach the insurer during one of the year’s busiest travel weeks.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T12:48:00+00:00"
+    },
     {
       "title": "How to spot Black Friday shopping scams like ‘bogus boutiques’ and AI-generated product images",
       "link": "https://www.marketwatch.com/story/how-to-spot-bogus-boutiques-and-other-black-friday-shopping-scams-86cc182d?mod=mw_rss_topstories",
@@ -4316,6 +4352,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-27T12:42:00+00:00"
+    },
+    {
+      "title": "First principles to cling to when markets convulse",
+      "link": "https://www.ft.com/content/839c7d2c-adad-4e70-9abd-3cd5bdf5e09e?syn-25a6b1a6=1",
+      "summary": "If you haven’t a clue what to do right now, stick to the investment basics",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-27T12:32:08+00:00"
     },
     {
       "title": "「ぶつかられスマホ壊れた」とうそ　現金詐取容疑で４３歳男逮捕―警視庁",
@@ -4522,6 +4566,14 @@
       "link": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
       "summary": "The euro was flat against the dollar and Brown Brothers Harriman said the ECB leadership change was unlikely to alter the near-term policy outlook had no material implication for the currency.",
       "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T10:49:00+00:00"
+    },
+    {
+      "title": "SAP reportedly set to cut 10,000 jobs — the latest in a brutal year for tech layoffs",
+      "link": "https://www.marketwatch.com/story/sap-reportedly-to-cut-10-000-jobs-it-marks-the-latest-in-a-brutal-year-for-tech-layoffs-c7989744?mod=mw_rss_topstories",
+      "summary": "The German software company is reportedly reducing its workforce by between 9% and 10% to transition to the artificial-intelligence era",
+      "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-27T10:49:00+00:00"
     },
@@ -5249,6 +5301,14 @@
       "title": "Chinese households shed billions in consumer debt",
       "link": "https://www.ft.com/content/8c5e0298-58f0-47e9-a843-513178d9fa2e?syn-25a6b1a6=1",
       "summary": "A three-year decline in mortgages in China is now spreading to consumer loans",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-27T05:00:04+00:00"
+    },
+    {
+      "title": "China’s super-rich have a new obsession: million-dollar fish",
+      "link": "https://www.ft.com/content/5a8b6b3c-c293-4f38-9f14-f5cc6cf98a34?syn-25a6b1a6=1",
+      "summary": "Collectors are spending fortunes on koi, but an economic slowdown and Beijing’s crackdown on conspicuous wealth are threatening the market",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-27T05:00:04+00:00"
