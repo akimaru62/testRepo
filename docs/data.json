@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T09:05:47.161713+00:00",
+  "generated_at": "2026-11-27T09:19:35.986638+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4246,9 +4246,77 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "英検受験、マイナカードで　来年１月、デジ庁が実証実験",
+      "link": "https://www.jiji.com/jc/article?k=2026112700763&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T09:19:32.228354+00:00"
+    },
+    {
+      "title": "参院、関文科相問責を否決　４票差、首相が続投表明へ―消費税審議、来月２日再開",
+      "link": "https://www.jiji.com/jc/article?k=2026112700415&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T09:19:32.228346+00:00"
+    },
+    {
+      "title": "事件直前、管理人室に１～２分滞在　被害者とやりとりか―駐輪場刺殺・福岡県警",
+      "link": "https://www.jiji.com/jc/article?k=2026112700767&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T09:19:32.228336+00:00"
+    },
+    {
+      "title": "政治資金１０４８億円、１１．８％増　パーティー収入、伸長４割弱―２５年収支報告",
+      "link": "https://www.jiji.com/jc/article?k=2026112700702&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T09:19:32.228318+00:00"
+    },
+    {
+      "title": "千葉百音、佐藤駿らＳＰ　長岡柚奈、森口澄士組がペア２位発進―ＮＨＫ杯フィギュア",
+      "link": "https://www.jiji.com/jc/article?k=2026112700737&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T09:19:32.228296+00:00"
+    },
+    {
+      "title": "12月使用分の電気料金、全社で値下がり　政府補助の再開で",
+      "link": "https://www.asahi.com/articles/ASVCW2TFFVCWULFA00WM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-27T09:19:31.986112+00:00"
+    },
+    {
+      "title": "データセンター接続に「ファストパス」　自民提言案、エネ基見直しも",
+      "link": "https://www.asahi.com/articles/ASVCW2T4XVCWULFA014M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-27T09:19:31.986078+00:00"
+    },
+    {
+      "title": "Oil Rises on Middle East Shipping, Infrastructure Attacks",
+      "link": "https://www.wsj.com/finance/commodities-futures/oil-mixed-as-markets-track-mideast-developments-u-s-inventories-6daf3fb1?mod=rss_markets_main",
+      "summary": "Oil prices rose with Brent crude above $97 a barrel as attacks on Gulf shipping and Saudi energy infrastructure kept the geopolitical risk premium high.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T09:12:00+00:00"
+    },
     {
       "title": "Rising Oil Prices Could Weigh on Euro Versus Dollar",
       "link": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
@@ -4272,6 +4340,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-27T08:32:00+00:00"
+    },
+    {
+      "title": "Claude sabotaging SOTA ML research tasks",
+      "link": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "summary": "Article URL: https://twitter.com/RealAstropulse/status/2126119408997466389\nComments URL: https://news.ycombinator.com/item?id=50664325\nPoints: 8\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T08:28:08+00:00"
     },
     {
       "title": "US tech stocks set to jump at open as volatile trading continues",
@@ -4629,6 +4705,14 @@
       "title": "US tech stocks set for rebound",
       "link": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
       "summary": "All-powerful AI trade has been eclipsed by wild swings in a market struggling to price future earnings",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-27T05:00:22+00:00"
+    },
+    {
+      "title": "Middle-class Americans and Europeans have opposite problems",
+      "link": "https://www.ft.com/content/047e1a9d-0448-4ccd-aaec-c5c06125d111?syn-25a6b1a6=1",
+      "summary": "Hoarding by the rich and stagnation for the middle class are different problems for different regions",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-27T05:00:22+00:00"
