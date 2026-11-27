@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T10:47:27.292993+00:00",
+  "generated_at": "2026-11-27T11:05:11.028968+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4274,9 +4274,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "巨大イオンモールが福島・伊達にオープン、山形と宮城も商圏に",
+      "link": "https://www.asahi.com/articles/ASVCW32RWVCWUGTB00MM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-27T11:05:06.977872+00:00"
+    },
+    {
+      "title": "Stocks are poised for a Friday jump — right into a $100 billion wave of automated selling, Goldman Sachs warns",
+      "link": "https://www.marketwatch.com/story/stocks-are-poised-for-a-friday-jump-right-into-a-100-billion-wave-of-automated-selling-goldman-sachs-warns-aba6440f?mod=mw_rss_topstories",
+      "summary": "Goldman Sachs traders say one big bout of selling is left for stocks this year by some trend-following trend funds.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-27T10:54:00+00:00"
+    },
+    {
+      "title": "SAP reportedly to cut 10,000 jobs. It marks the latest in a brutal year for tech layoffs.",
+      "link": "https://www.marketwatch.com/story/sap-reportedly-to-cut-10-000-jobs-it-marks-the-latest-in-a-brutal-year-for-tech-layoffs-c7989744?mod=mw_rss_topstories",
+      "summary": "The German software company is reportedly reducing its workforce by between 9% and 10% to transition to the artificial-intelligence era",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-27T10:49:00+00:00"
+    },
+    {
+      "title": "Fed’s Hawkish Stance Seen Supportive of Dollar",
+      "link": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
+      "summary": "The dollar rose but the Federal Reserve still has a long way to go to get inflation back to its 2% target, Brown Brothers Harriman said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T10:49:00+00:00"
+    },
     {
       "title": "This investment strategist is 100% in cash — and warns that buying the Nasdaq dip is like catching a falling knife",
       "link": "https://www.marketwatch.com/story/this-investment-strategist-is-100-in-cash-and-warns-that-buying-the-nasdaq-dip-is-like-catching-a-falling-knife-64f5b233?mod=mw_rss_topstories",
@@ -4311,6 +4347,14 @@
     },
     {
       "title": "Trump Can’t Rescue The Stock Market. Here’s What Can.",
+      "link": "https://www.wsj.com/finance/stocks/trump-cant-rescue-the-stock-market-heres-what-can-1b97a560?mod=rss_markets_main",
+      "summary": "The president tried to arrest the stock market’s decline by engineering Jensen Huang’s return to Nvidia. To find a bottom, something more fundamental needs to shift.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T10:30:00+00:00"
+    },
+    {
+      "title": "Trump Can’t Rescue the Stock Market. Here’s What Can.",
       "link": "https://www.wsj.com/finance/stocks/trump-cant-rescue-the-stock-market-heres-what-can-1b97a560?mod=rss_markets_main",
       "summary": "The president tried to arrest the stock market’s decline by engineering Jensen Huang’s return to Nvidia. To find a bottom, something more fundamental needs to shift.",
       "source": "WSJ マーケット",
