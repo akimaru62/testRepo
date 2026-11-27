@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T04:05:50.506706+00:00",
+  "generated_at": "2026-11-27T04:20:33.165882+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4154,9 +4154,77 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "問責決議案の投票結果は賛成１２０票、反対１２４票だった",
+      "link": "https://www.jiji.com/jc/article?k=2026112700412&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T04:20:28.727708+00:00"
+    },
+    {
+      "title": "神崎武法氏が死去、８３歳　自公連立の土台築く",
+      "link": "https://www.jiji.com/jc/article?k=2026112700467&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T04:20:28.727689+00:00"
+    },
+    {
+      "title": "公明党の神崎武法（かんざき・たけのり）元代表が死去した。８３歳だった",
+      "link": "https://www.jiji.com/jc/article?k=2026112700464&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T04:20:28.727672+00:00"
+    },
+    {
+      "title": "参院は文科相の問責決議案を否決した",
+      "link": "https://www.jiji.com/jc/article?k=2026112700410&g=flash&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T04:20:28.727653+00:00"
+    },
+    {
+      "title": "参院、関文科相問責案を否決　与党、消費税審議再開要請へ",
+      "link": "https://www.jiji.com/jc/article?k=2026112700415&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T04:20:28.727627+00:00"
+    },
+    {
+      "title": "旧名鉄百貨店本店1階に「無印良品」出店　2027年3月の開業予定",
+      "link": "https://www.asahi.com/articles/ASVCV3HN3VCVULFA01VM.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-27T04:20:28.425541+00:00"
+    },
+    {
+      "title": "An exiled former leader faces execution at home. Why does she want to go back?",
+      "link": "https://www.ft.com/content/80ab796b-c870-4f82-b630-514acb72f6ec?syn-25a6b1a6=1",
+      "summary": "Ousted as Bangladesh’s prime minister two years ago, Sheikh Hasina says she will return next month despite being sentenced in absentia to death",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-27T04:00:58+00:00"
+    },
+    {
+      "title": "会社四季報×東洋経済オンラインイベントを12/18開催｢2027年経済･株式相場大予測!｣ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/966053?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "東洋経済オンラインでは有料会員読者向けのリアルイベントを開催しています。東洋経済オンラインの人気連載執筆者やその連載テーマのキーパーソンの方などを招き､リアルな空間で､話題のテーマについて徹底的に掘…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T04:00:00+00:00"
+    },
     {
       "title": "流動性供給(第466回)入札結果",
       "link": "https://www.mof.go.jp/jgbs/auction/calendar/nyusatsu/resul20261127.htm",
@@ -4236,6 +4304,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-27T02:53:22+00:00"
+    },
+    {
+      "title": "New AI research suggests AI bubble bursting and to expect major market collapse",
+      "link": "https://www.london.edu/think/ai-bubble-about-to-burst",
+      "summary": "Article URL: https://www.london.edu/think/ai-bubble-about-to-burst\nComments URL: https://news.ycombinator.com/item?id=50662153\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T02:44:12+00:00"
     },
     {
       "title": "Asian Currencies Might Be Weighed by AI Uncertainties",
