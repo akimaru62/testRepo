@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T02:47:33.459345+00:00",
+  "generated_at": "2026-11-27T03:06:20.126477+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4134,9 +4134,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "トヨタ、福岡EV電池工場の建設を3度目の延期　EV需要鈍化で",
+      "link": "https://www.asahi.com/articles/ASVCT24T2VCTULFA010M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-27T03:06:15.120839+00:00"
+    },
+    {
+      "title": "Korean Won Poised to Strengthen Against Dollar in 2027",
+      "link": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
+      "summary": "The South Korean won appears poised to strengthen further against the dollar in 2027, said ING.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T03:01:00+00:00"
+    },
+    {
+      "title": "｢社会を変えてやろう｣というのは邪心？　ゆるスポーツ協会代表が語る､無邪気に働くということの意味 | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/962873?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "競争や適応が重視される現代社会で､｢正解｣に縛られて生きづらさを感じていませんか？\"ゆる\"の精神で活動する澤田智洋氏と窪田良氏が､画一性をほどく働き方や多様性の可能性について語ります。\"ゆる\"という…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T03:00:00+00:00"
+    },
     {
       "title": "Asian Currencies Might Be Weighed by AI Uncertainties",
       "link": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
@@ -5408,6 +5436,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-26T12:36:00+00:00"
+    },
+    {
+      "title": "Can AI replace economics PhDs?",
+      "link": "https://www.ft.com/content/e4d14f96-c223-4c80-ad93-28a8a545beb1?syn-25a6b1a6=1",
+      "summary": "An interview with Jason Furman, economics professor at Harvard University and former chair of President Obama’s Council of Economic Advisors",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-26T12:30:06+00:00"
     },
     {
       "title": "スバル 4車種約18万台リコール",
