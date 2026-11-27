@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T20:33:31.217329+00:00",
+  "generated_at": "2026-11-27T20:47:39.904947+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4438,9 +4438,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "U.S. Natural Gas Futures Fall on Milder Near-Term Weather Outlook",
+      "link": "https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-fall-as-front-month-shifts-to-january-3b1ef621?mod=rss_markets_main",
+      "summary": "U.S. natural gas futures settled lower with the Nymex January contract falling 4.5% to $3.491/mmBtu in its first trading day at the front of the curve.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T20:44:00+00:00"
+    },
     {
       "title": "日本人の大好きな｢アジフライ｣の形が変わりつつある…国産アジの漁獲量激減で引き起こされた\"食卓の異変\" | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/966170?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -307463,6 +307475,14 @@
       "source": "ロイター",
       "category": "報道機関",
       "published": "2024-03-31T13:55:47+00:00"
+    },
+    {
+      "title": "601985.SH - | Stock Price & Latest News - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtYW5LX3c2OTNmbWs5ZnpTQVVLaFo5WEFuUGl3a3hSbTJ3aDJOb1dJRkdjaldLWmVqc1lNNXdCOEhtTEtqamh3Vi1QbG92N3gyUkhMZEdiYkY5RXhlZDBPUg?oc=5",
+      "summary": "601985.SH - | Stock Price & Latest News&nbsp;&nbsp;Reuters",
+      "source": "ロイター",
+      "category": "報道機関",
+      "published": "2024-03-29T14:06:41+00:00"
     },
     {
       "title": "SYNTS.L - Reuters",
