@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T02:34:51.603446+00:00",
+  "generated_at": "2026-11-27T02:47:33.459345+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4130,9 +4130,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Asian Currencies Might Be Weighed by AI Uncertainties",
+      "link": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
+      "summary": "Asian currencies could be weighed down by artificial intelligence uncertainties, DBS said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T02:44:00+00:00"
+    },
     {
       "title": "井林国交相、国と契約の企業から選挙期間中に寄付　違法性は否定",
       "link": "https://www.asahi.com/articles/ASVCW0PG1VCWULFA021M.html?ref=rss",
@@ -4140,6 +4152,22 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-27T02:34:44.218963+00:00"
+    },
+    {
+      "title": "〈紛糾するリゾート開発〉トランプ一族の炎上計画をブルーウェーブの米議会が追及へ…｢ヨーロッパの北朝鮮｣現地を歩く | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965593?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "2027年､米民主党の調査が予告される中､トランプ一族のアルバニア高級リゾート開発計画が現地で大規模な暴動｢フラミンゴ革命｣を引き起こしています。自然保護区の破壊疑惑､資金洗浄､不透明な契約……この…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T02:30:00+00:00"
+    },
+    {
+      "title": "オリックス､高収益･高ROE･好財務の｢三兎｣を追う野望､｢持つ｣｢売る｣を経て｢持たざる経営｣へ | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965462?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "1964年7月、金沢市内のスーパーマーケットが4台のレジを導入した。ただし、スーパー側はレジを買うのではなく、代金200万円と金利11％を3年かけて支払う契約を結んだ。「リース業」が日本で幕を開けた…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T02:30:00+00:00"
     },
     {
       "title": "防衛省、ＡＩ活用で新指針　５原則「判断は人間」",
@@ -4316,6 +4344,14 @@
       "source": "日本銀行",
       "category": "公的機関",
       "published": "2026-11-27T01:15:00+00:00"
+    },
+    {
+      "title": "Hard Drive pricing has gotten bad",
+      "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "summary": "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/\nComments URL: https://news.ycombinator.com/item?id=50661646\nPoints: 14\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T01:13:49+00:00"
     },
     {
       "title": "｢資本主義か社会主義か｣の対立はもう古い　米ロの拡張主義が限界を迎える今､世界を分かつ｢新たな対立軸｣とは | 政治・経済・投資 | 東洋経済オンライン",
