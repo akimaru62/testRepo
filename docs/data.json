@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T16:47:35.698331+00:00",
+  "generated_at": "2026-11-27T17:05:05.881132+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4374,9 +4374,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Wave of cyber incidents rattles western economies",
+      "link": "https://www.ft.com/content/6ab1172b-4f27-49f5-ad53-b384df82da77?syn-25a6b1a6=1",
+      "summary": "UK Department for Work and Pensions, Fifa and the US Treasury among institutions hit by outages as concerns grow over threat from AI",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-27T16:19:21+00:00"
+    },
     {
       "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
       "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
