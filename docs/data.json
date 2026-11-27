@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T00:12:52.107235+00:00",
+  "generated_at": "2026-11-27T00:40:36.410218+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4090,9 +4090,61 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "《愛嬌も社交性もいらない人間関係のコツ》｢で､結論は？｣と遮る\"嫌な上司\"も､AIを通したら｢話の通じる人｣に見えてきた | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965308?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "苦手な取引先や上司との付き合い方に悩む人は多くいます。AIに｢相手の取扱説明書｣を作らせることで､円滑な人間関係が築ける新しい時代が到来しています。その具体的なやり方をお伝えします。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T00:30:00+00:00"
+    },
+    {
+      "title": "財政融資資金預託金利（令和8年12月1日以降適用）",
+      "link": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir8/yotaku20261127.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-27T00:30:00+00:00"
+    },
+    {
+      "title": "財政融資資金貸付金利（令和8年12月1日以降適用）",
+      "link": "https://www.mof.go.jp/policy/filp/reference/flf_interest_rate/kinrir8/kashi20261127.html",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-27T00:30:00+00:00"
+    },
+    {
+      "title": "国債金利情報(令和8年11月26日)",
+      "link": "https://www.mof.go.jp/jgbs/reference/interest_rate/jgbcm.csv",
+      "summary": "",
+      "source": "財務省",
+      "category": "公的機関",
+      "published": "2026-11-27T00:30:00+00:00"
+    },
+    {
+      "title": "Gold Stabilizes But Faces Fragile Recovery",
+      "link": "https://www.wsj.com/finance/commodities-futures/gold-fortunes-tied-to-stocks-in-near-term-42ce98be?mod=rss_markets_main",
+      "summary": "Gold prices were little changed. A hawkish Federal Reserve sets a high bar for a durable gold recovery, StoneX said.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T00:25:00+00:00"
+    },
+    {
+      "title": "Nikkei Rises 0.4%, Led by Banks, Trading Houses",
+      "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-4-led-by-banks-trading-houses-7e23720e?mod=rss_markets_main",
+      "summary": "Japanese stocks were higher in early trade as recent selloffs in artificial intelligence-related stocks ease.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T00:18:00+00:00"
+    },
     {
       "title": "クウェートに無人機攻撃　イタリア人２人死亡、イランは関与否定",
       "link": "https://www.jiji.com/jc/article?k=2026112700154&g=int&m=rss",
@@ -4566,6 +4618,14 @@
       "published": "2026-11-26T19:18:09+00:00"
     },
     {
+      "title": "Rvoip: VoIP stack in Rust",
+      "link": "https://github.com/eisenzopf/rvoip",
+      "summary": "Article URL: https://github.com/eisenzopf/rvoip\nComments URL: https://news.ycombinator.com/item?id=50658632\nPoints: 71\n# Comments: 15",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T19:18:09+00:00"
+    },
+    {
       "title": "Opinion | Zohran Mamdani Has a Nvidia Revelation",
       "link": "https://www.wsj.com/opinion/zohran-mamdani-has-a-nvidia-revelation-1e048235?mod=rss_markets_main",
       "summary": "New York’s mayor discovers that city pensions depend on stock-market returns.",
@@ -4633,6 +4693,14 @@
       "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
       "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
       "summary": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/\nComments URL: https://news.ycombinator.com/item?id=50657645\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T17:47:45+00:00"
+    },
+    {
+      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/\nComments URL: https://news.ycombinator.com/item?id=50657645\nPoints: 194\n# Comments: 87",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-26T17:47:45+00:00"
