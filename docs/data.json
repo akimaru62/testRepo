@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T22:05:16.625717+00:00",
+  "generated_at": "2026-11-27T22:17:35.314482+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4462,9 +4462,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "米空軍の中核システムに不正侵入　被害の全容把握急ぐ―報道",
+      "link": "https://www.jiji.com/jc/article?k=2026112800105&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T22:17:31.064874+00:00"
+    },
+    {
+      "title": "アメリカで年末商戦本格化　「ブラックフライデー」、物価高でも消費堅調―格差は拡大",
+      "link": "https://www.jiji.com/jc/article?k=2026112800088&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T22:17:31.064841+00:00"
+    },
+    {
+      "title": "｢ラッコ展示ゼロ｣の危機を救った｢海遊館｣の執念と快挙　\"かわいいだけじゃない\"ラッコの展示再開が示す､5つの意義 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/966190?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "9年ぶりに大阪･海遊館でラッコの展示が再開されるというニュースが注目を集めています。絶滅危惧種で国内飼育が激減する中､アラスカから迎えた4頭は､単なる\"癒やし\"を超えた5つの意義を持つ存在になってい…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T22:00:00+00:00"
+    },
+    {
+      "title": "筑波大､広島大､東京理科大､日大…学閥が物言う世界で校長12年の人物が福島大特任教授になるまで アカデミックシフト22 | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965623?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "大学教員には華やかな経歴だけでなく､現場で培った実務経験や人脈が重要視される時代です。教育学の世界は学閥が物を言い､特定大学の出身者が有利とされます。その中で小中5校で校長を12年務めた元校長は､学…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-27T22:00:00+00:00"
+    },
     {
       "title": "｢月給35万円は安すぎ｣｢富豪なのに｣とSNS炎上…前澤社長アシスタント募集内容に批判殺到も\"ノーダメージ\"の必然 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/966161?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -4704,6 +4740,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-27T20:25:15+00:00"
+    },
+    {
+      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "link": "https://github.com/skeeto/prospero",
+      "summary": "Article URL: https://github.com/skeeto/prospero\nComments URL: https://news.ycombinator.com/item?id=50671275\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T20:23:14+00:00"
     },
     {
       "title": "その代償は意外と大きかった… 関文科相の問責決議｢薄氷の否決｣で忍び寄る自民･維新連立\"不吉な不協和音\"の正体 | 政治・経済・投資 | 東洋経済オンライン",
