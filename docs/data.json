@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T05:33:40.069608+00:00",
+  "generated_at": "2026-11-27T05:47:52.129687+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4178,9 +4178,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "貨物列車が牛と衝突 巻き込み停車",
+      "link": "https://news.yahoo.co.jp/pickup/6604187?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-27T05:38:41+00:00"
+    },
     {
       "title": "Australia Orders LNG Exporters Reserve Some Gas to Plug Shortages at Home",
       "link": "https://www.wsj.com/finance/commodities-futures/australia-orders-lng-exporters-reserve-some-gas-to-plug-shortages-at-home-72d6fe9b?mod=rss_markets_main",
@@ -4212,6 +4224,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-27T05:01:00+00:00"
+    },
+    {
+      "title": "Kirkland & Ellis under fire from private equity backers over sell-to-yourself deals",
+      "link": "https://www.ft.com/content/5cc534e6-d461-4fc7-a744-b938e54eee1d?syn-25a6b1a6=1",
+      "summary": "Lawyers say contracts for so-called continuation vehicles remove investors’ right to sue in event of dispute",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-27T05:00:23+00:00"
     },
     {
       "title": "The US and Europe have opposite economic problems",
@@ -4254,7 +4274,23 @@
       "published": "2026-11-27T05:00:13+00:00"
     },
     {
+      "title": "Is the Fed ready for its next fight?",
+      "link": "https://www.ft.com/content/71ffa69f-2a07-44e4-8305-ae5548b89828?syn-25a6b1a6=1",
+      "summary": "US central bank officials face a three-dimensional tussle over inflation, AI and guidance",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-27T05:00:13+00:00"
+    },
+    {
       "title": "Chinese households shed trillions in consumer debt",
+      "link": "https://www.ft.com/content/8c5e0298-58f0-47e9-a843-513178d9fa2e?syn-25a6b1a6=1",
+      "summary": "A three-year decline in mortgages in China is now spreading to consumer loans",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-27T05:00:04+00:00"
+    },
+    {
+      "title": "Chinese households shed billions in consumer debt",
       "link": "https://www.ft.com/content/8c5e0298-58f0-47e9-a843-513178d9fa2e?syn-25a6b1a6=1",
       "summary": "A three-year decline in mortgages in China is now spreading to consumer loans",
       "source": "Financial Times",
