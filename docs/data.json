@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T12:08:08.521736+00:00",
+  "generated_at": "2026-11-27T12:24:35.891689+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4294,9 +4294,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "「ぶつかられスマホ壊れた」とうそ　現金詐取容疑で４３歳男逮捕―警視庁",
+      "link": "https://www.jiji.com/jc/article?k=2026112700910&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T12:24:30.795378+00:00"
+    },
+    {
+      "title": "崩れなかった千葉百音　表現も忘れず―ＮＨＫ杯フィギュア",
+      "link": "https://www.jiji.com/jc/article?k=2026112700916&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T12:24:30.795364+00:00"
+    },
+    {
+      "title": "殺人未遂容疑で男子中学生逮捕　自宅で姉刺され、母親もけが―静岡",
+      "link": "https://www.jiji.com/jc/article?k=2026112700818&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T12:24:30.795326+00:00"
+    },
     {
       "title": "Nvidia’s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead",
       "link": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories",
@@ -4344,6 +4372,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-27T11:33:10.192743+00:00"
+    },
+    {
+      "title": "Japanese carmakers’ sales collapse amid China market plunge",
+      "link": "https://www.ft.com/content/f627ff39-58e4-4def-8e79-794d3dc2996b?syn-25a6b1a6=1",
+      "summary": "Nissan’s October sales in the country tumbled 67%, the lowest monthly figure since the Covid-19 pandemic",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-27T11:31:30+00:00"
     },
     {
       "title": "Stocks Poised to End Week Strong as Investors Take Break From AI Jitters",
