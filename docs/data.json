@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T07:20:03.714406+00:00",
+  "generated_at": "2026-11-27T07:33:22.001397+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4214,9 +4214,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "U.S. 10-Year Treasury Yield Likely Has Seen Cycle Peak",
+      "link": "https://www.wsj.com/finance/investing/short-term-jgb-yields-rise-on-elevated-tokyo-inflation-data-713a900b?mod=rss_markets_main",
+      "summary": "The 10-year Treasury yield rose, with  SEB saying it might have seen its cycle peak, but adding it was too early to anticipate a sustained fall.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T07:25:00+00:00"
+    },
+    {
+      "title": "Chinese Shares Lifted as Beijing Signals More Market Support",
+      "link": "https://www.wsj.com/finance/stocks/chinese-shares-lifted-as-beijing-signals-more-market-support-3a1d1468?mod=rss_markets_main",
+      "summary": "Authorities reiterated support for capital markets and vowed stabilization policies, amid increased volatility in global markets.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T07:22:00+00:00"
+    },
+    {
+      "title": "Euro Firms Against Dollar but Could Weaken on Longer Term",
+      "link": "https://www.wsj.com/finance/currencies/australia-dollars-weakness-to-extend-into-2027-0354864b?mod=rss_markets_main",
+      "summary": "The euro firmed slightly against the dollar, though with room to weaken on a six- to 12-month horizon, according to Danske Bank.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T07:20:00+00:00"
+    },
     {
       "title": "絶滅危惧種「キタイワトビペンギン」の人工授精に成功、世界初―和歌山・アドベンチャーワールド",
       "link": "https://www.jiji.com/jc/article?k=2026112700623&g=soc&m=rss",
