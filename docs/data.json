@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T11:33:15.015497+00:00",
+  "generated_at": "2026-11-27T11:47:48.222125+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4286,9 +4286,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "日本に支援事務所設置へ　３カ国と加入交渉入り―ＴＰＰ閣僚級会合",
+      "link": "https://www.jiji.com/jc/article?k=2026112700855&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-27T11:47:43.668552+00:00"
+    },
+    {
+      "title": "運転免許証やマイナンバーカード画像1592件漏洩　マネックス証券",
+      "link": "https://www.asahi.com/articles/ASVCW3Q3DVCWULFA023M.html?ref=rss",
+      "summary": "",
+      "source": "朝日新聞 経済",
+      "category": "報道機関",
+      "published": "2026-11-27T11:47:43.529968+00:00"
+    },
     {
       "title": "北海道新幹線の事業費「3.4兆円」　国の有識者会議が報告書",
       "link": "https://www.asahi.com/articles/ASVCW3Q2WVCWULFA01XM.html?ref=rss",
