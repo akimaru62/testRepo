@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T10:33:32.432304+00:00",
+  "generated_at": "2026-11-27T10:47:27.292993+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4270,9 +4270,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "This investment strategist is 100% in cash — and warns that buying the Nasdaq dip is like catching a falling knife",
+      "link": "https://www.marketwatch.com/story/this-investment-strategist-is-100-in-cash-and-warns-that-buying-the-nasdaq-dip-is-like-catching-a-falling-knife-64f5b233?mod=mw_rss_topstories",
+      "summary": "Strategist Darius Dale’s model portfolios both turned bearish earlier in the fall, with concerns about an overheating economy, too-hot inflation and upward pressure on interest rates. At some point, the market will start to discount an easing cycle and better conditions for risk-on, but not yet.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-27T10:37:00+00:00"
+    },
     {
       "title": "参院、関文科相問責を否決　４票差、首相が続投支持―消費税審議、１２月２日再開",
       "link": "https://www.jiji.com/jc/article?k=2026112700415&g=pol&m=rss",
@@ -4288,6 +4300,22 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-27T10:33:27.769491+00:00"
+    },
+    {
+      "title": "The AI stock crash is mostly over, JPMorgan says — but a worse phase could be coming in 2027",
+      "link": "https://www.marketwatch.com/story/the-ai-stock-crash-is-mostly-over-jpmorgan-says-but-a-worse-phase-could-be-coming-in-2027-fa769fbd?mod=mw_rss_topstories",
+      "summary": "The crash in artificial-intelligence stocks has just about run its course, but a worse phase could be in store for next year, say JPMorgan’s European quant team.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-27T10:32:00+00:00"
+    },
+    {
+      "title": "Trump Can’t Rescue The Stock Market. Here’s What Can.",
+      "link": "https://www.wsj.com/finance/stocks/trump-cant-rescue-the-stock-market-heres-what-can-1b97a560?mod=rss_markets_main",
+      "summary": "The president tried to arrest the stock market’s decline by engineering Jensen Huang’s return to Nvidia. To find a bottom, something more fundamental needs to shift.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T10:30:00+00:00"
     },
     {
       "title": "トクリュウ首謀者摘発へ東京地検に専門班　最高検「厳罰化」方針",
@@ -4408,6 +4436,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-27T09:47:27.979103+00:00"
+    },
+    {
+      "title": "'Cyber incident' forces UK Gov to take some services offline",
+      "link": "https://www.bbc.co.uk/news/live/c6rrg94lgjrjt",
+      "summary": "Article URL: https://www.bbc.co.uk/news/live/c6rrg94lgjrjt\nComments URL: https://news.ycombinator.com/item?id=50664885\nPoints: 9\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T09:44:37+00:00"
     },
     {
       "title": "GMO サイバー攻撃防ぐ構想発表",
