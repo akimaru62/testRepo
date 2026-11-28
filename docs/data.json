@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T11:04:47.269726+00:00",
+  "generated_at": "2026-11-28T11:17:51.361543+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4678,9 +4678,33 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja",
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site:jp.reuters.com%20when:3d&hl=ja&gl=JP&ceid=JP:ja"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "オンブズマン４．４倍　競馬ジャパンカップ",
+      "link": "https://www.jiji.com/jc/article?k=2026112800301&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T11:17:37.842157+00:00"
+    },
+    {
+      "title": "台湾地方選、与党伸長か　９県市長リード、台北焦点",
+      "link": "https://www.jiji.com/jc/article?k=2026112800305&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T11:17:37.842127+00:00"
+    },
     {
       "title": "柏快勝、２位に浮上　Ｊ１",
       "link": "https://www.jiji.com/jc/article?k=2026112800300&g=spo&m=rss",
