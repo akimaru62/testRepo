@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T10:33:20.855797+00:00",
+  "generated_at": "2026-11-28T10:47:34.516825+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4670,9 +4670,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "柏快勝、２位に浮上　Ｊ１",
+      "link": "https://www.jiji.com/jc/article?k=2026112800300&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T10:47:29.224447+00:00"
+    },
     {
       "title": "けが乗り越えて輝く　若き２人がファイナルへ―ＮＨＫ杯フィギュア・長岡、森口組",
       "link": "https://www.jiji.com/jc/article?k=2026112800290&g=spo&m=rss",
@@ -4720,6 +4732,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-28T08:47:34.645937+00:00"
+    },
+    {
+      "title": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+      "link": "https://fleetlayer.ai/",
+      "summary": "Hi HN! I ran into many problems when I started running lots of Claude Code sessions in parallel. I quickly ran out of usage, so I signed up for more Claude subs (which Anthropic terms allow.)Running so many different accounts meant that I couldn't use claude.ai artifacts anymore, because the browser has to be signed in to the same account in order to access them. It's a pain to keep signing in and out of accounts. This also broke the Claude in Chrome extension because that can also only be signed into a single account.Then I needed to manage AI agents that run on my laptop, a VM on my laptop, and multiple VMs on my home server. Claude Code has a messaging feature which is very useful, but agents can't see each other when they run on different machines. The Claude in Chrome extension only works for agents running on the same machine, so my remote agents couldn't help me with anything in the browser. It's really handy when they can access services that I'm already signed into.I set out to solve all of these problems and I ended up building Fleetlayer. It's a control plane and a node binary that you run on all your machines and VMs to connect them all together. It connects to Herdr (and other session managers soon), and it makes it possible for all your AI agents to message each other and access tools and resources on other machines (with permission.)It has a lot more features too: routing webhooks to agents, single sign-on, access rules, approvals, audit logs, remote terminals, remote browser sharing, centralized AI account sign-ins, session summaries, secrets management, and pages and apps (our own self-hosted version of claude.ai artifacts).A few ways to think of it:- The \"Nextcloud\" of claude.ai features (your own self-hosted artifacts, remote control, browser use, etc.)- The \"Arch Linux\" of OpenClaw (build your own agentic systems from swappable components and plugins)You can run everything on your laptop to try it out, then easily move any component to a different machine. If you want to build a proper production-grade home server to run many AI agents, Rust builds, and CI runners, I've also open sourced my own setup as a boilerplate IaC example repo. You just need to install Proxmox and then point your AI agent at the guide [1].I'd be interested to know if anyone else would find Fleetlayer useful. Please let me know if you have any feature requests![1] https://fleetlayer.ai/docs/guides/server-setup/\n\nComments URL: https://news.ycombinator.com/item?id=50675831\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T08:37:09+00:00"
     },
     {
       "title": "「最後の拉致担当政権に」　木原官房長官、拉致現場視察",
@@ -4885,6 +4905,14 @@
       "title": "US military repelled drones at RAF base",
       "link": "https://www.ft.com/content/57795d58-2b9e-45cb-81e3-6c63aee434a4?syn-25a6b1a6=1",
       "summary": "New details emerge about incident at RAF Lakenheath in Suffolk earlier this month",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-28T05:00:41+00:00"
+    },
+    {
+      "title": "England’s post-Brexit fishing windfall swept up by Dutch tycoon",
+      "link": "https://www.ft.com/content/13566b4a-e996-4029-829b-94fb89a76841?syn-25a6b1a6=1",
+      "summary": "Smaller operators initially won a quarter of quotas, but their share dwindled to less than 1 per cent in 2025",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-28T05:00:41+00:00"
