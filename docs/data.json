@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T18:05:52.740439+00:00",
+  "generated_at": "2026-11-28T18:19:08.186382+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4802,9 +4802,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Netanyahu offers Eisenkot first turn as prime minister in grand coalition bid",
+      "link": "https://www.ft.com/content/26da81df-9d4c-48d4-b72b-081090948649?syn-25a6b1a6=1",
+      "summary": "Israeli premier presents rival with a potential compromise as he attempts to cling to power after inconclusive election results",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-28T18:05:51+00:00"
+    },
+    {
+      "title": "Donald Knuth suspends error bounties due to an influx of AI-generated reports",
+      "link": "https://cs.stanford.edu/~knuth/moratorium.html",
+      "summary": "Article URL: https://cs.stanford.edu/~knuth/moratorium.html\nComments URL: https://news.ycombinator.com/item?id=50680168\nPoints: 13\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T17:53:02+00:00"
+    },
+    {
+      "title": "The race is not inevitable",
+      "link": "https://ryo.lu/journal/the-race-is-not-inevitable",
+      "summary": "Article URL: https://ryo.lu/journal/the-race-is-not-inevitable\nComments URL: https://news.ycombinator.com/item?id=50680085\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T17:45:23+00:00"
+    },
     {
       "title": "Computer Disease",
       "link": "https://blog.adafruit.com/2020/01/13/richard-feynman-on-computer-disease/",
@@ -4828,6 +4856,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-28T16:48:03+00:00"
+    },
+    {
+      "title": "GTA 6 Graphics Rendering: What We Know So Far",
+      "link": "https://ben3d.ca/blog/gta-6-graphics-rendering-what-we-know-so-far",
+      "summary": "Article URL: https://ben3d.ca/blog/gta-6-graphics-rendering-what-we-know-so-far\nComments URL: https://news.ycombinator.com/item?id=50679288\nPoints: 12\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T16:35:03+00:00"
     },
     {
       "title": "The Last Thing They Said",
