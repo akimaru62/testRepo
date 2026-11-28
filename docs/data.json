@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T08:05:53.731287+00:00",
+  "generated_at": "2026-11-28T08:19:58.188223+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4626,9 +4626,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "「最後の拉致担当政権に」　木原官房長官、拉致現場視察",
+      "link": "https://www.jiji.com/jc/article?k=2026112800251&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T08:19:52.818578+00:00"
+    },
+    {
+      "title": "原潜導入「検討し結論」　３文書明記で政府調整",
+      "link": "https://www.jiji.com/jc/article?k=2026112800078&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T08:19:52.818566+00:00"
+    },
+    {
+      "title": "拘束された邦人記者妻の手記、ロシアメディアが相次ぎ報道　「文化に深い愛着」とも",
+      "link": "https://www.jiji.com/jc/article?k=2026112800259&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T08:19:52.818547+00:00"
+    },
+    {
+      "title": "千葉百音、佐藤駿らフリー　長岡柚奈、森口澄士組がファイナルへ―ＮＨＫ杯フィギュア",
+      "link": "https://www.jiji.com/jc/article?k=2026112800257&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T08:19:52.818517+00:00"
+    },
     {
       "title": "書店がYouTube 10分で4千冊完売",
       "link": "https://news.yahoo.co.jp/pickup/6604312?source=rss",
@@ -4828,6 +4864,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-28T03:55:15+00:00"
+    },
+    {
+      "title": "Knuth: Moratorium on Error Reports",
+      "link": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
+      "summary": "Article URL: https://www-cs-faculty.stanford.edu/~knuth/moratorium.html\nComments URL: https://news.ycombinator.com/item?id=50674452\nPoints: 12\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T03:49:21+00:00"
     },
     {
       "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
