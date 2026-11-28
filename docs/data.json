@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T04:33:24.642912+00:00",
+  "generated_at": "2026-11-28T04:47:42.116414+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4566,9 +4566,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "「ゆで太郎」会員制度やめた理由",
+      "link": "https://news.yahoo.co.jp/pickup/6604290?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-28T04:37:14+00:00"
+    },
     {
       "title": "【独自】筑波大、記録申請で不適正行為　非公認施設でハンマー投げ―陸上",
       "link": "https://www.jiji.com/jc/article?k=2026112701021&g=spo&m=rss",
@@ -4592,6 +4604,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-28T04:00:00+00:00"
+    },
+    {
+      "title": "Claude silently added rules to ignore users skintone preferences in our app",
+      "link": "https://twitter.com/jakozloski/status/2126281598517576049",
+      "summary": "Article URL: https://twitter.com/jakozloski/status/2126281598517576049\nComments URL: https://news.ycombinator.com/item?id=50674489\nPoints: 20\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T03:55:15+00:00"
     },
     {
       "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
