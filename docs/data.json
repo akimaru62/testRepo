@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T17:17:30.380977+00:00",
+  "generated_at": "2026-11-28T17:32:58.470948+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4790,6 +4790,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -4800,6 +4804,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-28T17:00:05+00:00"
+    },
+    {
+      "title": "10x faster than Spark on a laptop",
+      "link": "https://krishiv.ai/blog/krishiv-0-2-10x-faster-than-spark",
+      "summary": "Article URL: https://krishiv.ai/blog/krishiv-0-2-10x-faster-than-spark\nComments URL: https://news.ycombinator.com/item?id=50679459\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T16:48:03+00:00"
     },
     {
       "title": "If AI takes every job who will buy things?",
