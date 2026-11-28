@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T17:32:58.470948+00:00",
+  "generated_at": "2026-11-28T17:47:28.375598+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4794,9 +4794,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Computer Disease",
+      "link": "https://blog.adafruit.com/2020/01/13/richard-feynman-on-computer-disease/",
+      "summary": "Article URL: https://blog.adafruit.com/2020/01/13/richard-feynman-on-computer-disease/\nComments URL: https://news.ycombinator.com/item?id=50679708\nPoints: 7\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T17:12:25+00:00"
+    },
     {
       "title": "The Russian billionaire with a secret stake in Tether",
       "link": "https://www.ft.com/content/260cdf2f-f878-4b00-9ea3-5253d7697d13?syn-25a6b1a6=1",
@@ -4812,6 +4824,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-28T16:48:03+00:00"
+    },
+    {
+      "title": "The Last Thing They Said",
+      "link": "https://socialhome.network/content/31594834",
+      "summary": "Article URL: https://socialhome.network/content/31594834\nComments URL: https://news.ycombinator.com/item?id=50679130\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T16:20:35+00:00"
     },
     {
       "title": "If AI takes every job who will buy things?",
@@ -5644,6 +5664,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-28T00:12:34.434496+00:00"
+    },
+    {
+      "title": "Civet: TypeScript superset that favors more types and less typing",
+      "link": "https://github.com/DanielXMoore/Civet",
+      "summary": "Article URL: https://github.com/DanielXMoore/Civet\nComments URL: https://news.ycombinator.com/item?id=50672992\nPoints: 6\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T00:12:12+00:00"
     },
     {
       "title": "西友 トライアル西友に変え客数増",
