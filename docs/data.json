@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T16:17:44.228243+00:00",
+  "generated_at": "2026-11-28T16:33:22.721770+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4774,9 +4774,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "GTA VI writer behind female protagonist deletes X account after online hate",
+      "link": "https://www.cbc.ca/lite/story/9.7438910",
+      "summary": "Article URL: https://www.cbc.ca/lite/story/9.7438910\nComments URL: https://news.ycombinator.com/item?id=50678898\nPoints: 12\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T15:55:42+00:00"
+    },
     {
       "title": "ロッテ、１位米沢と仮契約　目標は１０勝、新人王―プロ野球・入団交渉",
       "link": "https://www.jiji.com/jc/article?k=2026112800309&g=bsb&m=rss",
@@ -4824,6 +4836,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-28T14:42:41+00:00"
+    },
+    {
+      "title": "Google will soon share Android developers' addresses publicly",
+      "link": "https://www.engadget.com/2329389/google-will-soon-share-android-developers-addresses-publicly/",
+      "summary": "Article URL: https://www.engadget.com/2329389/google-will-soon-share-android-developers-addresses-publicly/\nComments URL: https://news.ycombinator.com/item?id=50678026\nPoints: 18\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T14:23:44+00:00"
     },
     {
       "title": "巻き返した中田　ＮＨＫ杯フィギュア",
@@ -5336,6 +5356,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-28T05:00:32+00:00"
+    },
+    {
+      "title": "The little court that’s never been busier. Or under more pressure",
+      "link": "https://www.ft.com/content/1c5e962f-d2db-4ecc-8ab8-0294c1d41dbe",
+      "summary": "Critics are determined to dismantle it but the ICC’s trial of former Philippines president Rodrigo Duterte is the biggest in its history",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-28T05:00:25+00:00"
     },
     {
       "title": "Five US multinationals pay more tax to Ireland than anywhere else",
