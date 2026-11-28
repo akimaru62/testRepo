@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T01:34:25.905826+00:00",
+  "generated_at": "2026-11-28T01:47:30.123857+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4518,9 +4518,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "南海フェリー 撤退回避の壁高く",
+      "link": "https://news.yahoo.co.jp/pickup/6604277?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-28T01:39:51+00:00"
+    },
     {
       "title": "高橋光成投手、Ｄバックスと合意　西武から海外ＦＡ―米大リーグ",
       "link": "https://www.jiji.com/jc/article?k=2026112800169&g=spo&m=rss",
@@ -4528,6 +4540,22 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-28T01:34:19.496843+00:00"
+    },
+    {
+      "title": "疲弊する管理職 重荷を下ろす制度",
+      "link": "https://news.yahoo.co.jp/pickup/6604276?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-28T01:34:03+00:00"
+    },
+    {
+      "title": "Alaska seized his plane over some beers. He is asking the Supreme Court for help",
+      "link": "https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/",
+      "summary": "Article URL: https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/\nComments URL: https://news.ycombinator.com/item?id=50673444\nPoints: 9\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T01:20:16+00:00"
     },
     {
       "title": "高橋光成投手、Ｄバックスと合意　西武からＦＡ―米大リーグ",
