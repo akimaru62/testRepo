@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T00:12:39.246499+00:00",
+  "generated_at": "2026-11-28T00:38:25.737740+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4494,6 +4494,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -4888,6 +4892,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-27T21:05:00+00:00"
+    },
+    {
+      "title": "Quad9 Blocks Nginx2root.com",
+      "link": "https://quad9.net/?url=nginx2root.com#domain-tester",
+      "summary": "Article URL: https://quad9.net/?url=nginx2root.com#domain-tester\nComments URL: https://news.ycombinator.com/item?id=50671619\nPoints: 7\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T21:03:56+00:00"
     },
     {
       "title": "〈トランプ政権が復帰を後押し〉エヌビディアのフアンCEOに迫る｢政治介入｣と｢統治不全｣のリスク | ビジネス | 東洋経済オンライン",
