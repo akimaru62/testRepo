@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T12:21:37.104289+00:00",
+  "generated_at": "2026-11-28T12:33:55.742772+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4702,9 +4702,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "These tech stocks may let you play defense without giving up on AI",
+      "link": "https://www.marketwatch.com/story/these-tech-stocks-may-let-you-play-defense-without-giving-up-on-ai-523ce26d?mod=mw_rss_topstories",
+      "summary": "Amphenol, CDW, Sensata Technologies and TE Connectivity stood out when an Evercore analyst did a stress test of the hardware-related stocks he covers.",
+      "source": "MarketWatch",
+      "category": "海外金融",
+      "published": "2026-11-28T12:30:00+00:00"
+    },
     {
       "title": "１位鈴木泰成投手と仮契約　「目指すはトップ」―プロ野球ソフトバンク・入団交渉",
       "link": "https://www.jiji.com/jc/article?k=2026112800323&g=spo&m=rss",
