@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T04:05:43.026025+00:00",
+  "generated_at": "2026-11-28T04:19:11.508456+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4558,9 +4558,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "【独自】筑波大、記録申請で不適正行為　非公認施設でハンマー投げ―陸上",
+      "link": "https://www.jiji.com/jc/article?k=2026112701021&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T04:19:06.055671+00:00"
+    },
+    {
+      "title": "中国に禁輸半導体　米エヌビディア製、アリス氏関係―報道",
+      "link": "https://www.jiji.com/jc/article?k=2026112800206&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T04:19:06.055625+00:00"
+    },
+    {
+      "title": "【元付き人が証言】1987年､アントニオ猪木が\"ビッグマッチ\"でも見せない殺気を発した《巌流島の闘い》の意外な顚末 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/964791?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "アントニオ猪木の付き人を務めた大矢剛功氏が語る､スーパースター猪木の素顔と壮絶な舞台裏。厳しさと茶目っ気､糖尿病や離婚問題に苦しみながらも闘い続けた男の真実とは？　巌流島決戦の秘話も交え､伝説の裏側…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-28T04:00:00+00:00"
+    },
     {
       "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
       "link": "https://unkernel.dev",
