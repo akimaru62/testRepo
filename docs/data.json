@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T03:33:17.646462+00:00",
+  "generated_at": "2026-11-28T03:47:35.376775+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4550,9 +4550,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "link": "https://unkernel.dev",
+      "summary": "Article URL: https://unkernel.dev\nComments URL: https://news.ycombinator.com/item?id=50674218\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T03:19:20+00:00"
+    },
     {
       "title": "月収45万円が15万円に…WEBライターが\"ギュられた\"現実　｢AIに奪われやすい職･残りやすい職｣とは何か | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965795?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -7024,6 +7036,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-27T03:11:41+00:00"
+    },
+    {
+      "title": "Citroën Hydraulic System",
+      "link": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+      "summary": "Article URL: https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html\nComments URL: https://news.ycombinator.com/item?id=50662313\nPoints: 145\n# Comments: 50",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T03:10:19+00:00"
     },
     {
       "title": "トヨタ、福岡EV電池工場の建設を3度目の延期　EV需要鈍化で",
