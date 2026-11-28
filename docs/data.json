@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T16:47:14.825093+00:00",
+  "generated_at": "2026-11-28T17:04:17.872151+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4782,6 +4782,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -4952,6 +4956,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-28T13:17:13.524426+00:00"
+    },
+    {
+      "title": "PostgreSQL 18.7 and 19.0: Expression Aggregates 31.6% Slower",
+      "link": "https://thestacksentinel.com/articles/postgresql-18-7-and-19-0-expression-aggregates-31-6-slower-a64ecb0f/",
+      "summary": "Article URL: https://thestacksentinel.com/articles/postgresql-18-7-and-19-0-expression-aggregates-31-6-slower-a64ecb0f/\nComments URL: https://news.ycombinator.com/item?id=50677252\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T13:10:35+00:00"
     },
     {
       "title": "台湾地方選、与党伸長か　９県市長で勝利、台北は敗北",
