@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T18:19:08.186382+00:00",
+  "generated_at": "2026-11-28T18:33:07.937938+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4806,6 +4806,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -4840,6 +4844,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-28T17:12:25+00:00"
+    },
+    {
+      "title": "1984 Hosting services are currently being brought back online",
+      "link": "https://1984.hosting/",
+      "summary": "Article URL: https://1984.hosting/\nComments URL: https://news.ycombinator.com/item?id=50679698\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T17:11:34+00:00"
     },
     {
       "title": "The Russian billionaire with a secret stake in Tether",
