@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T04:19:11.508456+00:00",
+  "generated_at": "2026-11-28T04:33:24.642912+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4562,6 +4562,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -8012,6 +8016,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-26T17:36:47+00:00"
+    },
+    {
+      "title": "First images of the impact of DART asteroid deflection experiment",
+      "link": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "summary": "Article URL: https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/\nComments URL: https://news.ycombinator.com/item?id=50657392\nPoints: 195\n# Comments: 58",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T17:24:37+00:00"
     },
     {
       "title": "Gold Rises But Big Moves Seen as Unlikely for Now",
