@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T16:33:22.721770+00:00",
+  "generated_at": "2026-11-28T16:47:14.825093+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4778,9 +4778,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "If AI takes every job who will buy things?",
+      "link": "https://coryalthoff.com/essays/if-ai-takes-every-job-who-will-buy-things",
+      "summary": "Article URL: https://coryalthoff.com/essays/if-ai-takes-every-job-who-will-buy-things\nComments URL: https://news.ycombinator.com/item?id=50679023\nPoints: 16\n# Comments: 14",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T16:09:11+00:00"
+    },
+    {
+      "title": "Silently degrading the model's capabilities IS sabotage",
+      "link": "https://twitter.com/TimSweeneyEpic/status/2126682647862862063",
+      "summary": "Article URL: https://twitter.com/TimSweeneyEpic/status/2126682647862862063\nComments URL: https://news.ycombinator.com/item?id=50678901\nPoints: 9\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T15:55:54+00:00"
+    },
     {
       "title": "GTA VI writer behind female protagonist deletes X account after online hate",
       "link": "https://www.cbc.ca/lite/story/9.7438910",
