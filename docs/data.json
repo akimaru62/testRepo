@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T11:33:21.477613+00:00",
+  "generated_at": "2026-11-28T11:47:42.024232+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4690,6 +4690,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -4710,12 +4714,28 @@
       "published": "2026-11-28T11:17:37.842127+00:00"
     },
     {
+      "title": "No perfect way to find the love of your life",
+      "link": "https://yappings.mikeluu.xyz/blogs/the-perfect-partner",
+      "summary": "Article URL: https://yappings.mikeluu.xyz/blogs/the-perfect-partner\nComments URL: https://news.ycombinator.com/item?id=50676532\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T11:07:49+00:00"
+    },
+    {
       "title": "柏快勝、２位に浮上　Ｊ１",
       "link": "https://www.jiji.com/jc/article?k=2026112800300&g=spo&m=rss",
       "summary": "",
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-28T10:47:29.224447+00:00"
+    },
+    {
+      "title": "Telegram warns iPhone users of mass hacks; CEO says a website visit may suffice",
+      "link": "https://dev.ua/en/news/durov-1795852825",
+      "summary": "Article URL: https://dev.ua/en/news/durov-1795852825\nComments URL: https://news.ycombinator.com/item?id=50676333\nPoints: 12\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T10:24:43+00:00"
     },
     {
       "title": "けが乗り越えて輝く　若き２人がファイナルへ―ＮＨＫ杯フィギュア・長岡、森口組",
