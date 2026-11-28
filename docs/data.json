@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T20:05:07.042633+00:00",
+  "generated_at": "2026-11-28T20:17:44.684963+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4834,9 +4834,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "1億円超の｢高額所得者｣の割合が高い地域ランキング…\"100人に1人以上\"が1億円超のエリアはどこ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/966237?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "全国で3万8000人に達した｢所得1億円超｣申告者。その割合が高い地域はどこなのでしょうか。国税庁の最新統計をもとに､各税務署ごとに申告者の中で所得1億円超が占める割合を調査。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-28T20:00:00+00:00"
+    },
     {
       "title": "Netanyahu offers Eisenkot first turn as prime minister in grand coalition bid",
       "link": "https://www.ft.com/content/26da81df-9d4c-48d4-b72b-081090948649?syn-25a6b1a6=1",
