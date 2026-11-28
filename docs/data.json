@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T12:07:07.482308+00:00",
+  "generated_at": "2026-11-28T12:21:37.104289+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4698,9 +4698,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "１位鈴木泰成投手と仮契約　「目指すはトップ」―プロ野球ソフトバンク・入団交渉",
+      "link": "https://www.jiji.com/jc/article?k=2026112800323&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T12:21:32.129923+00:00"
+    },
+    {
+      "title": "日中有識者が上海で直接対話　台湾有事発言後で初―言論ＮＰＯ",
+      "link": "https://www.jiji.com/jc/article?k=2026112800314&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T12:21:32.129911+00:00"
+    },
+    {
+      "title": "学校近くで爆発、生徒７人死亡　約１００人負傷、鉱山用爆薬事故―アフガン",
+      "link": "https://www.jiji.com/jc/article?k=2026112800325&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T12:21:32.129875+00:00"
+    },
     {
       "title": "Americans Have More Riding on the Stock Market Than Ever",
       "link": "https://www.wsj.com/world/americans-have-more-riding-on-the-stock-market-than-ever-69846861?mod=rss_markets_main",
