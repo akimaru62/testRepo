@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T13:17:19.311241+00:00",
+  "generated_at": "2026-11-28T13:33:01.957399+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4718,6 +4718,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -4808,6 +4812,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-28T12:02:00+00:00"
+    },
+    {
+      "title": "The outsider from Cannes shaking up France’s presidential race",
+      "link": "https://www.ft.com/content/7f3900c2-bce6-495e-a6c4-e1133a3c46e9?syn-25a6b1a6=1",
+      "summary": "Rightwing mayor David Lisnard has surged in polls with punchy attacks on the bloated state and promises of radical spending cuts",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-28T12:00:03+00:00"
     },
     {
       "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
