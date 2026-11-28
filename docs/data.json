@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T05:05:21.318242+00:00",
+  "generated_at": "2026-11-28T05:18:15.911924+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4574,9 +4574,69 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "鎌田大地、不注意運転で起訴　サッカー",
+      "link": "https://www.jiji.com/jc/article?k=2026112800205&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T05:18:11.390634+00:00"
+    },
+    {
+      "title": "宮城の山中に２遺体　高１女子か、誘拐容疑で男逮捕―身元確認進める・神奈川県警",
+      "link": "https://www.jiji.com/jc/article?k=2026112800022&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T05:18:11.390592+00:00"
+    },
+    {
+      "title": "L.L.Bean 日本支社を閉鎖へ",
+      "link": "https://news.yahoo.co.jp/pickup/6604295?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-28T05:10:18+00:00"
+    },
+    {
+      "title": "Iran hitting same ships twice to deter traffic from Strait of Hormuz",
+      "link": "https://www.ft.com/content/f9c4da80-cc2c-4b0b-b083-b7acd0337790?syn-25a6b1a6=1",
+      "summary": "At least six vessels have been victims of ‘double tapping’ in the past two months",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-28T05:00:41+00:00"
+    },
+    {
+      "title": "‘Only in America’ and other good lies",
+      "link": "https://www.ft.com/content/322f3ecd-f513-45aa-9b2f-adf63e104638?syn-25a6b1a6=1",
+      "summary": "Diverse societies need noble myths to keep them whole",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-28T05:00:32+00:00"
+    },
+    {
+      "title": "Pedro Sánchez: the partisan warrior fighting to the last",
+      "link": "https://www.ft.com/content/ad9ff980-d165-42ef-8c74-4ff5acabe09a?syn-25a6b1a6=1",
+      "summary": "Spain’s socialist prime minister is a political survivor — but anger over migration and housing could mark the end of his tenure",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-28T05:00:32+00:00"
+    },
+    {
+      "title": "AI agents are coming for big business",
+      "link": "https://www.ft.com/content/c9de05b8-0916-436a-87fc-40337067b0d2?syn-25a6b1a6=1",
+      "summary": "The technology could unleash much greater competition. But users are wary of giving away too much",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-28T05:00:14+00:00"
+    },
     {
       "title": "「ゆで太郎」会員制度やめた理由",
       "link": "https://news.yahoo.co.jp/pickup/6604290?source=rss",
