@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T07:05:27.829403+00:00",
+  "generated_at": "2026-11-28T07:17:56.614274+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4610,9 +4610,45 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "正恩氏、近く訪中か　情報機関「動向を注視」―韓国報道",
+      "link": "https://www.jiji.com/jc/article?k=2026112800238&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T07:17:51.036159+00:00"
+    },
+    {
+      "title": "伊藤大海、カブスと契約合意　２５年沢村賞、最多勝２度―米大リーグ",
+      "link": "https://www.jiji.com/jc/article?k=2026112800210&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T07:17:51.036144+00:00"
+    },
+    {
+      "title": "阪神、中川圭太を獲得　オリックスからＦＡ―プロ野球",
+      "link": "https://www.jiji.com/jc/article?k=2026112800246&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T07:17:51.036128+00:00"
+    },
+    {
+      "title": "政党収入さまざま、グッズ販売・ＹｏｕＴｕｂｅ広告・動画講座　個人収入にはオンラインサロンや同人誌販売も―収支報告書",
+      "link": "https://www.jiji.com/jc/article?k=2026112800080&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T07:17:51.036082+00:00"
+    },
     {
       "title": "宮城の山中に２遺体　１人は不明高１女子か―誘拐疑いで３３歳男逮捕・神奈川県警",
       "link": "https://www.jiji.com/jc/article?k=2026112800022&g=soc&m=rss",
