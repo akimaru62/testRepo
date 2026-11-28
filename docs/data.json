@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T01:47:30.123857+00:00",
+  "generated_at": "2026-11-28T02:07:03.067990+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4522,9 +4522,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "〈書評〉『知能爆発』『世界地図と地球の時間 グリニッジ標準時と本初子午線』『昭和史の道を往く』 | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965943?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "経営者､ビジネスパーソンのための東洋経済書評。今回の3冊は『知能爆発 AIの次に来るAGIとは何か､そして人類に何が起きるのか』（bioshok 有路翔太 著）､『世界地図と地球の時間 グリニッジ標…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-28T02:00:00+00:00"
+    },
+    {
+      "title": "外食プロのテク応用！缶詰なのに凄いフレッシュ感､下ごしらえ不要でお店レベルに…｢至高のサバ缶パスタ｣超簡単レシピ | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965830?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "年末に向かう忙しい時期､手間なく美味しい料理を作りたい方におすすめなのが｢サバ缶｣を使ったパスタです。缶詰の栄養と手軽さに､ある食材を組み合わせれば､驚くほど満足度の高い一皿に。外食のプロも実践する…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-28T02:00:00+00:00"
+    },
+    {
+      "title": "Americans Are More Exposed to the Stock Market Than Ever Before",
+      "link": "https://www.wsj.com/finance/stocks/us-stock-market-wealth-0caf5bac?mod=rss_markets_main",
+      "summary": "A wave of investment in U.S. stock funds has continued even during a dizzying market downturn.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-28T02:00:00+00:00"
+    },
     {
       "title": "南海フェリー 撤退回避の壁高く",
       "link": "https://news.yahoo.co.jp/pickup/6604277?source=rss",
@@ -4548,6 +4576,14 @@
       "source": "Yahoo!経済トピックス",
       "category": "編集部厳選",
       "published": "2026-11-28T01:34:03+00:00"
+    },
+    {
+      "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+      "link": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "summary": "Article URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai\nComments URL: https://news.ycombinator.com/item?id=50673521\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T01:32:56+00:00"
     },
     {
       "title": "Alaska seized his plane over some beers. He is asking the Supreme Court for help",
