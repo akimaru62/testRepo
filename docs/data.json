@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T18:47:53.982221+00:00",
+  "generated_at": "2026-11-28T19:04:02.391120+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4814,6 +4814,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -4824,6 +4828,14 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-28T18:05:51+00:00"
+    },
+    {
+      "title": "5.0 Earthquake West of LA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41581136/executive",
+      "summary": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/ci41581136/executive\nComments URL: https://news.ycombinator.com/item?id=50680175\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T17:53:53+00:00"
     },
     {
       "title": "Donald Knuth suspends error bounties due to an influx of AI-generated reports",
