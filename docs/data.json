@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T09:47:46.350592+00:00",
+  "generated_at": "2026-11-28T10:05:19.360898+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4658,9 +4658,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "千葉百音２位、ファイナルへ　長岡柚奈、森口澄士組２位―ＮＨＫ杯フィギュア",
+      "link": "https://www.jiji.com/jc/article?k=2026112800257&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T10:05:15.619952+00:00"
+    },
+    {
+      "title": "Long-Term-Care Insurance Promised Them Peace of Mind. It Became a Nightmare.",
+      "link": "https://www.wsj.com/personal-finance/long-term-care-insurance-is-it-worth-it-d1e9f610?mod=rss_markets_main",
+      "summary": "The policies were pitched as a salve for aging Americans worried about care costs. Except many insurers flubbed the math.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-28T10:00:00+00:00"
+    },
     {
       "title": "エヌビディア先端半導体、輸出禁止の中国のデータセンターに　米報道",
       "link": "https://www.asahi.com/articles/ASVCX2FKYVCXKJHL007M.html?ref=rss",
