@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T19:04:02.391120+00:00",
+  "generated_at": "2026-11-28T19:17:47.227230+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4818,6 +4818,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -7292,6 +7296,14 @@
       "source": "朝日新聞 経済",
       "category": "報道機関",
       "published": "2026-11-27T10:05:16.605387+00:00"
+    },
+    {
+      "title": "He Lost His Wife—Then Devised an Estate-Planning Fix Anyone Can Do",
+      "link": "https://www.wsj.com/personal-finance/death-box-estate-planning-b1c9c7d8?mod=rss_markets_main",
+      "summary": "Grieving heirs often find themselves chasing down critical family information when their loved ones die. Enter the “death box.”",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-27T10:00:00+00:00"
     },
     {
       "title": "Hollywood Hills home of the late Presley Gerber listed for $3.6 million, 2 months after his death",
