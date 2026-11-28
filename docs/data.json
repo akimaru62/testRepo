@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T07:33:07.269917+00:00",
+  "generated_at": "2026-11-28T07:47:27.632166+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4618,6 +4618,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -8268,6 +8272,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-26T17:21:14+00:00"
+    },
+    {
+      "title": "The Balatro Timeline",
+      "link": "https://localthunk.com/blog/balatro-timeline-3aarh",
+      "summary": "Article URL: https://localthunk.com/blog/balatro-timeline-3aarh\nComments URL: https://news.ycombinator.com/item?id=50657346\nPoints: 271\n# Comments: 62",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-26T17:20:27+00:00"
     },
     {
       "title": "Tracking Diseases Cured by AI",
