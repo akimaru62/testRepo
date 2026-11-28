@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T06:08:10.997362+00:00",
+  "generated_at": "2026-11-28T06:25:19.971266+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4594,9 +4594,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "台湾当局「中国に幻想抱くな」　交流後に軍事演習",
+      "link": "https://www.jiji.com/jc/article?k=2025122900583&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T06:25:15.635417+00:00"
+    },
+    {
+      "title": "台湾地方選、与党伸長か　２２県市長で台北焦点",
+      "link": "https://www.jiji.com/jc/article?k=2026112800103&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T06:25:15.635372+00:00"
+    },
     {
       "title": "鎌田大地、不注意運転で起訴　サッカー",
       "link": "https://www.jiji.com/jc/article?k=2026112800205&g=soc&m=rss",
