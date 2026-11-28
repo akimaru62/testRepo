@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T02:33:21.899039+00:00",
+  "generated_at": "2026-11-28T02:47:36.267310+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4534,9 +4534,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "美容クリーム誤認表示疑い 返金へ",
+      "link": "https://news.yahoo.co.jp/pickup/6604282?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-28T02:33:42+00:00"
+    },
     {
       "title": "米オープンＡＩ、アップル側を反訴　製品開発に圧力",
       "link": "https://www.jiji.com/jc/article?k=2026112800181&g=int&m=rss",
@@ -4552,6 +4564,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-28T02:22:14.818375+00:00"
+    },
+    {
+      "title": "Atari Homebrew Awards Cancelled",
+      "link": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+      "summary": "Article URL: https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/\nComments URL: https://news.ycombinator.com/item?id=50673688\nPoints: 16\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T02:03:25+00:00"
     },
     {
       "title": "〈書評〉『知能爆発』『世界地図と地球の時間 グリニッジ標準時と本初子午線』『昭和史の道を往く』 | ライフ | 東洋経済オンライン",
