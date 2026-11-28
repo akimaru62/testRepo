@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T12:47:17.888007+00:00",
+  "generated_at": "2026-11-28T13:04:38.996496+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4710,9 +4710,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "台湾地方選、与党伸長か　９県市長で勝利、台北は敗北",
+      "link": "https://www.jiji.com/jc/article?k=2026112800305&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T13:04:34.289992+00:00"
+    },
     {
       "title": "学校近くで爆発、生徒ら１０人死亡　１１０人負傷、鉱山用爆薬事故か―アフガン",
       "link": "https://www.jiji.com/jc/article?k=2026112800325&g=int&m=rss",
@@ -4720,6 +4732,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-28T12:47:12.939423+00:00"
+    },
+    {
+      "title": "AnthropicAI posted a fraudulent proof of RH",
+      "link": "https://twitter.com/QualiaQuanta/status/2126158001035768256",
+      "summary": "Article URL: https://twitter.com/QualiaQuanta/status/2126158001035768256\nComments URL: https://news.ycombinator.com/item?id=50677014\nPoints: 5\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T12:36:46+00:00"
     },
     {
       "title": "These tech stocks may let you play defense without giving up on AI",
