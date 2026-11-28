@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T14:47:38.628688+00:00",
+  "generated_at": "2026-11-28T15:04:52.408753+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4746,9 +4746,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "台湾地方選で民進党が勢力を回復､台北･新北を守った国民党の底力――2028年総統選に向けた新たな勢力図 | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/966251?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "台湾の統一地方選挙は､民進党の巻き返しと国民党の底力が鮮明となる結果となりました。6大都市では3勝3敗と両党が拮抗し､民進党は首長ポストを前回から大きく回復。2028年の総統選へ､台湾の政治勢力図は…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-28T15:00:00+00:00"
+    },
+    {
+      "title": "Physics Breakthrough Simulator",
+      "link": "https://pages.ethanmdavidson.com/ai-physics-breakthrough",
+      "summary": "Article URL: https://pages.ethanmdavidson.com/ai-physics-breakthrough\nComments URL: https://news.ycombinator.com/item?id=50678273\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T14:52:45+00:00"
+    },
     {
       "title": "巻き返した中田　ＮＨＫ杯フィギュア",
       "link": "https://www.jiji.com/jc/article?k=2026112800356&g=spo&m=rss",
@@ -4782,6 +4802,22 @@
       "published": "2026-11-28T14:17:34.623529+00:00"
     },
     {
+      "title": "Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run",
+      "link": "https://github.com/RiccardoSottini/AffrescoUI",
+      "summary": "Article URL: https://github.com/RiccardoSottini/AffrescoUI\nComments URL: https://news.ycombinator.com/item?id=50677861\nPoints: 12\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T14:09:39+00:00"
+    },
+    {
+      "title": "The AI-designed USB-C LTE Modem is built, and it makes calls",
+      "link": "https://koppar.ai/blog/lte-modem-bring-up/",
+      "summary": "Article URL: https://koppar.ai/blog/lte-modem-bring-up/\nComments URL: https://news.ycombinator.com/item?id=50677822\nPoints: 13\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T14:06:19+00:00"
+    },
+    {
       "title": "FCC approves 1M SpaceX data centers in space. Astronomers are dismayed",
       "link": "https://www.washingtonpost.com/technology/2026/11/26/fcc-approves-1-million-spacex-data-centers-space-astronomers-are-dismayed/",
       "summary": "Article URL: https://www.washingtonpost.com/technology/2026/11/26/fcc-approves-1-million-spacex-data-centers-space-astronomers-are-dismayed/\nComments URL: https://news.ycombinator.com/item?id=50677340\nPoints: 8\n# Comments: 5",
@@ -4793,6 +4829,14 @@
       "title": "IBM MVS 3.8 Community Edition (52-year old OS)",
       "link": "https://github.com/MVS-sysgen/sysgen",
       "summary": "Article URL: https://github.com/MVS-sysgen/sysgen\nComments URL: https://news.ycombinator.com/item?id=50677302\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T13:17:39+00:00"
+    },
+    {
+      "title": "IBM MVS 3.8j Community Edition (52-year old OS)",
+      "link": "https://github.com/MVS-sysgen/sysgen",
+      "summary": "Article URL: https://github.com/MVS-sysgen/sysgen\nComments URL: https://news.ycombinator.com/item?id=50677302\nPoints: 13\n# Comments: 1",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-28T13:17:39+00:00"
