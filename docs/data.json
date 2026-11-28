@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T15:04:52.408753+00:00",
+  "generated_at": "2026-11-28T15:17:34.907759+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4750,9 +4750,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "ロッテ、１位米沢と仮契約　目標は１０勝、新人王―プロ野球・入団交渉",
+      "link": "https://www.jiji.com/jc/article?k=2026112800309&g=bsb&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T15:17:29.084016+00:00"
+    },
+    {
+      "title": "マリニン、柔軟に　ＮＨＫ杯フィギュア",
+      "link": "https://www.jiji.com/jc/article?k=2026112800360&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T15:17:29.083998+00:00"
+    },
+    {
+      "title": "千葉百音、２位も納得　転倒後も集中保つ―ＮＨＫ杯フィギュア",
+      "link": "https://www.jiji.com/jc/article?k=2026112800324&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T15:17:29.083958+00:00"
+    },
     {
       "title": "台湾地方選で民進党が勢力を回復､台北･新北を守った国民党の底力――2028年総統選に向けた新たな勢力図 | 政治・経済・投資 | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/966251?utm_source=rss&utm_medium=http&utm_campaign=link_back",
