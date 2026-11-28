@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T10:05:19.360898+00:00",
+  "generated_at": "2026-11-28T10:17:25.576900+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4662,9 +4662,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "けが乗り越えて輝く　若き２人がファイナルへ―ＮＨＫ杯フィギュア・長岡、森口組",
+      "link": "https://www.jiji.com/jc/article?k=2026112800290&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T10:17:21.286065+00:00"
+    },
+    {
+      "title": "銚子のサバ加工ピンチ 6社が倒産",
+      "link": "https://news.yahoo.co.jp/pickup/6604326?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-28T10:13:34+00:00"
+    },
     {
       "title": "千葉百音２位、ファイナルへ　長岡柚奈、森口澄士組２位―ＮＨＫ杯フィギュア",
       "link": "https://www.jiji.com/jc/article?k=2026112800257&g=spo&m=rss",
