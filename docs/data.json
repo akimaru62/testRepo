@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T12:33:55.742772+00:00",
+  "generated_at": "2026-11-28T12:47:17.888007+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4706,9 +4706,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "学校近くで爆発、生徒ら１０人死亡　１１０人負傷、鉱山用爆薬事故か―アフガン",
+      "link": "https://www.jiji.com/jc/article?k=2026112800325&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T12:47:12.939423+00:00"
+    },
     {
       "title": "These tech stocks may let you play defense without giving up on AI",
       "link": "https://www.marketwatch.com/story/these-tech-stocks-may-let-you-play-defense-without-giving-up-on-ai-523ce26d?mod=mw_rss_topstories",
@@ -4748,6 +4760,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-28T12:02:00+00:00"
+    },
+    {
+      "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+      "link": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+      "summary": "Article URL: https://malspark.com/blog/malicious-gguf-models-hugging-face/\nComments URL: https://news.ycombinator.com/item?id=50676752\nPoints: 5\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T11:57:04+00:00"
     },
     {
       "title": "Farewell",
@@ -4836,6 +4856,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-28T10:00:00+00:00"
+    },
+    {
+      "title": "Diablo II",
+      "link": "https://www.filfre.net/2026/11/diablo-ii/",
+      "summary": "Article URL: https://www.filfre.net/2026/11/diablo-ii/\nComments URL: https://news.ycombinator.com/item?id=50676199\nPoints: 3\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T09:54:19+00:00"
     },
     {
       "title": "エヌビディア先端半導体、輸出禁止の中国のデータセンターに　米報道",
