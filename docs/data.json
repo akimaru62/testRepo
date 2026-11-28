@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T10:17:25.576900+00:00",
+  "generated_at": "2026-11-28T10:33:20.855797+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4666,6 +4666,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -4676,6 +4680,14 @@
       "source": "時事通信",
       "category": "報道機関",
       "published": "2026-11-28T10:17:21.286065+00:00"
+    },
+    {
+      "title": "Israeli strike kills two Médecins Sans Frontières workers in Gaza",
+      "link": "https://www.ft.com/content/b50e55af-58a3-452b-a282-4d4be735229c?syn-25a6b1a6=1",
+      "summary": "Medical charity calls for accountability as Israeli military claims men were involved in Hamas",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-28T10:14:12+00:00"
     },
     {
       "title": "銚子のサバ加工ピンチ 6社が倒産",
