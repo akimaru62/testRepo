@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T06:48:04.918999+00:00",
+  "generated_at": "2026-11-28T07:05:27.829403+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4606,9 +4606,37 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "宮城の山中に２遺体　１人は不明高１女子か―誘拐疑いで３３歳男逮捕・神奈川県警",
+      "link": "https://www.jiji.com/jc/article?k=2026112800022&g=soc&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T07:05:23.069663+00:00"
+    },
+    {
+      "title": "デノミに強い意欲を見せた歴代蔵相たち､水田三喜男も愛知揆一も極秘裏に準備していた　デノミの幻影⑤ | 政治・経済・投資 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965947?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "1970年代､日本の財政政策の裏側でひそかに進行していた｢デノミ計画｣。水田蔵相や愛知蔵相らが極秘裏に意欲を燃やしながらも､そのたびに首相の判断や他閣僚の発言で挫折してきた背景には､知られざるドラマ…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-28T07:00:00+00:00"
+    },
+    {
+      "title": "豊かになっても長時間働き続ける人々…AIが生み出す富を何に向けるのか 『じゅうぶん豊かで､貧しい社会』を読む（下） | ライフ | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965944?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ビジネスに効く名著のエッセンスを識者がコンパクトに解説。今回は､『じゅうぶん豊かで､貧しい社会 理念なき資本主義の末路』（ロバート･スキデルスキー､エドワード･スキデルスキー 著）を河野龍太郎氏が読…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-28T07:00:00+00:00"
+    },
     {
       "title": "台湾当局「中国に幻想抱くな」　交流後に軍事演習",
       "link": "https://www.jiji.com/jc/article?k=2025122900583&g=int&m=rss",
@@ -4680,6 +4708,22 @@
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-28T05:00:32+00:00"
+    },
+    {
+      "title": "The mathematicians living through an AI revolution",
+      "link": "https://www.ft.com/content/f27646d1-d8f2-4592-8d0e-bcce6c6da061?syn-25a6b1a6=1",
+      "summary": "Startling digitally assisted discoveries have raised questions about the future of human experts in the field",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-28T05:00:32+00:00"
+    },
+    {
+      "title": "Five US multinationals pay more tax to Ireland than anywhere else",
+      "link": "https://www.ft.com/content/ec489542-0968-45d7-9dd7-985ad679f9b2?syn-25a6b1a6=1",
+      "summary": "New analysis highlights the extent to which Dublin has become ‘the tax office of corporate America’",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-28T05:00:15+00:00"
     },
     {
       "title": "AI agents are coming for big business",
