@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T23:47:31.768262+00:00",
+  "generated_at": "2026-11-28T00:12:39.246499+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4490,9 +4490,85 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "４道府県、副首都指定へ準備加速　メリット不透明に戸惑いも",
+      "link": "https://www.jiji.com/jc/article?k=2026112700720&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T00:12:34.434561+00:00"
+    },
+    {
+      "title": "土石流後の人身売買警戒　過去災害受け増加、ネパールＮＧＯ幹部",
+      "link": "https://www.jiji.com/jc/article?k=2026112700913&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T00:12:34.434544+00:00"
+    },
+    {
+      "title": "薄氷の問責否決、火種消えず　与党にも批判、野党追及継続―減税・定数巡り攻防激化へ",
+      "link": "https://www.jiji.com/jc/article?k=2026112700938&g=pol&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T00:12:34.434496+00:00"
+    },
+    {
+      "title": "西友 トライアル西友に変え客数増",
+      "link": "https://news.yahoo.co.jp/pickup/6604267?source=rss",
+      "summary": "",
+      "source": "Yahoo!経済トピックス",
+      "category": "編集部厳選",
+      "published": "2026-11-28T00:11:18+00:00"
+    },
+    {
+      "title": "編集部厳選､注目の経済ニュース！【11月28日】 今週のトピックス＆来週のスケジュール | ビジネス | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/966182?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "東洋経済オンライン有料会員の皆様に､注目のスケジュールやトピックスをお届けします。",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-28T00:00:00+00:00"
+    },
+    {
+      "title": "4割超が｢管理職やめたい｣…限界迎えるミドルの重荷を下ろす､日揮の\"部長職3人分担\"に三井住友海上の\"アシマネ\"制度 | キャリア・教育 | 東洋経済オンライン",
+      "link": "https://toyokeizai.net/articles/-/965730?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+      "summary": "ビジネス環境が激変し､管理職の業務負担は今や限界に迫っています。プレイヤー業務に加え､部下の育成やハラスメント対応まで求められる中､心身の疲弊を訴える声が急増。管理職の燃え尽きと組織の機能不全を回避…",
+      "source": "東洋経済オンライン",
+      "category": "経済専門メディア",
+      "published": "2026-11-28T00:00:00+00:00"
+    },
+    {
+      "title": "JPMorgan Plans a Private Club for Well-Heeled Clients in a 1930s Branch",
+      "link": "https://www.wsj.com/finance/banking/jpmorgan-plans-a-private-club-for-well-heeled-clients-in-a-1930s-branch-c609a03c?mod=rss_markets_main",
+      "summary": "The mansion-like historic structure is being renovated for lounges and a dining room, kitchen and bar, city documents show.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-28T00:00:00+00:00"
+    },
+    {
+      "title": "Citigroup’s $35 Billion Bookkeeping Snafu Sparks Shake-Up in Upper Ranks",
+      "link": "https://www.wsj.com/finance/banking/citigroups-35-billion-bookkeeping-snafu-sparks-shake-up-in-upper-ranks-71d8afe9?mod=rss_markets_main",
+      "summary": "Several London-based executives are leaving the bank, and a top risk official is overseeing the cleanup from the trading hub.",
+      "source": "WSJ マーケット",
+      "category": "海外金融",
+      "published": "2026-11-28T00:00:00+00:00"
+    },
+    {
+      "title": "Why drivers want cheap, dumb cars again",
+      "link": "https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html",
+      "summary": "Article URL: https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html\nComments URL: https://news.ycombinator.com/item?id=50672762\nPoints: 21\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T23:39:15+00:00"
+    },
     {
       "title": "｢地理選択ってダメなの？｣【偏差値35】から東大に合格した僕がそれでも言いたい\"地理の凄み  \" | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965737?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -4556,6 +4632,22 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-27T23:15:00+00:00"
+    },
+    {
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/\nComments URL: https://news.ycombinator.com/item?id=50672565\nPoints: 6\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T23:06:29+00:00"
+    },
+    {
+      "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+      "link": "https://tabernet.es/",
+      "summary": "Article URL: https://tabernet.es/\nComments URL: https://news.ycombinator.com/item?id=50672521\nPoints: 10\n# Comments: 3",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T23:00:30+00:00"
     },
     {
       "title": "台北市長選｢民主主義の祭り｣は市民生活の迷惑なのか､沈伯洋の異例の前夜祭中止で問われる台湾の熱狂的な選挙文化 | 政治・経済・投資 | 東洋経済オンライン",
