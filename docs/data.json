@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T13:33:01.957399+00:00",
+  "generated_at": "2026-11-28T13:47:30.756775+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4722,6 +4722,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -4828,6 +4832,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-28T11:57:04+00:00"
+    },
+    {
+      "title": "Audible removes download option for purchased audiobooks",
+      "link": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
+      "summary": "Article URL: https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks\nComments URL: https://news.ycombinator.com/item?id=50676723\nPoints: 11\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T11:51:27+00:00"
     },
     {
       "title": "Farewell",
