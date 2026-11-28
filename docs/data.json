@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T02:07:03.067990+00:00",
+  "generated_at": "2026-11-28T02:22:19.757344+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4526,9 +4526,29 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "米オープンＡＩ、アップル側を反訴　製品開発に圧力",
+      "link": "https://www.jiji.com/jc/article?k=2026112800181&g=int&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T02:22:14.818420+00:00"
+    },
+    {
+      "title": "日本、３位で決勝Ｔへ　Ｕ１７Ｗ杯サッカー",
+      "link": "https://www.jiji.com/jc/article?k=2026112800184&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T02:22:14.818375+00:00"
+    },
     {
       "title": "〈書評〉『知能爆発』『世界地図と地球の時間 グリニッジ標準時と本初子午線』『昭和史の道を往く』 | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/965943?utm_source=rss&utm_medium=http&utm_campaign=link_back",
