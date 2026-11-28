@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T20:17:44.684963+00:00",
+  "generated_at": "2026-11-28T20:32:55.425548+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4838,9 +4838,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "Gmail \"Send as\" ends January 2027",
+      "link": "https://emailfa.st/blog/gmail-send-as-ending-cloudflare-email-routing",
+      "summary": "Article URL: https://emailfa.st/blog/gmail-send-as-ending-cloudflare-email-routing\nComments URL: https://news.ycombinator.com/item?id=50681509\nPoints: 11\n# Comments: 0",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T20:07:37+00:00"
+    },
     {
       "title": "1億円超の｢高額所得者｣の割合が高い地域ランキング…\"100人に1人以上\"が1億円超のエリアはどこ | ライフ | 東洋経済オンライン",
       "link": "https://toyokeizai.net/articles/-/966237?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -4848,6 +4860,14 @@
       "source": "東洋経済オンライン",
       "category": "経済専門メディア",
       "published": "2026-11-28T20:00:00+00:00"
+    },
+    {
+      "title": "Show HN: I spent $715 on Fable 5.2 tokens to make this painting from code",
+      "link": "https://elliotbonneville.com/a-715-painting/",
+      "summary": "Article URL: https://elliotbonneville.com/a-715-painting/\nComments URL: https://news.ycombinator.com/item?id=50681407\nPoints: 14\n# Comments: 4",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T19:55:00+00:00"
     },
     {
       "title": "Netanyahu offers Eisenkot first turn as prime minister in grand coalition bid",
@@ -4877,6 +4897,14 @@
       "title": "Patrick Collison you are WRONG about street furniture!!!",
       "link": "https://www.lesswrong.com/posts/Lf49dFMfhWqj33zAJ/patrick-collison-you-are-wrong-about-street-furniture",
       "summary": "Article URL: https://www.lesswrong.com/posts/Lf49dFMfhWqj33zAJ/patrick-collison-you-are-wrong-about-street-furniture\nComments URL: https://news.ycombinator.com/item?id=50680129\nPoints: 22\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T17:49:13+00:00"
+    },
+    {
+      "title": "Patrick Collison you are wrong about street furniture!",
+      "link": "https://www.lesswrong.com/posts/Lf49dFMfhWqj33zAJ/patrick-collison-you-are-wrong-about-street-furniture",
+      "summary": "Article URL: https://www.lesswrong.com/posts/Lf49dFMfhWqj33zAJ/patrick-collison-you-are-wrong-about-street-furniture\nComments URL: https://news.ycombinator.com/item?id=50680129\nPoints: 96\n# Comments: 78",
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-28T17:49:13+00:00"
