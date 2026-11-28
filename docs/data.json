@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T18:33:07.937938+00:00",
+  "generated_at": "2026-11-28T18:47:53.982221+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4810,6 +4810,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -4828,6 +4832,14 @@
       "source": "Hacker News",
       "category": "テクノロジー",
       "published": "2026-11-28T17:53:02+00:00"
+    },
+    {
+      "title": "Patrick Collison you are WRONG about street furniture!!!",
+      "link": "https://www.lesswrong.com/posts/Lf49dFMfhWqj33zAJ/patrick-collison-you-are-wrong-about-street-furniture",
+      "summary": "Article URL: https://www.lesswrong.com/posts/Lf49dFMfhWqj33zAJ/patrick-collison-you-are-wrong-about-street-furniture\nComments URL: https://news.ycombinator.com/item?id=50680129\nPoints: 22\n# Comments: 5",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-28T17:49:13+00:00"
     },
     {
       "title": "The race is not inevitable",
