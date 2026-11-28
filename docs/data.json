@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T05:18:15.911924+00:00",
+  "generated_at": "2026-11-28T05:33:29.626997+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4578,6 +4578,10 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
@@ -4609,6 +4613,14 @@
       "title": "Iran hitting same ships twice to deter traffic from Strait of Hormuz",
       "link": "https://www.ft.com/content/f9c4da80-cc2c-4b0b-b083-b7acd0337790?syn-25a6b1a6=1",
       "summary": "At least six vessels have been victims of ‘double tapping’ in the past two months",
+      "source": "Financial Times",
+      "category": "海外金融",
+      "published": "2026-11-28T05:00:41+00:00"
+    },
+    {
+      "title": "US military repelled drones at RAF base",
+      "link": "https://www.ft.com/content/57795d58-2b9e-45cb-81e3-6c63aee434a4?syn-25a6b1a6=1",
+      "summary": "New details emerge about incident at RAF Lakenheath in Suffolk earlier this month",
       "source": "Financial Times",
       "category": "海外金融",
       "published": "2026-11-28T05:00:41+00:00"
@@ -5868,6 +5880,14 @@
       "source": "MarketWatch",
       "category": "海外金融",
       "published": "2026-11-27T13:45:00+00:00"
+    },
+    {
+      "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
+      "link": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
+      "summary": "Article URL: https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona\nComments URL: https://news.ycombinator.com/item?id=50666724\nPoints: 3\n# Comments: 2",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T13:30:20+00:00"
     },
     {
       "title": "Renters are now a national political constituency that can influence elections",
