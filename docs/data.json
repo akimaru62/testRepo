@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T01:18:50.512653+00:00",
+  "generated_at": "2026-11-28T01:34:25.905826+00:00",
   "sources": [
     {
       "name": "NHK 経済",
@@ -4514,9 +4514,21 @@
     {
       "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
       "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    {
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+      "error": "403 Client Error: Forbidden for url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
     }
   ],
   "items": [
+    {
+      "title": "高橋光成投手、Ｄバックスと合意　西武から海外ＦＡ―米大リーグ",
+      "link": "https://www.jiji.com/jc/article?k=2026112800169&g=spo&m=rss",
+      "summary": "",
+      "source": "時事通信",
+      "category": "報道機関",
+      "published": "2026-11-28T01:34:19.496843+00:00"
+    },
     {
       "title": "高橋光成投手、Ｄバックスと合意　西武からＦＡ―米大リーグ",
       "link": "https://www.jiji.com/jc/article?k=2026112800169&g=spo&m=rss",
@@ -4604,6 +4616,14 @@
       "source": "WSJ マーケット",
       "category": "海外金融",
       "published": "2026-11-28T00:00:00+00:00"
+    },
+    {
+      "title": "Passkey blues",
+      "link": "https://ssg.dev/passkey-blues/",
+      "summary": "Article URL: https://ssg.dev/passkey-blues/\nComments URL: https://news.ycombinator.com/item?id=50672835\nPoints: 8\n# Comments: 1",
+      "source": "Hacker News",
+      "category": "テクノロジー",
+      "published": "2026-11-27T23:51:28+00:00"
     },
     {
       "title": "Painting 1990s anime scenes in Python",
